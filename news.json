@@ -1,39 +1,45 @@
 {
- "updated": "2026-10-17T21:22:27.093Z",
+ "updated": "2026-10-17T22:21:44.744Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
+     "brief": "Two people were killed and multiple others were injured when a vehicle drove onto a field during a soccer game at a sports complex in Wichita, Kansas, on Saturday, authorities said.",
+     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
+     "published": "2026-10-17T22:21:44.937Z"
+    },
+    {
+     "title": "It took just 3 minutes. How the Bend school shooting unfolded",
+     "brief": "On a sunny Oregon fall morning, parents dressed their children up and sent them to Silver Rail Elementary School for picture day.",
+     "link": "https://www.cnn.com/2026/10/17/us/bend-oregon-school-shooting-how-it-unfolded",
+     "published": "2026-10-17T22:19:44.951Z"
+    },
+    {
      "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
      "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
      "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
-     "published": "2026-10-17T21:22:27.346Z"
+     "published": "2026-10-17T22:17:44.997Z"
     },
     {
      "title": "Man shot and killed on subway platform in midtown Manhattan after argument",
      "brief": "New York (AP) — An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted.",
      "link": "https://www.cnn.com/2026/10/17/us/nyc-subway-shooting-midtown",
-     "published": "2026-10-17T21:20:27.355Z"
+     "published": "2026-10-17T22:16:44.994Z"
     },
     {
      "title": "Half a million protesters sweep France in major show of youth unrest",
      "brief": "Clouds of tear gas fired by police filled the streets of Paris on Saturday, as anti-government protests stretched beyond the French capital.",
      "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
-     "published": "2026-10-17T21:18:27.371Z"
+     "published": "2026-10-17T22:15:44.960Z"
     },
     {
      "title": "Israeli settlers attack group of European diplomats in the occupied West Bank",
      "brief": "Israeli settlers attacked a group of European diplomats in the occupied West Bank on Saturday, one day after a Washington Post journalist was injured in another assault.",
      "link": "https://www.cnn.com/2026/10/17/middleeast/west-bank-diplomats-attacked-intl",
-     "published": "2026-10-17T21:17:27.375Z"
-    },
-    {
-     "title": "Six Flags Over Georgia reopens amid tensions and questions in the wake of fatal roller coaster incident",
-     "brief": "It looked like a typical October evening at Six Flags Over Georgia.",
-     "link": "https://www.cnn.com/2026/10/17/us/six-flags-georgia-reopens-amid-investigation",
-     "published": "2026-10-17T21:15:27.364Z"
+     "published": "2026-10-17T22:14:44.985Z"
     },
     {
      "title": "Washington Post journalist hospitalized after Israeli settler attack on Palestinian olive harvest in West Bank",
@@ -46,12 +52,6 @@
      "brief": "US President Donald Trump has waived a further slate of sanctions related to Russian fossil fuel sales, days before they were to take effect under a bill he signed into law last month.",
      "link": "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk",
      "published": "2026-10-16T12:00:00.000Z"
-    },
-    {
-     "title": "New wildfire in Southern California explodes in size, burning multiple homes",
-     "brief": "A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday, county officials said.",
-     "link": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
-     "published": "2026-10-16T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Boxing: Boxing-Dubois stops Wardley in second round to retain WBO heavyweight title",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWhlRDlIcTNqOS15UE1QTUZSWHIwTV9ORHYzUUloZlF6RjVFNzZTR1d3ck1yekQweDNmU1pVdTJlN21LTXZ2UUtMNFAtTW9NRjctZ2J0MUxraTBfM1FpMkI0VDJjYWo4TTdSb0tXeUdRd18xcnZoLVA2M3FsWFg2WXhoOXVJTkhHWXYwQU51SFF1aFRxVlgwY2xtNlRfRExNVENaY01hZmpnRTNxSE1hT3hrejJjUDBJX2UtelpDWDlSOExo?oc=5",
+     "published": "2026-10-17T22:11:00.000Z"
+    },
+    {
+     "title": "Saudi Arabia extends remote learning in Riyadh through Oct. 22",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEhYMHljeS1xeG5EU3IxMU9XUkNnT1FaSGNrU0hJZE1JYXE1TzNZbG1ialFzNzN0Ylo5a0ZGSTZpMzNvbXFWZzJDbVJsbVlJLWMzYno2RDkxUWVsUHpRbUFXQk9TTHNyVndwbzZUbFJaWUFvNEZONDlFRXc0UF9SbTVSZndkdkozUEtnbU0xYUVBejZJM0htWnZNck83NDJrT0VNVnU5b1lMNWlhV0I4?oc=5",
+     "published": "2026-10-17T22:02:00.000Z"
+    },
+    {
+     "title": "1st LD: 17 killed, 35 injured in stampede in eastern India",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHo4ZmtzTGdkNEF4dEZmMzF5amNwSW0zaG1rN1JwanJGczhlM2dPYjdyUE85WTVBUGhtbWM0dXlTUG9qaXJoamxyTEg1OXZiMlh3NUtRZE9PY0ZCdDJwc250RFdOcXJSNUhEa2stMDItbl8zaGdzeV9CWjg1RVhEYW55eWFBY1pMX25lTzdUbG1kdGpCWDdMZHlRZmFCR3loRl9aUHEySW4?oc=5",
+     "published": "2026-10-17T21:35:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Inter earn 3-1 comeback win at Bologna, Roma beat Genoa 2-0",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGNYbHBTY2dTTkVXS1JnZVNwQkJUcUFzRWIxNHFhZ0FGSkk3ZTdHUUlrZmRWYVFna3FaOHV3U0hJZGpBU2RmaG5oZ0Z5Ukp3MkJWTTFhUXJFU3Ftc00tbzQ1blprRVQ2YVVhMmR4WG9CdHZMaEFVY2c5NDhJWEE5eUp5QjRPaExxOXIyOTJYNENNc2RMai1CUDRaRlV6b1dDaVBrQXNjZUdQWkdFcnI1bVVlWEVVM3cwYkE?oc=5",
+     "published": "2026-10-17T21:31:00.000Z"
+    },
+    {
+     "title": "Other Sports: Horse racing-Loughnane becomes Britain's youngest champion jockey since 1923",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2lyYkE3WW1LZkV2YVQzT19PdXduVTl6cFE1VWZlaXVGcGlqS2ZxZGFKQkxMcFlpa0E5N0pVbUpJaDdleGRsVzMyQWFYQmdQOHR4NTJFb3VmUW9YOTRHSEFxU2NzckZIQzVLTW1xVnRWcUQxWmlOR3Z1WlhTdXkxc3VTOUo5UzFSQ0dUUVpibGtFSzU3dTUwWDNyR19Ya3o5Vm44SG1UZUdxQ195Ui1rZmNiNFhTRk5TVXFGcURrVnYyR042QUgwZw?oc=5",
+     "published": "2026-10-17T21:31:00.000Z"
+    },
+    {
      "title": "Around 550,000 people take part in protests across France, about 400 arrested: minister",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzVMLW1jSUlEY1EwZ0hubTcydGVVOWktaDlvNWhYUVBZeV9jcm5xM3hZbVdsTWhLNE4yRHdyaWdwd1J0c0JsS3NQdUh4MktSOXpCZDA0ZXpaUUd3OV9KNGdOSTdKSUE2M18yaGhlcjJWb1dQNm1oazA1cy1VUU5NRElNc281by1kQ0dJXzNwNm1sTE54b2FfOFlTUmd1SGhEMFN4dDk1RVdxcERscV9OdFlpbGt2MS16NmlJUDlQSTAxTkNxT1FqUzlCUndwUQ?oc=5",
      "published": "2026-10-17T19:22:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Barca keep perfect LaLiga record with five-goal romp at Betis",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb3ZDYXc2bV9qTGlNUTZiUlI0VHMwY21HS3ljRHVHeW1ycm9wcjNsSFltYnZyTzJWS05BSUZpM1NPNVBfa2FvYS1OR0F0Ml9Xdlk0RUUyS0NfOGt3OVliNTdEU19kV3hOejAzcjZZUGViUjlYZmFpUlZ6dUFGbHAtNC1McWROREFwMENqdnlvWmluTHhGSnNnTWJ4clJEVUQya2Zsa0xlMFhkSTZDQTAxcC13QjVzRzZCQ1NweFRn?oc=5",
-     "published": "2026-10-17T18:55:00.000Z"
     },
     {
      "title": "Latest",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNeVVueGZvVWpkVVQzbFpxaHZSd0g3QlF2dmZaUUxfQ0t5MFFzZlNsbUg4X0NGeldEalpvZHhuOEl4eUVMSWFibC1Zb0lrRkJ3bmpSUzRNN1A1TjFrQTQyOXJMaXd3NWNDRWltdk5iZWdvS0tiZlZ5VHVsX25xLW50SVRESnhMenJsWC03LUQ5VldOV2JkWjhFaktZSmNpaUlTQkYxak05TmEwbndaa2ItdThnQkxUWnY1YnZkU1djTlc?oc=5",
      "published": "2026-10-17T17:27:00.000Z"
-    },
-    {
-     "title": "Chinese art and cuisine draw crowds at Jordan's diplomatic charity bazaar",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQVdkMGtJSGhtODRyTDFGaTZiZmI5VHlNMWZRamRrelpwa2ViNFRPQk9GWHZoVXpaajlsS25LalhhQjFGV2xValJzakpfQ1hiMWVaTng3bmRCX0EwZDd3bW5WM29yT3JJTUxpLWFwVzBIbVAwcXQza3prMFJ6azUwaU5OWXZNY0NWZ2JkazZUVWtXSGpIaHJ6NjNLRm1FTzAySmhVejRDOFJkdVhsSl9JRnBEQ1dlNmViNWVRbVNSRDlOdw?oc=5",
-     "published": "2026-10-17T17:11:00.000Z"
-    },
-    {
-     "title": "At least 17 killed, many injured in stampede during India's Durga Puja celebrations",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYlpPTV8wR1RDSV9RSWFkMXVzeUFHZXgyeE9qTHR3YWFzLXltb09DeVIwTHdhdnAwN2p1MUw4bUxSYUZYUlNpUldFR0tENkxQRUM5anZ1SW42NXJuRmVIMFVfRzlQdlhxMnhIZHJwWkN4emxDX1ljUTJ4QzU2djB3ZUg2TW4wcS1PMDlUVDVmRncyZUNWeHk0Q3pES2xac1U3TGdmM3E1UTRYTmVVYnU4a1R6aFFRNFFsRE1waUo0SDlWWmpYTWZ6LUdtQW9iQQ?oc=5",
-     "published": "2026-10-17T17:05:00.000Z"
-    },
-    {
-     "title": "The cost of leasehold properties",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcnVOSklhTFByd2ZTZktTc0w4aXZRbjFWcXN6UkRXZWhFX2VoT0dtRm9zb2lQZ1poUk5BWVUyUk5IZnJJbGtvR085RGhKSUpFLU1scmVXV0tTQnhUZzM3WHlqcXcwVVlFN2txenRaaGUxVTYzOS1GX1RRZGxHSXR0X0Zqem8wd2hWUV9xMFN6d2tYVXR3UmpabQ?oc=5",
-     "published": "2026-10-17T17:01:50.000Z"
-    },
-    {
-     "title": "Tanzania tightens health screening for international travelers amid Ebola concerns",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRU00YzJ3YWF1c3RVQTlLVUdZeEtvSlE0X0FQVkIzeUhIUFBwVUoxbmVGQ1ZlZkNFeFBLcF9iX3pGeEttNjR1NmFaY2VSVW42RGQxUTNkdHVsQTdYR0x4ZEQ4Q0xQTlhKWWxRRFVUWWprZ0tVdnJ3bWNFSm91S2s3ZkZxZ3kwMlBBazlGMzhUYkg4THlqNlJhMFNtNjJpUHVpS1dLUjZETFdJclhxTm8wUHJlSjRBbjBsTV8xLUJFWVVYQzQ3VEZvZXhrNA?oc=5",
-     "published": "2026-10-17T16:57:00.000Z"
     }
    ]
   }
