@@ -1,113 +1,65 @@
 {
- "updated": "2026-10-17T15:23:43.422Z",
+ "updated": "2026-10-17T16:23:36.518Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "A grad student said he became ill after noticing an odd taste in his water. His coworkers may have helped crack the case",
+     "brief": "It began with tingling and numbness in the graduate student’s fingertips and weakness in his legs.",
+     "link": "https://www.cnn.com/2026/10/17/us/wyoming-student-poisoning-case",
+     "published": "2026-10-17T16:23:36.719Z"
+    },
+    {
      "title": "Pope Leo discharged from hospital after lung cancer surgery",
      "brief": "Pope Leo XIV left hospital Saturday, four days after undergoing lung cancer surgery in a swift return to his duties following the first health scare of his papacy.",
      "link": "https://www.cnn.com/2026/10/17/europe/pope-cancer-hospital-discharge-intl",
-     "published": "2026-10-17T15:22:43.647Z"
+     "published": "2026-10-17T16:20:36.959Z"
     },
     {
      "title": "Trump administration seeks to remove judge in golf course case, accusing her of ‘egregious’ behavior",
      "brief": "The Trump administration has requested the removal of the federal judge overseeing a legal challenge to President Donald Trump’s plans to overhaul a Washington, DC public golf course, accusing her of having “bias.”",
      "link": "https://www.cnn.com/2026/10/17/politics/trump-doj-judge-golf-course",
-     "published": "2026-10-17T15:21:43.612Z"
+     "published": "2026-10-17T16:19:36.825Z"
     },
     {
      "title": "It took just 3 minutes. How the Bend school shooting unfolded",
      "brief": "On a sunny Oregon fall morning, parents dressed their children up and sent them to Silver Rail Elementary School for picture day.",
      "link": "https://www.cnn.com/2026/10/17/us/bend-oregon-school-shooting-how-it-unfolded",
-     "published": "2026-10-17T15:19:43.598Z"
+     "published": "2026-10-17T16:17:36.816Z"
     },
     {
      "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
      "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
      "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
-     "published": "2026-10-17T15:18:43.642Z"
+     "published": "2026-10-17T16:16:36.811Z"
     },
     {
-     "title": "A courageous teenager battling brain cancer gets the surprise of a lifetime from his beloved Florida Gators",
-     "brief": "It started with just the kind of news that is every parent’s worst nightmare.",
-     "link": "https://www.cnn.com/2026/10/17/sport/florida-gators-teen-cancer",
-     "published": "2026-10-17T15:17:43.605Z"
+     "title": "New wildfire in Southern California explodes in size, burning multiple homes",
+     "brief": "A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday, county officials said.",
+     "link": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
+     "published": "2026-10-16T12:00:00.000Z"
     },
     {
      "title": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen",
      "brief": "US President Donald Trump has waived a further slate of sanctions related to Russian fossil fuel sales, days before they were to take effect under a bill he signed into law last month.",
      "link": "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk",
      "published": "2026-10-16T12:00:00.000Z"
-    },
-    {
-     "title": "Rep. Ilhan Omar challenges legality of Trump administration search of her home",
-     "brief": "Democratic Rep. Ilhan Omar is fighting back against the Trump administration’s search of her home earlier this week – disputing its legality and demanding the return of her property seized by federal agents.",
-     "link": "https://www.cnn.com/2026/10/16/politics/ilhan-omar-challenges-legality-search-home",
-     "published": "2026-10-16T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Football: Moraes' double keeps Selangor flying as Red Giants see off Penang",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUmZFNWpTTUg0c3c1UHB2VGRlWWRwdHJrN25fQWlpa05QalV3VUUySENtUC02NWxsRkdiVGZhVDRvdVN3OUJPM3J2R0xnM3BCYTFVWi01dWRJVUE5UEdsRmJRWUliSGNxM3BGei0taUhZaXBlZmNJMVM4ZUJVSVB1YVcwVlU4blhtTFNud18tQXRscHpSbFBSWVpxTmlJQ3hqN0VKYldaTTNNQ3VXNXdvNGpLRThUTWJlRkJvWQ?oc=5",
-     "published": "2026-10-17T14:59:00.000Z"
-    },
-    {
-     "title": "Floods: Four more relief centres open in Larut, Matang and Selama",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOODA1NTNBcUZWa1dGVWp2VjVFeFBlMXc2cHJaUVJ4bDh1UmdqdTBsbk1LNlZhbFAwbkhSNVJBanRmV09xNlRYUTRlaHI2dk1LUTlQQ25PRVJzbDVBZy1OaHlIWHdrZ0lBaWtHQWVYQ0c3ME41SDhJQVB3SFE3TEsxWlROR2J1YlNSZDdMSGNGVW5nRTB6MmRkd1lZdDVGRksxemkxeTZTa2hNN05EZHJOMjBpbw?oc=5",
-     "published": "2026-10-17T14:59:00.000Z"
-    },
-    {
-     "title": "No more heartbreak for Zi Yu as she and Genevie make history with first-ever world junior crown",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVhucTljaHBCcmx6ZWc5TU9kbHRiUHBlZnhMT1JOTEF6TXIzazVzd0Z3b1VqQjI5MW9WUGFHV1d1LWNUeUw0Y0xLUzdaYUlzLUxyZWxRTVVFZW4xVHJVb0g1NmdtX2FHV2NCQkdpcFpMSnYySEJMb1g2MUpJZTlVUU9OU0swMzdjV2h0OVhEX2pqTVFBREtkQkN2b3ZQVEZjQ1c1S0wyZFVtOHFUc2NxUUphek9HN1JkOW54ZTlMTS1saEI1eFZuMmx2ajJvTjdmdDlYQmRFY3ZGalhlLXdrQWZYcw?oc=5",
-     "published": "2026-10-17T14:30:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Neto double fires Chelsea past Everton but Martinez injury mars win",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaEpfTzN1bHJ2UUFOZ3FrWWYzT2g4VmJGaGM2S3FDZDdzejFneFF0Zk5jUnQxVnk3NFdCc0lNUHF1a0xYUVNtXy1rcnNjbExaSTVFcUJxS01EaUY4bUNucllkaHV1dDZCb2o1NzY3aHBDN3lTZHNGZ08yZXhtWmRlOUFmWVFOdEJJNzlhSVRubWFIbHZHWTRMdGk5bEQ4NjJGeVpmc0wwOVV6Nk9QVk91ZGtxSWZmWUdBZTI5Sm93OTkyZUJuZlE?oc=5",
-     "published": "2026-10-17T13:50:00.000Z"
-    },
-    {
-     "title": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNek1yN3BVdDFDQktReU9JVlotd29YSFAzT2N6M0M3YVFKVC1TVlBMU0NFSjlkVXVDdXpndV9UUDlDS2JyQW9nUy1PVUMwX0FUdTB3dHBjWm10Y19KWU11d056NlJzeWZjQnBkcC0yRnNGdUhfNFZzY1EzYWdUTmpnbHV2aENSbWFsZjB3ejFSNzdFRW1xT1J3UnR0eGdlQkJhNGFGVXgwNWdYNllMcjFJVmNNaGZ1Q1pXRExXOE9vUy1hOE85TEE?oc=5",
-     "published": "2026-10-17T13:26:00.000Z"
-    },
-    {
-     "title": "State Polls 2026",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYnN4NlJvUmh4SldkcUwyZHV3Q3FXUTBHZHlXVU1LbTVMNk9SMEMzTkY0QzNjZXBiRWlObmdMbVJHUnhvM29YaVJvM3RDcGNzNVZ3ZVo0bGtlOGx3MnZCWUFHZGI1T1RZUjhfSTRIa3ItdDRyWnJ2QnJDbXA3SUJrRHdrR1N4azRxYmo1VVZYU3RTbDgzN2hRbUJMa3B2bWVFMHFQYlBBOHdrcXZhbzhfZXlQaWhHWDc2Nl81SkdJaFV5Zw?oc=5",
-     "published": "2026-10-17T12:18:36.000Z"
-    },
-    {
-     "title": "Mei Xing calls time on badminton career",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVV5ZzdkWnJmaFowRlA5OGZfa2lZdTBtM1lFVnJrNjJjRUdCbk15QXRYTGUxZmtyVXFZaEdaYTgyZm9Ob0xzX3A5YUs5cExOMDlldGszNUNtdnpRbkFlSndUT3Ayc0UweUwzMWJrVzVLQVFUTU9TaXo0RTNydEtQdXdFWHJoM1M5cHloTVEwUTFtZkg2S2hibw?oc=5",
-     "published": "2026-10-17T11:22:00.000Z"
-    },
-    {
-     "title": "Tunisians stage biggest protest in years against President Saied",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN2VWNXBkTDlia21wRVFiSWlGYzU4TzJFSWVJbWFNLU13RmZ0Uy1MSWF2R3RNZWhEYVlkZ2w5eXNITjFLYVNlUUpER1FfLXg4ekFiZEdIdk95ZGtLODBlckhlSlhabDdQSXpocDFuSkVrZDJINHRWb0ExTTc5cHJzR0Q0OF9WZndtMWFWcjVKTjVXWXlwM1M5aXBPY3pGLWhYVGRKRm5UbEpCMkQ5Sk1zS1ZzTQ?oc=5",
-     "published": "2026-10-17T11:21:00.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
