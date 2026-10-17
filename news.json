@@ -1,1 +1,89 @@
-{"updated":"2026-10-17T12:00:00.000Z","sources":{"cnn":{"name":"CNN","feed":"","items":[]},"thestar":{"name":"The Star","feed":"","items":[]}}}
+{
+ "updated": "2026-10-17T12:55:09.954Z",
+ "sources": {
+  "cnn": {
+   "name": "CNN",
+   "feed": "http://rss.cnn.com/rss/edition.rss",
+   "items": [
+    {
+     "title": "Hundreds of millions at risk from Chinese shopping app malware",
+     "brief": "",
+     "link": "https://cnn.it/40OSomK",
+     "published": "2026-10-17T12:55:10.145Z"
+    },
+    {
+     "title": "Trump pleads not guilty to 34 felony counts",
+     "brief": "",
+     "link": "https://edition.cnn.com/webview/politics/live-news/trump-indictment-stormy-daniels-news-04-03-23/index.html",
+     "published": "2026-10-17T12:55:10.144Z"
+    },
+    {
+     "title": "READ: Trump indictment related to hush money payment",
+     "brief": "",
+     "link": "https://cnn.it/411KYN7",
+     "published": "2026-10-17T12:55:10.144Z"
+    },
+    {
+     "title": "Russian authorities detain suspect over St. Petersburg cafe blast",
+     "brief": "",
+     "link": "https://edition.cnn.com/webview/europe/live-news/russia-ukraine-war-news-04-03-23/index.html",
+     "published": "2026-10-17T12:55:10.144Z"
+    }
+   ]
+  },
+  "thestar": {
+   "name": "The Star",
+   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
+   "items": [
+    {
+     "title": "Topic: Negri Crisis?tblci=GiDwxa-kKpbpa5M6_umGKK6bS1ucbum6uI6RRKNsStUC_yDBvkkomLiEiputq8cdMInqPw",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT1ZhMnAtQ1lDTFB6cm9pTjZLVXhQMFh4X1JPRXVVaXdqSUZIdHpINkQ2V2xGU0gwT1lMcV8tRXhodWJuWnlzdDRkdmliMXJhYUhJNmIybXRQZDBIZ0V1QS01ZHBVTEFFdE1iay16dzZZV0pUdUhncmVtb0h5RFRjQ3BzSHN2dmUzQW5LeU1ZaHR4T3d3N0VDR0w0dnNIc1VjaGdGWHF4M3NMUTBSZmdjT0xUUU01SDJicWRDaQ?oc=5",
+     "published": "2026-10-17T12:14:00.000Z"
+    },
+    {
+     "title": "Mei Xing calls time on badminton career",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVV5ZzdkWnJmaFowRlA5OGZfa2lZdTBtM1lFVnJrNjJjRUdCbk15QXRYTGUxZmtyVXFZaEdaYTgyZm9Ob0xzX3A5YUs5cExOMDlldGszNUNtdnpRbkFlSndUT3Ayc0UweUwzMWJrVzVLQVFUTU9TaXo0RTNydEtQdXdFWHJoM1M5cHloTVEwUTFtZkg2S2hibw?oc=5",
+     "published": "2026-10-17T11:22:00.000Z"
+    },
+    {
+     "title": "Egypt's Sisi says his presidency will end in 2030",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUnVhbVI0c193VkliNkZKTElKWTBmUEhxZEhUcXIwcFVEemRQTzJKbmwtNUpYSnExTHZ5ZzhpN1JsTXpIaHFZUUlmWFlnWUlKNzI0dDkzU1JPVDhyQ2lXeDNpYWRrVUNfUE1nZjVELTFGMGxqczFPcEFQS0FOWVdTTDRvdzlvTzJvWE1qREtHaDNTcjRJSDdGTDJoMC1rTno4bmc?oc=5",
+     "published": "2026-10-17T10:41:00.000Z"
+    },
+    {
+     "title": "Badminton: Pang Ron-Pei Jing fall short in Denmark",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVFdNVTYyRklKZFV6MU9kTVJEandKUmhzZG5QUGlsQUdtZGUzRG9BNUw4Q0lyZEJ4ajU3TnU1NjFoR0VLcEg3ZHdpb0RfaE51Z0NidnFaVmd0aXNOSXo0UUVVM2tYMTN5R041RUxNMzNLMnRzZzhJNU5jdGZaakdVdTl3QjdkNlJBRE1GdU5xQU5YdHE3UjQxdw?oc=5",
+     "published": "2026-10-17T10:19:00.000Z"
+    },
+    {
+     "title": "Badminton: Khai Xing-Hong Quan go down to S. Korean pair in semis at home meet",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGxTbEJPelZ0TlBaeF8yMmppODI1aldmQndWOU5ORlYtNEI3aUFULTUzWUxTTWtMZmRVU2FjTnBabEE2Vk1FSE9WV19QY3hpMVdDSldRd2FzaVBmeEdiaWtXNFFHRGVCRy1fa0l2RFhHVWhodlJJUjhQZk9CX0VjSzBxeXRJZGJKZ3JpclI3bld0NTJvdjJETFBILWRJRU9ZVlgzTHZ6SHpmMDJXT0hyTUhtemJ3c0pOQ0liNg?oc=5",
+     "published": "2026-10-17T09:48:00.000Z"
+    },
+    {
+     "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ3F0QmVxN0U3LXRZazNGVkF3V2syRHlTQUplTlQ0ZnRBdnRldV81UjhNalNPQ25Fa21rLVdFYlpkcDI5MnE5TzJoaXIzYmdZRG1DSTlNREJKenF2TmpDR3I0d2ZLeHIyM2Rmaks0dGtwcHRaRjF5MUQyeFRlVy1Ga29vQ0RpdWJ4WEVxZ2JsM2E4R0ZuMFlISGhENkxsVGtHTmNsS3ZEbGVLdTlOU1JqMU9acmJPYkxXelJsY09fc3A3N3Y0dFRoSmhjLUp0QkltdDNrX0dUQXR0Zw?oc=5",
+     "published": "2026-10-17T09:18:00.000Z"
+    },
+    {
+     "title": "(Video) Ticket. Concert. Holiday",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2xRVm1fY1JPZXRlaFByODlSUGJSSHZjbmc1WEdrcHNZbmthT2Z1bUJPSll1eDFrZU1VcDVmejdHcG5BX3B1cUZzSjJoZlMyOThmWm1OakJiTHRzUTA0VjRxU2ZKMk1zcjJyVXpqdUdDcDBYTHRORXVxajZCVlJEemxzR0Q?oc=5",
+     "published": "2026-10-17T09:06:00.000Z"
+    },
+    {
+     "title": "Flash floods reported in parts of Klang Valley following heavy rain on Saturday",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPblZpQURyRkxyb1VSZ1FpWG1GWHEtNW16dm1LSEtNX1A0NW9JcnNjUk5RclZpWXVtMEFnNDFscE53U1VmRExld0MxWEhna2J5bzZpTi0tNUMzSzZ6cTdJTjJ4Y1d1QmpOem9zMFlIakNGa2pqUmlGQmxIZkVvZDhmbGNLRElfMkxMYk80WUJCV0pydFJOcVg0dWhMVy16cmJXb0lLdF9MY0J0aldpQ1NjZF9ja2VIYmxqV1NDdTBld2JLU2NuclBxVg?oc=5",
+     "published": "2026-10-17T08:55:00.000Z"
+    }
+   ]
+  }
+ }
+}
