@@ -184,7 +184,16 @@ form.add input::placeholder { color: var(--pencil); }
       <span class="who" id="who-office"><strong>Work</strong> · calendar and Gmail</span>
       <button class="btn solid" id="btn-office" type="button">Connect</button>
     </div>
-    <p class="hint" id="connectHint">Read-only access. Your data goes straight from Google to this device and is never stored anywhere else. Sign-in lasts about an hour, then tap Connect again.</p>
+    <h3>Microsoft account</h3>
+    <div class="acct" id="msClientRow">
+      <input type="text" id="msClientId" placeholder="Paste your Microsoft application (client) ID" aria-label="Microsoft application ID" autocomplete="off">
+      <button class="btn" id="saveMsClient" type="button">Save</button>
+    </div>
+    <div class="acct" data-src="office">
+      <span class="who" id="who-ms"><strong>Microsoft</strong> · Outlook calendar, mail, To Do</span>
+      <button class="btn solid" id="btn-ms" type="button">Connect</button>
+    </div>
+    <p class="hint" id="connectHint">Read-only access. Your data goes straight from Google or Microsoft to this device and is never stored anywhere else. Google sign-in lasts about an hour; Microsoft stays signed in for a day.</p>
   </div>
 
   <p class="foot" id="foot"><span class="sample">Sample data.</span> Anything not connected above shows examples. Tick boxes and stars are saved on this device.</p>
@@ -297,16 +306,109 @@ form.add input::placeholder { color: var(--pencil); }
       });
     });
   }
-  function live(slot) { return !!google_.token(slot); }
+  // ---- Microsoft -----------------------------------------------------------
+  // Authorization code + PKCE redirect flow against the Microsoft identity
+  // platform (SPA registration, no secret). Works for work and personal accounts.
+  var MS_SCOPES = "openid offline_access User.Read Calendars.Read Mail.Read Tasks.Read";
+  var MS_AUTH = "https://login.microsoftonline.com/common/oauth2/v2.0/";
+  var GRAPH = "https://graph.microsoft.com/v1.0";
+  function redirectUri() { return location.origin + location.pathname.replace(/index\.html$/, ""); }
+  function b64url(buf) { return btoa(String.fromCharCode.apply(null, new Uint8Array(buf))).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, ""); }
+  var ms_ = {
+    clientId: function () { return load("msClientId", ""); },
+    tok: function () { return load("tok:ms", null); },
+    signIn: function () {
+      var id = ms_.clientId();
+      if (!id) return Promise.reject(new Error("Paste your Microsoft application ID first."));
+      var verifier = b64url(crypto.getRandomValues(new Uint8Array(32))), st = b64url(crypto.getRandomValues(new Uint8Array(16)));
+      return crypto.subtle.digest("SHA-256", new TextEncoder().encode(verifier)).then(function (h) {
+        save("msPkce", { v: verifier, s: st });
+        location.href = MS_AUTH + "authorize?" + new URLSearchParams({
+          client_id: id, response_type: "code", redirect_uri: redirectUri(), scope: MS_SCOPES,
+          code_challenge: b64url(h), code_challenge_method: "S256", state: st, prompt: "select_account"
+        });
+      });
+    },
+    exchange: function (body) {
+      return fetch(MS_AUTH + "token", { method: "POST", headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: new URLSearchParams(Object.assign({ client_id: ms_.clientId(), scope: MS_SCOPES, redirect_uri: redirectUri() }, body)) })
+        .then(function (r) { return r.json(); }).then(function (t) {
+          if (!t.access_token) throw new Error(t.error_description ? t.error_description.split("\r")[0] : "Microsoft sign-in failed.");
+          save("tok:ms", { access: t.access_token, refresh: t.refresh_token, exp: Date.now() + (t.expires_in || 3600) * 1000 });
+        });
+    },
+    handleRedirect: function () {
+      var q = new URLSearchParams(location.search);
+      if (!q.get("code") && !q.get("error")) return Promise.resolve(false);
+      var pk = load("msPkce", null); save("msPkce", null);
+      history.replaceState(null, "", redirectUri());
+      if (q.get("error")) return Promise.reject(new Error(q.get("error_description") || q.get("error")));
+      if (!pk || pk.s !== q.get("state")) return Promise.reject(new Error("Microsoft sign-in didn't match. Try Connect again."));
+      return ms_.exchange({ grant_type: "authorization_code", code: q.get("code"), code_verifier: pk.v }).then(function () {
+        return ms_.get("/me").then(function (u) { save("email:ms", u.mail || u.userPrincipalName || ""); }, function () {});
+      }).then(function () { return true; });
+    },
+    access: function () {
+      var t = ms_.tok();
+      if (!t) return Promise.reject(new Error("not connected"));
+      if (t.exp > Date.now() + 60000) return Promise.resolve(t.access);
+      if (!t.refresh) return Promise.reject(new Error("expired"));
+      return ms_.exchange({ grant_type: "refresh_token", refresh_token: t.refresh })
+        .then(function () { return ms_.tok().access; }, function () { save("tok:ms", null); throw new Error("expired"); });
+    },
+    get: function (path, prefer) {
+      return ms_.access().then(function (a) {
+        var h = { Authorization: "Bearer " + a }; if (prefer) h.Prefer = prefer;
+        return fetch(path.indexOf("http") === 0 ? path : GRAPH + path, { headers: h });
+      }).then(function (r) { if (!r.ok) throw new Error("Microsoft said " + r.status); return r.json(); });
+    }
+  };
+  function utc(s) { return s && !/Z$|[+-]\d\d:\d\d$/.test(s) ? s + "Z" : s; }
+  function mcal() {
+    var r = dayBounds();
+    return ms_.get("/me/calendarView?startDateTime=" + r[0] + "&endDateTime=" + r[1] + "&$orderby=start/dateTime&$top=50&$select=id,subject,start,end,location,isAllDay,isCancelled", 'outlook.timezone="UTC"')
+      .then(function (d) { return (d.value || []).filter(function (e) { return !e.isCancelled; }).map(function (e) {
+        return { id: "ms:" + e.id, kind: e.isAllDay ? "task" : "event", title: e.subject || "(no title)", start: e.isAllDay ? null : utc(e.start.dateTime), end: e.isAllDay ? null : utc(e.end.dateTime), where: (e.location && e.location.displayName) || (e.isAllDay ? "all day" : "") };
+      }); });
+  }
+  function mmail() {
+    var sel = "&$top=8&$select=id,subject,from,flag";
+    return Promise.all([
+      ms_.get("/me/mailFolders/inbox/messages?$filter=" + encodeURIComponent("flag/flagStatus eq 'flagged'") + sel),
+      ms_.get("/me/mailFolders/inbox/messages?$filter=" + encodeURIComponent("isRead eq false and importance eq 'high'") + sel).catch(function () { return { value: [] }; })
+    ]).then(function (res) {
+      var seen = {};
+      return [].concat(res[0].value || [], res[1].value || []).filter(function (m) { if (seen[m.id]) return false; return (seen[m.id] = true); }).map(function (m) {
+        return { id: "ms:" + m.id, kind: "email", title: m.subject || "(no subject)", from: ((m.from && m.from.emailAddress && m.from.emailAddress.name) || "") + " (Outlook)", flagged: m.flag && m.flag.flagStatus === "flagged" };
+      });
+    });
+  }
+  function mtodo() {
+    var r = dayBounds();
+    return ms_.get("/me/todo/lists").then(function (d) {
+      var list = (d.value || []).filter(function (l) { return l.wellknownListName === "defaultList"; })[0] || (d.value || [])[0];
+      if (!list) return [];
+      return ms_.get("/me/todo/lists/" + encodeURIComponent(list.id) + "/tasks?$top=50&$filter=" + encodeURIComponent("status ne 'completed'")).then(function (t) {
+        return (t.value || []).filter(function (x) { var due = x.dueDateTime && utc(x.dueDateTime.dateTime); return !due || due < r[1]; }).map(function (x) {
+          return { id: "ms:" + x.id, kind: "task", title: x.title + " (To Do)" };
+        });
+      });
+    });
+  }
+  function both(a, b) {
+    return Promise.all([a, b].filter(Boolean).map(function (p) { return p.catch(function (e) { hint(e.message === "expired" ? "Sign-in expired. Tap Connect again." : e.message, true); return []; }); }))
+      .then(function (l) { return [].concat.apply([], l); });
+  }
+
+  function live(slot) { return slot === "ms" ? !!ms_.tok() : !!google_.token(slot); }
   var adapters = {
     personal: function () { return live("personal") ? gcal("personal") : samples.personal(); },
-    office:   function () { return live("office") ? gcal("office") : samples.office(); },
+    office:   function () { return live("office") || live("ms") ? both(live("office") && gcal("office"), live("ms") && mcal()) : samples.office(); },
     email:    function () {
-      if (!live("personal") && !live("office")) return samples.email();
-      return Promise.all(["personal", "office"].filter(live).map(function (s) { return gmail(s).catch(function () { return []; }); }))
-        .then(function (l) { return [].concat.apply([], l); });
+      if (!live("personal") && !live("office") && !live("ms")) return samples.email();
+      return both(both(live("personal") && gmail("personal"), live("office") && gmail("office")), live("ms") && mmail());
     },
-    reminder: function () { return live("personal") ? gtasks("personal") : samples.reminder(); }
+    reminder: function () { return live("personal") || live("ms") ? both(live("personal") && gtasks("personal"), live("ms") && mtodo()) : samples.reminder(); }
   };
 
   // ---- Local state (per device) -------------------------------------------
@@ -472,8 +574,14 @@ form.add input::placeholder { color: var(--pencil); }
       $("btn-" + slot).textContent = on ? "Disconnect" : "Connect";
       $("btn-" + slot).className = on ? "btn" : "btn solid";
     });
-    var any = live("personal") || live("office");
-    $("foot").innerHTML = any ? "Live from Google where connected; anything else shows examples. Tick boxes and stars are saved on this device."
+    var msId = ms_.clientId(), msOn = live("ms"), msEmail = load("email:ms", "");
+    $("msClientId").value = msId;
+    $("msClientRow").hidden = !!msId;
+    $("who-ms").innerHTML = "<strong>Microsoft</strong> · " + (msOn ? "connected" + (msEmail ? " as " + esc(msEmail) : "") : "Outlook calendar, mail, To Do");
+    $("btn-ms").textContent = msOn ? "Disconnect" : "Connect";
+    $("btn-ms").className = msOn ? "btn" : "btn solid";
+    var any = live("personal") || live("office") || msOn;
+    $("foot").innerHTML = any ? "Live from your connected accounts; anything else shows examples. Tick boxes and stars are saved on this device."
       : '<span class="sample">Sample data.</span> Anything not connected above shows examples. Tick boxes and stars are saved on this device.';
   }
   var showClient = false;
@@ -491,7 +599,20 @@ form.add input::placeholder { color: var(--pencil); }
     });
   });
 
-  renderConnect(); renderFilters(); load_(); scheduleCheck();
+  $("saveMsClient").addEventListener("click", function () {
+    var v = $("msClientId").value.trim();
+    if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(v)) return hint("That doesn't look like an application ID. It looks like 1a2b3c4d-1234-....", true);
+    save("msClientId", v); hint("Application ID saved. Now tap Connect under Microsoft."); renderConnect();
+  });
+  $("btn-ms").addEventListener("click", function () {
+    if (live("ms")) { save("tok:ms", null); save("email:ms", ""); renderConnect(); load_(); return; }
+    ms_.signIn().catch(function (e) { hint(e.message, true); });
+  });
+
+  renderConnect(); renderFilters();
+  ms_.handleRedirect().then(function (did) { if (did) hint("Microsoft connected. Today now includes Outlook."); },
+    function (e) { hint(e.message, true); }).then(function () { renderConnect(); load_(); });
+  scheduleCheck();
 
   try { if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(function () {}); } catch (e) {}
 })();

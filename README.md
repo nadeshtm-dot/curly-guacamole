@@ -24,6 +24,16 @@ The app signs in to Google straight from the browser. It needs a free OAuth clie
 Google will warn the app is unverified; that is expected for a personal app in testing. Choose Continue.
 Access is read-only. Sign-in lasts about an hour, then tap Connect again.
 
+## Connecting Microsoft (Outlook calendar, mail, To Do)
+Works with a work/school account or a personal Outlook.com account. Register the app once:
+1. https://entra.microsoft.com > Applications > App registrations > New registration. Name: Carpe Diem.
+2. Supported account types: accounts in any organizational directory and personal Microsoft accounts.
+3. Redirect URI: platform **Single-page application (SPA)**, URL `https://nadeshtm-dot.github.io/curly-guacamole/`. Register.
+4. Copy the Application (client) ID from the Overview page.
+5. In Carpe Diem, paste it under Microsoft account, Save, then Connect.
+Permissions requested (read-only, delegated): Calendars.Read, Mail.Read, Tasks.Read, User.Read, offline_access. Some companies require IT approval for these.
+Microsoft stays signed in for about a day before asking again.
+
 ## Connecting other services
 Each source is an adapter in `src/page.html` (search for "Data adapters"). Replace the sample body with:
 | Source | Service | What you'd connect |
