@@ -1,0 +1,10 @@
+{
+  "name": "Carpe Diem",
+  "short_name": "Carpe Diem",
+  "description": "Your day on one notepad page: calendars, emails and reminders.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fbf1a9",
+  "theme_color": "#f7e98e",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}

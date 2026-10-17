@@ -1,0 +1,376 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<style>:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}body{margin:0}</style>
+</head>
+<body>
+<title>Carpe Diem</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="theme-color" content="#f7e98e">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon.svg">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kalam:wght@400;700&family=Work+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one yellow legal-pad sheet, red margin line on the left, blue rules; each source writes onto the same page. */
+:root {
+  --desk: #e9e4d2;
+  --paper: #fbf1a9;
+  --rule: #a9c4dc;
+  --margin: #d9534f;
+  --ink: #1f2a44;
+  --binding: #1f2a44;
+  --ink-soft: #55607a;
+  --pencil: #8a8f9c;
+  --chip-personal: #2f7d5b;
+  --chip-office: #2b5fa8;
+  --chip-email: #9a4d9e;
+  --chip-reminder: #b5651d;
+  --chip-mine: #3d4458;
+  --hand: "Kalam", "Comic Sans MS", "Segoe Print", cursive;
+  --ui: "Work Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, monospace;
+  --line: 34px;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --desk: #14161c; --paper: #23252c; --rule: #343a4a; --margin: #a8484a;
+  --ink: #ece6c4; --ink-soft: #b3ad92; --pencil: #7c7a70;
+  --chip-personal: #6cc49b; --chip-office: #7aa7ea; --chip-email: #d29ad5; --chip-reminder: #e6a15c; --chip-mine: #c7c3b0; --binding: #0b0c10;
+  color-scheme: dark } }
+:root[data-theme="dark"] {
+  --desk: #14161c; --paper: #23252c; --rule: #343a4a; --margin: #a8484a;
+  --ink: #ece6c4; --ink-soft: #b3ad92; --pencil: #7c7a70;
+  --chip-personal: #6cc49b; --chip-office: #7aa7ea; --chip-email: #d29ad5; --chip-reminder: #e6a15c; --chip-mine: #c7c3b0; --binding: #0b0c10;
+  color-scheme: dark }
+
+html, body { min-height: 100%; }
+body {
+  background: var(--desk); color: var(--ink); font-family: var(--ui); font-size: 15px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 20px 40px;
+}
+.pad {
+  max-width: 680px; margin: 0 auto; background: var(--paper); position: relative;
+  border-radius: 3px 3px 6px 6px;
+  box-shadow: 0 1px 0 rgba(0,0,0,.06), 0 14px 30px -18px rgba(0,0,0,.45);
+  background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(var(--line) - 1px), var(--rule) calc(var(--line) - 1px), var(--rule) var(--line));
+  background-position: 0 118px;
+  padding: 0 20px 28px 64px;
+}
+.pad::before { content: ""; position: absolute; top: 0; bottom: 0; left: 46px; width: 0; border-left: 2px solid var(--margin); opacity: .7; }
+.binding { height: 22px; margin: 0 -20px 0 -64px; background: var(--binding); border-radius: 3px 3px 0 0; }
+
+header.top { padding-top: 18px; height: 100px; display: flex; flex-direction: column; justify-content: flex-end; gap: 2px; }
+.brand { font-family: var(--ui); font-size: 11px; font-weight: 600; letter-spacing: .14em; text-transform: uppercase; color: var(--margin); }
+h1 { font-family: var(--hand); font-weight: 700; font-size: 34px; line-height: 1.05; margin: 0; text-wrap: balance; }
+.sub { font-size: 13px; color: var(--ink-soft); }
+
+.toolbar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; min-height: var(--line); padding-block: 8px 0; }
+.toggle {
+  font: 500 12px/1 var(--ui); border: 1.5px solid currentColor; background: transparent; color: var(--c);
+  border-radius: 999px; padding: 5px 9px; cursor: pointer; display: inline-flex; gap: 5px; align-items: center;
+}
+.toggle[aria-pressed="false"] { color: var(--pencil); text-decoration: line-through; border-style: dashed; }
+.toggle:focus-visible, button:focus-visible, input:focus-visible { outline: 2px solid var(--margin); outline-offset: 2px; }
+
+section { margin-top: var(--line); }
+h2 {
+  font: 600 11px/var(--line) var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-soft);
+  margin: 0; display: flex; justify-content: space-between; gap: 8px;
+}
+h2 .count { font-family: var(--mono); font-weight: 400; letter-spacing: 0; }
+ul { list-style: none; margin: 0; padding: 0; }
+li.item { display: grid; grid-template-columns: 22px 1fr auto; gap: 8px; align-items: start; min-height: var(--line); padding-top: 5px; }
+li.item .text { min-width: 0; font-family: var(--hand); font-size: 19px; line-height: 24px; overflow-wrap: anywhere; }
+li.item .meta { display: block; font-family: var(--ui); font-size: 12px; line-height: 16px; color: var(--ink-soft); padding-bottom: 4px; }
+li.item.done .text { text-decoration: line-through; text-decoration-color: var(--margin); text-decoration-thickness: 2px; color: var(--pencil); }
+.time { font-family: var(--mono); font-size: 12px; color: var(--ink-soft); padding-top: 4px; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.check {
+  appearance: none; width: 18px; height: 18px; margin: 3px 0 0; border: 1.8px solid var(--ink); border-radius: 3px; cursor: pointer; background: transparent; position: relative;
+}
+.check:checked::after { content: ""; position: absolute; left: 4px; top: -3px; width: 6px; height: 13px; border: solid var(--margin); border-width: 0 3px 3px 0; transform: rotate(40deg); }
+.chip { display: inline-block; font: 600 10px/1 var(--ui); letter-spacing: .06em; text-transform: uppercase; color: var(--c); margin-right: 6px; }
+.dot { width: 7px; height: 7px; border-radius: 50%; background: var(--c); display: inline-block; }
+[data-src="personal"] { --c: var(--chip-personal); }
+[data-src="office"] { --c: var(--chip-office); }
+[data-src="email"] { --c: var(--chip-email); }
+[data-src="reminder"] { --c: var(--chip-reminder); }
+[data-src="mine"] { --c: var(--chip-mine); }
+.star { background: none; border: 0; cursor: pointer; font-size: 17px; color: var(--pencil); padding: 2px 0 0; line-height: 1; }
+.star[aria-pressed="true"] { color: var(--margin); }
+.empty { font-family: var(--hand); font-size: 17px; line-height: var(--line); color: var(--pencil); }
+
+form.add { display: grid; grid-template-columns: 22px 1fr auto; gap: 8px; align-items: center; height: var(--line); }
+form.add span { font-family: var(--hand); font-size: 22px; color: var(--pencil); text-align: center; }
+form.add input { font-family: var(--hand); font-size: 19px; border: 0; background: transparent; color: var(--ink); min-width: 0; padding: 0; height: 30px; }
+form.add input::placeholder { color: var(--pencil); }
+.btn { font: 600 12px/1 var(--ui); border: 1.5px solid var(--ink); background: transparent; color: var(--ink); border-radius: 4px; padding: 6px 10px; cursor: pointer; }
+.btn.solid { background: var(--ink); color: var(--paper); }
+
+.remind { margin-top: var(--line); border: 1.5px dashed var(--ink-soft); border-radius: 4px; padding: 12px 14px; display: flex; flex-wrap: wrap; gap: 10px 14px; align-items: center; background: color-mix(in srgb, var(--paper) 85%, var(--ink) 4%); }
+.remind p { margin: 0; flex: 1 1 220px; min-width: 0; font-size: 13px; color: var(--ink-soft); line-height: 1.45; }
+.remind strong { color: var(--ink); }
+.remind input[type="time"] { font-family: var(--mono); font-size: 14px; border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 4px 6px; background: transparent; color: var(--ink); }
+.note-out { width: 100%; font-family: var(--hand); font-size: 16px; line-height: 1.4; color: var(--ink); white-space: pre-wrap; border-top: 1px solid var(--rule); padding-top: 10px; }
+.foot { margin-top: var(--line); font-size: 12px; color: var(--pencil); line-height: 1.5; }
+.sample { color: var(--margin); font-weight: 600; }
+@media (max-width: 460px) {
+  .pad { padding-left: 46px; padding-right: 14px; }
+  .pad::before { left: 32px; }
+  .binding { margin-left: -46px; margin-right: -14px; }
+  h1 { font-size: 29px; }
+}
+@media (prefers-reduced-motion: no-preference) { li.item { transition: opacity .2s; } }
+</style>
+
+<main class="pad" id="pad">
+  <div class="binding"></div>
+  <header class="top">
+    <div class="brand">Carpe Diem</div>
+    <h1 id="today">Today</h1>
+    <div class="sub" id="summary">Loading your day…</div>
+  </header>
+
+  <div class="toolbar" id="filters" aria-label="Sources"></div>
+
+  <section>
+    <h2>Top three today <span class="count" id="topCount"></span></h2>
+    <ul id="top"></ul>
+  </section>
+
+  <section>
+    <h2>Schedule <span class="count" id="schedCount"></span></h2>
+    <ul id="schedule"></ul>
+  </section>
+
+  <section>
+    <h2>Emails to act on <span class="count" id="mailCount"></span></h2>
+    <ul id="mail"></ul>
+  </section>
+
+  <section>
+    <h2>Reminders &amp; my tasks <span class="count" id="taskCount"></span></h2>
+    <ul id="tasks"></ul>
+    <form class="add" id="addForm">
+      <span aria-hidden="true">+</span>
+      <input id="addInput" type="text" placeholder="Write a task and press Enter" autocomplete="off" aria-label="New task">
+      <button class="btn" type="submit">Add</button>
+    </form>
+  </section>
+
+  <div class="remind" id="remindBox">
+    <p><strong>Daily note.</strong> Each morning Carpe Diem writes this page as a short note and sends it as a reminder.</p>
+    <label for="remindTime" class="sub">Remind me at</label>
+    <input type="time" id="remindTime" value="07:30">
+    <button class="btn solid" id="enableBtn" type="button">Turn on reminder</button>
+    <button class="btn" id="previewBtn" type="button">Show today's note</button>
+    <div class="note-out" id="noteOut" hidden></div>
+  </div>
+
+  <p class="foot"><span class="sample">Sample data.</span> Calendars, email and reminders shown here are examples until your accounts are connected. Tick boxes and stars are saved on this device.</p>
+</main>
+
+<script>
+(function () {
+  "use strict";
+  var SOURCES = {
+    personal: "Personal calendar",
+    office:   "Office calendar",
+    email:    "Email",
+    reminder: "Reminders",
+    mine:     "My tasks"
+  };
+
+  // ---- Data adapters -------------------------------------------------------
+  // Each adapter returns items for a given day. Replace the sample bodies with
+  // real calls: Google Calendar API / iCloud CalDAV (personal), Microsoft Graph
+  // /me/calendarView (office), Gmail or Graph /me/messages?flagged (email),
+  // Apple Reminders via iOS Shortcuts or Google Tasks / Microsoft To Do (reminders).
+  function at(h, m) { var d = new Date(); d.setHours(h, m, 0, 0); return d.toISOString(); }
+  var adapters = {
+    personal: function () { return Promise.resolve([
+      { id: "p1", kind: "event", title: "Gym, leg day", start: at(6, 45), end: at(7, 30) },
+      { id: "p2", kind: "event", title: "Pick up Aria from school", start: at(15, 30), end: at(16, 0) },
+      { id: "p3", kind: "event", title: "Dinner with Ravi and Meena", start: at(19, 30), end: at(21, 30), where: "Saravana Bhavan" }
+    ]); },
+    office: function () { return Promise.resolve([
+      { id: "o1", kind: "event", title: "Team stand-up", start: at(9, 30), end: at(9, 45), where: "Teams" },
+      { id: "o2", kind: "event", title: "Q4 budget review with Finance", start: at(11, 0), end: at(12, 0), where: "Room 4B" },
+      { id: "o3", kind: "event", title: "1:1 with Sarah", start: at(14, 0), end: at(14, 30) }
+    ]); },
+    email: function () { return Promise.resolve([
+      { id: "e1", kind: "email", title: "Reply to Priya: vendor contract redlines", from: "Priya Nair", flagged: true },
+      { id: "e2", kind: "email", title: "Approve October expense report", from: "Concur", flagged: true },
+      { id: "e3", kind: "email", title: "Confirm Saturday plumber visit", from: "HomeFix", flagged: false }
+    ]); },
+    reminder: function () { return Promise.resolve([
+      { id: "r1", kind: "task", title: "Pay electricity bill", due: at(18, 0) },
+      { id: "r2", kind: "task", title: "Call Mum" },
+      { id: "r3", kind: "task", title: "Renew car insurance (due Monday)" }
+    ]); }
+  };
+
+  // ---- Local state (per device) -------------------------------------------
+  var dayKey = new Date().toISOString().slice(0, 10);
+  function load(k, fallback) { try { var v = localStorage.getItem("cd:" + k); return v ? JSON.parse(v) : fallback; } catch (e) { return fallback; } }
+  function save(k, v) { try { localStorage.setItem("cd:" + k, JSON.stringify(v)); } catch (e) {} }
+  var state = {
+    done: load("done:" + dayKey, {}),
+    stars: load("stars:" + dayKey, { o2: true, e1: true, r1: true }),
+    mine: load("mine:" + dayKey, [{ id: "m1", kind: "task", title: "Draft agenda for Monday offsite" }]),
+    hidden: load("hidden", {}),
+    remindAt: load("remindAt", "07:30"),
+    remindOn: load("remindOn", false)
+  };
+  var items = [];
+
+  var $ = function (id) { return document.getElementById(id); };
+  function fmt(iso) { return new Date(iso).toLocaleTimeString([], { hour: "numeric", minute: "2-digit" }); }
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+
+  function row(it) {
+    var li = document.createElement("li");
+    li.className = "item" + (state.done[it.id] ? " done" : "");
+    li.dataset.src = it.src;
+    var meta = [];
+    if (it.where) meta.push(it.where);
+    if (it.from) meta.push("from " + it.from);
+    if (it.due && it.kind === "task") meta.push("due " + fmt(it.due));
+    li.innerHTML =
+      '<input type="checkbox" class="check" id="chk-' + it.id + '" aria-label="Done: ' + esc(it.title) + '"' + (state.done[it.id] ? " checked" : "") + '>' +
+      '<label class="text" for="chk-' + it.id + '">' + esc(it.title) +
+        '<span class="meta"><span class="chip">' + SOURCES[it.src] + '</span>' + esc(meta.join(" · ")) + '</span></label>' +
+      '<div style="display:flex;gap:8px;align-items:start">' +
+        (it.start ? '<span class="time">' + fmt(it.start) + '</span>' : '') +
+        '<button class="star" type="button" aria-label="Top three" aria-pressed="' + (!!state.stars[it.id]) + '">★</button>' +
+      '</div>';
+    li.querySelector(".check").addEventListener("change", function (e) {
+      if (e.target.checked) state.done[it.id] = true; else delete state.done[it.id];
+      save("done:" + dayKey, state.done); render();
+    });
+    li.querySelector(".star").addEventListener("click", function () {
+      if (state.stars[it.id]) delete state.stars[it.id];
+      else { if (Object.keys(state.stars).length >= 3) return flash("Top three is full. Unstar one first."); state.stars[it.id] = true; }
+      save("stars:" + dayKey, state.stars); render();
+    });
+    return li;
+  }
+  function fill(id, list, emptyText) {
+    var ul = $(id); ul.innerHTML = "";
+    if (!list.length) { ul.innerHTML = '<li class="empty">' + emptyText + '</li>'; return; }
+    list.forEach(function (it) { ul.appendChild(row(it)); });
+  }
+  function flash(msg) { $("summary").textContent = msg; setTimeout(render, 1800); }
+
+  function visible() { return items.filter(function (i) { return !state.hidden[i.src]; }); }
+
+  function render() {
+    var v = visible();
+    var events = v.filter(function (i) { return i.kind === "event"; }).sort(function (a, b) { return a.start < b.start ? -1 : 1; });
+    var mail = v.filter(function (i) { return i.kind === "email"; }).sort(function (a, b) { return b.flagged - a.flagged; });
+    var tasks = v.filter(function (i) { return i.kind === "task"; });
+    var top = v.filter(function (i) { return state.stars[i.id]; });
+    fill("top", top, "Star up to three things that matter most today.");
+    fill("schedule", events, "Nothing on the calendar.");
+    fill("mail", mail, "Inbox is quiet.");
+    fill("tasks", tasks, "No reminders.");
+    $("topCount").textContent = top.length + "/3";
+    $("schedCount").textContent = events.length;
+    $("mailCount").textContent = mail.length;
+    $("taskCount").textContent = tasks.length;
+    var open = v.filter(function (i) { return !state.done[i.id]; }).length;
+    var next = events.filter(function (e) { return new Date(e.end) > new Date(); })[0];
+    $("summary").textContent = open + " open of " + v.length + (next ? " · next: " + next.title + " at " + fmt(next.start) : " · nothing else scheduled today");
+  }
+
+  function renderFilters() {
+    var bar = $("filters"); bar.innerHTML = "";
+    Object.keys(SOURCES).forEach(function (k) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "toggle"; b.dataset.src = k;
+      b.setAttribute("aria-pressed", String(!state.hidden[k]));
+      b.innerHTML = '<span class="dot"></span>' + SOURCES[k];
+      b.addEventListener("click", function () {
+        if (state.hidden[k]) delete state.hidden[k]; else state.hidden[k] = true;
+        save("hidden", state.hidden); renderFilters(); render();
+      });
+      bar.appendChild(b);
+    });
+  }
+
+  // ---- Daily note ----------------------------------------------------------
+  function buildNote() {
+    var v = visible().filter(function (i) { return !state.done[i.id]; });
+    var d = new Date().toLocaleDateString([], { weekday: "long", day: "numeric", month: "long" });
+    var lines = ["Carpe Diem, " + d, ""];
+    var top = v.filter(function (i) { return state.stars[i.id]; });
+    if (top.length) { lines.push("Top three:"); top.forEach(function (i) { lines.push("  ★ " + i.title); }); lines.push(""); }
+    var ev = v.filter(function (i) { return i.kind === "event"; }).sort(function (a, b) { return a.start < b.start ? -1 : 1; });
+    if (ev.length) { lines.push("Schedule:"); ev.forEach(function (i) { lines.push("  " + fmt(i.start) + "  " + i.title); }); lines.push(""); }
+    var rest = v.filter(function (i) { return i.kind !== "event" && !state.stars[i.id]; });
+    if (rest.length) { lines.push("Also:"); rest.forEach(function (i) { lines.push("  □ " + i.title); }); }
+    return lines.join("\n");
+  }
+  function notify() {
+    try {
+      if ("Notification" in window && Notification.permission === "granted") {
+        var body = buildNote().split("\n").slice(2, 8).join("\n");
+        new Notification("Carpe Diem: your day", { body: body, icon: "icon.svg" });
+        return true;
+      }
+    } catch (e) {}
+    return false;
+  }
+  function scheduleCheck() {
+    // Fires while the app is open. On phones, a push service or the native
+    // wrapper's local notification does this when the app is closed.
+    setInterval(function () {
+      if (!state.remindOn) return;
+      var now = new Date(), hm = now.toTimeString().slice(0, 5), last = load("lastNote", "");
+      if (hm === state.remindAt && last !== dayKey) { save("lastNote", dayKey); if (!notify()) showNote(); }
+    }, 20000);
+  }
+  function showNote() { var o = $("noteOut"); o.textContent = buildNote(); o.hidden = false; }
+  function updateRemindBtn() { $("enableBtn").textContent = state.remindOn ? "Reminder on at " + state.remindAt : "Turn on reminder"; }
+
+  $("remindTime").value = state.remindAt;
+  $("remindTime").addEventListener("change", function (e) { state.remindAt = e.target.value; save("remindAt", state.remindAt); updateRemindBtn(); });
+  $("enableBtn").addEventListener("click", function () {
+    state.remindOn = !state.remindOn; save("remindOn", state.remindOn); updateRemindBtn();
+    if (state.remindOn) {
+      try { if ("Notification" in window && Notification.permission === "default") Notification.requestPermission().catch(function () {}); } catch (e) {}
+    }
+  });
+  $("previewBtn").addEventListener("click", function () { var o = $("noteOut"); if (o.hidden) showNote(); else o.hidden = true; });
+  updateRemindBtn();
+
+  $("addForm").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var t = $("addInput").value.trim(); if (!t) return;
+    state.mine.push({ id: "m" + Date.now(), kind: "task", title: t });
+    save("mine:" + dayKey, state.mine); $("addInput").value = ""; load_();
+  });
+
+  function load_() {
+    var keys = Object.keys(adapters);
+    Promise.all(keys.map(function (k) {
+      return adapters[k]().then(function (list) { return list.map(function (i) { i.src = k; return i; }); }).catch(function () { return []; });
+    })).then(function (lists) {
+      items = [].concat.apply([], lists).concat(state.mine.map(function (i) { return Object.assign({ src: "mine" }, i); }));
+      render();
+    });
+  }
+
+  $("today").textContent = new Date().toLocaleDateString([], { weekday: "long", day: "numeric", month: "long" });
+  renderFilters(); load_(); scheduleCheck();
+
+  try { if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(function () {}); } catch (e) {}
+})();
+</script>
+
+</body>
+</html>
