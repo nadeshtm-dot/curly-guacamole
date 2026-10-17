@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-17T20:22:29.925Z",
+ "updated": "2026-10-17T21:22:27.093Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
+     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
+     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
+     "published": "2026-10-17T21:22:27.346Z"
+    },
+    {
      "title": "Man shot and killed on subway platform in midtown Manhattan after argument",
      "brief": "New York (AP) — An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted.",
      "link": "https://www.cnn.com/2026/10/17/us/nyc-subway-shooting-midtown",
-     "published": "2026-10-17T20:22:30.212Z"
+     "published": "2026-10-17T21:20:27.355Z"
     },
     {
      "title": "Half a million protesters sweep France in major show of youth unrest",
      "brief": "Clouds of tear gas fired by police filled the streets of Paris on Saturday, as anti-government protests stretched beyond the French capital.",
      "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
-     "published": "2026-10-17T20:20:30.256Z"
+     "published": "2026-10-17T21:18:27.371Z"
     },
     {
      "title": "Israeli settlers attack group of European diplomats in the occupied West Bank",
      "brief": "Israeli settlers attacked a group of European diplomats in the occupied West Bank on Saturday, one day after a Washington Post journalist was injured in another assault.",
      "link": "https://www.cnn.com/2026/10/17/middleeast/west-bank-diplomats-attacked-intl",
-     "published": "2026-10-17T20:19:30.279Z"
+     "published": "2026-10-17T21:17:27.375Z"
     },
     {
      "title": "Six Flags Over Georgia reopens amid tensions and questions in the wake of fatal roller coaster incident",
      "brief": "It looked like a typical October evening at Six Flags Over Georgia.",
      "link": "https://www.cnn.com/2026/10/17/us/six-flags-georgia-reopens-amid-investigation",
-     "published": "2026-10-17T20:17:30.420Z"
+     "published": "2026-10-17T21:15:27.364Z"
     },
     {
-     "title": "Fisherman, 71, attacked and killed by 12-foot alligator alongside Florida lake",
-     "brief": "A 71-year-old man fishing on the shore of a Florida pond was attacked and killed on Friday by a nearly 12-foot alligator, the second fatal such attack reported this year.",
-     "link": "https://www.cnn.com/2026/10/17/us/florida-fisherman-alligator-attack",
-     "published": "2026-10-17T20:16:30.258Z"
-    },
-    {
-     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
-     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
-     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
-     "published": "2026-10-17T20:15:30.250Z"
+     "title": "Washington Post journalist hospitalized after Israeli settler attack on Palestinian olive harvest in West Bank",
+     "brief": "A Washington Post photojournalist was hospitalized after Israeli settlers in the occupied West Bank attacked her and a group of Palestinians during the annual olive harvest.",
+     "link": "https://www.cnn.com/2026/10/16/media/washington-post-journalist-israeli-settler-attack-intl",
+     "published": "2026-10-16T12:00:00.000Z"
     },
     {
      "title": "Trump waives Russia-related sanctions before they even kick in as Ukraine ties worsen",
