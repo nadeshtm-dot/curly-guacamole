@@ -107,6 +107,17 @@ form.add input::placeholder { color: var(--pencil); }
 .remind strong { color: var(--ink); }
 .remind input[type="time"] { font-family: var(--mono); font-size: 14px; border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 4px 6px; background: transparent; color: var(--ink); }
 .note-out { width: 100%; font-family: var(--hand); font-size: 16px; line-height: 1.4; color: var(--ink); white-space: pre-wrap; border-top: 1px solid var(--rule); padding-top: 10px; }
+.news li { padding-block: 5px 6px; border-bottom: 1px solid transparent; }
+.news a { color: var(--ink); text-decoration: none; font-family: var(--hand); font-size: 18px; line-height: 23px; display: block; overflow-wrap: anywhere; }
+.news a:hover, .news a:focus-visible { text-decoration: underline; text-decoration-color: var(--margin); }
+.news .pt { display: block; font-size: 13px; line-height: 18px; color: var(--ink-soft); padding-left: 14px; position: relative; }
+.news .pt::before { content: "–"; position: absolute; left: 0; }
+.news .meta { display: block; font-size: 11px; line-height: 16px; color: var(--pencil); font-family: var(--mono); }
+.news [data-news="cnn"] { --c: #c4302b; }
+.news [data-news="thestar"] { --c: #1d4f91; }
+.news .chip { color: var(--c); }
+.newsTabs { display: flex; gap: 6px; padding-bottom: 4px; }
+.newsTabs .toggle[aria-pressed="false"] { text-decoration: none; }
 .connect { margin-top: 14px; border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 12px 14px; display: flex; flex-direction: column; gap: 10px; }
 .connect h3 { margin: 0; font: 600 11px/1.2 var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-soft); }
 .acct { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 13px; }
@@ -159,6 +170,12 @@ form.add input::placeholder { color: var(--pencil); }
       <input id="addInput" type="text" placeholder="Write a task and press Enter" autocomplete="off" aria-label="New task">
       <button class="btn" type="submit">Add</button>
     </form>
+  </section>
+
+  <section class="news">
+    <h2>Headlines <span class="count" id="newsUpdated"></span></h2>
+    <div class="newsTabs" id="newsTabs"></div>
+    <ul id="newsList"><li class="empty">Loading headlines…</li></ul>
   </section>
 
   <div class="remind" id="remindBox">
@@ -510,6 +527,8 @@ form.add input::placeholder { color: var(--pencil); }
     if (ev.length) { lines.push("Schedule:"); ev.forEach(function (i) { lines.push("  " + fmt(i.start) + "  " + i.title); }); lines.push(""); }
     var rest = v.filter(function (i) { return i.kind !== "event" && !state.stars[i.id]; });
     if (rest.length) { lines.push("Also:"); rest.forEach(function (i) { lines.push("  □ " + i.title); }); }
+    var heads = newsItems().slice(0, 4);
+    if (heads.length) { lines.push(""); lines.push("Headlines:"); heads.forEach(function (h) { lines.push("  • " + h.title + " (" + h.src + ")"); }); }
     return lines.join("\n");
   }
   function notify() {
@@ -608,6 +627,51 @@ form.add input::placeholder { color: var(--pencil); }
     if (live("ms")) { save("tok:ms", null); save("email:ms", ""); renderConnect(); load_(); return; }
     ms_.signIn().catch(function (e) { hint(e.message, true); });
   });
+
+  // ---- News ---------------------------------------------------------------
+  // news.json is refreshed hourly on the server by a GitHub Action (CNN, The Star).
+  var news = null, newsShow = load("newsShow", "all");
+  function newsItems() {
+    if (!news) return [];
+    var out = [];
+    Object.keys(news.sources).forEach(function (k) {
+      if (newsShow !== "all" && newsShow !== k) return;
+      news.sources[k].items.forEach(function (i) { out.push(Object.assign({ key: k, src: news.sources[k].name }, i)); });
+    });
+    return out.sort(function (a, b) { return a.published < b.published ? 1 : -1; });
+  }
+  function ago(iso) {
+    var m = Math.round((Date.now() - Date.parse(iso)) / 60000);
+    return m < 60 ? Math.max(m, 1) + " min ago" : m < 1440 ? Math.round(m / 60) + " h ago" : Math.round(m / 1440) + " d ago";
+  }
+  function renderNews() {
+    var tabs = $("newsTabs"); tabs.innerHTML = "";
+    [["all", "All"], ["cnn", "CNN"], ["thestar", "The Star"]].forEach(function (t) {
+      var b = document.createElement("button");
+      b.type = "button"; b.className = "toggle"; b.textContent = t[1]; b.setAttribute("aria-pressed", String(newsShow === t[0]));
+      b.addEventListener("click", function () { newsShow = t[0]; save("newsShow", newsShow); renderNews(); });
+      tabs.appendChild(b);
+    });
+    var ul = $("newsList");
+    if (!news) { ul.innerHTML = '<li class="empty">Headlines appear here once the hourly update has run.</li>'; $("newsUpdated").textContent = ""; return; }
+    var list = newsItems().slice(0, newsShow === "all" ? 10 : 8);
+    $("newsUpdated").textContent = "updated " + ago(news.updated);
+    ul.innerHTML = list.length ? "" : '<li class="empty">No fresh headlines right now.</li>';
+    list.forEach(function (i) {
+      var li = document.createElement("li"); li.dataset.news = i.key;
+      li.innerHTML = '<a href="' + esc(i.link) + '" target="_blank" rel="noopener">' + esc(i.title) + '</a>' +
+        (i.brief ? '<span class="pt">' + esc(i.brief) + '</span>' : '') +
+        '<span class="meta"><span class="chip">' + esc(i.src) + '</span>' + ago(i.published) + '</span>';
+      ul.appendChild(li);
+    });
+  }
+  function loadNews() {
+    return fetch("news.json?t=" + Date.now(), { cache: "no-store" }).then(function (r) { if (!r.ok) throw 0; return r.json(); })
+      .then(function (d) { news = d; save("news", d); }, function () { news = news || load("news", null); })
+      .then(renderNews);
+  }
+  news = load("news", null); renderNews(); loadNews();
+  setInterval(loadNews, 15 * 60 * 1000);
 
   renderConnect(); renderFilters();
   ms_.handleRedirect().then(function (did) { if (did) hint("Microsoft connected. Today now includes Outlook."); },

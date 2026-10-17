@@ -34,6 +34,9 @@ Works with a work/school account or a personal Outlook.com account. Register the
 Permissions requested (read-only, delegated): Calendars.Read, Mail.Read, Tasks.Read, User.Read, offline_access. Some companies require IT approval for these.
 Microsoft stays signed in for about a day before asking again.
 
+## Headlines (CNN and The Star)
+`.github/workflows/news.yml` runs `scripts/fetch-news.mjs` every hour. It reads the CNN and The Star (Malaysia) RSS feeds and writes `news.json`, which the app shows as headlines with a one-line brief from each story's summary. If a feed goes stale it falls back to Google News results for that site (headline only). Run it by hand from the repo's Actions tab: Refresh news, Run workflow.
+
 ## Connecting other services
 Each source is an adapter in `src/page.html` (search for "Data adapters"). Replace the sample body with:
 | Source | Service | What you'd connect |
