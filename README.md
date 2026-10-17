@@ -14,7 +14,17 @@ If you later want App Store / Play Store builds, the same page can be wrapped wi
 - `app/` – the installable build (`index.html`, `manifest.json`, `sw.js`, `icon.svg`). Rebuild with `sh build.sh`.
 - Run locally: `cd app && python3 -m http.server 8000`, then open http://localhost:8000.
 
-## Connecting real data
+## Connecting Google (calendar, Gmail, Google Tasks)
+The app signs in to Google straight from the browser. It needs a free OAuth client ID that you create once:
+1. https://console.cloud.google.com/projectcreate: create a project called Carpe Diem.
+2. APIs & Services > Library: enable Google Calendar API, Gmail API and Google Tasks API.
+3. Google Auth Platform (OAuth consent screen): User type External, app name Carpe Diem, your email. Under Audience, add your Google addresses (personal and work) as test users.
+4. Clients > Create client > Web application. Authorized JavaScript origins: `https://nadeshtm-dot.github.io`. Copy the client ID.
+5. In Carpe Diem, paste the client ID under Google accounts, Save, then Connect.
+Google will warn the app is unverified; that is expected for a personal app in testing. Choose Continue.
+Access is read-only. Sign-in lasts about an hour, then tap Connect again.
+
+## Connecting other services
 Each source is an adapter in `src/page.html` (search for "Data adapters"). Replace the sample body with:
 | Source | Service | What you'd connect |
 |---|---|---|

@@ -116,6 +116,14 @@ form.add input::placeholder { color: var(--pencil); }
 .remind strong { color: var(--ink); }
 .remind input[type="time"] { font-family: var(--mono); font-size: 14px; border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 4px 6px; background: transparent; color: var(--ink); }
 .note-out { width: 100%; font-family: var(--hand); font-size: 16px; line-height: 1.4; color: var(--ink); white-space: pre-wrap; border-top: 1px solid var(--rule); padding-top: 10px; }
+.connect { margin-top: 14px; border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 12px 14px; display: flex; flex-direction: column; gap: 10px; }
+.connect h3 { margin: 0; font: 600 11px/1.2 var(--ui); letter-spacing: .14em; text-transform: uppercase; color: var(--ink-soft); }
+.acct { display: flex; flex-wrap: wrap; gap: 8px 12px; align-items: center; font-size: 13px; }
+.acct .who { flex: 1 1 200px; min-width: 0; color: var(--ink-soft); overflow-wrap: anywhere; }
+.acct .who strong { color: var(--ink); }
+.connect input[type="text"] { flex: 1 1 240px; min-width: 0; font: 13px var(--mono); border: 1.5px solid var(--ink-soft); border-radius: 4px; padding: 6px 8px; background: transparent; color: var(--ink); }
+.connect .hint { margin: 0; font-size: 12px; color: var(--ink-soft); line-height: 1.45; }
+.err { color: var(--margin); }
 .foot { margin-top: var(--line); font-size: 12px; color: var(--pencil); line-height: 1.5; }
 .sample { color: var(--margin); font-weight: 600; }
 @media (max-width: 460px) {
@@ -171,9 +179,27 @@ form.add input::placeholder { color: var(--pencil); }
     <div class="note-out" id="noteOut" hidden></div>
   </div>
 
-  <p class="foot"><span class="sample">Sample data.</span> Calendars, email and reminders shown here are examples until your accounts are connected. Tick boxes and stars are saved on this device.</p>
+  <div class="connect" id="connectBox">
+    <h3>Google accounts</h3>
+    <div class="acct" id="clientRow">
+      <input type="text" id="clientId" placeholder="Paste your Google OAuth client ID" aria-label="Google OAuth client ID" autocomplete="off">
+      <button class="btn" id="saveClient" type="button">Save</button>
+    </div>
+    <div class="acct" data-src="personal">
+      <span class="who" id="who-personal"><strong>Personal</strong> · calendar, Gmail, Google Tasks</span>
+      <button class="btn solid" id="btn-personal" type="button">Connect</button>
+    </div>
+    <div class="acct" data-src="office">
+      <span class="who" id="who-office"><strong>Work</strong> · calendar and Gmail</span>
+      <button class="btn solid" id="btn-office" type="button">Connect</button>
+    </div>
+    <p class="hint" id="connectHint">Read-only access. Your data goes straight from Google to this device and is never stored anywhere else. Sign-in lasts about an hour, then tap Connect again.</p>
+  </div>
+
+  <p class="foot" id="foot"><span class="sample">Sample data.</span> Anything not connected above shows examples. Tick boxes and stars are saved on this device.</p>
 </main>
 
+<script src="https://accounts.google.com/gsi/client" async defer></script>
 <script>
 (function () {
   "use strict";
@@ -191,7 +217,7 @@ form.add input::placeholder { color: var(--pencil); }
   // /me/calendarView (office), Gmail or Graph /me/messages?flagged (email),
   // Apple Reminders via iOS Shortcuts or Google Tasks / Microsoft To Do (reminders).
   function at(h, m) { var d = new Date(); d.setHours(h, m, 0, 0); return d.toISOString(); }
-  var adapters = {
+  var samples = {
     personal: function () { return Promise.resolve([
       { id: "p1", kind: "event", title: "Gym, leg day", start: at(6, 45), end: at(7, 30) },
       { id: "p2", kind: "event", title: "Pick up Aria from school", start: at(15, 30), end: at(16, 0) },
@@ -212,6 +238,84 @@ form.add input::placeholder { color: var(--pencil); }
       { id: "r2", kind: "task", title: "Call Mum" },
       { id: "r3", kind: "task", title: "Renew car insurance (due Monday)" }
     ]); }
+  };
+
+  // ---- Google ------------------------------------------------------------
+  // Browser-only OAuth (Google Identity Services token flow). Each slot holds
+  // one Google account; tokens live in this browser for their ~1 hour life.
+  var SCOPES = {
+    personal: "https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/gmail.readonly https://www.googleapis.com/auth/tasks.readonly https://www.googleapis.com/auth/userinfo.email",
+    office: "https://www.googleapis.com/auth/calendar.readonly https://www.googleapis.com/auth/gmail.readonly https://www.googleapis.com/auth/userinfo.email"
+  };
+  var google_ = {
+    clientId: function () { return load("clientId", ""); },
+    token: function (slot) { var t = load("tok:" + slot, null); return t && t.exp > Date.now() + 60000 ? t : null; },
+    get: function (slot, url) {
+      var t = google_.token(slot);
+      if (!t) return Promise.reject(new Error("not connected"));
+      return fetch(url, { headers: { Authorization: "Bearer " + t.access } }).then(function (r) {
+        if (r.status === 401) { save("tok:" + slot, null); throw new Error("expired"); }
+        if (!r.ok) throw new Error("Google said " + r.status);
+        return r.json();
+      });
+    },
+    connect: function (slot) {
+      var id = google_.clientId();
+      if (!id) return Promise.reject(new Error("Paste your client ID first."));
+      if (!(window.google && google.accounts && google.accounts.oauth2)) return Promise.reject(new Error("Google sign-in didn't load. Check your connection and reload."));
+      return new Promise(function (resolve, reject) {
+        var client = google.accounts.oauth2.initTokenClient({
+          client_id: id, scope: SCOPES[slot], prompt: "select_account",
+          callback: function (resp) {
+            if (resp.error) return reject(new Error(resp.error_description || resp.error));
+            save("tok:" + slot, { access: resp.access_token, exp: Date.now() + (resp.expires_in || 3600) * 1000 });
+            google_.get(slot, "https://www.googleapis.com/oauth2/v3/userinfo").then(function (u) { save("email:" + slot, u.email || ""); resolve(); }, function () { resolve(); });
+          },
+          error_callback: function (e) { reject(new Error(e && e.type === "popup_closed" ? "Sign-in window was closed." : "Sign-in failed.")); }
+        });
+        client.requestAccessToken();
+      });
+    }
+  };
+  function dayBounds() { var a = new Date(); a.setHours(0, 0, 0, 0); var b = new Date(a); b.setDate(b.getDate() + 1); return [a.toISOString(), b.toISOString()]; }
+  function gcal(slot) {
+    var r = dayBounds();
+    return google_.get(slot, "https://www.googleapis.com/calendar/v3/calendars/primary/events?singleEvents=true&orderBy=startTime&maxResults=50&timeMin=" + encodeURIComponent(r[0]) + "&timeMax=" + encodeURIComponent(r[1]))
+      .then(function (d) { return (d.items || []).filter(function (e) { return e.status !== "cancelled"; }).map(function (e) {
+        var allDay = !e.start.dateTime;
+        return { id: slot + ":" + e.id, kind: allDay ? "task" : "event", title: e.summary || "(no title)", start: allDay ? null : e.start.dateTime, end: allDay ? null : e.end.dateTime, where: e.location || (allDay ? "all day" : "") };
+      }); });
+  }
+  function gmail(slot) {
+    var q = encodeURIComponent("in:inbox (is:starred OR (is:unread is:important)) newer_than:3d");
+    return google_.get(slot, "https://gmail.googleapis.com/gmail/v1/users/me/messages?maxResults=8&q=" + q).then(function (d) {
+      return Promise.all((d.messages || []).map(function (m) {
+        return google_.get(slot, "https://gmail.googleapis.com/gmail/v1/users/me/messages/" + m.id + "?format=metadata&metadataHeaders=Subject&metadataHeaders=From").then(function (full) {
+          var h = {}; (full.payload.headers || []).forEach(function (x) { h[x.name] = x.value; });
+          var from = (h.From || "").replace(/\s*<.*>$/, "").replace(/"/g, "");
+          return { id: slot + ":" + m.id, kind: "email", title: h.Subject || "(no subject)", from: from + (slot === "office" ? " (work)" : ""), flagged: (full.labelIds || []).indexOf("STARRED") >= 0 };
+        });
+      }));
+    });
+  }
+  function gtasks(slot) {
+    var r = dayBounds();
+    return google_.get(slot, "https://tasks.googleapis.com/tasks/v1/lists/@default/tasks?showCompleted=false&maxResults=50").then(function (d) {
+      return (d.items || []).filter(function (t) { return t.title && (!t.due || t.due < r[1]); }).map(function (t) {
+        return { id: slot + ":" + t.id, kind: "task", title: t.title + (t.due && t.due < r[0] ? " (overdue)" : "") };
+      });
+    });
+  }
+  function live(slot) { return !!google_.token(slot); }
+  var adapters = {
+    personal: function () { return live("personal") ? gcal("personal") : samples.personal(); },
+    office:   function () { return live("office") ? gcal("office") : samples.office(); },
+    email:    function () {
+      if (!live("personal") && !live("office")) return samples.email();
+      return Promise.all(["personal", "office"].filter(live).map(function (s) { return gmail(s).catch(function () { return []; }); }))
+        .then(function (l) { return [].concat.apply([], l); });
+    },
+    reminder: function () { return live("personal") ? gtasks("personal") : samples.reminder(); }
   };
 
   // ---- Local state (per device) -------------------------------------------
@@ -358,7 +462,7 @@ form.add input::placeholder { color: var(--pencil); }
   function load_() {
     var keys = Object.keys(adapters);
     Promise.all(keys.map(function (k) {
-      return adapters[k]().then(function (list) { return list.map(function (i) { i.src = k; return i; }); }).catch(function () { return []; });
+      return adapters[k]().then(function (list) { return list.map(function (i) { i.src = k; return i; }); }).catch(function (e) { hint(SOURCES[k] + ": " + e.message + (e.message === "expired" ? ". Tap Connect again." : ""), true); renderConnect(); return []; });
     })).then(function (lists) {
       items = [].concat.apply([], lists).concat(state.mine.map(function (i) { return Object.assign({ src: "mine" }, i); }));
       render();
@@ -366,7 +470,37 @@ form.add input::placeholder { color: var(--pencil); }
   }
 
   $("today").textContent = new Date().toLocaleDateString([], { weekday: "long", day: "numeric", month: "long" });
-  renderFilters(); load_(); scheduleCheck();
+  function renderConnect() {
+    var id = google_.clientId();
+    $("clientId").value = id;
+    $("clientRow").hidden = !!id && !showClient;
+    ["personal", "office"].forEach(function (slot) {
+      var on = live(slot), email = load("email:" + slot, "");
+      var label = slot === "personal" ? "Personal" : "Work";
+      $("who-" + slot).innerHTML = "<strong>" + label + "</strong> · " + (on ? "connected" + (email ? " as " + esc(email) : "") : (load("tok:" + slot, null) ? "sign-in expired" : (slot === "personal" ? "calendar, Gmail, Google Tasks" : "calendar and Gmail")));
+      $("btn-" + slot).textContent = on ? "Disconnect" : "Connect";
+      $("btn-" + slot).className = on ? "btn" : "btn solid";
+    });
+    var any = live("personal") || live("office");
+    $("foot").innerHTML = any ? "Live from Google where connected; anything else shows examples. Tick boxes and stars are saved on this device."
+      : '<span class="sample">Sample data.</span> Anything not connected above shows examples. Tick boxes and stars are saved on this device.';
+  }
+  var showClient = false;
+  function hint(msg, bad) { $("connectHint").textContent = msg; $("connectHint").className = "hint" + (bad ? " err" : ""); }
+  $("saveClient").addEventListener("click", function () {
+    var v = $("clientId").value.trim();
+    if (!/\.apps\.googleusercontent\.com$/.test(v)) return hint("That doesn't look like a client ID. It ends in .apps.googleusercontent.com.", true);
+    save("clientId", v); showClient = false; hint("Client ID saved. Now tap Connect."); renderConnect();
+  });
+  ["personal", "office"].forEach(function (slot) {
+    $("btn-" + slot).addEventListener("click", function () {
+      if (live(slot)) { save("tok:" + slot, null); save("email:" + slot, ""); renderConnect(); load_(); return; }
+      google_.connect(slot).then(function () { hint("Connected. Today now comes from Google."); renderConnect(); load_(); },
+        function (e) { hint(e.message, true); });
+    });
+  });
+
+  renderConnect(); renderFilters(); load_(); scheduleCheck();
 
   try { if ("serviceWorker" in navigator && location.protocol === "https:") navigator.serviceWorker.register("sw.js").catch(function () {}); } catch (e) {}
 })();
