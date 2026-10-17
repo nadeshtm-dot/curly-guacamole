@@ -1,39 +1,39 @@
 {
- "updated": "2026-10-17T12:57:06.743Z",
+ "updated": "2026-10-17T13:27:41.491Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "It took just 3 minutes. How the Bend school shooting unfolded",
+     "brief": "On a sunny Oregon fall morning, parents dressed their children up and sent them to Silver Rail Elementary School for picture day.",
+     "link": "https://www.cnn.com/2026/10/17/us/bend-oregon-school-shooting-how-it-unfolded",
+     "published": "2026-10-17T13:27:41.720Z"
+    },
+    {
+     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
+     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
+     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
+     "published": "2026-10-17T13:26:41.734Z"
+    },
+    {
+     "title": "A courageous teenager battling brain cancer gets the surprise of a lifetime from his beloved Florida Gators",
+     "brief": "It started with just the kind of news that is every parent’s worst nightmare.",
+     "link": "https://www.cnn.com/2026/10/17/sport/florida-gators-teen-cancer",
+     "published": "2026-10-17T13:25:41.731Z"
+    },
+    {
      "title": "ICE pursuit in Houston that broke a man’s leg targeted a suspect who died years ago, family says",
      "brief": "A federal officer slammed a vehicle into a Houston construction worker and broke his leg while pursuing a man who apparently died years ago, his family said Friday, further calling into question the account given by U.S.",
      "link": "https://www.cnn.com/2026/10/17/us/ice-houston-pursuit-target",
-     "published": "2026-10-17T12:54:06.979Z"
+     "published": "2026-10-17T13:21:41.736Z"
     },
     {
      "title": "‘Times have changed’: The Italian princess renting out her palace in Rome",
      "brief": "In our roundup of travel stories this week: Istanbul’s time-traveling hotel, a slow-eater’s guide to Hong Kong, plus the aristocrats opening their homes to guests.",
      "link": "https://www.cnn.com/2026/10/17/travel/italian-princess-renting-palace-rome",
-     "published": "2026-10-17T12:53:06.996Z"
-    },
-    {
-     "title": "Pope Leo to be discharged from hospital today following lung cancer surgery",
-     "brief": "Pope Leo XIV will leave hospital on Saturday, four days after undergoing lung cancer surgery, the Vatican says, it what will mark a swift return to his duties following the first health scare of his papacy.",
-     "link": "https://www.cnn.com/2026/10/17/europe/pope-cancer-hospital-discharge-intl",
-     "published": "2026-10-17T12:52:06.967Z"
-    },
-    {
-     "title": "AI enters the chaotic world of online dating. User beware",
-     "brief": "Jack is on the search for the love of his life.",
-     "link": "https://www.cnn.com/2026/10/17/health/ai-online-dating-game-wellness",
-     "published": "2026-10-17T12:51:06.982Z"
-    },
-    {
-     "title": "It wouldn’t be easy to strip Rep. Ilhan Omar of her citizenship, legal experts say",
-     "brief": "The search of Rep. Ilhan Omar’s Washington, DC, home by federal law enforcement earlier this week was an extraordinary legal step taken against a sitting congresswoman who is facing reelection.",
-     "link": "https://www.cnn.com/2026/10/17/politics/explainer-wouldnt-be-easy-to-strip-rep-ilhan-omar-citizenship",
-     "published": "2026-10-17T12:50:06.986Z"
+     "published": "2026-10-17T13:20:41.739Z"
     },
     {
      "title": "Rep. Ilhan Omar challenges legality of Trump administration search of her home",
@@ -84,16 +84,16 @@
      "published": "2026-10-17T10:19:00.000Z"
     },
     {
+     "title": "Terengganu cops seize 125 motorcycles in Ops Samseng Jalanan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNS01nQlJSZnk0S2JMZ3hLRE9tMmpaendKUE05aUg5S2FkUmhINTdBSFVWY2M5YWJRQlBBa1hDZUtaZWl2cGhMNmdEcFpSUFhhZkk4eUVucF8taG8zWU1mMUFRbDlOVkg3S2Vyd2xWcEJFTFVpaW5nT0gwbGdiUGEtRl9abTFsRDZxcDd1a05yV21fWW5KTzhIM2FiWGllR09KWDZHd2dySVd3WV9oLTFN?oc=5",
+     "published": "2026-10-17T09:51:00.000Z"
+    },
+    {
      "title": "Badminton: Khai Xing-Hong Quan go down to S. Korean pair in semis at home meet",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRGxTbEJPelZ0TlBaeF8yMmppODI1aldmQndWOU5ORlYtNEI3aUFULTUzWUxTTWtMZmRVU2FjTnBabEE2Vk1FSE9WV19QY3hpMVdDSldRd2FzaVBmeEdiaWtXNFFHRGVCRy1fa0l2RFhHVWhodlJJUjhQZk9CX0VjSzBxeXRJZGJKZ3JpclI3bld0NTJvdjJETFBILWRJRU9ZVlgzTHZ6SHpmMDJXT0hyTUhtemJ3c0pOQ0liNg?oc=5",
      "published": "2026-10-17T09:48:00.000Z"
-    },
-    {
-     "title": "Retiree loses over RM42,000 to ‘money-doubling’ scam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSWxVZTZHam12ai1aRFRlSWRnMk5PekxmQVBmcHFsWmJ6RFVFWnlqRzR1Uzk3bUt6THNGNnBuVkVwSFJXd0RMbWp3TGZvSnB0YlIzTjYwd1VfaHBVNFBQRmY4Wnc0LTdpWWdQLW9aaXFCZ21iODN1UjJ0ZFFtdE15UUdjbzdWbEZJaXlxNG5kMnY2ZE5JZWNWVzBGRmFCT3pE?oc=5",
-     "published": "2026-10-17T09:21:00.000Z"
     },
     {
      "title": "Anthropic's Clark says AI's impact accelerating quickly and could vastly boost US GDP",
