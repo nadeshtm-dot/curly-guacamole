@@ -1,27 +1,39 @@
 {
- "updated": "2026-10-18T22:22:01.096Z",
+ "updated": "2026-10-18T23:20:55.488Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘You Can See Everything’ becomes one of the biggest documentary releases in decades",
+     "brief": "“You Can See Everything” just saw the biggest box office opening for a documentary in more than 20 years.",
+     "link": "https://www.cnn.com/2026/10/18/business/you-can-see-everything-fielder-box-office",
+     "published": "2026-10-18T23:18:55.793Z"
+    },
+    {
      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T22:20:01.421Z"
+     "published": "2026-10-18T23:17:55.771Z"
     },
     {
      "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
      "brief": "Former President Barack Obama on Sunday called the Justice Department’s investigation into Rep.",
      "link": "https://www.cnn.com/2026/10/18/politics/obama-ilhan-omar-investigation",
-     "published": "2026-10-18T22:17:01.447Z"
+     "published": "2026-10-18T23:14:55.787Z"
     },
     {
      "title": "‘It’s a very dark time’: Inside Cornell’s surreal homecoming weekend",
      "brief": "Worlds are colliding at Cornell.",
      "link": "https://www.cnn.com/2026/10/18/us/cornell-homecoming-weekend-campus-mood",
-     "published": "2026-10-18T22:16:01.394Z"
+     "published": "2026-10-18T23:13:55.782Z"
+    },
+    {
+     "title": "4 dead and dozens injured after major fire breaks out at one of Canada’s largest military bases",
+     "brief": "Four Canadian service members were killed and dozens injured in a major fire Saturday that occurred as troops were conducting combat training with live munitions at one of the country’s largest and busiest military…",
+     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
      "title": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’ during major protests",
@@ -40,18 +52,6 @@
      "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
      "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
      "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "4 dead and 39 injured after major fire breaks out at Canadian military base",
-     "brief": "Four service members were killed and dozens more seriously injured in a major fire Saturday at one of Canada’s largest and busiest military bases, Canadian Prime Minister Mark Carney said Sunday.",
-     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "It wouldn’t be easy to strip Rep. Ilhan Omar of her citizenship, legal experts say",
-     "brief": "The search of Rep. Ilhan Omar’s Washington, DC, home by federal law enforcement earlier this week was an extraordinary legal step taken against a sitting congresswoman who is facing reelection.",
-     "link": "https://www.cnn.com/2026/10/17/politics/explainer-wouldnt-be-easy-to-strip-rep-ilhan-omar-citizenship",
-     "published": "2026-10-17T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Lyon go top after comeback win over Nice",
+     "title": "Ministry dismisses QR payment charges reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTFmZXZ4U2t2XzZUVXFWTE5odGo3UDI5U2dRUjNnc2p0SzVaOS1VZnRma09mZmtYTmhKSDJZZnNScG5QNy1qWk0xTkFMbl9vczcyb3NZVkxBVGlzTnBPOUVQZ0dGSV9WWDRkMDlHZllMZFVUclJHcXU3UFF0SnNpRk5ldEphaFVYNUljdVZqWEhVenh4SzAwa29lajFaWWFocGc?oc=5",
-     "published": "2026-10-18T21:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmJESXFrN2Z3Mm9LTHVtalo1ajFWdUJwZXp4NWp0V3h4ZUZHWWV5cEZZOVZOVmV6dmpHOFh1UWhFaGphSURQdHNLeVVXQzluME05RTIzY3BTREYyUk5JSkpvOEM1RE9OUXRSTU1aYnR0ekxyQ3h4bmVRNVNTUTNaVmZiemFWbWtoWldmR0ZVTjRCdFdoMWF4N01zdw?oc=5",
+     "published": "2026-10-18T23:15:37.000Z"
+    },
+    {
+     "title": "At least 8 killed in mortar shell explosion in Libya",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmpqT055Q043ejdlaTJ1bHEyRXVReV9hcWRZMXl0eXFXNUtONUxpeldBdVlEWGdETmVzenlGQ3M2Z0VKSEdOSk03bjItUHh6N29naUtNTzM2VzRnb1cxOHg5X2FCNFJ6aDFhZDdNN1ZvYTRfT2oyc1hKZV9UT2F1YWJIVmpRSFh1TC1WdlZvc0JpanlsUVpOZUdCeXdYRFBIN3VJ?oc=5",
+     "published": "2026-10-18T23:00:00.000Z"
     },
     {
      "title": "Football: Soccer-Mbappe double helps Real Madrid sweep aside Sevilla ahead of El Clasico",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0ZJMUwxeTJTREgyM1d0Nm1LRzJ6aVVpRFBIZlNBM3hKR1Q4VDB0cnlkckJlQkVlbk1JR3RVYTRfTGxqWXptS25SM21WbXdtd05qWkl3MUZJTDFBVVlzLUNRZlJiNVBNcGVQWldjUTA5SkJMeEk2d2lxejh1aHpnQ19TN0R3SmhncUs2N2NRcC1HZXNuSVpHZzlwRHVsNGF5RG5UN3lXQmlYaktVd1JCSmdqZWd5SHF3RjBwSTJwQzBGbjQ1Rnl3LWdJTQ?oc=5",
      "published": "2026-10-18T21:23:00.000Z"
+    },
+    {
+     "title": "COP17 opens in Armenia for global progress review",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGJlQlY2Vk1Leks0c1B1dzdoTmRaVWgzVTdTbTJRV3BXOFVFakU1Z1BBZERSYl9Oc2VYekJGVTNWTWhwNW5ucm5Jc01zNkxyZkZGU3VjTWdMdmtZbTFmZHlPMS0tNXRMWktNT2Q2YWx2SDcwQ1Q4WXItdkxhTVJwRnlVTFM2akdIMDd1YnU4Q1VIMFU5c3VhX0dvSDUwN1U?oc=5",
+     "published": "2026-10-18T20:37:00.000Z"
     },
     {
      "title": "Beirut int'l book fair concludes 10-day edition featuring diverse activities",
@@ -90,22 +102,10 @@
      "published": "2026-10-18T17:22:00.000Z"
     },
     {
-     "title": "Genting’s debt, equity divide",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
-     "published": "2026-10-18T17:03:19.000Z"
-    },
-    {
      "title": "Chinese medical team provides free consultations in southern Cameroon",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdVUkJRWEdfX21qcV9kd3NLLUdoSEVUOU1hYXhXcmVrZ3JFNGpsTFVSM1VyaFl0VnZoSUE3eTRuVnlrb1NrQnltM0hFZXZzb25BMWJQazRfalJjZU83VmFhQm0xNTRsaHVpeU5KdHlWRDdTQzBvNHRpZjJ5Y0ZrSDlPNXhMRVB6UWV3R05hajlaeTBpNndvNmJhVWZoZ3Z4Slk1MjlnMnMzSGF3cUlEelNuZnI0ajIzNHc?oc=5",
      "published": "2026-10-18T16:58:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Barcelona hit by double injury blow before PSG trip",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjh2cHpyX2VScXNEZkQ3Q3c2RVdJOGYybnVtOXVuM3NHVjNXQ0EtNjZFVDZpRmhxYVR4ZjVOa2RCUUtiaU9LeDFmMV9Qb24zaVl2NjVlX2dPWWxDV0NjM1l3YVhZQUI1VjJwR25VMzE2ZmotaEFwSG9jMG1fRU54Q05rN2NEUU5CTGd4RklxbGVFekJfSUZGaERodm10cmQ2ZkpMQVJmcG1iQkhobUpERw?oc=5",
-     "published": "2026-10-18T16:37:00.000Z"
     }
    ]
   }
