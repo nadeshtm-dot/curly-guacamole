@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-18T17:22:22.045Z",
+ "updated": "2026-10-18T18:25:06.035Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "DC golf course at center of fight over tree clearing to start renovations next month, Trump says",
+     "brief": "President Donald Trump said Sunday that restoration work on the Washington, DC golf course that has become wrapped up in litigation will begin November 15, despite a federal judge’s order last week for tree clearing…",
+     "link": "https://www.cnn.com/2026/10/18/politics/east-potomac-park-golf-course-renovations-trump",
+     "published": "2026-10-18T18:25:06.409Z"
+    },
+    {
+     "title": "Republicans confront anger from their own red-state voters ahead of midterms",
+     "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
+     "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
+     "published": "2026-10-18T18:22:06.431Z"
+    },
+    {
      "title": "Olympic canoeist at center of Reflecting Pool scandal becomes a Trump foil",
      "brief": "Nearly five decades before David Hearn faced up to 10 years in prison over allegations from the Trump administration that he intentionally damaged the Lincoln Memorial Reflecting Pool, he did something that would be…",
      "link": "https://www.cnn.com/2026/10/18/politics/olympic-canoeist-reflecting-pool-controversy-david-hearn",
-     "published": "2026-10-18T17:22:22.236Z"
+     "published": "2026-10-18T18:21:06.428Z"
     },
     {
      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T17:21:22.296Z"
+     "published": "2026-10-18T18:20:06.412Z"
     },
     {
      "title": "Turning Point Action hits the ground in New Hampshire for a key Senate race",
      "brief": "One year after Charlie Kirk’s assassination , the organization he founded for young conservatives is building out its political operation in a purple state that has often evaded Republicans’ grasp at the federal level.",
      "link": "https://www.cnn.com/2026/10/18/politics/turning-point-new-hampshire-key-senate-race",
-     "published": "2026-10-18T17:18:22.294Z"
+     "published": "2026-10-18T18:19:06.394Z"
     },
     {
      "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game",
      "brief": "A military service member has died after he fell hard as he rappelled from the ceiling to midfield before a University of Texas at San Antonio football game, where the military was honored.",
      "link": "https://www.cnn.com/2026/10/18/us/service-member-dies-rappelling-san-antonio",
-     "published": "2026-10-18T17:17:22.287Z"
+     "published": "2026-10-18T18:18:06.422Z"
     },
     {
-     "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
-     "brief": "With just over a week to go until Israel’s election day, President Donald Trump finally gave the full-throated endorsement that Prime Minister Benjamin Netanyahu had long sought.",
-     "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
-     "published": "2026-10-18T17:16:22.273Z"
-    },
-    {
-     "title": "4 dead after major fire breaks out at Canadian military base",
-     "brief": "Four service members were killed and “dozens” injured in a major fire Saturday at one of Canada’s largest and busiest military bases, Canadian Prime Minister Mark Carney said Sunday.",
-     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "Macron to address nation after France reels from one of its worst days of unrest in years",
-     "brief": "France’s President Emmanuel Macron will address the nation on Sunday evening as communities reeled from one of the most violent nights of unrest in recent years after largely peaceful anti-government protests…",
+     "title": "Macron addresses nation after France reels from one of its worst days of unrest in years",
+     "brief": "France’s President Emmanuel Macron is addressing the nation on Sunday evening as communities reeled from one of the most violent nights of unrest in recent years after largely peaceful anti-government protests…",
      "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "Man shot and killed on subway platform in midtown Manhattan after argument",
-     "brief": "New York (AP) — An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted.",
-     "link": "https://www.cnn.com/2026/10/17/us/nyc-subway-shooting-midtown",
+     "title": "4 dead after major fire breaks out at Canadian military base",
+     "brief": "Four service members were killed and dozens more seriously injured in a major fire Saturday at one of Canada’s largest and busiest military bases, Canadian Prime Minister Mark Carney said Sunday.",
+     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
      "published": "2026-10-17T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Barcelona Women suffer first defeat in 350 days",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkVIQ0JKSXdnN1YzRVNNVXlGM2ZrYm9objk3TmhwaU83NjVNWmVYdVFzRmhFWE1SWkw2X0JyeGJyT0Z5dElydzgyTjJNNXVJejZwTkUwS0ZmQ09TbW5IMkRFR1Z3Z2hhS0NYb1doWUlFR1BqOEc5bnFqaUdEVTFyN2Z0b1JvbzR4dnFxZjRhSkprVDQ2V0RjRE4ydlJwRGlGLVM4SExtaWd1UVE?oc=5",
+     "published": "2026-10-18T17:22:00.000Z"
+    },
     {
      "title": "Genting’s debt, equity divide",
      "brief": "",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
      "published": "2026-10-18T14:43:46.000Z"
-    },
-    {
-     "title": "Badminton: No Danish double as Aaron-Wooi Yik fall in final",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalgwU1JDb0VfczZkaktjSFFDNGZLYW5PMHlpaG9hVkNWb0tpTmpiQzlkMWZ3SlJRTlB1TjdKOFNPdGkzcDRzeGlobGd3VXVidXJYTmIySkItYnhaOXVrSXlpVng1dXNvR0RlSzBjZXFtNlZPNVRhZFRnTnVBanVCLWNsNU5KQlFSaUN0b0hDZ0taUU1kblNPMXJBc0xHa0ZEeWxHMA?oc=5",
-     "published": "2026-10-18T14:12:00.000Z"
     }
    ]
   }
