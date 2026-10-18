@@ -1,39 +1,39 @@
 {
- "updated": "2026-10-18T13:27:48.689Z",
+ "updated": "2026-10-18T14:23:36.387Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
+     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
+     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
+     "published": "2026-10-18T14:23:36.596Z"
+    },
+    {
+     "title": "Olympic canoeist at center of Reflecting Pool scandal becomes a Trump foil",
+     "brief": "Nearly five decades before David Hearn faced up to 10 years in prison over allegations from the Trump administration that he intentionally damaged the Lincoln Memorial Reflecting Pool, he did something that would be…",
+     "link": "https://www.cnn.com/2026/10/18/politics/olympic-canoeist-reflecting-pool-controversy-david-hearn",
+     "published": "2026-10-18T14:21:36.679Z"
+    },
+    {
      "title": "How JB Pritzker’s midterm investments could pay off in a 2028 White House bid",
      "brief": "As potential 2028 presidential candidates crisscross the country to campaign in the midterms, Illinois Gov.",
      "link": "https://www.cnn.com/2026/10/18/politics/jb-pritzker-midterm-elections-donations-2028",
-     "published": "2026-10-18T13:24:49.035Z"
+     "published": "2026-10-18T14:17:36.700Z"
     },
     {
      "title": "A compassionate teacher and her young students: What we know about the victims of the Bend school shooting",
      "brief": "The three children and a teacher shot to death at Silver Rail Elementary School in central Oregon were in a classroom dedicated to students with special needs – an environment that’s supposed to be nurturing, safe…",
      "link": "https://www.cnn.com/2026/10/18/us/victims-bend-oregon-school-shooting",
-     "published": "2026-10-18T13:23:48.998Z"
+     "published": "2026-10-18T14:16:36.709Z"
     },
     {
-     "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
-     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
-     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T13:22:49.014Z"
-    },
-    {
-     "title": "Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery",
-     "brief": "Pope Leo XIV has made his first major public appearance since his lung cancer surgery, saying the experience brought him closer to all those who suffer , from the same spot in the Vatican he announced a week ago he…",
-     "link": "https://www.cnn.com/2026/10/18/europe/pope-angelus-sunday-cancer-intl",
-     "published": "2026-10-18T13:21:49.011Z"
-    },
-    {
-     "title": "Even LinkedIn is getting tired of your AI-written posts",
-     "brief": "Bland, AI-generated posts have made LinkedIn the butt of many an internet joke this year.",
-     "link": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts",
-     "published": "2026-10-18T13:20:48.994Z"
+     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
+     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
+     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
      "title": "2 killed, multiple injured after mother drives onto field during youth soccer game in Wichita, Kansas",
@@ -60,16 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2p5V3AzMGVLZHVRZlQ1a2xSaUxzMWRfWFhlT2VWSkhwWFpSaGtDSkwyUURQMUZCZVRVdjNTenk4Nk5BaXFEdk5zaDA5WmVhSEtyX3JjckRWa3Bmb1REckRYSzNkdzhGZEt5MGJhWXlhY3FWdTBEOHNJakNjeXNKVTVQWUFfY2JZWjdHQkNwbVZTX0ZmUUthVE9KUHczaDFLREZvb0FKc3JLVFJSZ2R4cDh5YzExZmJIbDdJRQ?oc=5",
+     "published": "2026-10-18T14:10:00.000Z"
+    },
+    {
      "title": "Top Entertainment stories of the week",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTFFQUNXZTZWbUJxZTFyR0kyODhrdTNrNk44cXpKZmRQNXk2WTVmekJ0OHRYVl9aeXRwQ1p1b1VqelJnMHRid1N6Q2RBa0Rsa1MyYldIUHY0S2txUXJxcDRya2toSHdRaE1yX2FPbVktMWVHdWZ5WTE3dHZKRFRTRC1jNEdBVE1zNXNHb0xPaXl1MlNocW82OUV3SHVSMzB6T3I0Z25xb3Azb2lrcW0tdzU5Y2R5d19ndDJTalA5aWtZQkxrLXFmMkhrQ1NmYTE4N2lyaE5Kb3Jkd3YtdmxyMkJ3RVR0MC1FVFAtaW9tRDRqdlZXcjNIS09qeDQxRTVZNS1aaTh3bVkzWFhlTElObnU4SHhYR2hBeUE?oc=5",
      "published": "2026-10-18T12:35:00.000Z"
     },
     {
-     "title": "Badminton: Pearly-Thinaah end long wait for Denmark Open crown",
+     "title": "'Like we had a war': France counts cost of violent protests",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHJfX3AxZzdVNFdFZDdBelhqaVJWdndMcEdTdnFwV21md0RRY1YxNVJueDBZV2FSWk83QVU1STFWc2RnQ1c3VGs1MUNJbGstakpmOG9SWXVqalkwLUdTS1RfZENjSjBMeGdxSXF3eXJKNWlsVGpHaVVpd3YwRzBpSnBaU1oydmg5RWl0TlQ0ZFFDekFYenI5eUVldFA1X1JFbXZsYkcxYmE?oc=5",
-     "published": "2026-10-18T12:12:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2tzYk82Z0QwLVgxd0d2bzhWSFY4RU5QT1ZsUlY2UENiUXNIdEZNTDZWUGVfdThQdmU5LTBsSjREbnpac1dBQi1KU1VDTWJsWHNpNnVKTnRxVDM2MUZicm9DWUZMaTlYLTU2cTI2eE92T3ZpcTRCU3FsbWtPRjZrcDZSSWFGN25yTXgxSHd1VUNDamk0aTJCRDFUOEhDV29MaXlFU1QxZUUtYjhDZWNIMw?oc=5",
+     "published": "2026-10-18T11:25:00.000Z"
     },
     {
      "title": "Some 1,500 shops and retailers damaged in French protests: trade group",
@@ -94,12 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfZXVCejZTeDJrWXFOMDFDR3kxU09DRFlad244U21aN25Lc1hLSW0zZ0M3UEo3M0U0dHV0ZThZOW9OcmJ0YUY0QmIybzVHTG9PTTlwZmZEdFZzeDVSbkM3VkM1MXFyaWlYZlFhQg?oc=5",
      "published": "2026-10-18T11:03:45.000Z"
-    },
-    {
-     "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWjRrT0ZZdHV3WnFvLUk2eFJKLVdHbHJvMjduTC1qR0hlNGFtd2hINmxoSzNsRkdKajFFWl9idGQ4MzZaN0pLUHpTM3FEQXNMRE5QS0lBdXhQV2FPbW1nSjBwUlkyTWpUVmRYMDBYd052WDIxS1pMZWZlenhKUmRyRmNveE51UFNhMnVlSVFBOTRkS1ZoYWhobEpvdE1NRGZVdERJdUdRSkRTT3pGZXlSd3JSNEZWY1hDQ1ZyOEwzOGlNMFp0RUFNTTVCekE4VEU?oc=5",
-     "published": "2026-10-18T10:55:00.000Z"
     },
     {
      "title": "Accenture looks to sell Chinese operations for up to $1.5 billion, FT reports",
