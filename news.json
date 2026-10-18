@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-18T16:24:29.052Z",
+ "updated": "2026-10-18T17:22:22.045Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Turning Point Action hits the ground in New Hampshire for a key Senate race",
-     "brief": "One year after Charlie Kirk’s assassination , the organization he founded for young conservatives is building out its political operation in a purple state that has often evaded Republicans’ grasp at the federal level.",
-     "link": "https://www.cnn.com/2026/10/18/politics/turning-point-new-hampshire-key-senate-race",
-     "published": "2026-10-18T16:24:29.320Z"
+     "title": "Olympic canoeist at center of Reflecting Pool scandal becomes a Trump foil",
+     "brief": "Nearly five decades before David Hearn faced up to 10 years in prison over allegations from the Trump administration that he intentionally damaged the Lincoln Memorial Reflecting Pool, he did something that would be…",
+     "link": "https://www.cnn.com/2026/10/18/politics/olympic-canoeist-reflecting-pool-controversy-david-hearn",
+     "published": "2026-10-18T17:22:22.236Z"
     },
     {
      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T16:23:29.398Z"
+     "published": "2026-10-18T17:21:22.296Z"
+    },
+    {
+     "title": "Turning Point Action hits the ground in New Hampshire for a key Senate race",
+     "brief": "One year after Charlie Kirk’s assassination , the organization he founded for young conservatives is building out its political operation in a purple state that has often evaded Republicans’ grasp at the federal level.",
+     "link": "https://www.cnn.com/2026/10/18/politics/turning-point-new-hampshire-key-senate-race",
+     "published": "2026-10-18T17:18:22.294Z"
     },
     {
      "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game",
      "brief": "A military service member has died after he fell hard as he rappelled from the ceiling to midfield before a University of Texas at San Antonio football game, where the military was honored.",
      "link": "https://www.cnn.com/2026/10/18/us/service-member-dies-rappelling-san-antonio",
-     "published": "2026-10-18T16:22:29.388Z"
+     "published": "2026-10-18T17:17:22.287Z"
     },
     {
      "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
      "brief": "With just over a week to go until Israel’s election day, President Donald Trump finally gave the full-throated endorsement that Prime Minister Benjamin Netanyahu had long sought.",
      "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
-     "published": "2026-10-18T16:21:29.358Z"
+     "published": "2026-10-18T17:16:22.273Z"
     },
     {
-     "title": "‘These are really tough times’: House Republicans confront voter fury over Trump’s Washington in final midterm stretch",
-     "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
-     "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
-     "published": "2026-10-18T16:17:29.406Z"
-    },
-    {
-     "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
-     "brief": "Communities across France were reeling on Sunday following one of the most violent nights of unrest in recent years, after protests over the cost of living and public services investment descended into rioting –…",
-     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
+     "title": "4 dead after major fire breaks out at Canadian military base",
+     "brief": "Four service members were killed and “dozens” injured in a major fire Saturday at one of Canada’s largest and busiest military bases, Canadian Prime Minister Mark Carney said Sunday.",
+     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "Several dead after major fire breaks out at Canada military base",
-     "brief": "Several people are dead or injured following a major fire at one of Canada’s busiest military bases on Saturday.",
-     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
+     "title": "Macron to address nation after France reels from one of its worst days of unrest in years",
+     "brief": "France’s President Emmanuel Macron will address the nation on Sunday evening as communities reeled from one of the most violent nights of unrest in recent years after largely peaceful anti-government protests…",
+     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
@@ -60,22 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Freight takes flight",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0FNbmVNUjROVElmbDdqT01xU2d5aExmZzBDclgxYVNEMEY3Q00zRkVRZlU3T0wyblFvdzBVS1lUdnVMZGZXcVBfZE82cTlSTVdqbEpFblhEZkJjUDlNX0tLclJDaEdkWXc5T0t0bks3YU5WWlluX3JSQWVUZ0NQakJfeFg1Y0FP?oc=5",
-     "published": "2026-10-18T16:09:46.000Z"
-    },
-    {
      "title": "Genting’s debt, equity divide",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
-     "published": "2026-10-18T16:09:45.000Z"
+     "published": "2026-10-18T17:03:19.000Z"
     },
     {
-     "title": "Data centres face power test",
+     "title": "Chinese medical team provides free consultations in southern Cameroon",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1hYQWliSk1ua2hlUF9hOUlHQXdTT1JGblNRbTFuS1BweVgwdW1WSHhZd1BqTFFjMjhjMkhZV25wT0JGeWwxaC12UXJ6RWo1YWJMSnJqTUFlcHlLS0lmT0xSZU5sY0xkbVl0UTJ6c2U3Z0otSkpCQkh0dy1TRnJ2OW5hRlFkM3QybGVKTHdDcEVtbFU?oc=5",
-     "published": "2026-10-18T16:09:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdVUkJRWEdfX21qcV9kd3NLLUdoSEVUOU1hYXhXcmVrZ3JFNGpsTFVSM1VyaFl0VnZoSUE3eTRuVnlrb1NrQnltM0hFZXZzb25BMWJQazRfalJjZU83VmFhQm0xNTRsaHVpeU5KdHlWRDdTQzBvNHRpZjJ5Y0ZrSDlPNXhMRVB6UWV3R05hajlaeTBpNndvNmJhVWZoZ3Z4Slk1MjlnMnMzSGF3cUlEelNuZnI0ajIzNHc?oc=5",
+     "published": "2026-10-18T16:58:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Barcelona hit by double injury blow before PSG trip",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjh2cHpyX2VScXNEZkQ3Q3c2RVdJOGYybnVtOXVuM3NHVjNXQ0EtNjZFVDZpRmhxYVR4ZjVOa2RCUUtiaU9LeDFmMV9Qb24zaVl2NjVlX2dPWWxDV0NjM1l3YVhZQUI1VjJwR25VMzE2ZmotaEFwSG9jMG1fRU54Q05rN2NEUU5CTGd4RklxbGVFekJfSUZGaERodm10cmQ2ZkpMQVJmcG1iQkhobUpERw?oc=5",
+     "published": "2026-10-18T16:37:00.000Z"
+    },
+    {
+     "title": "39 Tunisian high school students receive Chinese ambassador scholarships",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDNvOG9fTm9EaGljTUI2aUpVb0YydUQ2STZvQVo4NzR0djFIWW9FbWN5SmV1VUJLVUQ1MzBqN2c0LUgwTUpsTE51VnJrUHdYWFdGcDJqbjl0aTBiMDRkeWdZSEY3NGtVU0ZHOTktZUpVaXRqTTN6TkFNa2xHbTlvRkFaSVNTc3RKSHNzb2VrRENwZ09hLTRNS3dCdlZScDBBZkRwUXdBbFVSU1RSaWZ4bnRSWVpvWGFSdm53enhn?oc=5",
+     "published": "2026-10-18T16:11:00.000Z"
     },
     {
      "title": "Football: Soccer-Leverkusen's Schick strikes to end Freiburg's unbeaten run",
@@ -90,22 +96,16 @@
      "published": "2026-10-18T15:32:00.000Z"
     },
     {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
+     "published": "2026-10-18T14:43:46.000Z"
+    },
+    {
      "title": "Badminton: No Danish double as Aaron-Wooi Yik fall in final",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalgwU1JDb0VfczZkaktjSFFDNGZLYW5PMHlpaG9hVkNWb0tpTmpiQzlkMWZ3SlJRTlB1TjdKOFNPdGkzcDRzeGlobGd3VXVidXJYTmIySkItYnhaOXVrSXlpVng1dXNvR0RlSzBjZXFtNlZPNVRhZFRnTnVBanVCLWNsNU5KQlFSaUN0b0hDZ0taUU1kblNPMXJBc0xHa0ZEeWxHMA?oc=5",
      "published": "2026-10-18T14:12:00.000Z"
-    },
-    {
-     "title": "Badminton: Johor BA beam with pride over Zi Yu's world junior title in first year at BAM",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQX2NhdEI0cDdPZWc2OVdxODBBclNnbHJzeDZuWjZEbjFYZDJRTWtKbGJUdzVhYXIzTnZ1emF5SXg0RnhpRkxzZW1QYlBoVkJLME1sbVZGZGV1UWJWdVlWMkQtbGVVbmw1RElUQ3ZURl8tTW5KTVVCdzA5Ql9tQUZ1R3YybWRvRmdlR00yZElTcEE5RTFMWHRhSHcxMGdVckh4U3FybkstQTYxNGlIbDl4NmdJZzJhOTk2VWhnN2dFbTgzelZ2emJsMktpM2hOUQ?oc=5",
-     "published": "2026-10-18T13:14:00.000Z"
-    },
-    {
-     "title": "Top Entertainment stories of the week",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTFFQUNXZTZWbUJxZTFyR0kyODhrdTNrNk44cXpKZmRQNXk2WTVmekJ0OHRYVl9aeXRwQ1p1b1VqelJnMHRid1N6Q2RBa0Rsa1MyYldIUHY0S2txUXJxcDRya2toSHdRaE1yX2FPbVktMWVHdWZ5WTE3dHZKRFRTRC1jNEdBVE1zNXNHb0xPaXl1MlNocW82OUV3SHVSMzB6T3I0Z25xb3Azb2lrcW0tdzU5Y2R5d19ndDJTalA5aWtZQkxrLXFmMkhrQ1NmYTE4N2lyaE5Kb3Jkd3YtdmxyMkJ3RVR0MC1FVFAtaW9tRDRqdlZXcjNIS09qeDQxRTVZNS1aaTh3bVkzWFhlTElObnU4SHhYR2hBeUE?oc=5",
-     "published": "2026-10-18T12:35:00.000Z"
     }
    ]
   }
