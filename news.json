@@ -1,27 +1,45 @@
 {
- "updated": "2026-10-18T15:22:55.829Z",
+ "updated": "2026-10-18T16:24:29.052Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "‘These are really tough times’: House Republicans confront voter fury over Trump’s Washington in final midterm stretch",
-     "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
-     "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
-     "published": "2026-10-18T15:19:56.132Z"
+     "title": "Turning Point Action hits the ground in New Hampshire for a key Senate race",
+     "brief": "One year after Charlie Kirk’s assassination , the organization he founded for young conservatives is building out its political operation in a purple state that has often evaded Republicans’ grasp at the federal level.",
+     "link": "https://www.cnn.com/2026/10/18/politics/turning-point-new-hampshire-key-senate-race",
+     "published": "2026-10-18T16:24:29.320Z"
     },
     {
      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T15:18:56.136Z"
+     "published": "2026-10-18T16:23:29.398Z"
     },
     {
-     "title": "Olympic canoeist at center of Reflecting Pool scandal becomes a Trump foil",
-     "brief": "Nearly five decades before David Hearn faced up to 10 years in prison over allegations from the Trump administration that he intentionally damaged the Lincoln Memorial Reflecting Pool, he did something that would be…",
-     "link": "https://www.cnn.com/2026/10/18/politics/olympic-canoeist-reflecting-pool-controversy-david-hearn",
-     "published": "2026-10-18T15:16:56.173Z"
+     "title": "Nellis Air Force Base: Service member dies after rappelling fall at a UT San Antonio game",
+     "brief": "A military service member has died after he fell hard as he rappelled from the ceiling to midfield before a University of Texas at San Antonio football game, where the military was honored.",
+     "link": "https://www.cnn.com/2026/10/18/us/service-member-dies-rappelling-san-antonio",
+     "published": "2026-10-18T16:22:29.388Z"
+    },
+    {
+     "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
+     "brief": "With just over a week to go until Israel’s election day, President Donald Trump finally gave the full-throated endorsement that Prime Minister Benjamin Netanyahu had long sought.",
+     "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
+     "published": "2026-10-18T16:21:29.358Z"
+    },
+    {
+     "title": "‘These are really tough times’: House Republicans confront voter fury over Trump’s Washington in final midterm stretch",
+     "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
+     "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
+     "published": "2026-10-18T16:17:29.406Z"
+    },
+    {
+     "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
+     "brief": "Communities across France were reeling on Sunday following one of the most violent nights of unrest in recent years, after protests over the cost of living and public services investment descended into rioting –…",
+     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
      "title": "Several dead after major fire breaks out at Canada military base",
@@ -34,24 +52,6 @@
      "brief": "New York (AP) — An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted.",
      "link": "https://www.cnn.com/2026/10/17/us/nyc-subway-shooting-midtown",
      "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
-     "brief": "Communities across France were reeling on Sunday following one of the most violent nights of unrest in recent years, after protests over the cost of living and public services investment descended into rioting –…",
-     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
-     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
-     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "2 killed, multiple injured after mother drives onto field during youth soccer game in Wichita, Kansas",
-     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a mother drove onto the field, striking multiple people and killing a…",
-     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
-     "published": "2026-10-17T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Freight takes flight",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR0FNbmVNUjROVElmbDdqT01xU2d5aExmZzBDclgxYVNEMEY3Q00zRkVRZlU3T0wyblFvdzBVS1lUdnVMZGZXcVBfZE82cTlSTVdqbEpFblhEZkJjUDlNX0tLclJDaEdkWXc5T0t0bks3YU5WWlluX3JSQWVUZ0NQakJfeFg1Y0FP?oc=5",
+     "published": "2026-10-18T16:09:46.000Z"
+    },
+    {
+     "title": "Genting’s debt, equity divide",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
+     "published": "2026-10-18T16:09:45.000Z"
+    },
+    {
+     "title": "Data centres face power test",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1hYQWliSk1ua2hlUF9hOUlHQXdTT1JGblNRbTFuS1BweVgwdW1WSHhZd1BqTFFjMjhjMkhZV25wT0JGeWwxaC12UXJ6RWo1YWJMSnJqTUFlcHlLS0lmT0xSZU5sY0xkbVl0UTJ6c2U3Z0otSkpCQkh0dy1TRnJ2OW5hRlFkM3QybGVKTHdDcEVtbFU?oc=5",
+     "published": "2026-10-18T16:09:45.000Z"
+    },
+    {
+     "title": "Football: Soccer-Leverkusen's Schick strikes to end Freiburg's unbeaten run",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTndSRFBDRG5nTzRyTzNRaUhUTVhfajZ6Y1d2NFZIdG1ZaVRvQVFaUktUQlVIUVdGZ0tVVkp5RVBjX0YxQklwX1R6TWlOZjNJN2NiYnBzVmRVVkh1RWRkM1RBRnBQdmRfSXlxRE12SzFFemprV09iSXdPVGRPenNUUnY3c001ZWV5Q2l0RVJMNnRIMkJnNFdhNXB4aFVxUUdSMTg4MTdOS3ZLUlI1NUFOcFZJOXFrcE5BeENobVlHZw?oc=5",
+     "published": "2026-10-18T15:54:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-PSG's Mendes sustains thigh injury ahead of Barcelona clash",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjVoU1puZ0gxeDA1UDEyM21sZ19PM0JWemVQeGg1NF9fbDE4MDEtOFhKUlJRQnBXSUgxSXhTX2dCTEM3Uk9MVUVpVkd2UmJ5b2NMTnZ4cC1vVEpqSWtPVHBmRVhnMDl1ell6OWNfdi1wTmhvQlJ6NDk0dkw3TGpMeU9NSzU0ODh0MTdFWUVObmZwcVBReDhBQ0wzV3dnWG11cXJESFlrRExhdlBnSVgtcnZQbzRubFlDSEFNcU9B?oc=5",
+     "published": "2026-10-18T15:32:00.000Z"
+    },
+    {
      "title": "Badminton: No Danish double as Aaron-Wooi Yik fall in final",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNalgwU1JDb0VfczZkaktjSFFDNGZLYW5PMHlpaG9hVkNWb0tpTmpiQzlkMWZ3SlJRTlB1TjdKOFNPdGkzcDRzeGlobGd3VXVidXJYTmIySkItYnhaOXVrSXlpVng1dXNvR0RlSzBjZXFtNlZPNVRhZFRnTnVBanVCLWNsNU5KQlFSaUN0b0hDZ0taUU1kblNPMXJBc0xHa0ZEeWxHMA?oc=5",
      "published": "2026-10-18T14:12:00.000Z"
-    },
-    {
-     "title": "US resumes intelligence-sharing with Ukraine after pause, Zelenskiy says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX2p5V3AzMGVLZHVRZlQ1a2xSaUxzMWRfWFhlT2VWSkhwWFpSaGtDSkwyUURQMUZCZVRVdjNTenk4Nk5BaXFEdk5zaDA5WmVhSEtyX3JjckRWa3Bmb1REckRYSzNkdzhGZEt5MGJhWXlhY3FWdTBEOHNJakNjeXNKVTVQWUFfY2JZWjdHQkNwbVZTX0ZmUUthVE9KUHczaDFLREZvb0FKc3JLVFJSZ2R4cDh5YzExZmJIbDdJRQ?oc=5",
-     "published": "2026-10-18T14:10:00.000Z"
     },
     {
      "title": "Badminton: Johor BA beam with pride over Zi Yu's world junior title in first year at BAM",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTFFQUNXZTZWbUJxZTFyR0kyODhrdTNrNk44cXpKZmRQNXk2WTVmekJ0OHRYVl9aeXRwQ1p1b1VqelJnMHRid1N6Q2RBa0Rsa1MyYldIUHY0S2txUXJxcDRya2toSHdRaE1yX2FPbVktMWVHdWZ5WTE3dHZKRFRTRC1jNEdBVE1zNXNHb0xPaXl1MlNocW82OUV3SHVSMzB6T3I0Z25xb3Azb2lrcW0tdzU5Y2R5d19ndDJTalA5aWtZQkxrLXFmMkhrQ1NmYTE4N2lyaE5Kb3Jkd3YtdmxyMkJ3RVR0MC1FVFAtaW9tRDRqdlZXcjNIS09qeDQxRTVZNS1aaTh3bVkzWFhlTElObnU4SHhYR2hBeUE?oc=5",
      "published": "2026-10-18T12:35:00.000Z"
-    },
-    {
-     "title": "'Like we had a war': France counts cost of violent protests",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa2tzYk82Z0QwLVgxd0d2bzhWSFY4RU5QT1ZsUlY2UENiUXNIdEZNTDZWUGVfdThQdmU5LTBsSjREbnpac1dBQi1KU1VDTWJsWHNpNnVKTnRxVDM2MUZicm9DWUZMaTlYLTU2cTI2eE92T3ZpcTRCU3FsbWtPRjZrcDZSSWFGN25yTXgxSHd1VUNDamk0aTJCRDFUOEhDV29MaXlFU1QxZUUtYjhDZWNIMw?oc=5",
-     "published": "2026-10-18T11:25:00.000Z"
-    },
-    {
-     "title": "Prisons Dept in final stage of drafting house arrest regulations, says Saifuddin Nasution",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWnVpT3RLWXF5b2NpV0hiZV9LUTVLR1FXV3JDZWowSUpHYjByRWdsZXJLZU9MeXRBZkZydHE1Q08yRHdvYWdXY1V2R0M2Q0wzNlFpRU1pcXExdHFUSWU0THpPaDQ0LTRmTWlGMjEwRV8zQWpJOVM0OWlLUWtMQms5cG5GOUFtRjRfc1doNnBNSGdCMS1TU05QZ2x2YjlJbFJUYnpfMk9FaDRpYUczRnR2Q3B1SHpHR24zTC1uNElNYmJFYmU2MnkxeVAwdnNmT0JLaU9PMQ?oc=5",
-     "published": "2026-10-18T11:20:00.000Z"
-    },
-    {
-     "title": "Removal exercise",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfZXVCejZTeDJrWXFOMDFDR3kxU09DRFlad244U21aN25Lc1hLSW0zZ0M3UEo3M0U0dHV0ZThZOW9OcmJ0YUY0QmIybzVHTG9PTTlwZmZEdFZzeDVSbkM3VkM1MXFyaWlYZlFhQg?oc=5",
-     "published": "2026-10-18T11:03:45.000Z"
-    },
-    {
-     "title": "Accenture looks to sell Chinese operations for up to $1.5 billion, FT reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjRPYkFOUVRyOE82YzdSdV8wZXdFeU5PZDI1cFc1aEtoODMzdWNNREV0bF9yeFBGb19XY1FMWjZrRnQwT2VZMFRmaHR2SEV2eTJLY0FXWEtIY3NIbXI5V292V1ZhNS1BWlFfTVU2UFlZWGJ5OWtla0o5YWx2QzdlQ1pod0RvbkpJd3RtaHRGRElFWW9RbGczakh5MHZMUVA4TUVjOGRjS1AzalFJczZkcXhBQnNWVmg0WERCM09KOGZ1ZmRtX3c?oc=5",
-     "published": "2026-10-18T10:31:00.000Z"
     }
    ]
   }
