@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-18T12:28:02.233Z",
+ "updated": "2026-10-18T13:27:48.689Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "How JB Pritzker’s midterm investments could pay off in a 2028 White House bid",
+     "brief": "As potential 2028 presidential candidates crisscross the country to campaign in the midterms, Illinois Gov.",
+     "link": "https://www.cnn.com/2026/10/18/politics/jb-pritzker-midterm-elections-donations-2028",
+     "published": "2026-10-18T13:24:49.035Z"
+    },
+    {
      "title": "A compassionate teacher and her young students: What we know about the victims of the Bend school shooting",
      "brief": "The three children and a teacher shot to death at Silver Rail Elementary School in central Oregon were in a classroom dedicated to students with special needs – an environment that’s supposed to be nurturing, safe…",
      "link": "https://www.cnn.com/2026/10/18/us/victims-bend-oregon-school-shooting",
-     "published": "2026-10-18T12:28:02.498Z"
+     "published": "2026-10-18T13:23:48.998Z"
     },
     {
      "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T12:26:02.563Z"
+     "published": "2026-10-18T13:22:49.014Z"
     },
     {
      "title": "Pope Leo leads Sunday prayers in first major public appearance since lung cancer surgery",
      "brief": "Pope Leo XIV has made his first major public appearance since his lung cancer surgery, saying the experience brought him closer to all those who suffer , from the same spot in the Vatican he announced a week ago he…",
      "link": "https://www.cnn.com/2026/10/18/europe/pope-angelus-sunday-cancer-intl",
-     "published": "2026-10-18T12:25:02.560Z"
+     "published": "2026-10-18T13:21:49.011Z"
     },
     {
      "title": "Even LinkedIn is getting tired of your AI-written posts",
      "brief": "Bland, AI-generated posts have made LinkedIn the butt of many an internet joke this year.",
      "link": "https://www.cnn.com/2026/10/18/tech/linkedin-fighting-ai-posts",
-     "published": "2026-10-18T12:24:02.552Z"
+     "published": "2026-10-18T13:20:48.994Z"
     },
     {
-     "title": "How JB Pritzker’s midterm investments could pay off in a 2028 White House bid",
-     "brief": "As potential 2028 presidential candidates crisscross the country to campaign in the midterms, Illinois Gov.",
-     "link": "https://www.cnn.com/2026/10/18/politics/jb-pritzker-midterm-elections-donations-2028",
-     "published": "2026-10-18T12:23:02.555Z"
-    },
-    {
-     "title": "Olympic canoeist at center of Reflecting Pool scandal becomes a Trump foil",
-     "brief": "Nearly five decades before David Hearn faced up to 10 years in prison over allegations from the Trump administration that he intentionally damaged the Lincoln Memorial Reflecting Pool, he did something that would be…",
-     "link": "https://www.cnn.com/2026/10/18/politics/olympic-canoeist-reflecting-pool-controversy-david-hearn",
-     "published": "2026-10-18T12:22:02.557Z"
-    },
-    {
-     "title": "Trump and Netanyahu’s once blossoming bromance sours at a pivotal moment for both men",
-     "brief": "For years, Israelis driving the country’s highways in the final weeks of an election have seen the same image: Prime Minister Benjamin Netanyahu standing beside President Donald Trump, under the slogan, “A different…",
-     "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
-     "published": "2026-10-18T12:21:02.488Z"
+     "title": "2 killed, multiple injured after mother drives onto field during youth soccer game in Wichita, Kansas",
+     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a mother drove onto the field, striking multiple people and killing a…",
+     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
      "title": "France wakes up to wreckage of a night of rioting after protests turned violent",
-     "brief": "Communities across France were reeling on Sunday following one the most violent nights of unrest in recent years, after protests over the cost of living and public services investment descended into rioting – leaving…",
+     "brief": "Communities across France were reeling on Sunday following one of the most violent nights of unrest in recent years, after protests over the cost of living and public services investment descended into rioting –…",
      "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
+    {
+     "title": "Several dead after major fire breaks out at Canada military base",
+     "brief": "Several people are dead or injured following a major fire at one of Canada’s busiest military bases on Saturday, which was sparked by an unspecified “serious incident.”",
+     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
      "published": "2026-10-17T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Top Entertainment stories of the week",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPOTFFQUNXZTZWbUJxZTFyR0kyODhrdTNrNk44cXpKZmRQNXk2WTVmekJ0OHRYVl9aeXRwQ1p1b1VqelJnMHRid1N6Q2RBa0Rsa1MyYldIUHY0S2txUXJxcDRya2toSHdRaE1yX2FPbVktMWVHdWZ5WTE3dHZKRFRTRC1jNEdBVE1zNXNHb0xPaXl1MlNocW82OUV3SHVSMzB6T3I0Z25xb3Azb2lrcW0tdzU5Y2R5d19ndDJTalA5aWtZQkxrLXFmMkhrQ1NmYTE4N2lyaE5Kb3Jkd3YtdmxyMkJ3RVR0MC1FVFAtaW9tRDRqdlZXcjNIS09qeDQxRTVZNS1aaTh3bVkzWFhlTElObnU4SHhYR2hBeUE?oc=5",
+     "published": "2026-10-18T12:35:00.000Z"
+    },
+    {
+     "title": "Badminton: Pearly-Thinaah end long wait for Denmark Open crown",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHJfX3AxZzdVNFdFZDdBelhqaVJWdndMcEdTdnFwV21md0RRY1YxNVJueDBZV2FSWk83QVU1STFWc2RnQ1c3VGs1MUNJbGstakpmOG9SWXVqalkwLUdTS1RfZENjSjBMeGdxSXF3eXJKNWlsVGpHaVVpd3YwRzBpSnBaU1oydmg5RWl0TlQ0ZFFDekFYenI5eUVldFA1X1JFbXZsYkcxYmE?oc=5",
+     "published": "2026-10-18T12:12:00.000Z"
+    },
     {
      "title": "Some 1,500 shops and retailers damaged in French protests: trade group",
      "brief": "",
@@ -72,6 +84,18 @@
      "published": "2026-10-18T11:25:00.000Z"
     },
     {
+     "title": "Prisons Dept in final stage of drafting house arrest regulations, says Saifuddin Nasution",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWnVpT3RLWXF5b2NpV0hiZV9LUTVLR1FXV3JDZWowSUpHYjByRWdsZXJLZU9MeXRBZkZydHE1Q08yRHdvYWdXY1V2R0M2Q0wzNlFpRU1pcXExdHFUSWU0THpPaDQ0LTRmTWlGMjEwRV8zQWpJOVM0OWlLUWtMQms5cG5GOUFtRjRfc1doNnBNSGdCMS1TU05QZ2x2YjlJbFJUYnpfMk9FaDRpYUczRnR2Q3B1SHpHR24zTC1uNElNYmJFYmU2MnkxeVAwdnNmT0JLaU9PMQ?oc=5",
+     "published": "2026-10-18T11:20:00.000Z"
+    },
+    {
+     "title": "Removal exercise",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfZXVCejZTeDJrWXFOMDFDR3kxU09DRFlad244U21aN25Lc1hLSW0zZ0M3UEo3M0U0dHV0ZThZOW9OcmJ0YUY0QmIybzVHTG9PTTlwZmZEdFZzeDVSbkM3VkM1MXFyaWlYZlFhQg?oc=5",
+     "published": "2026-10-18T11:03:45.000Z"
+    },
+    {
      "title": "One killed, 15 injured in Ukrainian drone attack on St Petersburg and Leningrad region",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWjRrT0ZZdHV3WnFvLUk2eFJKLVdHbHJvMjduTC1qR0hlNGFtd2hINmxoSzNsRkdKajFFWl9idGQ4MzZaN0pLUHpTM3FEQXNMRE5QS0lBdXhQV2FPbW1nSjBwUlkyTWpUVmRYMDBYd052WDIxS1pMZWZlenhKUmRyRmNveE51UFNhMnVlSVFBOTRkS1ZoYWhobEpvdE1NRGZVdERJdUdRSkRTT3pGZXlSd3JSNEZWY1hDQ1ZyOEwzOGlNMFp0RUFNTTVCekE4VEU?oc=5",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZjRPYkFOUVRyOE82YzdSdV8wZXdFeU5PZDI1cFc1aEtoODMzdWNNREV0bF9yeFBGb19XY1FMWjZrRnQwT2VZMFRmaHR2SEV2eTJLY0FXWEtIY3NIbXI5V292V1ZhNS1BWlFfTVU2UFlZWGJ5OWtla0o5YWx2QzdlQ1pod0RvbkpJd3RtaHRGRElFWW9RbGczakh5MHZMUVA4TUVjOGRjS1AzalFJczZkcXhBQnNWVmg0WERCM09KOGZ1ZmRtX3c?oc=5",
      "published": "2026-10-18T10:31:00.000Z"
-    },
-    {
-     "title": "Removal exercise",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82RGpIeHRWM3diWFY2bkdtRkliTnpHeHpjYk1mWTA4ZkpHck5GcXZNbkxUelFPZG9NWUNYOXJhWXp2VERNM1NTUnY0bG52UklON2o3U0NJTXNzcDhiQnVNUGtEYksxN2tDWjl3MTRLSXIxbHBmaFVV?oc=5",
-     "published": "2026-10-18T10:30:31.000Z"
-    },
-    {
-     "title": "Pay rise raises questions",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUG9yUzhKcFdsOW1IUDAtVF9uS1dzeG9tUy1tR3lIU0d3blFiVHh4dUtTUVp1OUZIT2pfVjduU3V1NzBMUXZqWXlxZ3pkMzZ1ZEJ2am5vZGR1WGJMSDR1bVlaSWJmQVMyUTJoRHVtSWF0M2dHZjN2T3pYdzIwb25VNS13azhoc28?oc=5",
-     "published": "2026-10-18T10:05:31.000Z"
-    },
-    {
-     "title": "Japan PM Takaichi's support rate falls below 50%, lowest since taking office, Kyodo reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVG1NNHkyZEF4eXQyc1A4LTVuVkhKeklzRm5PVzdlUzlqc1N1QWF6cUYzbXhHMzU1Z0VSRWJ5Y2JSY1FGT3VTc0I2Y01BOWVLb3VnV1h0ZEEzTGI5ek96RXhpUTRYWWdmbm9SUEl1LWlwbUxRT2ZGVVFackxnVkVaRVk0REdLdWhMVVNyeFQ1N1VfdVhiLTdfODlTcVJLeEdfYjBtOTUtTmxDM3BkMFZ2b040N3I0Q2QzbzFHd2NFZlUtZFdOeklOUVJHWTJ2WFFSeTJabUJn?oc=5",
-     "published": "2026-10-18T10:00:00.000Z"
-    },
-    {
-     "title": "Nation",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Na0xVRDI5OEtfVUVvdFFndnlvVThPUFJoSU9rUnV2RXNQZFR3RDd2bXVmNnptNU1iSzJkeGRYTHloamM2Z2x2MnJDd0dpZ1FwT1d3UVZYSktJOFBYQnpsR2pSNXotaERzVjh0V0V3?oc=5",
-     "published": "2026-10-18T09:36:52.000Z"
     }
    ]
   }
