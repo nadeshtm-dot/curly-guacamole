@@ -1,39 +1,39 @@
 {
- "updated": "2026-10-17T23:19:01.787Z",
+ "updated": "2026-10-18T00:34:26.591Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Auburn stuns No. 1 Georgia as college football’s top ranked team loses for second straight week",
+     "brief": "Alex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No.",
+     "link": "https://www.cnn.com/2026/10/17/sport/auburn-georgia-upset-top-ranked",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
+    {
      "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
-     "brief": "Two people were killed and multiple others were injured when a vehicle drove onto a field during a soccer game at a sports complex in Wichita, Kansas, on Saturday, authorities said.",
+     "brief": "A child and an adult were killed and multiple others were injured when a vehicle drove onto a field during a youth soccer game in Wichita, Kansas, on Saturday, authorities said.",
      "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
-     "published": "2026-10-17T23:18:02.033Z"
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "It took just 3 minutes. How the Bend school shooting unfolded",
-     "brief": "On a sunny Oregon fall morning, parents dressed their children up and sent them to Silver Rail Elementary School for picture day.",
-     "link": "https://www.cnn.com/2026/10/17/us/bend-oregon-school-shooting-how-it-unfolded",
-     "published": "2026-10-17T23:15:02.214Z"
+     "title": "Mexico arrests state official accused of allowing unauthorized CIA role in drug raid",
+     "brief": "Months after a deadly car wreck revealed the CIA’s participation in a raid on a Chihuahua drug lab, authorities arrested César Jáuregui, Chihuahua’s former attorney general, for allegedly allowing US spies to…",
+     "link": "https://www.cnn.com/2026/10/17/americas/mexico-cia-raid-arrest-intl-latam",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
-     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
-     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
-     "published": "2026-10-17T23:14:02.061Z"
+     "title": "Indiana’s first loss in almost 2 years shows Hoosiers a new, painful side to being in college football’s top tier",
+     "brief": "Descending the stairwell back to Earth — after a delirious 22-game win streak came screeching to a stunning end, after the biggest football game in a generation on the Indiana campus fizzled to a disastrous 19-15…",
+     "link": "https://www.cnn.com/2026/10/17/sport/ohio-state-indiana-football",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "Man shot and killed on subway platform in midtown Manhattan after argument",
-     "brief": "New York (AP) — An argument on a subway platform in midtown Manhattan turned deadly Saturday, leaving one man fatally shot and train service disrupted.",
-     "link": "https://www.cnn.com/2026/10/17/us/nyc-subway-shooting-midtown",
-     "published": "2026-10-17T23:13:02.058Z"
-    },
-    {
-     "title": "Half a million protesters sweep France in major show of youth unrest",
-     "brief": "Clouds of tear gas fired by police filled the streets of Paris on Saturday, as anti-government protests stretched beyond the French capital.",
-     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
-     "published": "2026-10-17T23:12:02.065Z"
+     "title": "Final plans for 250-foot triumphal arch omit Trump’s idea for military complex",
+     "brief": "The Trump administration on Friday released final plans for its proposed 250-foot triumphal arch, notably excluding key features of a military complex including drones and snipers that President Donald Trump used as…",
+     "link": "https://www.cnn.com/2026/10/17/politics/triumphal-arch-omit-promised-military-complex",
+     "published": "2026-10-17T12:00:00.000Z"
     },
     {
      "title": "Trump waives Russia-related sanctions before they kick in, prompting backlash from Ukraine and US lawmakers",
@@ -42,15 +42,15 @@
      "published": "2026-10-16T12:00:00.000Z"
     },
     {
-     "title": "New wildfire in Southern California explodes in size, burning multiple homes",
-     "brief": "A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday, county officials said.",
-     "link": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
-     "published": "2026-10-16T12:00:00.000Z"
-    },
-    {
      "title": "Washington Post journalist hospitalized after Israeli settler attack on Palestinian olive harvest in West Bank",
      "brief": "A Washington Post photojournalist was hospitalized after Israeli settlers in the occupied West Bank attacked her and a group of Palestinians during the annual olive harvest.",
      "link": "https://www.cnn.com/2026/10/16/media/washington-post-journalist-israeli-settler-attack-intl",
+     "published": "2026-10-16T12:00:00.000Z"
+    },
+    {
+     "title": "New wildfire in Southern California explodes in size, burning multiple homes",
+     "brief": "A fast-moving wildfire in Southern California quickly consumed hundreds of acres and burned multiple homes after sparking in Orange County Friday, county officials said.",
+     "link": "https://www.cnn.com/2026/10/16/weather/california-wildfires-santa-ana-winds-climate",
      "published": "2026-10-16T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "When scandal meets political survival",
+     "title": "10 killed as fire guts a beach resort",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN0FWMS1MalFCMGpvemNNaHA5OGRYTDhqRGhTWW95LVktRmFud3ZFSmN6Y2JMbGUwU2JTNFUxNXh4aEw1Ulk2MzQ4a2p3Y3hYcUZFc2pkYUJndENQNVpYZ3haNGdUcXFOOEZKRENhdG1RTldYTUEtbGpwNHd6c3NrZjRxV3BKS180eEdYMjdGd1dZbWtNbkdVRzVzWHZkV1lhbnBlT2lvaUI0QWRRcjBhVDhB?oc=5",
-     "published": "2026-10-17T23:05:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVJVdnhPS25tZU5lblJFNlkyUm1kRmVBdUJscDdYblBxWXRyU1FDekhVZGFnT1lwNGJtS1JDRjhWQnlWZjVrTVNMLVd5ZUFRQXpZUW1iaHdmaFNnaVpYN0t3bE1PdS11cDR3d0xPSWxHR2c2MzZsa2Z2VHppNy1ELWFUeUtsYk1xbXFHQ2lMU0RUcE1oV3pibFdGMF9GQ2JmZEE?oc=5",
+     "published": "2026-10-18T00:29:37.000Z"
     },
     {
-     "title": "Boxing: Boxing-Dubois stops Wardley in second round to retain WBO heavyweight title",
+     "title": "‘Promote each district’s attractions’",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWhlRDlIcTNqOS15UE1QTUZSWHIwTV9ORHYzUUloZlF6RjVFNzZTR1d3ck1yekQweDNmU1pVdTJlN21LTXZ2UUtMNFAtTW9NRjctZ2J0MUxraTBfM1FpMkI0VDJjYWo4TTdSb0tXeUdRd18xcnZoLVA2M3FsWFg2WXhoOXVJTkhHWXYwQU51SFF1aFRxVlgwY2xtNlRfRExNVENaY01hZmpnRTNxSE1hT3hrejJjUDBJX2UtelpDWDlSOExo?oc=5",
-     "published": "2026-10-17T22:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkJmdjZ6S1R6cWM0NTdmOElVNnlzcWE0blJvMmM2d280MGg1WVNlcEZ0MEtOR0VYMzV3OGlmdzdsZUloUUNvd3ZZaktibk1rdktPbGVkMlBuR0N6aGZoNm9RTDM1S3ZJMzNwSnQ3WWlZdmtrUDhEajlKTHJDUlE0Y1JGcGhkWFhYSFJoVQ?oc=5",
+     "published": "2026-10-18T00:19:00.000Z"
     },
     {
-     "title": "Saudi Arabia extends remote learning in Riyadh through Oct. 22",
+     "title": "No closing of childcare centres, says Nancy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeEhYMHljeS1xeG5EU3IxMU9XUkNnT1FaSGNrU0hJZE1JYXE1TzNZbG1ialFzNzN0Ylo5a0ZGSTZpMzNvbXFWZzJDbVJsbVlJLWMzYno2RDkxUWVsUHpRbUFXQk9TTHNyVndwbzZUbFJaWUFvNEZONDlFRXc0UF9SbTVSZndkdkozUEtnbU0xYUVBejZJM0htWnZNck83NDJrT0VNVnU5b1lMNWlhV0I4?oc=5",
-     "published": "2026-10-17T22:02:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSm5QVURIc1BCal9SN0tqOF83SWZTdDhDMllORmFOREFraWYtOFpnTXFDTENaWXFBTEFDWnBsVWNMTmwzTjNsdFlJNWNxaS0zSHNhM1V6OVFDeGUxc3k1eHlpR1ZqVlNnbzZucnVSSmJ3NUNwdXcwT2hnM2NyYU10OGNvWndIaVI4dW1IS3l2UEtTZlZyYmVJ?oc=5",
+     "published": "2026-10-18T00:04:47.000Z"
     },
     {
-     "title": "1st LD: 17 killed, 35 injured in stampede in eastern India",
+     "title": "Bone and Boner Weaknesses",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHo4ZmtzTGdkNEF4dEZmMzF5amNwSW0zaG1rN1JwanJGczhlM2dPYjdyUE85WTVBUGhtbWM0dXlTUG9qaXJoamxyTEg1OXZiMlh3NUtRZE9PY0ZCdDJwc250RFdOcXJSNUhEa2stMDItbl8zaGdzeV9CWjg1RVhEYW55eWFBY1pMX25lTzdUbG1kdGpCWDdMZHlRZmFCR3loRl9aUHEySW4?oc=5",
-     "published": "2026-10-17T21:35:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDNDM3hITDBjVnA2MTM2b3RXRGozU0hrNC1QV0ZjWE5oQUdrdEU0RVpZSVFOblFqZWhuazhUTjFDZnkwRXZjQ29hejZIYVNjTUwyR1E4ZHRqM3BPSlRoWWtONERGRmxYOThfWFhVcDA4eWNUNTcyX0JUek1PSzFsMk1CMUoxa2lzRm1fal8zRGEtcENteklIRWo0SDNheVN3RHR1R0JjaUxvLUk?oc=5",
+     "published": "2026-10-18T00:00:00.000Z"
     },
     {
-     "title": "Other Sports: Horse racing-Loughnane becomes Britain's youngest champion jockey since 1923",
+     "title": "Every child needs to learn to swim",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd2lyYkE3WW1LZkV2YVQzT19PdXduVTl6cFE1VWZlaXVGcGlqS2ZxZGFKQkxMcFlpa0E5N0pVbUpJaDdleGRsVzMyQWFYQmdQOHR4NTJFb3VmUW9YOTRHSEFxU2NzckZIQzVLTW1xVnRWcUQxWmlOR3Z1WlhTdXkxc3VTOUo5UzFSQ0dUUVpibGtFSzU3dTUwWDNyR19Ya3o5Vm44SG1UZUdxQ195Ui1rZmNiNFhTRk5TVXFGcURrVnYyR042QUgwZw?oc=5",
-     "published": "2026-10-17T21:31:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3dEeGhyc2tKNWhBcHRIXzhKRERpLU15LW9ZbmxEa243aWRxUnVxZHhSWmI2VlJTRXZ1d1lJeEs3MzhCLWhKNFJwck9obTNEcktiRDE1QnNWLXpFSmhvLU9lZ2NqSk12Y2R4Nk9adHBrQVE0R2tHSXNrVTRRbjZCZlQzc3FVdzNRSlRzVHFDS2pqVHpURUE?oc=5",
+     "published": "2026-10-17T23:52:04.000Z"
     },
     {
-     "title": "Football: Soccer-Inter earn 3-1 comeback win at Bologna, Roma beat Genoa 2-0",
+     "title": "Students’ app offers drivers a helping hand",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGNYbHBTY2dTTkVXS1JnZVNwQkJUcUFzRWIxNHFhZ0FGSkk3ZTdHUUlrZmRWYVFna3FaOHV3U0hJZGpBU2RmaG5oZ0Z5Ukp3MkJWTTFhUXJFU3Ftc00tbzQ1blprRVQ2YVVhMmR4WG9CdHZMaEFVY2c5NDhJWEE5eUp5QjRPaExxOXIyOTJYNENNc2RMai1CUDRaRlV6b1dDaVBrQXNjZUdQWkdFcnI1bVVlWEVVM3cwYkE?oc=5",
-     "published": "2026-10-17T21:31:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmt4aW1JcmpFRFRYUkZWV2RmVVYzR184RzFtSS1Gcjk1ZzNFT3BKOFZMeXZHS0xnM1VhVjBrUVdqdnF5UEJoMlpHVWNPZFU1Sms0bHJCNmw0ZGpZSDBfbEh4Nm5uazBOcEE5Rk9RNU1PVTVwSWI3aS1jbnRhRzdaOWdycmVEc29yME9vN29fU09fTUh0eVhxNVpHSQ?oc=5",
+     "published": "2026-10-17T23:49:30.000Z"
     },
     {
-     "title": "Around 550,000 people take part in protests across France, about 400 arrested: minister",
+     "title": "The Houthi impact",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYzVMLW1jSUlEY1EwZ0hubTcydGVVOWktaDlvNWhYUVBZeV9jcm5xM3hZbVdsTWhLNE4yRHdyaWdwd1J0c0JsS3NQdUh4MktSOXpCZDA0ZXpaUUd3OV9KNGdOSTdKSUE2M18yaGhlcjJWb1dQNm1oazA1cy1VUU5NRElNc281by1kQ0dJXzNwNm1sTE54b2FfOFlTUmd1SGhEMFN4dDk1RVdxcERscV9OdFlpbGt2MS16NmlJUDlQSTAxTkNxT1FqUzlCUndwUQ?oc=5",
-     "published": "2026-10-17T19:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2N5SUo3eWZ1Y3RoVWFReTRPVzJXM3pKMlY4c0x5ZDdEcmFPVDR3SzhTNXVLVXpxcm4zNmhKZ2V4ZGdFUmFtU1ZIbWVKVFhWMC1YRWl4VmNHVTZXdDFZR09LeG1kWDlFWFB2ZTJBYU1GUVRqc2h1ZDlKbnBOUVlEcmQ2emdmS1RGelJiN3ZTSXBDWFJWVVZKU2lWTWE?oc=5",
+     "published": "2026-10-17T23:44:13.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Arrogance of the ‘oxygen’ exporter",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
-     "published": "2026-10-17T17:34:34.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDlBVmo3bHZLLUFURUxqLXpfeTBibmItdEtGSEpqR0lBeGl1OWpVeTlXZU4wVjF3cVZHSzd2WlVyYzFEUHowMlFuTjNGZEd5NnZLNkpPaXRaNTE1QnlpRlhIZGV3MlJKOVdTOFJkaWpkMHB0WldyTTNkXzJhUjM2ME56Z3czWFhJLVBfcmM4ckpiXzJWZnlDekZMOWxlTFNCNHBZMXptSDJmYmM?oc=5",
+     "published": "2026-10-17T23:31:28.000Z"
     }
    ]
   }
