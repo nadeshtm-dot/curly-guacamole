@@ -1,33 +1,27 @@
 {
- "updated": "2026-10-18T21:21:59.198Z",
+ "updated": "2026-10-18T22:22:01.096Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
+     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
+     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
+     "published": "2026-10-18T22:20:01.421Z"
+    },
+    {
      "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
      "brief": "Former President Barack Obama on Sunday called the Justice Department’s investigation into Rep.",
      "link": "https://www.cnn.com/2026/10/18/politics/obama-ilhan-omar-investigation",
-     "published": "2026-10-18T21:19:59.454Z"
+     "published": "2026-10-18T22:17:01.447Z"
     },
     {
      "title": "‘It’s a very dark time’: Inside Cornell’s surreal homecoming weekend",
      "brief": "Worlds are colliding at Cornell.",
      "link": "https://www.cnn.com/2026/10/18/us/cornell-homecoming-weekend-campus-mood",
-     "published": "2026-10-18T21:18:59.526Z"
-    },
-    {
-     "title": "Nine days before Israeli elections, Trump finally endorses Netanyahu",
-     "brief": "With just over a week to go until Israel’s election day, President Donald Trump finally gave the full-throated endorsement that Prime Minister Benjamin Netanyahu had long sought.",
-     "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
-     "published": "2026-10-18T21:16:59.512Z"
-    },
-    {
-     "title": "DC golf course at center of fight over tree clearing to start renovations next month, Trump says",
-     "brief": "President Donald Trump said Sunday that restoration work on the Washington, DC, golf course that has become wrapped up in litigation will begin November 15.",
-     "link": "https://www.cnn.com/2026/10/18/politics/east-potomac-park-golf-course-renovations-trump",
-     "published": "2026-10-18T21:14:59.519Z"
+     "published": "2026-10-18T22:16:01.394Z"
     },
     {
      "title": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’ during major protests",
@@ -36,7 +30,19 @@
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "4 dead after major fire breaks out at Canadian military base",
+     "title": "Driver released after pickup kills 2 and injures 10 during a youth soccer game in Wichita, Kansas, police say",
+     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a pickup truck sped onto the field, killing a 6-year-old boy and a man…",
+     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
+    {
+     "title": "Brewing nor’easter to stir up days of trouble for the Outer Banks and Mid-Atlantic",
+     "brief": "Strong winds, pounding seas and coastal flood threats will be near-constant companions for parts of North Carolina up through the Chesapeake Bay area this weekend as a nor’easter that’s expected to linger well into…",
+     "link": "https://www.cnn.com/2026/10/17/weather/coastal-storm-forecast-flooding-wind-climate",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
+    {
+     "title": "4 dead and 39 injured after major fire breaks out at Canadian military base",
      "brief": "Four service members were killed and dozens more seriously injured in a major fire Saturday at one of Canada’s largest and busiest military bases, Canadian Prime Minister Mark Carney said Sunday.",
      "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
      "published": "2026-10-17T12:00:00.000Z"
@@ -46,12 +52,6 @@
      "brief": "The search of Rep. Ilhan Omar’s Washington, DC, home by federal law enforcement earlier this week was an extraordinary legal step taken against a sitting congresswoman who is facing reelection.",
      "link": "https://www.cnn.com/2026/10/17/politics/explainer-wouldnt-be-easy-to-strip-rep-ilhan-omar-citizenship",
      "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "Driver released after pickup kills 2 and injures 10 during a youth soccer game in Wichita, Kansas, police say",
-     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a woman drove onto the field, killing a 6-year-old boy and a man and…",
-     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
-     "published": "2026-10-17T12:00:00.000Z"
     }
    ]
   },
@@ -60,22 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Torrential rain hits parts of Spain, killing one",
+     "title": "Football: Soccer-Lyon go top after comeback win over Nice",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUm05VXYwMjI5d1dLc2k4eG02V0otY2tDX3pJSzBJQko3ejJRc1R2bTI4UFNudFJaSXlKZ3Flck1yZHl3RGxKZGh0Z09VeXA1V2MyaE9qaE1BS042LWxXbTBlbGI0cURqMHp3M1hvVjQwT18zMTNSZGhXcHE4VXhPOFVRdDZpWHU3eng1MUw4cHNraUdYaVhUd193TTM?oc=5",
-     "published": "2026-10-18T21:03:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYTFmZXZ4U2t2XzZUVXFWTE5odGo3UDI5U2dRUjNnc2p0SzVaOS1VZnRma09mZmtYTmhKSDJZZnNScG5QNy1qWk0xTkFMbl9vczcyb3NZVkxBVGlzTnBPOUVQZ0dGSV9WWDRkMDlHZllMZFVUclJHcXU3UFF0SnNpRk5ldEphaFVYNUljdVZqWEhVenh4SzAwa29lajFaWWFocGc?oc=5",
+     "published": "2026-10-18T21:48:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Mbappe double helps Real Madrid sweep aside Sevilla ahead of El Clasico",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0ZJMUwxeTJTREgyM1d0Nm1LRzJ6aVVpRFBIZlNBM3hKR1Q4VDB0cnlkckJlQkVlbk1JR3RVYTRfTGxqWXptS25SM21WbXdtd05qWkl3MUZJTDFBVVlzLUNRZlJiNVBNcGVQWldjUTA5SkJMeEk2d2lxejh1aHpnQ19TN0R3SmhncUs2N2NRcC1HZXNuSVpHZzlwRHVsNGF5RG5UN3lXQmlYaktVd1JCSmdqZWd5SHF3RjBwSTJwQzBGbjQ1Rnl3LWdJTQ?oc=5",
+     "published": "2026-10-18T21:23:00.000Z"
     },
     {
      "title": "Beirut int'l book fair concludes 10-day edition featuring diverse activities",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkxhT2dXTmF4c05KSFhnN050cjdmdER3OGhSaU5BRE04SmhjUWJFZUp6VUMycnBrMDRHSWFvLW0xZDBKLXB1dVZzZU10LUNyelJITkR3ek01UnIzdWZ5QmIyd1JtMDVpNXBEMDhfWjJGc1dFd00yRGxUdGxIaVNaZVBYTVZNZEp0YjktZVhPZVFMUzc5amFJY1V0WHpCd3VzS092TXljM0I5eUZEY20zNndDUFhvdk1uTTRsVmc0ODZRT28zbEE?oc=5",
      "published": "2026-10-18T20:14:00.000Z"
-    },
-    {
-     "title": "Drone crash prompts Lithuania to launch security meeting",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNbG5uNlpUVG91RldkWGQwZzhzZmRBRXNmM2thZXVJY0V5d0dWbzYyY0RxUElsRElpMlJ2RFo5cmpPcnVkcU5iVlhjZmloal96am9KdnhLLTVLcjdndWRXdWNDOVVrM0VBY2dGc0ZrOVBCLXVzZDZPZEtnS2h3Zk9mS1NhTHgzR01xLTdaZUpFR2ZoZkQyMzdWMzlNN3pfbjJDd1M0eTVyYVY?oc=5",
-     "published": "2026-10-18T19:47:00.000Z"
     },
     {
      "title": "Trump says Washington golf course renovation to start in November, despite judge's order",
@@ -90,12 +90,6 @@
      "published": "2026-10-18T17:22:00.000Z"
     },
     {
-     "title": "Data centres face power test",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1hYQWliSk1ua2hlUF9hOUlHQXdTT1JGblNRbTFuS1BweVgwdW1WSHhZd1BqTFFjMjhjMkhZV25wT0JGeWwxaC12UXJ6RWo1YWJMSnJqTUFlcHlLS0lmT0xSZU5sY0xkbVl0UTJ6c2U3Z0otSkpCQkh0dy1TRnJ2OW5hRlFkM3QybGVKTHdDcEVtbFU?oc=5",
-     "published": "2026-10-18T17:03:19.000Z"
-    },
-    {
      "title": "Genting’s debt, equity divide",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
@@ -106,6 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdVUkJRWEdfX21qcV9kd3NLLUdoSEVUOU1hYXhXcmVrZ3JFNGpsTFVSM1VyaFl0VnZoSUE3eTRuVnlrb1NrQnltM0hFZXZzb25BMWJQazRfalJjZU83VmFhQm0xNTRsaHVpeU5KdHlWRDdTQzBvNHRpZjJ5Y0ZrSDlPNXhMRVB6UWV3R05hajlaeTBpNndvNmJhVWZoZ3Z4Slk1MjlnMnMzSGF3cUlEelNuZnI0ajIzNHc?oc=5",
      "published": "2026-10-18T16:58:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Barcelona hit by double injury blow before PSG trip",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYjh2cHpyX2VScXNEZkQ3Q3c2RVdJOGYybnVtOXVuM3NHVjNXQ0EtNjZFVDZpRmhxYVR4ZjVOa2RCUUtiaU9LeDFmMV9Qb24zaVl2NjVlX2dPWWxDV0NjM1l3YVhZQUI1VjJwR25VMzE2ZmotaEFwSG9jMG1fRU54Q05rN2NEUU5CTGd4RklxbGVFekJfSUZGaERodm10cmQ2ZkpMQVJmcG1iQkhobUpERw?oc=5",
+     "published": "2026-10-18T16:37:00.000Z"
     }
    ]
   }
