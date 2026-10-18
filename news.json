@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T05:24:06.535Z",
+ "updated": "2026-10-18T06:29:39.536Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,17 +9,17 @@
      "title": "Historic day in college football sees 5 of the top 7 teams in the Top 25 losing in the regular season for the first time",
      "brief": "College football has never experienced a Saturday like this.",
      "link": "https://www.cnn.com/2026/10/18/sport/college-football-five-top-eight-upset",
-     "published": "2026-10-18T05:24:06.714Z"
+     "published": "2026-10-18T06:28:39.809Z"
     },
     {
      "title": "‘These are really tough times’: House Republicans confront voter fury over Trump’s Washington in final midterm stretch",
      "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
      "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
-     "published": "2026-10-18T05:22:06.750Z"
+     "published": "2026-10-18T06:27:39.779Z"
     },
     {
      "title": "Deadly fire breaks out after ‘serious incident’ at Canada military base",
-     "brief": "A major fire caused deaths and injuries at one of Canada’s busiest military bases on Saturday, sparked by an unspecified “serious incident,” with authorities still working to contain the blaze.",
+     "brief": "A major fire caused deaths and injuries at one of Canada’s busiest military bases on Saturday, sparked by an unspecified “serious incident.”",
      "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
      "published": "2026-10-17T12:00:00.000Z"
     },
@@ -60,6 +60,36 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "PJ police tracking down driver who hit van operator during argument",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSkMxYVNvWW1ZRUZUUFV0X3pYeC1KcDJsQmlTeG1WYmp1MmJTa2hSWDdmc2RUeXhFSU1pelFhbmpEY19mdnc4a2RVMmtMZ29fU1U4b2xqMWJxLWE4OHNoWDdNeUFsNjJzQnNEU0RmM2tqQTBoUlFodkNpWmdhbktXalJJOFQtbDNDcFFpbk5FYjJQODFtX2x5QWtTT3FJNk1vWUpwbXNvU3o5MENYNm5xUExwM1hvQWht?oc=5",
+     "published": "2026-10-18T06:09:00.000Z"
+    },
+    {
+     "title": "Malaysians advised to postpone non-essential travel to France amid demonstrations",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU2ktN1JfMGJ5WThhd19aSVFITkpldTRXdHpWZ0hYVUpPMGlvTXpJbXAtLUo5RWMwbGgtT1JKNnVTYkZ5QnM2RDFwQllHNnhNcURNUHE2TDNLMmNZVEVHVk94M05hanlMbFA3TjU4czlOVUcwRk90OFoxOFcwbF9iYWpUUTQydDhjdzQzdzhBNmkydW1MTUJSRVZmODlzcFBjbG5OU2d5V2ZiSjJuR1RwWFRQTDJYSlQ3RWVDQThoZlZKOHdjR3p6TVd0Yw?oc=5",
+     "published": "2026-10-18T05:55:00.000Z"
+    },
+    {
+     "title": "Lithuania told residents to go to shelters after detecting a flying object",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeENnTWZRRVJVd0hxbjMtMFptREdlUnlUVFFVTmJkU0pYd3FjRlVQa1AtQWl3d2NncVBZYVR1eFlXcHpEcFlfWmMybl9LX09GT0c1UnhtTnItZG9ORHc0YWY3MXpKTEhYRTVPQzF6ejB4SkZxTmc5NnNDTXBoR3U2Z0lfd1gwcnF5UHZDWUdmNGJUc05vRS16TzAxdnNnQ2RKWHJqZTVrcU9VaENwOF9GRXRtSHFOb1EwRkJmNU5FOGQ?oc=5",
+     "published": "2026-10-18T05:52:00.000Z"
+    },
+    {
+     "title": "Vietnam signs free-trade pact with European countries including Norway, Switzerland",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSmRtOW1pV0U3TEU5MTd1cUZDV3dyWjRHcm1RNzVSMndaT25jdlJTQ0FKODJ2dXhMNnZRWU52VklCT0lUemtnejY4OXZzVENTT0RFb19IV25peko0SmtWNURlRW9KeGwzcGctNjJLZVNDLVpCdExCN09kbHoza1lqQ3RxYWd5Q2lXTWNjbXpoXzBVUW4zd2J0YTcwRlc3ZEZrX1pRMU9QNnJlN1YyWmFkdl9yaGtHM0RlV3gwZkdYbUFlbEtLRDFXTk1CNA?oc=5",
+     "published": "2026-10-18T05:37:00.000Z"
+    },
+    {
+     "title": "QuickCheck: Is a service charge being introduced for QR code payments starting Nov 1, 2026?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWNNQ2JsNXNFZnpBb1UyUHozdlJ4YllnbGktR3lTSW9PVmpYZTJuVzhWeHZUaFUyRW9YRXFjR0FFTV9VZW4wbTR3bmpPN2lLOWhQMGpzQm5JaFI3QThxSWtXaWtQNm81REpycklMZWRaSHlFU3gyd1NYSEtwSTdmOTZFZGVUOEJ2ME5kT0Nwd1B4VWl1U0pnTHVhXzhwamlLWDNCSmlXYWFybWtQR1V2ZzZYdm1wMTZKZ3BXY1pKcGoxUGtZblcySlJZT3FERmJHd2hFMmhBN2R0WUU?oc=5",
+     "published": "2026-10-18T05:02:00.000Z"
+    },
+    {
      "title": "12 people dead and another 30 injured as truck hits templegoers in India's Madhya Pradesh",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejlwazYzQlhDeHBsQXNtb2ZKbndRTE9VaTZVbjVZVk5fOWdWTHVUM3hQLUhQdmp6ZnV0TFZrcVgwaVRKczdqNmtYTzNmNlZZTE1KQUw4cTg0ako5Ql9rc2JqVi1YbWNMbU45TEw3MzE2dExVOVIwcVplcHZsakV1QzhMaHFaejZmZk9tblB4enVpUzZmUE95c0ZybjY0QnJoeEEyWHpfc2lkaEZOX1JVejhrWjc0dFZRQUt4V2pIXzllQ3EzUUJYNENDdFM0WVZNZEYwVktDYWRkV01hT2luSWpWVVdpd0RtZWc?oc=5",
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHlXWWV1OTNmYW13Q0RRampVOVBNcTBuSUhWQ0JLdEZBaERVQlNLQ3ZocS0xMlJzTlcwVWg3TmVQM25DNGtvUmlORlJ6ZFFXOVYyb0xneWt3dG5zRDFZMGVxUl9oN3pLdm5sbjZ0SEpUT3BOdXJnWl8xZnhDOVJ2Z3JNOEJQbzBJTTY0UVBWN0pwdEtlSWdTbF9FOXJ0T1otR0s1dnl4NWZNa1lfa2RZeWRIcnJDRTVkbGYteXBSTlZJclZjVk9KRXJCMTJxcFNGcUFqdG13dVg3d2Vq?oc=5",
      "published": "2026-10-18T04:37:00.000Z"
-    },
-    {
-     "title": "Saudi-led coalition says helicopter crash in Najran kills two crew members",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDZCYm8xWWFsbUtOdHRqUG94LU80LUZGRkVrNUM0UHVVUFFMQWlCR2twcGI5M0hQQnFxS2REUU9ocEhCVVlsOHBPVWdtbFJWVDU2elZNazFBbDk0Qi02V1lORTEzQzAya2JRN1ZVYmNSOW9TZUV5UHdXczZfdUZTSGJzVzZQZUtSa1N6TGxsNWV0VHdmZDAyRk9Rd1JHbkl5YlFRd1c3S2ZQb3dSc1Vkd29OOU5RajZ2UHJyUHNaNTY?oc=5",
-     "published": "2026-10-18T03:58:00.000Z"
-    },
-    {
-     "title": "Deaths confirmed after 'serious incident,' fire at Canada military base in Alberta",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSjM5SFR5R1ltcVdORElVZTc1alhyUndoeXEybjNaVlF2QkpWY2F1YWdpQkY1TWRMVjdmU2hwc2lVTGJBU0s5VHNaN2pCZWU1QzZPMmZDQUp6eUpPRHJJUzlLNXVmbVZTcXp3ZElQWWlxWWVMSkpJVzRTNkgzUU45aWp0Ulh5ZXVwa0lmTlpSajM1TEVFRjFab3RhMDdIeWJhSF9zOEJBSVJmaVdHR2pCOTVkZUx1MzhQNkpDOTNYTmtKaWVVOHMwem1lRV9xQTg?oc=5",
-     "published": "2026-10-18T03:57:00.000Z"
-    },
-    {
-     "title": "Sharing responsibility for protecting natural heritage",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVVBscXFaM2d5STJuLWFQQXdqRG1aWmZ3bXRMUU1jdTVyek1vdG1KTElNc3VJUGJiWkFhTVNZVklNRkg4RUFxeG9lZzRzeHZZb09Wd000ZGFMWnpPQWNsRDJ2YVpiY0tFb2NhSC02Z202MS1ieWc1STNWdmttbUs1dWxOSk1KZDVvNXlwS1BKM2hzMFh4VFlWNzBwZnY5TW5QUmE1dGZPTUVQaE0?oc=5",
-     "published": "2026-10-18T03:45:00.000Z"
-    },
-    {
-     "title": "Swimming: Swimming-Walsh surprised by 50m freestyle short course world record",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUkF3Um5LaU12TnRFYlFLeUtXa3BDdm5lWUtfNzZrY1BHUmFmRGlUUFV1RFVqV1pkeWM4WGk4dzZZOHozZkFiOFphallYYlBwQXM4Mk5RdFFPU2w5VXViMVZPMzd6T3dURm1qeWFnNE1mam5IR0cwZHNVRG1pUG9JMWhlS1BwbFdDTWZiX0lHRUhnanpseGhlR3VEbXU5NXBrNDFReXBsejF2dkg1a2tSWC04cFVnTEdRcXhpMw?oc=5",
-     "published": "2026-10-18T03:35:00.000Z"
-    },
-    {
-     "title": "Brunei strengthens waste collection services in national housing scheme",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOemxxb3d6OHF6THNMT00ybG9SclNVX1RiSW00bHNraFlSRTVaRVZoak45NEw0S2FySmFMaUhIVnpzbDVDNllPaTVJREpYUGc3ckJ6MmVMZ1dxSmdfZFVXeG0zWUtBMVhxYThuNFRodFVfSVhwOUdIdzBHLUZiYzFmSFNvaWdoNzgySmo4RkhzY0xYdVhURXpfQXJTZTFRUU5GLXlfVjViMWlzb0ZYbnF2NjdBLUV3bzlEcmgwNXRraV9UWkxNWUVTLXdhN213Y2M?oc=5",
-     "published": "2026-10-18T03:27:00.000Z"
     }
    ]
   }
