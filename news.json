@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-18T00:34:26.591Z",
+ "updated": "2026-10-18T01:29:44.552Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Auburn stuns No. 1 Georgia as college football’s top ranked team loses for second straight week",
-     "brief": "Alex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No.",
-     "link": "https://www.cnn.com/2026/10/17/sport/auburn-georgia-upset-top-ranked",
+     "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
+     "brief": "A 6-year-old boy and 35-year-old man were killed and 11 others were injured when a vehicle drove onto a field during a youth soccer game in Wichita, Kansas, on Saturday, authorities said.",
+     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "2 killed, multiple injured after vehicle drives onto field during soccer game at Wichita sports complex",
-     "brief": "A child and an adult were killed and multiple others were injured when a vehicle drove onto a field during a youth soccer game in Wichita, Kansas, on Saturday, authorities said.",
-     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
+     "title": "Auburn stuns No. 1 Georgia as college football’s top ranked team loses for second straight week",
+     "brief": "Alex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No.",
+     "link": "https://www.cnn.com/2026/10/17/sport/auburn-georgia-upset-top-ranked",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Every child needs to learn to swim",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3dEeGhyc2tKNWhBcHRIXzhKRERpLU15LW9ZbmxEa243aWRxUnVxZHhSWmI2VlJTRXZ1d1lJeEs3MzhCLWhKNFJwck9obTNEcktiRDE1QnNWLXpFSmhvLU9lZ2NqSk12Y2R4Nk9adHBrQVE0R2tHSXNrVTRRbjZCZlQzc3FVdzNRSlRzVHFDS2pqVHpURUE?oc=5",
+     "published": "2026-10-18T01:10:42.000Z"
+    },
+    {
+     "title": "Banks in a battle",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMWJMS25yN3NpTlpIamRFR2x5ckNaWU9ESWRKYXVoVnR1d0RQdTY3U1JpOUROOEppb0RpeG81RF9jZ2RaNE9fWHlMdjk3dzlHMm1PaU1ISHlIM1liV2d5RERVR2V2c2lVYl9WbHgyMlp1WmtjdktPQTAyWjJERTVsZ25WSUs?oc=5",
+     "published": "2026-10-18T01:07:30.000Z"
+    },
+    {
+     "title": "PKR restructures Sarawak leadership to gear up for 13th state election, appoints Mahmud Epah as state chief",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYTVYeEJEN2M1RTN2dEwwcHI5MFpoVDduUnlnZDVpQ0x1eXl4QUxDblozdWtoYjZCRlAtWXh6UFZ5SUpxdkZKbGFSWUVSLVhHeUZDckxxbHRjODNxUFVsd0hnVlo0TDc0SG9oNVhRanNQYUl1dkwtVUFJTFA0Nm9qeVJoY3pLbXE3SGIxQUFLMS1NU250V1ZtbkFNVkQ1b0taeEJCLUhreTRzVy1xTVRHWTAwQ2VHMjB4cWNSVFlfUDNOTThmVlp0S2JhdUh6X3BqVmlmOV9QVWhZRXVJeXdmemlzeDJOaTBMN0pybA?oc=5",
+     "published": "2026-10-18T01:01:00.000Z"
+    },
+    {
+     "title": "Squash: Sivasangari stays positive after agonising Egyptian Open semis loss",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcjdDS1U0SFZYUm5aak5JR0RvX05yeTBiVXJaQ1dldXhGNERVOGN0cXV4QWhsTnJ3RjVDYjl3Mnl3NlFJU2JvMUZpeVVJM0hRZ201TE1HenViQlEzX3k5Mk5lX1EzU3ppNWNRTnZBMW80T1Q2Smw1NnkxQ0hZdG4tbUx3V0VnMWpNMDFQQ2JaUERCWlgwNEd2SHJabjZLbXpCSFNYQ2NxRWJGeDJlOW5RSFdkV3VtODdOanc?oc=5",
+     "published": "2026-10-18T00:46:51.000Z"
+    },
+    {
+     "title": "National hockey squad eager to end Johor Cup drought",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejNOdTVVMzlJWWJLbUhGSFpZMkV2N0JIaE04VkRpU2ZSSkpJODdhWGlBVnpwNzlyUHluWDZsbWs3YVVPZTNmTE10SVpnWXJqOHk1VHJsN3Fjc080VTl1alJNWUV4Z3dxZDNjbzVrV1dUSXBxMWxMcXJuUDZ1XzQ2YW0wZ3pZa05EYzhtQldlaHIyOHE2N0FVaDJiNDg0YkdPYjVjYUFB?oc=5",
+     "published": "2026-10-18T00:44:51.000Z"
+    },
+    {
+     "title": "Squash: SRAM set sights on Olympic glory, build grassroots for future",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOU5ZV3JSMlhUVndSY1VzZkFZWWszTzN0UG45VFBkMjMxTXRwVGlMSlp3WXhMQUZISVM1dUpwQXdaWElUQzlIenZ3VTk4MUxGUG9WM0FsWjFBbzBWS0FYYlZBdVNEd1ZQUmE5b2pCT2phYWZueXptS3pPRHNIVHpSaWt2VzZTcldEcTd2R1A1RG05SXBZdW9rdXNDbG9TcC03MndoSHJvVFZOSUVpRlAzRw?oc=5",
+     "published": "2026-10-18T00:44:51.000Z"
+    },
+    {
+     "title": "Cycling: Cycling star Azizul signs off after a season of triumphs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmVKLVR2cnNaLXZOSDNvY0lfZkVuNW9ONzI2ai1kR0xYVHlyQXZ0MkxWOG1TMDJhVm9LcW1HMkR3UWFROVNIaHRxTEdwRHdIYzZkQlVoUmhHSG9heWN0QXJqdk8wSnhPeURjdDdXSk5CRWJYeFZLTnNpZEZTb0Zhb2o3S0RxeXdadUp0M3NkamJEbTROUml5aWUyeWhjRVd4YkdOTkFJVXFldFIx?oc=5",
+     "published": "2026-10-18T00:39:50.000Z"
+    },
+    {
      "title": "10 killed as fire guts a beach resort",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVJVdnhPS25tZU5lblJFNlkyUm1kRmVBdUJscDdYblBxWXRyU1FDekhVZGFnT1lwNGJtS1JDRjhWQnlWZjVrTVNMLVd5ZUFRQXpZUW1iaHdmaFNnaVpYN0t3bE1PdS11cDR3d0xPSWxHR2c2MzZsa2Z2VHppNy1ELWFUeUtsYk1xbXFHQ2lMU0RUcE1oV3pibFdGMF9GQ2JmZEE?oc=5",
      "published": "2026-10-18T00:29:37.000Z"
-    },
-    {
-     "title": "‘Promote each district’s attractions’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTkJmdjZ6S1R6cWM0NTdmOElVNnlzcWE0blJvMmM2d280MGg1WVNlcEZ0MEtOR0VYMzV3OGlmdzdsZUloUUNvd3ZZaktibk1rdktPbGVkMlBuR0N6aGZoNm9RTDM1S3ZJMzNwSnQ3WWlZdmtrUDhEajlKTHJDUlE0Y1JGcGhkWFhYSFJoVQ?oc=5",
-     "published": "2026-10-18T00:19:00.000Z"
-    },
-    {
-     "title": "No closing of childcare centres, says Nancy",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSm5QVURIc1BCal9SN0tqOF83SWZTdDhDMllORmFOREFraWYtOFpnTXFDTENaWXFBTEFDWnBsVWNMTmwzTjNsdFlJNWNxaS0zSHNhM1V6OVFDeGUxc3k1eHlpR1ZqVlNnbzZucnVSSmJ3NUNwdXcwT2hnM2NyYU10OGNvWndIaVI4dW1IS3l2UEtTZlZyYmVJ?oc=5",
-     "published": "2026-10-18T00:04:47.000Z"
-    },
-    {
-     "title": "Bone and Boner Weaknesses",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSDNDM3hITDBjVnA2MTM2b3RXRGozU0hrNC1QV0ZjWE5oQUdrdEU0RVpZSVFOblFqZWhuazhUTjFDZnkwRXZjQ29hejZIYVNjTUwyR1E4ZHRqM3BPSlRoWWtONERGRmxYOThfWFhVcDA4eWNUNTcyX0JUek1PSzFsMk1CMUoxa2lzRm1fal8zRGEtcENteklIRWo0SDNheVN3RHR1R0JjaUxvLUk?oc=5",
-     "published": "2026-10-18T00:00:00.000Z"
-    },
-    {
-     "title": "Every child needs to learn to swim",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3dEeGhyc2tKNWhBcHRIXzhKRERpLU15LW9ZbmxEa243aWRxUnVxZHhSWmI2VlJTRXZ1d1lJeEs3MzhCLWhKNFJwck9obTNEcktiRDE1QnNWLXpFSmhvLU9lZ2NqSk12Y2R4Nk9adHBrQVE0R2tHSXNrVTRRbjZCZlQzc3FVdzNRSlRzVHFDS2pqVHpURUE?oc=5",
-     "published": "2026-10-17T23:52:04.000Z"
-    },
-    {
-     "title": "Students’ app offers drivers a helping hand",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUmt4aW1JcmpFRFRYUkZWV2RmVVYzR184RzFtSS1Gcjk1ZzNFT3BKOFZMeXZHS0xnM1VhVjBrUVdqdnF5UEJoMlpHVWNPZFU1Sms0bHJCNmw0ZGpZSDBfbEh4Nm5uazBOcEE5Rk9RNU1PVTVwSWI3aS1jbnRhRzdaOWdycmVEc29yME9vN29fU09fTUh0eVhxNVpHSQ?oc=5",
-     "published": "2026-10-17T23:49:30.000Z"
-    },
-    {
-     "title": "The Houthi impact",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZ2N5SUo3eWZ1Y3RoVWFReTRPVzJXM3pKMlY4c0x5ZDdEcmFPVDR3SzhTNXVLVXpxcm4zNmhKZ2V4ZGdFUmFtU1ZIbWVKVFhWMC1YRWl4VmNHVTZXdDFZR09LeG1kWDlFWFB2ZTJBYU1GUVRqc2h1ZDlKbnBOUVlEcmQ2emdmS1RGelJiN3ZTSXBDWFJWVVZKU2lWTWE?oc=5",
-     "published": "2026-10-17T23:44:13.000Z"
-    },
-    {
-     "title": "Arrogance of the ‘oxygen’ exporter",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUDlBVmo3bHZLLUFURUxqLXpfeTBibmItdEtGSEpqR0lBeGl1OWpVeTlXZU4wVjF3cVZHSzd2WlVyYzFEUHowMlFuTjNGZEd5NnZLNkpPaXRaNTE1QnlpRlhIZGV3MlJKOVdTOFJkaWpkMHB0WldyTTNkXzJhUjM2ME56Z3czWFhJLVBfcmM4ckpiXzJWZnlDekZMOWxlTFNCNHBZMXptSDJmYmM?oc=5",
-     "published": "2026-10-17T23:31:28.000Z"
     }
    ]
   }
