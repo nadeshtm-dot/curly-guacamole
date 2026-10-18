@@ -1,10 +1,22 @@
 {
- "updated": "2026-10-18T02:25:39.825Z",
+ "updated": "2026-10-18T03:25:26.870Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Deadly fire breaks out after ‘serious incident’ at Canada military base",
+     "brief": "A deadly fire broke out at a military base in Canada on Saturday after a “serious incident,” authorities said, with firefighters still working to prevent the blaze from crossing into residential areas.",
+     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
+    {
+     "title": "2 killed, multiple injured after mother drives onto field during youth soccer game in Wichita, Kansas",
+     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a mother drove onto the field, striking multiple people and killing a…",
+     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
+     "published": "2026-10-17T12:00:00.000Z"
+    },
     {
      "title": "Abdul El-Sayed disavows Muslim Brotherhood and criticizes implications that he has ‘dual loyalty’",
      "brief": "Michigan Democratic Senate nominee Abdul El-Sayed on Saturday disavowed the Muslim Brotherhood, an Islamist political movement, during a heated exchange at a town hall.",
@@ -18,12 +30,6 @@
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "2 killed, multiple injured after mother drives onto field during youth soccer game at Wichita sports complex",
-     "brief": "A 6-year-old boy and 35-year-old man were killed and 11 others were injured when a truck drove onto a field during a youth soccer game in Wichita, Kansas, on Saturday, authorities said.",
-     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
      "title": "Auburn stuns No. 1 Georgia as college football’s top ranked team loses for second straight week",
      "brief": "Alex McPherson kicked a game-winning 34-yard field goal as time expired and Auburn, led by quarterback Byrum Brown’s dominant running game, upset No.",
      "link": "https://www.cnn.com/2026/10/17/sport/auburn-georgia-upset-top-ranked",
@@ -33,12 +39,6 @@
      "title": "Mexico arrests state official accused of allowing unauthorized CIA role in drug raid",
      "brief": "Months after a deadly car wreck revealed the CIA’s participation in a raid on a Chihuahua drug lab, authorities arrested César Jáuregui, Chihuahua’s former attorney general, for allegedly allowing US spies to…",
      "link": "https://www.cnn.com/2026/10/17/americas/mexico-cia-raid-arrest-intl-latam",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "Indiana’s first loss in almost 2 years shows Hoosiers a new, painful side to being in college football’s top tier",
-     "brief": "Descending the stairwell back to Earth — after a delirious 22-game win streak came screeching to a stunning end, after the biggest football game in a generation on the Indiana campus fizzled to a disastrous 19-15…",
-     "link": "https://www.cnn.com/2026/10/17/sport/ohio-state-indiana-football",
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
@@ -60,6 +60,12 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Indonesia restricts Mount Bromo viewpoint access amid forest fires",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSzNaU0JtQVFJVUYtWXFqbGR2TDhlZU9uSERIQldUeTlQSWZoQzYwa0QzbDRhRjBtM1ozb3RQV0NOYnFNaFFiTkxOY2tibmloSHR3U0twWVN4SUtQWExhd3FkdGNxbHZ5V0RHREpmbXBhWXdrY3hVcEpzMzZfQVBBRVJvbUlnZnptcHlNWlBQZFJNLUhjb3hzeGVYcHpLeFBoQ3Q2aWo0Q05SQXR4NnBua1V3ZFlneWxZQWtqTW1BQVRnUWEtOHMwQQ?oc=5",
+     "published": "2026-10-18T02:33:00.000Z"
+    },
+    {
      "title": "Golf: Don’t sway those hips, at all",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWDRrVFpkYVNtZnNrd2g4YVhRT1pzbEZLMnlzeUJhRnN0Mk9QWWo2aGZIT2U3cTJxRUtsOGluNXY0X1hyUElXNWhzS0QtWUZuVXBqc2ZIVFpuUjFJbjNfdUthdzNPcWdqMGZwQXFMQlRTSmpOM1p6bzF4eWpLazVFN3Bn?oc=5",
@@ -72,16 +78,10 @@
      "published": "2026-10-18T02:13:56.000Z"
     },
     {
-     "title": "Golf: Region is key driver of growth",
+     "title": "US state attorney general sues ChatGPT founders over child safety",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRVRNbXJEbFlmNlptUVFZYWs4d1RQZk8wY0s4Z3AzendvYmdZV243am9SYjc2RnNNbm94MWRaWXBKaDliNzNPVGZtZmF4bU1kRnZwNHVXZ0JEb01KT2xoX19sZlRtT3hpT1pON0ZtY1NVV1kyazkwNlFNVWF5Rlp3LXJLUS03Zw?oc=5",
-     "published": "2026-10-18T02:10:42.000Z"
-    },
-    {
-     "title": "Every child needs to learn to swim",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc3dEeGhyc2tKNWhBcHRIXzhKRERpLU15LW9ZbmxEa243aWRxUnVxZHhSWmI2VlJTRXZ1d1lJeEs3MzhCLWhKNFJwck9obTNEcktiRDE1QnNWLXpFSmhvLU9lZ2NqSk12Y2R4Nk9adHBrQVE0R2tHSXNrVTRRbjZCZlQzc3FVdzNRSlRzVHFDS2pqVHpURUE?oc=5",
-     "published": "2026-10-18T01:10:42.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNDZRdEFZY0dXY180bFBIOE81R0p6UTgzOFZYVEhRZnAyb1A5MjNrSHlzbndfaTNlZjA2dWtsSGdUbmNXZWZ0LVFiRDNwZWh3UGU0OTdWY0ZHclBhNkFYblBpZ3FlWG9LREp6Nkl0c3ltYlhkbjFfVjhaaDlJaXdGWkVOUDFwaG91TmstVWNaT2EwLU9ZSU9xVW1pNnY1V0dlSUtBQmN4bDFPWHZ0bG1VZ05icXdFSkZ6SlE?oc=5",
+     "published": "2026-10-18T02:00:00.000Z"
     },
     {
      "title": "Banks in a battle",
@@ -92,7 +92,7 @@
     {
      "title": "PKR restructures Sarawak leadership to gear up for 13th state election, appoints Mahmud Epah as state chief",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYTVYeEJEN2M1RTN2dEwwcHI5MFpoVDduUnlnZDVpQ0x1eXl4QUxDblozdWtoYjZCRlAtWXh6UFZ5SUpxdkZKbGFSWUVSLVhHeUZDckxxbHRjODNxUFVsd0hnVlo0TDc0SG9oNVhRanNQYUl1dkwtVUFJTFA0Nm9qeVJoY3pLbXE3SGIxQUFLMS1NU250V1ZtbkFNVkQ1b0taeEJCLUhreTRzVy1xTVRHWTAwQ2VHMjB4cWNSVFlfUDNOTThmVlp0S2JhdUh6X3BqVmlmOV9QVWhZRXVJeXdmemlzeDJOaTBMN0pybA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQckRjaE1NVENNYmlKcTUxWlYyT0pwRjJWbk9ORElkcWdLaHpzV185RlRsdklEb3E3WFYteFRScnlPQTNxWWp4ck9XYTRQWnRESTB5Mk82NWh4Z2Z3d0Fsc05TLTdPeG1fZFAwbUhKSWhsOWJtZHhGd2tMUFJ4NUNpSEdJNlN4amdabUY3Nkp4VWpNWWdxNC1CMzZlWGVjWkh1WUYxeGU5X2dsY1ZHSjYzZ0VuM2dpU19Xa1otTVRQeWxIVnV3b29wOVNKZXZnUEdQdlctM1o2MmRuMG5vVUdKY2ljUjRjczJDSXEza0NqY0VfTzlJNTdhc0M5eUNyYmhiOENuWDhKYWRydG1LbkQ0cGstTHBuM25YUFZGZXFoemFFX1dtU0dRblU1dkZvMHBBMGo3VWdiZHJNUFBoMHJoSFBCWld1S19ENmNhYlNSRnJOMlk?oc=5",
      "published": "2026-10-18T01:01:00.000Z"
     },
     {
