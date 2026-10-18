@@ -1,21 +1,27 @@
 {
- "updated": "2026-10-18T06:29:39.536Z",
+ "updated": "2026-10-18T07:29:47.437Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Trump and Netanyahu’s once blossoming bromance sours at a pivotal moment for both men",
+     "brief": "For years, Israelis driving the country’s highways in the final weeks of an election have seen the same image: Prime Minister Benjamin Netanyahu standing beside President Donald Trump, under the slogan, “A different…",
+     "link": "https://www.cnn.com/2026/10/18/world/trump-netanyahu-elections-relations-intl",
+     "published": "2026-10-18T07:29:47.640Z"
+    },
+    {
      "title": "Historic day in college football sees 5 of the top 7 teams in the Top 25 losing in the regular season for the first time",
      "brief": "College football has never experienced a Saturday like this.",
      "link": "https://www.cnn.com/2026/10/18/sport/college-football-five-top-eight-upset",
-     "published": "2026-10-18T06:28:39.809Z"
+     "published": "2026-10-18T07:27:47.695Z"
     },
     {
      "title": "‘These are really tough times’: House Republicans confront voter fury over Trump’s Washington in final midterm stretch",
      "brief": "GOP operatives conducting a focus group in a traditionally red Midwestern state this month were taken aback by what they heard from their own party’s voters.",
      "link": "https://www.cnn.com/2026/10/18/politics/republicans-voter-anger-midterms",
-     "published": "2026-10-18T06:27:39.779Z"
+     "published": "2026-10-18T07:26:47.629Z"
     },
     {
      "title": "Deadly fire breaks out after ‘serious incident’ at Canada military base",
@@ -42,12 +48,6 @@
      "published": "2026-10-17T12:00:00.000Z"
     },
     {
-     "title": "Mexico arrests state official accused of allowing unauthorized CIA role in drug raid",
-     "brief": "Months after a deadly car wreck revealed the CIA’s participation in a raid on a Chihuahua drug lab, authorities arrested César Jáuregui, Chihuahua’s former attorney general, for allegedly allowing US spies to…",
-     "link": "https://www.cnn.com/2026/10/17/americas/mexico-cia-raid-arrest-intl-latam",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
      "title": "Trump waives Russia-related sanctions before they kick in, prompting backlash from Ukraine and US lawmakers",
      "brief": "US President Donald Trump has waived a further slate of sanctions related to Russian fossil fuel sales, sparking a bipartisan backlash days before they were to take effect under a bill he signed into law last month.",
      "link": "https://www.cnn.com/2026/10/16/europe/us-ukraine-russia-sanctions-intl-hnk",
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Two arrested for terrorism in Spain's Basque Country",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWWhVT3htR0FoUWduT0lFNHpQQ2VfeWFhV19sSFlodjVyQjFGQ2pNR1VjQ29wSFJfMzNvWTA1ZGF6SHEtSkJFYS1qdi03ZExtQUc3eXJHTnZDanRlSTE1S3FrNm5ZajJ5emZJOGljM0tuZU5OSGZvTU1BbnhheXRSMWY2bzVEQ0I5eUhIcEMzZXFlclk5bVVQdVlRbE5FOW5rUXJ4WFZB?oc=5",
+     "published": "2026-10-18T07:10:00.000Z"
+    },
     {
      "title": "PJ police tracking down driver who hit van operator during argument",
      "brief": "",
@@ -84,28 +90,22 @@
      "published": "2026-10-18T05:37:00.000Z"
     },
     {
-     "title": "QuickCheck: Is a service charge being introduced for QR code payments starting Nov 1, 2026?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWNNQ2JsNXNFZnpBb1UyUHozdlJ4YllnbGktR3lTSW9PVmpYZTJuVzhWeHZUaFUyRW9YRXFjR0FFTV9VZW4wbTR3bmpPN2lLOWhQMGpzQm5JaFI3QThxSWtXaWtQNm81REpycklMZWRaSHlFU3gyd1NYSEtwSTdmOTZFZGVUOEJ2ME5kT0Nwd1B4VWl1U0pnTHVhXzhwamlLWDNCSmlXYWFybWtQR1V2ZzZYdm1wMTZKZ3BXY1pKcGoxUGtZblcySlJZT3FERmJHd2hFMmhBN2R0WUU?oc=5",
-     "published": "2026-10-18T05:02:00.000Z"
-    },
-    {
      "title": "12 people dead and another 30 injured as truck hits templegoers in India's Madhya Pradesh",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPejlwazYzQlhDeHBsQXNtb2ZKbndRTE9VaTZVbjVZVk5fOWdWTHVUM3hQLUhQdmp6ZnV0TFZrcVgwaVRKczdqNmtYTzNmNlZZTE1KQUw4cTg0ako5Ql9rc2JqVi1YbWNMbU45TEw3MzE2dExVOVIwcVplcHZsakV1QzhMaHFaejZmZk9tblB4enVpUzZmUE95c0ZybjY0QnJoeEEyWHpfc2lkaEZOX1JVejhrWjc0dFZRQUt4V2pIXzllQ3EzUUJYNENDdFM0WVZNZEYwVktDYWRkV01hT2luSWpWVVdpd0RtZWc?oc=5",
      "published": "2026-10-18T04:48:00.000Z"
     },
     {
-     "title": "Boxing-Figueroa withdraws from Kameda fight due to illness after losing WBA featherweight title",
+     "title": "Nation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUFlqSjBaakxfMldzS1FCeWVYdl9yUE91dGlyaFhGRE9uWU96cnZKTG5ILVRJdERLZ1ZnWVpNWWNoZTY3VjhLeDJMc1Rnbm9hdDJ6U2NmSUwwRW1GMTVWRV9qcFJZX3F0ai1DRDAxVEhaQzJnajRkU2RXNDRuS3Y1SkNhNDFQSW90clNkelpJTXFtZGJWVmVmcEVudzUyMjUzU2pJbjFkenlZTkEyX1FyWXhtejdFTHRVWVZqX2I2MnJZU3ROZVpLLUhFbUpOS1Z2UDduTHNzT0JxaHVDS1B3?oc=5",
-     "published": "2026-10-18T04:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5haWNXNmpGSFdWYlVXVGZxMXVqaEw3UFhHR0I5VHJUcURkbWY2NXlqMzZ2ZTdCbmlxRkFwcUQ2bTUyWHNyQU92dFFNWDRfRWtweTVYSkQ3OUxWU0w5RThnVVNJZXNnTjBCR1JwTlNn?oc=5",
+     "published": "2026-10-18T04:44:40.000Z"
     },
     {
-     "title": "Consumer group supports tougher laws for drunk driving, cautions against blanket asset seizures",
+     "title": "Boxing-Figueroa withdraws from Kameda fight due to illness after losing WBA featherweight title",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONHlXWWV1OTNmYW13Q0RRampVOVBNcTBuSUhWQ0JLdEZBaERVQlNLQ3ZocS0xMlJzTlcwVWg3TmVQM25DNGtvUmlORlJ6ZFFXOVYyb0xneWt3dG5zRDFZMGVxUl9oN3pLdm5sbjZ0SEpUT3BOdXJnWl8xZnhDOVJ2Z3JNOEJQbzBJTTY0UVBWN0pwdEtlSWdTbF9FOXJ0T1otR0s1dnl4NWZNa1lfa2RZeWRIcnJDRTVkbGYteXBSTlZJclZjVk9KRXJCMTJxcFNGcUFqdG13dVg3d2Vq?oc=5",
-     "published": "2026-10-18T04:37:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPT01GQ0sxZC1LUmd2YXpUTE1jcFJvMW5IVVNqOXhOcTBsQVNsQTFpcjlnbUtYOXU1bXExdDJMbXl2akVsNEJ6Rk40WHloai1nLXhkNTVJd2s0VFhodmF5YU1vWmdyRXdxSDJEZnFKSXNyZlRXUU1tWnYwZ3RyVEhIN045TEZCMExkQUdERFdhSk9uXzhwaUN1VnJ3YzVMcHpfTktDQUhtOVNQNi1vdmVtV0U1bXpFaDI5VFIwTXctOEZqaU5aaF9KeXVnVXkxUmZIU0FWOVppSUpyazFpdVFrRUpHNW9OUFFWRUh3WHRmTndRYXJKVkphek9rTm4?oc=5",
+     "published": "2026-10-18T04:42:00.000Z"
     }
    ]
   }
