@@ -1,51 +1,57 @@
 {
- "updated": "2026-10-19T18:31:05.405Z",
+ "updated": "2026-10-19T19:31:40.219Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley",
-     "brief": "Mississippi’s attorney general says a Senatobia police officer was justified in the June shooting death of a 1-year-old boy while responding to a shoplifting call.",
-     "link": "https://www.cnn.com/2026/10/19/us/mississippi-child-shot",
-     "published": "2026-10-19T18:31:05.554Z"
-    },
-    {
-     "title": "‘Tariff Man’ finally found tariffs he doesn’t like",
-     "brief": "President Donald Trump loves tariffs so much that during his first term, he nicknamed himself “Tariff Man.”",
-     "link": "https://www.cnn.com/2026/10/19/business/russia-trump-graham-sanctions-tariff",
-     "published": "2026-10-19T18:30:05.598Z"
-    },
-    {
-     "title": "The rioting across France is a symptom of a much larger public and political crisis",
-     "brief": "“We have a mess on our hands, to put it bluntly,” French Prime Minister Sebastien Lecornu said Monday.",
-     "link": "https://www.cnn.com/2026/10/19/europe/france-riots-political-crisis-intl",
-     "published": "2026-10-19T18:29:05.620Z"
-    },
-    {
-     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
-     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
-     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-     "published": "2026-10-19T18:28:05.627Z"
-    },
-    {
-     "title": "Saudi Arabia cancels next week’s ‘Davos in the Desert’ conference after series of Houthi attacks",
-     "brief": "In a major setback for the kingdom’s economic ambitions, Saudi Arabia has canceled a major conference scheduled for next week in Riyadh amid a wave of attacks by Iran-backed Houthi militants.",
-     "link": "https://www.cnn.com/2026/10/19/economy/saudi-arabia-cancels-investment-conference-houthi-attacks",
-     "published": "2026-10-19T18:27:05.611Z"
+     "title": "Slotkin faces GOP backlash after suggesting probes could deter young people from joining the Trump administration",
+     "brief": "Democratic Sen. Elissa Slotkin is drawing criticism from a Republican lawmaker and other conservatives after suggesting congressional investigations could deter recent graduates from joining the Trump administration.",
+     "link": "https://www.cnn.com/2026/10/19/politics/elissa-slotkin-trump-young-republicans",
+     "published": "2026-10-19T19:31:40.475Z"
     },
     {
      "title": "What we know about the investigation into the Bend school shooting",
      "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
      "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
-     "published": "2026-10-19T18:26:05.652Z"
+     "published": "2026-10-19T19:30:40.513Z"
     },
     {
-     "title": "US-Ukraine relationship worsens amid Trump and Zelensky’s mutual distrust",
-     "brief": "The relationship between Ukraine and the United States is facing increasing strain over intelligence sharing, sanctions, Ukrainian attacks on Russian energy and the path to peace.",
-     "link": "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl",
-     "published": "2026-10-19T18:25:05.602Z"
+     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
+     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T19:29:40.516Z"
+    },
+    {
+     "title": "Russian satellite makes possibly unprecedented approach to another spacecraft without permission",
+     "brief": "A rare move by a Russian-made satellite may have brought it within less than a mile of a commercial Earth-observation satellite that may be used to provide national security services to countries such as Ukraine.",
+     "link": "https://www.cnn.com/2026/10/19/science/russian-satellite-iceye-x36-approach",
+     "published": "2026-10-19T19:28:40.459Z"
+    },
+    {
+     "title": "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’",
+     "brief": "The leader of a Kenyan Christian cult has been found guilty of the murder of 190 children through an organised system of enforced fasting and abuse.",
+     "link": "https://www.cnn.com/2026/10/19/africa/paul-mackenzie-shakahola-kenya-intl",
+     "published": "2026-10-19T19:26:40.680Z"
+    },
+    {
+     "title": "Jon Stewart to stay at ‘The Daily Show’ through the 2028 election",
+     "brief": "Jon Stewart will remain at the helm of Comedy Central’s “The Daily Show” through December 2028, extending his once-a-week hosting role through the next presidential election.",
+     "link": "https://www.cnn.com/2026/10/19/media/jon-stewart-daily-show-2028-skydance-comedy-central",
+     "published": "2026-10-19T19:25:40.509Z"
+    },
+    {
+     "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley",
+     "brief": "Mississippi’s attorney general says a Senatobia police officer was justified in the June shooting death of a 1-year-old boy while responding to a shoplifting call.",
+     "link": "https://www.cnn.com/2026/10/19/us/mississippi-child-shot",
+     "published": "2026-10-19T19:24:40.468Z"
+    },
+    {
+     "title": "US airman who died after rappel fall at a college football game in Texas is identified",
+     "brief": "The US airman who died after a rapid fall while rappelling from the rafters of a stadium before a college football game in Texas was a 15-year service member from Georgia, according to the Air Force.",
+     "link": "https://www.cnn.com/2026/10/18/us/service-member-dies-rappelling-san-antonio",
+     "published": "2026-10-18T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "U.S. dollar ticks up",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1IUzdXcHpvWXBVY2tnRmhYay1pVHFGMW40bTdTcVVFeHRhMU9TYlJTQm5GazdBZS1nYW5oVVBIWVQ5OVpGX1ljbU83bmZPMUZVRzhobXdMZ29tZzVXaFF4Ti1Wc0pESmltQk0yLUZIZHhXRzA5Rnc?oc=5",
+     "published": "2026-10-19T19:05:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Brentford working with police after rugby ball launched towards stadium",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOHFXTHo5Vmc1SkRKT1hyYl81dnNaaGFBV0JKTDZxTEdvcERpT00zQm0yMkh6N29Jd3JpYmJLWjFISkZXaDNHVXRjRXpBajhiSnh4bXdzaVZPTEVrOE9JLUFCNTZidVVQekRPNUVLQVNnYzJaOHdnVXNlZWhaOGFiUF90cHdneFA1U3RBTEV0NDUwMW1ZbWpqOW5DR2ViQWNNRDdERzROUncxUzBMUVZHaHVLN00zdzkxTXZqb3p0MWdsSmRSTm5VNnc0VQ?oc=5",
+     "published": "2026-10-19T18:36:00.000Z"
+    },
     {
      "title": "Brazil's government says $4 billion budget reshuffle needed for Lula measures in 2027",
      "brief": "",
@@ -86,26 +104,14 @@
     {
      "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OanJKYk1XNXpGTkd0VnZPUi1yX3RNSjFGalNIRDVCTUJCaENRRGJxendTN3FLeGlCUWpZVDZFLWRqVWhzeTV4TzlxaG4wYUw3WTlBLW5aREdtX21pbFdLRQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EU25oR3V0VFkxWHc3ZXRFR0ExUUJURnNWTC1oTlp1dXdPYmY0cXZ5cFQxZV9SRHoxQmRXbFZIdnV3eXdRdXlvcXBWQV9RVGRJWE0xWDBKNVFVYlRRZzlGVkpWQQ?oc=5",
      "published": "2026-10-19T16:41:00.000Z"
-    },
-    {
-     "title": "Carney says cause of fire at Alberta military base still unknown",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZk1QRG4xYl9VN0lmYWY2T1hCd3BLT2czNzdiUnBfb2hBUF9HUGlDOGZlUlMxRkZjYXpzYXZxWVlkeVdoaUxaSk9iNlA0cVN6NG1fbEZqZ01zSkpCZmlJVXkyMGdJdmFOTml6RldnaTZNUzFmZnQ5RGFxN1NRTEtSaWp5YmlFWUoxQ182Z3pVMW9tcWF5dDhUalRPVmJhUGxKYUJnMTZGTDYzekN2WGFkZ285aw?oc=5",
-     "published": "2026-10-19T16:35:00.000Z"
-    },
-    {
-     "title": "Ahold Delhaize reports cybersecurity incident to Dutch police",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHN0V25VS0NMRVVMUU92MmJnOVJBdHlqN3JBSjh6R3lNeGpNN1RJcmlaeU9zaHFoT1IwU25zdldDc2RETUdpMEJnRmJyanRRWTFKQ052emphVkQyUVBSYXAyTkRFWEZqVDNIWjJtYjJlcXlSV08zVGljOG1MM0NSWFR4Nk5HRGRla0haWTRSdm9TeGsxLW0tdWZVUDNxRHphUlotcTQwU2hTMmxXcXV3MHJxM2Y?oc=5",
-     "published": "2026-10-19T15:42:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
