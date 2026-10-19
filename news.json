@@ -1,33 +1,33 @@
 {
- "updated": "2026-10-18T23:20:55.488Z",
+ "updated": "2026-10-19T00:35:09.956Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘I will not comment on his anatomy’: Ohio Republicans buzz about Trump’s analysis of a senator’s body",
+     "brief": "A day after President Donald Trump offered his latest appraisal of Ohio Sen.",
+     "link": "https://www.cnn.com/2026/10/18/politics/trump-body-comments-jon-husted-ohio",
+     "published": "2026-10-18T12:00:00.000Z"
+    },
+    {
+     "title": "Trump excoriates Zelensky after Ukraine defies US president with major attack on Russia",
+     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
+     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
+     "published": "2026-10-18T12:00:00.000Z"
+    },
+    {
      "title": "‘You Can See Everything’ becomes one of the biggest documentary releases in decades",
      "brief": "“You Can See Everything” just saw the biggest box office opening for a documentary in more than 20 years.",
      "link": "https://www.cnn.com/2026/10/18/business/you-can-see-everything-fielder-box-office",
-     "published": "2026-10-18T23:18:55.793Z"
-    },
-    {
-     "title": "Ukraine defies Trump and launches one of its biggest drone attacks on Russia this year",
-     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
-     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T23:17:55.771Z"
+     "published": "2026-10-18T12:00:00.000Z"
     },
     {
      "title": "Obama calls Trump administration’s investigation into Ilhan Omar ‘appalling’",
      "brief": "Former President Barack Obama on Sunday called the Justice Department’s investigation into Rep.",
      "link": "https://www.cnn.com/2026/10/18/politics/obama-ilhan-omar-investigation",
-     "published": "2026-10-18T23:14:55.787Z"
-    },
-    {
-     "title": "‘It’s a very dark time’: Inside Cornell’s surreal homecoming weekend",
-     "brief": "Worlds are colliding at Cornell.",
-     "link": "https://www.cnn.com/2026/10/18/us/cornell-homecoming-weekend-campus-mood",
-     "published": "2026-10-18T23:13:55.782Z"
+     "published": "2026-10-18T12:00:00.000Z"
     },
     {
      "title": "4 dead and dozens injured after major fire breaks out at one of Canada’s largest military bases",
@@ -60,10 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia on bomb threat, Sky News says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOG8xcVRrQ05rVmRvSWdoRU1LTG9KZkVjVG1yQTZlaHJoMG9JSllJTVhoQ0pBeGUyTjdURU5XWm95RjhMT282R09BYlY4VlZyRTZyUE9ZYnJqOHU0dVZ6YnU1NGM1OEIwM0RacVF0M1pzSGtDU3ZGRDNLaXdZMENiZEI0dGROYXZGNUx2SXpJM3JfYm5SdW1JVUFRVmhfcllTd2w5MVBSN0hGLUt4UG9XekZEOEtYaWRkTDVZSTdfcG9JWmpxWGVLbVlOZ2RnUQ?oc=5",
+     "published": "2026-10-19T00:11:00.000Z"
+    },
+    {
+     "title": "Drawing the lines of democracy",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjNBdGFJVVRSVmdyTTZVbkxQOFo3NlpfV3hMTDRoNjEwLVVJeVVoRkI2Q2JlUW1reHgzRm4wSTcyNXZ2MllOVTZUUVJmSUNNMEcyRHF1TW5vTEdKWFF3ODBMN2JfLTUxeDRmWUxqdi1tREEzanllZ0wwV2plM2s4Y3daUXdIOUJiQ0w4NQ?oc=5",
+     "published": "2026-10-19T00:09:03.000Z"
+    },
+    {
+     "title": "‘Unesco recognition does not guarantee silat’s survival’",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMERtUDR5LUQ2b2Q2VlBUX3lselJ3SDJXZXRCRjVXamtLSktFMXhGM3pQbmtjUHJmS0YwRmlNdWdxeW5YTFdPNmFnM0thQ3YtT1pScUh5YjdTR1V4T1l4MWF2YjhsdkJpMnAtV3FZMjh0dGVSb0I4ZGVZbWhwdXBQRHB6Wk1QVE9CUVptcnREV05wbEpFT3Jqb1EySVVKVElhRGU0a1pR?oc=5",
+     "published": "2026-10-18T23:38:49.000Z"
+    },
+    {
+     "title": "Anthropic to commit 5% stake to new public benefit fund",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR19HeE1maHl5bDhyckt1YlNuVk45TkJpX2NjcU5rNGtRUFNvNHEweWxiLXFiRFdPY0lfTlIwOUZLU0JKTTdDd0YzWkVndzhKYktieFVOek1wd1hlNnhPSkdPRVhWM1BCUnRWVnJCOUVWSGI3WkpKQjUzdDN6QmQyYmNDY3BkczhSX2tBU0R0cm11S1FKSm1QNGNuRmNaNVhzSy1hMG1lVk82VTA?oc=5",
+     "published": "2026-10-18T23:25:00.000Z"
+    },
+    {
+     "title": "From coding to calories – integrating STEM and health education in schools",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmQ1cmZKelhJSmIyN3dQNmhQM0ZlN2JoV05lU0pvb3FKYWxKRUpTV3kzVlVEQ2FPN2VnM2ROTDN1RUMtLXpJTVJDWWdQb2FJM2U1SmFrZ3BCNTNMZ3pxQWZpRDRXUUFmNUhaRjFOLWZEMFV4WktqdVZfZ0tEQXVnZ1RLOWNEODdqSTQ1ZUhxcTk0S0RzdGNFOUdVVWprenVQRHgzTDZReUc5bVdmeHBMWjZCNFhyeEswdmcxR1VKZDhZTHhwdDJZ?oc=5",
+     "published": "2026-10-18T23:24:33.000Z"
+    },
+    {
      "title": "Ministry dismisses QR payment charges reports",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmJESXFrN2Z3Mm9LTHVtalo1ajFWdUJwZXp4NWp0V3h4ZUZHWWV5cEZZOVZOVmV6dmpHOFh1UWhFaGphSURQdHNLeVVXQzluME05RTIzY3BTREYyUk5JSkpvOEM1RE9OUXRSTU1aYnR0ekxyQ3h4bmVRNVNTUTNaVmZiemFWbWtoWldmR0ZVTjRCdFdoMWF4N01zdw?oc=5",
-     "published": "2026-10-18T23:15:37.000Z"
+     "published": "2026-10-18T23:15:58.000Z"
     },
     {
      "title": "At least 8 killed in mortar shell explosion in Libya",
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0ZJMUwxeTJTREgyM1d0Nm1LRzJ6aVVpRFBIZlNBM3hKR1Q4VDB0cnlkckJlQkVlbk1JR3RVYTRfTGxqWXptS25SM21WbXdtd05qWkl3MUZJTDFBVVlzLUNRZlJiNVBNcGVQWldjUTA5SkJMeEk2d2lxejh1aHpnQ19TN0R3SmhncUs2N2NRcC1HZXNuSVpHZzlwRHVsNGF5RG5UN3lXQmlYaktVd1JCSmdqZWd5SHF3RjBwSTJwQzBGbjQ1Rnl3LWdJTQ?oc=5",
      "published": "2026-10-18T21:23:00.000Z"
-    },
-    {
-     "title": "COP17 opens in Armenia for global progress review",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGJlQlY2Vk1Leks0c1B1dzdoTmRaVWgzVTdTbTJRV3BXOFVFakU1Z1BBZERSYl9Oc2VYekJGVTNWTWhwNW5ucm5Jc01zNkxyZkZGU3VjTWdMdmtZbTFmZHlPMS0tNXRMWktNT2Q2YWx2SDcwQ1Q4WXItdkxhTVJwRnlVTFM2akdIMDd1YnU4Q1VIMFU5c3VhX0dvSDUwN1U?oc=5",
-     "published": "2026-10-18T20:37:00.000Z"
-    },
-    {
-     "title": "Beirut int'l book fair concludes 10-day edition featuring diverse activities",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZkxhT2dXTmF4c05KSFhnN050cjdmdER3OGhSaU5BRE04SmhjUWJFZUp6VUMycnBrMDRHSWFvLW0xZDBKLXB1dVZzZU10LUNyelJITkR3ek01UnIzdWZ5QmIyd1JtMDVpNXBEMDhfWjJGc1dFd00yRGxUdGxIaVNaZVBYTVZNZEp0YjktZVhPZVFMUzc5amFJY1V0WHpCd3VzS092TXljM0I5eUZEY20zNndDUFhvdk1uTTRsVmc0ODZRT28zbEE?oc=5",
-     "published": "2026-10-18T20:14:00.000Z"
-    },
-    {
-     "title": "Trump says Washington golf course renovation to start in November, despite judge's order",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM0J3YURoNDItcEFtVUVhNk1kdXpVbGFueEdvRHpfVEVkdHRuTG5aRjc4RVhnR0ZSZ0J3ZmV2VmR4ekVsZmtSRFJ5UEZHcEx1NEdySGdVclBVYUpnRVBNME9EeUN6MERaTGZ6aHhSZzQyRWVMdE5RRjhZelpodWVTbWtaQ0NwOEdtUWJ0b2x2LUJ3N3NIMUswUml6Q21nbVNnR1RVbTk3SVZxTUVacXo2WFhwbzlLbFBQMVNnRk1BS3Fubl9QelRHXzVSVmRPVXZ2anVsVg?oc=5",
-     "published": "2026-10-18T17:51:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Barcelona Women suffer first defeat in 350 days",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORkVIQ0JKSXdnN1YzRVNNVXlGM2ZrYm9objk3TmhwaU83NjVNWmVYdVFzRmhFWE1SWkw2X0JyeGJyT0Z5dElydzgyTjJNNXVJejZwTkUwS0ZmQ09TbW5IMkRFR1Z3Z2hhS0NYb1doWUlFR1BqOEc5bnFqaUdEVTFyN2Z0b1JvbzR4dnFxZjRhSkprVDQ2V0RjRE4ydlJwRGlGLVM4SExtaWd1UVE?oc=5",
-     "published": "2026-10-18T17:22:00.000Z"
-    },
-    {
-     "title": "Chinese medical team provides free consultations in southern Cameroon",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdXdVUkJRWEdfX21qcV9kd3NLLUdoSEVUOU1hYXhXcmVrZ3JFNGpsTFVSM1VyaFl0VnZoSUE3eTRuVnlrb1NrQnltM0hFZXZzb25BMWJQazRfalJjZU83VmFhQm0xNTRsaHVpeU5KdHlWRDdTQzBvNHRpZjJ5Y0ZrSDlPNXhMRVB6UWV3R05hajlaeTBpNndvNmJhVWZoZ3Z4Slk1MjlnMnMzSGF3cUlEelNuZnI0ajIzNHc?oc=5",
-     "published": "2026-10-18T16:58:00.000Z"
     }
    ]
   }
