@@ -1,21 +1,33 @@
 {
- "updated": "2026-10-19T04:31:53.958Z",
+ "updated": "2026-10-19T05:30:08.384Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
+     "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
+     "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
+     "published": "2026-10-19T05:30:08.589Z"
+    },
+    {
+     "title": "US citizen injured during California ICE incident, officials say",
+     "brief": "A resident of Long Beach, California, was injured during an incident involving Immigration and Customs Enforcement on Saturday, according to federal and local officials.",
+     "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
+     "published": "2026-10-19T05:29:08.654Z"
+    },
+    {
      "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
      "brief": "Iran has signaled that it is preparing for another round of war with the United States and has issued public threats against Washington and its allies in an apparent bid to deter President Donald Trump from…",
      "link": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
-     "published": "2026-10-19T04:31:54.133Z"
+     "published": "2026-10-19T05:28:08.675Z"
     },
     {
      "title": "Vance struggles to tame GOP struggles in 2026, and may suffer for them in 2028",
      "brief": "For the next two weeks, Vice President JD Vance’s job is to save Congress for Republicans.",
      "link": "https://www.cnn.com/2026/10/19/politics/trump-vance-iran-war-economy-challenge",
-     "published": "2026-10-19T04:30:54.184Z"
+     "published": "2026-10-19T05:27:08.665Z"
     },
     {
      "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
@@ -40,18 +52,6 @@
      "brief": "A day after President Donald Trump offered his latest appraisal of Ohio Sen.",
      "link": "https://www.cnn.com/2026/10/18/politics/trump-body-comments-jon-husted-ohio",
      "published": "2026-10-18T12:00:00.000Z"
-    },
-    {
-     "title": "4 dead and dozens injured after major fire breaks out at one of Canada’s largest military bases",
-     "brief": "Four Canadian service members were killed and dozens injured in a major fire Saturday that occurred as troops were conducting combat training with live munitions at one of the country’s largest and busiest military…",
-     "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
-     "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "France’s Macron vows to hold accountable those who ‘sought to bring down the Republic’ during major protests",
-     "brief": "France’s President Emmanuel Macron addressed the nation on Sunday evening as communities reeled from one of the most violent nights of unrest in recent years after largely peaceful anti-government protests descended…",
-     "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
-     "published": "2026-10-17T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Tennis-After years of frustration, Davidovich Fokina wins third title of 2026",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnZDYnc4dGV1Xzd3c3ZSSFlPSDR2SlZNZEZsdEdQcGhVbkFTV09uYzFnWWpJRHcxSjZnVHFmWWl4M3VmZWlfLWZJZzNwcnNLbXZOUldadW03Y1NiVkkwOEVjXzJzbzEzVm1oQTFIRHBDbGUtWHJ0SFpoQjFDNmVBUGMwdktEdU9JSkNHdU5TVjFVeXVLdWN4bDNTLXhNTEhoNkxWTmFPcXVpUDFHVGlfa3lKQ1AzRW51YW1FMDYzNHNQZVp2Smc?oc=5",
+     "published": "2026-10-19T04:32:00.000Z"
+    },
+    {
      "title": "Genting’s debt, equity divide",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
-     "published": "2026-10-19T03:22:30.000Z"
+     "published": "2026-10-19T03:27:19.000Z"
+    },
+    {
+     "title": "Chong Wei hails memorable week for Malaysian badminton",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXJKZTdUSWVqaEdQTExsQ003SEVCZWp0ZklwaW8weThiZUlYZzh4eHZQdU5fME5iZVh5bDZGS3d2dGFUbXc5emVqM2dvSUk0WGI3aExEWHBMeW5GWmotc3JjWVZ4MzhTMnhJQkZnYWlNSnpUcDcwVUYzQ3I2YUxIYlNqYk43VWdNUHhrNFRhU3pkMTJicFloU3JNSV9fazZZeWozTHEwUmNnWFdN?oc=5",
+     "published": "2026-10-19T03:14:00.000Z"
+    },
+    {
+     "title": "Learning about Chinese history, culture and cuisine along the Silk Road",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczBxX3VtaEpZSnZzajFQNXFlQ2l2eU9iNkhTSHJGUUdSazlvREMxcG45ZHZuZlBNUlNRUlJsd2Z5dG1ZbEV6T0g2Tm5nQWloSnhiWXcxWjlKSFJXVG55LVo5UmtGSkUwU2g3T0J0RGJCOXFOcDlOSWtLS19SSldSTWtQMmdWS280VmlMQ2JsQlFtM1BrVXVFRExkeElSeFlpZkg5ZmlNQmpucnFRSUJtQVJ5aUtMaFVBVlo4cjdTYVlJR0k?oc=5",
+     "published": "2026-10-19T03:00:00.000Z"
+    },
+    {
+     "title": "Toyo Ventures shares suspended pending announcement",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJzcUx1Ym1YQ2xZYmtkWElTTllSbFNmSEZsWjhHUlY0SWkwS0txNlBXNEljcVc3eUkzOGRwYlBhQmFLaVNpT2p1ajBmNUZGLXlRRVBDaTF0UHJiTlNORFJUdlYtZjF5cmtGckU5VDI5ZlB0MG9FUUR6bkxjZkh6MG1zMXp5T0hJSkxXOFJBQ3A5elY5dDNyUi0xazNfa0p5bWlnTmFlemJ5RW43SFdwTk5n?oc=5",
+     "published": "2026-10-19T02:27:00.000Z"
     },
     {
      "title": "Drawing the lines of democracy",
@@ -72,40 +96,16 @@
      "published": "2026-10-19T02:09:33.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Nepal mourns: 'It hurts when the grandchildren ask for their parents'",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
-     "published": "2026-10-19T01:40:42.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOS0V1QlpybnBXXzh6c19DX0ZVTkNxWEwwT0xIem5HQzNFNWNXRUR6SjM1YzhvOHJvVUdFY1RHcHhNZmZLN1pBYmd5Qlp3V21BQ2lQbDc3cC1kREh0NEx1c2t0NVl2R3FWY2NrWDE0Z3YtbzRXQTdkVXh4VXpuUVF1MVhQZGtGNjlhNzNNQTItVDNqNG5ZRFlSMU1BakxxYjljdHFObVFyTHFhaDliU1dTa2hsYUJfdlZ4NnBNTnZaZzNLaDNyWUE?oc=5",
+     "published": "2026-10-19T02:00:00.000Z"
     },
     {
-     "title": "Data centres face power test",
+     "title": "Bowling: Natasha takes silver in World Cup",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1hYQWliSk1ua2hlUF9hOUlHQXdTT1JGblNRbTFuS1BweVgwdW1WSHhZd1BqTFFjMjhjMkhZV25wT0JGeWwxaC12UXJ6RWo1YWJMSnJqTUFlcHlLS0lmT0xSZU5sY0xkbVl0UTJ6c2U3Z0otSkpCQkh0dy1TRnJ2OW5hRlFkM3QybGVKTHdDcEVtbFU?oc=5",
-     "published": "2026-10-19T01:26:55.000Z"
-    },
-    {
-     "title": "Russian strike kills woman, hits Kyiv subway station, mayor says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmZENTBOX2o0bmFfbGcyYlpEcktPeWdVNmJLMV9zeGlMTmlMNVZWSXluRmd4WUF2OHdPU25rMXVrOUZxWFh3ZkpEdGRFMlpPSmNLS2ZyUzRiMVpCT2gwVDhwT3dkbWF5clFUc3hBckI2cFlob3lwV0NZRUNzandoa0NRNHl6U0ZhX1lwejhkQUI3d0F0MUwxREM3NE9kNWNUQ2d0QVVUWTlROWx1SXJmcQ?oc=5",
-     "published": "2026-10-19T01:22:00.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pbEpJUExmdGhWbmVyZnpleC11SWRmZl9fazFwMkVDZGIzMkpUdTNrSXNibkQtaE41MFF4SjFaU2hGT1dWNkxERVRBVS1PcnY3ZGJZWWh0WlhPYWNtQ1kzcg?oc=5",
-     "published": "2026-10-19T01:18:20.000Z"
-    },
-    {
-     "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia after 'threat'",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOG8xcVRrQ05rVmRvSWdoRU1LTG9KZkVjVG1yQTZlaHJoMG9JSllJTVhoQ0pBeGUyTjdURU5XWm95RjhMT282R09BYlY4VlZyRTZyUE9ZYnJqOHU0dVZ6YnU1NGM1OEIwM0RacVF0M1pzSGtDU3ZGRDNLaXdZMENiZEI0dGROYXZGNUx2SXpJM3JfYm5SdW1JVUFRVmhfcllTd2w5MVBSN0hGLUt4UG9XekZEOEtYaWRkTDVZSTdfcG9JWmpxWGVLbVlOZ2RnUQ?oc=5",
-     "published": "2026-10-19T00:11:00.000Z"
-    },
-    {
-     "title": "China’s refined oil exports surge amid Iran war",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWY5TzRfRmZSTWFMZEJhMUxvQlJRdHdReGp3R3FpWC14ZkhlNEdFdDBTYUdKZXpZQ2lLZGF1aVV3Uk1xMW1VbkhlSDR6SkdCcUk0QVA5dFl2YnY3UjloczlNVGVzSDhMRks2TER5eTRjSmY0MTY4a2VBdzJiSzdmRnJvQ0FqTDRoeHJKWTUwSm5UR3VDS1pzTFI5R3lhcEdCeU9VTmpFSEdjcnM?oc=5",
-     "published": "2026-10-19T00:00:26.000Z"
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcmpIbkg1VjlwVUZLTEU0cFZMVEwyeG1Xa0ZQZzhoeVgzNnJpYi1yU3ZkYnNMQzRqM0FITDk2eFh2b01naTNydGdJdVBEQUVOc3p6TEdVbEc4QXpsUEQtd3NmaHJBNjRZZEFXTlBPM3ZaaEF0WEVIWWlVTFZWWWxrckJTSWlseW9JV013dHRB?oc=5",
+     "published": "2026-10-19T01:50:00.000Z"
     }
    ]
   }
