@@ -1,51 +1,57 @@
 {
- "updated": "2026-10-19T14:35:17.975Z",
+ "updated": "2026-10-19T15:31:47.501Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Whiskey rebellion over 1868 law on home distilleries heads to the Supreme Court",
-     "brief": "When John Ream got into brewing beer at home nearly two decades ago, starting out was as easy as opening the kit his wife bought for him as a gift.",
-     "link": "https://www.cnn.com/2026/10/19/politics/can-you-make-whiskey-at-home-supreme-court-will-decide",
-     "published": "2026-10-19T14:35:18.210Z"
+     "title": "Finland gripped by national broadcaster’s puppies live stream",
+     "brief": "It’s dark outside. The news cycle is relentless.",
+     "link": "https://www.cnn.com/2026/10/19/europe/finland-puppies-livestream-scli-intl",
+     "published": "2026-10-19T15:31:47.724Z"
     },
     {
-     "title": "Supreme Court backs Pentagon decision to throw out plea deals for 9/11 alleged conspirators",
-     "brief": "The Supreme Court on Monday declined to review former Defense Secretary Lloyd Austin’s decision to cancel plea agreements with Khalid Sheikh Mohammed and two other defendants accused of plotting the 9/11 terror attack.",
-     "link": "https://www.cnn.com/2026/10/19/politics/supreme-court-backs-pentagon-decision-to-throw-out-plea-khalid-sheikh-mohammed",
-     "published": "2026-10-19T14:33:18.243Z"
-    },
-    {
-     "title": "Trump says construction to begin ‘immediately’ on golf course despite judge’s order",
-     "brief": "President Donald Trump early Monday doubled down on his plan to close and renovate a public Washington, DC, golf course , saying construction would begin “IMMEDIATELY” despite a judge’s order to provide three days’…",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
-     "published": "2026-10-19T14:32:18.229Z"
-    },
-    {
-     "title": "US-Ukraine relationship worsens amid Trump and Zelensky’s mutual distrust",
-     "brief": "The relationship between Ukraine and the United States is facing increasing strain over intelligence sharing, sanctions, Ukrainian attacks on Russian energy and the path to peace.",
-     "link": "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl",
-     "published": "2026-10-19T14:31:18.237Z"
-    },
-    {
-     "title": "Australian lawmaker Helen Haines hit by car outside electorate office in ‘deliberate act,’ PM says",
-     "brief": "An Australian lawmaker is in a critical condition after being hit by a car outside her electorate office in what the Prime Minister says was a “deliberate act,” though police are yet to identify a motive.",
-     "link": "https://www.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl",
-     "published": "2026-10-19T14:30:18.239Z"
+     "title": "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’",
+     "brief": "The leader of a Kenyan Christian cult has been found guilty of the murder of 190 children.",
+     "link": "https://www.cnn.com/2026/10/19/africa/paul-mackenzie-shakahola-kenya-intl",
+     "published": "2026-10-19T15:30:47.771Z"
     },
     {
      "title": "Victoria’s Secret reboots its fantasy with a $50M diamond bra",
      "brief": "On Sunday night, just when you thought the megawatt spectacle that is the Victoria’s Secret runway show couldn’t get any glitzier, out struts Kylie Jenner in a $50 million diamond brasserie.",
      "link": "https://www.cnn.com/2026/10/19/style/kylie-jenner-50m-fantasy-bra-victorias-secret-runway-2026",
-     "published": "2026-10-19T14:29:18.252Z"
+     "published": "2026-10-19T15:29:47.763Z"
     },
     {
-     "title": "Priest killed by falling crucifix during live streamed Mass",
-     "brief": "A priest has been killed by a falling crucifix at a church in Ecuador as he performed a mass that was being live streamed online.",
-     "link": "https://www.cnn.com/2026/10/19/americas/ecuador-priest-death-crucifix-scli-intl",
-     "published": "2026-10-19T14:28:18.246Z"
+     "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
+     "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
+     "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
+     "published": "2026-10-19T15:28:47.769Z"
+    },
+    {
+     "title": "US citizen injured during California ICE incident, officials say",
+     "brief": "A former Long Beach city employee was injured during an incident involving Immigration and Customs Enforcement on Saturday, according to federal and local officials.",
+     "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
+     "published": "2026-10-19T15:27:47.711Z"
+    },
+    {
+     "title": "Christiane Amanpour announces she will leave CNN next June",
+     "brief": "CNN legend Christiane Amanpour, the network’s chief international anchor, said Monday that she will sign off from CNN next June.",
+     "link": "https://www.cnn.com/2026/10/19/media/christiane-amanpour-leaving-cnn-june-2027",
+     "published": "2026-10-19T15:26:47.719Z"
+    },
+    {
+     "title": "Elon Musk says he will give a SpaceX share to ‘every kid in America’",
+     "brief": "Elon Musk has said he will give every child in America a stake in SpaceX, his $2 trillion aerospace and artificial intelligence company, as tech firms face intensifying scrutiny over their impact on society.",
+     "link": "https://www.cnn.com/2026/10/19/business/elon-musk-children-spacex-shares-x-post-intl",
+     "published": "2026-10-19T15:25:47.765Z"
+    },
+    {
+     "title": "Whiskey rebellion over 1868 law on home distilleries heads to the Supreme Court",
+     "brief": "When John Ream got into brewing beer at home nearly two decades ago, starting out was as easy as opening the kit his wife bought for him as a gift.",
+     "link": "https://www.cnn.com/2026/10/19/politics/can-you-make-whiskey-at-home-supreme-court-will-decide",
+     "published": "2026-10-19T15:24:47.715Z"
     }
    ]
   },
@@ -53,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Authors",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Cb2otOFctWnVGT01mTnlyUTRDcTNtRzFvYlNNV0RpR1RLY3N2b2pfam9jQjdRZUU4ME9TVU4zc1JNWjVwZlI5VGRPZzE1RUpGd25YeFdYTS1IQXE4aFE?oc=5",
+     "published": "2026-10-19T14:32:21.000Z"
+    },
+    {
+     "title": "Football: Soccer-Liverpool urge patience with Szoboszlai injury, Frimpong suffers new setback",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUZ0WUJERHloNWNGYS1iMG5pdVQxNkNMNm1DRlBpZmQxcEg0bGNqQW9uX3VqNERUN09jN0xWWDNlUEhlQ3NiRU5hWjlVMFFUeV9wTjBjWVRtRFBPQ2xkdDRWcjEyOTZBTElsUnU1WlVUV1J6SW1rUGtpZGdVQVN6TzJrdFFlTXctYkU4NmpRTmNndml2NUJhNzVvbFN6NGxhR0FaZXctVi12WGJjODFZRVJlei1LNzJ2bjJJQzJVQUticGxpNTh2ek56RmppWWhE?oc=5",
+     "published": "2026-10-19T14:10:00.000Z"
+    },
     {
      "title": "US banning Chinese AI DeepSeek from government agency IT systems",
      "brief": "",
@@ -66,16 +84,10 @@
      "published": "2026-10-19T13:28:00.000Z"
     },
     {
-     "title": "Authors",
+     "title": "Taiwanese singer Jeffrey Kung marks Malaysian heiress wife's birthday in Paris",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZV2xFb0VLY1FfckRHRWdNM3pzakZ5WlRrUTJtemQxd04xWVFLLTFSOHFBTDdjT1lpMkJtZk1oSzVzTjVzYjhJTC1YWTkzV3BLMFpzaEJLZG15SjA?oc=5",
-     "published": "2026-10-19T12:54:14.000Z"
-    },
-    {
-     "title": "Football: Soccer-City's injured Semenyo out for eight weeks, Haaland may be fit to face AEK",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVFAwTVF5M2RDa0VfZElTYkFDdzVQejBfakkzWjY3cVFPT0tfZjhJaHhMSktwMG1OanBjOEhTa0pybVdIdkZ4M3UxN0tRc1N4Q2pxc3R2YUp4alVrMktZaDNNdTVqT1lNTVdqY2VzTXYzczVGTVlxMFBIelZFZ3NkRjZIaGt2ZTNvNklYdGFlS0dFc05RVHkwX1huNTZjVHBaejg3YlRpazZ3VkdiRWZnUzdVdjl1bF9lS2t6UWlaOHRjQWV3SE9JZ29kaUNqWXMz?oc=5",
-     "published": "2026-10-19T12:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa0dDYnNGVEpIdnJxRUtvVXRwYldFRHcxNDZwRzgzNXJMUkdGeDF5bWxuWDRlUDlCMTRhQnFZZWJqZWpfWHg2LWMycFdRbUFkTVJ4ZTZNTUc5OVZPeUotWjh0NW9wYUhzMHVaZmlHZlhyUE5fc1RzdkFySm1xY0NuRmQ4Q2d1WVJoc1FwSDNqbmhtMHBxMDVLYnZZTm5uQkpwYjZrbE1GaHpXMlI0ZE13UVFMNWtKR1FXcTVBMXhuYl9xQm5DekZzYTVCZkNuaGpQOE5RWGt2VEJGZw?oc=5",
+     "published": "2026-10-19T13:00:00.000Z"
     },
     {
      "title": "SUNCON-C72 (526372), SUNCON-C72: CW SUNWAY CONSTRUCTION GROUP BERHAD (CLSA) - Market Watch",
@@ -90,12 +102,6 @@
      "published": "2026-10-19T10:57:00.000Z"
     },
     {
-     "title": "Football: Soccer-Marseille official club store looted amid unrest in France",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOTFGbzRYc2xSSDV2RnFMNXJDNmVQUEpvNkVzdm9hUDBwUlBqTFdaVFpNdkVKVVlLUk5GbGtHRzJoQjRwbmV4OXh2R0t1Z3RhNGQ3VTlnT2pkSWtvQnJjcWpxZVJaeVhUYVpBVGQ5SDBlTzFaYkFQOTJ6YVpoZ195TkdNcmxrT2RUbzRGejVZNkcybi1MOU5SbVRxeE5rcGV5TS0yWEVXaEZPd2xMWEZCdjlKeE1zd2cwckE?oc=5",
-     "published": "2026-10-19T10:41:00.000Z"
-    },
-    {
      "title": "Badminton: Kenny: Pearly-Thinaah and Co play on despite pockets of unrest in France",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR1RKOHoycEQ1N1BUUnZBV2tVMlh2SVl6Q1NrU2s3M085OGJCMlVxODJGSkxRbWktY19JU1lBNmo3UWpzYU1fdU5OdjZMWG9wbHYtUDNHLVptSDRqNzlJczVYU0FsVE1IRzUzdHFqSGRrdlg3WFMzU1ZsM1NZVmdUSm4tVjlqelh5Z0c4c3I2YjZJWk4yb0NTelBjWjMzRUlMaU5NZ2szS1hGQWl2enIwMmpFSFBSX0hEN2s2T0NyRzhXeTQ?oc=5",
@@ -105,7 +111,7 @@
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
