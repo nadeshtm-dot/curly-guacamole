@@ -1,10 +1,22 @@
 {
- "updated": "2026-10-19T03:29:23.881Z",
+ "updated": "2026-10-19T04:31:53.958Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
+     "brief": "Iran has signaled that it is preparing for another round of war with the United States and has issued public threats against Washington and its allies in an apparent bid to deter President Donald Trump from…",
+     "link": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
+     "published": "2026-10-19T04:31:54.133Z"
+    },
+    {
+     "title": "Vance struggles to tame GOP struggles in 2026, and may suffer for them in 2028",
+     "brief": "For the next two weeks, Vice President JD Vance’s job is to save Congress for Republicans.",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-vance-iran-war-economy-challenge",
+     "published": "2026-10-19T04:30:54.184Z"
+    },
     {
      "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
      "brief": "China reported better-than-expected Q3 growth on Monday as robust exports of chips and electronics components on the back of a global artificial intelligence boom buoy the world’s second-largest economy, despite…",
@@ -30,12 +42,6 @@
      "published": "2026-10-18T12:00:00.000Z"
     },
     {
-     "title": "‘You Can See Everything’ becomes one of the biggest documentary releases in decades",
-     "brief": "“You Can See Everything” just saw the biggest box office opening for a documentary in more than 20 years.",
-     "link": "https://www.cnn.com/2026/10/18/business/you-can-see-everything-fielder-box-office",
-     "published": "2026-10-18T12:00:00.000Z"
-    },
-    {
      "title": "4 dead and dozens injured after major fire breaks out at one of Canada’s largest military bases",
      "brief": "Four Canadian service members were killed and dozens injured in a major fire Saturday that occurred as troops were conducting combat training with live munitions at one of the country’s largest and busiest military…",
      "link": "https://www.cnn.com/2026/10/17/americas/canada-wainwright-fire-military-base-intl-hnk",
@@ -46,12 +52,6 @@
      "brief": "France’s President Emmanuel Macron addressed the nation on Sunday evening as communities reeled from one of the most violent nights of unrest in recent years after largely peaceful anti-government protests descended…",
      "link": "https://www.cnn.com/2026/10/17/europe/half-million-protesters-sweep-france-in-youth-unrest-latam-intl",
      "published": "2026-10-17T12:00:00.000Z"
-    },
-    {
-     "title": "Driver released after pickup kills 2 and injures 10 during a youth soccer game in Wichita, Kansas, police say",
-     "brief": "What began as a soccer game on a sunny Saturday in Wichita, Kansas, for children whose loved ones watched on the sidelines ended in tragedy when a pickup truck sped onto the field, killing a 6-year-old boy and a man…",
-     "link": "https://www.cnn.com/2026/10/17/us/wichita-stryker-complex-incident",
-     "published": "2026-10-17T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Genting’s debt, equity divide",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeTA4OGRsUlFTZEVSSnl4ZDh5M1YxcmtmNEE2TTVOYmJoV3VXUnk5bzAyVWJvcktPZzRMQkFvUmsxWnRRenMtaWs1N3dKWERpaV96R1BsLVpDMm4yMmhtQ2t6UTlYWllGcUJIcWNtT0VXYUttaTFZYXRaanlEcXRuZV9HY3F2VHY2US1LYW11U0JkUQ?oc=5",
+     "published": "2026-10-19T03:22:30.000Z"
+    },
     {
      "title": "Drawing the lines of democracy",
      "brief": "",
@@ -70,6 +76,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
      "published": "2026-10-19T01:40:42.000Z"
+    },
+    {
+     "title": "Data centres face power test",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOc1hYQWliSk1ua2hlUF9hOUlHQXdTT1JGblNRbTFuS1BweVgwdW1WSHhZd1BqTFFjMjhjMkhZV25wT0JGeWwxaC12UXJ6RWo1YWJMSnJqTUFlcHlLS0lmT0xSZU5sY0xkbVl0UTJ6c2U3Z0otSkpCQkh0dy1TRnJ2OW5hRlFkM3QybGVKTHdDcEVtbFU?oc=5",
+     "published": "2026-10-19T01:26:55.000Z"
     },
     {
      "title": "Russian strike kills woman, hits Kyiv subway station, mayor says",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWY5TzRfRmZSTWFMZEJhMUxvQlJRdHdReGp3R3FpWC14ZkhlNEdFdDBTYUdKZXpZQ2lLZGF1aVV3Uk1xMW1VbkhlSDR6SkdCcUk0QVA5dFl2YnY3UjloczlNVGVzSDhMRks2TER5eTRjSmY0MTY4a2VBdzJiSzdmRnJvQ0FqTDRoeHJKWTUwSm5UR3VDS1pzTFI5R3lhcEdCeU9VTmpFSEdjcnM?oc=5",
      "published": "2026-10-19T00:00:26.000Z"
-    },
-    {
-     "title": "‘Unesco recognition does not guarantee silat’s survival’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMERtUDR5LUQ2b2Q2VlBUX3lselJ3SDJXZXRCRjVXamtLSktFMXhGM3pQbmtjUHJmS0YwRmlNdWdxeW5YTFdPNmFnM0thQ3YtT1pScUh5YjdTR1V4T1l4MWF2YjhsdkJpMnAtV3FZMjh0dGVSb0I4ZGVZbWhwdXBQRHB6Wk1QVE9CUVptcnREV05wbEpFT3Jqb1EySVVKVElhRGU0a1pR?oc=5",
-     "published": "2026-10-18T23:38:49.000Z"
-    },
-    {
-     "title": "Call for flexible i-Emas withdrawals",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWV5TjhVSkJoektHUkJaR1dBdTZXQUhZWWVyZ2tMYjNhcjgyWjA1X2hXY3F0VjJDV3JBczFuUW82eXY4OEgxNXBtREN0aksyZ1ZTX0NzQktRMExBaFAtRHlUQjUzV1hhcWNYSXJDY1lidEc5REE1Q1U1UFdRM2VtNU96bTJOeTI0MW9CLTZDdw?oc=5",
-     "published": "2026-10-18T23:38:13.000Z"
     }
    ]
   }
