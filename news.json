@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19T00:35:09.956Z",
+ "updated": "2026-10-19T01:33:30.002Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,6 +60,12 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Russian strike kills woman, hits Kyiv subway station, mayor says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmZENTBOX2o0bmFfbGcyYlpEcktPeWdVNmJLMV9zeGlMTmlMNVZWSXluRmd4WUF2OHdPU25rMXVrOUZxWFh3ZkpEdGRFMlpPSmNLS2ZyUzRiMVpCT2gwVDhwT3dkbWF5clFUc3hBckI2cFlob3lwV0NZRUNzandoa0NRNHl6U0ZhX1lwejhkQUI3d0F0MUwxREM3NE9kNWNUQ2d0QVVUWTlROWx1SXJmcQ?oc=5",
+     "published": "2026-10-19T01:22:00.000Z"
+    },
+    {
      "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia on bomb threat, Sky News says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOG8xcVRrQ05rVmRvSWdoRU1LTG9KZkVjVG1yQTZlaHJoMG9JSllJTVhoQ0pBeGUyTjdURU5XWm95RjhMT282R09BYlY4VlZyRTZyUE9ZYnJqOHU0dVZ6YnU1NGM1OEIwM0RacVF0M1pzSGtDU3ZGRDNLaXdZMENiZEI0dGROYXZGNUx2SXpJM3JfYm5SdW1JVUFRVmhfcllTd2w5MVBSN0hGLUt4UG9XekZEOEtYaWRkTDVZSTdfcG9JWmpxWGVLbVlOZ2RnUQ?oc=5",
@@ -70,6 +76,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjNBdGFJVVRSVmdyTTZVbkxQOFo3NlpfV3hMTDRoNjEwLVVJeVVoRkI2Q2JlUW1reHgzRm4wSTcyNXZ2MllOVTZUUVJmSUNNMEcyRHF1TW5vTEdKWFF3ODBMN2JfLTUxeDRmWUxqdi1tREEzanllZ0wwV2plM2s4Y3daUXdIOUJiQ0w4NQ?oc=5",
      "published": "2026-10-19T00:09:03.000Z"
+    },
+    {
+     "title": "Authors",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FQmRUMm4yamZyZnN4UXZyWWF2Wk90V1hqMUFkVC15WjRnLV92LU16bUpUUS02MjVIa01JbENkbEloQ2JMMUZWSmZtYTBYMzlwVmQzSFhJMWloUQ?oc=5",
+     "published": "2026-10-18T23:47:59.000Z"
     },
     {
      "title": "‘Unesco recognition does not guarantee silat’s survival’",
@@ -84,28 +96,16 @@
      "published": "2026-10-18T23:25:00.000Z"
     },
     {
-     "title": "From coding to calories – integrating STEM and health education in schools",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORmQ1cmZKelhJSmIyN3dQNmhQM0ZlN2JoV05lU0pvb3FKYWxKRUpTV3kzVlVEQ2FPN2VnM2ROTDN1RUMtLXpJTVJDWWdQb2FJM2U1SmFrZ3BCNTNMZ3pxQWZpRDRXUUFmNUhaRjFOLWZEMFV4WktqdVZfZ0tEQXVnZ1RLOWNEODdqSTQ1ZUhxcTk0S0RzdGNFOUdVVWprenVQRHgzTDZReUc5bVdmeHBMWjZCNFhyeEswdmcxR1VKZDhZTHhwdDJZ?oc=5",
-     "published": "2026-10-18T23:24:33.000Z"
-    },
-    {
      "title": "Ministry dismisses QR payment charges reports",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRmJESXFrN2Z3Mm9LTHVtalo1ajFWdUJwZXp4NWp0V3h4ZUZHWWV5cEZZOVZOVmV6dmpHOFh1UWhFaGphSURQdHNLeVVXQzluME05RTIzY3BTREYyUk5JSkpvOEM1RE9OUXRSTU1aYnR0ekxyQ3h4bmVRNVNTUTNaVmZiemFWbWtoWldmR0ZVTjRCdFdoMWF4N01zdw?oc=5",
      "published": "2026-10-18T23:15:58.000Z"
     },
     {
-     "title": "At least 8 killed in mortar shell explosion in Libya",
+     "title": "Latest",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbmpqT055Q043ejdlaTJ1bHEyRXVReV9hcWRZMXl0eXFXNUtONUxpeldBdVlEWGdETmVzenlGQ3M2Z0VKSEdOSk03bjItUHh6N29naUtNTzM2VzRnb1cxOHg5X2FCNFJ6aDFhZDdNN1ZvYTRfT2oyc1hKZV9UT2F1YWJIVmpRSFh1TC1WdlZvc0JpanlsUVpOZUdCeXdYRFBIN3VJ?oc=5",
-     "published": "2026-10-18T23:00:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Mbappe double helps Real Madrid sweep aside Sevilla ahead of El Clasico",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0ZJMUwxeTJTREgyM1d0Nm1LRzJ6aVVpRFBIZlNBM3hKR1Q4VDB0cnlkckJlQkVlbk1JR3RVYTRfTGxqWXptS25SM21WbXdtd05qWkl3MUZJTDFBVVlzLUNRZlJiNVBNcGVQWldjUTA5SkJMeEk2d2lxejh1aHpnQ19TN0R3SmhncUs2N2NRcC1HZXNuSVpHZzlwRHVsNGF5RG5UN3lXQmlYaktVd1JCSmdqZWd5SHF3RjBwSTJwQzBGbjQ1Rnl3LWdJTQ?oc=5",
-     "published": "2026-10-18T21:23:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb09QWS01ZUUySmdueVdLTlVvRWZxWFNqaEpqeWNMWEQ2ZG5PRmN1NWdVaU9zTmdITUl0T1lZbnJERjh1RDZkM3lqR05qRXpvM1ZLdHdzTnZrNEZzUGdweUNpa2I2aV9QZURObWJPSWt4cXJnQzc2WEEwM18yd2t3TTZvWXRCZVU?oc=5",
+     "published": "2026-10-18T23:05:56.000Z"
     }
    ]
   }
