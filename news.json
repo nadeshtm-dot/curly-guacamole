@@ -1,33 +1,39 @@
 {
- "updated": "2026-10-19T05:30:08.384Z",
+ "updated": "2026-10-19T06:40:23.052Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
-     "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
-     "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
-     "published": "2026-10-19T05:30:08.589Z"
+     "title": "France reels from weekend of chaos as violence spreads across Europe",
+     "brief": "France is reeling from its worst rioting in years after nationwide protests over education and the cost of living spiraled into a wave of deadly, country-wide violence that has sparked a blame game at home and…",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T06:40:23.274Z"
     },
     {
      "title": "US citizen injured during California ICE incident, officials say",
      "brief": "A resident of Long Beach, California, was injured during an incident involving Immigration and Customs Enforcement on Saturday, according to federal and local officials.",
      "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
-     "published": "2026-10-19T05:29:08.654Z"
+     "published": "2026-10-19T06:39:23.279Z"
+    },
+    {
+     "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
+     "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
+     "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
+     "published": "2026-10-19T06:38:23.512Z"
     },
     {
      "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
      "brief": "Iran has signaled that it is preparing for another round of war with the United States and has issued public threats against Washington and its allies in an apparent bid to deter President Donald Trump from…",
      "link": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
-     "published": "2026-10-19T05:28:08.675Z"
+     "published": "2026-10-19T06:37:23.336Z"
     },
     {
      "title": "Vance struggles to tame GOP struggles in 2026, and may suffer for them in 2028",
      "brief": "For the next two weeks, Vice President JD Vance’s job is to save Congress for Republicans.",
      "link": "https://www.cnn.com/2026/10/19/politics/trump-vance-iran-war-economy-challenge",
-     "published": "2026-10-19T05:27:08.665Z"
+     "published": "2026-10-19T06:36:23.328Z"
     },
     {
      "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
@@ -46,12 +52,6 @@
      "brief": "",
      "link": "https://www.cnn.com/2026/10/18/politics/ukraine-sudan-temporary-protected-status",
      "published": "2026-10-18T12:00:00.000Z"
-    },
-    {
-     "title": "‘I will not comment on his anatomy’: Ohio Republicans buzz about Trump’s analysis of a senator’s body",
-     "brief": "A day after President Donald Trump offered his latest appraisal of Ohio Sen.",
-     "link": "https://www.cnn.com/2026/10/18/politics/trump-body-comments-jon-husted-ohio",
-     "published": "2026-10-18T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Tennis-After years of frustration, Davidovich Fokina wins third title of 2026",
+     "title": "France's Macron declines interior minister's offer to resign",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQnZDYnc4dGV1Xzd3c3ZSSFlPSDR2SlZNZEZsdEdQcGhVbkFTV09uYzFnWWpJRHcxSjZnVHFmWWl4M3VmZWlfLWZJZzNwcnNLbXZOUldadW03Y1NiVkkwOEVjXzJzbzEzVm1oQTFIRHBDbGUtWHJ0SFpoQjFDNmVBUGMwdktEdU9JSkNHdU5TVjFVeXVLdWN4bDNTLXhNTEhoNkxWTmFPcXVpUDFHVGlfa3lKQ1AzRW51YW1FMDYzNHNQZVp2Smc?oc=5",
-     "published": "2026-10-19T04:32:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzBBRV9PbG51d0VTYk5iVkNWdDliUG1ENkNSbkpoaDQ1TUx5cC1nSE9WSmt4dmJSdmxtSEJkWmx5bS1ybExCQ1dSM0Uwa3VaZzNXeDNlZ05EWnZDRWFrM05uRHR6NmZuVXNNdF9icWlZbDhWN3dfVnJpTWowMlljbnE0aUt4c3pTS0FGWnJWcUtpQTdEbGVHd0psa1NLR2ZEbmtkZVh3RFVBWXRxYnoxMWJ5SQ?oc=5",
+     "published": "2026-10-19T05:39:00.000Z"
+    },
+    {
+     "title": "StarPicks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uY3pyaWdWSGlqZGoyY0Q3NUhlY1hGcGNhNWhSTkFXWGhnT1B5MmFCNWk5TVdVS1F5akI1Q2RrRXo2Z2VhTVR0TDZOUl9wQXhrN1F1SlFYemI0MFBmZk9TMWlyT2R0c2RIRHc?oc=5",
+     "published": "2026-10-19T05:13:24.000Z"
+    },
+    {
+     "title": "Pets also suffering due to haze",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDBmeDFmcHlxcUZNWDNkeGZ1UXFkbktPVXVUMGJMdGFsXzg0allBa1VsYjlndk1PbGVqSVRteklXNnhzalU5WkFTSFR1TEVXemJVOUR4UGh4ZlJpdXV6Y1VHdXVFY1Rhd05NaDlUYi01bHlUX1dOblJ2N0N3WktiTzFUOXhBbXhPTjJFR09od2ItY0h4bk1sSFRhekZwam5WOXVUWHBqR1B1UmNaV2VLcngwWTlqSl94eDRF?oc=5",
+     "published": "2026-10-19T04:29:42.000Z"
     },
     {
      "title": "Genting’s debt, equity divide",
@@ -82,18 +94,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQczBxX3VtaEpZSnZzajFQNXFlQ2l2eU9iNkhTSHJGUUdSazlvREMxcG45ZHZuZlBNUlNRUlJsd2Z5dG1ZbEV6T0g2Tm5nQWloSnhiWXcxWjlKSFJXVG55LVo5UmtGSkUwU2g3T0J0RGJCOXFOcDlOSWtLS19SSldSTWtQMmdWS280VmlMQ2JsQlFtM1BrVXVFRExkeElSeFlpZkg5ZmlNQmpucnFRSUJtQVJ5aUtMaFVBVlo4cjdTYVlJR0k?oc=5",
      "published": "2026-10-19T03:00:00.000Z"
-    },
-    {
-     "title": "Toyo Ventures shares suspended pending announcement",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRjJzcUx1Ym1YQ2xZYmtkWElTTllSbFNmSEZsWjhHUlY0SWkwS0txNlBXNEljcVc3eUkzOGRwYlBhQmFLaVNpT2p1ajBmNUZGLXlRRVBDaTF0UHJiTlNORFJUdlYtZjF5cmtGckU5VDI5ZlB0MG9FUUR6bkxjZkh6MG1zMXp5T0hJSkxXOFJBQ3A5elY5dDNyUi0xazNfa0p5bWlnTmFlemJ5RW43SFdwTk5n?oc=5",
-     "published": "2026-10-19T02:27:00.000Z"
-    },
-    {
-     "title": "Drawing the lines of democracy",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTjNBdGFJVVRSVmdyTTZVbkxQOFo3NlpfV3hMTDRoNjEwLVVJeVVoRkI2Q2JlUW1reHgzRm4wSTcyNXZ2MllOVTZUUVJmSUNNMEcyRHF1TW5vTEdKWFF3ODBMN2JfLTUxeDRmWUxqdi1tREEzanllZ0wwV2plM2s4Y3daUXdIOUJiQ0w4NQ?oc=5",
-     "published": "2026-10-19T02:09:33.000Z"
     },
     {
      "title": "Nepal mourns: 'It hurts when the grandchildren ask for their parents'",
