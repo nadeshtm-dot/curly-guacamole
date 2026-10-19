@@ -1,14 +1,20 @@
 {
- "updated": "2026-10-19T02:28:10.174Z",
+ "updated": "2026-10-19T03:29:23.881Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "China GDP growth picks up thanks to global AI boom",
+     "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
      "brief": "China reported better-than-expected Q3 growth on Monday as robust exports of chips and electronics components on the back of a global artificial intelligence boom buoy the world’s second-largest economy, despite…",
      "link": "https://www.cnn.com/2026/10/18/economy/china-q3-gdp-intl-hnk",
+     "published": "2026-10-18T12:00:00.000Z"
+    },
+    {
+     "title": "Trump excoriates Zelensky after Ukraine defies US president with major attack on Russia",
+     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
+     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
      "published": "2026-10-18T12:00:00.000Z"
     },
     {
@@ -21,12 +27,6 @@
      "title": "‘I will not comment on his anatomy’: Ohio Republicans buzz about Trump’s analysis of a senator’s body",
      "brief": "A day after President Donald Trump offered his latest appraisal of Ohio Sen.",
      "link": "https://www.cnn.com/2026/10/18/politics/trump-body-comments-jon-husted-ohio",
-     "published": "2026-10-18T12:00:00.000Z"
-    },
-    {
-     "title": "Trump excoriates Zelensky after Ukraine defies US president with major attack on Russia",
-     "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
-     "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
      "published": "2026-10-18T12:00:00.000Z"
     },
     {
@@ -66,6 +66,12 @@
      "published": "2026-10-19T02:09:33.000Z"
     },
     {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPck4wUEprbjctQU95RVJxUHdFYmhPNVJCMG5FYVpzX215MkV4cFo2MWhzaV82RzBnSk5ITzNzc0oyQ0NEVHpyMkh1UkxpNUU3ZDZxWV9Ea3ZwMkVPMC1JVzRCZWtOXzFFQlJkalUxRmwwc2FTREZINENrVjhJUEZhUWNDZmFkbVU?oc=5",
+     "published": "2026-10-19T01:40:42.000Z"
+    },
+    {
      "title": "Russian strike kills woman, hits Kyiv subway station, mayor says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYmZENTBOX2o0bmFfbGcyYlpEcktPeWdVNmJLMV9zeGlMTmlMNVZWSXluRmd4WUF2OHdPU25rMXVrOUZxWFh3ZkpEdGRFMlpPSmNLS2ZyUzRiMVpCT2gwVDhwT3dkbWF5clFUc3hBckI2cFlob3lwV0NZRUNzandoa0NRNHl6U0ZhX1lwejhkQUI3d0F0MUwxREM3NE9kNWNUQ2d0QVVUWTlROWx1SXJmcQ?oc=5",
@@ -78,16 +84,16 @@
      "published": "2026-10-19T01:18:20.000Z"
     },
     {
-     "title": "The challenges awaiting new NSC boss Arrifin that go beyond medals",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMVNEbmZmdjF4RmFiaV9rOGJpZzNkYjcwbjc3S3h3cEpkM0dwNEx5TTNJTDNoTHBid0tYUmFOOWVTbkt2RjE4QXJBQ0dDTzB1cmdaZUFXc3RZaEJXeThKeHVZdnNjLVFMWFhzVF82VzRic0FHYnZ2UWJuenE4OGlDVGNoYTRna2p0S2I5VndTM19icmZSZ0pTVldFUENKMVJhalcwRDNhcmhfMUszb3BTRU1LVUFGTFhGN2ZaUXh1U0p0OVVqRS1RT0g2cExScVpf?oc=5",
-     "published": "2026-10-19T01:07:02.000Z"
-    },
-    {
-     "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia on bomb threat, Sky News says",
+     "title": "Austrian Airlines flight from Tel Aviv diverts to Sofia after 'threat'",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOG8xcVRrQ05rVmRvSWdoRU1LTG9KZkVjVG1yQTZlaHJoMG9JSllJTVhoQ0pBeGUyTjdURU5XWm95RjhMT282R09BYlY4VlZyRTZyUE9ZYnJqOHU0dVZ6YnU1NGM1OEIwM0RacVF0M1pzSGtDU3ZGRDNLaXdZMENiZEI0dGROYXZGNUx2SXpJM3JfYm5SdW1JVUFRVmhfcllTd2w5MVBSN0hGLUt4UG9XekZEOEtYaWRkTDVZSTdfcG9JWmpxWGVLbVlOZ2RnUQ?oc=5",
      "published": "2026-10-19T00:11:00.000Z"
+    },
+    {
+     "title": "China’s refined oil exports surge amid Iran war",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYWY5TzRfRmZSTWFMZEJhMUxvQlJRdHdReGp3R3FpWC14ZkhlNEdFdDBTYUdKZXpZQ2lLZGF1aVV3Uk1xMW1VbkhlSDR6SkdCcUk0QVA5dFl2YnY3UjloczlNVGVzSDhMRks2TER5eTRjSmY0MTY4a2VBdzJiSzdmRnJvQ0FqTDRoeHJKWTUwSm5UR3VDS1pzTFI5R3lhcEdCeU9VTmpFSEdjcnM?oc=5",
+     "published": "2026-10-19T00:00:26.000Z"
     },
     {
      "title": "‘Unesco recognition does not guarantee silat’s survival’",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWV5TjhVSkJoektHUkJaR1dBdTZXQUhZWWVyZ2tMYjNhcjgyWjA1X2hXY3F0VjJDV3JBczFuUW82eXY4OEgxNXBtREN0aksyZ1ZTX0NzQktRMExBaFAtRHlUQjUzV1hhcWNYSXJDY1lidEc5REE1Q1U1UFdRM2VtNU96bTJOeTI0MW9CLTZDdw?oc=5",
      "published": "2026-10-18T23:38:13.000Z"
-    },
-    {
-     "title": "Squash: Aqil on course to break top 300 target after junior victory",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMi1lRFhDQ2pwbkVTazczV0loejdYRnA2WFpkeTl2d1FZdm84OGJTaUxCQ0pySGx3STQxSW5XUEJfZDFtSlhQUjlBVlY0Qzk0N0MtUmlsWENTUkY0TGxVYXN0cFo2a2dZQnpzUHBDcTNuR3hEaEthM2RZMFR4WDhpMVNKdl9zVl91TTUyYTVVX1Z4ZTlzR1JJN2l2cVhlaVJuNk9Gb2YzUTk4dFBJN0Rn?oc=5",
-     "published": "2026-10-18T23:33:50.000Z"
     }
    ]
   }
