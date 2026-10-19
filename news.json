@@ -1,45 +1,51 @@
 {
- "updated": "2026-10-19T17:28:32.503Z",
+ "updated": "2026-10-19T18:31:05.405Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley",
+     "brief": "Mississippi’s attorney general says a Senatobia police officer was justified in the June shooting death of a 1-year-old boy while responding to a shoplifting call.",
+     "link": "https://www.cnn.com/2026/10/19/us/mississippi-child-shot",
+     "published": "2026-10-19T18:31:05.554Z"
+    },
+    {
+     "title": "‘Tariff Man’ finally found tariffs he doesn’t like",
+     "brief": "President Donald Trump loves tariffs so much that during his first term, he nicknamed himself “Tariff Man.”",
+     "link": "https://www.cnn.com/2026/10/19/business/russia-trump-graham-sanctions-tariff",
+     "published": "2026-10-19T18:30:05.598Z"
+    },
+    {
+     "title": "The rioting across France is a symptom of a much larger public and political crisis",
+     "brief": "“We have a mess on our hands, to put it bluntly,” French Prime Minister Sebastien Lecornu said Monday.",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-riots-political-crisis-intl",
+     "published": "2026-10-19T18:29:05.620Z"
+    },
+    {
+     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
+     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T18:28:05.627Z"
+    },
+    {
+     "title": "Saudi Arabia cancels next week’s ‘Davos in the Desert’ conference after series of Houthi attacks",
+     "brief": "In a major setback for the kingdom’s economic ambitions, Saudi Arabia has canceled a major conference scheduled for next week in Riyadh amid a wave of attacks by Iran-backed Houthi militants.",
+     "link": "https://www.cnn.com/2026/10/19/economy/saudi-arabia-cancels-investment-conference-houthi-attacks",
+     "published": "2026-10-19T18:27:05.611Z"
+    },
+    {
+     "title": "What we know about the investigation into the Bend school shooting",
+     "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
+     "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
+     "published": "2026-10-19T18:26:05.652Z"
+    },
+    {
      "title": "US-Ukraine relationship worsens amid Trump and Zelensky’s mutual distrust",
      "brief": "The relationship between Ukraine and the United States is facing increasing strain over intelligence sharing, sanctions, Ukrainian attacks on Russian energy and the path to peace.",
      "link": "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl",
-     "published": "2026-10-19T17:28:32.652Z"
-    },
-    {
-     "title": "Whiskey rebellion over 1868 law on home distilleries heads to the Supreme Court",
-     "brief": "When John Ream got into brewing beer at home nearly two decades ago, starting out was as easy as opening the kit his wife bought for him as a gift.",
-     "link": "https://www.cnn.com/2026/10/19/politics/can-you-make-whiskey-at-home-supreme-court-will-decide",
-     "published": "2026-10-19T17:26:32.692Z"
-    },
-    {
-     "title": "Kenyan cult leader found guilty over 190 children starved to death in the hope of ‘meeting Jesus’",
-     "brief": "The leader of a Kenyan Christian cult has been found guilty of the murder of 190 children through an organised system of enforced fasting and abuse.",
-     "link": "https://www.cnn.com/2026/10/19/africa/paul-mackenzie-shakahola-kenya-intl",
-     "published": "2026-10-19T17:25:32.701Z"
-    },
-    {
-     "title": "Amelia Earhart mystery continues as researchers unravel identity of the Taraia Object",
-     "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
-     "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
-     "published": "2026-10-19T17:24:32.707Z"
-    },
-    {
-     "title": "The (very red) pattern of Trump’s 2026 campaign rallies",
-     "brief": "A new Washington Post-ABC News poll over the weekend featured a telling stat.",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-midterms-red-state-travel",
-     "published": "2026-10-19T17:23:32.732Z"
-    },
-    {
-     "title": "Finland gripped by national broadcaster’s puppies live stream",
-     "brief": "It’s dark outside. The news cycle is relentless.",
-     "link": "https://www.cnn.com/2026/10/19/europe/finland-puppies-livestream-scli-intl",
-     "published": "2026-10-19T17:21:32.736Z"
+     "published": "2026-10-19T18:25:05.602Z"
     }
    ]
   },
@@ -47,6 +53,42 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Brazil's government says $4 billion budget reshuffle needed for Lula measures in 2027",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc1lyQ3JoZ1llMDNnOWZ0bG9QQ0ZUMFpYTXhFS3laN0tnWXJMcE5iYVhueHlzM2JqVDBJLXBQMFFiVG41RlF4SmY0bmVITGRCQUFhTU1IYUxDeHFTS29IQ19ZbV9Cb3V0bDJhOEtpR0pwT3d5elpoZ01CUXBiSXhQWDk0TlBqcDdmV1hmVHB2S01EMEVXS2M0UnZEeWRwdm53UGlfN09qSzRrazhWSmo0UGx2Ti1lWEJFbUF4R0U5WlVycXlKclprU3dDWnZRbWdf?oc=5",
+     "published": "2026-10-19T17:59:00.000Z"
+    },
+    {
+     "title": "Germany summons Iranian envoy over plot to kill Jewish community leader",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHA4N1NTc1pET1BBWmNhbkZvR2VLdDhqTk9UZXJLZ0JZT1R4Rm1xUGhiU1J4WlEwczRxRnhIWkFCbkt6aG93UjdrOXZ3Q3BRLXAtX1I0dUNpSzRXVVJOeC1rdUN3dHJOZ1FXOUZ0b2RZNmExU0I4LTRNcVdxQlljNGZkU3p1SjBXOEJ3QUJvZXNKOVNuY284dXluME1maVNZdzZ2VG82UTBicGtpOHhTb1d1aVhGMGp3RDRIaw?oc=5",
+     "published": "2026-10-19T17:56:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Ronaldo handed 30-day ban for leaving Portugal camp following coach Jesus rift",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOM25fSHBnM1ZqVDh0RHhnQjdoQW5KdTV0T0ZaR21vT3NPald6eF9icVlHcHlmODd1eXQ3YktmdWtUeWdQMVRDWHF6MzJMcFlSeU4tMWZ2YnBMRnBvNHhzX19sWkMzTVRvd18xYVpXd0FUZER2YXVqc205T05UWE9RbVl6RUF6cnkxQk9BVGxfOXJEVjdsU2hNMEV0cW51M3pmdzZmZVdCVE8xNHBIcjg1RVRBMEhOMlZUWkNKSkJQQkIyX1Z1RHBTdFAwSlF3Q2V4d2lKQQ?oc=5",
+     "published": "2026-10-19T17:45:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Flick clarifies Barcelona backline options before PSG and Real Madrid showdowns",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOREpVUHI2ZWRhVzc3aWNYRlUzZHJLSE13QmdkQWU1S3FVMEswaV9hSmp3YnRJMzVQYzZGOHRySnIyd1J3RnRXb3FoOUdWX1FyT29xVzI1ek9hR0JIeTdqb0ZqbjlBRGtvWUpjeDhSdW9KZVBTSXJkTThnNjNYcWljR2pFeHhCZXNabnRsNzhubVlNVV9mM1A0a01IVW5PWndLcFNXa1JUWmZTZzVRdmpLb0NLcWx0MVBCYzZuenhwRmhWcks1WVhnR011OHEzVGJGdkVnQjdR?oc=5",
+     "published": "2026-10-19T17:36:00.000Z"
+    },
+    {
+     "title": "Death toll from torrential rain in Spain rises to 4",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMzZTLUJpTnhHTzlwUXN0QW11ZExMbnNfZ2J1NjV2WTJod0R3Vk9fTlJ2aTVzMTk1dW01Z0kzekhYUnVOdE1zMlZZc3h2ZTI2aVptTkNOVjBGSHVzazJ0UDhfbGNYREFjNjV0X2V2cFV5b1JpU3NlcGZjRFFJTXpOSy1xV0dBNnd0WEVnOFV2SWF0N2V4N1l1Q3V4UC1taS1yMEE?oc=5",
+     "published": "2026-10-19T17:18:00.000Z"
+    },
+    {
+     "title": "Authors",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OanJKYk1XNXpGTkd0VnZPUi1yX3RNSjFGalNIRDVCTUJCaENRRGJxendTN3FLeGlCUWpZVDZFLWRqVWhzeTV4TzlxaG4wYUw3WTlBLW5aREdtX21pbFdLRQ?oc=5",
+     "published": "2026-10-19T16:41:00.000Z"
+    },
     {
      "title": "Carney says cause of fire at Alberta military base still unknown",
      "brief": "",
@@ -58,48 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMHN0V25VS0NMRVVMUU92MmJnOVJBdHlqN3JBSjh6R3lNeGpNN1RJcmlaeU9zaHFoT1IwU25zdldDc2RETUdpMEJnRmJyanRRWTFKQ052emphVkQyUVBSYXAyTkRFWEZqVDNIWjJtYjJlcXlSV08zVGljOG1MM0NSWFR4Nk5HRGRla0haWTRSdm9TeGsxLW0tdWZVUDNxRHphUlotcTQwU2hTMmxXcXV3MHJxM2Y?oc=5",
      "published": "2026-10-19T15:42:00.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Cb2otOFctWnVGT01mTnlyUTRDcTNtRzFvYlNNV0RpR1RLY3N2b2pfam9jQjdRZUU4ME9TVU4zc1JNWjVwZlI5VGRPZzE1RUpGd25YeFdYTS1IQXE4aFE?oc=5",
-     "published": "2026-10-19T14:32:21.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOb09QWS01ZUUySmdueVdLTlVvRWZxWFNqaEpqeWNMWEQ2ZG5PRmN1NWdVaU9zTmdITUl0T1lZbnJERjh1RDZkM3lqR05qRXpvM1ZLdHdzTnZrNEZzUGdweUNpa2I2aV9QZURObWJPSWt4cXJnQzc2WEEwM18yd2t3TTZvWXRCZVU?oc=5",
-     "published": "2026-10-19T14:31:24.000Z"
-    },
-    {
-     "title": "Football: Soccer-Liverpool urge patience with Szoboszlai injury, Frimpong suffers new setback",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWUZ0WUJERHloNWNGYS1iMG5pdVQxNkNMNm1DRlBpZmQxcEg0bGNqQW9uX3VqNERUN09jN0xWWDNlUEhlQ3NiRU5hWjlVMFFUeV9wTjBjWVRtRFBPQ2xkdDRWcjEyOTZBTElsUnU1WlVUV1J6SW1rUGtpZGdVQVN6TzJrdFFlTXctYkU4NmpRTmNndml2NUJhNzVvbFN6NGxhR0FaZXctVi12WGJjODFZRVJlei1LNzJ2bjJJQzJVQUticGxpNTh2ek56RmppWWhE?oc=5",
-     "published": "2026-10-19T14:10:00.000Z"
-    },
-    {
-     "title": "Georgian journalist jailed for 30 days for criticising government figures online",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmhHeDVyMTJlaVQ0VEhFSHlGTjFyekhVMGtCTnRwemRPNHlmMk5yTHo0UGd5RlFlMlhlSEZWRHZHY3ViYUZWdEFoRzhteGZ2M0FzUU1TS3VrTVZUNFhMVkFXcnFwYlI0MHdtWXBpdk5UVEdGd1lrNGs2N05mZ0Nqb3diMlNVdkVGVk1aQUMyUkdZVTJjb1BUdjVPWHhSdGFpdms1OUFBc0dmS3FIRmJGYi1CQWNTc3FxSXpCZlIzaVNQaUVEbmhpTw?oc=5",
-     "published": "2026-10-19T13:37:00.000Z"
-    },
-    {
-     "title": "US banning Chinese AI DeepSeek from government agency IT systems",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMWpvQkt2UFVLN1pET01hOXdldzJXVlFoU3I3LXFrWEx5bXQydTRKVnprRzhJc2RWUGNQX3k0OXlxNGl5V2d5eElBbDVNdjdBV3kzZ3BkVXpoVVM2Q1hLNURaeEtZbUpFaGttWnVnamJPQlUyVmc3V0J0N2ZDSXVKamwyaGZzblh4SXRhOGU0RndaY2FFbEVtcExjSVgyeXgyd1d3R1laTXBaZWJyVzFBRU56Tnh5Z3VE?oc=5",
-     "published": "2026-10-19T13:30:00.000Z"
-    },
-    {
-     "title": "Babysitter detained to assist probe into baby's death",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYm8zc3A1TTNJTmJGNmg3RHNVcG1oc0ZlU0FkX3VqUkdBdk43cjNsdnp2ZTNLQlh0aUYySHFIdURGMEYyVDlwT08xSi1uVlJzNFB4QUkza2h0NTdKYjRtNVJiR2c2NVRaa0JxNkNnWEluaWhDVEQyVlhKWm1nLUtaTFM3b0M3bmZsM2xMeG8wRWw5UEZnY0pwQ0RZWUMzbEJmQW5Dc0dMVS0?oc=5",
-     "published": "2026-10-19T13:28:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
