@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-19T08:37:30.117Z",
+ "updated": "2026-10-19T09:34:15.554Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "What we know about the investigation into the Bend school shooting",
-     "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
-     "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
-     "published": "2026-10-19T08:36:30.395Z"
+     "title": "Australian MP Helen Haines critically injured after attack by car",
+     "brief": "Australian lawmaker Helen Haines was in a critical condition on Monday after being deliberately struck by a car outside her office in Wangaratta, police and Prime Minister Anthony Albanese said.",
+     "link": "https://www.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl",
+     "published": "2026-10-19T09:34:15.732Z"
     },
     {
      "title": "France reels from weekend of chaos as violence spreads across Europe",
      "brief": "France is reeling from its worst rioting in years after nationwide protests over education and the cost of living spiraled into a wave of deadly, country-wide violence that has sparked a blame game at home and…",
      "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-     "published": "2026-10-19T08:35:30.385Z"
+     "published": "2026-10-19T09:33:15.772Z"
+    },
+    {
+     "title": "Why Justice Ketanji Brown Jackson goes it alone",
+     "brief": "Justice Ketanji Brown Jackson over the past two years has been nearly as visible on the book circuit as she has been at the Supreme Court, recounting her personal struggles and professional successes and emphasizing…",
+     "link": "https://www.cnn.com/2026/10/19/politics/ketanji-brown-jackson-tenure-supreme-court",
+     "published": "2026-10-19T09:32:15.762Z"
+    },
+    {
+     "title": "What we know about the investigation into the Bend school shooting",
+     "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
+     "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
+     "published": "2026-10-19T09:30:15.765Z"
     },
     {
      "title": "US citizen injured during California ICE incident, officials say",
      "brief": "A resident of Long Beach, California, was injured during an incident involving Immigration and Customs Enforcement on Saturday, according to federal and local officials.",
      "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
-     "published": "2026-10-19T08:34:30.378Z"
+     "published": "2026-10-19T09:29:15.768Z"
     },
     {
      "title": "Expedition to a remote Pacific island fails to find fresh clues in hunt for Amelia Earhart’s plane",
      "brief": "A recent expedition to a remote South Pacific island to search for wreckage from Amelia Earhart’s lost plane has come up empty.",
      "link": "https://www.cnn.com/2026/10/19/science/amelia-earhart-plane-pacific-search-hnk",
-     "published": "2026-10-19T08:33:30.392Z"
+     "published": "2026-10-19T09:28:15.838Z"
     },
     {
      "title": "‘The world will be amazed:’ Iran’s commanders prepare for further war",
      "brief": "Iran has signaled that it is preparing for another round of war with the United States and has issued public threats against Washington and its allies in an apparent bid to deter President Donald Trump from…",
      "link": "https://www.cnn.com/2026/10/19/middleeast/iran-us-conflict-warning-intl",
-     "published": "2026-10-19T08:32:30.382Z"
-    },
-    {
-     "title": "Vance struggles to tame GOP struggles in 2026, and may suffer for them in 2028",
-     "brief": "For the next two weeks, Vice President JD Vance’s job is to save Congress for Republicans.",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-vance-iran-war-economy-challenge",
-     "published": "2026-10-19T08:31:30.375Z"
+     "published": "2026-10-19T09:27:15.752Z"
     },
     {
      "title": "Trump slams Zelensky after Ukraine defies US president with major attack on Russia",
      "brief": "Ukraine launched one of its biggest drone attacks this year on Russia overnight on Saturday, hitting a key oil terminal in defiance of US President Donald Trump’s demand it stop hitting Russian energy infrastructure.",
      "link": "https://www.cnn.com/2026/10/18/europe/ukraine-russia-drone-attack-trump-intl",
-     "published": "2026-10-18T12:00:00.000Z"
-    },
-    {
-     "title": "China economy grows thanks to AI export boom but domestic slump remains a drag",
-     "brief": "China reported better-than-expected Q3 growth on Monday as robust exports of chips and electronics components on the back of a global artificial intelligence boom buoy the world’s second-largest economy, despite…",
-     "link": "https://www.cnn.com/2026/10/18/economy/china-q3-gdp-intl-hnk",
      "published": "2026-10-18T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cricket-Rain delays start of second day’s play between South Africa and Australia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVllQcDVETV94WlBIak1ma1ZMOGFCdHgxUTZvVUEzYXV1ZzFQeERWdjlQWHRMVGJWZDRnSXpoNG5BMlkwQnIyeVdyVEtHbnBzZGN2VHNLZEV3a2NIRzN2TFZYNHdYQ19LSmxXaVJLeUdLb2d1WmdpOEVQelBtcThySllfTE53YlI0aFQ2TUFqNFc3OHNWVWRJalJCSU0xN1pvaG9YVWVXN09zQTViY2N3N0lMeTV6SFRDalhRaE5UeWQzemhFcWlob2E0QXg?oc=5",
+     "published": "2026-10-19T08:49:00.000Z"
+    },
+    {
+     "title": "Cycling: Cyclist Zuhairie rides to Malaysia's first gold at Asian Para Games in Japan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeFhGYUNDbm5aQTVGb0QtNkpUcXJSMEVQWDFiRTJKc3ZTY3VwbE5FWGJBaDJaYjFkTXNCdnBzaGZHWi04ZXQ2N1FyaXh3d25GcUptVFZ3bWJBZHZHdlQzWDhyWUtqSUNYSENBaWMyblJLM3JBMTdsMGFXdk5keXhpWWVnVy11UC1QZWxhaGd5WGJpdkRTRDR4WTF5a2lxTExFS3hHQVJfbTkyWnBqbzE5U3JKU2lNM2ZmZWJIRmR3eXZEVGtSWFI3cXV3?oc=5",
+     "published": "2026-10-19T08:26:00.000Z"
+    },
+    {
+     "title": "Automotive industry’s TIV up 19% to 69,609 units in September",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQX0NMTTJpZENkUEYwVVhDc2d1UHlBdHg5dWpESnFDazYyUWFFNVg2c3VESEc3OUZWbjNMQkltOGh1OWZtRkJ5T2xaTGEtaC0tU1ZMOFFFWHB4a2JkRXVjWS14X2dtSFdIQW8xcTUycWp6UWZ0SGFlTjMyM1ZNdGFGTmtkVFR0dzBBZWp3dmFRc2p6UElOUnRrWXpZYTlNWGVSMkJybzJ0bXh3YUJ6VHYwRmJGakQycEtDbDB3?oc=5",
+     "published": "2026-10-19T08:15:00.000Z"
+    },
+    {
+     "title": "El Niño-powered drought leaves Indonesian palm farmers high and dry as river recedes",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWk1HTTJDTmhKVVByMnNldUZzOHA1QnRkWnh4M21DNENWczZOQkd4TVN3OVJydXZuQWZqRkZuVnNMZGxfN2FMNmllUVh6UlptYkV1Y2ltdF95REhTM1c3a2tGbDZyYWdJdTB3aWc5eEtCZXFacUtHYVdFbTV0b3RqcGE5MzdNLWJhejlFWUpabXFQN3ZVcWpkNzNVOWRIWjkyOHJjSVB4UWR2SFFuQndRMURDR3MtZUZLMTItZXUzSnRSMzR2TjlnVFJwQjY?oc=5",
+     "published": "2026-10-19T08:14:00.000Z"
+    },
+    {
+     "title": "Cricket-Shastri urges India to use Bumrah sparingly ahead of ODI World Cup",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTzR0cHY3bEgxRzlfRFdaQ1FfRWEzMUFYRHFZOEtxMENnb0M3NDdiTnRaWG9yTnJNUUd6dHBXYzctOVBlZVdkUmp1NHl4bUlxOERtQlBuOE5VbF95aENmZHVjOVVaZ1lMVV9aZVoyX1FwNTlUaTVuek1DeUZidG1IZmFQSWZjNTNCZ1dIM3M1dGhaS0x4TVktbkVZSjRqNzA3dUY1RVRDQ2tEcEhTVFNMQmUxUjE1aFJmMXVJQW5HVXBUc1FF?oc=5",
+     "published": "2026-10-19T07:50:00.000Z"
+    },
     {
      "title": "German film festival KinoFest returns to KL and Penang this month",
      "brief": "",
@@ -72,40 +102,10 @@
      "published": "2026-10-19T07:14:00.000Z"
     },
     {
-     "title": "Six migrants, including infant, die after boat collision off Greece's Lesvos",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSTVvengxQThzbEhFanU3YkdaVDhCYXZpZk0ycE1OUHE3ZkVOSEdQVXVkUzBybnlHM2xGVlRiQ3h5dDRIWVpXdDRfTjhXOFlfU0ZRV2ZKbVlkSlhuakQ5MnVKU21wSXd6eGhNdy1rMGRLMkVqOUNkZl83ckhTcFdFbDBzX0wwOEthN25jNkdKNXJ1NlhreHREa1lFaWVEdVRRcUpyRmY0WkRLTUVsdmJpWDRTU216ZHBUVEdGTE1Pa0NqaE0?oc=5",
-     "published": "2026-10-19T06:36:00.000Z"
-    },
-    {
-     "title": "Cycling: Keirin hopes go off track as Malaysian duo exit worlds",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaVhzckI2WUhmZ0xwQkZQUTZMeDNxS21PSUI4aEI4cXg3ZGx4Zzd5VjZqSmhuOGNlNENiWDM0RHhKd3NMYTN0LTZibEMtbUFGNHJMUVN5VkxwZzMtMm9fQUNjMTZ3bTFkYTJFclFSdy1BYk13WlZtTWxzTm1oMzFVNXhRd1ZLTEtJSk0taHp2aWVQbDRibS1SbDZ1dUZKUGhfZ3h2ckROck04UQ?oc=5",
-     "published": "2026-10-19T06:16:08.000Z"
-    },
-    {
-     "title": "Squash: Aqil on course to break top 300 target after junior victory",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMi1lRFhDQ2pwbkVTazczV0loejdYRnA2WFpkeTl2d1FZdm84OGJTaUxCQ0pySGx3STQxSW5XUEJfZDFtSlhQUjlBVlY0Qzk0N0MtUmlsWENTUkY0TGxVYXN0cFo2a2dZQnpzUHBDcTNuR3hEaEthM2RZMFR4WDhpMVNKdl9zVl91TTUyYTVVX1Z4ZTlzR1JJN2l2cVhlaVJuNk9Gb2YzUTk4dFBJN0Rn?oc=5",
-     "published": "2026-10-19T06:16:08.000Z"
-    },
-    {
-     "title": "Whitney races from exam to squash court before battling to maiden Milo Under-19 title",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSDlTZHdaUmNYS2p1TnNwVnd5bWpmV3pXZTF2aGRUV2ZPS3c0anFiek4wdlYzWXNtb01ZWWJUbENDM2VCTzhkNjJfU3ktNEhOZEtLMnhwUjRnbktmX3RlbE9kMUFwMjMzWUhZNFJzaWE5b0R4cUJnb0t2ZlZzdXdEWDdTTTFxeGoxSUJ1UHR1TzhSbHJSWEpBNTRMOVJoMXVoV25hYVdzcW9UVzFFdXJ5VmR4ZktCMFlTQnZuNHdOYzhoZTh0Q1V4WmM0LXA4XzIxX3c?oc=5",
-     "published": "2026-10-19T06:16:08.000Z"
-    },
-    {
-     "title": "France's Macron declines interior minister's offer to resign",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdzBBRV9PbG51d0VTYk5iVkNWdDliUG1ENkNSbkpoaDQ1TUx5cC1nSE9WSmt4dmJSdmxtSEJkWmx5bS1ybExCQ1dSM0Uwa3VaZzNXeDNlZ05EWnZDRWFrM05uRHR6NmZuVXNNdF9icWlZbDhWN3dfVnJpTWowMlljbnE0aUt4c3pTS0FGWnJWcUtpQTdEbGVHd0psa1NLR2ZEbmtkZVh3RFVBWXRxYnoxMWJ5SQ?oc=5",
-     "published": "2026-10-19T05:39:00.000Z"
-    },
-    {
-     "title": "StarPicks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1uY3pyaWdWSGlqZGoyY0Q3NUhlY1hGcGNhNWhSTkFXWGhnT1B5MmFCNWk5TVdVS1F5akI1Q2RrRXo2Z2VhTVR0TDZOUl9wQXhrN1F1SlFYemI0MFBmZk9TMWlyT2R0c2RIRHc?oc=5",
-     "published": "2026-10-19T05:13:24.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhd3RsRXZmQXNHbXQ5dzNPRGh5M2xoVFpsRno3VXZJLW9RbktNeld3VjZyY0RPQ3g5akhjUkRtVFlPV0JjUDNscEF2Zk5YYXg1QU1ybjBUdUp5MmVwWVZ1eFpySmRjdw?oc=5",
+     "published": "2026-10-19T07:00:00.000Z"
     }
    ]
   }
