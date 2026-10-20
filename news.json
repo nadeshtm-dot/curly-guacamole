@@ -1,39 +1,45 @@
 {
- "updated": "2026-10-20T11:28:20.774Z",
+ "updated": "2026-10-20T12:35:08.351Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Oil parked above $110 a barrel as IEA warns energy markets won’t return to normal next year",
+     "brief": "Global energy markets are more than a year away from returning to normal and remain highly vulnerable to “overlapping crises” in the Middle East, the head of the International Energy Agency has warned.",
+     "link": "https://www.cnn.com/2026/10/20/business/oil-prices-next-year-intl",
+     "published": "2026-10-20T12:35:08.740Z"
+    },
+    {
      "title": "Google Cloud services face outage in London, Revolut services down too",
      "brief": "Multiple Google Cloud services experienced disruptions in the company’s London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.",
      "link": "https://www.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl",
-     "published": "2026-10-20T11:28:21.020Z"
+     "published": "2026-10-20T12:34:08.653Z"
     },
     {
-     "title": "Oil parked above $110 a barrel as IEA warns energy markets won’t return to normal next year",
-     "brief": "Global energy markets are more than a year away from returning to normal and remain highly vulnerable to “overlapping crises” in the Middle East, the head of the International Energy Agency has warned.",
-     "link": "https://www.cnn.com/2026/10/20/business/oil-110-barrel-next-year-intl",
-     "published": "2026-10-20T11:27:21.015Z"
+     "title": "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
+     "brief": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen.",
+     "link": "https://www.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl",
+     "published": "2026-10-20T12:33:08.656Z"
+    },
+    {
+     "title": "25 must-visit destinations for 2027, according to National Geographic",
+     "brief": "It’s too easy to kick the can down the road when planning dream trips: Push it to next month, next year, after the new kitchen is done, or never.",
+     "link": "https://www.cnn.com/2026/10/20/travel/national-geographic-best-world-2027",
+     "published": "2026-10-20T12:32:08.634Z"
+    },
+    {
+     "title": "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
+     "brief": "Superstar Philadelphia Eagles quarterback Jalen Hurts , 28, may be out for the rest of the season after the team said Monday that doctors have diagnosed him with deep vein thrombosis and blood clots in his lungs.",
+     "link": "https://www.cnn.com/2026/10/20/health/blood-clots-jalen-hurts",
+     "published": "2026-10-20T12:31:08.626Z"
     },
     {
      "title": "Canary in the coal mine or just a bad apple? CoreWeave debt drama roils Wall Street",
      "brief": "Wall Street is increasingly scrutinizing the massive debt companies are taking on to fund the artificial intelligence boom.",
      "link": "https://www.cnn.com/2026/10/20/investing/ai-debt-coreweave-tech-stocks",
-     "published": "2026-10-20T11:26:21.023Z"
-    },
-    {
-     "title": "‘There’s a hunger to express yourself’: A dispatch from China’s most fashionable city",
-     "brief": "One of China’s most exciting art curators, X Zhu-Nowell, is giving me a very Shanghai morning.",
-     "link": "https://www.cnn.com/2026/10/20/style/shanghai-fashion-week-china-designers-art",
-     "published": "2026-10-20T11:22:21.032Z"
-    },
-    {
-     "title": "In Europe, budget airlines thrive. Why not the US?",
-     "brief": "At the top of one of Ryanair’s European website’s reads “fly “FROM 24.99€.”",
-     "link": "https://www.cnn.com/2026/10/20/business/budget-airlines-thrive-in-europe-not-us",
-     "published": "2026-10-20T11:21:21.029Z"
+     "published": "2026-10-20T12:30:08.615Z"
     },
     {
      "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
@@ -46,12 +52,6 @@
      "brief": "A 43-year-old man has been charged over an alleged ramming attack on an Australian lawmaker that police say was “targeted” and left her serious injuries that media reports say required the amputation of her leg.",
      "link": "https://www.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl",
      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "US-Ukraine relationship worsens amid Trump and Zelensky’s mutual distrust",
-     "brief": "The relationship between Ukraine and the United States is facing increasing strain over intelligence sharing, sanctions, Ukrainian attacks on Russian energy and the path to peace.",
-     "link": "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Rubio says Ukraine interceptors may not have been delivered, but not for political reasons",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTMtanBsaFFHXzlhdTYyakYyanR0T29McHJfV2NvdVRSVV81OGFoZW9BUUNpNXhHc09WNFF4MXhiZUt5elV4bE9fd1V6SHBrWmo1eTdqOHFmNzg1VEVWR0hILThhc2tFRWVyQW5qSDVZTjNvVVZRT21EWHY0V05objBpbzczWWV2TUZmWFpQeGFZSkl4ZHNfLUtpWVNSRHp3RjgtOGxJLWt3eXhoYjR2WXpPOUpkN3pOX1RnLTNacWZJeTRUQmVJWWRqS05EWkd6c3FQeg?oc=5",
+     "published": "2026-10-20T11:50:00.000Z"
+    },
     {
      "title": "Rugby-Wales name uncapped trio in November's Nations Championship squad",
      "brief": "",
@@ -82,12 +88,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzVPcW9xd2NvWTJRNE42Q0NKWUM5NnA3ZnVlbHRDclA2WWZVYnpmRmZQU3RGZzZYZG0ydG5FMG40a3dFX3JHaTRaMnpjcHNJMWN0enVUblF3cWpobW05Tm94MnBDOXF4aEN2OHJWWWtYRjN5OG5LRU1TLW4zRDFfT1NPbG4yVzBLOVdpZTBBTnJiU2ZiSkE?oc=5",
      "published": "2026-10-20T10:00:00.000Z"
-    },
-    {
-     "title": "Google Cloud services face outage in London, Revolut services down too",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOal9RSWQ4LTgwU1hubXZFUHFFdFdQa3hnNl9DQ3d6RUZ4dHFYa0Z3aTZJSnJRQW1hdFItYmpxWnAtdTR2QmVFM1duRG5xQ3hvdnVQSHRNZlpxbDJsX3lEMkNMR0x2c1c4WVFMYmNZSWFIMTFFOGpQaEotTHdMNWFvMVotVVBzbnRDMVNTREpNU0xZY0Fud0NFMDhNbzVISkdiQ3dBLQ?oc=5",
-     "published": "2026-10-20T09:19:00.000Z"
     },
     {
      "title": "Cycling: Motorcycling-Pramac's Razgatlioglu to miss remainder of MotoGP season",
