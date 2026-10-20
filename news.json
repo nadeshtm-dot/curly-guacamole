@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-19T23:26:55.426Z",
+ "updated": "2026-10-20T00:37:18.065Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming",
+     "brief": "A federal judge raked President Donald Trump’s administration over the coals on Monday in a case involving his plans to renovate a public golf course in Washington, DC.",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-flouting-court-orders",
+     "published": "2026-10-19T12:00:00.000Z"
+    },
+    {
      "title": "US citizen injured during California ICE incident, officials say",
      "brief": "A former Long Beach city employee was injured during an incident involving Immigration and Customs Enforcement on Saturday, officials said, with an unmarked SUV driving the wrong way down a one-way street before the…",
      "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
-     "published": "2026-10-19T23:26:55.748Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Tensions flare at court hearing on Trump’s golf course renovation after president says construction will begin ‘immediately’",
      "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over the President Donald Trump’s efforts to overhaul a golf…",
      "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
-     "published": "2026-10-19T23:25:55.724Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Democratic senator sparks controversy over comments on investigating the Trump administration",
      "brief": "Democratic Sen. Elissa Slotkin is drawing criticism from President Donald Trump and other prominent Republicans after suggesting congressional investigations could deter recent graduates from joining the Trump…",
      "link": "https://www.cnn.com/2026/10/19/politics/elissa-slotkin-trump-young-republicans",
-     "published": "2026-10-19T23:24:55.739Z"
-    },
-    {
-     "title": "The Trump team’s disdain for court orders is blowing up in court. Accountability has been slow in coming",
-     "brief": "A federal judge raked President Donald Trump’s administration over the coals on Monday in a case involving his plans to renovate a public golf course in Washington, DC.",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-flouting-court-orders",
-     "published": "2026-10-19T23:23:55.735Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "What we know about the investigation into the Bend school shooting",
      "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
      "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
-     "published": "2026-10-19T23:22:55.756Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "GOP attacks on El-Sayed’s Muslim faith come to a head in heated town hall exchange",
      "brief": "The Muslim Brotherhood has become a flashpoint in Michigan’s Senate race, with Republicans trying to cast Democratic nominee Abdul El-Sayed as sympathetic to interests connected to Islamic terror and El-Sayed arguing…",
      "link": "https://www.cnn.com/2026/10/19/politics/abdul-el-sayed-muslim-brotherhood-michigan-senate-race",
-     "published": "2026-10-19T23:21:55.960Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "US-Ukraine relationship worsens amid Trump and Zelensky’s mutual distrust",
      "brief": "The relationship between Ukraine and the United States is facing increasing strain over intelligence sharing, sanctions, Ukrainian attacks on Russian energy and the path to peace.",
      "link": "https://www.cnn.com/2026/10/19/europe/us-ukraine-relationship-tump-zelensky-distrust-intl",
-     "published": "2026-10-19T23:20:55.731Z"
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Trump calls on New Mexico to change its name to ‘New America’",
      "brief": "President Donald Trump on Monday called on New Mexico to change its name to “New America” — the latest example of him seeking geographical name changes that fit his political agenda.",
      "link": "https://www.cnn.com/2026/10/19/politics/trump-new-mexico-name-change",
-     "published": "2026-10-19T23:19:55.718Z"
+     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Nine Emperor Gods Festival wows China tourists",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1E0eURFY0RqWGNQaDMzcGhZMTJmVXVIZlNBeVBQaVdSN2MyeWRpbURSOTJEeEVnN3pQcTJqUkJDNHNqUUtUZy1hUnNha1gyM3BKWTczRHBsZFhKZFZSTHUtTGdSNFNtN1UyZ1RNYW9iUTZBSUZ1RzdZZW14M19zSWZyZ1BtWmVQMXF6bVZvQU5ENmVTeFBZQlExclZRcnd3bzkxdnYxZ01JX0lIOHoyY1ZXbFFWUUJW?oc=5",
+     "published": "2026-10-20T00:04:08.000Z"
+    },
+    {
+     "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVm53MDVBbEdCRFZjS2FGaDE1RWRRVWhCcFdmTjUwNUtnRl9KVVZkRVlrVnl2LUdSUzhJNVBUWFhKR25zbjhwMDFDd05WMVhyOGtCbDd0RVEzUlpjT1JscEVqa1J3bXFhVnRNRmF5RE9faWFlSThueTE1NTZOeUZlZXlaUHZNaWdPejY0VC1qQnZPZGdoSW12SEdwSVBSOWwzX3RzLVpVc3g?oc=5",
+     "published": "2026-10-19T23:34:00.000Z"
+    },
+    {
+     "title": "A better highway doesn’t appear by magic",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2hvR01SenRjRnNxNERZWXpnQVROX2ZhZHpTNUV2ZTJNRWNJTjRZSWxLeDNLRWVqOE1ZN2dZcjFmVW9sUTNRYnMwVU9NMFNKdm9GS3FnbURpTlhHRXJYOXNJNXg5MXhLUE5UUS1xeG1Kd1hQU0NLNW1hT29DN0xjYTZCOThpMVk1czFDYkFOTUtraVNjX3RLWg?oc=5",
+     "published": "2026-10-19T23:33:53.000Z"
+    },
+    {
+     "title": "Other Sports: Madame Butterfly still spreading her wings at 78",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk5sVVBqQm5OQlEyQjQ0RjhyVS1aNzR1SnBRTmRvNXMyN3F0cGV6dDdsX3pJWHdSZUgwR09aV05QMzJzNUQwMXhQMV9YZHVFZm1EVzEwY29YRDhwanduN0xVYk1lalp2YkNBRi1CMGxZVURleVNoZENWMUk1blpUWDhlT2VnOVE4clY4bFQwZlB6aGZWOGpMQ2k2YnN6cWJB?oc=5",
+     "published": "2026-10-19T23:04:50.000Z"
+    },
+    {
      "title": "Other Sports: Malaysian contingent hit the ground running",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0I0bG1tT205LTRwQW53c0h2NWRSTG1iandkSkt0eDBrUkJMX0lUdHVyMXFZeEhMTmpIWjNNMEMxUVdPV0JOT0ZSR2lCb3ZfdXc5X0sxVTRBVmRiQUU4NWlOd3VmQUgyNXR6d2R4VzlKenRjTndjbHZibkwwOXZhaTJqTmhJYl9FZUw5MHZqUDVkb3lOSEIybTdB?oc=5",
-     "published": "2026-10-19T23:04:02.000Z"
+     "published": "2026-10-19T23:04:23.000Z"
     },
     {
-     "title": "The silent surge: Why EV power demands a new era of driving safety on Malaysian roads",
+     "title": "US State Department asks Americans to reconsider travel to Kenya",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeHhQb1JtckFrakpkUlFpRFk3MlpicEVWVlpUdWJtNzJYdi10djZSblJTYnFZeGRWUDJtbXBIUlJpQ2RUWVR3YTJHazJZNlRid3NRM28tTHNtcHVFNDFpSG45MEJCVjRPQ2hLNmtUZ1ZibDBXYThtb003c2FuNGhNSmJ1clN5eEJjcGxBTzhzbDQwN0tPVHRpMnRsT0NHaXNzcURza1hZT3N6TE05Rk4zZ2xtWFJoZ2pwU2k5LTUySEZObl9pQjNicjVtalJ4ZzF5c3ctVA?oc=5",
-     "published": "2026-10-19T22:40:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXZWVlE3Z0UtdVZxYjZmcnNaeGtFeUhZMkt4akF3ZGZOZXdIUDRJSEtLcWVhUmNBdEJYZXhkOC1NZDRyRmxlSUtIUXlaeUUzZE9ac3hFb2NWTktrQW11djdXQlJDdjlPTnJBd05tdUhVRlFjd0V2amxWcDRMT3B2SVM4SmZCOWVoRjJtUFVGdGppUTNCeDJPSGtES1hjSXhBT0ZtLXRxd1ZZM2MtblRNMmx0aw?oc=5",
+     "published": "2026-10-19T22:31:00.000Z"
     },
     {
      "title": "Authors",
@@ -78,34 +102,10 @@
      "published": "2026-10-19T22:16:38.000Z"
     },
     {
-     "title": "Budget 2027 must tackle environmental challenges at their source",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMEQ5dTZvN3dWWm1NZ0xYSDNTaDhNby14RkN0ZVJPZkJTa25qWWZ6MFVoLVc4Qkk4MmZPTjRtdkZhNHh5OGRFZkdCQU9LR1E0cmdpR0ZWdlNXa3o1LWViOUNnNXBKU3RJbUdxNWEwRGI1X0Y5VUxkSnF4WDhKQXBRUGNna2UzaThZcWloLUEwMHJhMkplbjJ4dlFrYkF2WVk5eDBiVk1PXzM4VEVxMS04UGJ4ZVdUQzN3T2c?oc=5",
-     "published": "2026-10-19T22:03:00.000Z"
-    },
-    {
      "title": "Ecuador hit by fresh floods, landslides as El Nino develops",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEZSX29nbnJRZ1YxUl9ZNGJXT1g0OVF4MjRjOGtKblUwWTJSQS0xYWY2am5XMG9aMnJlbWwxZHItOGd2X3pqMW8yT3FROWZiZXo0clpwdWdwRHg0NDgydXphYVFwSnlSRkVJVE8zaWdvZEpZQm02T3NRQW9kZmlpZEFJNGw1T1lTYWF2VkgtUmVyOXZseWs1cnVSVkJfVGhieGdqV0hrSjA3dlU?oc=5",
      "published": "2026-10-19T21:55:00.000Z"
-    },
-    {
-     "title": "Deadly drone strikes interrupt critical services in Sudan: UN",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNR2E0WWU4bndwMHd1alh2c3UtR0o1U1hvSW95QzBJVDFGaFhNU0FWbG5YTFpjWjgwWUt1OHhmTDgtaF9seV9NaVZCN0hSU19vX2JuVHEtU0YwVXBsbkVLRHdUMHZ3d1Bhakp3REltZVc0YlVFSmt5NWU4VEc3aWRMdE5IZVVBOERfZ3FzdndPSTZuT3EtYUJEdHNFdWVlYi1FTG1zMmdWNzRxaXZCWlE?oc=5",
-     "published": "2026-10-19T20:53:00.000Z"
-    },
-    {
-     "title": "Canada's CPI rises 3.1 pct in September",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaG1LVm85WHBWY1BoWS0tSGRqenU0cVg0LVFtQTVVQV9IYkNNTW9lOVpPQm5ZMTBiSFNqSTFaWWNPUUh1Q1RvXzlBZGRCUVA4QlY3ZkNudno4VDVpdTJfQW5Ta2J1STNLMGtCVXUyQzRIenhDcUF1bTVZOFlkY1FINnhhSm5rdzdGQ0tSUFBhUUVwd1E?oc=5",
-     "published": "2026-10-19T20:34:00.000Z"
-    },
-    {
-     "title": "US officials plan to travel to Norway for Ukraine talks, sources say",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGlZRldWMlhOV2NqcWprMm9OT1M3UWlSQkV2dXVrS08wSlVIR1phOVNHdjNtaHNudWxEeEZMdnVmUVdXZjJ2MUlhTzIzZkdsekRnamVqUzFKYTBJTzFDZzY1X3Q2aUFPRkVlel9mOEtlX0xaVTA0UTBINWVuTVJaWVdTWXM2UlBIVk1TcHE4OV9ocHJyVFRjSVhiSWthZnEtQk5XZXFhSThNa1drdGZmU2MyaGZOdXM?oc=5",
-     "published": "2026-10-19T20:27:00.000Z"
     }
    ]
   }
