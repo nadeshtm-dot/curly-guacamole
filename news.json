@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-20T13:39:35.853Z",
+ "updated": "2026-10-20T14:30:55.410Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Looted French goods are popping up on resale site Vinted",
-     "brief": "The second-hand online marketplace Vinted has removed listings of looted French goods and stepped up checks on “suspicious” adverts, as the country’s authorities seek to prevent goods stolen during riots from being…",
-     "link": "https://www.cnn.com/2026/10/20/business/vinted-removes-goods-linked-to-french-looting-scli",
-     "published": "2026-10-20T13:39:36.040Z"
-    },
-    {
      "title": "CNN warns Trump White House: Restore Air Force One access or face further legal action",
      "brief": "The White House has been excluding CNN from President Donald Trump’s trips on Air Force One, disrupting a decades-old tradition of pooled TV coverage.",
      "link": "https://www.cnn.com/2026/10/20/media/cnn-trump-white-house-media-ban-air-force-one",
-     "published": "2026-10-20T13:38:36.120Z"
+     "published": "2026-10-20T14:30:55.602Z"
     },
     {
-     "title": "Google Cloud services face outage in London, Revolut services down too",
-     "brief": "Multiple Google Cloud services experienced disruptions in the company’s London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.",
-     "link": "https://www.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl",
-     "published": "2026-10-20T13:36:36.145Z"
+     "title": "Looted French goods are popping up on resale site Vinted",
+     "brief": "The second-hand online marketplace Vinted has removed listings of looted French goods and stepped up checks on “suspicious” adverts, as the country’s authorities seek to prevent goods stolen during riots from being…",
+     "link": "https://www.cnn.com/2026/10/20/business/vinted-removes-goods-linked-to-french-looting-scli",
+     "published": "2026-10-20T14:28:55.694Z"
     },
     {
      "title": "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
      "brief": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen.",
      "link": "https://www.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl",
-     "published": "2026-10-20T13:35:36.125Z"
+     "published": "2026-10-20T14:27:55.659Z"
+    },
+    {
+     "title": "Google Cloud services face outage in London, Revolut services down too",
+     "brief": "Multiple Google Cloud services experienced disruptions in the company’s London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.",
+     "link": "https://www.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl",
+     "published": "2026-10-20T14:25:55.665Z"
     },
     {
      "title": "Trump administration announces $8 billion farm relief plan as fuel, fertilizer costs bite",
-     "brief": "President Donald Trump announced at a Kansas rally on Monday that his administration is introducing an $8 billion aid package for farmers in the face of high diesel and fertilizer costs.",
+     "brief": "President Donald Trump announced at a Kansas rally on Monday that his administration is offering an $8 billion aid package for farmers in the face of high diesel and fertilizer costs.",
      "link": "https://www.cnn.com/2026/10/20/economy/trump-farm-relief-fuel-prices",
-     "published": "2026-10-20T13:33:36.111Z"
-    },
-    {
-     "title": "Trump calls golf course ‘trash island’ after heated court hearing over renovation",
-     "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over President Donald Trump’s efforts to overhaul a public…",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
-     "published": "2026-10-19T12:00:00.000Z"
+     "published": "2026-10-20T14:23:55.668Z"
     },
     {
      "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
      "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country grapples with the fallout from its worst rioting in years.",
      "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T12:00:00.000Z"
+    },
+    {
+     "title": "Trump calls golf course ‘trash island’ after heated court hearing over renovation",
+     "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over President Donald Trump’s efforts to overhaul a public…",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
      "published": "2026-10-19T12:00:00.000Z"
     }
    ]
@@ -54,16 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Brazil's Bolsonaro courts events sector with pledge to restore tax breaks ahead of election",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNazh6dHlPMk9jWFRIb29jMm00TVZocGZ3SHdlejMwZGJLVUVjOVhNRXZqSktxN25uR1ZmUFExQmdWa1p5VEtleDRJOWdHRC1MQ0ZPWFJhbk1ReGRYUWE5N3NCWDFJVzdKR25fUEdkNUVVeGZGMWNCRnJJTlNJSVpveTZncUdjTTVHQ3JleWxlNkRJWE13b2RfbmwyVkhYdTRRMGFrV0VQYkl1R3c4dFNPdXBxd2pJZVRWTlhLQXJzQUJCNkU3S2xzcEE3T0J3bDdINnNrcFBSc0NYZw?oc=5",
+     "published": "2026-10-20T14:15:00.000Z"
+    },
+    {
+     "title": "Govt to allocate RM150mil over five years to repair, upgrade public toilets managed by PBTs, says Nga",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNenFVZkRLVkotS1E4bmduRVByelZjb0VTdWJielluME1RMjhWNVNCcHkteUlGR2c2RTdyWGNLbnNidFJ0SHA2ZTVLNVNvZWNwa2dZUzZabzJhWHA2V3VYR1g4dW8xVjdyM3NMdTRPRXFfNmZDRWhiS3Z5ZmRmUmVsVmVKeEtqSlA2TVYyLU9UU3hReThSRDRVOXVFZ1UxWkhHRkhSYW1SUGpZb2tPb3hqS1JaNHJLdUtfUkRtUl9RdkJNYlB2dm1oRTdGRnhQbFVkWmp5ZjNnaVJpaWZzRXlKdEZZcw?oc=5",
+     "published": "2026-10-20T13:37:00.000Z"
+    },
+    {
      "title": "Eastern Libya parliament approves maritime deal with Turkey, lifts 2020 boycott",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajJhRl9PWkVDYUFmWndMN2pTTWFQZi1qZjNHSHZHZEEyakF1OEMteFdnSHhGcEFQNkFTc0ZPV1JmcWZSeXNfWm1MNklOMkRWQ1JyNWV2Mk10VE1IVFlxeTVOblRtS1ZmQUpERkZ2NGVQNGtvREtRWDBWalc0YkRncW9OanRDMnFhNUs4eWREOTgyR3dOd3drdnE4VTJ6MWlTN0ZacXlIaXFSSHBjdTFjMkgyem1YNVB6ZnZXZlV6UTVpTWNhb3c?oc=5",
      "published": "2026-10-20T12:51:00.000Z"
-    },
-    {
-     "title": "PM Anwar congratulates Bonnie for bagging Malaysia's second Asian Para Games gold medal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWDhvLUlvT0tpbURBWUJlUTJMc3NBUk9zeG1HbVZqMFFvRFVnSDY5dkcxaXF4N0FYYkQ0dlpSczZrVmxVSUNwa01TVmxnYVg5eENlM3RjU09PN1B5dmNvX1A0Rm1KX3pWZ2FYMGs2MnVhVXQ5WDBQWXA3b0pTTVdPcnRDQ2FqbFE4SUFQTHY1YlA1RmQwVVllbWlqUnUtemwzVFBzVm1DTzlHMHpTVk1yXzNlTWM4LXhEVEY4LTNqa1JtWEZKdjMyVDJnaXNOUFFLUHprcEtR?oc=5",
-     "published": "2026-10-20T12:44:00.000Z"
     },
     {
      "title": "Rubio says Ukraine interceptors may not have been delivered, but not for political reasons",
@@ -72,10 +78,16 @@
      "published": "2026-10-20T11:50:00.000Z"
     },
     {
-     "title": "Hasbro raises annual revenue forecast on strong demand for digital games",
+     "title": "Woman dies after shark attack in South Africa, SABC reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2Y1eHp2TzF4dm9FRzlSSnB0ZUtjYUUyWUtOQnJlcDVSZDNrVFA2c1MtV0hNNUtfakEzNTNINnFoUlZ0SjVRSmlZcnZGUjZHRUQzRm4tSURqOWlCM1Y4dFpkTm0wYXJINXljVTJuNS0yeFVCMG9VbHdvWU02VE9EaUhodmJJeXRsTUozbnZCWnM2RGdTckJmSU1Iclg0Q0pJVWtJbDJwR29GOG9nRXZqZXpfZEVJYTBkNVVfOGpCUzVBU3JYUjdTamlR?oc=5",
-     "published": "2026-10-20T10:46:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPLVBreXZnNHhZYjItTjRUNU9FTDRJRFZILTdHOWthZm5UNWpnMktqMFMtb0dKdmdXd19yX0hsMmh1el82dlhsN0JTcnZweGYtZ09RVzU4azk2NHRNVEhNNzlJNGptSDVTRU00YTNmdWRVbGg2bFBIa0gxNjNqOFBtYVE4bGw3cTFDc2lPVEdvdlpTc25lcFUzTGZfSW5CRDY4THhyUGt1VkprYzQ?oc=5",
+     "published": "2026-10-20T11:40:00.000Z"
+    },
+    {
+     "title": "Portuguese police clear housing protest camps, arresting 55",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaG1DcVRLdzh1QWhubGtrektJOVFUSFpzRnp1T2d5cnNFYkxOdzc0cFBod3d1WkI0ZVZ1c3dSenloWDdTUEZ5enNRcnp0VGdRRHZqbjRidWNaXzRrV3UwTnVkX0FaU3ZRWm1fNGg4YUJ6VUtQUEJsc1pFeEFiSm4yRXV4Ykt6dXNFZjhqUzY3VXNZOUlKZmJFNVVQMklRRXFZaEs0TThOd3hmeE0?oc=5",
+     "published": "2026-10-20T11:21:00.000Z"
     },
     {
      "title": "Rugby-Wales name uncapped trio in November's Nations Championship squad",
@@ -88,18 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclpKVGdpRHFUa3BLRVFqSlRKcVFib3dVdDJSRTJXRWJ0ODc4VjBXVlN5cHN1TWYybjIwYThlXzFXbkpTbld0bEVQZm9sOVBrczlEd3loeDVlclFFYjktMHpTNVJXeGVhZmZxZTRKNmZnTmVpNEVRcmlNRUxvSjZoWTJqZVVrVVVvWHRXNzlVMmhBVHZLeTJudFl5RTQ5WkxwR0M4Uk8tYkt6bEhLVWt1UGFCOHVLbVE?oc=5",
      "published": "2026-10-20T10:30:00.000Z"
-    },
-    {
-     "title": "Kremlin hopes Witkoff can brief Putin soon on latest Ukrainian/European thinking on peace deal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQSDVrclJaT19IejRxM09lSDFLQi1KSkJZcGNTWGluVkdtQmlLTzZUdEhmdkdzeDg4YnR2MDhkTVZ2UU1sWl94UXBZQ01FSkZjRUQtUzhxNzlMQXlGanRobEJuemNJaC1INjBqeWN3SFVyZW9JRzhvY0dNRDNwc0wtc0VhRUVxYUFQcXFiTTQ3YlZsUEMxUFd2akgwbHBUU0NyeWJqWjdMQ2I5V0hmdjJ4Z0hJN3RrZG5EUl9wVm5KTXZYN3BxUG1DNFZjdHlwR1AzZElpa2stWWx3dw?oc=5",
-     "published": "2026-10-20T10:27:00.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOdUZjY1c5cmFPNWRMTGxVamdCN0NZTHF4LWptN2dQSjJuQXR5YnNGWkdnaHltTWVCZXh0SEQzbnpmNjN2Zk1KLXB4N283MHVqTzNPMTUwUktPaml0MTU0R2dwR1g?oc=5",
-     "published": "2026-10-20T10:09:28.000Z"
     }
    ]
   }
