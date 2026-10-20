@@ -1,56 +1,50 @@
 {
- "updated": "2026-10-20T12:35:08.351Z",
+ "updated": "2026-10-20T13:39:35.853Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Oil parked above $110 a barrel as IEA warns energy markets won’t return to normal next year",
-     "brief": "Global energy markets are more than a year away from returning to normal and remain highly vulnerable to “overlapping crises” in the Middle East, the head of the International Energy Agency has warned.",
-     "link": "https://www.cnn.com/2026/10/20/business/oil-prices-next-year-intl",
-     "published": "2026-10-20T12:35:08.740Z"
+     "title": "Looted French goods are popping up on resale site Vinted",
+     "brief": "The second-hand online marketplace Vinted has removed listings of looted French goods and stepped up checks on “suspicious” adverts, as the country’s authorities seek to prevent goods stolen during riots from being…",
+     "link": "https://www.cnn.com/2026/10/20/business/vinted-removes-goods-linked-to-french-looting-scli",
+     "published": "2026-10-20T13:39:36.040Z"
+    },
+    {
+     "title": "CNN warns Trump White House: Restore Air Force One access or face further legal action",
+     "brief": "The White House has been excluding CNN from President Donald Trump’s trips on Air Force One, disrupting a decades-old tradition of pooled TV coverage.",
+     "link": "https://www.cnn.com/2026/10/20/media/cnn-trump-white-house-media-ban-air-force-one",
+     "published": "2026-10-20T13:38:36.120Z"
     },
     {
      "title": "Google Cloud services face outage in London, Revolut services down too",
      "brief": "Multiple Google Cloud services experienced disruptions in the company’s London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.",
      "link": "https://www.cnn.com/2026/10/20/europe/google-cloud-outage-london-revolut-intl",
-     "published": "2026-10-20T12:34:08.653Z"
+     "published": "2026-10-20T13:36:36.145Z"
     },
     {
      "title": "UK to deploy fighter jets to defend Saudi Arabia against Houthi attacks",
      "brief": "The United Kingdom said Tuesday it will deploy fighter jets to defend Saudi Arabia against attacks by the Iran-allied Houthi rebels in Yemen.",
      "link": "https://www.cnn.com/2026/10/20/middleeast/uk-military-saudi-arabia-yemen-houthis-intl",
-     "published": "2026-10-20T12:33:08.656Z"
+     "published": "2026-10-20T13:35:36.125Z"
     },
     {
-     "title": "25 must-visit destinations for 2027, according to National Geographic",
-     "brief": "It’s too easy to kick the can down the road when planning dream trips: Push it to next month, next year, after the new kitchen is done, or never.",
-     "link": "https://www.cnn.com/2026/10/20/travel/national-geographic-best-world-2027",
-     "published": "2026-10-20T12:32:08.634Z"
+     "title": "Trump administration announces $8 billion farm relief plan as fuel, fertilizer costs bite",
+     "brief": "President Donald Trump announced at a Kansas rally on Monday that his administration is introducing an $8 billion aid package for farmers in the face of high diesel and fertilizer costs.",
+     "link": "https://www.cnn.com/2026/10/20/economy/trump-farm-relief-fuel-prices",
+     "published": "2026-10-20T13:33:36.111Z"
     },
     {
-     "title": "How a calf injury could have led to blood clots in Jalen Hurts’ lungs",
-     "brief": "Superstar Philadelphia Eagles quarterback Jalen Hurts , 28, may be out for the rest of the season after the team said Monday that doctors have diagnosed him with deep vein thrombosis and blood clots in his lungs.",
-     "link": "https://www.cnn.com/2026/10/20/health/blood-clots-jalen-hurts",
-     "published": "2026-10-20T12:31:08.626Z"
-    },
-    {
-     "title": "Canary in the coal mine or just a bad apple? CoreWeave debt drama roils Wall Street",
-     "brief": "Wall Street is increasingly scrutinizing the massive debt companies are taking on to fund the artificial intelligence boom.",
-     "link": "https://www.cnn.com/2026/10/20/investing/ai-debt-coreweave-tech-stocks",
-     "published": "2026-10-20T12:30:08.615Z"
+     "title": "Trump calls golf course ‘trash island’ after heated court hearing over renovation",
+     "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over President Donald Trump’s efforts to overhaul a public…",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
      "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country grapples with the fallout from its worst rioting in years.",
      "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-     "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "Driver charged with ramming Australian lawmaker with car in ‘targeted’ attack",
-     "brief": "A 43-year-old man has been charged over an alleged ramming attack on an Australian lawmaker that police say was “targeted” and left her serious injuries that media reports say required the amputation of her leg.",
-     "link": "https://www.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl",
      "published": "2026-10-19T12:00:00.000Z"
     }
    ]
@@ -60,16 +54,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Eastern Libya parliament approves maritime deal with Turkey, lifts 2020 boycott",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajJhRl9PWkVDYUFmWndMN2pTTWFQZi1qZjNHSHZHZEEyakF1OEMteFdnSHhGcEFQNkFTc0ZPV1JmcWZSeXNfWm1MNklOMkRWQ1JyNWV2Mk10VE1IVFlxeTVOblRtS1ZmQUpERkZ2NGVQNGtvREtRWDBWalc0YkRncW9OanRDMnFhNUs4eWREOTgyR3dOd3drdnE4VTJ6MWlTN0ZacXlIaXFSSHBjdTFjMkgyem1YNVB6ZnZXZlV6UTVpTWNhb3c?oc=5",
+     "published": "2026-10-20T12:51:00.000Z"
+    },
+    {
+     "title": "PM Anwar congratulates Bonnie for bagging Malaysia's second Asian Para Games gold medal",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWDhvLUlvT0tpbURBWUJlUTJMc3NBUk9zeG1HbVZqMFFvRFVnSDY5dkcxaXF4N0FYYkQ0dlpSczZrVmxVSUNwa01TVmxnYVg5eENlM3RjU09PN1B5dmNvX1A0Rm1KX3pWZ2FYMGs2MnVhVXQ5WDBQWXA3b0pTTVdPcnRDQ2FqbFE4SUFQTHY1YlA1RmQwVVllbWlqUnUtemwzVFBzVm1DTzlHMHpTVk1yXzNlTWM4LXhEVEY4LTNqa1JtWEZKdjMyVDJnaXNOUFFLUHprcEtR?oc=5",
+     "published": "2026-10-20T12:44:00.000Z"
+    },
+    {
      "title": "Rubio says Ukraine interceptors may not have been delivered, but not for political reasons",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcTMtanBsaFFHXzlhdTYyakYyanR0T29McHJfV2NvdVRSVV81OGFoZW9BUUNpNXhHc09WNFF4MXhiZUt5elV4bE9fd1V6SHBrWmo1eTdqOHFmNzg1VEVWR0hILThhc2tFRWVyQW5qSDVZTjNvVVZRT21EWHY0V05objBpbzczWWV2TUZmWFpQeGFZSkl4ZHNfLUtpWVNSRHp3RjgtOGxJLWt3eXhoYjR2WXpPOUpkN3pOX1RnLTNacWZJeTRUQmVJWWRqS05EWkd6c3FQeg?oc=5",
      "published": "2026-10-20T11:50:00.000Z"
     },
     {
+     "title": "Hasbro raises annual revenue forecast on strong demand for digital games",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT2Y1eHp2TzF4dm9FRzlSSnB0ZUtjYUUyWUtOQnJlcDVSZDNrVFA2c1MtV0hNNUtfakEzNTNINnFoUlZ0SjVRSmlZcnZGUjZHRUQzRm4tSURqOWlCM1Y4dFpkTm0wYXJINXljVTJuNS0yeFVCMG9VbHdvWU02VE9EaUhodmJJeXRsTUozbnZCWnM2RGdTckJmSU1Iclg0Q0pJVWtJbDJwR29GOG9nRXZqZXpfZEVJYTBkNVVfOGpCUzVBU3JYUjdTamlR?oc=5",
+     "published": "2026-10-20T10:46:00.000Z"
+    },
+    {
      "title": "Rugby-Wales name uncapped trio in November's Nations Championship squad",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOU1ST0hXQWdNVUlFOGRvd29lZjl3S3VaeHBHMXNnSnd0Njdkb3phNS1lNmJzT2ZGMDlzRmRDSE9fQzNEckNHLWh3SGRQQnZpOWVtcVN0LUNhX3p5bnBka25NNnZFTTM0TmpFTW42SkV6NHMyRzJ1eHR0ZEpnN05yQWJwNlBIdkJWQjhPdXhnV25ab0hwTU12TGc4OFhkQ2toMFh6OU1LSVIwdW12dVN2WlNtSjhUdnZzYzhieWwtY1o?oc=5",
      "published": "2026-10-20T10:31:00.000Z"
+    },
+    {
+     "title": "Cricket-Bavuma, Jansen lead South Africa fightback in second test",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclpKVGdpRHFUa3BLRVFqSlRKcVFib3dVdDJSRTJXRWJ0ODc4VjBXVlN5cHN1TWYybjIwYThlXzFXbkpTbld0bEVQZm9sOVBrczlEd3loeDVlclFFYjktMHpTNVJXeGVhZmZxZTRKNmZnTmVpNEVRcmlNRUxvSjZoWTJqZVVrVVVvWHRXNzlVMmhBVHZLeTJudFl5RTQ5WkxwR0M4Uk8tYkt6bEhLVWt1UGFCOHVLbVE?oc=5",
+     "published": "2026-10-20T10:30:00.000Z"
     },
     {
      "title": "Kremlin hopes Witkoff can brief Putin soon on latest Ukrainian/European thinking on peace deal",
@@ -82,36 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOdUZjY1c5cmFPNWRMTGxVamdCN0NZTHF4LWptN2dQSjJuQXR5YnNGWkdnaHltTWVCZXh0SEQzbnpmNjN2Zk1KLXB4N283MHVqTzNPMTUwUktPaml0MTU0R2dwR1g?oc=5",
      "published": "2026-10-20T10:09:28.000Z"
-    },
-    {
-     "title": "Heart And Soul: The road to Kedarnath",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSzVPcW9xd2NvWTJRNE42Q0NKWUM5NnA3ZnVlbHRDclA2WWZVYnpmRmZQU3RGZzZYZG0ydG5FMG40a3dFX3JHaTRaMnpjcHNJMWN0enVUblF3cWpobW05Tm94MnBDOXF4aEN2OHJWWWtYRjN5OG5LRU1TLW4zRDFfT1NPbG4yVzBLOVdpZTBBTnJiU2ZiSkE?oc=5",
-     "published": "2026-10-20T10:00:00.000Z"
-    },
-    {
-     "title": "Cycling: Motorcycling-Pramac's Razgatlioglu to miss remainder of MotoGP season",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTVNpcUNlejhUdFd5NlhJdEItMHA4SWN0YlJSNi0za1ctWVNlcTNnR05MLXlTREoxNWJIRm1wRm8tMXZyRVZLVW9Gdkx1VW5oRHFaNVlaUDlsYjFtUmpGbVhhbUFHaEVqWnNZMmpDMFJBMUs1N3JNX3JuQXVvN1dCMkt3ZTlKV0h5VG8tYTJUVmc1WWxxMy1mRXR0dkZxZDRJSGxWeFV0a0RfRktWMDNOaXlmOXVPaXM5M1ZYYmNJVFI?oc=5",
-     "published": "2026-10-20T09:14:00.000Z"
-    },
-    {
-     "title": "Other Sports: Bonnie bags Malaysia's second gold in Asian Para Games",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRHJkV0JyWVdaMUlHeFNTMFhPUjcyOC01QlNZWU81TUN3dnBYdDZleWpiTG9zUTUxamxHUnhQTEprY1dzblA3Uk9VcEVXMC1VeU1YdWQzSzk4TmtZUTRNTEpFbzhzNTdQUzktb2FjSUJlTF9IU01RTG5tUmhQT3FUQThUS2lTbl82YklSWF9SUGZYT05VYndIb05OZTBPd2RxeDRuZVU3azVPSzQ?oc=5",
-     "published": "2026-10-20T09:10:00.000Z"
-    },
-    {
-     "title": "Getha reimagines the wedding bed for a new generation",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFoyUFUyTVR0eHJPVTJvS0FBWHlodktOSzU4MmIzZXpIbXQxaHVLNzhSNW9iNEVrazgwQXhJQkRmZmF5MFQwRWoydEkyS0F0eHU1YVpzYlJobzZINnB1dmdvajBsRzNhajNrcXhRT0ZCVjVwUWJSN2ZpbmtvbTBmOGxlZHlQLWQ0cl96YVRMX2lHZldxWndpeE1PZGxHNmRUdzI0?oc=5",
-     "published": "2026-10-20T09:01:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
