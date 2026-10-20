@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-20T01:33:34.728Z",
+ "updated": "2026-10-20T02:27:32.527Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
+     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T12:00:00.000Z"
+    },
     {
      "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley",
      "brief": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a…",
@@ -40,18 +46,6 @@
      "brief": "Democratic Sen. Elissa Slotkin is drawing criticism from President Donald Trump and other prominent Republicans after suggesting congressional investigations could deter recent graduates from joining the Trump…",
      "link": "https://www.cnn.com/2026/10/19/politics/elissa-slotkin-trump-young-republicans",
      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "What we know about the investigation into the Bend school shooting",
-     "brief": "Students in this Oregon community won’t be returning to classes on Monday as they continue to mourn three classmates and a teacher killed in the United States’ latest school shooting, the motive of which is still…",
-     "link": "https://www.cnn.com/2026/10/19/us/bend-oregon-silver-rail-shooting",
-     "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "GOP attacks on El-Sayed’s Muslim faith come to a head in heated town hall exchange",
-     "brief": "The Muslim Brotherhood has become a flashpoint in Michigan’s Senate race, with Republicans trying to cast Democratic nominee Abdul El-Sayed as sympathetic to interests connected to Islamic terror and El-Sayed arguing…",
-     "link": "https://www.cnn.com/2026/10/19/politics/abdul-el-sayed-muslim-brotherhood-michigan-senate-race",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -60,28 +54,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "A structured, step-by-step plan to quit smoking or vaping",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lqZnhtN2Z4cEpJcVp1OXRtNGJWSjFzTzI3TlZKNnAzRkhnYU5hM1R5aUE3OEt1Qjd6MFRqcFNEVEdIQUZ5bDQ1azZmUnR0SGtQSEpTM1F6WTdDZ1duYWNQZWVCSDUwVzNFRlJnendUYTdneWdaVTJ1T0VvYUU3Q29rVnFLN3R5TWt1Y01COWlCMVhUVnczNlRoWkl3YnJNaDRWQjVmal9PeHIwNlNmUQ?oc=5",
+     "published": "2026-10-20T02:00:00.000Z"
+    },
+    {
+     "title": "PN has been deregistered, says ROS",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZG5MQkRvZUJpY1JRc0FlYVRwbFZLQWJ5YXdJWXlDNGotLXdUaE5HakVxa1dBTzNBTzdDN1BMckYtcFFweklWSVNJVktIV0pLTjdQa25Ec2xsb0x5VVFQSURnWm1QVW4wLWZfV1FvTWoyUG13SmxudklHLTZpZDJ3U2J0a1JxU3FyTXU4?oc=5",
+     "published": "2026-10-20T01:38:00.000Z"
+    },
+    {
      "title": "Haze: 29 areas with unhealthy API readings as of 8am",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXZrSUxGaDQzM3FuOHpDNEpSNXRIWHAyUDBnYVc2bGI0WkhTcVR2eGcxd3BocVNfYnJNM2xkRWpSdVNIQ3l2cm95bEFfR1VobDdQelF2Z3lNT09ZOTdTMmxnRzBJOUhyTEtlemhKV2FnRThfR1BiTGpBc3JCWnRZdVBLNElGMk1hYXpTeEtBUEQxbS02dkxnWWZXR0tMa2dzNVQ0?oc=5",
      "published": "2026-10-20T01:00:00.000Z"
     },
     {
-     "title": "On a wing and a prayer",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0za3ZuOUFxcUN6SGdfTUxCSFZHeDZ0NGxHUHhsZGV6aFlwNzd2cnROVEtNdEVEU2NrNTFrZlZoR1Rld200V3dXTmRaT0ltajV0eVJwTTVJcEtQUGNiQnA2N0tPa3V5LUVDZnFlSndmZGlaMFpsekt5TmRaVQ?oc=5",
-     "published": "2026-10-20T00:31:02.000Z"
-    },
-    {
-     "title": "3M expands Amazon data center partnership, shares gain",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3B3dDZmWVBjaGFLZGZ5M2RxR00xTVZ5c0tnR1pSVzcwWTdBV0pXUmNDbk1DUUpBazJkMVlTVVFfLVQ4UjhYNTFDcjNVM1dtaU1pRGV5STdVWU1ZMWhKY0VzejFqVW1LNkhhVU15V3RVbnh5VWRmVEs0U3RzSllHVXhMTUpPNy1vVXRFaXVHcm1FeF93dE1rN3lRZUVvYnNfbEtlQkxzSzR6Zw?oc=5",
-     "published": "2026-10-20T00:14:00.000Z"
-    },
-    {
      "title": "Nine Emperor Gods Festival wows China tourists",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1E0eURFY0RqWGNQaDMzcGhZMTJmVXVIZlNBeVBQaVdSN2MyeWRpbURSOTJEeEVnN3pQcTJqUkJDNHNqUUtUZy1hUnNha1gyM3BKWTczRHBsZFhKZFZSTHUtTGdSNFNtN1UyZ1RNYW9iUTZBSUZ1RzdZZW14M19zSWZyZ1BtWmVQMXF6bVZvQU5ENmVTeFBZQlExclZRcnd3bzkxdnYxZ01JX0lIOHoyY1ZXbFFWUUJW?oc=5",
      "published": "2026-10-20T00:04:08.000Z"
+    },
+    {
+     "title": "Woman loses over RM87,000 in online scam",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEoxOE91QnBxY0Z2T2d5NWJ0bl8zdFhIY1FHc3ZuT1F1aE1GM19KbE1hZ1lkek5MU05zN0FMWVIzZjJ1QXZZbkh3MG5FMnBpZXV0Z3hPeEhkWU5LME52NWJrR2FaUEpjN0xuc2Z4ek4wTWIxYng2eXdmRl9KVGlzWGswSUFMeGpic3V3X1VPdjNEVGM?oc=5",
+     "published": "2026-10-19T23:45:12.000Z"
+    },
+    {
+     "title": "Fighting boarding school bullying",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcFhNeDZoS0FQd0ZCUHREVjNYeUMwNVRYWFEzY3J0YXBPNHduNUZsTG9jOW9aWW9xNGlpbFJrRnlOQjBXVFlBX0UyT3ZuMnNiQllQUm50ejVLX1l2Ym81OGRPVUxOdmZxVjRJUXNVSmN5UWxnNmkzX2VnV3BwQlVXUE12VV92V0hORjcxa2o5Q2FZemxNbS0xZVl4bTlDenpyakc3dTh3?oc=5",
+     "published": "2026-10-19T23:40:18.000Z"
     },
     {
      "title": "14 dead, 7 injured in Colombia illegal gold mine collapse",
@@ -94,24 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc2hvR01SenRjRnNxNERZWXpnQVROX2ZhZHpTNUV2ZTJNRWNJTjRZSWxLeDNLRWVqOE1ZN2dZcjFmVW9sUTNRYnMwVU9NMFNKdm9GS3FnbURpTlhHRXJYOXNJNXg5MXhLUE5UUS1xeG1Kd1hQU0NLNW1hT29DN0xjYTZCOThpMVk1czFDYkFOTUtraVNjX3RLWg?oc=5",
      "published": "2026-10-19T23:33:53.000Z"
-    },
-    {
-     "title": "Growing Malaysia’s food future in the classroom",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcFpadnYxcjhTVnJIN3BMRVlKYmtwazMxckx5X1JJWEJ4c2Npdkt2aGxLdnpKd0xtR1I5M1RPREI3dGRWRzJ2UWxVVHZrQjFpMHdNS0NKVHB0SDNsblhOUnlrWEUtSVIwQnhnMUF0S3BvUEdlbXlWbHNRTW9ROC0xLVRMUWxKc3B6Zjlsa2JJRzMwaEQzMFZCQUViajh5M2lPdGc?oc=5",
-     "published": "2026-10-19T23:33:53.000Z"
-    },
-    {
-     "title": "Other Sports: Explosive start",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MLVk4NDdpdkZrclJKZE54ZERja25SVDMycFJzY1Bub1g5NTllN3pDRjUzVnZ5ZVB1X1cteHhMZTVxeXBqU1lrelVWbjFzcmFEVVBaaEZWelUzdzN2YjdlTzZBTGlld252bnVGU2lvb1JpazVy?oc=5",
-     "published": "2026-10-19T23:09:04.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
