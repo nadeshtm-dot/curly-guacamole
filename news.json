@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20T04:28:46.061Z",
+ "updated": "2026-10-20T05:28:48.626Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,13 +9,19 @@
      "title": "Trump uses antisemitic term ‘Shylock’ while defending Sen. Marshall’s lawsuits against his patients over medical bills",
      "brief": "President Donald Trump used an antisemitic term as he​ defended Kansas Sen.",
      "link": "https://www.cnn.com/2026/10/20/politics/trump-antisemitic-term-roger-marshalls-lawsuits",
-     "published": "2026-10-20T04:28:46.185Z"
+     "published": "2026-10-20T05:27:48.801Z"
     },
     {
      "title": "She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout",
      "brief": "Masha Moskalyova has spent a quarter of her life in jeopardy or on the run because of a picture she drew when she was just 12 years old.",
      "link": "https://www.cnn.com/2026/10/20/europe/masha-moskalyova-drawing-case-russia-intl",
-     "published": "2026-10-20T04:26:46.220Z"
+     "published": "2026-10-20T05:25:48.797Z"
+    },
+    {
+     "title": "Tensions flare at court hearing on Trump’s golf course renovation after president says construction will begin ‘immediately’",
+     "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over President Donald Trump’s efforts to overhaul a public…",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Trump calls on New Mexico to change its name to ‘New America’",
@@ -40,12 +46,6 @@
      "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
      "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "Mississippi attorney general says use of force was justified in death of 1-year-old Kohen Wiley",
-     "brief": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a…",
-     "link": "https://www.cnn.com/2026/10/19/us/mississippi-child-shot",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +53,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "ABB says data centre business booming, Q3 figures in line with forecasts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNhQXEyZ1laR0p2OGZTT2xSNkFjbE1LWjM2MldFdk5xeDRpazBXMFRNSDNxOWl3UHhFbjN5NjhsSG1laEEyU3pIaGZBUzRUT0FoTURlOEEtRUsyTlhtUy1qZWVKR0Q5d0JZTkJFYy1vUjFvSElWNzVULXNsNWxzeEtCalA4RUZvWjVJVF84QWVVcVlCNlN6dTFxeXN1NlRIZG1Zbl9ndjZaSnZ0UTRxNHEtdDEzRmFUZFkwZWFqZERQUQ?oc=5",
+     "published": "2026-10-20T05:11:00.000Z"
+    },
+    {
+     "title": "Boxing: Boxing-Promoter challenges decision in WBA lightweight title bout over 'officiating errors'",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRlFtei1NR1Z3NjM4N3U3X3pVZHNtbU1lSzNTS0ZieDlCTjdPSlZhNkV0b1cyR1VOcEFOQzJRVElXS3hGRUd4NTBLV0o2T0UzZnZsLV8tNEhEM1hkOFpRbTYxRXRCU3pVRXYwb3FIRjlQSlU5akNNTnlQTWtsSHNOZDFOR2NBdWh5Mnp5ZS1oX3NqYkVUSEM2REZIdlpzU0xNUUxZUTBYVk4zMFkwZkF3QUdUMjVVN3lBWll3U192ZHFXMzdWaFZVTVFJU1REUWZnTGk0X2NDQ1g2SWZ5dndr?oc=5",
+     "published": "2026-10-20T04:54:00.000Z"
+    },
     {
      "title": "Sea plans IPO for financial services arm Monee, memo says",
      "brief": "",
@@ -66,10 +78,16 @@
      "published": "2026-10-20T03:16:49.000Z"
     },
     {
-     "title": "A structured, step-by-step plan to quit smoking or vaping",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lqZnhtN2Z4cEpJcVp1OXRtNGJWSjFzTzI3TlZKNnAzRkhnYU5hM1R5aUE3OEt1Qjd6MFRqcFNEVEdIQUZ5bDQ1azZmUnR0SGtQSEpTM1F6WTdDZ1duYWNQZWVCSDUwVzNFRlJnendUYTdneWdaVTJ1T0VvYUU3Q29rVnFLN3R5TWt1Y01COWlCMVhUVnczNlRoWkl3YnJNaDRWQjVmal9PeHIwNlNmUQ?oc=5",
-     "published": "2026-10-20T02:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9meTlGdDJQSlBvT2hBSjBUNnlpazc3djJnODc1OVROdzBJOWt2Zlo2ZGt2S081Uk9UR3JWWktkTGJtX1lPTldmY29oaEkwSjh3NW0taDZqNHF2c3dQT250SW9R?oc=5",
+     "published": "2026-10-20T03:00:00.000Z"
+    },
+    {
+     "title": "Indonesian stocks inch higher after authorities implement measures to stem selling",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkJ5VFM2NmlSWkw3RWxDYmpIbU10SlI1TkxleFBRMzVvQlhiVm82VWp2Z3REc1N5VkJlLWJma0d5bHJtN0NFMFZUSXZrcFlMQlRZNnpJT05SVzYyanIxN0cwNnY3RGhQNHZzZ25vV0VEdjJqZkRHN1VJbFZFdWlMOXVYOVNOR3h3YnktTkVxNTJGaS1qN3l4REUtT2dVdDZ5OWlOWFdIZ1U0M1Baa3FRVGRZSmtLcm1PZlhDMjlFV1lmYk5WY3k3Ymhuc2Q3TmFDTXRQZjMxVnQ0V0RuQnc?oc=5",
+     "published": "2026-10-20T02:51:00.000Z"
     },
     {
      "title": "Haze: 29 areas with unhealthy API readings as of 8am",
@@ -82,24 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3RhUUQ0YTRBZndaRm04Zy1LdnZ2VmswSEF3ZldhU3ZmSU0yU192Rk1tR1hwRlNncTFWNW1jYXp1RHlVT0JjMGJRN2lJQVRUTVFfNk5uWUlqYTBnRGhBM1BSYnBfenpyUkV3LTVRbkNiTzJ5SDVZeklidmtnMlJZV0N6a3JqcXVSQU1kS0cyMV9GS3JoRjlxeDd0RENfYU9KUjBGRUxVcnNWT21iNHNuOHlBTC1nV3NKbWc?oc=5",
      "published": "2026-10-20T00:17:00.000Z"
-    },
-    {
-     "title": "Nine Emperor Gods Festival wows China tourists",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS1E0eURFY0RqWGNQaDMzcGhZMTJmVXVIZlNBeVBQaVdSN2MyeWRpbURSOTJEeEVnN3pQcTJqUkJDNHNqUUtUZy1hUnNha1gyM3BKWTczRHBsZFhKZFZSTHUtTGdSNFNtN1UyZ1RNYW9iUTZBSUZ1RzdZZW14M19zSWZyZ1BtWmVQMXF6bVZvQU5ENmVTeFBZQlExclZRcnd3bzkxdnYxZ01JX0lIOHoyY1ZXbFFWUUJW?oc=5",
-     "published": "2026-10-20T00:04:08.000Z"
-    },
-    {
-     "title": "Woman loses over RM87,000 in online scam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNEoxOE91QnBxY0Z2T2d5NWJ0bl8zdFhIY1FHc3ZuT1F1aE1GM19KbE1hZ1lkek5MU05zN0FMWVIzZjJ1QXZZbkh3MG5FMnBpZXV0Z3hPeEhkWU5LME52NWJrR2FaUEpjN0xuc2Z4ek4wTWIxYng2eXdmRl9KVGlzWGswSUFMeGpic3V3X1VPdjNEVGM?oc=5",
-     "published": "2026-10-19T23:45:12.000Z"
-    },
-    {
-     "title": "Tech sector’s AI growth hinges on moving up the value chain",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGFGaDU3Rkl6cTdBZHpzcDAyOUZKOW9Ec2t2ZjJoemlLR1k0ZEVIODV2a3E2eTR6UE5xNjZ3ZEU0RU1MVk1zeGpmTWxLRWZxZ1VYOXVoT0xNSmJ2WjlyalhfOGZYd1hrUGh1WjZHQ195WXUyTVB2SDU5SlZUWHh0X1RONG9lTEJFaHVIS2RtQzBGVHQ1Y1RmbXhJSWJGck1MeUgtRjZaOFF2dE9nVG9TM2ZCY3JzQ2tfUE13?oc=5",
-     "published": "2026-10-19T23:43:51.000Z"
     }
    ]
   }
