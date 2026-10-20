@@ -1,10 +1,28 @@
 {
- "updated": "2026-10-20T03:28:25.988Z",
+ "updated": "2026-10-20T04:28:46.061Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Trump uses antisemitic term ‘Shylock’ while defending Sen. Marshall’s lawsuits against his patients over medical bills",
+     "brief": "President Donald Trump used an antisemitic term as he​ defended Kansas Sen.",
+     "link": "https://www.cnn.com/2026/10/20/politics/trump-antisemitic-term-roger-marshalls-lawsuits",
+     "published": "2026-10-20T04:28:46.185Z"
+    },
+    {
+     "title": "She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout",
+     "brief": "Masha Moskalyova has spent a quarter of her life in jeopardy or on the run because of a picture she drew when she was just 12 years old.",
+     "link": "https://www.cnn.com/2026/10/20/europe/masha-moskalyova-drawing-case-russia-intl",
+     "published": "2026-10-20T04:26:46.220Z"
+    },
+    {
+     "title": "Trump calls on New Mexico to change its name to ‘New America’",
+     "brief": "President Donald Trump on Monday called on New Mexico to change its name to “New America” — the latest example of him seeking geographical name changes that fit his political agenda.",
+     "link": "https://www.cnn.com/2026/10/19/politics/trump-new-mexico-name-change",
+     "published": "2026-10-19T12:00:00.000Z"
+    },
     {
      "title": "Vance declines to endorse Netanyahu’s reelection bid, breaking with Trump",
      "brief": "Vice President JD Vance on Monday declined to say whether he endorses Benjamin Netanyahu for reelection, after President Donald Trump recently threw his support behind the Israeli prime minister.",
@@ -28,24 +46,6 @@
      "brief": "Mississippi’s attorney general says a Senatobia officer was justified in using force when he responded to a shoplifting call and fired at a moving vehicle that investigators said was driving toward police, killing a…",
      "link": "https://www.cnn.com/2026/10/19/us/mississippi-child-shot",
      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "Australian lawmaker Helen Haines in critical condition after being struck by car in ‘deliberate’ attack",
-     "brief": "An Australian lawmaker remains in hospital after being hit by a car in what appeared to be a targeted attack outside her electorate office in northern Victoria on Monday, alarming the country’s political ranks and…",
-     "link": "https://www.cnn.com/2026/10/19/australia/helen-haines-australian-mp-attack-wangaratta-intl",
-     "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "The Trump team’s disdain for judicial orders is blowing up in court. Accountability has been slow in coming",
-     "brief": "A federal judge raked President Donald Trump’s administration over the coals on Monday in a case involving his plans to renovate a public golf course in Washington, DC.",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-flouting-court-orders",
-     "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "Tensions flare at court hearing on Trump’s golf course renovation after president says construction will begin ‘immediately’",
-     "brief": "One of the tensest showdowns between the Trump administration and the federal bench in Washington, DC, came to a head on Monday in a marathon court hearing over the President Donald Trump’s efforts to overhaul a golf…",
-     "link": "https://www.cnn.com/2026/10/19/politics/trump-golf-course-renovation",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -54,10 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Indonesian stocks inch higher after authorities implement measures to stem selling",
+     "title": "Sea plans IPO for financial services arm Monee, memo says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkJ5VFM2NmlSWkw3RWxDYmpIbU10SlI1TkxleFBRMzVvQlhiVm82VWp2Z3REc1N5VkJlLWJma0d5bHJtN0NFMFZUSXZrcFlMQlRZNnpJT05SVzYyanIxN0cwNnY3RGhQNHZzZ25vV0VEdjJqZkRHN1VJbFZFdWlMOXVYOVNOR3h3YnktTkVxNTJGaS1qN3l4REUtT2dVdDZ5OWlOWFdIZ1U0M1Baa3FRVGRZSmtLcm1PZlhDMjlFV1lmYk5WY3k3Ymhuc2Q3TmFDTXRQZjMxVnQ0V0RuQnc?oc=5",
-     "published": "2026-10-20T02:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXAzeUZsM2drN0JKQThHMWJFVnpRYmNGdzRPTWxDOGFjcjc1dUIySWQ4c2lHSmFUTFQwYUFSaXhpWlRqWk9XOHZKUWoydE5PTWEwQWtnZy1YWVpBbkFmM19aT0s0bk9lbnFwZmV0S3U5T1V4WDVYcGk5VGRmYnpVVEJ1Xy1EbW5UOG56T0ZuQVk4S0hMc3c3YjU0OGhQZ0M2eVAyaVJOdlRVcWNMbVE?oc=5",
+     "published": "2026-10-20T04:19:00.000Z"
+    },
+    {
+     "title": "Other Sports: Madame Butterfly still spreading her wings at 78",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONk5sVVBqQm5OQlEyQjQ0RjhyVS1aNzR1SnBRTmRvNXMyN3F0cGV6dDdsX3pJWHdSZUgwR09aV05QMzJzNUQwMXhQMV9YZHVFZm1EVzEwY29YRDhwanduN0xVYk1lalp2YkNBRi1CMGxZVURleVNoZENWMUk1blpUWDhlT2VnOVE4clY4bFQwZlB6aGZWOGpMQ2k2YnN6cWJB?oc=5",
+     "published": "2026-10-20T03:16:49.000Z"
+    },
+    {
+     "title": "A structured, step-by-step plan to quit smoking or vaping",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc0lqZnhtN2Z4cEpJcVp1OXRtNGJWSjFzTzI3TlZKNnAzRkhnYU5hM1R5aUE3OEt1Qjd6MFRqcFNEVEdIQUZ5bDQ1azZmUnR0SGtQSEpTM1F6WTdDZ1duYWNQZWVCSDUwVzNFRlJnendUYTdneWdaVTJ1T0VvYUU3Q29rVnFLN3R5TWt1Y01COWlCMVhUVnczNlRoWkl3YnJNaDRWQjVmal9PeHIwNlNmUQ?oc=5",
+     "published": "2026-10-20T02:00:00.000Z"
     },
     {
      "title": "Haze: 29 areas with unhealthy API readings as of 8am",
@@ -66,16 +78,10 @@
      "published": "2026-10-20T01:00:00.000Z"
     },
     {
-     "title": "3M expands Amazon data center partnership, shares gain",
+     "title": "No commitment for public funding support for AirAsia, Parliament told",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa3B3dDZmWVBjaGFLZGZ5M2RxR00xTVZ5c0tnR1pSVzcwWTdBV0pXUmNDbk1DUUpBazJkMVlTVVFfLVQ4UjhYNTFDcjNVM1dtaU1pRGV5STdVWU1ZMWhKY0VzejFqVW1LNkhhVU15V3RVbnh5VWRmVEs0U3RzSllHVXhMTUpPNy1vVXRFaXVHcm1FeF93dE1rN3lRZUVvYnNfbEtlQkxzSzR6Zw?oc=5",
-     "published": "2026-10-20T00:14:00.000Z"
-    },
-    {
-     "title": "Former Google CEO Schmidt owns 1% stake in Anthropic, Bloomberg reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQUNidm1lWk10MFJGUnRCekY4VWotbjF3Qi1LZ3B4SGRxZFhHOVdzdEdjT1dJRl9YaXVuNUEyRkFOcWlxT0JMVUdvU3lFeUxwNmpGU1JMZTgxZ0dvY3VnaEVoTmxKY1Utb1BVNXZ3RWIzVlRGenZpbzY5NG1hR3pPcEh0SDc3TFE2R01mRlExamVvaHgwUjQtZUpsblc4aEljTFVvRFJydUhQckJkWmNwRldLWXg5MHJxUTNBblpoUQ?oc=5",
-     "published": "2026-10-20T00:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3RhUUQ0YTRBZndaRm04Zy1LdnZ2VmswSEF3ZldhU3ZmSU0yU192Rk1tR1hwRlNncTFWNW1jYXp1RHlVT0JjMGJRN2lJQVRUTVFfNk5uWUlqYTBnRGhBM1BSYnBfenpyUkV3LTVRbkNiTzJ5SDVZeklidmtnMlJZV0N6a3JqcXVSQU1kS0cyMV9GS3JoRjlxeDd0RENfYU9KUjBGRUxVcnNWT21iNHNuOHlBTC1nV3NKbWc?oc=5",
+     "published": "2026-10-20T00:17:00.000Z"
     },
     {
      "title": "Nine Emperor Gods Festival wows China tourists",
@@ -94,12 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGFGaDU3Rkl6cTdBZHpzcDAyOUZKOW9Ec2t2ZjJoemlLR1k0ZEVIODV2a3E2eTR6UE5xNjZ3ZEU0RU1MVk1zeGpmTWxLRWZxZ1VYOXVoT0xNSmJ2WjlyalhfOGZYd1hrUGh1WjZHQ195WXUyTVB2SDU5SlZUWHh0X1RONG9lTEJFaHVIS2RtQzBGVHQ1Y1RmbXhJSWJGck1MeUgtRjZaOFF2dE9nVG9TM2ZCY3JzQ2tfUE13?oc=5",
      "published": "2026-10-19T23:43:51.000Z"
-    },
-    {
-     "title": "Other Sports: Explosive start",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MLVk4NDdpdkZrclJKZE54ZERja25SVDMycFJzY1Bub1g5NTllN3pDRjUzVnZ5ZVB1X1cteHhMZTVxeXBqU1lrelVWbjFzcmFEVVBaaEZWelUzdzN2YjdlTzZBTGlld252bnVGU2lvb1JpazVy?oc=5",
-     "published": "2026-10-19T23:36:30.000Z"
     }
    ]
   }
