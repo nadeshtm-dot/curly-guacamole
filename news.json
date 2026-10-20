@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-20T22:27:28.447Z",
+ "updated": "2026-10-20T23:24:35.356Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Jane Doe said she felt ‘unsupported and disbelieved’ by Cornell president in letter sent to faculty leaders",
+     "brief": "A woman who sued Cornell University last month over an alleged gang rape at a fraternity house in 2024 said she felt “unsupported and disbelieved” by Cornell President Michael Kotlikoff shortly after she reported her…",
+     "link": "https://www.cnn.com/2026/10/20/us/cornell-jane-doe-letter-president",
+     "published": "2026-10-20T23:24:35.585Z"
+    },
+    {
      "title": "Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother",
      "brief": "The Ohio governor’s race is being roiled by a new video in which the estranged mother of the Democratic nominee, Amy Acton, urges people not to vote for her.",
      "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
-     "published": "2026-10-20T22:27:28.613Z"
+     "published": "2026-10-20T23:23:35.644Z"
     },
     {
      "title": "SpaceX and Tesla have formed committees to discuss potential merger, Musk says",
      "brief": "Elon Musk, the CEO of both SpaceX and Tesla, voiced support for merging the two companies during an earnings call Tuesday, though he said it is ultimately up to special shareholder committees from each company.",
      "link": "https://www.cnn.com/2026/10/20/business/spacex-tesla-merger-musk",
-     "published": "2026-10-20T22:26:28.657Z"
+     "published": "2026-10-20T23:22:35.631Z"
     },
     {
      "title": "Fears of a post-midterms Trump rampage spur ‘brutal’ internal jockeying",
      "brief": "President Donald Trump still has two weeks to salvage his Republican congressional majorities and defy expectations of a midterm wipeout .",
      "link": "https://www.cnn.com/2026/10/20/politics/trump-white-house-midterms-blame",
-     "published": "2026-10-20T22:25:28.790Z"
+     "published": "2026-10-20T23:21:35.653Z"
     },
     {
      "title": "Drone strike on a market in disputed African region of Abyei kills at least 153",
      "brief": "A drone strike on a market in Abyei, a border region disputed by Sudan and South Sudan, hit a nearby fuel depot, killing at least 153 people and igniting a fire that was still burning Tuesday, a local official said.",
      "link": "https://www.cnn.com/2026/10/20/africa/drone-strike-abeyi-south-sudan-latam-intl",
-     "published": "2026-10-20T22:24:28.629Z"
+     "published": "2026-10-20T23:20:35.660Z"
     },
     {
      "title": "Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses",
      "brief": "As Kansans were waiting for President Donald Trump to arrive at his rally in Wichita this week, they were treated to a new addition to the pre-show program: footage of this weekend’s violent protests in France, most…",
      "link": "https://www.cnn.com/2026/10/20/politics/trump-france-rioting-midterms",
-     "published": "2026-10-20T22:23:28.634Z"
+     "published": "2026-10-20T23:19:35.669Z"
     },
     {
      "title": "The big questions about who’s to blame for Starshield disruptions in Ukraine",
      "brief": "So, who slowed down a crucial satellite communications system used by Ukraine, making the country more vulnerable to Russian attacks in recent days?",
      "link": "https://www.cnn.com/2026/10/20/politics/starshield-ukraine-elon-musk",
-     "published": "2026-10-20T22:21:28.792Z"
-    },
-    {
-     "title": "Vivek Ramaswamy gets a political education in a grueling Ohio governor’s race",
-     "brief": "Holding a town hall Saturday in the second least populous county in Ohio, Vivek Ramaswamy seemed further than ever from the presidential campaign trail where he made his political debut three years ago.",
-     "link": "https://www.cnn.com/2026/10/20/politics/vivek-ramaswamy-ohio-governor-midterms",
-     "published": "2026-10-20T22:20:28.643Z"
+     "published": "2026-10-20T23:17:35.804Z"
     },
     {
      "title": "France promises ‘massive’ police presence this weekend as cities impose more curfews after protest violence",
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Athletics: Abdul Latif leaps into history with fabulous four-peat",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVZtME01akFRelQxUU9MazBjWFprVjU0aG8zSE9UOURuWklxdkVLb0tSYU11NFRuTjRGa182bVRzSG5sYno1cldPSkFycUNQYy1LTERKTnJTb1VmTzVqcGJKSmI4R0toQVpPT0ltNloxeXgwYmJtcjRwakgxVVF0T2hiS25yTFNRUERNSkJ4UV81RW93SnZmLVJVT2g5N0ZGNzY2bEJRcmJldWds?oc=5",
+     "published": "2026-10-20T23:04:10.000Z"
+    },
+    {
+     "title": "Netflix Q3 net profit rises nearly 44 pct",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZDJhc203RnYxZkhvR2ppR0ZTSEpzNlFTa3Y3clk1UnVKb3lBNktvNlFxT2ptWUQ3M0ZYeUp2SDF5bm9jYVg3eFFMUHhJTVJTRURjRUpjUFZKLWFraFFSUkljNkNiaFpVUnpuRXREcnVybmpYOERQRE5QYjdQcTYxTFIzTWIzY29GYVJHM3lvcmpMUWpu?oc=5",
+     "published": "2026-10-20T22:43:00.000Z"
+    },
     {
      "title": "Football: Soccer-PSG sink Barcelona in six-goal thriller, Liverpool and Man City win",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcldCaDBMLTQ5c3YxQjRINnR3YTJYSkVaVmRVaVMta1J3QlJOUWlIZ09JY3VRUkw4SFBtWHlkRW5xZEZwOFZCM1dYN0V5WVpscW9EcUtNN1NXWk9yYVl6Z1NwT2c0S0xEWGdLajVBVE44VEgtZjhJdXdNM0R6STdwVFdFeHdvb0lmanJrd1EyYjlBWHlPYkY2cWhaaEpTNG5sWFYzdWRBdE8?oc=5",
      "published": "2026-10-20T18:52:00.000Z"
-    },
-    {
-     "title": "Amazon unveils 16-bln-euro 2027 investment plan in Germany",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbnFYVEcxNFRjWnV4RnF3M0haLS0tdmV1QmREOGpGYW1qeWx2MFBJdmp1bUpKRFFiT0NsdzBFM1N4cUZHSU9GeDRNNGx3blpZcGVrRjlBbTdtQlVLZXJsZmI5blh0X0Z3Y1pFM3hBTVpkZVJid1FDa2RHcnN1X1VwcS1sV0piemhSNE1NYzJ6dFN0eXFrd3JBS2pKbDNiNndldjE1NXJzdFV3Mzg?oc=5",
-     "published": "2026-10-20T18:35:00.000Z"
-    },
-    {
-     "title": "Urgent: Nigerian government confirms first Ebola case in capital",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkZ1eFZfR0ZGMjdWWng2QU00R1JkRmFRajhOSXZBWGxTR29tb0t1UzEzZ1BPYVpoYVBzelZITnpTTXNLTk1iSXpVTV9wbHVJSEVReXlHN1ZlX0ljSlVzMDJmd3ZMOHNqeWhHeF9oMlREREdsYUZsN19mWmJ2SWstaGxwSThOekhFUkoxOENVbWFJbU1VNkdkRmlJV0xNSEZhRVgxSHBrOWlOMG1qV1BaeUxn?oc=5",
-     "published": "2026-10-20T17:50:00.000Z"
     }
    ]
   }
