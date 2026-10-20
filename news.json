@@ -1,21 +1,33 @@
 {
- "updated": "2026-10-20T05:28:48.626Z",
+ "updated": "2026-10-20T06:34:03.916Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Alberta rejects secession referendum, chooses to remain part of Canada, CBC projects",
+     "brief": "The oil-rich province of Alberta has rejected the pathway to secession and will remain part of Canada, public broadcaster and CNN newsgathering partner CBC News projected Monday.",
+     "link": "https://www.cnn.com/2026/10/20/americas/alberta-rejects-independence-referendum-canada-intl-hnk",
+     "published": "2026-10-20T06:33:04.415Z"
+    },
+    {
      "title": "Trump uses antisemitic term ‘Shylock’ while defending Sen. Marshall’s lawsuits against his patients over medical bills",
      "brief": "President Donald Trump used an antisemitic term as he​ defended Kansas Sen.",
      "link": "https://www.cnn.com/2026/10/20/politics/trump-antisemitic-term-roger-marshalls-lawsuits",
-     "published": "2026-10-20T05:27:48.801Z"
+     "published": "2026-10-20T06:31:04.331Z"
     },
     {
      "title": "She made an anti-war drawing as a child in Russia. Four years on, she’s still living with the fallout",
      "brief": "Masha Moskalyova has spent a quarter of her life in jeopardy or on the run because of a picture she drew when she was just 12 years old.",
      "link": "https://www.cnn.com/2026/10/20/europe/masha-moskalyova-drawing-case-russia-intl",
-     "published": "2026-10-20T05:25:48.797Z"
+     "published": "2026-10-20T06:29:04.305Z"
+    },
+    {
+     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
+     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
+     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
+     "published": "2026-10-19T12:00:00.000Z"
     },
     {
      "title": "Tensions flare at court hearing on Trump’s golf course renovation after president says construction will begin ‘immediately’",
@@ -40,12 +52,6 @@
      "brief": "A former Long Beach city employee was injured during an incident involving Immigration and Customs Enforcement on Saturday, officials said, with an unmarked SUV driving the wrong way down a one-way street before the…",
      "link": "https://www.cnn.com/2026/10/19/us/long-beach-california-ice-incident-hnk",
      "published": "2026-10-19T12:00:00.000Z"
-    },
-    {
-     "title": "Several French cities impose curfews after weekend of chaos and protests spreading to parts of Europe",
-     "brief": "French officials are imposing localized curfews — including in parts of Paris — as the country reels from its worst rioting in years.",
-     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -54,10 +60,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "ABB says data centre business booming, Q3 figures in line with forecasts",
+     "title": "Drone strike in disputed sudan-south sudan area kills dozens, minister says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVmNhQXEyZ1laR0p2OGZTT2xSNkFjbE1LWjM2MldFdk5xeDRpazBXMFRNSDNxOWl3UHhFbjN5NjhsSG1laEEyU3pIaGZBUzRUT0FoTURlOEEtRUsyTlhtUy1qZWVKR0Q5d0JZTkJFYy1vUjFvSElWNzVULXNsNWxzeEtCalA4RUZvWjVJVF84QWVVcVlCNlN6dTFxeXN1NlRIZG1Zbl9ndjZaSnZ0UTRxNHEtdDEzRmFUZFkwZWFqZERQUQ?oc=5",
-     "published": "2026-10-20T05:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcHhRT2NsOGpVU1JXaGtzSUtXc0NHbXhoa3h2LTVaYXJMaWt3bV9uWTFYd1hVRi1OWUY2Nm8tZTBpam1TVGJFZlJqdEQ3a1N3c2xNZWRfaHNHVVg5TWhLMHBlMk81bS1pREZFYXVSdWV4amVSekloODRjZlFuekRMVnljVFJhWmQ5SERjQnFtUURHUFNfRDYzWDNEMTRfdVBEN0xSY2FZUXVsdHdmOHYyWjZETmdWdjhoV2s0Mlg1OTk?oc=5",
+     "published": "2026-10-20T05:52:00.000Z"
     },
     {
      "title": "Boxing: Boxing-Promoter challenges decision in WBA lightweight title bout over 'officiating errors'",
@@ -66,10 +72,22 @@
      "published": "2026-10-20T04:54:00.000Z"
     },
     {
-     "title": "Sea plans IPO for financial services arm Monee, memo says",
+     "title": "Lee Zii Jia and family settle financial, management dispute at KL court",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaXAzeUZsM2drN0JKQThHMWJFVnpRYmNGdzRPTWxDOGFjcjc1dUIySWQ4c2lHSmFUTFQwYUFSaXhpWlRqWk9XOHZKUWoydE5PTWEwQWtnZy1YWVpBbkFmM19aT0s0bk9lbnFwZmV0S3U5T1V4WDVYcGk5VGRmYnpVVEJ1Xy1EbW5UOG56T0ZuQVk4S0hMc3c3YjU0OGhQZ0M2eVAyaVJOdlRVcWNMbVE?oc=5",
-     "published": "2026-10-20T04:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzNmWTY3QlQzdm1yQzgzcXRaUm9lUF94TjJKVURFZXZRczBzUlJHU1doYjA4dWRyX2U2MGJYZ1BLRlZiWkpJNWlhTEgtWjBXUDNOLU9oUmVrRG5YQ2NLZG13bm9meHFlZ1hsd21rdHpSYXFRMWlmUmFfdVlUYkhlRVZ5Qy1BSjI1cEtmNUx2Wm1UbTdnYVpEaFZPVXktU2Q4eWp3amJOTWUtR19fbndTLTFVRzQzMWVoYXIyTg?oc=5",
+     "published": "2026-10-20T04:41:00.000Z"
+    },
+    {
+     "title": "Cricket-Coach of England's test team should be English, says New Zealander Fleming",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeUN2QTRBQlY3Y0M1U091MWRZOVFvYk5Bc0VtMGlkRW9tN1oyWWY5c2hldkxNN0FBUGZPTWJWbGZ1YWE1eTdXdl9CWF9HbkkwbnpWdzVLMUtINjdvc0dNa0VXUXVvUDlkeXozRldHR3d4cDB4VFpodkNLQjZqNkxaeFliMjlTSWZtaVFQZUVKWjBYbFdrMXpaYm1FNEUtNWFwSVA0QU5rTFJJTnYwWEJCZnJPWjN5bldnZnFLOVJ4WXZGbXVDeGU2dXoxUm43LXBv?oc=5",
+     "published": "2026-10-20T04:40:00.000Z"
+    },
+    {
+     "title": "Badminton: Injury misery continues for Arif",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdXNnREd2YkY1ZVJqel9vTjRwTkx0azFWU2FJTV9qOWtRNlA5VWxIYlZqVjRsXzdhWm1BUV9hcUJ5NDZEd3N0NHVqdnlpTnlsQ1RtNGt4UUN3WmpuSnJ1aUxHbXRJRDRSOWNIV0F5Qm1HTEJsTFVlUXBQSERiZlgxSVJpYXphWjdKck9lUVZJdw?oc=5",
+     "published": "2026-10-20T03:42:00.000Z"
     },
     {
      "title": "Other Sports: Madame Butterfly still spreading her wings at 78",
@@ -84,28 +102,16 @@
      "published": "2026-10-20T03:00:00.000Z"
     },
     {
-     "title": "Indonesian stocks inch higher after authorities implement measures to stem selling",
+     "title": "PN has been deregistered, says ROS",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObkJ5VFM2NmlSWkw3RWxDYmpIbU10SlI1TkxleFBRMzVvQlhiVm82VWp2Z3REc1N5VkJlLWJma0d5bHJtN0NFMFZUSXZrcFlMQlRZNnpJT05SVzYyanIxN0cwNnY3RGhQNHZzZ25vV0VEdjJqZkRHN1VJbFZFdWlMOXVYOVNOR3h3YnktTkVxNTJGaS1qN3l4REUtT2dVdDZ5OWlOWFdIZ1U0M1Baa3FRVGRZSmtLcm1PZlhDMjlFV1lmYk5WY3k3Ymhuc2Q3TmFDTXRQZjMxVnQ0V0RuQnc?oc=5",
-     "published": "2026-10-20T02:51:00.000Z"
-    },
-    {
-     "title": "Haze: 29 areas with unhealthy API readings as of 8am",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdXZrSUxGaDQzM3FuOHpDNEpSNXRIWHAyUDBnYVc2bGI0WkhTcVR2eGcxd3BocVNfYnJNM2xkRWpSdVNIQ3l2cm95bEFfR1VobDdQelF2Z3lNT09ZOTdTMmxnRzBJOUhyTEtlemhKV2FnRThfR1BiTGpBc3JCWnRZdVBLNElGMk1hYXpTeEtBUEQxbS02dkxnWWZXR0tMa2dzNVQ0?oc=5",
-     "published": "2026-10-20T01:00:00.000Z"
-    },
-    {
-     "title": "No commitment for public funding support for AirAsia, Parliament told",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNc3RhUUQ0YTRBZndaRm04Zy1LdnZ2VmswSEF3ZldhU3ZmSU0yU192Rk1tR1hwRlNncTFWNW1jYXp1RHlVT0JjMGJRN2lJQVRUTVFfNk5uWUlqYTBnRGhBM1BSYnBfenpyUkV3LTVRbkNiTzJ5SDVZeklidmtnMlJZV0N6a3JqcXVSQU1kS0cyMV9GS3JoRjlxeDd0RENfYU9KUjBGRUxVcnNWT21iNHNuOHlBTC1nV3NKbWc?oc=5",
-     "published": "2026-10-20T00:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZG5MQkRvZUJpY1JRc0FlYVRwbFZLQWJ5YXdJWXlDNGotLXdUaE5HakVxa1dBTzNBTzdDN1BMckYtcFFweklWSVNJVktIV0pLTjdQa25Ec2xsb0x5VVFQSURnWm1QVW4wLWZfV1FvTWoyUG13SmxudklHLTZpZDJ3U2J0a1JxU3FyTXU4?oc=5",
+     "published": "2026-10-20T01:38:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
