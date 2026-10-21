@@ -1,10 +1,28 @@
 {
- "updated": "2026-10-21T02:28:50.476Z",
+ "updated": "2026-10-21T03:29:23.571Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Memphis leaders reject contentious 18-month pause on new data center development",
+     "brief": "Memphis leaders rejected a contentious 18-month pause on new data center development in the city Tuesday, just two weeks after a meeting on the issue led to protests, calls to police and a fist fight at City Hall.",
+     "link": "https://www.cnn.com/2026/10/20/us/memphis-council-data-center-vote",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
+    {
+     "title": "At the negotiating table and on the battlefield, Russia and Ukraine are at an impasse",
+     "brief": "It’s like two theatrical performances unfolding side by side, before an audience of one.",
+     "link": "https://www.cnn.com/2026/10/20/europe/kyiv-under-pressure-as-trump-and-putin-cozy-up-analysis",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
+    {
+     "title": "NFL defends Eagles medical staff after Jalen Hurts played in London game with blood clot",
+     "brief": "The NFL on Tuesday publicly and unequivocally defended how the Philadelphia Eagles managed the health of star quarterback Jalen Hurts after ultrasounds revealed blood clots had traveled to his lungs.",
+     "link": "https://www.cnn.com/2026/10/20/sport/jalen-hurts-nfl-eagles",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
     {
      "title": "Supreme Court’s conservatives have let down democracy, Justice Kagan says",
      "brief": "Two weeks before the midterm elections, liberal Justice Elena Kagan bluntly sized up the Supreme Court handling of election and voting-related cases, saying, “The court has kind of blinded itself to the very…",
@@ -28,18 +46,6 @@
      "brief": "The campaign of Ohio Republican governor nominee Vivek Ramaswamy is launching a $4 million ad campaign featuring a controversial, viral video of his Democratic opponent’s estranged mom telling voters to reject her.",
      "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
      "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "Democrats fear slippage with Black voters makes Michigan Senate race feel ‘far closer than it should’",
-     "brief": "Abdul El-Sayed often talks about building a new and broad coalition of Michigan voters.",
-     "link": "https://www.cnn.com/2026/10/20/politics/black-voters-michigan-senate-race-el-sayed-rogers",
-     "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "Jane Doe said she felt ‘unsupported and disbelieved’ by Cornell president in letter sent to faculty leaders",
-     "brief": "A woman who sued Cornell University last month over an alleged gang rape at a fraternity house in 2024 said she felt “unsupported and disbelieved” by Cornell President Michael Kotlikoff shortly after she reported her…",
-     "link": "https://www.cnn.com/2026/10/20/us/cornell-jane-doe-letter-president",
-     "published": "2026-10-20T12:00:00.000Z"
     }
    ]
   },
@@ -48,10 +54,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "A 5.0-magnitude quake hits south-west of Sumatra",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkxCQWVhdTBsX2Q1WmlmaHJ0Z1NyUHJOUnBPcEgyZzhSZS1NbEg1eGZldW5FZDIzOWpvUmh2OGZwVWFDeG5LWFVsZHNvU0p2b253RGRVUEhjUUFhU0NDYy1IZnVPejRrLWFwdnJxRFRPbk5wdUVBcHFoZnJtRE4xSlF2RXRTcHhOeWhjNXFLTU82NGRQYVFUeGt3Vnd4Zlo2bVJRdGoxVHFMT2FuMWc?oc=5",
+     "published": "2026-10-21T03:13:00.000Z"
+    },
+    {
      "title": "Enact stiffer penalties to deter railway cable thieves",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xeVMxbE1hZUJBVGE3cG1lTjluTHlBRnMySzZxN1JBTEFZbEYyTjZuVGZLTDlVTHBIZU92Z3NKWlB1YjFiakswSVlYXzhRc0tPY2UtTkJiVjRsUVpuWmp6WnJGellSdDVZMEctYW5GQ3JHamp1c19PbTRDZjdIaXlIREFHN1BHdU5XWTBLZU9ZcFlmUUlzSnlESXVXb0NIeUY4aUhXbGNidUV2?oc=5",
      "published": "2026-10-21T01:55:41.000Z"
+    },
+    {
+     "title": "NWEBHD (0478), NWE RESOURCES GROUP BERHAD - Market Watch",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tVi01UzhKa2ZYN3Z1S25PY2txakxVZVB3RUVvc0VmWG40RmNFUzg2SXJuc2FaV1I0Y0lfZWg1R0NZUDRXU3VQQURXcGpLOTNkZ3B6MDJ3RVRCZkU5LU5weWlBMkxmZ3BWLS1MUWh5SkNuTllMcHdmVzJn?oc=5",
+     "published": "2026-10-21T01:50:20.000Z"
+    },
+    {
+     "title": "Lutnick announces investment to boost semiconductor production in North Carolina",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUhUNFNvZENaSlhyaktRVkJBUmtrbThNT0IzUnZSbjRoN0xGRzItNTVHMk5weDBNZmV2MXV1N2dyZmRwZ2tna2ZpcUlPS1BqZ2xsQ01aRmhGdWJKYmVBR0g3WjNhRzF0QWhwSjZNN1lQakNEd1RHTkoyS3BxWnZ5WnRuWHRXdFYySTRIRDVDN0F5N0NySVFUanN1Y0ZaVzh3V04xVXJ1WUdaWGpJRzQwZjlHVGRaR1hvS0x0RUpmR3V5dThIQWpvaDZHN243UQ?oc=5",
+     "published": "2026-10-21T01:31:00.000Z"
+    },
+    {
+     "title": "Use AI to eliminate human fatigue and bias",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnJkTnYtWDZtQ29rOFI2TjVtLVA4ZGJvRlNscVJZem5jb1FyVXVNemZ1Ni1RSTRGWVNDOFhTUlloM1daTEJvVEFueEJsMzBYWWtUZldRNWp6aHd3enM5VzFxYUpxZXNMZTF1M0Vid1FLM1RMSER1TTV6dnJmQzdzMzdMZ0Q1WG1BaEVSRDdpS1luVHZWdS1tLVNTTGU?oc=5",
+     "published": "2026-10-21T00:27:18.000Z"
     },
     {
      "title": "Underwear thief sentenced to jail",
@@ -70,36 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRYdWtBNGxSYXU5OWsxUTVpM0l4U2FlZGZJbmhtYTl4SHU1V1JYd2d1ako2NDdTTnNXV3JvOEhrZzZlTFp3S1dzZnF1N3FaX1gxRGhkdmltcXBZdGNCMXVPTzFmcVJJWDJuWGozYW03T0c5d1Nnb0FmeUxRTW5wQWpVdVZzT29UVDdn?oc=5",
      "published": "2026-10-21T00:02:50.000Z"
-    },
-    {
-     "title": "Musk says SpaceX-Tesla merger is 'a good idea' as companies form deal committees",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPalJYVm1ZRGJDNG1SRF8tM0JhYmVqdm5JWmJaVk1FLUVGTlNXUVRNNU83WGM3SE5VNkN2ZlFPelAzVUVCWFdqc29sRHhnaG1IOGFzell2WDZyZUI2T1ltQW11eFRvWUtGSXdscFF6MUhseXJ3OTJVdzZoQ2txSFI4TUtNbkJHN0dwWVZuVUl3aXZOa2U2WlFWTXd1b1dwNmt3Um5HTWJMNWJkcC0yenUtZnZLZy1Jd0hFVUhTbEJ3?oc=5",
-     "published": "2026-10-21T00:01:00.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnZUF1MUFYVURlQ0p5SnJpWV84emptUUNEc0Z2S2V4UTY0YjdEM1JILWthUDYzMjNWWEt1THV4d2d2QXA1d3VTWTVGb05YMlgyb0lERXZ5WWp2eERNVEM1Z0U4aw?oc=5",
-     "published": "2026-10-20T23:52:27.000Z"
-    },
-    {
-     "title": "Fight against corporate crime hinges on political will, says PM",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmV6OWhUZ2t2QUlzak5EVjVuRUJPQTRycEVnYVhMSXU3eWx1YmhSWmR3Z1BIZXljdGhxZkdzS3dIZUxKbTdDTzJrbnhsdWN2anRqQlYwZDRwY2VIMURUUklaU0ZKczYydXBPMU0yY0NQa01MQkJ5cjRUNTQtVUVQSDlhNmdZMEdMaWg1VzlEUE4wQ0xlcFVXcUZaNjcwQlhxeHhKM2p4T0p2M0preW5XRVBB?oc=5",
-     "published": "2026-10-20T23:52:15.000Z"
-    },
-    {
-     "title": "Fiscal policy must do more for physical activity",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjlyU0oteTFCVG9PcnVHT3BTdEpScUt1N0QtN1BDbE5DODZsS2R4NWZhUFF5QkNJeW9nNWc0TW9jUHpfUkRxT1ZuM0daSVIyS0lLMHJtX29wU3ppUFdrVU5fcTV1MFk0OUtzMXg2aEFadTJxZC05R3JRMC11eXRIcXk0WEZiNGI3RzkxYjdVWGEyVDNEeVJzbmlueDFjTWZjX3ZtRg?oc=5",
-     "published": "2026-10-20T23:50:36.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
