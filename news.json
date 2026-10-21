@@ -1,10 +1,22 @@
 {
- "updated": "2026-10-21T00:35:10.561Z",
+ "updated": "2026-10-21T01:34:09.952Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Vivek Ramaswamy launches $4 million ad campaign of controversial video featuring Amy Acton’s estranged mother",
+     "brief": "The campaign of Ohio Republican governor nominee Vivek Ramaswamy is launching a $4 million ad campaign featuring a controversial, viral video of his Democratic opponent’s estranged mom telling voters to reject her.",
+     "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
+    {
+     "title": "Democrats fear slippage with Black voters makes Michigan Senate race feel ‘far closer than it should’",
+     "brief": "Abdul El-Sayed often talks about building a new and broad coalition of Michigan voters.",
+     "link": "https://www.cnn.com/2026/10/20/politics/black-voters-michigan-senate-race-el-sayed-rogers",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
     {
      "title": "Jane Doe said she felt ‘unsupported and disbelieved’ by Cornell president in letter sent to faculty leaders",
      "brief": "A woman who sued Cornell University last month over an alleged gang rape at a fraternity house in 2024 said she felt “unsupported and disbelieved” by Cornell President Michael Kotlikoff shortly after she reported her…",
@@ -15,12 +27,6 @@
      "title": "Guatemalan man sentenced to 30 years for smuggling tragedy that killed 53 people in Texas",
      "brief": "A federal judge on Tuesday sentenced a Guatemalan man extradited to the US over his role in a 2022 human smuggling attempt that ended in the deaths of 53 migrants who had been transported in a sweltering…",
      "link": "https://www.cnn.com/2026/10/20/us/guatemalan-smuggler-sentenced",
-     "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "Ohio governor’s race roiled by new viral video featuring Amy Acton’s estranged mother",
-     "brief": "The Ohio governor’s race is being roiled by a new video in which the estranged mother of the Democratic nominee, Amy Acton, urges people not to vote for her.",
-     "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
      "published": "2026-10-20T12:00:00.000Z"
     },
     {
@@ -40,18 +46,6 @@
      "brief": "A drone strike on a market in Abyei, a border region disputed by Sudan and South Sudan, hit a nearby fuel depot, killing at least 153 people and igniting a fire that was still burning Tuesday, a local official said.",
      "link": "https://www.cnn.com/2026/10/20/africa/drone-strike-abeyi-south-sudan-latam-intl",
      "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "Rioting in France gives Trump a new talking point as he tries to stave off GOP midterm losses",
-     "brief": "As Kansans were waiting for President Donald Trump to arrive at his rally in Wichita this week, they were treated to a new addition to the pre-show program: footage of this weekend’s violent protests in France, most…",
-     "link": "https://www.cnn.com/2026/10/20/politics/trump-france-rioting-midterms",
-     "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "France promises ‘massive’ police presence this weekend as cities impose more curfews after protest violence",
-     "brief": "French authorities promised a “massive” police presence for planned protests on Saturday and imposed localized curfews for a second consecutive night as the country grapples with the fallout from its worst rioting in…",
-     "link": "https://www.cnn.com/2026/10/19/europe/france-protests-violence-wwk-intl-hnk",
-     "published": "2026-10-19T12:00:00.000Z"
     }
    ]
   },
@@ -59,12 +53,6 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
-    {
-     "title": "Enact stiffer penalties to deter railway cable thieves",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xeVMxbE1hZUJBVGE3cG1lTjluTHlBRnMySzZxN1JBTEFZbEYyTjZuVGZLTDlVTHBIZU92Z3NKWlB1YjFiakswSVlYXzhRc0tPY2UtTkJiVjRsUVpuWmp6WnJGellSdDVZMEctYW5GQ3JHamp1c19PbTRDZjdIaXlIREFHN1BHdU5XWTBLZU9ZcFlmUUlzSnlESXVXb0NIeUY4aUhXbGNidUV2?oc=5",
-     "published": "2026-10-21T00:24:48.000Z"
-    },
     {
      "title": "No MyKad, so man uses MyKid to apply for work",
      "brief": "",
@@ -78,15 +66,21 @@
      "published": "2026-10-21T00:02:50.000Z"
     },
     {
+     "title": "Fight against corporate crime hinges on political will, says PM",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZmV6OWhUZ2t2QUlzak5EVjVuRUJPQTRycEVnYVhMSXU3eWx1YmhSWmR3Z1BIZXljdGhxZkdzS3dIZUxKbTdDTzJrbnhsdWN2anRqQlYwZDRwY2VIMURUUklaU0ZKczYydXBPMU0yY0NQa01MQkJ5cjRUNTQtVUVQSDlhNmdZMEdMaWg1VzlEUE4wQ0xlcFVXcUZaNjcwQlhxeHhKM2p4T0p2M0preW5XRVBB?oc=5",
+     "published": "2026-10-20T23:52:15.000Z"
+    },
+    {
      "title": "Fiscal policy must do more for physical activity",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRjlyU0oteTFCVG9PcnVHT3BTdEpScUt1N0QtN1BDbE5DODZsS2R4NWZhUFF5QkNJeW9nNWc0TW9jUHpfUkRxT1ZuM0daSVIyS0lLMHJtX29wU3ppUFdrVU5fcTV1MFk0OUtzMXg2aEFadTJxZC05R3JRMC11eXRIcXk0WEZiNGI3RzkxYjdVWGEyVDNEeVJzbmlueDFjTWZjX3ZtRg?oc=5",
      "published": "2026-10-20T23:50:36.000Z"
     },
     {
-     "title": "Student wins DBP essay competition",
+     "title": "Fazura not missing her Que for love",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRGpFUHRpNk9aUVhZYTI5T2lRaU82S0lQcEprYlNuczFVLXVtZnk3X09MSWpicDR4Snh5ZUU4OU9rVVQwNFpERjdvek4tWnRhYWtSSERpWFplOEZSNUZYMWltV1UycUo2YXI0Ykx3LXdoYlVidEF5WDNZek1PWnhZbHFCYVRFckNKQ185bg?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTRsZWhLNFpWQkRqbWVORWFzOWFYUzRkM0JSMDdleEI5MnVTNGJkNHdvcktFRXpsUE5idVhNWVNCWGZFQzUzaDEwY3c0aDZhaUowYzdwWVdCZ2xaNDhUR2ZKMF9GN1VaY25SZktNSWp6XzhpMHE3WW0yWUdWYUVENU9GZmtHS05BMTk2LWtn?oc=5",
      "published": "2026-10-20T23:47:15.000Z"
     },
     {
@@ -96,22 +90,22 @@
      "published": "2026-10-20T23:44:18.000Z"
     },
     {
+     "title": "Authors",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XbnV1aFlIX3A0WlJnUlJVMVRUajBRR2UwMjhvNHNWaTFaWVpjTnpSRWZVNmxZOFdHNFZScFFLVXNTcjV4cXB3RUlOSVNUSlF0cXhmczg5aTl5Yi1qenUwWQ?oc=5",
+     "published": "2026-10-20T23:16:37.000Z"
+    },
+    {
      "title": "Athletics: Abdul Latif leaps into history with fabulous four-peat",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRVZtME01akFRelQxUU9MazBjWFprVjU0aG8zSE9UOURuWklxdkVLb0tSYU11NFRuTjRGa182bVRzSG5sYno1cldPSkFycUNQYy1LTERKTnJTb1VmTzVqcGJKSmI4R0toQVpPT0ltNloxeXgwYmJtcjRwakgxVVF0T2hiS25yTFNRUERNSkJ4UV81RW93SnZmLVJVT2g5N0ZGNzY2bEJRcmJldWds?oc=5",
-     "published": "2026-10-20T23:04:10.000Z"
-    },
-    {
-     "title": "Cycling: Yusof rides to second medal as cyclists add two silvers and a bronze",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUVHM2xJYVpDQmVjbVpWeHBuaGx4eDN5a25STmExQmZTWWRQeHNqZUsxb1lLX2FacVktUjBnT00tNkoyNzN3a3dOVF9heEVJNVd6OTNxbTVPUjAtTHlXN1lqNDh4MFoydUpVdHBjc3VIYXVGVGUyMWpYaUlNT0l5bmR2ajNzcmxnZ2NSc05GZXJfdzl5ZVdnSmlMWXU5MWJONDlxWjByZGdFTTFIclJVUmRXcUdLM2VndmVmNQ?oc=5",
-     "published": "2026-10-20T23:04:05.000Z"
+     "published": "2026-10-20T23:05:51.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
