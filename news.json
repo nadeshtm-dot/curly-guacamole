@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-21T11:30:14.972Z",
+ "updated": "2026-10-21T12:35:53.534Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
+     "brief": "US special envoy Steve Witkoff held talks on Wednesday with Russian President Vladimir Putin aimed at advancing proposals to end to the war in Ukraine and create a pathway to broader negotiations .",
+     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
+     "published": "2026-10-21T12:34:53.827Z"
+    },
+    {
+     "title": "The iPhone Duo is Apple’s coolest phone in years. There’s just one problem",
+     "brief": "There were many times I didn’t want to put the iPhone Duo down.",
+     "link": "https://www.cnn.com/2026/10/21/tech/apple-iphone-duo-review",
+     "published": "2026-10-21T12:33:53.820Z"
+    },
+    {
+     "title": "North Korea tells border troops to take ‘resolute action’ if South threatens their safety",
+     "brief": "North Korea has told its border troops to take “prompt ​and resolute action” if South Korean forces threaten their safety, state media ​said on Wednesday, raising the risk of a clash along the ⁠heavily armed frontier.",
+     "link": "https://www.cnn.com/2026/10/21/asia/north-korea-tension-south-korea-troops-intl",
+     "published": "2026-10-21T12:32:53.816Z"
+    },
+    {
      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
      "brief": "Russia has freed an American imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine, with US President Donald Trump saying he is “on his way back home.”",
      "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
-     "published": "2026-10-21T11:30:15.189Z"
+     "published": "2026-10-21T12:31:54.006Z"
     },
     {
      "title": "What DC loses if it loses a major park to Trump’s golf dream",
      "brief": "President Donald Trump’s plans to tear up East Potomac Golf Links and the surrounding park are far more than just the latest obsession of a chief executive looking to put his mark on the nation’s capital.",
      "link": "https://www.cnn.com/2026/10/21/sport/trump-golf-course-washington-dc",
-     "published": "2026-10-21T11:29:15.228Z"
-    },
-    {
-     "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
-     "brief": "US special envoy Steve Witkoff is holding talks on Wednesday with Russian President Vladimir Putin aimed at advancing proposals to end to the war in Ukraine and create a pathway to broader negotiations .",
-     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
-     "published": "2026-10-21T11:28:15.225Z"
+     "published": "2026-10-21T12:30:53.830Z"
     },
     {
      "title": "UK approves new gas field in the North Sea amid rising concerns about energy security",
      "brief": "The UK government has approved the development of a major new gas field in the North Sea that could begin production as soon as this month, as the war in the Middle East deepens concerns about energy security globally.",
      "link": "https://www.cnn.com/2026/10/21/business/jackdaw-gas-field-uk-intl",
-     "published": "2026-10-21T11:27:15.222Z"
+     "published": "2026-10-21T12:29:53.824Z"
     },
     {
      "title": "How to catch a glimpse of the dazzling Orionid meteor shower",
      "brief": "The Orionid meteor shower creates one of the most brilliant displays in the night sky each fall — but this year’s celestial event may have a dimmer showing due to a bright moon.",
      "link": "https://www.cnn.com/2026/10/21/science/orionid-meteor-shower",
-     "published": "2026-10-21T11:26:15.231Z"
+     "published": "2026-10-21T12:28:53.804Z"
     },
     {
-     "title": "The anti-AI writing police are everywhere. What are they looking for?",
-     "brief": "On October 6, the Zimbabwean author Simbarashe Kundizeza won the Caine Prize for African Writing, for the short story “The Blue Fighter.” Less than a week later, The Atlantic published a piece declaring that the…",
-     "link": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
-     "published": "2026-10-21T11:25:15.236Z"
-    },
-    {
-     "title": "One US measles outbreak is proving particularly deadly. Here’s why",
-     "brief": "An ongoing measles outbreak in Pennsylvania has quickly become the largest and deadliest in the United States in more than 30 years.",
-     "link": "https://www.cnn.com/2026/10/21/health/measles-pennsylvania-undercount-cdc",
-     "published": "2026-10-21T11:24:15.216Z"
-    },
-    {
-     "title": "How a photo of a person’s face could help predict whether they’ll survive cancer treatment",
-     "brief": "A simple selfie could hold surprising clues to your overall health and longevity, especially among people with cancer.",
-     "link": "https://www.cnn.com/2026/10/20/health/ai-models-cancer-survival-biological-age",
+     "title": "Vivek Ramaswamy’s attack ad featuring Amy Acton’s estranged mother roils Ohio’s governor race",
+     "brief": "The campaign of Ohio Republican governor nominee Vivek Ramaswamy said it would launch a $4 million ad campaign featuring a controversial video of his Democratic opponent’s estranged mom after it went viral online.",
+     "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
      "published": "2026-10-20T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Skip the crowds for quieter alternatives to popular tourist destinations",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXQxRmx1TlFZc3ZyZDZVWUk3UW93R1pVNmVJcUFkdjJMU3FQT2wyUmlQbEJqOVdVUkY0dkMxOEYxX0pmV255VFJHNVZBOEVUem9Ba1hXa0I4c1l5NlY3ZUNPMFlXZTdiWThRM0pzRWRiWG9hNWdXSXBYN0NTX0FOWHVyQ0k1bjJ4RGFxSGZFWGgxTFZXZXYxU29YalRYNERmaGFXbFhmTnR4X2Q0TzJ2VkV0OS1NNlpUdkE2RG9pXy1qRzdyY2c?oc=5",
+     "published": "2026-10-21T12:00:00.000Z"
+    },
+    {
+     "title": "Will Malaysian doctors finally find a cure?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbTNOX21XWXFXdVE3eWRKMEpTV2lNSTd0bDB6Tk1Ub0x3NzRZdElQVWxLVHlyTWxCdVhhME5KeWtyNi1Kc0xwSUZOU3JES3hSamRjNlVJVUs5Nmd0RWxLTnU0OWJ1cXdGQ1Fjelh5UE9KalNYUXkybGpSaWJxQnB6QUxzNm92RXd2OHcyVnlzbGdVN0tLRk44?oc=5",
+     "published": "2026-10-21T11:26:00.000Z"
+    },
     {
      "title": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says",
      "brief": "",
@@ -70,6 +82,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDFBRFM4dGVmM3h0TDdWd3dQb005N2s0d3BkcXNWUGd6TjJkQXRsYXN2Yy1BX2o0WEQ4UWlZbG16amtsTFRJeDd5RjRtclZvMlIyUlN2WklxOF9VMHY2ZkFLVlFzb0FoVGRYRWpZV3l3Zkh3cWUwdmlMalhLUjJCT0lWYk1WbGVPNi1SSTNJU0dkUy15SGIwZXJFRjF2Z0ViLTBEUFpkSFdwVjF4dG9hZmltRXZtaER4alIyOUxFcXU?oc=5",
      "published": "2026-10-21T10:43:00.000Z"
+    },
+    {
+     "title": "Ghana president: anybody committed to fighting terrorism is welcome in West Africa",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHRHMjlwczQ3akFaTnlkZlkxcmVRMk8tZ0k4dmJfekg0NzFXd1A1ekpVcXF0SVpTNTNZcVp2U2sxemZkZ0xKNlI5TnV5SGdDWXdTajYtZ3RoVHN1N0NjWUtRODFRelc3RGE0ams0OFFXelVKdTVmd0lQUmRHdERYMzRZeFFXSF93NTZvbERZSHRWcGh2YVI4eVhkNy0telItMDJrdHpIVWxtcEZsNEJKSXJNWjVYcWs1c25ZSi1ScERUbHc0RWNXNmh3?oc=5",
+     "published": "2026-10-21T10:32:00.000Z"
     },
     {
      "title": "Cycling: Malaysia’s first Olympic cyclist Joo Pong passes away at 80",
@@ -84,28 +102,10 @@
      "published": "2026-10-21T10:18:00.000Z"
     },
     {
-     "title": "PM expresses concern over prolonged Middle East crisis, condemns Houthi attacks",
+     "title": "Heart And Soul: Discovering stillness at a meditation centre in Hatyai",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpjcUdPN2lZSTZsZnp3cVlkSzdrWnZsYjFuQnhJOUFfN0NGWDRFMjBGOGtBVHRzZXZqaGQ1bXNBMDJZRVJFZ20wQVY3bEN6MktnalBKNzU4LURfcmF4UFNjZWYtckFDS1FsOGlTWV9kTmJnOUtLWG9FSlpPQWc4VFJHUng1aGNIeEZSTTA2QlhzVy1RNzhjS2N3Q3lYcEI4RkEzXzB3V3c3UXNmWktWdnItT09wV0FfZTZHQk9RRHpkZXFoX1Bv?oc=5",
-     "published": "2026-10-21T09:59:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Toulouse v Troyes Ligue 1 game postponed amid unrest in France",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWg5US1ZYjlUVzB5N3NCd1BvS2owaElOWXpqU09tZHZrRWJJN0pCRWlkUTdsUW5hR1lZaTFlTE9kYVBpV0dEMFg4bHY1MTRqVUF0STE0U1ktMmt2TnV3dl9KRTJsSnZlOFdId0E2dGFVTGY2MVJocHVycXZqWW1BLTlrWVV0QUw1cnJVM2NQRUJkWnRQalUySzNLYVVvTVlWRnFHXzdraDJfMG5MYWJCdmN5VHZHQUlGQkp2eFBxdw?oc=5",
-     "published": "2026-10-21T09:52:00.000Z"
-    },
-    {
-     "title": "SkyeChip collaborates with Japan's SAIMEMORY on next-generation AI memory technology",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1BEVHA2SUgwWHJfWlBwdHJoazF1Z2N6eGttZHM0T1lwdTVIOEV6Zjd3aUdzX0tnUmFPaFN4X0VVbGd2RTdVTmtyN1BnMVRKOUdYSFBZVzFuUkFrbFZvQ2hrNG9HWEVFQ1c4Tk1mOG5NZTBsTFBvZ0J2VmRlcmlkYk5venlUZHRUTWQ3OHQxOC1YUUlkQ1dIODdJTl96bDhXZWtPZG1vbktqcFZ0QzR4WEx1ZXFLcGV5X3NmUUhsVk5IQjNYZlNaOWpMMGlDYW9iSGhLWldBNjBYcEtmdTJzVA?oc=5",
-     "published": "2026-10-21T08:42:00.000Z"
-    },
-    {
-     "title": "TOPGLOV-C6A (71136A), TOPGLOV-C6A: CW TOP GLOVE CORPORATION BHD (AFFIN) - Market Watch",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVpDT1V2Y0ZIY3kxNnFOZzFvbTlyVTlmemxTXzRwZUpNZ0JCbHhObkY2QkU5SjV5MjBrcHNVN2EtcUl0S0hXTGhYNjU2d3pERnBDaVFzVlFWaXZVX3pVcmNEbGpteHNkMThHQVB6QVdDRUliZ2xjRjVGVDhEemstdw?oc=5",
-     "published": "2026-10-21T08:24:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOckQ1MHd5WEpWOWk2VHliZkQ0M05OSzlsemdFa0E1QUZMdl8wbXJYcGZrTzk5ek5DNTZsTVlrWlJUNEwwb05ENEFWMUd1dFdDSWFxT2FTRTYzM1pYSFQyUWx6bWQwNDhUMjlYNk0ybmVoRmotR3Q1M2lHQXBLc0liZ0FHVVJqZ3dLV05odUZPc3V6eUVBVVNvWmlyZFlJdHRhRG1uYUROd3Zuc05FTVdxd2VWM3NKUG5DczJBRFBrTjA?oc=5",
+     "published": "2026-10-21T10:07:34.000Z"
     }
    ]
   }
