@@ -1,55 +1,49 @@
 {
- "updated": "2026-10-21T19:31:46.207Z",
+ "updated": "2026-10-21T20:27:34.172Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Pope Leo needs no further cancer treatment, Vatican says",
-     "brief": "Pope Leo XIV’s cancer surgery earlier this month was a success and no further treatment is required, the Vatican press office said in a bulletin Wednesday.",
+     "title": "Pope Leo needs no further lung cancer treatment, Vatican says",
+     "brief": "Pope Leo XIV’s lung cancer surgery last week was a success and no further treatment is required, the Vatican press office said in a bulletin Wednesday.",
      "link": "https://www.cnn.com/2026/10/21/europe/pope-leo-cancer-treatment-intl-latam",
-     "published": "2026-10-21T19:31:46.406Z"
-    },
-    {
-     "title": "The growing corruption allegations engulfing Trump’s orbit — at a bad time for the GOP",
-     "brief": "There is increasing evidence that voters are concerned about corruption ahead of the 2026 midterm elections.",
-     "link": "https://www.cnn.com/2026/10/21/politics/trump-corruption-midterms",
-     "published": "2026-10-21T19:30:46.442Z"
-    },
-    {
-     "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
-     "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night after a woman recently reported she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit claiming…",
-     "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
-     "published": "2026-10-21T19:29:46.451Z"
-    },
-    {
-     "title": "Russia willing to resume trilateral peace talks in November, Kremlin says after Witkoff meeting",
-     "brief": "Russian President Vladimir Putin said the Kremlin would be ready to resume trilateral Russia-US-Ukraine peace talks after mid-November, at the request of US special envoy Steve Witkoff who met with Putin for around…",
-     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
-     "published": "2026-10-21T19:28:46.421Z"
-    },
-    {
-     "title": "Where Trump sees a deal, Putin sees a win for Russia",
-     "brief": "If only Donald Trump were President of Russia, he would surely agree a quick and easy deal to end the brutal Ukraine war , even – he might suggest – in as little as 24 hours.",
-     "link": "https://www.cnn.com/2026/10/21/world/trump-putin-deal-analysis-latam-intl",
-     "published": "2026-10-21T19:27:46.427Z"
-    },
-    {
-     "title": "New Mexico attorney general files civil lawsuit against two Epstein advisers",
-     "brief": "New Mexico Attorney General Raúl Torrez on Wednesday filed a civil lawsuit against two of Jeffrey Epstein’s closest advisers, accusing them of having “facilitated and concealed” Epstein’s crimes.",
-     "link": "https://www.cnn.com/2026/10/21/politics/new-mexico-epstein-lawsuit",
-     "published": "2026-10-21T19:25:46.446Z"
+     "published": "2026-10-21T20:27:34.455Z"
     },
     {
      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
      "brief": "Russia has freed Stephen Hubbard, an American who had been imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine following a direct plea from US President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
-     "published": "2026-10-21T19:24:46.437Z"
+     "published": "2026-10-21T20:26:34.480Z"
     },
     {
-     "title": "Vance warns Republicans not to complain about Ramaswamy ad featuring Amy Acton’s estranged mother",
-     "brief": "Vice President JD Vance on Wednesday warned Ohio Republicans not to break ranks over a controversial new ad from their gubernatorial nominee, Vivek Ramaswamy, that drew bipartisan criticism for featuring the…",
+     "title": "New Mexico attorney general files civil lawsuit against two Epstein advisers",
+     "brief": "New Mexico Attorney General Raúl Torrez on Wednesday filed a civil lawsuit against two of Jeffrey Epstein’s closest advisers, accusing them of having “facilitated and concealed” Epstein’s crimes.",
+     "link": "https://www.cnn.com/2026/10/21/politics/new-mexico-epstein-lawsuit",
+     "published": "2026-10-21T20:24:34.474Z"
+    },
+    {
+     "title": "Player released by Titans after pulling out gun in parking lot, coach says",
+     "brief": "Tennessee Titans coach Robert Saleh confirmed Wednesday that defensive tackle Jordan Elliott was released after pulling a gun in the parking lot of the team facility but said it was a “terrible lapse in judgment that…",
+     "link": "https://www.cnn.com/2026/10/21/sport/jordan-elliott-released-titans",
+     "published": "2026-10-21T20:22:34.484Z"
+    },
+    {
+     "title": "The increasingly brazen stories about possible Trump administration corruption",
+     "brief": "There is increasing evidence that voters are concerned about corruption ahead of the 2026 midterm elections.",
+     "link": "https://www.cnn.com/2026/10/21/politics/trump-corruption-midterms",
+     "published": "2026-10-21T20:21:34.470Z"
+    },
+    {
+     "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
+     "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night after a woman recently reported she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit claiming…",
+     "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
+     "published": "2026-10-21T20:20:34.483Z"
+    },
+    {
+     "title": "Key Ohio Republicans criticize Ramaswamy’s ad with Acton’s estranged mother, even as Vance warned them not to",
+     "brief": "Some leading Ohio Republicans began distancing themselves from a controversial new ad from their gubernatorial nominee, Vivek Ramaswamy, even as Vice President JD Vance warned the party not to break ranks over the…",
      "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
      "published": "2026-10-20T12:00:00.000Z"
     }
@@ -70,6 +64,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLdm1DYnlhTVJibjRiMzRDY3A0NkZtTUVtS3JTOHA5QkphaWtPaDZManVxcFFBcWJkbEFHNjFJNTJuelZiU3NMcHZGcHhSMjdoUWpocG5XQy1icm5fVUVvYnltbHF4ak5YSXVUS1dEaFBnVW8tOG5taWE2dFFrQzFZUWctUTA0by14OEd6OVZKTzlJTnRTTE5oRXpBX0toWVdDMW9wTUFYX0o0akNxLWJNNnVRN0h2dlloVHhOZG9KclRKVDYzUkJPU1Fmdw?oc=5",
      "published": "2026-10-21T14:59:00.000Z"
+    },
+    {
+     "title": "PHP developers issue new version to fix critical vulnerabilities",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaU5HWDRkVFhzQTBGWUh0TFU5UWlHam11SGJ0YTl4Z3JQd01kNnAyTEI1cF9tZnJkRnduNGtQb1VpdkU3TkNBX3pnNTlZTWl5THltRnN5Y1ZmQ2hLZ2gzQmxLSEtfVzk3bzRBZG1jeWE4YkxUN01nRDBJaUZoR1hLbVRMdGN6U2s3d0tEdDBwR2lSY2QteHpjQTBjNWpwdDBnZmJOVHQ5YUI0WDd3ckk1Q25TcVVFWngtZzlZYTJrNERGdkFUQlNIdDlIb1YtTk0?oc=5",
+     "published": "2026-10-21T14:09:00.000Z"
     },
     {
      "title": "Cops bust Suria Gang with arrest of six in joint ops led by Bukit Aman",
@@ -100,18 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlJsenloNVhsUE5IOVR5NG93djVuVEVndEFoUXlTU19iU3I3ZUJiNzlQUjZ1ckdtWUVneHcyQ1R1OFBmamloTXR5RWIwX3FOQUI3QUE2bTZmYVlNZUlzSkV3SmQxQkJKVlBHaWQ5eFNnb2stMjZFTzdqWDVNZWVwMGJHWjREOVU5YzYtZE9vZWFfSHZSdFpvTkpRbEkxOHl5Z1ZwTnd3ZmRqZjdCZHhpNzM5QTl6YUxBQUM5X0ZFdEt4LTdqUXpjVFIzbHYtWEJhNU5WMlVEOGNyREp1?oc=5",
      "published": "2026-10-21T11:42:00.000Z"
-    },
-    {
-     "title": "Three civil servants among 27 arrested in raid on ketum processing plant",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOek9lMWMtbDAtdFItY1VLOGRjYm9NNEJ6LWJ1TkUyVzEwVzM2VzBlMTM5eHJiOGlLbVJMcFpkMThybGY2eDRXVHlxMWpjQUpESVBBTGEtbW1RcVczU29vVk1DQkZiTmpqckZhSmFweTRteHdKMXJhSE1TTWFGbjAzS1J3T2Y3S2JKd0x1d09WMmlSUDZlNVU3VXMzaFowNDlfVFdtQkdwWXZiaC1PQ1hhSVdWenN1R2NPZUpWeDE5WQ?oc=5",
-     "published": "2026-10-21T11:27:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
