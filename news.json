@@ -1,50 +1,56 @@
 {
- "updated": "2026-10-21T16:30:05.432Z",
+ "updated": "2026-10-21T17:28:38.597Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Macron slams ‘stupid comments’ from world leaders after Trump blames France unrest on migrants",
-     "brief": "French President Emmanuel Macron has slammed what he called “stupid comments” from some foreign leaders over protests sweeping the country , after his US counterpart Donald Trump claimed migrants were fueling the unrest.",
-     "link": "https://www.cnn.com/2026/10/21/europe/macron-trump-stupid-comments-france-protests-intl",
-     "published": "2026-10-21T16:30:05.669Z"
-    },
-    {
-     "title": "Exclusive: State Department downplays dangers in Latin America in new country assessments",
+     "title": "Exclusive: State Department warns Americans about Latin America. Privately, it tells asylum officers a different story",
      "brief": "The State Department is publicly warning Americans about violent crime in parts of Latin America, but privately, it has given asylum officers new assessments arguing that conditions in some of those same countries…",
      "link": "https://www.cnn.com/2026/10/21/politics/state-department-latin-america-cities",
-     "published": "2026-10-21T16:29:05.744Z"
+     "published": "2026-10-21T17:28:38.773Z"
+    },
+    {
+     "title": "New Mexico attorney general files civil lawsuit against two Epstein advisers",
+     "brief": "New Mexico Attorney General Raúl Torrez on Wednesday filed a civil lawsuit against two of Jeffrey Epstein’s closest advisers, accusing them of having “facilitated and concealed” Epstein’s crimes.",
+     "link": "https://www.cnn.com/2026/10/21/politics/new-mexico-epstein-lawsuit",
+     "published": "2026-10-21T17:26:38.851Z"
     },
     {
      "title": "Russia willing to resume trilateral peace talks in November, Kremlin says after Witkoff meeting",
      "brief": "Russian President Vladimir Putin said the Kremlin would be ready to resume trilateral Russia-US-Ukraine peace talks after mid-November, at the request of US special envoy Steve Witkoff who met with Putin for around…",
      "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
-     "published": "2026-10-21T16:27:05.748Z"
+     "published": "2026-10-21T17:25:38.857Z"
     },
     {
      "title": "Supreme Court hands Trump a rare loss on transgender prison care policy",
      "brief": "The Supreme Court on Wednesday blocked President Donald Trump from suspending hormone therapy and other treatments for transgender Americans in federal prisons , a rare win for transgender rights at the conservative…",
      "link": "https://www.cnn.com/2026/10/21/politics/supreme-court-blocks-trump-suspending-transgender-medical-care-prisons",
-     "published": "2026-10-21T16:26:05.718Z"
+     "published": "2026-10-21T17:24:38.845Z"
     },
     {
-     "title": "The iPhone Duo is Apple’s coolest phone in years. There’s just one problem",
-     "brief": "There were many times I didn’t want to put the iPhone Duo down.",
-     "link": "https://www.cnn.com/2026/10/21/tech/apple-iphone-duo-review",
-     "published": "2026-10-21T16:25:05.724Z"
+     "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
+     "brief": "Russia has freed Stephen Hubbard, an American who had been imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine following a direct plea from US President Donald Trump.",
+     "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
+     "published": "2026-10-21T17:23:38.784Z"
     },
     {
-     "title": "A Netflix reality show evokes one of history’s most controversial scientific experiments — and the man behind it",
-     "brief": "The Stanford Prison Experiment lasted less than a week in 1971, but its claims about human nature endured for decades.",
-     "link": "https://www.cnn.com/2026/10/21/science/stanford-prison-experiment-netflix",
-     "published": "2026-10-21T16:23:05.758Z"
+     "title": "AI helped find a critical security flaw affecting 70% of the internet",
+     "brief": "Researchers at three different companies said Wednesday that they used AI to discover and address a set of critical bugs that could affect 70% of the internet.",
+     "link": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai",
+     "published": "2026-10-21T17:22:38.787Z"
     },
     {
-     "title": "In Europe, budget airlines thrive. Why not the US?",
-     "brief": "At the top of one of Ryanair’s European website’s reads “fly FROM 24.99€.”",
-     "link": "https://www.cnn.com/2026/10/20/business/budget-airlines-thrive-in-europe-not-us",
+     "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
+     "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night after a woman recently reported she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit claiming…",
+     "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
+     "published": "2026-10-21T17:21:38.854Z"
+    },
+    {
+     "title": "Vance warns Republicans not to complain about Ramaswamy ad featuring Amy Acton’s estranged mother",
+     "brief": "Vice President JD Vance on Wednesday warned Ohio Republicans not to break ranks over a controversial new ad from their gubernatorial nominee, Vivek Ramaswamy, that drew bipartisan criticism for featuring the…",
+     "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
      "published": "2026-10-20T12:00:00.000Z"
     }
    ]
@@ -54,28 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Basketball-Greece issues arrest warrants for six people suspected of fixing basketball games",
+     "title": "Slovak president appoints culture minister as deputy PM",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BpUU9KZWpTVlpXakFTWWFQZUNMbml4ZDRPUTR0ZnVLYTE3Y3ZUaWRrYlBuUG1IYWJncDlNNFA5OHY5b25WYjVpaUU2bGpxd25KTU5lWERnWGtpUGdFVTRlQlV5RXVERGtGXy1DalJoVTByQnRqT2VtbUdQX0ZRT29PZnJkbnFYdzNDM3VkQllxRnBQdHR2V3RXODRwNld4Z0tnRFNLWWw5TFlXX2FtNkRDZ3U1UnQxSlUtZWExOHBkeXNCNk5BTjl0ejNpTEdqUDEyOElhbzRneTdsTjNfUg?oc=5",
-     "published": "2026-10-21T14:56:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnlIeVpKZ0EycE44azlMeUJRUF9RYTc4cnNHNjJHSi1aWGlnMDVoOW80ODVzWE8yS0hvWG5UZGVrQWJXZFdHMDU2Z1Byamx5QlEyUU5sM1JHRHJOX0Y0a2FCM2NZU0VzWlE3eGRnNEwydlZyQzg3aVc0NDBuYmF4ZTVidFFCODdCUnZEemhldy1JcjZLZ21iTUxLZ1lmQ1R0Rk1TS2poMA?oc=5",
+     "published": "2026-10-21T16:15:00.000Z"
     },
     {
-     "title": "PHP programming language developers issue new version fixing critical vulnerabilities",
+     "title": "Malaysia News: National, Regional and World News",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaU5HWDRkVFhzQTBGWUh0TFU5UWlHam11SGJ0YTl4Z3JQd01kNnAyTEI1cF9tZnJkRnduNGtQb1VpdkU3TkNBX3pnNTlZTWl5THltRnN5Y1ZmQ2hLZ2gzQmxLSEtfVzk3bzRBZG1jeWE4YkxUN01nRDBJaUZoR1hLbVRMdGN6U2s3d0tEdDBwR2lSY2QteHpjQTBjNWpwdDBnZmJOVHQ5YUI0WDd3ckk1Q25TcVVFWngtZzlZYTJrNERGdkFUQlNIdDlIb1YtTk0?oc=5",
-     "published": "2026-10-21T14:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "published": "2026-10-21T15:32:02.000Z"
     },
     {
-     "title": "Football: Soccer-Barca blow as Olmo out for four weeks",
+     "title": "Melaka polls: Barisan to contest 21 seats after finalising talks with PAS, says Zahid",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3NfNVFJS0RscUExd01UZ1p3Q3JZT2ItZk1VR1YxV2k4Xy0tUGdjS2ZhcGlNUlBtOGZoVzhfc0lVX2RyaW9aWEtwNkJiU21qM01ORm1BZXNaeU1NX1BUU3o0dmE3Ym9lUXlsSHVxaGtXOXJvWFNyNXl0d2FzRDFUUjJhaVBHVWF0OGMxbG1sX284ZEkxd2xMYmtIYXY1Zw?oc=5",
-     "published": "2026-10-21T13:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTjVLdm1DYnlhTVJibjRiMzRDY3A0NkZtTUVtS3JTOHA5QkphaWtPaDZManVxcFFBcWJkbEFHNjFJNTJuelZiU3NMcHZGcHhSMjdoUWpocG5XQy1icm5fVUVvYnltbHF4ak5YSXVUS1dEaFBnVW8tOG5taWE2dFFrQzFZUWctUTA0by14OEd6OVZKTzlJTnRTTE5oRXpBX0toWVdDMW9wTUFYX0o0akNxLWJNNnVRN0h2dlloVHhOZG9KclRKVDYzUkJPU1Fmdw?oc=5",
+     "published": "2026-10-21T14:59:00.000Z"
     },
     {
      "title": "Cops bust Suria Gang with arrest of six in joint ops led by Bukit Aman",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMk5mWFBCTzgtRFFKZnFOYUtJcGlfakFIaUJHbkdWc2N6QzV3OGpsLVlWMnFnVmlISkVRS1RyZE9nZUhNUHlwMjlUY2hheV84U2FhcjBWWVBYNHRrSVNqS1Q2cE9oWTgzeW51YktLSUZ6X2tIOVlHUVNDV0c5TTVzSWVmQ1E5SkNCLWRKY204M1NkZTdGYnZUQzY1c2R1VC1XNkUzemQ5Q1E4b1BOMnM4MDZldVNGYUE1alpUeQ?oc=5",
      "published": "2026-10-21T13:02:00.000Z"
+    },
+    {
+     "title": "Laos joins CICA as full member, pledges support for regional solidarity",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcmdlZjdLencwRFdGVjhOeFN3X1NjZjVIODNGYk9nSV9zUnNvbVJMbjVLa1dPdWMweDVLdXRwU1B0eDQ0eGFVTVBpa0VTNTl4b0hhczVYeWh2U0dxeEhVVDNvSHhuR0RzLWpkaUZyQlhuaTFqaFVGcVZrVFhCRjdRLWdlU0daYzhiMEV3bzBScEVFeGRvbm9EdkNOVXc5dl9jQ2Y5SFhsRHBsZ3k1MWRjUW5KYWZVUEwtanBPcUg5alVwamxqdjY1VkVBTzB6UQ?oc=5",
+     "published": "2026-10-21T12:41:00.000Z"
     },
     {
      "title": "Citizenship policies must be fair, consistent with no preferential treatment, says G25",
@@ -94,18 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlJsenloNVhsUE5IOVR5NG93djVuVEVndEFoUXlTU19iU3I3ZUJiNzlQUjZ1ckdtWUVneHcyQ1R1OFBmamloTXR5RWIwX3FOQUI3QUE2bTZmYVlNZUlzSkV3SmQxQkJKVlBHaWQ5eFNnb2stMjZFTzdqWDVNZWVwMGJHWjREOVU5YzYtZE9vZWFfSHZSdFpvTkpRbEkxOHl5Z1ZwTnd3ZmRqZjdCZHhpNzM5QTl6YUxBQUM5X0ZFdEt4LTdqUXpjVFIzbHYtWEJhNU5WMlVEOGNyREp1?oc=5",
      "published": "2026-10-21T11:42:00.000Z"
-    },
-    {
-     "title": "Three civil servants among 27 arrested in raid on ketum processing plant",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOek9lMWMtbDAtdFItY1VLOGRjYm9NNEJ6LWJ1TkUyVzEwVzM2VzBlMTM5eHJiOGlLbVJMcFpkMThybGY2eDRXVHlxMWpjQUpESVBBTGEtbW1RcVczU29vVk1DQkZiTmpqckZhSmFweTRteHdKMXJhSE1TTWFGbjAzS1J3T2Y3S2JKd0x1d09WMmlSUDZlNVU3VXMzaFowNDlfVFdtQkdwWXZiaC1PQ1hhSVdWenN1R2NPZUpWeDE5WQ?oc=5",
-     "published": "2026-10-21T11:27:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
