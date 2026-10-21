@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-21T10:32:04.161Z",
+ "updated": "2026-10-21T11:30:14.972Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
+     "brief": "Russia has freed an American imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine, with US President Donald Trump saying he is “on his way back home.”",
+     "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
+     "published": "2026-10-21T11:30:15.189Z"
+    },
+    {
+     "title": "What DC loses if it loses a major park to Trump’s golf dream",
+     "brief": "President Donald Trump’s plans to tear up East Potomac Golf Links and the surrounding park are far more than just the latest obsession of a chief executive looking to put his mark on the nation’s capital.",
+     "link": "https://www.cnn.com/2026/10/21/sport/trump-golf-course-washington-dc",
+     "published": "2026-10-21T11:29:15.228Z"
+    },
+    {
      "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
      "brief": "US special envoy Steve Witkoff is holding talks on Wednesday with Russian President Vladimir Putin aimed at advancing proposals to end to the war in Ukraine and create a pathway to broader negotiations .",
      "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
-     "published": "2026-10-21T10:32:04.378Z"
+     "published": "2026-10-21T11:28:15.225Z"
     },
     {
-     "title": "Russia frees 74-year-old American Stephen Hubbard, US envoy Steve Witkoff says",
-     "brief": "Russia has freed an American imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine, US special envoy Steve Witkoff said during a meeting with Russian President Vladimir Putin…",
-     "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
-     "published": "2026-10-21T10:31:04.430Z"
+     "title": "UK approves new gas field in the North Sea amid rising concerns about energy security",
+     "brief": "The UK government has approved the development of a major new gas field in the North Sea that could begin production as soon as this month, as the war in the Middle East deepens concerns about energy security globally.",
+     "link": "https://www.cnn.com/2026/10/21/business/jackdaw-gas-field-uk-intl",
+     "published": "2026-10-21T11:27:15.222Z"
     },
     {
      "title": "How to catch a glimpse of the dazzling Orionid meteor shower",
      "brief": "The Orionid meteor shower creates one of the most brilliant displays in the night sky each fall — but this year’s celestial event may have a dimmer showing due to a bright moon.",
      "link": "https://www.cnn.com/2026/10/21/science/orionid-meteor-shower",
-     "published": "2026-10-21T10:30:04.423Z"
+     "published": "2026-10-21T11:26:15.231Z"
     },
     {
      "title": "The anti-AI writing police are everywhere. What are they looking for?",
      "brief": "On October 6, the Zimbabwean author Simbarashe Kundizeza won the Caine Prize for African Writing, for the short story “The Blue Fighter.” Less than a week later, The Atlantic published a piece declaring that the…",
      "link": "https://www.cnn.com/2026/10/21/tech/ai-detectors-pangram-literary-prizes-cec",
-     "published": "2026-10-21T10:29:04.444Z"
+     "published": "2026-10-21T11:25:15.236Z"
     },
     {
      "title": "One US measles outbreak is proving particularly deadly. Here’s why",
      "brief": "An ongoing measles outbreak in Pennsylvania has quickly become the largest and deadliest in the United States in more than 30 years.",
      "link": "https://www.cnn.com/2026/10/21/health/measles-pennsylvania-undercount-cdc",
-     "published": "2026-10-21T10:28:04.434Z"
-    },
-    {
-     "title": "From the dark fleet to Russian diesel, there are no ‘silver bullets’ for bringing down fuel prices",
-     "brief": "Fuel prices are historically high and voters are taking out their anger on President Donald Trump and Republicans.",
-     "link": "https://www.cnn.com/2026/10/21/economy/trump-oil-gas-diesel-election",
-     "published": "2026-10-21T10:26:04.441Z"
-    },
-    {
-     "title": "Pentagon grants DHS permission to test heat ray weapon for potential use at border",
-     "brief": "The Pentagon has given the Department of Homeland Security permission to test a military-grade heat ray and develop tactics to potentially use it in operations at the southern US border, according to a memo signed by…",
-     "link": "https://www.cnn.com/2026/10/21/politics/heat-ray-weapon-dhs-pentagon",
-     "published": "2026-10-21T10:25:04.437Z"
+     "published": "2026-10-21T11:24:15.216Z"
     },
     {
      "title": "How a photo of a person’s face could help predict whether they’ll survive cancer treatment",
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Turkey, Qatar, Pakistan, Indonesia sign defence cooperation accord, Ankara says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcmFIb0VibURjMDJJVkJZZjJlak13UjNOdTFnbmZmcmZkdXRyaXB1TFNnYi1Pem1iQ2lwSV9sRzhoc2FZbGNfckxXb2c0Sl9yMzJoSjZxTGlyaHh4NmZrZXQxSm1IMFlmSGVsdmtpS0ZyMEl6SkJXUm56YTBfZ1hZemJKVTl5aWxUQWtrWHJJNXYwcGFnV25qN04xd184bXNKdjdZY050elNWRF9xT3docDM0cVR1bU1uMlhISnlZVF8tdw?oc=5",
+     "published": "2026-10-21T11:08:00.000Z"
+    },
+    {
+     "title": "Iraq closes Sheeb border crossing with Iran to review security, sources say",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTDFBRFM4dGVmM3h0TDdWd3dQb005N2s0d3BkcXNWUGd6TjJkQXRsYXN2Yy1BX2o0WEQ4UWlZbG16amtsTFRJeDd5RjRtclZvMlIyUlN2WklxOF9VMHY2ZkFLVlFzb0FoVGRYRWpZV3l3Zkh3cWUwdmlMalhLUjJCT0lWYk1WbGVPNi1SSTNJU0dkUy15SGIwZXJFRjF2Z0ViLTBEUFpkSFdwVjF4dG9hZmltRXZtaER4alIyOUxFcXU?oc=5",
+     "published": "2026-10-21T10:43:00.000Z"
+    },
+    {
+     "title": "Cycling: Malaysia’s first Olympic cyclist Joo Pong passes away at 80",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT3JJWXozTXFYR01wcUtyMG9WV21ndzVISHNka2JkNmVGN1VqS2o2UGtCdVNmNTA4TE5PQ1llTlJhMTd5cDdTbnd2R01qRHNVeWJxZV8telhOQXh4V2JDTUd3dHlPbUtaLVdqOUlTd2ZVdjdZdUphMTVJY25tck9kbHZ4ZnJjbFhSSUl0YkFnRjIwTllOeGFBSmo3am1BMEsyUE8xcnpWN0N4dlNhaHdR?oc=5",
+     "published": "2026-10-21T10:28:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Bayern's Kimmich to miss Arsenal clash due to family bereavement",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOHdZTURZeVowdEV6MTJYbmZ6c1FkV1FVaW16UUI3REhwRnhJd1NfVTdfMUNUUDZRNk9XN0JORHNyWkpRa1dHeW9keTZvU0dGS2lvbXRLUmktWTNVUzBlQmg4SDdIc0lQQmxqNUZMamxGc1ZrQ2VRcHdiQTJpRWNiUjNKcG5NZW0zY1RaZWJRQkh1M2FRZUgxNDdtdkhjNDQxc0x5aUZ5anBOSmhqZTA3eDNKWnRhMWsxT2ZOdzU3RmFjZFJX?oc=5",
      "published": "2026-10-21T10:18:00.000Z"
+    },
+    {
+     "title": "PM expresses concern over prolonged Middle East crisis, condemns Houthi attacks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHpjcUdPN2lZSTZsZnp3cVlkSzdrWnZsYjFuQnhJOUFfN0NGWDRFMjBGOGtBVHRzZXZqaGQ1bXNBMDJZRVJFZ20wQVY3bEN6MktnalBKNzU4LURfcmF4UFNjZWYtckFDS1FsOGlTWV9kTmJnOUtLWG9FSlpPQWc4VFJHUng1aGNIeEZSTTA2QlhzVy1RNzhjS2N3Q3lYcEI4RkEzXzB3V3c3UXNmWktWdnItT09wV0FfZTZHQk9RRHpkZXFoX1Bv?oc=5",
+     "published": "2026-10-21T09:59:00.000Z"
     },
     {
      "title": "Football: Soccer-Toulouse v Troyes Ligue 1 game postponed amid unrest in France",
@@ -72,40 +96,16 @@
      "published": "2026-10-21T09:52:00.000Z"
     },
     {
-     "title": "Football: Soccer-PSG's Kvaratskhelia to undergo surgery on torn ACL, Dembele out for few weeks",
+     "title": "SkyeChip collaborates with Japan's SAIMEMORY on next-generation AI memory technology",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPblJUODI4bzdTbXZVYUIxLWJjZ0NHei0zYUdFZkVnaW5kNXFGVmQxODNwMUI2ZUwyTUJxWE1nUkpWWEtXNUlDeXpRT2J0c3dIb1VyY2R0TzhOVXJfa0kxbmZlaVYwWjhvLUloZWN2cU1mTmRKSWhraVlCNFFhTnZhdW5LdEdESDV5LW1MUHBMR0RRMDRYTHR1TzgyTFVQeUx6NGNRTkhxRVRhUDUxX3ktMFBxTkUzZHIzTG9wWEkzSlllR2JBZUdGcGlXX1ktQmpVZ0VWeQ?oc=5",
-     "published": "2026-10-21T09:39:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS1BEVHA2SUgwWHJfWlBwdHJoazF1Z2N6eGttZHM0T1lwdTVIOEV6Zjd3aUdzX0tnUmFPaFN4X0VVbGd2RTdVTmtyN1BnMVRKOUdYSFBZVzFuUkFrbFZvQ2hrNG9HWEVFQ1c4Tk1mOG5NZTBsTFBvZ0J2VmRlcmlkYk5venlUZHRUTWQ3OHQxOC1YUUlkQ1dIODdJTl96bDhXZWtPZG1vbktqcFZ0QzR4WEx1ZXFLcGV5X3NmUUhsVk5IQjNYZlNaOWpMMGlDYW9iSGhLWldBNjBYcEtmdTJzVA?oc=5",
+     "published": "2026-10-21T08:42:00.000Z"
     },
     {
      "title": "TOPGLOV-C6A (71136A), TOPGLOV-C6A: CW TOP GLOVE CORPORATION BHD (AFFIN) - Market Watch",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVpDT1V2Y0ZIY3kxNnFOZzFvbTlyVTlmemxTXzRwZUpNZ0JCbHhObkY2QkU5SjV5MjBrcHNVN2EtcUl0S0hXTGhYNjU2d3pERnBDaVFzVlFWaXZVX3pVcmNEbGpteHNkMThHQVB6QVdDRUliZ2xjRjVGVDhEemstdw?oc=5",
      "published": "2026-10-21T08:24:00.000Z"
-    },
-    {
-     "title": "Parent company of Philippines' leading e-wallet provider makes stock debut",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQb3lQelRDNFd4Y2JWMEJmNFhMdGhWTml4Ti16YS1jck1TNFl1bDd1TTRYZnA1VEhsY0lIX0huYnlkWWxfRmo0eUxaQk4xVlVacDcxUExGbHV4YTJNZWZhd0JKMzFBMWEzWE9NQjFkXzBzcEZhS2puSUJwUE00VHdCRExQd0k0TjZtaHVGXzZMY1JUZWpadVBoeUJkZzZLcmlVWjB2RndCazBwTWw1ZlVFNEExWFFqbkJ6d2tHRTJYTDRaMEU2NmxBUmdhTVducVBnZzBfNnln?oc=5",
-     "published": "2026-10-21T07:46:00.000Z"
-    },
-    {
-     "title": "Indonesia haze threatens beetles vital to palm oil production",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOS3JnbU1mWDdDOVVaaUR2bnhacUZ1dl9VRUdwWUJwcUlWY2ZESmxwNEJQYXl6UzREMld4czVSZjl2aUE3cE1DUFYtNXFvYjNsTXJLX29qLTNwV2R3MzQ5b3RrUm0yX3ByMHJsY2YyX3lYTUN6ZklJWXJ1LWJ5Zlk5cEZ2czlKSXRsNjMxV1FGVDkwckdaMTc1RTltYkswbVR4X0NvdTNQRU9VTERGSHotYVJQb0dkXzNNdXFrS09tYVVtUQ?oc=5",
-     "published": "2026-10-21T06:12:00.000Z"
-    },
-    {
-     "title": "Civil servants barred from using Waze, according to Prime Minister's Department circular",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQa0FUeGFOa21oSmgzcWJMbWVxSkFkN2FmcjdnOXhDNTI5UHJRMVY2TEVEQ0RLN2JGcGJ0VUZkREhDb1RGcmdlOXpyQ3F3SnkwRV9LV01tWkZDU016cUx5RHJvYkxibkJsLWxIZkxKUjNvZjVSc2pUTzBjYnJOWVR4Yl9TdXRJZkFVY05LcHZidjJBeHdjdnFuM083Z05fMmtBWHJZN0RWUlBGa01wOEVfZDE2Vmt5clBDUDdQdDJIR3ZCTV9LZHhyM1o3N2pTZnlIX29qMkI3UkduVUpoaHZyOUJwUUw1ZGZtNEVObFl6bVJwUQ?oc=5",
-     "published": "2026-10-21T06:01:00.000Z"
-    },
-    {
-     "title": "S'wak investment policy to focus on four priority clusters including clean energy, state assembly told",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdWZyMWtob2NVRUd1UVRYRXdFZE9wc1lSbC1idmhLU0FjeVo5RWRJSFBUNzZ2TmNiSURuX21LRzBfSzdmX0xCWkxhbWp6Ymd1enZITnBidTFaYlhLYTBhWFlFOHR3ZnRHRTluTk1xaFZtdFVYOVVhNW92Qk9FQTVYX0NORTdLeXktR3pMdjQtTFRPS0VZVlVMeVQ2S3Bsa3BYQVVfOUxYOUxlN3ZTNENoZkVGMmFyREpkSzVyaW9rbG1TX0FuSUQ5VjlFcXFJcXdMLWp1YUVRTl81QmtOaXl5bmFWTmRwUEVH?oc=5",
-     "published": "2026-10-21T05:47:00.000Z"
     }
    ]
   }
