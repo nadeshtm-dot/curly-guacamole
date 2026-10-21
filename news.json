@@ -1,57 +1,51 @@
 {
- "updated": "2026-10-21T14:31:40.979Z",
+ "updated": "2026-10-21T15:32:21.576Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Russia willing to resume trilateral peace talks in November, Kremlin says after Witkoff meeting",
+     "brief": "Russian President Vladimir Putin said the Kremlin would be ready to resume trilateral Russia-US-Ukraine peace talks after mid-November, at the request of US special envoy Steve Witkoff who met with Putin for around…",
+     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
+     "published": "2026-10-21T15:32:21.771Z"
+    },
+    {
+     "title": "The iPhone Duo is Apple’s coolest phone in years. There’s just one problem",
+     "brief": "There were many times I didn’t want to put the iPhone Duo down.",
+     "link": "https://www.cnn.com/2026/10/21/tech/apple-iphone-duo-review",
+     "published": "2026-10-21T15:31:21.814Z"
+    },
+    {
      "title": "A Netflix reality show evokes one of history’s most controversial scientific experiments — and the man behind it",
      "brief": "The Stanford Prison Experiment lasted less than a week in 1971, but its claims about human nature endured for decades.",
      "link": "https://www.cnn.com/2026/10/21/science/stanford-prison-experiment-netflix",
-     "published": "2026-10-21T14:31:41.156Z"
-    },
-    {
-     "title": "US envoy Witkoff meets with Putin in effort to advance proposals to end war in Ukraine",
-     "brief": "Russian President Vladimir Putin said the Kremlin would be ready to resume trilateral Russia-US-Ukraine peace talks after mid-November, at the request of US special envoy Steve Witkoff who met with Putin for around…",
-     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
-     "published": "2026-10-21T14:30:41.205Z"
+     "published": "2026-10-21T15:29:21.755Z"
     },
     {
      "title": "Astonishing winning images from Nikon’s Small World photography competition 2026",
      "brief": "An image of ink droplets inside a printer has won first prize at the Nikon Small World photomicrography competition, which focuses on images taken through a microscope.",
      "link": "https://www.cnn.com/2026/10/21/science/nikon-small-world-photography-winners-intl-scli",
-     "published": "2026-10-21T14:29:41.200Z"
+     "published": "2026-10-21T15:28:21.811Z"
     },
     {
      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
      "brief": "Russia has freed Stephen Hubbard, an American who had been imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine following a direct plea from US President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
-     "published": "2026-10-21T14:28:41.195Z"
+     "published": "2026-10-21T15:27:21.821Z"
     },
     {
      "title": "A chemical tank explodes in Ohio, forcing evacuations and prompting fears of another blast",
      "brief": "A chemical tank exploded in Toledo, Ohio, forcing hundreds of residents to evacuate their homes or shelter in place due to fears of a toxic release, and the mayor warned Wednesday that it may still be explosive.",
      "link": "https://www.cnn.com/2026/10/21/us/toledo-chemical-tank-explosion-ohio",
-     "published": "2026-10-21T14:27:41.188Z"
+     "published": "2026-10-21T15:26:21.803Z"
     },
     {
      "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
      "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night, after a woman reported this month that she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit…",
      "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
-     "published": "2026-10-21T14:26:41.193Z"
-    },
-    {
-     "title": "Macron slams ‘stupid comments’ from world leaders after Trump blames France unrest on migrants",
-     "brief": "France’s President Emmanuel Macron has slammed what he called “stupid comments” from some foreign leaders over the protests sweeping the country , after his US counterpart Donald Trump claimed migrants were fueling…",
-     "link": "https://www.cnn.com/2026/10/21/europe/macron-trump-stupid-comments-france-protests-intl",
-     "published": "2026-10-21T14:24:41.183Z"
-    },
-    {
-     "title": "SpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’",
-     "brief": "SpaceX shares shot up more than 8% Wednesday morning after a better-than-expected earnings report and CEO Elon Musk’s revelation that SpaceX and Tesla had formed special committees to discuss a potential merger.",
-     "link": "https://www.cnn.com/2026/10/20/business/spacex-tesla-merger-musk",
-     "published": "2026-10-20T12:00:00.000Z"
+     "published": "2026-10-21T15:25:21.817Z"
     }
    ]
   },
@@ -60,22 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Apple will have 'limited' iPhone Duo units available in stores on Friday",
+     "title": "Basketball-Greece issues arrest warrants for six people suspected of fixing basketball games",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZGlXYnVlUWs4ZGlWZGhCN1VUeUt2c25XTlNXX1pheU15TS1heFhaX2FjTHZndTRkbFJzbDMtLXJHQmVPQ3ZxZW9mODN6a1JuSXM0blpDajhJUXpIdG1ULUFkVWxHZ1ZicFFUQ1ZfNUlYcFE3RGladTFJTnkxM00xdTF6YUNnYVJoVHV0MXJURGcyQjhGWlp4dzZRNmowRlAtV3VxTnJVRTd4TkY4aklKQTJteTFBYW5TNGl4LW5TLV9BRl8teHpmQ013?oc=5",
-     "published": "2026-10-21T14:13:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS1BpUU9KZWpTVlpXakFTWWFQZUNMbml4ZDRPUTR0ZnVLYTE3Y3ZUaWRrYlBuUG1IYWJncDlNNFA5OHY5b25WYjVpaUU2bGpxd25KTU5lWERnWGtpUGdFVTRlQlV5RXVERGtGXy1DalJoVTByQnRqT2VtbUdQX0ZRT29PZnJkbnFYdzNDM3VkQllxRnBQdHR2V3RXODRwNld4Z0tnRFNLWWw5TFlXX2FtNkRDZ3U1UnQxSlUtZWExOHBkeXNCNk5BTjl0ejNpTEdqUDEyOElhbzRneTdsTjNfUg?oc=5",
+     "published": "2026-10-21T14:56:00.000Z"
+    },
+    {
+     "title": "PHP programming language developers issue new version fixing critical vulnerabilities",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNaU5HWDRkVFhzQTBGWUh0TFU5UWlHam11SGJ0YTl4Z3JQd01kNnAyTEI1cF9tZnJkRnduNGtQb1VpdkU3TkNBX3pnNTlZTWl5THltRnN5Y1ZmQ2hLZ2gzQmxLSEtfVzk3bzRBZG1jeWE4YkxUN01nRDBJaUZoR1hLbVRMdGN6U2s3d0tEdDBwR2lSY2QteHpjQTBjNWpwdDBnZmJOVHQ5YUI0WDd3ckk1Q25TcVVFWngtZzlZYTJrNERGdkFUQlNIdDlIb1YtTk0?oc=5",
+     "published": "2026-10-21T14:09:00.000Z"
     },
     {
      "title": "Football: Soccer-Barca blow as Olmo out for four weeks",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNa3NfNVFJS0RscUExd01UZ1p3Q3JZT2ItZk1VR1YxV2k4Xy0tUGdjS2ZhcGlNUlBtOGZoVzhfc0lVX2RyaW9aWEtwNkJiU21qM01ORm1BZXNaeU1NX1BUU3o0dmE3Ym9lUXlsSHVxaGtXOXJvWFNyNXl0d2FzRDFUUjJhaVBHVWF0OGMxbG1sX284ZEkxd2xMYmtIYXY1Zw?oc=5",
      "published": "2026-10-21T13:19:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Police to deploy live facial recognition technology at Chelsea-Spurs game",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX2FnZFdvSEZpRHpwRVdzYXIyc1l3X1hxeUk3NUJMUXpEa3NxVjlVT1dERkhsTW1wa2VzNjhpMlZ5MGNSazVkRkZwbnEycmdsblRxYTlnLUZkcjFqT0hQanM2TU41MXg3cXBaeGFIN0JqRlM3WUQ1SHFoamFIQVhFd0VTOHpURGxhd21fUEtydzlXSjFaekxhYjUzb3k5MHRjUk4zV1cwWHE4RHltbGVuM0RZWmU4MHdyTnVzeHIwMmh2YzlfRkw5TzdWQlBaUQ?oc=5",
-     "published": "2026-10-21T13:10:00.000Z"
     },
     {
      "title": "Skip the crowds for quieter alternatives to popular tourist destinations",
@@ -111,7 +105,7 @@
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
