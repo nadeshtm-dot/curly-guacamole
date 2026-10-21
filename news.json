@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-21T20:27:34.172Z",
+ "updated": "2026-10-21T21:29:02.476Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
+     "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night after a woman recently reported she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit claiming…",
+     "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
+     "published": "2026-10-21T21:29:02.703Z"
+    },
+    {
      "title": "Pope Leo needs no further lung cancer treatment, Vatican says",
-     "brief": "Pope Leo XIV’s lung cancer surgery last week was a success and no further treatment is required, the Vatican press office said in a bulletin Wednesday.",
+     "brief": "Pope Leo XIV’s lung cancer surgery last week was a success, and no further treatment is required, the Vatican press office said in a bulletin Wednesday.",
      "link": "https://www.cnn.com/2026/10/21/europe/pope-leo-cancer-treatment-intl-latam",
-     "published": "2026-10-21T20:27:34.455Z"
+     "published": "2026-10-21T21:28:02.723Z"
+    },
+    {
+     "title": "US orders departure of some embassy staff and families from Saudi Arabia amid Houthi threat",
+     "brief": "The US State Department ordered the departure of non-essential staff and family members at its embassy in Riyadh, a move that comes amid intensifying strikes on Saudi Arabia by the Iran allied Houthi rebels in Yemen.",
+     "link": "https://www.cnn.com/2026/10/21/politics/us-orders-departure-embassy-staff-saudi-arabia",
+     "published": "2026-10-21T21:26:02.712Z"
+    },
+    {
+     "title": "Ebola has spread from Congo to 4 other countries. A look at where things stand",
+     "brief": "Ebola disease from the fast-moving outbreak in Congo has now spread to four other countries, including two where it’s active.",
+     "link": "https://www.cnn.com/2026/10/21/health/ebola-kenya-congo-nigeria-uganda-france",
+     "published": "2026-10-21T21:25:02.715Z"
     },
     {
      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
      "brief": "Russia has freed Stephen Hubbard, an American who had been imprisoned in Russia for more than four years on charges of fighting as a mercenary in Ukraine following a direct plea from US President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/21/europe/stephen-hubbard-prisoner-release-russia-trump-intl",
-     "published": "2026-10-21T20:26:34.480Z"
+     "published": "2026-10-21T21:24:02.691Z"
     },
     {
      "title": "New Mexico attorney general files civil lawsuit against two Epstein advisers",
      "brief": "New Mexico Attorney General Raúl Torrez on Wednesday filed a civil lawsuit against two of Jeffrey Epstein’s closest advisers, accusing them of having “facilitated and concealed” Epstein’s crimes.",
      "link": "https://www.cnn.com/2026/10/21/politics/new-mexico-epstein-lawsuit",
-     "published": "2026-10-21T20:24:34.474Z"
-    },
-    {
-     "title": "Player released by Titans after pulling out gun in parking lot, coach says",
-     "brief": "Tennessee Titans coach Robert Saleh confirmed Wednesday that defensive tackle Jordan Elliott was released after pulling a gun in the parking lot of the team facility but said it was a “terrible lapse in judgment that…",
-     "link": "https://www.cnn.com/2026/10/21/sport/jordan-elliott-released-titans",
-     "published": "2026-10-21T20:22:34.484Z"
-    },
-    {
-     "title": "The increasingly brazen stories about possible Trump administration corruption",
-     "brief": "There is increasing evidence that voters are concerned about corruption ahead of the 2026 midterm elections.",
-     "link": "https://www.cnn.com/2026/10/21/politics/trump-corruption-midterms",
-     "published": "2026-10-21T20:21:34.470Z"
-    },
-    {
-     "title": "Another woman alleges sexual assault at fraternity near University of Chicago",
-     "brief": "The University of Chicago is set to hold a public safety meeting Wednesday night after a woman recently reported she was sexually assaulted at a fraternity house near campus and another woman filed a lawsuit claiming…",
-     "link": "https://www.cnn.com/2026/10/21/us/university-of-chicago-fraternity-lawsuit",
-     "published": "2026-10-21T20:20:34.483Z"
+     "published": "2026-10-21T21:22:02.720Z"
     },
     {
      "title": "Key Ohio Republicans criticize Ramaswamy’s ad with Acton’s estranged mother, even as Vance warned them not to",
@@ -53,6 +53,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "1st Chinese Film Week opens in Oman",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2dnd0F1Und6MHZMMUp0OWNvY3BXbHpWSkQ4RFJDNkpseFZrUFZxNHBnQzNLOTFQMXBYWnpqX2dNY1FLSmd5Ykt6OUxDb2kySDVmeE9ER2Z1S3lKcFVGYk50SG1pMFoxUy0wdzltN1R3LTRvSTVEZEpmZlFVaFlOUl8xVVBsYU5QSF9IeQ?oc=5",
+     "published": "2026-10-21T20:40:00.000Z"
+    },
     {
      "title": "Malaysia News: National, Regional and World News",
      "brief": "",
@@ -94,12 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXQxRmx1TlFZc3ZyZDZVWUk3UW93R1pVNmVJcUFkdjJMU3FQT2wyUmlQbEJqOVdVUkY0dkMxOEYxX0pmV255VFJHNVZBOEVUem9Ba1hXa0I4c1l5NlY3ZUNPMFlXZTdiWThRM0pzRWRiWG9hNWdXSXBYN0NTX0FOWHVyQ0k1bjJ4RGFxSGZFWGgxTFZXZXYxU29YalRYNERmaGFXbFhmTnR4X2Q0TzJ2VkV0OS1NNlpUdkE2RG9pXy1qRzdyY2c?oc=5",
      "published": "2026-10-21T12:00:00.000Z"
-    },
-    {
-     "title": "Kuching school attack: Videos, images surface on social media claiming to be that of perpetrator",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlJsenloNVhsUE5IOVR5NG93djVuVEVndEFoUXlTU19iU3I3ZUJiNzlQUjZ1ckdtWUVneHcyQ1R1OFBmamloTXR5RWIwX3FOQUI3QUE2bTZmYVlNZUlzSkV3SmQxQkJKVlBHaWQ5eFNnb2stMjZFTzdqWDVNZWVwMGJHWjREOVU5YzYtZE9vZWFfSHZSdFpvTkpRbEkxOHl5Z1ZwTnd3ZmRqZjdCZHhpNzM5QTl6YUxBQUM5X0ZFdEt4LTdqUXpjVFIzbHYtWEJhNU5WMlVEOGNyREp1?oc=5",
-     "published": "2026-10-21T11:42:00.000Z"
     }
    ]
   }
