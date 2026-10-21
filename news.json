@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-21T04:30:13.777Z",
+ "updated": "2026-10-21T05:29:22.441Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -54,10 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Russian drones kill two people near Ukraine's Kharkiv overnight, governor says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZFpXREdSYTUwTi1XUVgxVXZpVFVoZ3NpdU9ialNFQ3QzeE1qZmkydWt3LVNpQl9UczA1cXpZQl9PZW9OaWh0Snc3X3lpUG9GNFEyT2hXaWlTeWNxaWFlTE9qcS14NlFUUXB2eDN1Z2VBbEd5Vm0yZnZ3OGRybTQ1SllKLTRBWG9UaUlQaGllVnBwWE9lQTFaSHI4MDB4a0tWMEFFR0NBQmRiSm0xZVVHTnFqOXZ3ZXJIQTJfbnBSaE1CZmpEVWdr?oc=5",
+     "published": "2026-10-21T04:33:00.000Z"
+    },
+    {
      "title": "Japan envoy Sasakawa meets Myanmar's Min Aung Hlaing, state media says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdtYmt5U2xhNkJXUF9OYmlGNlFtZ1pDZVlhT2w0cjhocERMOEdTUS1VV0Z5VTRGd0xNckh6LUN4LVJZaDBOTzIwWUhXTWx5Y2I4VlFSN0prbkc3QV9QbjBwc0Q3aUxCV3dHX3Q2UHZFUkE3X1JCZnNZWmlURzFUeEJTZGdmRnJaZTh0TW9iVEdQM0NmVGlvTTNWLUZwY0E2cHd5eFdTd3Z2dXRvLUZCZE5VU3E2LUNPRHZSMg?oc=5",
      "published": "2026-10-21T04:21:00.000Z"
+    },
+    {
+     "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPc2t3YkNLeHR3M2NoQ1hYZUN4UEZueUNZanBwZGk5TzlWWVNHWXpjNXZHaDRWX3RqbHFBY19OQnhDMV9ZR0lEZ2pNQTRSMVp0cEhwODI1ODJ3NVkyMFhBMFdaM3pILS1ocEJGQUZDeUItblhIZXZfRGVoc0F0WGsyRFotaHZPcHZFZW5pdDVlTnVKNEk5d2ZsdmQ2ZHpyU1cxbVBfV1Q0VDhOamVPbGJaYlJYTkQxZ3Z1djB3c19VY29HUWgwTkRaaWFnQQ?oc=5",
+     "published": "2026-10-21T04:03:00.000Z"
     },
     {
      "title": "Cricket-New Zealand ditches plans to launch team in Major League Cricket",
@@ -66,40 +78,28 @@
      "published": "2026-10-21T03:33:00.000Z"
     },
     {
+     "title": "Use AI to eliminate human fatigue and bias",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnJkTnYtWDZtQ29rOFI2TjVtLVA4ZGJvRlNscVJZem5jb1FyVXVNemZ1Ni1RSTRGWVNDOFhTUlloM1daTEJvVEFueEJsMzBYWWtUZldRNWp6aHd3enM5VzFxYUpxZXNMZTF1M0Vid1FLM1RMSER1TTV6dnJmQzdzMzdMZ0Q1WG1BaEVSRDdpS1luVHZWdS1tLVNTTGU?oc=5",
+     "published": "2026-10-21T03:22:30.000Z"
+    },
+    {
      "title": "A 5.0-magnitude quake hits south-west of Sumatra",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkxCQWVhdTBsX2Q1WmlmaHJ0Z1NyUHJOUnBPcEgyZzhSZS1NbEg1eGZldW5FZDIzOWpvUmh2OGZwVWFDeG5LWFVsZHNvU0p2b253RGRVUEhjUUFhU0NDYy1IZnVPejRrLWFwdnJxRFRPbk5wdUVBcHFoZnJtRE4xSlF2RXRTcHhOeWhjNXFLTU82NGRQYVFUeGt3Vnd4Zlo2bVJRdGoxVHFMT2FuMWc?oc=5",
      "published": "2026-10-21T03:13:00.000Z"
     },
     {
+     "title": "Bukit Aman and Singapore police arrest 30 suspects in cross-border crackdown",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZ2paNkw2QnBvWllMcVBGWnVyVDA1cHJiMGFQaXY2SzR5eHRhY0pWZ3UyQzB3UmhJOHFfWU9ubEJKTjNnZjdmUlEzRzVUM2hrWmpyX25IY3VlSFdpQUpEZTFKc0FlZkFGc0hVUm5Tam1IdXVSYU9scEYzekUxdFBFamdSMGVoVFVSVFMzT2IySmg3WVlVTVVDSVpWaUliaF9TQ2JEZnZWWUNKY3hFNjYzQ2dLaUVhMnJtZFhmbjR5cDdXTzRf?oc=5",
+     "published": "2026-10-21T02:05:00.000Z"
+    },
+    {
      "title": "Enact stiffer penalties to deter railway cable thieves",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xeVMxbE1hZUJBVGE3cG1lTjluTHlBRnMySzZxN1JBTEFZbEYyTjZuVGZLTDlVTHBIZU92Z3NKWlB1YjFiakswSVlYXzhRc0tPY2UtTkJiVjRsUVpuWmp6WnJGellSdDVZMEctYW5GQ3JHamp1c19PbTRDZjdIaXlIREFHN1BHdU5XWTBLZU9ZcFlmUUlzSnlESXVXb0NIeUY4aUhXbGNidUV2?oc=5",
      "published": "2026-10-21T01:55:41.000Z"
-    },
-    {
-     "title": "NWEBHD (0478), NWE RESOURCES GROUP BERHAD - Market Watch",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tVi01UzhKa2ZYN3Z1S25PY2txakxVZVB3RUVvc0VmWG40RmNFUzg2SXJuc2FaV1I0Y0lfZWg1R0NZUDRXU3VQQURXcGpLOTNkZ3B6MDJ3RVRCZkU5LU5weWlBMkxmZ3BWLS1MUWh5SkNuTllMcHdmVzJn?oc=5",
-     "published": "2026-10-21T01:50:20.000Z"
-    },
-    {
-     "title": "Lutnick announces investment to boost semiconductor production in North Carolina",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNYUhUNFNvZENaSlhyaktRVkJBUmtrbThNT0IzUnZSbjRoN0xGRzItNTVHMk5weDBNZmV2MXV1N2dyZmRwZ2tna2ZpcUlPS1BqZ2xsQ01aRmhGdWJKYmVBR0g3WjNhRzF0QWhwSjZNN1lQakNEd1RHTkoyS3BxWnZ5WnRuWHRXdFYySTRIRDVDN0F5N0NySVFUanN1Y0ZaVzh3V04xVXJ1WUdaWGpJRzQwZjlHVGRaR1hvS0x0RUpmR3V5dThIQWpvaDZHN243UQ?oc=5",
-     "published": "2026-10-21T01:31:00.000Z"
-    },
-    {
-     "title": "Ringgit opens higher on strong domestic data",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1VYbW9ZZHRRVm83aFA3Z0tsc1ZtWWhleFpqdG0tZjJibkc2ajRyNWR2UkhyaHBkV193YXExYlpwWGtoWFYzVGc4TnlOVkR3N1BDTmE4eWMwYmlQUG5iVkwweld5ZWtuTUY3c1hrMlNaVlBTdWktZDhvQ3ZmcmJmeEVzMDJqWk1ULXJpNTJXcHlQbmtuV1VZU3N4S3B3SVdvNERwRVc5OG0?oc=5",
-     "published": "2026-10-21T00:42:00.000Z"
-    },
-    {
-     "title": "Squash: Sangari could bump into compatriots early at Silicon Valley",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFg2bDNyUHphcWVtRzRNdXZhd21HcEl1Q29GaGxHTjlBMWdwNXdnOGRiRTNabjVBRzljNXQxSmdUSTZpT1ZERjlnSmg4Qzc5RHhVQlVQQTR0NlRRNF9Pa2cwXzNsZnRlVTh2Ml9Yd21scmhIUXk3a0REdEVPa2VEWVpqQUVNZnNIM3pNbWM5czRPZ0lEbHdaNExDOUtRTlpId2JwNjg3N3dlZTkwQjRn?oc=5",
-     "published": "2026-10-21T00:33:11.000Z"
     }
    ]
   }
