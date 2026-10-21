@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-21T03:29:23.571Z",
+ "updated": "2026-10-21T04:30:13.777Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "The Knicks raised a banner to the MSG rafters. Then LeBron James and the 76ers brought them back to earth",
+     "brief": "The rafters themselves are nothing special, merely a useful space to house lighting and air conditioning.",
+     "link": "https://www.cnn.com/2026/10/20/sport/new-york-knicks-lebron-james",
+     "published": "2026-10-20T12:00:00.000Z"
+    },
     {
      "title": "Memphis leaders reject contentious 18-month pause on new data center development",
      "brief": "Memphis leaders rejected a contentious 18-month pause on new data center development in the city Tuesday, just two weeks after a meeting on the issue led to protests, calls to police and a fist fight at City Hall.",
@@ -40,12 +46,6 @@
      "brief": "A simple selfie could hold surprising clues to your overall health and longevity, especially among people with cancer.",
      "link": "https://www.cnn.com/2026/10/20/health/ai-models-cancer-survival-biological-age",
      "published": "2026-10-20T12:00:00.000Z"
-    },
-    {
-     "title": "Vivek Ramaswamy launches $4 million ad campaign of controversial video featuring Amy Acton’s estranged mother",
-     "brief": "The campaign of Ohio Republican governor nominee Vivek Ramaswamy is launching a $4 million ad campaign featuring a controversial, viral video of his Democratic opponent’s estranged mom telling voters to reject her.",
-     "link": "https://www.cnn.com/2026/10/20/politics/amy-acton-mother-video",
-     "published": "2026-10-20T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +53,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Japan envoy Sasakawa meets Myanmar's Min Aung Hlaing, state media says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQckdtYmt5U2xhNkJXUF9OYmlGNlFtZ1pDZVlhT2w0cjhocERMOEdTUS1VV0Z5VTRGd0xNckh6LUN4LVJZaDBOTzIwWUhXTWx5Y2I4VlFSN0prbkc3QV9QbjBwc0Q3aUxCV3dHX3Q2UHZFUkE3X1JCZnNZWmlURzFUeEJTZGdmRnJaZTh0TW9iVEdQM0NmVGlvTTNWLUZwY0E2cHd5eFdTd3Z2dXRvLUZCZE5VU3E2LUNPRHZSMg?oc=5",
+     "published": "2026-10-21T04:21:00.000Z"
+    },
+    {
+     "title": "Cricket-New Zealand ditches plans to launch team in Major League Cricket",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGxGZ3I4Y05DdFYtai1PWERFSnVDNjBkdHpQV1AtWXNLdEpmUUExTEZRejBsWV9Ua0hMODd3T1FQN09CajMtRjBZZXpZWTd4enQ1aXVxZFpyc3RMMUF1MEhVbVpSM3lBYjB5cTV5VjBsRm5kS2ctWjMydVdQZEdDRlVRVlJNWWd0VnJXOERNQzhpby1ubXN3TUdkLVVxZXBvcmpJY0FaWDJhM3JVSmNhbDMtQ2otdkJIOTMxLUdoVlpMZw?oc=5",
+     "published": "2026-10-21T03:33:00.000Z"
+    },
     {
      "title": "A 5.0-magnitude quake hits south-west of Sumatra",
      "brief": "",
@@ -78,28 +90,16 @@
      "published": "2026-10-21T01:31:00.000Z"
     },
     {
-     "title": "Use AI to eliminate human fatigue and bias",
+     "title": "Ringgit opens higher on strong domestic data",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZnJkTnYtWDZtQ29rOFI2TjVtLVA4ZGJvRlNscVJZem5jb1FyVXVNemZ1Ni1RSTRGWVNDOFhTUlloM1daTEJvVEFueEJsMzBYWWtUZldRNWp6aHd3enM5VzFxYUpxZXNMZTF1M0Vid1FLM1RMSER1TTV6dnJmQzdzMzdMZ0Q1WG1BaEVSRDdpS1luVHZWdS1tLVNTTGU?oc=5",
-     "published": "2026-10-21T00:27:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU1VYbW9ZZHRRVm83aFA3Z0tsc1ZtWWhleFpqdG0tZjJibkc2ajRyNWR2UkhyaHBkV193YXExYlpwWGtoWFYzVGc4TnlOVkR3N1BDTmE4eWMwYmlQUG5iVkwweld5ZWtuTUY3c1hrMlNaVlBTdWktZDhvQ3ZmcmJmeEVzMDJqWk1ULXJpNTJXcHlQbmtuV1VZU3N4S3B3SVdvNERwRVc5OG0?oc=5",
+     "published": "2026-10-21T00:42:00.000Z"
     },
     {
-     "title": "Underwear thief sentenced to jail",
+     "title": "Squash: Sangari could bump into compatriots early at Silicon Valley",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZXlMWDNKNzBvT2dpblp2bVdQODFDblBkMnpfMkpybGNSLURHYUd2MUdFZndHSkg1TGI5OE1sRmxuWE5PVFRMMUt6dmNCNER2TFZrLTA0RW8zMnkzdzF1VnBIcDJ5SHdEMGgxYldoUmVSM1dyYmYtRS0yMVNDVHE2R0VlaW10OU5Sa3dv?oc=5",
-     "published": "2026-10-21T00:17:15.000Z"
-    },
-    {
-     "title": "No MyKad, so man uses MyKid to apply for work",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN0NaX0NFVXEwVk50SUFZaTliMFBGaUpIeThsTTAxYWtldVVlRlZVSVktUGZNazRlNVhfZHRlZXRjZWJJd2docjdBTTJvTUpoTnlIajZZNFJLcGZWd1ZuclIwMHc2Z0I3QktmakF4OGJYRnd5U1RvOTFnWFZJU3JjVmlIRDE2SlR4ZjRmMDZWM2dlTlhHU0kzdC1R?oc=5",
-     "published": "2026-10-21T00:16:19.000Z"
-    },
-    {
-     "title": "M’sia eyes land routes for durians",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZmRYdWtBNGxSYXU5OWsxUTVpM0l4U2FlZGZJbmhtYTl4SHU1V1JYd2d1ako2NDdTTnNXV3JvOEhrZzZlTFp3S1dzZnF1N3FaX1gxRGhkdmltcXBZdGNCMXVPTzFmcVJJWDJuWGozYW03T0c5d1Nnb0FmeUxRTW5wQWpVdVZzT29UVDdn?oc=5",
-     "published": "2026-10-21T00:02:50.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFg2bDNyUHphcWVtRzRNdXZhd21HcEl1Q29GaGxHTjlBMWdwNXdnOGRiRTNabjVBRzljNXQxSmdUSTZpT1ZERjlnSmg4Qzc5RHhVQlVQQTR0NlRRNF9Pa2cwXzNsZnRlVTh2Ml9Yd21scmhIUXk3a0REdEVPa2VEWVpqQUVNZnNIM3pNbWM5czRPZ0lEbHdaNExDOUtRTlpId2JwNjg3N3dlZTkwQjRn?oc=5",
+     "published": "2026-10-21T00:33:11.000Z"
     }
    ]
   }
