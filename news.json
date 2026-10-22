@@ -1,50 +1,56 @@
 {
- "updated": "2026-10-22T14:32:34.041Z",
+ "updated": "2026-10-22T15:33:37.074Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Nothing personal between me and Trump, Zelensky tells CNN",
+     "brief": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me…",
+     "link": "https://www.cnn.com/2026/10/22/europe/zelensky-ukraine-trump-interview-amanpour-intl",
+     "published": "2026-10-22T15:33:37.365Z"
+    },
+    {
+     "title": "Taking back the algorithm: Social media platforms are restoring users’ control of their feeds",
+     "brief": "As a new mom-to-be, my social media feeds have clocked me — funneling endless videos my way about pregnancy, nursery prep and birth stories, to the point of baby information overload.",
+     "link": "https://www.cnn.com/2026/10/22/tech/social-media-user-algorithm-control",
+     "published": "2026-10-22T15:32:37.433Z"
+    },
+    {
+     "title": "KFC switches to Coke. But Pepsi’s still king at Taco Bell",
+     "brief": "KFC dumped PepsiCo last week, but its sister chain Taco Bell announced Thursday it’s keeping the Mountain Dew Baja Blast maker on for another decade.",
+     "link": "https://www.cnn.com/2026/10/22/food/pepsi-taco-bell-agreement",
+     "published": "2026-10-22T15:31:37.414Z"
+    },
+    {
+     "title": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge",
+     "brief": "The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty Thursday to charges that he raped a 17-year-old girl at his family’s Massachusetts home.",
+     "link": "https://www.cnn.com/2026/10/22/us/clavicular-rape-charge-arraignment",
+     "published": "2026-10-22T15:29:37.419Z"
+    },
+    {
      "title": "France reports first human case of livestock virus Shamonda after patient dies",
      "brief": "France on Thursday reported the first human case of the Shamonda virus usually found in livestock in a patient who later died, with authorities adding there was no risk to the general population at this stage.",
      "link": "https://www.cnn.com/2026/10/22/europe/france-livestock-virys-shamonda-intl",
-     "published": "2026-10-22T14:31:34.333Z"
+     "published": "2026-10-22T15:27:37.426Z"
     },
     {
      "title": "She survived a school shooting. Now her children have, too",
      "brief": "“Mom, there’s a shooter,” Michelle’s fifth grader said through the phone.",
      "link": "https://www.cnn.com/2026/10/22/us/school-shooting-survival-oregon-family",
-     "published": "2026-10-22T14:30:34.313Z"
+     "published": "2026-10-22T15:26:37.436Z"
     },
     {
-     "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
-     "brief": "A Virginia grand jury has indicted Democratic state Sen.",
-     "link": "https://www.cnn.com/2026/10/22/politics/va-senator-louise-lucas-indictment",
-     "published": "2026-10-22T14:29:34.341Z"
-    },
-    {
-     "title": "Meet Adri Mehmeti, the 17-year-old future star of American soccer",
-     "brief": "As he sits down to talk, a beaming smile spreads across Adri Mehmeti’s face.",
-     "link": "https://www.cnn.com/2026/10/22/sport/adri-mehmeti-us-soccer-phenom-profile",
-     "published": "2026-10-22T14:28:34.269Z"
-    },
-    {
-     "title": "Gladys Knight’s family and inner circle don’t see eye to eye on her condition",
-     "brief": "No performer, even one of the greatest voices in American music, can be expected to be at the top of their game in their 80s, but there was something about the way Gladys Knight appeared disoriented at one of her…",
-     "link": "https://www.cnn.com/2026/10/22/entertainment/gladys-knight-touring-concern",
-     "published": "2026-10-22T14:27:34.281Z"
+     "title": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet",
+     "brief": "Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.",
+     "link": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
+     "published": "2026-10-21T12:00:00.000Z"
     },
     {
      "title": "Construction on Trump’s 250-foot triumphal arch in DC could begin in just two weeks",
      "brief": "The Trump administration told a judge Wednesday evening that construction on the president’s controversial 250-foot triumphal arch could begin in just two weeks, days after the midterm elections.",
      "link": "https://www.cnn.com/2026/10/21/politics/construction-trump-triumphal-arch-could-begin-two-weeks",
-     "published": "2026-10-21T12:00:00.000Z"
-    },
-    {
-     "title": "Massive strikes hit Kyiv hours after Putin agrees to fresh peace talks",
-     "brief": "Russia attacked the Ukrainian capital of Kyiv in a massive missile attack overnight into Thursday, hours after President Vladimir Putin said the Kremlin was ready to resume trilateral peace talks next month.",
-     "link": "https://www.cnn.com/2026/10/21/europe/us-envoy-witkoff-putin-talks-russia-ukraine-intl",
      "published": "2026-10-21T12:00:00.000Z"
     }
    ]
@@ -60,10 +66,10 @@
      "published": "2026-10-22T14:26:57.000Z"
     },
     {
-     "title": "Football: Soccer-Sports Council refers LaLiga's Tebas to tribunal over Real Madrid comments",
+     "title": "HK singer Sally Yeh, 65, nearly falls off stage during concert in China",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM0dzUmx0dU9DY0p3X2V1aVNtN0V1dnBNbmVEbXVxRHdhOTl1bFZXNkJNblIwUDRLMHUzWnpCbGg3YXcxMThiOC1yRHF2X2xWM3V2YW51YW5oODJRMGJnTWxYNE05MV9JZGIycFF4c3A3T3FjZkVQTXVZWWRraGJRWjluY08tamZ4NXdEc1FXQkhJY1piUENVU0VuamxEdjA5eHJIY2loaVJpUTJDalgxcnRFaWsxeHNKY3ZCUnp4UzhrNEV1RHFiVkhxbTJmcnRFOFE?oc=5",
-     "published": "2026-10-22T13:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFFVbS1iQXhGbi1Zc0xlUHRtVjc1Z29XTFR6Mm1ZaVdTU1pydFRCRmk1QWxNenhVbUQ1dlFBQlRTc2UxYTNYa3g0ZzJ0LTk2M2F4SU5SNnE3cGNnbGI3UjBnLTRpM2hLMjI4YzVnbWRGaWR6TVdBWTlWVWMtSXpVOFBETEZnTzNOSzk1NkRTRV80bkRMVW5sQVpzZzJrbWFEMXJKTklUbHJoOGZQS3FhNF9ObjVvcE1VaDF1NmFZTGNnMGc4MS1TSm0yNA?oc=5",
+     "published": "2026-10-22T13:00:00.000Z"
     },
     {
      "title": "'Another big fish hauled up' Beijing deputy mayor placed under probe, China's anti-graft watchdog says",
@@ -78,6 +84,12 @@
      "published": "2026-10-22T11:50:00.000Z"
     },
     {
+     "title": "Tan Sri Lim Sing's passing a great loss to the nation, says Dr Wee",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxRGoySjFuYlRNUXBzU2UtaEo2VkdZVmZmaS1JeEphc3d1NXZBdkhGMXQ2Nm9CQUJyZlNjbUlrZzdzRF96clctdHVfcGY3eGdzMGFWcUJOQkVnd1IwN0lqUFJCN3pFRmFwNGxtS1UwNzQ4YUxaNjg2VUtJZUZBeDM0QWZHT3JlSTZyWnFobjhQY2NYR21FQmtpZnNZQ25LVV9HX2w5dWR1UE9ZOVdFOWNTaGt2Nl9C?oc=5",
+     "published": "2026-10-22T11:25:00.000Z"
+    },
+    {
      "title": "Malaysia News: National, Regional and World News",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
@@ -90,22 +102,16 @@
      "published": "2026-10-22T11:11:00.000Z"
     },
     {
-     "title": "Authors",
+     "title": "Case for putting tropical fruits at centre of international public discussion annually",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NYUlpRkJHMXM1bE52RmsydjhBVzFSWmFwc0w4WFhkdkFUR2xmNG9NSWZoSW43ZkFnZHVwTTNBOElQRXhpMlpWWU1sZlN4RTh2cWRNaDM0RFY0SGNZMUdV?oc=5",
-     "published": "2026-10-22T10:14:20.000Z"
-    },
-    {
-     "title": "‘Retire from work, not life’: Ramanan says retirees can still be mentors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX1lYaENfUDJFWC15cVpqazh6TDZOeTZiYkhwQ1IzSUFYQmJwa09LRlZYOWgySE5kMnFNZ3Z5VnJrTWdyQzByOWR3RV83VjBocVhFRWdZWnZnQzl5UHNtN0ZvNUduckVERGh0Vm81WFlhZ1BReTA2X2d3U0hHdC1mUDZlcm1WMFlEaklvemVucTcwYklGMkxDYnFCNk1pY1lPV3loVHdKSFpQQzg3QkxnTkVhMGJ4ODlnNFE?oc=5",
-     "published": "2026-10-22T09:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUm1TODhoWUJKLUpJQnhCajJmU0pDbVZ6Q1FYZmh0X0tOR1VqcXU1T0FnNkpvQ3hfUXhFd2RQSUxROWk1VmpKNHBldERyNkNyemhPdTdwdXFRcWJNdlZqX3d6a0NRaUdUQmRabC12SEhKWk9SSmt0Ylk1ZkczU2VMMjVmZUVjNUhiZWtoSC05UEk4WTA4TkpRNlV0cTZGRnZnM0E0MEpTeS1TTHV3RzRtTG8yaWNMckdFNmM1TzlFcndWU01vS2c0SHV2YkJsZ1BCVjFvVkt0NA?oc=5",
+     "published": "2026-10-22T10:42:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
