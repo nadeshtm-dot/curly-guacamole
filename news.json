@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-22T21:28:17.177Z",
+ "updated": "2026-10-22T22:26:56.407Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Nothing personal between me and Trump, Zelensky tells CNN",
-     "brief": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me…",
-     "link": "https://www.cnn.com/2026/10/22/europe/zelensky-ukraine-trump-interview-amanpour-intl",
-     "published": "2026-10-22T21:28:17.379Z"
+     "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
+     "brief": "When the news arrived in August that what could be the first personalized mRNA cancer vaccine had succeeded in a late-stage clinical trial in melanoma, oncologists and the public alike were exhilarated.",
+     "link": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
+     "published": "2026-10-22T22:26:56.603Z"
     },
     {
-     "title": "MAHA adviser who introduced RFK Jr. to Trump quits admin amid frustrations over food policy",
-     "brief": "Calley Means, a prominent figure in the “Make America Healthy Again” movement, resigned from his position as a senior Trump health official on Thursday over frustrations with the government’s progress tackling…",
-     "link": "https://www.cnn.com/2026/10/22/politics/maha-calley-means-quits",
-     "published": "2026-10-22T21:27:17.415Z"
+     "title": "Execution staff worried IV site might have ‘blown’ during Christa Pike’s execution attempt",
+     "brief": "Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike’s arms before her attempted execution and warned that some of her veins may have ruptured, or “blown,” before she…",
+     "link": "https://www.cnn.com/2026/10/22/us/christa-pike-execution-attempt-staff-worried",
+     "published": "2026-10-22T22:25:56.634Z"
+    },
+    {
+     "title": "Supreme Court says New Hampshire can limit use of student IDs for voting",
+     "brief": "The Supreme Court on Thursday allowed New Hampshire officials to limit when voters may use a student ID to receive a ballot, agreeing that a lower court ruling that blocked enforcement of the policy was too close to…",
+     "link": "https://www.cnn.com/2026/10/22/politics/supreme-court-new-hampshire-limit-student-id-voting",
+     "published": "2026-10-22T22:24:56.631Z"
+    },
+    {
+     "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
+     "brief": "A Virginia grand jury has indicted Democratic state Sen.",
+     "link": "https://www.cnn.com/2026/10/22/politics/va-senator-louise-lucas-indictment",
+     "published": "2026-10-22T22:22:56.617Z"
     },
     {
      "title": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their future",
      "brief": "The horse-drawn carriages that have cruised through Central Park for more than 150 years will soon be banished from New York City, ending an iconic tradition beloved by tourists but long opposed by animal welfare…",
      "link": "https://www.cnn.com/2026/10/22/us/nyc-horse-carriages",
-     "published": "2026-10-22T21:25:17.437Z"
+     "published": "2026-10-22T22:21:56.622Z"
     },
     {
-     "title": "Justice Department investigating Republican operative Corey Lewandowski over alleged contract misconduct at DHS, sources say",
-     "brief": "Justice Department prosecutors are investigating allegations of contract misconduct at the Department of Homeland Security, including the role of Corey Lewandowski who worked as de facto chief of staff to former…",
-     "link": "https://www.cnn.com/2026/10/22/politics/republican-corey-lewandowski-justice-department-investigation",
-     "published": "2026-10-22T21:24:17.407Z"
-    },
-    {
-     "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
-     "brief": "When the news arrived in August that what could be the first personalized mRNA cancer vaccine had succeeded in a late-stage clinical trial in melanoma, oncologists and the public alike were exhilarated.",
-     "link": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
-     "published": "2026-10-22T21:23:17.419Z"
-    },
-    {
-     "title": "Strong 7-magnitude earthquake strikes China’s Tibet region",
+     "title": "Strong 7-magnitude earthquake hits China’s Tibet region, killing 16 and injuring dozens, state media reports",
      "brief": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck China’s Tibet region on Thursday, according to state news agency Xinhua.",
      "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
-     "published": "2026-10-22T21:22:17.440Z"
+     "published": "2026-10-22T22:20:56.636Z"
     },
     {
-     "title": "Judge insists Trump must be deposed in his $10B lawsuit against the BBC, warns it could be tossed in fight over records",
-     "brief": "A federal judge warned President Donald Trump could see his $10 billion defamation lawsuit against the BBC dismissed if he does not work harder to produce information the news outlet is entitled to in the case,…",
-     "link": "https://www.cnn.com/2026/10/22/politics/trump-deposition-10-billion-bbc-lawsuit",
-     "published": "2026-10-22T21:21:17.411Z"
+     "title": "Nothing personal between me and Trump, Zelensky tells CNN",
+     "brief": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me…",
+     "link": "https://www.cnn.com/2026/10/22/europe/zelensky-ukraine-trump-interview-amanpour-intl",
+     "published": "2026-10-22T22:19:56.639Z"
     },
     {
-     "title": "Construction on Trump’s 250-foot triumphal arch in DC could begin in just two weeks",
-     "brief": "The Trump administration told a judge Wednesday evening that construction on the president’s controversial 250-foot triumphal arch could begin in just two weeks, days after the midterm elections.",
-     "link": "https://www.cnn.com/2026/10/21/politics/construction-trump-triumphal-arch-could-begin-two-weeks",
+     "title": "A botched scientific experiment returns as a Netflix reality TV show",
+     "brief": "The Stanford Prison Experiment lasted less than a week in 1971, but its claims about human nature endured for decades.",
+     "link": "https://www.cnn.com/2026/10/21/science/stanford-prison-experiment-netflix",
      "published": "2026-10-21T12:00:00.000Z"
     }
    ]
@@ -60,22 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "U.S. stocks close mixed",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9leGZocmtoOVQwXzV6akk3cmhSdEwtUW9lNHF3bU40VnZLVHNoRk1QYzdmRzhKTlhrQXBVeGhqcHZLNzlqUWNmRkR4ZEQ5STJuVjVFb25qcjhWRnZKdllvd1J2QlNVY0U2bFFiQXJ5R3ltVWVoeXNXT0Fn?oc=5",
+     "published": "2026-10-22T20:11:00.000Z"
+    },
+    {
      "title": "Authors",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdjREbUFDQS1NRkV2SlJlSl9aZ0Y4RjNLYlduZUVES1VlZnBDek45M0tNUFNOVXpaZWhtSDk2UTc1QkI0bzFQVU1oTXdVRnBZTm5uUlRxRzNiZw?oc=5",
      "published": "2026-10-22T19:07:56.000Z"
-    },
-    {
-     "title": "19th Verona Eurasian Economic Forum kicks off in Istanbul",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTBoT0hXbnM3NEM3S1NCcXhwWDdTNVRNRzl1VjJCaTN3TkFEbl9KSVZIMVlMdUs4SXdFYlJUSnpXQ0FMWXR6cW1zekRDWW9fVDhOYzJVVGQwakRsSW96RXh2eU10TlVoYWxEMVVYSFNFRmJWelM3VFFVMnNkZHVDc3UydGN5ampubzJvZnZ0aHhld1dqNjdLUjU5SDBzVmRhVVNMRmlFQ1JMQQ?oc=5",
-     "published": "2026-10-22T17:31:00.000Z"
-    },
-    {
-     "title": "Greece, Egypt in talks to extend maritime zone further east",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGZIZmxNcjA0VHg3bG9zWmJ0UEpiZ3c1d0llTmhKOGNma2l5bjRaWF9RQkRZLWJ1UDI3UnBZeWFwbGFDaGs4X1p2aUpCMVNWcDdZUmMxRjMyRF9LUENMeHN3OUdaeE1NMzhqUEZUT3dsZkk4dVhTWVBmbGNjeWdTU1BXQ2h3QUlaQXliMjNCaXlMVm5GQklxM0laeFpKbDg4bXdQYVYzQl9JV0E?oc=5",
-     "published": "2026-10-22T15:35:00.000Z"
     },
     {
      "title": "HK singer Sally Yeh, 65, nearly falls off stage during concert in China",
@@ -106,6 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxRGoySjFuYlRNUXBzU2UtaEo2VkdZVmZmaS1JeEphc3d1NXZBdkhGMXQ2Nm9CQUJyZlNjbUlrZzdzRF96clctdHVfcGY3eGdzMGFWcUJOQkVnd1IwN0lqUFJCN3pFRmFwNGxtS1UwNzQ4YUxaNjg2VUtJZUZBeDM0QWZHT3JlSTZyWnFobjhQY2NYR21FQmtpZnNZQ25LVV9HX2w5dWR1UE9ZOVdFOWNTaGt2Nl9C?oc=5",
      "published": "2026-10-22T11:25:00.000Z"
+    },
+    {
+     "title": "Malaysia News: National, Regional and World News",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
+     "published": "2026-10-22T11:17:02.000Z"
     }
    ]
   }
