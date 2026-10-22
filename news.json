@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-22T17:28:29.651Z",
+ "updated": "2026-10-22T18:30:07.405Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "She survived a school shooting. Now her children have, too",
-     "brief": "“Mom, there’s a shooter,” Michelle’s fifth grader said through the phone.",
-     "link": "https://www.cnn.com/2026/10/22/us/school-shooting-survival-oregon-family",
-     "published": "2026-10-22T17:28:29.855Z"
+     "title": "JD Vance is happy to tell you about his Machiavellian politics",
+     "brief": "Americans have become plenty familiar with Machiavellian politics during the Donald Trump era.",
+     "link": "https://www.cnn.com/2026/10/22/politics/jd-vance-ramaswamy-ad-politics",
+     "published": "2026-10-22T18:29:07.703Z"
     },
     {
-     "title": "Judge insists Trump must be deposed in his $10B lawsuit against the BBC, warns it could be tossed in fight over records",
-     "brief": "A federal judge warned President Donald Trump could see his $10 billion defamation lawsuit against the BBC dismissed if he does not work harder to produce information the news outlet it is entitled to in the case,…",
-     "link": "https://www.cnn.com/2026/10/22/politics/trump-deposition-10-billion-bbc-lawsuit",
-     "published": "2026-10-22T17:27:29.829Z"
-    },
-    {
-     "title": "Strong 7-magnitude earthquake strikes China’s Tibet region",
-     "brief": "A strong magnitude 7 earthquake struck China’s Tibet at 10.30 p.m.",
-     "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
-     "published": "2026-10-22T17:26:30.032Z"
+     "title": "Nothing personal between me and Trump, Zelensky tells CNN",
+     "brief": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me…",
+     "link": "https://www.cnn.com/2026/10/22/europe/zelensky-ukraine-trump-interview-amanpour-intl",
+     "published": "2026-10-22T18:28:07.710Z"
     },
     {
      "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
      "brief": "A Virginia grand jury has indicted Democratic state Sen.",
      "link": "https://www.cnn.com/2026/10/22/politics/va-senator-louise-lucas-indictment",
-     "published": "2026-10-22T17:25:29.832Z"
+     "published": "2026-10-22T18:27:07.719Z"
     },
     {
-     "title": "‘Looksmaxxing’ streamer known as Clavicular pleads not guilty to rape charge",
-     "brief": "The “looksmaxxing” livestreamer Braden Peters, better known by his stage name Clavicular , pleaded not guilty Thursday to charges that he raped a 17-year-old girl at his family’s Massachusetts home.",
-     "link": "https://www.cnn.com/2026/10/22/us/clavicular-rape-charge-arraignment",
-     "published": "2026-10-22T17:24:29.873Z"
+     "title": "Strong 7-magnitude earthquake strikes China’s Tibet region",
+     "brief": "A strong magnitude 7 earthquake struck China’s Tibet at 10.30 p.m.",
+     "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
+     "published": "2026-10-22T18:26:07.713Z"
     },
     {
-     "title": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their livelihoods",
-     "brief": "The horse-drawn carriages that have cruised through Central Park for more than 150 years are set to be banished soon from New York City, ending an iconic tradition beloved by tourists but long opposed by animal…",
-     "link": "https://www.cnn.com/2026/10/22/us/nyc-horse-carriages",
-     "published": "2026-10-22T17:23:29.846Z"
-    },
-    {
-     "title": "KFC switches to Coke. But Pepsi’s still king at Taco Bell",
+     "title": "Taco Bell sticks with Pepsi as sister chain switches to Coke",
      "brief": "KFC dumped PepsiCo last week, but its sister chain Taco Bell announced Thursday it’s keeping the Mountain Dew Baja Blast maker on for another decade.",
      "link": "https://www.cnn.com/2026/10/22/food/pepsi-taco-bell-agreement",
-     "published": "2026-10-22T17:22:29.871Z"
+     "published": "2026-10-22T18:25:07.721Z"
     },
     {
-     "title": "US orders departure of some embassy staff and families from Saudi Arabia amid Houthi threat",
-     "brief": "The US State Department ordered the departure of non-essential staff and family members at its embassy in Riyadh, a move that comes amid intensifying strikes on Saudi Arabia by the Iran allied Houthi rebels in Yemen.",
-     "link": "https://www.cnn.com/2026/10/21/politics/us-orders-departure-embassy-staff-saudi-arabia",
+     "title": "Judge insists Trump must be deposed in his $10B lawsuit against the BBC, warns it could be tossed in fight over records",
+     "brief": "A federal judge warned President Donald Trump could see his $10 billion defamation lawsuit against the BBC dismissed if he does not work harder to produce information the news outlet is entitled to in the case,…",
+     "link": "https://www.cnn.com/2026/10/22/politics/trump-deposition-10-billion-bbc-lawsuit",
+     "published": "2026-10-22T18:24:07.716Z"
+    },
+    {
+     "title": "She survived a school shooting. Now her children have, too",
+     "brief": "“Mom, there’s a shooter,” Michelle’s fifth grader said through the phone.",
+     "link": "https://www.cnn.com/2026/10/22/us/school-shooting-survival-oregon-family",
+     "published": "2026-10-22T18:23:07.690Z"
+    },
+    {
+     "title": "Websites shut down globally after AI finds cybersecurity flaw affecting 70% of the internet",
+     "brief": "Governments and companies around the world are racing to fix vulnerabilities revealed by artificial intelligence that could affect 70% of the world’s websites.",
+     "link": "https://www.cnn.com/2026/10/21/tech/php2shell-vulnerability-ai-intl",
      "published": "2026-10-21T12:00:00.000Z"
     }
    ]
@@ -66,12 +66,6 @@
      "published": "2026-10-22T16:15:00.000Z"
     },
     {
-     "title": "Motorsport: Motor racing-British teenager Slater to make F1 practice debut with Audi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnExenB3VEpMcy1pNTRKVVUyY29zMkxUZl9obDVQajdnb2czVmw1X3M4OG1NWHlXNWgwb2ZqQUV5NTNkZ2NJZW9xZ213c1NoblRlc0RsZi01QXkzcXJFQlQ2em16RTljandsd0FSWm5YemRuQmRMaXA5aF9fSDV2eUk5TmQwQTVJSnJDRlJQV3FqaHlYSkJjSjhVeUlGV3ZCd3RiYTBWUWRLWW5BVTR4Z3FYbHdJc3dHa3h1TUJJRDVmaWdIUXc?oc=5",
-     "published": "2026-10-22T15:55:00.000Z"
-    },
-    {
      "title": "Greece, Egypt in talks to extend maritime zone further east",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeGZIZmxNcjA0VHg3bG9zWmJ0UEpiZ3c1d0llTmhKOGNma2l5bjRaWF9RQkRZLWJ1UDI3UnBZeWFwbGFDaGs4X1p2aUpCMVNWcDdZUmMxRjMyRF9LUENMeHN3OUdaeE1NMzhqUEZUT3dsZkk4dVhTWVBmbGNjeWdTU1BXQ2h3QUlaQXliMjNCaXlMVm5GQklxM0laeFpKbDg4bXdQYVYzQl9JV0E?oc=5",
@@ -84,18 +78,6 @@
      "published": "2026-10-22T14:30:00.000Z"
     },
     {
-     "title": "The Star | Malaysia News: National, Regional and World News",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
-     "published": "2026-10-22T14:26:57.000Z"
-    },
-    {
-     "title": "Football: Soccer-Sports Council refers LaLiga's Tebas to tribunal over Real Madrid comments",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPM0dzUmx0dU9DY0p3X2V1aVNtN0V1dnBNbmVEbXVxRHdhOTl1bFZXNkJNblIwUDRLMHUzWnpCbGg3YXcxMThiOC1yRHF2X2xWM3V2YW51YW5oODJRMGJnTWxYNE05MV9JZGIycFF4c3A3T3FjZkVQTXVZWWRraGJRWjluY08tamZ4NXdEc1FXQkhJY1piUENVU0VuamxEdjA5eHJIY2loaVJpUTJDalgxcnRFaWsxeHNKY3ZCUnp4UzhrNEV1RHFiVkhxbTJmcnRFOFE?oc=5",
-     "published": "2026-10-22T13:51:00.000Z"
-    },
-    {
      "title": "HK singer Sally Yeh, 65, nearly falls off stage during concert in China",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaFFVbS1iQXhGbi1Zc0xlUHRtVjc1Z29XTFR6Mm1ZaVdTU1pydFRCRmk1QWxNenhVbUQ1dlFBQlRTc2UxYTNYa3g0ZzJ0LTk2M2F4SU5SNnE3cGNnbGI3UjBnLTRpM2hLMjI4YzVnbWRGaWR6TVdBWTlWVWMtSXpVOFBETEZnTzNOSzk1NkRTRV80bkRMVW5sQVpzZzJrbWFEMXJKTklUbHJoOGZQS3FhNF9ObjVvcE1VaDF1NmFZTGNnMGc4MS1TSm0yNA?oc=5",
@@ -106,6 +88,24 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX3RFYTF4aXFtR2NUUjFHdWJrbHRva1o4dlh4SEVVZHBuRUl6T2lYbVNQRWFMdWZnUHBzaGt5ZDJRNHpUS2tiOFpJeUIyWTdnSnJ4RzZxeGIzMnd1a19Lb0JnaEhycHdaRVZiZUhpekZCRXROVTNmY1NWZHktRXhEMmZGVHd5Q0ljYk9uRmUycVNjOV81VjQ5SnJ4dVFEWnhRUWRuVFpXX1hvZjBWSVRZd1BUTHJhR3huaFF0T0YxNTFKYnJPb3Bv?oc=5",
      "published": "2026-10-22T12:40:00.000Z"
+    },
+    {
+     "title": "'Another big fish hauled up' Beijing deputy mayor placed under probe, China's anti-graft watchdog says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObVk4NzhhOUszVXNnUVkxYW9CMHFtamdBTWZlVlBweFRTV3lJM29ZekYtckJpYm9XcEc2RF9BR0o1ZHAwWUZWOWlqX3pMa0tJSDI3UlVfRGpCWUhRamVYdHBZN0w2cm1NN3d5RlFyaXJpbmxnbHNRdUg0NFRCVGxIRDcxMDJsSlVHNFQzYnFOY216T1Q4eFFkRWMwSktnc25nS3hPcGd5UE5iVFAtUmdQcXNYaXJvZ1hsNnBWNXhwTDhxbGVuODNlN3RkWUxadzdmYTNLMGdVanpYakVQWTdWWU5ZZzRTdTVfSmV5VFFKaExrMGhDMVRZRExncDVjeGc?oc=5",
+     "published": "2026-10-22T12:06:00.000Z"
+    },
+    {
+     "title": "Multi-million ringgit child sexual exploitation ring busted, nine to be charged",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQk5JZTdiMWhseE1FOF9YUlRaR1VPMjdGNjNxc29WSDhEeWJYMHF1dkNzOWtsZmU0Qi1yVEFEREZWTjlHR1otSHZYX0Y3VUMtYlRTWFA2WmJoazZUdUdTcDVMdXA0ZWlCam9pYUNUQkZzR1NVR1ZWcENBeHpzTUowSTM2TE5FaTNtNlFpeXExZzRVWGV2QUJiZlRWSXR3WE5IbW8tRVNGSC0wQmNMMzg1OFBSRE5hTTg3NFlRQzdHeGlNV3IySTA4?oc=5",
+     "published": "2026-10-22T11:50:00.000Z"
+    },
+    {
+     "title": "Tan Sri Lim Sing's passing a great loss to the nation, says Dr Wee",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxRGoySjFuYlRNUXBzU2UtaEo2VkdZVmZmaS1JeEphc3d1NXZBdkhGMXQ2Nm9CQUJyZlNjbUlrZzdzRF96clctdHVfcGY3eGdzMGFWcUJOQkVnd1IwN0lqUFJCN3pFRmFwNGxtS1UwNzQ4YUxaNjg2VUtJZUZBeDM0QWZHT3JlSTZyWnFobjhQY2NYR21FQmtpZnNZQ25LVV9HX2w5dWR1UE9ZOVdFOWNTaGt2Nl9C?oc=5",
+     "published": "2026-10-22T11:25:00.000Z"
     }
    ]
   }
