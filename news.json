@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-22T22:26:56.407Z",
+ "updated": "2026-10-22T23:26:48.969Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
-     "brief": "When the news arrived in August that what could be the first personalized mRNA cancer vaccine had succeeded in a late-stage clinical trial in melanoma, oncologists and the public alike were exhilarated.",
-     "link": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
-     "published": "2026-10-22T22:26:56.603Z"
-    },
-    {
-     "title": "Execution staff worried IV site might have ‘blown’ during Christa Pike’s execution attempt",
-     "brief": "Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike’s arms before her attempted execution and warned that some of her veins may have ruptured, or “blown,” before she…",
-     "link": "https://www.cnn.com/2026/10/22/us/christa-pike-execution-attempt-staff-worried",
-     "published": "2026-10-22T22:25:56.634Z"
+     "title": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
+     "brief": "More than 50,000 people are estimated to have died across Europe’s cities during the brutal heat waves that roiled the continent this summer — making this year’s heat the region’s deadliest on record, according to a…",
+     "link": "https://www.cnn.com/2026/10/22/climate/europe-heat-wave-deaths-50000",
+     "published": "2026-10-22T23:26:49.174Z"
     },
     {
      "title": "Supreme Court says New Hampshire can limit use of student IDs for voting",
      "brief": "The Supreme Court on Thursday allowed New Hampshire officials to limit when voters may use a student ID to receive a ballot, agreeing that a lower court ruling that blocked enforcement of the policy was too close to…",
      "link": "https://www.cnn.com/2026/10/22/politics/supreme-court-new-hampshire-limit-student-id-voting",
-     "published": "2026-10-22T22:24:56.631Z"
+     "published": "2026-10-22T23:25:49.163Z"
+    },
+    {
+     "title": "JD Vance’s ‘stop whining’ defense of Ramaswamy’s ad epitomizes his Machiavellian politics",
+     "brief": "Americans have become plenty familiar with Machiavellian politics during the Donald Trump era.",
+     "link": "https://www.cnn.com/2026/10/22/politics/jd-vance-ramaswamy-ad-politics",
+     "published": "2026-10-22T23:24:49.158Z"
+    },
+    {
+     "title": "Trump keeps hinting he’ll resume the Iran war after the midterms. These Iowa GOP voters sound wary",
+     "brief": "When Christine Brenden, an Iowa paralegal who staunchly supports President Donald Trump, went to fill her gas tank a year ago, it cost around $40.",
+     "link": "https://www.cnn.com/2026/10/22/politics/iowa-republicans-trump-iran-war",
+     "published": "2026-10-22T23:23:49.148Z"
+    },
+    {
+     "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
+     "brief": "When the news arrived in August that what could be the first personalized mRNA cancer vaccine had succeeded in a late-stage clinical trial in melanoma, oncologists and the public alike were exhilarated.",
+     "link": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
+     "published": "2026-10-22T23:22:49.152Z"
+    },
+    {
+     "title": "Execution staff worried IV site might have ‘blown’ during Christa Pike’s execution attempt",
+     "brief": "Tennessee execution team members failed multiple times to establish working IV lines in Christa Pike’s arms before her attempted execution and warned that some of her veins may have ruptured, or “blown,” before she…",
+     "link": "https://www.cnn.com/2026/10/22/us/christa-pike-execution-attempt-staff-worried",
+     "published": "2026-10-22T23:21:49.166Z"
     },
     {
      "title": "Virginia state Sen. L. Louise Lucas indicted on drug and money laundering charges",
      "brief": "A Virginia grand jury has indicted Democratic state Sen.",
      "link": "https://www.cnn.com/2026/10/22/politics/va-senator-louise-lucas-indictment",
-     "published": "2026-10-22T22:22:56.617Z"
-    },
-    {
-     "title": "Facing a ban on horse-drawn carriages, Central Park’s drivers fear for their future",
-     "brief": "The horse-drawn carriages that have cruised through Central Park for more than 150 years will soon be banished from New York City, ending an iconic tradition beloved by tourists but long opposed by animal welfare…",
-     "link": "https://www.cnn.com/2026/10/22/us/nyc-horse-carriages",
-     "published": "2026-10-22T22:21:56.622Z"
-    },
-    {
-     "title": "Strong 7-magnitude earthquake hits China’s Tibet region, killing 16 and injuring dozens, state media reports",
-     "brief": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck China’s Tibet region on Thursday, according to state news agency Xinhua.",
-     "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
-     "published": "2026-10-22T22:20:56.636Z"
-    },
-    {
-     "title": "Nothing personal between me and Trump, Zelensky tells CNN",
-     "brief": "After a bitter rift with Donald Trump left many in Ukraine fearing that the US president had swung behind Russia again, President Volodymyr Zelensky addressed the dispute head on: there’s nothing personal between me…",
-     "link": "https://www.cnn.com/2026/10/22/europe/zelensky-ukraine-trump-interview-amanpour-intl",
-     "published": "2026-10-22T22:19:56.639Z"
+     "published": "2026-10-22T23:19:49.179Z"
     },
     {
      "title": "A botched scientific experiment returns as a Netflix reality TV show",
@@ -60,16 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "1 killed, 1 injured in car crash in Caracas, Venezuela",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd2tiaWd0aUdtWC1rZ0ljcW5Oem5ab3BWVjc4T2NrQnNmZUZQeldhT2wwTVVKR0RwWWNMaVVleUo5Z0pKSEwxb1lnUlZZUjV6eUkwMXMwNXRtYkozVGtmaExxNlFDMVR6V1lPZHlIanEyOXJRZXpIOExfS3gwVlRxS21HZVROVzJGUXVWTnFUUzB3VXEtd0oyWk0wam04amNpVGxV?oc=5",
+     "published": "2026-10-22T22:33:00.000Z"
+    },
+    {
      "title": "U.S. stocks close mixed",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9leGZocmtoOVQwXzV6akk3cmhSdEwtUW9lNHF3bU40VnZLVHNoRk1QYzdmRzhKTlhrQXBVeGhqcHZLNzlqUWNmRkR4ZEQ5STJuVjVFb25qcjhWRnZKdllvd1J2QlNVY0U2bFFiQXJ5R3ltVWVoeXNXT0Fn?oc=5",
      "published": "2026-10-22T20:11:00.000Z"
     },
     {
+     "title": "Crude futures settle higher",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUJFaTNrbVZWazNfckxGVC1NZDBZRUoyNVM5a3VfWW5DS3NlT3p1ME5KTFYtSWl6STUyTmJFdXI1NkdfdGJHZGdTV2JZMUNRMWw1SUx4RzJBZGJ5ZWMyLUhodVJYQXFaVjNRX3NiMzFvbkc3bVJLTXBKRWd1SDYxV1BB?oc=5",
+     "published": "2026-10-22T19:23:00.000Z"
+    },
+    {
      "title": "Authors",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJdjREbUFDQS1NRkV2SlJlSl9aZ0Y4RjNLYlduZUVES1VlZnBDek45M0tNUFNOVXpaZWhtSDk2UTc1QkI0bzFQVU1oTXdVRnBZTm5uUlRxRzNiZw?oc=5",
      "published": "2026-10-22T19:07:56.000Z"
+    },
+    {
+     "title": "U.S. dollar ticks down",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JckxsdmprbFBiM21DdFNQUmN5bktHckRSSVdPcnRQQWVKOFcxX1ZRU3pOcE1kZkpnN3FsR1g0eGtZTWtvRXp2WGotOGlYTlZZRzNEWHA3R2RqeTRTXzBuZ29NTUdWRFpLQTlTRlBkUVppMUl6M01PMg?oc=5",
+     "published": "2026-10-22T19:01:00.000Z"
     },
     {
      "title": "HK singer Sally Yeh, 65, nearly falls off stage during concert in China",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObVk4NzhhOUszVXNnUVkxYW9CMHFtamdBTWZlVlBweFRTV3lJM29ZekYtckJpYm9XcEc2RF9BR0o1ZHAwWUZWOWlqX3pMa0tJSDI3UlVfRGpCWUhRamVYdHBZN0w2cm1NN3d5RlFyaXJpbmxnbHNRdUg0NFRCVGxIRDcxMDJsSlVHNFQzYnFOY216T1Q4eFFkRWMwSktnc25nS3hPcGd5UE5iVFAtUmdQcXNYaXJvZ1hsNnBWNXhwTDhxbGVuODNlN3RkWUxadzdmYTNLMGdVanpYakVQWTdWWU5ZZzRTdTVfSmV5VFFKaExrMGhDMVRZRExncDVjeGc?oc=5",
      "published": "2026-10-22T12:06:00.000Z"
-    },
-    {
-     "title": "Multi-million ringgit child sexual exploitation ring busted, nine to be charged",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQk5JZTdiMWhseE1FOF9YUlRaR1VPMjdGNjNxc29WSDhEeWJYMHF1dkNzOWtsZmU0Qi1yVEFEREZWTjlHR1otSHZYX0Y3VUMtYlRTWFA2WmJoazZUdUdTcDVMdXA0ZWlCam9pYUNUQkZzR1NVR1ZWcENBeHpzTUowSTM2TE5FaTNtNlFpeXExZzRVWGV2QUJiZlRWSXR3WE5IbW8tRVNGSC0wQmNMMzg1OFBSRE5hTTg3NFlRQzdHeGlNV3IySTA4?oc=5",
-     "published": "2026-10-22T11:50:00.000Z"
-    },
-    {
-     "title": "Tan Sri Lim Sing's passing a great loss to the nation, says Dr Wee",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxRGoySjFuYlRNUXBzU2UtaEo2VkdZVmZmaS1JeEphc3d1NXZBdkhGMXQ2Nm9CQUJyZlNjbUlrZzdzRF96clctdHVfcGY3eGdzMGFWcUJOQkVnd1IwN0lqUFJCN3pFRmFwNGxtS1UwNzQ4YUxaNjg2VUtJZUZBeDM0QWZHT3JlSTZyWnFobjhQY2NYR21FQmtpZnNZQ25LVV9HX2w5dWR1UE9ZOVdFOWNTaGt2Nl9C?oc=5",
-     "published": "2026-10-22T11:25:00.000Z"
-    },
-    {
-     "title": "Malaysia News: National, Regional and World News",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
-     "published": "2026-10-22T11:17:02.000Z"
     }
    ]
   }
