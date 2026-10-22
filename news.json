@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T05:29:30.849Z",
+ "updated": "2026-10-22T06:36:01.292Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,7 +9,13 @@
      "title": "A small but powerful African nation is bringing Formula 1 back to the continent. Not everyone is celebrating",
      "brief": "Formula One is to return to Africa for the first time in more than three decades, with Rwanda granted a 10-year contract to host a Grand Prix from the early 2030s – a deal described by F1 chief Stefano Domenicali as…",
      "link": "https://www.cnn.com/2026/10/22/africa/formula-1-rwanda-africa-sportswashing-concerns-intl",
-     "published": "2026-10-22T05:27:31.079Z"
+     "published": "2026-10-22T06:33:01.563Z"
+    },
+    {
+     "title": "Where Trump sees a deal, Putin sees a win for Russia",
+     "brief": "If only Donald Trump were President of Russia, he would surely agree a quick and easy deal to end the brutal Ukraine war , even – he might suggest – in as little as 24 hours.",
+     "link": "https://www.cnn.com/2026/10/21/world/trump-putin-deal-analysis-latam-intl",
+     "published": "2026-10-21T12:00:00.000Z"
     },
     {
      "title": "Russia frees 74-year-old American Stephen Hubbard captured in occupied Ukraine",
@@ -46,12 +52,6 @@
      "brief": "Subtropical Storm Josephine just formed off the coast of the Mid-Atlantic, but will largely be a mere nuisance for coastal areas as it moves north.",
      "link": "https://www.cnn.com/2026/10/21/weather/storm-josephine-tracker-path-noreaster-climate",
      "published": "2026-10-21T12:00:00.000Z"
-    },
-    {
-     "title": "Teacher who survived Oregon school shooting says she had no chance to protect children",
-     "brief": "(AP) – A teacher wounded in last week’s attack on a special education classroom at an Oregon elementary school says she never had a chance to try to shelter any of the children inside.",
-     "link": "https://www.cnn.com/2026/10/21/us/teacher-survivor-oregon-shooting-statement",
-     "published": "2026-10-21T12:00:00.000Z"
     }
    ]
   },
@@ -64,6 +64,24 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVgzbHo2UGZsVmlncmRudWpSUGtjWGUyV01Kall3RW10aTJQM0h3TWswTFJOcWZubjFTbzVKUGpHYUpBMWNWbTlEcUUyQlYtc2ZKb0R4NHlWM0tFbmJHT1BLblFKcGFET0UyekR2Mi1NVlJYZ3pZYUZLXzdhQlphckNEeUt3cVVSeExrbURaOWJiWjd4b2ZDX01n?oc=5",
      "published": "2026-10-22T05:09:00.000Z"
+    },
+    {
+     "title": "Johor court fines 43 people for using fake Malaysian ICs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVVfTnJuLVpfcHdqSkR4a0p6cjNHck04eUNZUFJ5SWEzZmwyYzNac1I4Y2FkSzhET1hXYzAzZDNJNkR6dlJBZGhYSDFIaG9CN1l5T0FVUkk1M0lURkRZTUlTcXExT2JvT1FTb1Q1ODBIUGVZR2NmQ0F5WnY4elJ6YlVkTWxza1RWWjhfY1hPV0xTYVI2c3NOVldWMGVhNi1MejNsaEFnYTFrQQ?oc=5",
+     "published": "2026-10-22T04:53:00.000Z"
+    },
+    {
+     "title": "Man jailed four years for robbing 77-year-old aunt",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcU9FdHc2ajV4bUU3bW9lZ0hvMnlXSkFxODlOVWZxVjQtVHlTaW5KdkpidlROMEZBUkxTSFdlMEM5aDBMRUgyZUpUeDhST1VFVkRYWV94X3hIZkFFTUdqTnZZcEVKSFRJT0dPRklKV1VMMFhLZ1QwNGNwSVgwYTUyd1pjaVpCUk0yWlVjczZRMDdxX1lmaUtBT0xSTGVHOEw1aUE?oc=5",
+     "published": "2026-10-22T04:08:00.000Z"
+    },
+    {
+     "title": "Deepseek raises $15 billion in challenge to leading US labs, Bloomberg News reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWGlMQ0dlZnAtRjh0RmZCU3dzc1dmdk9lUHotcmZSMWloRmRJTTVzYWhUTWlXYk5Ia3RKUnVhamYzUC1Sc1BGMUotZkM4aFNudmVrTDZiSTB3WTg0VEozTjFSNF9Qc21BZndFT0pOelQzRGJwV25uSURHOXBTUjIwM2JFYnA0aDV3bnMySFliUDAtX2xsSFBUeU9LRzFnLXVXeWszdklLRnhEWmlMMXh5Vlg3RDhwYXpheVVoWW9DaVVEbEhpeTdPbk01ZVRtRWZZ?oc=5",
+     "published": "2026-10-22T03:32:00.000Z"
     },
     {
      "title": "Authors",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSTMxRWNsUUlOOUlNUGdOdm56WWxYemxQdkl2OWRWY29la194dWVPQ0RZQW9mMFQtYlRRUVdnUnYtNHpXUXZiY2sxcWFzQXpfMWcyRVdxb29Hc1RTR1FtcVlJVzY1ZEdETGZHNnppczJhRFVzUE1fYjRhbXF2RVZ3SW96ZThEd0t4cmhoR3JtSXpXU3lyNnpBXzJ3ZE8ybEVoaGFBZWRPZEJCMFRKZFpyaTlpXzczZmUwSEFsWm53UTdlUQ?oc=5",
      "published": "2026-10-22T00:55:33.000Z"
-    },
-    {
-     "title": "Bowling: Pins and needles in Munich",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVmF5WDdoMXJ4RERhUjhkR1c1UVFHMmI2SjVfY241MUd1akV4V3Z5WkYwR1V6YmJrWmc1azRPVlphUldBZFIwYVNxa2NFeTdiakpsYXNadlM2cjJxWjZUc2Y2S3ZrajgzU1NRck4tajZSMGlBZ0ZfRTFDa01KMjctZ1JtSVI?oc=5",
-     "published": "2026-10-22T00:44:14.000Z"
-    },
-    {
-     "title": "Airport scanners not designed to detect drugs, says Saifuddin",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY0ZTY2hkUWk2Y19RbUNCcFJ4bGFiX092RFhYWmdOWmNIYlJMcXRYbTItZ05pdF83REl0SWxkMmNMMTFMLVJyZ1p0aVkzb01qcUNGWHNva2ZTTWw3NzZJQklzSWVRVWFXeVJFVERudFY5MV8zSXBhNFBDYnpSLUNZZzN0cG41aEpmNmtiSHpVODBweEZIVFRZQ25oOGZ4REdYY3I4bDRob3hINkdXYlZB?oc=5",
-     "published": "2026-10-22T00:40:00.000Z"
-    },
-    {
-     "title": "Over 3,500 medical officers quit since 2024, Parliament told",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0xsWkNGWDhZQnhWa0xTTUtFRHJvUFJJNDhxYXY3VUNnamp3VmNLN1EweFBmbFRSZkF1ZnRyblVtVWFXMGh5RkJPQWJSbHBRam9RcnNFOFhYY2taeHF2Z0xST2NoQ1RnSXYtMWF2VUFkTjRmV1Rob1R6dzFRUk1jM0tZNjBPRDFHbTBBdFBRSUxHM01zN1JackhYTVU0OVYzOEdwZkhfRE9vSWIw?oc=5",
-     "published": "2026-10-22T00:31:00.000Z"
     }
    ]
   }
