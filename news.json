@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-23T00:38:05.792Z",
+ "updated": "2026-10-23T01:36:58.121Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Trump keeps hinting he’ll resume the Iran war after the midterms. These Iowa GOP voters sound wary",
+     "brief": "When Christine Brenden, an Iowa paralegal who staunchly supports President Donald Trump, went to fill her gas tank a year ago, it cost around $40.",
+     "link": "https://www.cnn.com/2026/10/22/politics/iowa-republicans-trump-iran-war",
+     "published": "2026-10-22T12:00:00.000Z"
+    },
     {
      "title": "Conservatives funded efforts to undercut Sherrod Brown with Black voters in Ohio, filing shows",
      "brief": "A mysterious group that has spent at least $2 million boosting a little-known socialist candidate in Ohio’s highly competitive Senate race is being funded by Republicans, according to a new campaign finance filing.",
@@ -36,12 +42,6 @@
      "published": "2026-10-22T12:00:00.000Z"
     },
     {
-     "title": "Trump keeps hinting he’ll resume the Iran war after the midterms. These Iowa GOP voters sound wary",
-     "brief": "When Christine Brenden, an Iowa paralegal who staunchly supports President Donald Trump, went to fill her gas tank a year ago, it cost around $40.",
-     "link": "https://www.cnn.com/2026/10/22/politics/iowa-republicans-trump-iran-war",
-     "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
      "title": "Experimental mRNA vaccine cuts risk melanoma returns by 42%",
      "brief": "When the news arrived in August that what could be the first personalized mRNA cancer vaccine had succeeded in a late-stage clinical trial in melanoma, oncologists and the public alike were exhilarated.",
      "link": "https://www.cnn.com/2026/10/22/health/mnra-cancer-vaccine-moderna",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Raising environmentally responsible entrepreneurs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQT09wWGt0aVpDdmhiTlVUQlMxYkQ0YVBKTEUyYWRYNHlWYVBxMjE5RFJMXzkzTXNuQ09NaEtDS0lnZEE4OFBRNjcyM0NXM1NBMDFxbWhWb2cxZkJEelhVV3cydDFYeEF1SURpX3hERUVBa0hNdXVPX2lORXppdnRLdlhISVNyellpQWFVSk1ZeEY1SWtTdVR6RV9sa1l0QVp2eE5OcVFn?oc=5",
+     "published": "2026-10-23T00:39:53.000Z"
+    },
+    {
+     "title": "Education should be part of OSH enforcement",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQd2tWQ1NPQ1JOenNjV3JuRWZCM0RWY25nVmR2eEgxeTNOVG02TUhyQ3YzQ1VQWjUzVkxjWEt6M2dfV2xOa2VNa3BwQWtEeEdfSXViNXlGcXM1MDF2NUNRRG9YMXRhdHBwdHhkTnhId3lxTE0yNE1SX1VmMDJzWWVXZmsza2ZkWlNnWWhJT1RsSGF4RUxUcnRIV0oxcVVEdw?oc=5",
+     "published": "2026-10-23T00:39:53.000Z"
+    },
+    {
      "title": "QuickCheck: Does plucking out a white hair cause more to grow in its place?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkh0WTNfYjNKRzFMcjZxQzlDYmFqUXFaN2hYek9WYjY4TUYtXzRtOWpOSzhWbzI4Vmo1R0dKU0d2MElzRTJ1OUF1YWQzYU8xcS1kYmdqazJHNkdNMUZHT0ZTMFYtZVB1UVZrRW52YW5IVHBEbUp2bDU4c2h6V0hKTUowak1SX040U2ZDcG9fWVV3Z2o2YWdqZjc2bk54Mlg4enlLMFZpM3JTMm44WFA2NDdkVUFqNXBCd0R4VS1hOUxWZ05IRjNB?oc=5",
@@ -70,6 +82,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwdFBlSm14RjU5YXdiZk8wMWhkZklsYjlhOHN2OFVzWnNMSFNXeTVBX0FNNlRpaFM5dDRlbENENUhLaEtoc2xpRXB5cHFzUlVYQjZhdlJqZjh5ejdpSEtrVmllZw?oc=5",
      "published": "2026-10-22T23:28:00.000Z"
+    },
+    {
+     "title": "Peru announces 5.25 bln USD in fiscal measures to tackle El Nino impacts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOExFMVRwRkpHTFg4LWV5akJ4X0NVXzByNE9WVmNrZDd0cnp5RHNMTm4zd21NMjN2OTBJcnlXM1ltOGpOZWU3SmxSTG1SUHJ0MDZQcVFwa3ZtdlQ2dEVYTEg5MnV1TGtOOHJubEdPZHVaT0pYLUtOWnF6X0JHTHd6cnRHaENPdWtCWnVxUUVwLVhzNXRuQUtyMlRaTU1HUEJ3em5Ec3lZUHZxLU1zVG9mWThGUndtNWNmbXRnSQ?oc=5",
+     "published": "2026-10-22T22:54:00.000Z"
     },
     {
      "title": "1 killed, 1 injured in car crash in Caracas, Venezuela",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUJFaTNrbVZWazNfckxGVC1NZDBZRUoyNVM5a3VfWW5DS3NlT3p1ME5KTFYtSWl6STUyTmJFdXI1NkdfdGJHZGdTV2JZMUNRMWw1SUx4RzJBZGJ5ZWMyLUhodVJYQXFaVjNRX3NiMzFvbkc3bVJLTXBKRWd1SDYxV1BB?oc=5",
      "published": "2026-10-22T19:23:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks down",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JckxsdmprbFBiM21DdFNQUmN5bktHckRSSVdPcnRQQWVKOFcxX1ZRU3pOcE1kZkpnN3FsR1g0eGtZTWtvRXp2WGotOGlYTlZZRzNEWHA3R2RqeTRTXzBuZ29NTUdWRFpLQTlTRlBkUVppMUl6M01PMg?oc=5",
-     "published": "2026-10-22T19:01:00.000Z"
-    },
-    {
-     "title": "QatarEnergy signs long-term deals to buy up to 4 mln tonnes of U.S. LNG annually",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdFN3bXdpMXFLM2UxZGNBbW8tMHNnYnV0VVFVc3BuRHVZWUlpN2hoaXpUUnJTYnZoTWhyYXBmTnVUOXNqLWlJeTlDTkhmMXBleTJNV1p0bG5zRjZ1eGVIRGZCMDZoVElTcUo1MWFaNk1PQ3JqNGY0Tk9kX3ZEVDE1MHBzVGZ0ZjA1U3BRVWgyVlNKVFdsd0ZkUE9ndWU2cXVWbEVHQVpTZDM0ajJMemU4V3kzRExZYWFIXzRwTEs1aDRxVURHcWc?oc=5",
-     "published": "2026-10-22T16:15:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-British teenager Slater to make F1 practice debut with Audi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnExenB3VEpMcy1pNTRKVVUyY29zMkxUZl9obDVQajdnb2czVmw1X3M4OG1NWHlXNWgwb2ZqQUV5NTNkZ2NJZW9xZ213c1NoblRlc0RsZi01QXkzcXJFQlQ2em16RTljandsd0FSWm5YemRuQmRMaXA5aF9fSDV2eUk5TmQwQTVJSnJDRlJQV3FqaHlYSkJjSjhVeUlGV3ZCd3RiYTBWUWRLWW5BVTR4Z3FYbHdJc3dHa3h1TUJJRDVmaWdIUXc?oc=5",
-     "published": "2026-10-22T15:55:00.000Z"
     }
    ]
   }
