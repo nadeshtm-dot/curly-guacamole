@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-23T09:31:17.876Z",
+ "updated": "2026-10-23T10:29:36.526Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Israel closes West Bank city after at least five Israelis wounded in shooting attack",
-     "brief": "Two Palestinian gunmen opened fire on an Israeli military checkpoint on Friday in the occupied West Bank, wounding five and prompting the Israeli military to “impose a full siege” on the city of Hebron.",
+     "title": "Netanyahu orders closure of West Bank after five Israelis wounded in shooting attack",
+     "brief": "Prime Minister Benjamin Netanyahu ordered the closure of the occupied West Bank, immediately following two Palestinian gunmen opening fire Friday on an Israeli military checkpoint, wounding at least five.",
      "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T09:31:18.304Z"
+     "published": "2026-10-23T10:29:36.750Z"
     },
     {
-     "title": "Trump claims Musk restored Starshield access, but Ukrainians say restrictions still in place",
+     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
      "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
      "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
-     "published": "2026-10-23T09:30:18.151Z"
+     "published": "2026-10-23T10:28:36.800Z"
     },
     {
-     "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
-     "brief": "In July 2004, security researcher Stefan Esser sent a warning .",
-     "link": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
-     "published": "2026-10-23T09:29:18.189Z"
+     "title": "One killed, four injured in drive-by shooting near Paris",
+     "brief": "One person has died and at least four others have been injured in a drive-by shooting in the Yvelines district west of Paris, a police source said on Friday.",
+     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
+     "published": "2026-10-23T10:27:36.900Z"
     },
     {
-     "title": "Trump turns the GOP’s Ramaswamy ad headache into a migraine",
-     "brief": "President Donald Trump has been undermining his own party for months, continuously causing more headaches for Republicans even long after most presidents would’ve taken the Election Day cue to rein themselves in.",
-     "link": "https://www.cnn.com/2026/10/23/politics/trump-ramaswamy-acton-ad",
-     "published": "2026-10-23T09:27:18.165Z"
-    },
-    {
-     "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
-     "brief": "The first known human case of Shamonda virus was reported by France on Thursday .",
-     "link": "https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer",
-     "published": "2026-10-23T09:26:18.191Z"
+     "title": "Lula has defined Brazil’s left for decades. Can his movement survive another Bolsonaro?",
+     "brief": "When Luiz Inácio Lula da Silva walked out of the Federal Police headquarters in Curitiba, Brazil, on November 8, 2019, hundreds of supporters were waiting for him.",
+     "link": "https://www.cnn.com/2026/10/23/americas/lula-brazil-runoff-elections-intl-latam",
+     "published": "2026-10-23T10:26:36.804Z"
     },
     {
      "title": "Man arrested after beheading Iwo Jima statue in Virginia with sledgehammer",
      "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damages after a man beheaded one of the statues Wednesday evening, police said.",
      "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
-     "published": "2026-10-23T09:25:18.194Z"
+     "published": "2026-10-23T10:25:36.814Z"
     },
     {
-     "title": "Why Zelensky insists it’s not personal with Trump — even though it is",
-     "brief": "Volodymyr Zelensky told CNN on Thursday that there’s “not something personal” driving his latest estrangement from President Donald Trump.",
-     "link": "https://www.cnn.com/2026/10/23/politics/ukraine-zelensky-trump-starlink-putin",
-     "published": "2026-10-23T09:24:18.181Z"
+     "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
+     "brief": "In July 2004, security researcher Stefan Esser sent a warning .",
+     "link": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+     "published": "2026-10-23T10:24:36.792Z"
+    },
+    {
+     "title": "Trump turns the GOP’s Ramaswamy ad headache into a migraine",
+     "brief": "President Donald Trump has been undermining his own party for months, continuously causing more headaches for Republicans even long after most presidents would’ve taken the Election Day cue to rein themselves in.",
+     "link": "https://www.cnn.com/2026/10/23/politics/trump-ramaswamy-acton-ad",
+     "published": "2026-10-23T10:22:36.812Z"
     },
     {
      "title": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Opening markets to unlock the potential of Malaysia’s MSMEs",
+     "title": "Soccer-Not easy for Saudi Arabia to host Asian Cup as scheduled due to security situation, Japan FA chief says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0VGVTNNWFlRNmw2c2Y3SjQ3R0QxSF9NNW9SX280aXdEVmhCTlE0bzdBTGZ6TUs5a2tEUXVLaVJuSDNIdFM5bFJhSUpXYkV2UlZHcEJZZ2Nyb0pYT3I2VnBWcnQ0dEhoVDJIUnlHMjcxeTNzNWdVeFBSUDdGQWRUQmlMbmY3Nzd3Q2tXaTRxaW95X1o1a0t1ZkFybE1oNlZnbjk0TEdxenJYZ01rQWxnNXRobnJPUXZadXI2SGd5SlQ?oc=5",
-     "published": "2026-10-23T07:59:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcV9OTG5mWS1ydGFEVEtzWnNyQ0wwX01nYlJTd3FNcEFiWWRpUXd0MWV4dU9CZkdyUVN5dWNhbnRXMjBqRmU4Z3NrQ01nVGZNeU5QQnRCTVd4SUV1ZzFIbEFrX2pkaE13SVl1dVVkSWFrWDc2RlhyY3VGLTA3bl9EaHRpTXp2U3JDcTJtU3BMajJqNUUzUEo3MTVXTEdzeWYwT2xLbFEtV2g0TUdzdTNLbzMtUGVEUDF6UU0weEJxSjZOY2NpX3QzLS1wc250SVhhd1FndXZJc1kyQmZqMTJoYXQwT3k0RVZnQzE2VEo1bkR2VUlQ?oc=5",
+     "published": "2026-10-23T10:18:00.000Z"
     },
     {
-     "title": "Pope Leo cancels Assisi trip to aid recovery from cancer surgery",
+     "title": "Athletics-CAS clears Japan's Ikeda of doping violation, overturns four-year ban",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmdTSUdKYW53akdtU0lxSXVUaXA3TTNuVVhmeVRiTXlFNU5qRW1YeDJVamZPMDh4V3c0ZDByVWVoMDRXY0F0ZlZjWXlnVW1XZU1zUWpkb3BWdFBacE1pc05JWFVaaTNrWU41T2dzUU82M0lqLTVwWnV1MU9CMVU3R1Fvb3hON21NRk9PZzJqMXlQM0Y1OTJPdmxwMnIybzEzd0l5VHNKaFBIUk1mUG5XZzVMcw?oc=5",
-     "published": "2026-10-23T07:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaFdOUjdzdVlWaTBRSnRDOENZUWdhM0NEQzlFeVVpV01oOGRxd1FNSWdVaDdRek1GSFduMVU5OGxJMFFCOXJNUWJhV2NXZzR4NFBnbGJ1SWxfcGpLYUlRNUVFSjVHWHZJVGhFS3hlSjk0MGtqNEcxV0c2RmNzZnB0S053OVUzaW9LeEtpSF8tTkg0blBjMVNoTlEzSUZVeXZXcC14Ml9MV0h0b0FhOXBtM1lyVm5LTnZRdGh5OTFxYTk5dmpSTUl2eVR0NkdxTFk?oc=5",
+     "published": "2026-10-23T10:17:00.000Z"
     },
     {
-     "title": "Tokyo child under 5 dies from influenza-related encephalopathy",
+     "title": "Anwar apologises if ban on app causes inconvenience",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWgxZmRQTzF0Wkl5bFh6VVU0QWRHU29kRFNQcks1eG01Q2xBMVNOYmFUS1EtME1nZEh3U0ZpT3ZmT3I0Y0g5N2Yzel8wWU5kQjFtUVpybjZGVFJwQTdaZ21BY0tzY0g5aEplMVdBSzg2dWxveC1iT2lVeTBfTWJLRWRjRFlhaFBBRHFURVFlRHkxX0pTVnh6X0RvQ1J4aUlDVWNNTnkxeFVuR2plYU5hY3pxRFVNSGExWEVRbjR0R29kNVk?oc=5",
-     "published": "2026-10-23T07:12:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeF9ZZmg1TTVRNDFQLWhFSTI5aVNvcXNtNGp0UnZKOXlCYndleVZJN1ZPSUVmMXpNVlJFaWJiOURlT1R3V1Fnbm9OTHlTdGlRTDVHTG0wMVRibU83MEpvZm45cHhTdTc4UWI5NE5yelBQVTVSWmNJYktzamJwRDBydnRrZVdtYzlNSEUyODNEN1lydHdJS3gwa1BqZTZERFJjWTY4?oc=5",
+     "published": "2026-10-23T10:15:00.000Z"
     },
     {
-     "title": "KPJ-C46 (587846), KPJ-C46: CW KPJ HEALTHCARE BERHAD (AFFIN) - Market Watch",
+     "title": "QuickCheck: Did a 250kg tapir wander onto a golf course?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTjIwWGgzeGxscGhqeW1xNW8xeVJvNWV5MWVacTM4NkhyS2dpYXhVZVpjR2xrZkpTWV9WTl9VNXU3TmN2bVIyWjFocHIxSDh3M3MzWmwtQ2JjSmFxd2c2NGNVVXJHN0NQWXJnbmN4T0k5RTRIQmVBdl94Yw?oc=5",
-     "published": "2026-10-23T06:59:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTXd3VXN5NTQ5c1FPZEFybWp4OEpjN0RBU25VRVFfTHdNbFI5TWVPdHRZSGNwOXFySTJ0YlRsbHFFUlNMQ2dOLUJPYThqSENsTGVvS2QxTXBrMWh1blBCd1A2WXN0bzMwM21WcGZ1dkU3TUZDSk5rOG82Q0lvSm1BRkw1RXV5X0lnMlhhVVVKa3NxVnZmQ3VHZ05tTU5oTWhtREViSDk4Sy1FUmhsb1E?oc=5",
+     "published": "2026-10-23T10:09:00.000Z"
     },
     {
-     "title": "OCBC customers report difficulties accessing mobile app and internet banking",
+     "title": "One killed, four injured in drive-by shooting near Paris",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHRRUzRISGRQNUJuUE9MVmdwMVdGSGxLSjFWV0tCNVdaU1E4Q1NTTjZKMmZPNW54M2JTZGlHSnB1Y3JVdGlvUEc1blVWbVowT1ZXWWZmXzRxNFZfcXdyb1Z2TGVVVnViMXFpdi1oTk43am9ob3FIVDcwWVhSeU05UGNDZEFYSWN3U3NvSVhSVVBVcjhQQi1qd3lHV0dXcWtTclFHdE5XN0tESS1pU1lKRGlVcFdtOG5nczcwcGw4WUlUNERDcE4tQjZpNDlXdHJJZ3VkWTJB?oc=5",
-     "published": "2026-10-23T06:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVnZmdi1lV0QzeXRoek16a3ZGU2hoSjRKLUlwOHpXZkZ6NGRqMktYTWVTTTVQb2I3ZWxHU0RtQzI5M0J1bzhreUZRa0s4MWZweW9Da1phNHRrcEdfeXNkQVpTWkhNSTdNYUdCQWlOdkVDa1dGMEtGTlEyb2RVRkFFTXRZTUpEVzdFMzdMN1ZHVnVjNFduV3ZSZFdnMzcyTkdjaXRVWWRoUQ?oc=5",
+     "published": "2026-10-23T10:07:00.000Z"
     },
     {
-     "title": "Rugby-Wilson hopes to add own Wallabies jersey to family collection",
+     "title": "Starchild: Why Malaysian kids have big dreams for their future",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1fcDJFQTRyLVBGT3lvRXE4ekV1dkw0Y0x6U2Nzdjg2ZVFwYmdzcE1qeXgzNXY2MG93cm5HaEY4YUJPeU5yTWVvcTBON0xiYUphbGVVQmxNTllnTFRuRk03SG9sTlNWVWhoWEN3Q0h3MF9rUWZmNWxEcEJTSVQ4cmVtVmhmX2VwUzFNRnJLZl9aTDdzeHh2OGs0RTh6TnZtaWJBTGZIVkxoNkt2UDVHeUxZNUR5Ymwx?oc=5",
-     "published": "2026-10-23T06:43:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTl1RGU3MGFJTlItZHg1bDBmVWpraEwwcmpXVnlWMHFwdG42clZFenp2M3F4d2MxQUx5T0k2X1FZQ2tSRndVNXFOLUdOV2ZGX284b1FJSTcyZ0JXWUlhREl2bndoWDA2OEZtZEhuQkZMUnowYVlXeGlYTU9may1YUW41eE5zV2x0cWVlVmh6b2VTSzctTHhyZ0UxTWJVVXJVTWowQVNhX2pBcGh2OUJwMjNMTkZ6NHM?oc=5",
+     "published": "2026-10-23T10:00:00.000Z"
     },
     {
-     "title": "Judi Dench says worsening eyesight means she can no longer act",
+     "title": "Carney says Canada raised issues on LGBTQ+ rights during meetings in Turkey",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1FFZ1FLU0Etc1pSRzV2aGZWZ1l0ZHpLbmNTcWdHR1ZwbE1pbUQxdXc5eXJmbXBadVUzaDJhWTlILXRjQ0tZRFF0a1ZzVFlmWHJBNTZmOXVpRHVBVFBkSWRfZ2RBVDJLbEJtNkpTUWpIVl9rYm00Tkp0LWlvUnRSQVZDcmxRRnFXVk5UczdBSHRBcmJGcHhpNVFMWGE4dkphOGpkX0l4c1lxN2NqRGN2Z1FfRGRQdnlOZjhnRnFWZUo3UQ?oc=5",
-     "published": "2026-10-23T06:40:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSmtiVVlUQ2p4bVJuWHhDZXR0SUlzWDNFQzBtZmJPam5fREFhMWw2MHN5S0VMMWN1RWgtVE50UG9fNkl6YnVVTHAxV3Brcy1jUzR1MnJSazBwM1BkZVBlcFdEUWNJQlZzSkVxTE52WGRXemtkQ01scjdwa3JmNmU5bnE4S2MybDY0ZlB3b2x5UUtiak9mSEZVSXlwT1NhRkN2NW1vN3BPRTU0WVBjMmwtekFVUEdyODNqaGRpazB1eno?oc=5",
+     "published": "2026-10-23T09:56:00.000Z"
     },
     {
-     "title": "South Korea proposes talks with North Korea on land border again",
+     "title": "Company director charged with cheating in RM1.5mil loan deal",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUhqU2RYZVZERFhaN3FtMWU1emd5bzU1SzV4MjZGaV9GY1drUFV3N01KMTdOelB3Y3Z0NlpBbG5LangyWEpxa20wU3A3ZkdzVl9EbHNuUHk1RUo3WXBBdVZ6dFphakNEZEJ0QjFiT2FUcWY5T3l4MTBnN3lGR0Y1ek1oc0hQeWotLTVPWFNwWFhkUnhaVWVCRURDSXpod0hxcXEtX0pPNDM3NzZIbUQyMll3dw?oc=5",
-     "published": "2026-10-23T06:08:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOM3B6dHhJZ0owSF92OVpSRTRPendSd1U1UHpVOEx3SHM5bS10Q0hNMWZsdndfUGdyazI2RXRaaFNzaExBb1V6QjRrQUJUd1lrTjNjODU3bVQ1TTNIZGtQRTA3LXpSM0VpVXRQZ0ItTFl1WGlMWEdyeEtIRUphNU1OUTRLc1cwT2JQRERJcE5URmNweXhnZS1fa21oR0dHT3lfanJZUGRUR0RrRFVvZ0E?oc=5",
+     "published": "2026-10-23T09:38:00.000Z"
     }
    ]
   }
