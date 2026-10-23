@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-23T08:32:22.774Z",
+ "updated": "2026-10-23T09:31:17.876Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Israel closes West Bank city after at least five Israelis wounded in shooting attack",
+     "brief": "Two Palestinian gunmen opened fire on an Israeli military checkpoint on Friday in the occupied West Bank, wounding five and prompting the Israeli military to “impose a full siege” on the city of Hebron.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
+     "published": "2026-10-23T09:31:18.304Z"
+    },
+    {
+     "title": "Trump claims Musk restored Starshield access, but Ukrainians say restrictions still in place",
+     "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
+     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
+     "published": "2026-10-23T09:30:18.151Z"
+    },
+    {
+     "title": "The biggest-ever internet security threat has been known for 22 years. AI made it a crisis in 2 days",
+     "brief": "In July 2004, security researcher Stefan Esser sent a warning .",
+     "link": "https://www.cnn.com/2026/10/23/tech/ai-cybersecurity-php2shell-explained",
+     "published": "2026-10-23T09:29:18.189Z"
+    },
+    {
      "title": "Trump turns the GOP’s Ramaswamy ad headache into a migraine",
      "brief": "President Donald Trump has been undermining his own party for months, continuously causing more headaches for Republicans even long after most presidents would’ve taken the Election Day cue to rein themselves in.",
      "link": "https://www.cnn.com/2026/10/23/politics/trump-ramaswamy-acton-ad",
-     "published": "2026-10-23T08:32:22.938Z"
+     "published": "2026-10-23T09:27:18.165Z"
     },
     {
      "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
      "brief": "The first known human case of Shamonda virus was reported by France on Thursday .",
      "link": "https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer",
-     "published": "2026-10-23T08:31:22.990Z"
+     "published": "2026-10-23T09:26:18.191Z"
     },
     {
      "title": "Man arrested after beheading Iwo Jima statue in Virginia with sledgehammer",
      "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damages after a man beheaded one of the statues Wednesday evening, police said.",
      "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
-     "published": "2026-10-23T08:30:22.998Z"
+     "published": "2026-10-23T09:25:18.194Z"
     },
     {
      "title": "Why Zelensky insists it’s not personal with Trump — even though it is",
      "brief": "Volodymyr Zelensky told CNN on Thursday that there’s “not something personal” driving his latest estrangement from President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/23/politics/ukraine-zelensky-trump-starlink-putin",
-     "published": "2026-10-23T08:29:22.981Z"
+     "published": "2026-10-23T09:24:18.181Z"
     },
     {
-     "title": "Washington Post journalist says attack by Israeli West Bank settlers has only ‘strengthened’ her resolve",
-     "brief": "Heidi Levine, the Washington Post journalist brutally attacked by Israeli settlers in the occupied West Bank last week, said the terrifying ordeal has only strengthened her resolve to continue covering the plight of…",
-     "link": "https://www.cnn.com/2026/10/22/middleeast/washington-post-journalist-attack-west-bank-settlers-intl-hnk",
-     "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
-     "title": "France reports first human case of livestock virus Shamonda after patient dies",
-     "brief": "France reported the first human case of the Shamonda virus usually found in livestock on Thursday in a hospital patient who died, though authorities said there was no risk to the general population.",
-     "link": "https://www.cnn.com/2026/10/22/europe/france-livestock-virys-shamonda-intl",
-     "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
-     "title": "Top Trump political advisers donate fee for work on behalf of pro-Russian government after he floated firing them",
-     "brief": "Top Trump political advisers James Blair and Chris LaCivita have donated money they made earlier this month in the Balkans on behalf of a pro-Russian government to President Donald Trump’s presidential library.",
-     "link": "https://www.cnn.com/2026/10/22/politics/james-blair-chris-lacivita-donate-fee-balkans-work",
-     "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
-     "title": "7-magnitude earthquake hits Tibet, killing 16 and injuring dozens, Chinese state media reports",
-     "brief": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck Tibet on Thursday, according to Chinese state news agency Xinhua.",
-     "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
+     "title": "‘Worst on record’: Brutal summer heat wave killed more than 50,000 in Europe’s cities",
+     "brief": "More than 50,000 people are estimated to have died across Europe’s cities during the brutal heat waves that roiled the continent this summer — making this year’s heat the region’s deadliest on record, according to a…",
+     "link": "https://www.cnn.com/2026/10/22/climate/europe-heat-wave-deaths-50000",
      "published": "2026-10-22T12:00:00.000Z"
     }
    ]
@@ -59,12 +59,6 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
-    {
-     "title": "Miley Cyrus: Godmother Dolly Parton sent her message from beyond",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1dIbEVvVDdST2d4eGg4aS0wTjViSGdNc0pQLWNBVjBhQXQxVDZhOWdwbHFxUDZ5ZTRYcmhBeFltd2pZU3N3ZHZjckVDX21CbnJlM0JERVRzWDdWaS1QUktSbzVRMDJTdTRKT3Q5WUZBWEVsaHJJcHRrMDVKRC12LV9faDlSNWNodHFVNE5lVlR2Q2NiMlVjc2Z5XzNITEJ1QnNFU1MzbWl1bVpSVlZKMktzWkVtY0JOWll4WlhIT1BEWmM?oc=5",
-     "published": "2026-10-23T08:00:00.000Z"
-    },
     {
      "title": "Opening markets to unlock the potential of Malaysia’s MSMEs",
      "brief": "",
@@ -78,16 +72,16 @@
      "published": "2026-10-23T07:53:00.000Z"
     },
     {
-     "title": "Sarawak Assembly dissolved effective Monday",
+     "title": "Tokyo child under 5 dies from influenza-related encephalopathy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkpIbnd5Qi1xMUN1TlQ4YzliMElrWmxiVFJfcU9NRTRMUEY4UlF0R2xMYkN3cXdiZ1lhYmZXZVRPZURWSklVdVdxM2wwNWhSV1duRm1wS0lkNU1FMW5SVDNjQnhoV2ZqSU16dUctaWQ3S3RzT0tLemRiSWhRTnV0NzNibEpiTVdVVWZrUFF3eVVyTHh4emlaRDRDMEZaYlQ5?oc=5",
-     "published": "2026-10-23T07:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcWgxZmRQTzF0Wkl5bFh6VVU0QWRHU29kRFNQcks1eG01Q2xBMVNOYmFUS1EtME1nZEh3U0ZpT3ZmT3I0Y0g5N2Yzel8wWU5kQjFtUVpybjZGVFJwQTdaZ21BY0tzY0g5aEplMVdBSzg2dWxveC1iT2lVeTBfTWJLRWRjRFlhaFBBRHFURVFlRHkxX0pTVnh6X0RvQ1J4aUlDVWNNTnkxeFVuR2plYU5hY3pxRFVNSGExWEVRbjR0R29kNVk?oc=5",
+     "published": "2026-10-23T07:12:00.000Z"
     },
     {
-     "title": "Could China’s 100-channel single-photon detector enable broadband quantum Internet?",
+     "title": "KPJ-C46 (587846), KPJ-C46: CW KPJ HEALTHCARE BERHAD (AFFIN) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDZuaXI1enpMNnl5LVlNQjJOTi1LUEpkZFNaczBLUkJkWmp5bkszTDZUUDRDak5HN3p6d2hrMDdpV0QzM1R6M0lnRjNBZF9EeFpudEhBNFRkVTBvWHU2N2N0NFNvZ2FUY21PeGstUllDa2ZCT3p4SldmVUhyMHZ2dG1SSlgtQUhWRmhzc2VzOS1lTHliVHp2TFZYSDR3X09ZdElfLW5vWG4tczl2VmNsVF9EZXRmdWhWTmNtdmlDd000dy1YempwRWlERlJnTVU?oc=5",
-     "published": "2026-10-23T07:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oTjIwWGgzeGxscGhqeW1xNW8xeVJvNWV5MWVacTM4NkhyS2dpYXhVZVpjR2xrZkpTWV9WTl9VNXU3TmN2bVIyWjFocHIxSDh3M3MzWmwtQ2JjSmFxd2c2NGNVVXJHN0NQWXJnbmN4T0k5RTRIQmVBdl94Yw?oc=5",
+     "published": "2026-10-23T06:59:00.000Z"
     },
     {
      "title": "OCBC customers report difficulties accessing mobile app and internet banking",
@@ -106,6 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1FFZ1FLU0Etc1pSRzV2aGZWZ1l0ZHpLbmNTcWdHR1ZwbE1pbUQxdXc5eXJmbXBadVUzaDJhWTlILXRjQ0tZRFF0a1ZzVFlmWHJBNTZmOXVpRHVBVFBkSWRfZ2RBVDJLbEJtNkpTUWpIVl9rYm00Tkp0LWlvUnRSQVZDcmxRRnFXVk5UczdBSHRBcmJGcHhpNVFMWGE4dkphOGpkX0l4c1lxN2NqRGN2Z1FfRGRQdnlOZjhnRnFWZUo3UQ?oc=5",
      "published": "2026-10-23T06:40:00.000Z"
+    },
+    {
+     "title": "South Korea proposes talks with North Korea on land border again",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUhqU2RYZVZERFhaN3FtMWU1emd5bzU1SzV4MjZGaV9GY1drUFV3N01KMTdOelB3Y3Z0NlpBbG5LangyWEpxa20wU3A3ZkdzVl9EbHNuUHk1RUo3WXBBdVZ6dFphakNEZEJ0QjFiT2FUcWY5T3l4MTBnN3lGR0Y1ek1oc0hQeWotLTVPWFNwWFhkUnhaVWVCRURDSXpod0hxcXEtX0pPNDM3NzZIbUQyMll3dw?oc=5",
+     "published": "2026-10-23T06:08:00.000Z"
     }
    ]
   }
