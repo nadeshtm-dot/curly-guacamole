@@ -1,51 +1,57 @@
 {
- "updated": "2026-10-23T18:30:11.192Z",
+ "updated": "2026-10-23T19:31:08.558Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
+     "brief": "A gunman killed one person and wounded five others, including a 12-year-old girl, in a shooting in a Paris suburb that French President Emmanuel Macron described as a “terrorist and racist” attack.",
+     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
+     "published": "2026-10-23T19:31:08.730Z"
+    },
+    {
+     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least seven people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T19:30:08.792Z"
+    },
+    {
+     "title": "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows",
+     "brief": "President Donald Trump’s Justice Department has gone to great lengths to bulldoze the ethical line between enforcing the law and serving as the legal wing of Trump’s political operation .",
+     "link": "https://www.cnn.com/2026/10/23/politics/trump-election-lawsuits-alaska-california",
+     "published": "2026-10-23T19:29:08.798Z"
+    },
+    {
+     "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
+     "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
+     "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
+     "published": "2026-10-23T19:28:08.786Z"
+    },
+    {
+     "title": "Man accused of beheading Iwo Jima statue in Virginia with sledgehammer",
+     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damage after a man beheaded one of the statues Wednesday evening, police said.",
+     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
+     "published": "2026-10-23T19:27:08.795Z"
+    },
+    {
+     "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
+     "brief": "Meghan, the Duchess of Sussex, said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
+     "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
+     "published": "2026-10-23T19:26:08.780Z"
+    },
+    {
+     "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
+     "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
+     "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
+     "published": "2026-10-23T19:25:08.801Z"
+    },
+    {
      "title": "‘Everyone here wants to have sex with Nathan Fielder’",
      "brief": "Since Joanie Montgomery saw Nathan Fielder and Lance Oppenheim’s documentary “ You Can See Everything ” last weekend, there has been one moment she can’t get out of her mind: a shot of Fielder wearing briefs and…",
      "link": "https://www.cnn.com/2026/10/23/entertainment/nathan-fielder-sex-symbol-see-everything",
-     "published": "2026-10-23T18:30:11.411Z"
-    },
-    {
-     "title": "‘I have to go in,’ Bend school shooting hero told a 911 dispatcher. ‘People are going to die.’",
-     "brief": "The good Samaritan who killed a gunman after three students and a teacher were fatally shot at an elementary school recalled his final, desperate choice to Oregon Public Broadcasting : “I’m sorry, I have to go in.",
-     "link": "https://www.cnn.com/2026/10/23/us/bend-school-shooting-kaylub-giamanco",
-     "published": "2026-10-23T18:29:11.451Z"
-    },
-    {
-     "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
-     "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
-     "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
-     "published": "2026-10-23T18:28:11.434Z"
-    },
-    {
-     "title": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T18:27:11.469Z"
-    },
-    {
-     "title": "France investigates suspected Islamophobic shooting of girl near Paris as terrorism",
-     "brief": "A gunman who officials suspect may have been motivated by Islamophobic hatred opened fire from a car west of Paris on Friday, killing one person and wounding four others, including a 12-year-old girl.",
-     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
-     "published": "2026-10-23T18:26:11.473Z"
-    },
-    {
-     "title": "Defense lawyers in Charlie Kirk’s killing want a 2029 trial. Kirk’s widow calls that ‘out of line’",
-     "brief": "Ahead of a Friday hearing about the timetable for the trial of Charlie Kirk’s accused killer, the conservative political activist’s widow lambasted defendant Tyler Robinson’s request for jury selection to start in…",
-     "link": "https://www.cnn.com/2026/10/23/us/charlie-kirk-tyler-robinson-trial-timeline",
-     "published": "2026-10-23T18:25:11.458Z"
-    },
-    {
-     "title": "Consumers across party lines are fed up with high gas prices",
-     "brief": "A gallon of unleaded gas costs 40% more today than it did last year.",
-     "link": "https://www.cnn.com/2026/10/23/economy/us-economy-consumer-sentiment-final-october",
-     "published": "2026-10-23T18:24:11.462Z"
+     "published": "2026-10-23T19:24:08.805Z"
     }
    ]
   },
@@ -53,12 +59,6 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
-    {
-     "title": "Tyler Robinson requests 2029 trial for alleged murder of Charlie Kirk",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU9oaURKUnN0UHFkWWE3LTZKSUJhLXdKLTNva3I5dGJ5Sk13bnN5S3Nud0owMzlKdE52V20xZmR4b1BuVks1aURqMnpjYWFieFhKLTkzNWlvUGhvaGRKQUVfMzBmVnFiNGNNcnFyb2oxa3FlaWs3bUFrYnJkcmVpUERYYzBtMEJybWdVUnJKMThoVk1IOFAyVFdudEpCQU1JVEV6MnZXMFNpOFgwWV9leGY0a3o1b1h2Umc?oc=5",
-     "published": "2026-10-23T17:13:00.000Z"
-    },
     {
      "title": "Football: Soccer-Bayern coach Kompany taken to hospital after collapsing during training session",
      "brief": "",
@@ -70,18 +70,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR29TRWN6NFotRGlROXk1N3pINFFNLWlVQUZhNTNqNWFRQWJYUGdzRHlyT0xBaS1ZZXJnU01yQmtNZ2hnXzM2WTBPQXVFdWJiRGdRS005NGV1SFh1VFlJZ0c5U25Qb0lUODFzaXozV2VCaUNiRzVYRkV2T2hMY3BMVk95Wm1KRXpVMHNtSmJSOEViZEJkQjJUb3ktYWdoclAxUUIzcUJoNHlTUVlUa09jaUpSd0hRV0Nwd1FkRHNpbXpjOEd5VkpkcHFEbkEzT0E?oc=5",
      "published": "2026-10-23T16:04:00.000Z"
-    },
-    {
-     "title": "Carney dismisses US accusations of Canadian election interference",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMXNqclZOdVdsdVNLNzJ3SHVWbWNmV1J6WGJiNHczSHlubUVhd01aU2dIWC1RZTl5dWU2NlNJX0VMNnZDcXVMTUlJWXA2TWtIMkhEc19WYzk0YlJDUlVvUmVIRVdPRE0tcDVMdkwwOU5TeFVqQk1xcDgxeTQzR3hGRWIxa3Zla255VE1aVXBTUVYybnk1b1dIeWlrVEtBaDhwZmlQTjFlU0dXbHZEcnZqd0dTS1M?oc=5",
-     "published": "2026-10-23T16:03:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Tottenham's Maddison a doubt for Chelsea clash, says De Zerbi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVTRUN3UxSE9faFd6dE1tOEYwNjNZajFWUGxIVGE1SXlGZ1phTUNJZVdNNFZMblJzWEwxWWNnNGJ1RFR1RlpSZzBiOEFjRERkSUZjZ3N4N2pPOFVna2htTHM2X2w2eU02a1EwaGlYbmNYRHMtVkVLUkl1UFFxSEtaaGR3V2FJTW1TdTZQc0YwRUVGaWZxRlM3dmhwNEZLOW9oTm1jUWFoNW1vcVhSeVg3ajdUaWhRMGtmd2gyejRaMA?oc=5",
-     "published": "2026-10-23T15:12:00.000Z"
     },
     {
      "title": "Football: Soccer-Chelsea's Martinez out for a few weeks after jaw surgery, says Alonso",
@@ -96,16 +84,34 @@
      "published": "2026-10-23T14:26:00.000Z"
     },
     {
-     "title": "Biker nabbed for allegedly blocking ambulance in Penang",
+     "title": "Football: Soccer-Arsenal's Saka to miss Everton clash, undergo further tests, says Arteta",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMjdacHA0SnJRa0gxckVPX0tGQkVYV3l5ZGwwYkRuMF85ekxZZzQtX0VCTzBwSnU3clNTMG14MjRWUUxsdHVoZW43dkRUMHl1VE5SbG1hZDZjRGRleGVJVTloS01VUE4tQkFOemhIYlJlMkM1dG5SRnFPaDFxcHM0c0JDMWFHSWNSalg3aVA0bVQzMWEzcDNUR1pUd0huZmQxdl9DbUl0Z2Q?oc=5",
-     "published": "2026-10-23T13:52:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRk0ycnJIQXE1ZVFmVTRNOFJ3N1kwSTREWFJSd2tmeElWU3JRcjVEQmJVX19EUGs1ZmV4TWlHSmg2UU1SUVJMOHhoU25pbGt6Y2dxT2c4aDBVTWgweWo5aDVpNHE4U2loVGdudEs2ZEpua0FHWUk4LWhuaGFFME5VZ3RXZTU1TzZTdF9GbURTY1NoTUhjRTVEVGt5Q1BoVlVsTmh4T3J2Z2o5RmV4aXVzcmp4TWlzM280cmIwd1Rid0Q5UHpId1Bvd3NmWmY?oc=5",
+     "published": "2026-10-23T14:18:00.000Z"
+    },
+    {
+     "title": "Middle schooler in South Korea beaten by peers over deepfake images of classmates",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZTR0hpaVNNeFRSNWxtWDdTTm82UWw2dk9GNi1nX05iR01vYS1NTTZ0N1R6UWxUOUxBQVFjNWQtYm1zd2REZ3RjUXBRNUVUYmZac2JHT2Y0c0JBakFNMzVCQkxxaVNNcDFaSElrd2tJdzFaNFVkWUlaTmJ6VUkxTVVRbHhIcEJaZmE2SjY0cjhnRWNoNWFLOGhvR3hnMkxoWUtlZTdDbU1rM2hsSHhZemlacTdZSklUcDRkSjFfRWRYbUQ1ZEVWNHpGeFJXZU04amZsbXJUN0dGRl9W?oc=5",
+     "published": "2026-10-23T13:45:00.000Z"
+    },
+    {
+     "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjc5Tkdac0xpU3htTGwtLTFqLS1EQkpybExHMjFiSkZZWUFBR3c5TGZGQ2FheHR2TkZEbUc4c0RpZEZBTkJLbl9tZkZlY2Eya05ZMEljMDZfdGNLMFNuZlpXbENrNDh3MkpseTdqQkozdE5VbkJuRE1WbHFBUS1hTlRFdExUcnQ2TGpnbzNSUFhHd3FaemVrczl0b1lRQnFmRVQwVzk2SWNEZHpEaHo1OGdNRFlvdWk0NDdwQ1BXank2UQ?oc=5",
+     "published": "2026-10-23T13:41:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTE2ZnJVM3YyczFlUVVYVmJQN01sTW5Pa0w5U1FIdWUxZGJDaHdtampGOF9DV3Jpb0FJYjlHUmRjLTFkNFd0bFZZOXdsZWgybjE3YmxCdGc2R2hmUlJpeFcwMXBXNm13cjBidWFZNVVMNmNSd29WMk1wMDBPMm1LSW1JQXFqeGZZY2h6TkdpU205Q1VZemV1ekVsU082TDJ6STBNRzFKbWRaLUplQ2Mza0FjYmdNcE90TTVjclNUSU1aOXZP?oc=5",
+     "published": "2026-10-23T13:09:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
