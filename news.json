@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-23T19:31:08.558Z",
+ "updated": "2026-10-23T20:26:42.281Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
-     "brief": "A gunman killed one person and wounded five others, including a 12-year-old girl, in a shooting in a Paris suburb that French President Emmanuel Macron described as a “terrorist and racist” attack.",
-     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
-     "published": "2026-10-23T19:31:08.730Z"
-    },
-    {
-     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
-     "brief": "At least seven people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T19:30:08.792Z"
-    },
-    {
-     "title": "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows",
-     "brief": "President Donald Trump’s Justice Department has gone to great lengths to bulldoze the ethical line between enforcing the law and serving as the legal wing of Trump’s political operation .",
-     "link": "https://www.cnn.com/2026/10/23/politics/trump-election-lawsuits-alaska-california",
-     "published": "2026-10-23T19:29:08.798Z"
-    },
-    {
      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
-     "published": "2026-10-23T19:28:08.786Z"
-    },
-    {
-     "title": "Man accused of beheading Iwo Jima statue in Virginia with sledgehammer",
-     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damage after a man beheaded one of the statues Wednesday evening, police said.",
-     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
-     "published": "2026-10-23T19:27:08.795Z"
+     "published": "2026-10-23T20:26:42.489Z"
     },
     {
      "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
      "brief": "Meghan, the Duchess of Sussex, said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
      "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
-     "published": "2026-10-23T19:26:08.780Z"
+     "published": "2026-10-23T20:25:42.545Z"
+    },
+    {
+     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least seven people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T20:24:42.541Z"
+    },
+    {
+     "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
+     "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
+     "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
+     "published": "2026-10-23T20:23:42.556Z"
+    },
+    {
+     "title": "Macron says Paris suburb shooting that killed one person was terrorist and racist act",
+     "brief": "A gunman killed one person and wounded five others, including a 12-year-old girl, in a shooting in a Paris suburb that French President Emmanuel Macron described as a “terrorist and racist” attack.",
+     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
+     "published": "2026-10-23T20:22:42.560Z"
+    },
+    {
+     "title": "Why Trump’s dubious election lawsuits in Alaska and California should raise eyebrows",
+     "brief": "President Donald Trump’s Justice Department has gone to great lengths to bulldoze the ethical line between enforcing the law and serving as the legal wing of Trump’s political operation .",
+     "link": "https://www.cnn.com/2026/10/23/politics/trump-election-lawsuits-alaska-california",
+     "published": "2026-10-23T20:21:42.474Z"
+    },
+    {
+     "title": "Man accused of beheading Iwo Jima statue in Virginia with sledgehammer",
+     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damage after a man beheaded one of the statues Wednesday evening, police said.",
+     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
+     "published": "2026-10-23T20:20:42.563Z"
     },
     {
      "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
      "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
      "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
-     "published": "2026-10-23T19:25:08.801Z"
-    },
-    {
-     "title": "‘Everyone here wants to have sex with Nathan Fielder’",
-     "brief": "Since Joanie Montgomery saw Nathan Fielder and Lance Oppenheim’s documentary “ You Can See Everything ” last weekend, there has been one moment she can’t get out of her mind: a shot of Fielder wearing briefs and…",
-     "link": "https://www.cnn.com/2026/10/23/entertainment/nathan-fielder-sex-symbol-see-everything",
-     "published": "2026-10-23T19:24:08.805Z"
+     "published": "2026-10-23T20:19:42.548Z"
     }
    ]
   },
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Russia's passenger car production up 27 pct in first 9 months of 2026",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHJTUmFxOU1VRWc4dXEteWZZXzVLVk10WXVxOGFvaUpCLVlldW9qNjg5X2ZGemxqZWhzYjRVVUhXcTNtZ252enExVjdDZm5ZVWQtUXUtakg0by15VFQ0WGkyTGcwZk93dEdxRlBGUk1oYlB2UFBXaE5kRXVwWGxIeE1kTkpuUjlkNF83d1VZOXR3Rm0zV3JxR2tFZU50d1FJUVd5dzZXc2p0ZTlIelNTc0N6V3Jxb21RUEJPaQ?oc=5",
+     "published": "2026-10-23T19:27:00.000Z"
+    },
+    {
+     "title": "Yemen fighting drives displacement, strains health care: UN",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUXNoSW14WHFqdjNORDNQbTQ0eWpJOWlqSWdmZTg4a2M5dnM2bG9KT2NYU1VYWlk5WWdaWU9vVllSQjY0aWRDN0h5REV6WEpUY1dNTnYwQkE3VHB4TmExRzRDVzg3aFlQTjVQLUUzblFXUHB0YUl1Y1JxS3laVzdTMkZEVUhCbWNyVGt4NG5KZGVLTEJZSF83dElRVU9pbnRHVmZKU0dPNnlrUQ?oc=5",
+     "published": "2026-10-23T19:21:00.000Z"
+    },
+    {
+     "title": "Crude futures settle higher",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbENuY1hHOTJWZF9SRVM3a3cxdkNZUjRFZXAzYnhuMnl6akZ0b0JmWmp5WlFZdENMQjVXOXFkejVJbVIwZEJsa1NNVzNFUjlTNDgzZ3JPa2MtMkhaOVVKeXU5SDRIQV9xQzdYVE9FQ2dPLVNTOEs3Mm5BaWNNUzRmZDhB?oc=5",
+     "published": "2026-10-23T19:17:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Leclerc laps fastest for Ferrari in first US GP practice",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSnZXcW9VYS1uSVI1czlNdHl2NGdQZjFIdi1oVm9qSGo4cW9QcVN1ZE9MNmlxaVMtYTZ6T21sT3hkeXpZbkItSEdvQVRHdEFEcXV1eFM3M180NTZyX3NsWDY4aUZNT3pzWE9fMkVIZGx6MDZDaFkzenJjWEZzc2Q2UzlNX2dLT2hWc29CZGNiNnl6cDhOcXhvdmEzMlV0VlItbkRqaXNleWcwRnRwNDhkUGh6TnJwNGdzSG1oVG1PdnRwUQ?oc=5",
+     "published": "2026-10-23T19:10:00.000Z"
+    },
+    {
+     "title": "Tyler Robinson requests 2029 trial for alleged murder of Charlie Kirk",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMU9oaURKUnN0UHFkWWE3LTZKSUJhLXdKLTNva3I5dGJ5Sk13bnN5S3Nud0owMzlKdE52V20xZmR4b1BuVks1aURqMnpjYWFieFhKLTkzNWlvUGhvaGRKQUVfMzBmVnFiNGNNcnFyb2oxa3FlaWs3bUFrYnJkcmVpUERYYzBtMEJybWdVUnJKMThoVk1IOFAyVFdudEpCQU1JVEV6MnZXMFNpOFgwWV9leGY0a3o1b1h2Umc?oc=5",
+     "published": "2026-10-23T17:13:00.000Z"
+    },
     {
      "title": "Football: Soccer-Bayern coach Kompany taken to hospital after collapsing during training session",
      "brief": "",
@@ -72,40 +102,10 @@
      "published": "2026-10-23T16:04:00.000Z"
     },
     {
-     "title": "Football: Soccer-Chelsea's Martinez out for a few weeks after jaw surgery, says Alonso",
+     "title": "Norway to restart grant payments to Hungary after decade-long hiatus",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjZfTHBxcTBXMFY1QURzZG41RmVsbXlBUmlFN0JILTVqSkxPbEFtM1RTbE5aX1QwakdFUmdnaDNiSFdaZWc3QTQ4bmR0Rk9RMHlLZGdUazVucHVoSG5lQmtsOW03cjlZV2l6cWI1dWx1RTF4anRnNkplQ19YSF9fVWVfcktJRmNPUlZvOEdzM29TS0p6a3llc1dwMVpDOVNyV3A4aEZzUDdUYkgzOVpwZVlQMGlOS3ljbUpmbnBOZHgyTHl3SGZ5NHBn?oc=5",
-     "published": "2026-10-23T15:11:00.000Z"
-    },
-    {
-     "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHVldjdFT2FJN3Rud2Q4ZS1NNV9TdFdMRURNYnF5N2d4SlRUZnd2RmxmMFZjOTQ0VnN5dldINXg1QjU2Q0gxM1hKQ3ctYkxFWno2UU50UFZSenNpaTlLeWI3OVUyb3RIRVZqTkVIbHhGenFKWGFPWjVQZVE0Mk0wdG4xdFM2MUQyTkpzQm1jTl9ZZEdkdjMwWGxGS3dFTWZ1Unk1VW9EbTlDVnR6VXZ3UGV4MHhLbFl4ZWtSNw?oc=5",
-     "published": "2026-10-23T14:26:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Arsenal's Saka to miss Everton clash, undergo further tests, says Arteta",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRk0ycnJIQXE1ZVFmVTRNOFJ3N1kwSTREWFJSd2tmeElWU3JRcjVEQmJVX19EUGs1ZmV4TWlHSmg2UU1SUVJMOHhoU25pbGt6Y2dxT2c4aDBVTWgweWo5aDVpNHE4U2loVGdudEs2ZEpua0FHWUk4LWhuaGFFME5VZ3RXZTU1TzZTdF9GbURTY1NoTUhjRTVEVGt5Q1BoVlVsTmh4T3J2Z2o5RmV4aXVzcmp4TWlzM280cmIwd1Rid0Q5UHpId1Bvd3NmWmY?oc=5",
-     "published": "2026-10-23T14:18:00.000Z"
-    },
-    {
-     "title": "Middle schooler in South Korea beaten by peers over deepfake images of classmates",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSzZTR0hpaVNNeFRSNWxtWDdTTm82UWw2dk9GNi1nX05iR01vYS1NTTZ0N1R6UWxUOUxBQVFjNWQtYm1zd2REZ3RjUXBRNUVUYmZac2JHT2Y0c0JBakFNMzVCQkxxaVNNcDFaSElrd2tJdzFaNFVkWUlaTmJ6VUkxTVVRbHhIcEJaZmE2SjY0cjhnRWNoNWFLOGhvR3hnMkxoWUtlZTdDbU1rM2hsSHhZemlacTdZSklUcDRkSjFfRWRYbUQ1ZEVWNHpGeFJXZU04amZsbXJUN0dGRl9W?oc=5",
-     "published": "2026-10-23T13:45:00.000Z"
-    },
-    {
-     "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjc5Tkdac0xpU3htTGwtLTFqLS1EQkpybExHMjFiSkZZWUFBR3c5TGZGQ2FheHR2TkZEbUc4c0RpZEZBTkJLbl9tZkZlY2Eya05ZMEljMDZfdGNLMFNuZlpXbENrNDh3MkpseTdqQkozdE5VbkJuRE1WbHFBUS1hTlRFdExUcnQ2TGpnbzNSUFhHd3FaemVrczl0b1lRQnFmRVQwVzk2SWNEZHpEaHo1OGdNRFlvdWk0NDdwQ1BXank2UQ?oc=5",
-     "published": "2026-10-23T13:41:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTE2ZnJVM3YyczFlUVVYVmJQN01sTW5Pa0w5U1FIdWUxZGJDaHdtampGOF9DV3Jpb0FJYjlHUmRjLTFkNFd0bFZZOXdsZWgybjE3YmxCdGc2R2hmUlJpeFcwMXBXNm13cjBidWFZNVVMNmNSd29WMk1wMDBPMm1LSW1JQXFqeGZZY2h6TkdpU205Q1VZemV1ekVsU082TDJ6STBNRzFKbWRaLUplQ2Mza0FjYmdNcE90TTVjclNUSU1aOXZP?oc=5",
-     "published": "2026-10-23T13:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMEJjakdTMkEtbHo4Q1h0X3Zid0xxaUVtYjhPRWtYUzhvQ0pqWW5NM21YMm5NVWdJbXUxUVIxblRKWkMtMDRLLXR1SXNLMXk5UG9reG03QWh2SmRwVjZpUWx4b0wybkNaZHlWaGZ4LTJ6bng5YUEwdUNSRHg2XzdkQTUxeUFqdUFRQ2JWa0I2djROdWVPdF9VNE9OT0pQRk5FcXRvTGlmYmRVTzh2bHIwRnZKRm45SC10?oc=5",
+     "published": "2026-10-23T15:21:00.000Z"
     }
    ]
   }
