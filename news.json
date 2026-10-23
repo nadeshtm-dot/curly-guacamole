@@ -1,113 +1,71 @@
 {
- "updated": "2026-10-23T14:34:31.828Z",
+ "updated": "2026-10-23T15:31:51.739Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Mississippi officer resigns after fatal shooting of 1-year-old in car outside Walmart during pursuit",
-     "brief": "A Mississippi police officer has resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a 1-year-old boy and led to…",
-     "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
-     "published": "2026-10-23T14:33:32.113Z"
-    },
-    {
-     "title": "At least 6 people killed in shooting at church in Jordan, public security agency says",
-     "brief": "At least six people were killed, and 28 injured, after gunmen opened fire inside a church in Jordan’s Karak province 90 miles south of the capital Amman, Jordan’s public security agency said.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T14:32:32.127Z"
-    },
-    {
-     "title": "Israel begins demolitions in West Bank City after two soldiers killed in shooting attack",
-     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T14:31:32.124Z"
-    },
-    {
      "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
      "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
      "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
-     "published": "2026-10-23T14:30:32.118Z"
+     "published": "2026-10-23T15:31:51.987Z"
+    },
+    {
+     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least seven people were killed, and 27 injured, after gunmen opened fire on a church in Jordan’s southern Karak province in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T15:30:52.020Z"
+    },
+    {
+     "title": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
+     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
+     "published": "2026-10-23T15:29:52.015Z"
+    },
+    {
+     "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
+     "brief": "Meghan, the Duchess of Sussex, said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
+     "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
+     "published": "2026-10-23T15:28:52.517Z"
     },
     {
      "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine for humanitarian aid",
      "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
      "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
-     "published": "2026-10-23T14:29:32.115Z"
+     "published": "2026-10-23T15:27:51.997Z"
     },
     {
-     "title": "Moms try to get electric shock gloves out of their kids’ schools",
-     "brief": "California has banned them.",
-     "link": "https://www.cnn.com/2026/10/23/us/nebraska-shock-gloves-in-schools",
-     "published": "2026-10-23T14:28:32.103Z"
+     "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
+     "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
+     "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
+     "published": "2026-10-23T15:26:52.004Z"
     },
     {
-     "title": "Hall of Famer Marshall Faulk says he’s been diagnosed with Parkinson’s",
-     "brief": "Hall of Fame running back and Southern University coach Marshall Faulk has been diagnosed with Parkinson’s disease.",
-     "link": "https://www.cnn.com/2026/10/23/sport/marshall-faulk-parkinsons",
-     "published": "2026-10-23T14:27:32.120Z"
+     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
+     "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
+     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
+     "published": "2026-10-23T15:25:52.075Z"
+    },
+    {
+     "title": "Man accused of beheading Iwo Jima statue in Virginia with sledgehammer",
+     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damage after a man beheaded one of the statues Wednesday evening, police said.",
+     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
+     "published": "2026-10-23T15:24:52.010Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHVldjdFT2FJN3Rud2Q4ZS1NNV9TdFdMRURNYnF5N2d4SlRUZnd2RmxmMFZjOTQ0VnN5dldINXg1QjU2Q0gxM1hKQ3ctYkxFWno2UU50UFZSenNpaTlLeWI3OVUyb3RIRVZqTkVIbHhGenFKWGFPWjVQZVE0Mk0wdG4xdFM2MUQyTkpzQm1jTl9ZZEdkdjMwWGxGS3dFTWZ1Unk1VW9EbTlDVnR6VXZ3UGV4MHhLbFl4ZWtSNw?oc=5",
-     "published": "2026-10-23T14:26:00.000Z"
-    },
-    {
-     "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3RpeHRXM00zdlZ5YkhNYU9ITWY1bmJ2TnlmNjhhSFFIelJPclNZb1JPYVo2OWlFMmJabVBXVzYxU2I5Nk5ELXY2cDhia2ptOFRTNWozdVB5V2JmS3NMZGxlV3VvVGxvYVRIVjFYYmQwZ1lzYkpMV3U3aHVkNDA0bWhuc2ZjNVZtcDFyOEU4MTM0VV9KMUNvQmdueEtsUVZpVG9zT1RaeE1YQVhiY3VVVjBVSWdIaWMyYXBFWF8xZFFfcUhzWmc4?oc=5",
-     "published": "2026-10-23T13:46:00.000Z"
-    },
-    {
-     "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjc5Tkdac0xpU3htTGwtLTFqLS1EQkpybExHMjFiSkZZWUFBR3c5TGZGQ2FheHR2TkZEbUc4c0RpZEZBTkJLbl9tZkZlY2Eya05ZMEljMDZfdGNLMFNuZlpXbENrNDh3MkpseTdqQkozdE5VbkJuRE1WbHFBUS1hTlRFdExUcnQ2TGpnbzNSUFhHd3FaemVrczl0b1lRQnFmRVQwVzk2SWNEZHpEaHo1OGdNRFlvdWk0NDdwQ1BXank2UQ?oc=5",
-     "published": "2026-10-23T13:41:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTE2ZnJVM3YyczFlUVVYVmJQN01sTW5Pa0w5U1FIdWUxZGJDaHdtampGOF9DV3Jpb0FJYjlHUmRjLTFkNFd0bFZZOXdsZWgybjE3YmxCdGc2R2hmUlJpeFcwMXBXNm13cjBidWFZNVVMNmNSd29WMk1wMDBPMm1LSW1JQXFqeGZZY2h6TkdpU205Q1VZemV1ekVsU082TDJ6STBNRzFKbWRaLUplQ2Mza0FjYmdNcE90TTVjclNUSU1aOXZP?oc=5",
-     "published": "2026-10-23T13:09:00.000Z"
-    },
-    {
-     "title": "Building collapses in Kenyan capital, rescuers on the scene",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHFpSG8yWGV0bnU2MkxWUXRBOXJfZkdEMGJtUU5TbUJZMVNfbktQTnFoTWxQLXljTXJSaHJDV2ZMcnh1eURSTkhPb0tkSWJvUy1yMXZMNzFrV2l2MTlLemI5dTdFd0w1eFNDLWdrOXQzWkpkWmZ6OUVEbkFWSEp5MzltYlV3bzNFTEZuNU0wSlFkeVZGSWVEdDI2d0ZweTFndUJoRURFclkyTEk?oc=5",
-     "published": "2026-10-23T13:06:00.000Z"
-    },
-    {
-     "title": "ECRL ready, but walkway missing",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMVBhdnU3MDFZVldPYnZtWW9naXhSMXJwa3hkVTlGUElXUmNCNjRlZjNVbkwxOGRmMzRpYjB1aEFTaC1tZ1RkSzdPZzNpMHB4Nk9vUXRhVFBTY1k1emNOdnZON2dZNERFdzNnUHZsTEY5dWtlcnNtaUhxMEJ5QVFBQi1nS3lQQkk?oc=5",
-     "published": "2026-10-23T12:56:15.000Z"
-    },
-    {
-     "title": "Football: Soccer-Asian Cup to move to even years under AFC governance reforms",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV050bENrMG5pTWdvblFiN0RTSXlaTU9QeUxJdnBNTmZxd0h5cTBWaVNNOHYyUzg3aUtTVHNZUkt5dXBzMTE2YklZWU8zWnR1emlwb2lDWG9QLUhKSlY4NEVVYmItWEZ1R3I2QW1BM0stWURnU2I5ZXhlWW42UXdnWDlLYTlyeVBpQzNIeW1mbXppVjJWX29Kb1FQc0J5R29DZ3RZTkhkaGVrMmFwUXlSSEtpQVR1U0Z2YjJNSg?oc=5",
-     "published": "2026-10-23T12:53:00.000Z"
-    },
-    {
-     "title": "Pitchwise to buy 42% Valencia CF stake, values the Spanish football club at $1.4 billion",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjNsbnN2NDhFMDUwT0NJNzgtYzBoTkNQUGEwbTJoZFdKel9aWjZNZGw3MHp3MThoTFpWRU9rU3I5Ym9Ha3cyb2psUS1VRERJYUVqWHdvWm9WenJ3LVE4djBpOG1tVUhnNXJ0SnlKR1ZOVW9nOEhfRC0wa2NnbnhFVGdHUGdHSjg5ZWZWenZCZHg4ZVlyczFOSDhnVUJHYVFOZGFZZ2hlQkxHYnJ3LWxXaEp1dUdDeDVUc29jek9Oa3lReDhhTUJxMDRHVTFjT0hnekc4?oc=5",
-     "published": "2026-10-23T12:42:00.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
