@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23T13:37:35.562Z",
+ "updated": "2026-10-23T14:34:31.828Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -7,51 +7,45 @@
    "items": [
     {
      "title": "Mississippi officer resigns after fatal shooting of 1-year-old in car outside Walmart during pursuit",
-     "brief": "Mississippi police officer Hunter Foster has resigned after shooting into a moving vehicle, resulting in the death of 1-year-old Kohen Wiley , while pursuing two women suspected of shoplifting from a local Walmart…",
+     "brief": "A Mississippi police officer has resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a 1-year-old boy and led to…",
      "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
-     "published": "2026-10-23T13:37:35.787Z"
+     "published": "2026-10-23T14:33:32.113Z"
     },
     {
-     "title": "Defense lawyers in Charlie Kirk’s killing want a 2029 trial. Kirk’s widow calls that ‘out of line’",
-     "brief": "Ahead of a Friday hearing about the timetable for the trial of Charlie Kirk’s accused killer, the conservative political activist’s widow lambasted defendant Tyler Robinson’s request for jury selection to start in…",
-     "link": "https://www.cnn.com/2026/10/23/us/charlie-kirk-tyler-robinson-trial-timeline",
-     "published": "2026-10-23T13:36:35.822Z"
-    },
-    {
-     "title": "At least 7 people killed in shooting at church in Jordan, public security agency says",
-     "brief": "At least seven people were killed after gunmen opened fire inside a church in Jordan’s Karak province 90 miles south of the capital Amman, Jordan’s public security agency said.",
+     "title": "At least 6 people killed in shooting at church in Jordan, public security agency says",
+     "brief": "At least six people were killed, and 28 injured, after gunmen opened fire inside a church in Jordan’s Karak province 90 miles south of the capital Amman, Jordan’s public security agency said.",
      "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T13:35:35.815Z"
+     "published": "2026-10-23T14:32:32.127Z"
+    },
+    {
+     "title": "Israel begins demolitions in West Bank City after two soldiers killed in shooting attack",
+     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
+     "published": "2026-10-23T14:31:32.124Z"
+    },
+    {
+     "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
+     "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
+     "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
+     "published": "2026-10-23T14:30:32.118Z"
+    },
+    {
+     "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine for humanitarian aid",
+     "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
+     "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
+     "published": "2026-10-23T14:29:32.115Z"
     },
     {
      "title": "Moms try to get electric shock gloves out of their kids’ schools",
      "brief": "California has banned them.",
      "link": "https://www.cnn.com/2026/10/23/us/nebraska-shock-gloves-in-schools",
-     "published": "2026-10-23T13:34:35.796Z"
+     "published": "2026-10-23T14:28:32.103Z"
     },
     {
-     "title": "One killed, four injured in drive-by shooting near Paris",
-     "brief": "A gunman opened fire from a car outside Paris, killing one person and wounding four others including a 12-year-old girl on Friday, French authorities said.",
-     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
-     "published": "2026-10-23T13:33:35.889Z"
-    },
-    {
-     "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
-     "brief": "Meghan, the Duchess of Sussex, said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
-     "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
-     "published": "2026-10-23T13:32:35.819Z"
-    },
-    {
-     "title": "Netanyahu orders closure of West Bank after two soldiers killed in shooting attack",
-     "brief": "Israeli Prime Minister Benjamin Netanyahu ordered the closure of the occupied West Bank after two Palestinian gunmen opened fire Friday on an Israeli military checkpoint, killing two soldiers.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T13:31:35.811Z"
-    },
-    {
-     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
-     "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
-     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
-     "published": "2026-10-23T13:30:35.803Z"
+     "title": "Hall of Famer Marshall Faulk says he’s been diagnosed with Parkinson’s",
+     "brief": "Hall of Fame running back and Southern University coach Marshall Faulk has been diagnosed with Parkinson’s disease.",
+     "link": "https://www.cnn.com/2026/10/23/sport/marshall-faulk-parkinsons",
+     "published": "2026-10-23T14:27:32.120Z"
     }
    ]
   },
@@ -59,6 +53,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHVldjdFT2FJN3Rud2Q4ZS1NNV9TdFdMRURNYnF5N2d4SlRUZnd2RmxmMFZjOTQ0VnN5dldINXg1QjU2Q0gxM1hKQ3ctYkxFWno2UU50UFZSenNpaTlLeWI3OVUyb3RIRVZqTkVIbHhGenFKWGFPWjVQZVE0Mk0wdG4xdFM2MUQyTkpzQm1jTl9ZZEdkdjMwWGxGS3dFTWZ1Unk1VW9EbTlDVnR6VXZ3UGV4MHhLbFl4ZWtSNw?oc=5",
+     "published": "2026-10-23T14:26:00.000Z"
+    },
+    {
+     "title": "Melania Trump secures Oleshky ceasefire between Russia, Ukraine, White House says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa3RpeHRXM00zdlZ5YkhNYU9ITWY1bmJ2TnlmNjhhSFFIelJPclNZb1JPYVo2OWlFMmJabVBXVzYxU2I5Nk5ELXY2cDhia2ptOFRTNWozdVB5V2JmS3NMZGxlV3VvVGxvYVRIVjFYYmQwZ1lzYkpMV3U3aHVkNDA0bWhuc2ZjNVZtcDFyOEU4MTM0VV9KMUNvQmdueEtsUVZpVG9zT1RaeE1YQVhiY3VVVjBVSWdIaWMyYXBFWF8xZFFfcUhzWmc4?oc=5",
+     "published": "2026-10-23T13:46:00.000Z"
+    },
+    {
+     "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjc5Tkdac0xpU3htTGwtLTFqLS1EQkpybExHMjFiSkZZWUFBR3c5TGZGQ2FheHR2TkZEbUc4c0RpZEZBTkJLbl9tZkZlY2Eya05ZMEljMDZfdGNLMFNuZlpXbENrNDh3MkpseTdqQkozdE5VbkJuRE1WbHFBUS1hTlRFdExUcnQ2TGpnbzNSUFhHd3FaemVrczl0b1lRQnFmRVQwVzk2SWNEZHpEaHo1OGdNRFlvdWk0NDdwQ1BXank2UQ?oc=5",
+     "published": "2026-10-23T13:41:00.000Z"
+    },
     {
      "title": "Football: Soccer-Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
      "brief": "",
@@ -78,40 +90,22 @@
      "published": "2026-10-23T12:56:15.000Z"
     },
     {
-     "title": "Kenya Red Cross rushes aid to Ethiopians who crossed border fleeing violence",
+     "title": "Football: Soccer-Asian Cup to move to even years under AFC governance reforms",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZUZxSE05RnhuSjRuS3dSVlZMNmVydVotNVdmcjFoX0EwTlFHNVpQUjRHbVpoeGdHN1NhaU43R1RRanRsXzhaWXpfblRqaW5MR1VLLXh5bERzVlhVZ0R6TFduRlJPenZXV0JCdmJvTEQ3VGpVQ1NfTlh4ODdISWFOU0RZN1BrVWp5X2dHVjV3WlFFa2JnNkN5dU93THBDOHU4RHVucloyalUwdjBWWWQwazhQaktuNEQyUV9TcHczZlVwRU0?oc=5",
-     "published": "2026-10-23T12:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV050bENrMG5pTWdvblFiN0RTSXlaTU9QeUxJdnBNTmZxd0h5cTBWaVNNOHYyUzg3aUtTVHNZUkt5dXBzMTE2YklZWU8zWnR1emlwb2lDWG9QLUhKSlY4NEVVYmItWEZ1R3I2QW1BM0stWURnU2I5ZXhlWW42UXdnWDlLYTlyeVBpQzNIeW1mbXppVjJWX29Kb1FQc0J5R29DZ3RZTkhkaGVrMmFwUXlSSEtpQVR1U0Z2YjJNSg?oc=5",
+     "published": "2026-10-23T12:53:00.000Z"
     },
     {
-     "title": "Unidentified gunmen open fire at church in Jordan, causing deaths and injuries, state TV says",
+     "title": "Pitchwise to buy 42% Valencia CF stake, values the Spanish football club at $1.4 billion",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY1JTT0VFaERnaGVycHJuMjJ0ZVdIb0dLdllPYjdZTkJiYUZZbURrNTljbXhVdFBhdkJCNnFHZmJUVWlPSDk0cTRHMmZNS0N3MFlOOVlQNWw1QXpBZ2NJamt6VmgtN1EtYVhjdFc0SVdhZm9FT1ctZFZNT1hFcVQ0ZWhpTkY2YVpDdlNYSnZmQnBTWXd4T01VMTIzb1lwZk80VXFZSnB2M0tOTzlNUWtJaEw0cDZCY1R1bHZWakUwWWVVZ1N4OVlOUi13R3NZNVgtTzB4VzBRUQ?oc=5",
-     "published": "2026-10-23T12:15:00.000Z"
-    },
-    {
-     "title": "Russia and Ukraine have swapped 270 prisoners of war each, Russian state media reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3IzTTAxN3ZNMGowdkhVWFRjZWZxdTZrTm5MeElxMGxzOUZtQkgtbS1ONUs0MlJ2dGtvMFZGSkZUdmppRHlEZUlleWFOa1BOZ25WRm9YVHNfelV3MTdTZC1KVVpJanVfdFRva201ZUJVSmZXR24wSUJYN2EyRmQxdnliTjQ4Skd2ZnNYeUFYd0l1bGg5Vk5ZdXlwRWlZSEFCalRQalp2ZHlNRlFueEk2aGoyd2R6cmZjQmtYeHltbWRwejZ2cDA3Z3BROUNhaDQ?oc=5",
-     "published": "2026-10-23T12:03:00.000Z"
-    },
-    {
-     "title": "Austria expels four Russian diplomats on security grounds",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQnZhZHJST3d4TDl1S2NtU1hiZzQ2eFh0ckY4WHdtNkxjdGJQbmh5TVB4cEJaX0tQRXNXVVNvNFV2VFV6bWpYOWMyN3hOeFp3OTREM2lXVV9vT3ZmNWF1WXVseHBIMzNUWjhocTBtb2g3MWR2WHBrZ1ZVaG1UODUzT25xZWtRVUU1ZTlIcURUQXFySWZwakpYeDd1VVhXZ2k4bXlLN09oYzk4dw?oc=5",
-     "published": "2026-10-23T11:04:00.000Z"
-    },
-    {
-     "title": "India's Infosys beats second quarter revenue view",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUlJKVVRTZTJqSmRtYjlwWmkxbEl5a2ViOV9CZlNFcXhiemZWbmlmZi0xNkh0Z19LMHBVNnJBYUFsc0Q5QlVnM3FvakFxS2NKcnp2Wmc0WlhRUFBOUGZHRjVTT2ZLQTFwSmQtd19LQWFIUXp4YURnaDJEaHdMTkM4a2pzUTFRZnhsZWcxUmp5WktBNGNtYjRwREpCOV9wdjBBUmlvd3hNWQ?oc=5",
-     "published": "2026-10-23T10:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcjNsbnN2NDhFMDUwT0NJNzgtYzBoTkNQUGEwbTJoZFdKel9aWjZNZGw3MHp3MThoTFpWRU9rU3I5Ym9Ha3cyb2psUS1VRERJYUVqWHdvWm9WenJ3LVE4djBpOG1tVUhnNXJ0SnlKR1ZOVW9nOEhfRC0wa2NnbnhFVGdHUGdHSjg5ZWZWenZCZHg4ZVlyczFOSDhnVUJHYVFOZGFZZ2hlQkxHYnJ3LWxXaEp1dUdDeDVUc29jek9Oa3lReDhhTUJxMDRHVTFjT0hnekc4?oc=5",
+     "published": "2026-10-23T12:42:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
