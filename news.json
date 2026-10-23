@@ -1,27 +1,33 @@
 {
- "updated": "2026-10-23T07:40:41.512Z",
+ "updated": "2026-10-23T08:32:22.774Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Trump turns the GOP’s Ramaswamy ad headache into a migraine",
+     "brief": "President Donald Trump has been undermining his own party for months, continuously causing more headaches for Republicans even long after most presidents would’ve taken the Election Day cue to rein themselves in.",
+     "link": "https://www.cnn.com/2026/10/23/politics/trump-ramaswamy-acton-ad",
+     "published": "2026-10-23T08:32:22.938Z"
+    },
+    {
      "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
      "brief": "The first known human case of Shamonda virus was reported by France on Thursday .",
      "link": "https://www.cnn.com/2026/10/23/health/shamonda-virus-explainer",
-     "published": "2026-10-23T07:40:41.829Z"
+     "published": "2026-10-23T08:31:22.990Z"
     },
     {
      "title": "Man arrested after beheading Iwo Jima statue in Virginia with sledgehammer",
      "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damages after a man beheaded one of the statues Wednesday evening, police said.",
      "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
-     "published": "2026-10-23T07:39:41.862Z"
+     "published": "2026-10-23T08:30:22.998Z"
     },
     {
      "title": "Why Zelensky insists it’s not personal with Trump — even though it is",
      "brief": "Volodymyr Zelensky told CNN on Thursday that there’s “not something personal” driving his latest estrangement from President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/23/politics/ukraine-zelensky-trump-starlink-putin",
-     "published": "2026-10-23T07:38:42.043Z"
+     "published": "2026-10-23T08:29:22.981Z"
     },
     {
      "title": "Washington Post journalist says attack by Israeli West Bank settlers has only ‘strengthened’ her resolve",
@@ -46,12 +52,6 @@
      "brief": "At least 16 people have died and dozens were injured after a magnitude 7 earthquake struck Tibet on Thursday, according to Chinese state news agency Xinhua.",
      "link": "https://www.cnn.com/2026/10/22/asia/earthquake-chinas-tibet-latam-intl",
      "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
-     "title": "El Salvador sends troops to Haiti to rescue four service members",
-     "brief": "El Salvador has deployed troops to Haiti to try to rescue four Salvadoran service members believed to have been captured by Haitian gangs, according to a spokesperson for the UN-authorized multinational security…",
-     "link": "https://www.cnn.com/2026/10/22/americas/el-salvador-troops-haiti-latam-intl",
-     "published": "2026-10-22T12:00:00.000Z"
     }
    ]
   },
@@ -60,7 +60,25 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Sarawak State Assembly dissolves effective Monday",
+     "title": "Miley Cyrus: Godmother Dolly Parton sent her message from beyond",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc1dIbEVvVDdST2d4eGg4aS0wTjViSGdNc0pQLWNBVjBhQXQxVDZhOWdwbHFxUDZ5ZTRYcmhBeFltd2pZU3N3ZHZjckVDX21CbnJlM0JERVRzWDdWaS1QUktSbzVRMDJTdTRKT3Q5WUZBWEVsaHJJcHRrMDVKRC12LV9faDlSNWNodHFVNE5lVlR2Q2NiMlVjc2Z5XzNITEJ1QnNFU1MzbWl1bVpSVlZKMktzWkVtY0JOWll4WlhIT1BEWmM?oc=5",
+     "published": "2026-10-23T08:00:00.000Z"
+    },
+    {
+     "title": "Opening markets to unlock the potential of Malaysia’s MSMEs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0VGVTNNWFlRNmw2c2Y3SjQ3R0QxSF9NNW9SX280aXdEVmhCTlE0bzdBTGZ6TUs5a2tEUXVLaVJuSDNIdFM5bFJhSUpXYkV2UlZHcEJZZ2Nyb0pYT3I2VnBWcnQ0dEhoVDJIUnlHMjcxeTNzNWdVeFBSUDdGQWRUQmlMbmY3Nzd3Q2tXaTRxaW95X1o1a0t1ZkFybE1oNlZnbjk0TEdxenJYZ01rQWxnNXRobnJPUXZadXI2SGd5SlQ?oc=5",
+     "published": "2026-10-23T07:59:00.000Z"
+    },
+    {
+     "title": "Pope Leo cancels Assisi trip to aid recovery from cancer surgery",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRmdTSUdKYW53akdtU0lxSXVUaXA3TTNuVVhmeVRiTXlFNU5qRW1YeDJVamZPMDh4V3c0ZDByVWVoMDRXY0F0ZlZjWXlnVW1XZU1zUWpkb3BWdFBacE1pc05JWFVaaTNrWU41T2dzUU82M0lqLTVwWnV1MU9CMVU3R1Fvb3hON21NRk9PZzJqMXlQM0Y1OTJPdmxwMnIybzEzd0l5VHNKaFBIUk1mUG5XZzVMcw?oc=5",
+     "published": "2026-10-23T07:53:00.000Z"
+    },
+    {
+     "title": "Sarawak Assembly dissolved effective Monday",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUkpIbnd5Qi1xMUN1TlQ4YzliMElrWmxiVFJfcU9NRTRMUEY4UlF0R2xMYkN3cXdiZ1lhYmZXZVRPZURWSklVdVdxM2wwNWhSV1duRm1wS0lkNU1FMW5SVDNjQnhoV2ZqSU16dUctaWQ3S3RzT0tLemRiSWhRTnV0NzNibEpiTVdVVWZrUFF3eVVyTHh4emlaRDRDMEZaYlQ5?oc=5",
      "published": "2026-10-23T07:34:00.000Z"
@@ -72,40 +90,22 @@
      "published": "2026-10-23T07:30:00.000Z"
     },
     {
-     "title": "South Korea proposes talks with North Korea on land border again",
+     "title": "OCBC customers report difficulties accessing mobile app and internet banking",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUhqU2RYZVZERFhaN3FtMWU1emd5bzU1SzV4MjZGaV9GY1drUFV3N01KMTdOelB3Y3Z0NlpBbG5LangyWEpxa20wU3A3ZkdzVl9EbHNuUHk1RUo3WXBBdVZ6dFphakNEZEJ0QjFiT2FUcWY5T3l4MTBnN3lGR0Y1ek1oc0hQeWotLTVPWFNwWFhkUnhaVWVCRURDSXpod0hxcXEtX0pPNDM3NzZIbUQyMll3dw?oc=5",
-     "published": "2026-10-23T06:08:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcHRRUzRISGRQNUJuUE9MVmdwMVdGSGxLSjFWV0tCNVdaU1E4Q1NTTjZKMmZPNW54M2JTZGlHSnB1Y3JVdGlvUEc1blVWbVowT1ZXWWZmXzRxNFZfcXdyb1Z2TGVVVnViMXFpdi1oTk43am9ob3FIVDcwWVhSeU05UGNDZEFYSWN3U3NvSVhSVVBVcjhQQi1qd3lHV0dXcWtTclFHdE5XN0tESS1pU1lKRGlVcFdtOG5nczcwcGw4WUlUNERDcE4tQjZpNDlXdHJJZ3VkWTJB?oc=5",
+     "published": "2026-10-23T06:58:00.000Z"
     },
     {
-     "title": "Cricket-India's Kishan ruled out of second New Zealand T20 with adductor strain",
+     "title": "Rugby-Wilson hopes to add own Wallabies jersey to family collection",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWlCOVNVNEMwMkx4Uk1GX2xLSlVvdHFGT3FBM3VianZ2N29ULXVPM2JGbkprREJmWlpHWTNQVTZzWDBXOURySnpGOVBVajhQWGhvZjEtcTJWQkFwWjEwMFM5aGIxeGh3VXVMajVxTUhVSjVQc1EzSkxWdmpqNHcyOEdKa2w0UTRtSUlKbEFWUWRnd3JyYWJJdUtucTExYUdreldoTzZJYlZ2Qjg5ODNRLThCNWVNN2dRelp2bGlaWklpaUwzN255UTU4aEpVQQ?oc=5",
-     "published": "2026-10-23T05:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1fcDJFQTRyLVBGT3lvRXE4ekV1dkw0Y0x6U2Nzdjg2ZVFwYmdzcE1qeXgzNXY2MG93cm5HaEY4YUJPeU5yTWVvcTBON0xiYUphbGVVQmxNTllnTFRuRk03SG9sTlNWVWhoWEN3Q0h3MF9rUWZmNWxEcEJTSVQ4cmVtVmhmX2VwUzFNRnJLZl9aTDdzeHh2OGs0RTh6TnZtaWJBTGZIVkxoNkt2UDVHeUxZNUR5Ymwx?oc=5",
+     "published": "2026-10-23T06:43:00.000Z"
     },
     {
-     "title": "Former Bursa Malaysia CEO Umar Swift to helm Hong Leong Investment Bank",
+     "title": "Judi Dench says worsening eyesight means she can no longer act",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ0VZTDV3RE9TaS1iSmJkcFRULVVKbkoxT0FnWnNlem83aGdnWHVzSEZhUEtVYW8tSWxFRjNFUjM2RnFOVnpUbWJkS1lGZktyLVd0S1FMLWVpMGxTRE83VjZsQWRWX0hMbDkzSjZDZTdfeTNfNDlBbi1KWVJJZ3FYRkpBQ25Xc0FhNGJBNzhEWVNQdGhIZmU3a2JtNmlNcEpoVDVBVV9WR3VVS3BMTVR5UWFlUjhIVWJ3UDVpdHVXMGVnbDNJN1hjMXc3blM?oc=5",
-     "published": "2026-10-23T05:06:00.000Z"
-    },
-    {
-     "title": "ESG Issue: Asean steps up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZjdBaHhaX3luaU00WVRwLTIwQ1RxN01kVkYyM1VYZS1mY21EdktFSUdJSmx3QUExbUppcU90dVh6ZVAzajc4Yno4SFpVZmpsN1FiUk16dUJHUjJkM2lmazBfNUpncEVPclZtb3FVT0JQdw?oc=5",
-     "published": "2026-10-23T05:05:35.000Z"
-    },
-    {
-     "title": "CTOS-C40 (530140), CTOS-C40: CW CTOS DIGITAL BERHAD (CLSA) - Market Watch",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zZDNlVl95YUZXaEhBb1FIUlI1YnFSYVZQeFRPY1dIRFV4d3R3cDBxU0RRc0NlMTBEOC1uTGZqRU1jNXNyT1hRN2wyTUVsU05uQ0VPSDVXM2R5ZWcwaDB6dndHY2J4cG0yMDdwMHVIZXpiZDBzd19OV2ZjSGM?oc=5",
-     "published": "2026-10-23T04:36:03.000Z"
-    },
-    {
-     "title": "India’s Eternal unveils AI assistant built for privacy",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckVDdEJabWdPbUtONmR5aEpUNDU0cGNlWWNhMU1kUDRNeWhrRE1oVnR3WUNjZ0RhWHZCYktWbFpPbDRPQ005a1B2elNzckdQS0k4d1I1anctYU9BdURUbFdUUVNlVXlnY0lGd25ONWtfenhnWVFGWUYwcjhMYjNYNi1pT0FreWxOWVFFRkhET0plYUdDNndpV0d2WjNocms0NjFIY1l1OHVkdw?oc=5",
-     "published": "2026-10-23T04:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ1FFZ1FLU0Etc1pSRzV2aGZWZ1l0ZHpLbmNTcWdHR1ZwbE1pbUQxdXc5eXJmbXBadVUzaDJhWTlILXRjQ0tZRFF0a1ZzVFlmWHJBNTZmOXVpRHVBVFBkSWRfZ2RBVDJLbEJtNkpTUWpIVl9rYm00Tkp0LWlvUnRSQVZDcmxRRnFXVk5UczdBSHRBcmJGcHhpNVFMWGE4dkphOGpkX0l4c1lxN2NqRGN2Z1FfRGRQdnlOZjhnRnFWZUo3UQ?oc=5",
+     "published": "2026-10-23T06:40:00.000Z"
     }
    ]
   }
