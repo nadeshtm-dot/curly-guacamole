@@ -1,15 +1,21 @@
 {
- "updated": "2026-10-23T05:28:10.279Z",
+ "updated": "2026-10-23T06:35:10.931Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Man arrested after beheading Iwo Jima statue in Virginia with sledgehammer",
+     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damages after a man beheaded one of the statues Wednesday evening, police said.",
+     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
+     "published": "2026-10-23T06:35:11.203Z"
+    },
+    {
      "title": "Why Zelensky insists it’s not personal with Trump — even though it is",
      "brief": "Volodymyr Zelensky told CNN on Thursday that there’s “not something personal” driving his latest estrangement from President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/23/politics/ukraine-zelensky-trump-starlink-putin",
-     "published": "2026-10-23T05:28:10.460Z"
+     "published": "2026-10-23T06:34:11.237Z"
     },
     {
      "title": "Washington Post journalist says attack by Israeli West Bank settlers has only ‘strengthened’ her resolve",
@@ -46,12 +52,6 @@
      "brief": "When Christine Brenden, an Iowa paralegal who staunchly supports President Donald Trump, went to fill her gas tank a year ago, it cost around $40.",
      "link": "https://www.cnn.com/2026/10/22/politics/iowa-republicans-trump-iran-war",
      "published": "2026-10-22T12:00:00.000Z"
-    },
-    {
-     "title": "Conservatives funded efforts to undercut Sherrod Brown with Black voters in Ohio, filing shows",
-     "brief": "A mysterious group that has spent at least $2 million boosting a little-known socialist candidate in Ohio’s highly competitive Senate race is being funded by Republicans, according to a new campaign finance filing.",
-     "link": "https://www.cnn.com/2026/10/22/politics/ohio-senate-conservatives-socialist-black-voters",
-     "published": "2026-10-22T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "South Korea proposes talks with North Korea on land border again",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeUhqU2RYZVZERFhaN3FtMWU1emd5bzU1SzV4MjZGaV9GY1drUFV3N01KMTdOelB3Y3Z0NlpBbG5LangyWEpxa20wU3A3ZkdzVl9EbHNuUHk1RUo3WXBBdVZ6dFphakNEZEJ0QjFiT2FUcWY5T3l4MTBnN3lGR0Y1ek1oc0hQeWotLTVPWFNwWFhkUnhaVWVCRURDSXpod0hxcXEtX0pPNDM3NzZIbUQyMll3dw?oc=5",
+     "published": "2026-10-23T06:08:00.000Z"
+    },
+    {
+     "title": "Cricket-India's Kishan ruled out of second New Zealand T20 with adductor strain",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdWlCOVNVNEMwMkx4Uk1GX2xLSlVvdHFGT3FBM3VianZ2N29ULXVPM2JGbkprREJmWlpHWTNQVTZzWDBXOURySnpGOVBVajhQWGhvZjEtcTJWQkFwWjEwMFM5aGIxeGh3VXVMajVxTUhVSjVQc1EzSkxWdmpqNHcyOEdKa2w0UTRtSUlKbEFWUWRnd3JyYWJJdUtucTExYUdreldoTzZJYlZ2Qjg5ODNRLThCNWVNN2dRelp2bGlaWklpaUwzN255UTU4aEpVQQ?oc=5",
+     "published": "2026-10-23T05:48:00.000Z"
+    },
+    {
+     "title": "ESG Issue: Asean steps up",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zZjdBaHhaX3luaU00WVRwLTIwQ1RxN01kVkYyM1VYZS1mY21EdktFSUdJSmx3QUExbUppcU90dVh6ZVAzajc4Yno4SFpVZmpsN1FiUk16dUJHUjJkM2lmazBfNUpncEVPclZtb3FVT0JQdw?oc=5",
+     "published": "2026-10-23T05:05:35.000Z"
+    },
+    {
      "title": "New Zealand's top military officer resigns over 'inappropriate relationship'",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcmJrVmdobmJNdUp3M19pbWk2VVpMOUlTWEhxdEdCMVpxQWFfam9QLTVLYXFRMTFKZlF1VmM4eklUcWhETDZyaE5saGZKd2VsV0pZb1JOMlozY3hhZW84YTdpa1Vfb3F0QVFqYkQxa1dDMy00TkhRWkp0eENiSWRRemZQb3lseUNZUFpZNlUyYmY5M2pscTFoVVFST1BpOUFiaTlPdHRyZUNtV0VPRmNpdzE0OThtZUpaSmN6RFhqSVNrbGltWnB2UUdKQQ?oc=5",
      "published": "2026-10-23T03:55:00.000Z"
+    },
+    {
+     "title": "Singapore home prices climb; rents surge by most since 2023",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlBoZ2tlWmNtUUUwQjZVTmNrdkRkVWIyOFJQNllUUE9sNnpITDZhcmRKcklvUE85bXQzT19Sa1RwLUZxNnM3eV9zUWdBeWkzT1NNZWdRM3diZks3Q2xZQW1pc2dRRGQ4cDFCVWFETXZyZ2ZCek9BeG5PVkdHbHlKRjR5M2FyMXRWaXNfR08zN3hBU0hoazRlVnlOUzZoTVFTYllzekVSNEpNRS1nMERpSzg0aGtWT3gtQy1N?oc=5",
+     "published": "2026-10-23T03:40:00.000Z"
+    },
+    {
+     "title": "SUNMED-C1 (5555C1), SUNMED-C1: CW SUNWAY HEALTHCARE HOLDINGS BERHAD (MIBB) - Market Watch",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3TnlCOFNoVlZmVUNBU0xZdkt3b1lDaWlvWEs5VE9kQmpFdXNYei03TnF4Y04wcjdLVFk4d2R0RkN6TG5OUG0tS3gwZ29XeUNNZzhXX1NTYTVBV2Zzck5FaFNuNTRta2RlX0FNTEgyWE1hRUhFaFk1ODE4V3hSQQ?oc=5",
+     "published": "2026-10-23T03:38:38.000Z"
     },
     {
      "title": "SUNWAY-C67 (521167), SUNWAY-C67: CW SUNWAY BERHAD (MIBB) - Market Watch",
@@ -72,40 +102,10 @@
      "published": "2026-10-23T03:34:32.000Z"
     },
     {
-     "title": "'Looksmaxxing' influencer Clavicular, 20, pleads not guilty to rape",
+     "title": "SCIENTX-C2 (4731C2), SCIENTX-C2: CW SCIENTEX BERHAD (MIBB) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbm9GR01VYTJXT1BaenRhbWxhVndtWFVtYkFTaTFvLWZaZjhLeURINEQ5VGt4YXhpZE1MYVY4M3dPTnhaNWN3dXBXaGV1aEFZeE5aVlgwWmJRU2drY0pQSVJZNVVLRFAwTDR6bmJpbS1YT0Z0M3pGVUliUXB1LUk2RDZacDFLWXB6TldUT0EtaG02aWhjM25hdUFkb280cjlPNW1vMFctcnczRF9ZNzk0RVk1d0hNblZSTVZueE5EaXQ3a1VMVS1IWHZuOA?oc=5",
-     "published": "2026-10-23T03:33:00.000Z"
-    },
-    {
-     "title": "SPSETIA-C1S (86641S), SPSETIA-C1S: CW S P SETIA BERHAD (MIBB) - Market Watch",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOckJhNkl3OVNIQTk1eDNyQUVDT1BqNVlpV0NXLTZLSHFzLV9mN2s0V3V0d2tmWXJ6TlBuS29IN2NPemIxQmJNVkx6cFpnZGdSNVFiYXpMYkFQd2tMRHdLbmhXUkpPVkQxeTlLcFFUdzJZaHNwSWRJZHhuZDhZOWxjSQ?oc=5",
-     "published": "2026-10-23T03:32:14.000Z"
-    },
-    {
-     "title": "Soccer-Asian Football Confederation boss says governing body is backing Infantino",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPdGZLalIxLU4wSUN5NUVlbnRRUTE0Ml9zRzI4eHZfYnlHclNvbzcwSkZpdHZ3WDJPSExPaU5Xa0R1azY5WVZ4YmR5TWVoc1V3WjhFdnhtMERLb0dMQUFweE1yU29ySU1VcHhHc3lBLWh0dVcxS1E0dnhudnZSZHFrWkl4SXJkbUxoRWliYVNLdU9LU0ZvTFM2RThjRExpM25WQnVjRmc4ODMyemlhVlJvcldLY3RHLUZFYjdpUC1UUEh0Y2Uxd1M5UzhybUIyMkpWaG9pT1hkZTdNOWRqODZraURlZ2hQN2ZCbllVZVp6ZDE4QUNYYVEwdERMYWs?oc=5",
-     "published": "2026-10-23T03:07:00.000Z"
-    },
-    {
-     "title": "Proposal to let under-18s donate organs",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDhNX1J1ZU0yMnFlTHQzRWMzTmdrclptU29iY0lsT1J0SVBxVlVPNU14elduNlBvOC1ONlNLckdUZWZ2bVVScFFhVURKYnhlOTJieEFfT2h0VlRPVUtNeEVmUHM4Y09MWmRabHBCMU5XQmloMlhNM1M4WFpjcFBuTDc4TVBab1RTSjlnc20xUDV1UjBNOWlwVEdxQlFEOWhlZi1oQw?oc=5",
-     "published": "2026-10-23T02:40:59.000Z"
-    },
-    {
-     "title": "LSH-CA (0351CA), LSH-CA: CW LIM SEONG HAI CAPITAL BERHAD (CLSA) - Market Watch",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53RmFHZmp6Q3J5VDFkWWxkM2k0VWZ3dGYxNFlaUUd2SGt5WkFCUWlveF9sZHhEeFZjQU15SnNIN1ZCcS1nQzNWc3dXVkNPN2VpcmZkRTZnZmxpMFJ0TGpUTU9PWV8weDVvZWhIcDZ2dm5JMlctVzdlbTln?oc=5",
-     "published": "2026-10-23T02:09:34.000Z"
-    },
-    {
-     "title": "Athletics: Long jumper Kar Gee turns hero again as he helps Malaysia meet their target",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZklSOHFwWUZtSlphTmRFN3dyM2I4NWwxd2lZNU44WUE0YUdaRlZfYkZfWWVaT1pwQXIwd2JtZEo1WlI2eERPVDUwWEV2TXNSRDlfdHEwNVUxR0NVUmZQc3c3THBVbFU4VWxEaVUzc1BGSEZzbHhiZ3hHWXNNYTRPX0EtOTRDSjdYOGhpZXVyWDEzVlVPd0JPRDB2WGpuYnBRS29FQnlyOFREOUZVeFk1SHBvdnZjTzZwQmlydWtQdUp4RnNJVW9HQg?oc=5",
-     "published": "2026-10-23T02:06:55.000Z"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDM3NUZHJjM0d2ZEh2RjhjbVptc3BHZm4tOWpkWmhKbmFScE1tV0dKbzZrNEZ3TUJNOFhDZENUams5Z0dvWG9rTHlJVzBHUnpaTGtWdlJaZ2lSVUlWLTlPdl9DenotYzNCZEhmd1ZwVF9odUZJVWx2VXRUNnM0LUE?oc=5",
+     "published": "2026-10-23T03:33:53.000Z"
     }
    ]
   }
