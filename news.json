@@ -1,71 +1,119 @@
 {
- "updated": "2026-10-23T15:31:51.739Z",
+ "updated": "2026-10-23T16:33:05.105Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
-     "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
-     "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
-     "published": "2026-10-23T15:31:51.987Z"
+     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
+     "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
+     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
+     "published": "2026-10-23T16:33:05.348Z"
     },
     {
-     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
-     "brief": "At least seven people were killed, and 27 injured, after gunmen opened fire on a church in Jordan’s southern Karak province in an unprecedented attack that has left the nation stunned.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T15:30:52.020Z"
+     "title": "France braces for another weekend of protests as authorities launch massive security operation",
+     "brief": "France is bracing for yet another wave of protests this weekend with authorities racing to prevent a repeat of the kind of violence and riots that hit the nation last week.",
+     "link": "https://www.cnn.com/2026/10/23/europe/france-braces-for-weekend-protests-latam-intl",
+     "published": "2026-10-23T16:32:05.394Z"
     },
     {
-     "title": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T15:29:52.015Z"
-    },
-    {
-     "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
-     "brief": "Meghan, the Duchess of Sussex, said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
-     "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
-     "published": "2026-10-23T15:28:52.517Z"
-    },
-    {
-     "title": "Melania Trump says she secured a one-city ceasefire between Russia and Ukraine for humanitarian aid",
+     "title": "Melania Trump secures one-city ceasefire between Russia and Ukraine for humanitarian aid",
      "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
      "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
-     "published": "2026-10-23T15:27:51.997Z"
+     "published": "2026-10-23T16:31:05.383Z"
+    },
+    {
+     "title": "One killed, four injured in drive-by shooting near Paris",
+     "brief": "A gunman opened fire from a car outside Paris, killing one person and wounding four others including a 12-year-old girl on Friday, French authorities said.",
+     "link": "https://www.cnn.com/2026/10/23/europe/one-killed-drive-by-shooting-france-paris-intl",
+     "published": "2026-10-23T16:30:05.400Z"
     },
     {
      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
-     "published": "2026-10-23T15:26:52.004Z"
+     "published": "2026-10-23T16:29:05.381Z"
     },
     {
-     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
-     "brief": "US President Donald Trump on Thursday claimed that Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, called Starshield, but Ukrainian officials have said…",
-     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
-     "published": "2026-10-23T15:25:52.075Z"
+     "title": "First on CNN: DOJ brings criminal charges against FBI officials it believes hampered Biden corruption investigation",
+     "brief": "Two former FBI officials are facing charges for allegedly lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden family corruption and evidence of…",
+     "link": "https://www.cnn.com/2026/10/23/politics/justice-department-brings-criminal-charges-against-2-former-fbi-agents-who-investigated-hunter-bidens-laptop",
+     "published": "2026-10-23T16:27:05.372Z"
     },
     {
-     "title": "Man accused of beheading Iwo Jima statue in Virginia with sledgehammer",
-     "brief": "The Battle of Iwo Jima monument in Quantico, Virginia, has suffered hundreds of thousands of dollars in damage after a man beheaded one of the statues Wednesday evening, police said.",
-     "link": "https://www.cnn.com/2026/10/23/us/iwo-jima-monument-statue-beheaded-hnk",
-     "published": "2026-10-23T15:24:52.010Z"
+     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least seven people were killed, and 27 injured, after gunmen opened fire on a church in Jordan’s southern Karak province in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T16:26:05.370Z"
+    },
+    {
+     "title": "Top Trump political advisers donate fee for work on behalf of pro-Russian government after he floated firing them",
+     "brief": "Top Trump political advisers James Blair and Chris LaCivita have donated money they made earlier this month in the Balkans on behalf of a pro-Russian government to President Donald Trump’s presidential library.",
+     "link": "https://www.cnn.com/2026/10/22/politics/james-blair-chris-lacivita-donate-fee-balkans-work",
+     "published": "2026-10-22T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "",
-   "items": []
+   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
+   "items": [
+    {
+     "title": "Football: Soccer-Bayern coach Kompany taken to hospital-reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkFKdEhabmpPekF6ZVoyaXpFMnpnc2h0VkZEN2VRYUZxc0pia3d0NnJvalhRYkROTEktVHJHdktsVFlaanYxeDVid1NlVDdfUzg4Qk1EUWFURGN3X1pUZV9qYklMTkY2Z2NPdFA5WlZVSjJ6QTZaanVSdFFPTmFTc182Z2gtS1hEODE5U0lBSVRhR3RrUUI1X2J0aVdRN2h3Unl1c2dyUVhMZw?oc=5",
+     "published": "2026-10-23T16:07:00.000Z"
+    },
+    {
+     "title": "Ukraine embassy in Washington reopens after suspicious object causes brief disruption",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQR29TRWN6NFotRGlROXk1N3pINFFNLWlVQUZhNTNqNWFRQWJYUGdzRHlyT0xBaS1ZZXJnU01yQmtNZ2hnXzM2WTBPQXVFdWJiRGdRS005NGV1SFh1VFlJZ0c5U25Qb0lUODFzaXozV2VCaUNiRzVYRkV2T2hMY3BMVk95Wm1KRXpVMHNtSmJSOEViZEJkQjJUb3ktYWdoclAxUUIzcUJoNHlTUVlUa09jaUpSd0hRV0Nwd1FkRHNpbXpjOEd5VkpkcHFEbkEzT0E?oc=5",
+     "published": "2026-10-23T16:04:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Chelsea's Martinez out for a few weeks after jaw surgery, says Alonso",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjZfTHBxcTBXMFY1QURzZG41RmVsbXlBUmlFN0JILTVqSkxPbEFtM1RTbE5aX1QwakdFUmdnaDNiSFdaZWc3QTQ4bmR0Rk9RMHlLZGdUazVucHVoSG5lQmtsOW03cjlZV2l6cWI1dWx1RTF4anRnNkplQ19YSF9fVWVfcktJRmNPUlZvOEdzM29TS0p6a3llc1dwMVpDOVNyV3A4aEZzUDdUYkgzOVpwZVlQMGlOS3ljbUpmbnBOZHgyTHl3SGZ5NHBn?oc=5",
+     "published": "2026-10-23T15:11:00.000Z"
+    },
+    {
+     "title": "Russia steps up attacks on Ukraine's digital infrastructure, Kyiv says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZHVldjdFT2FJN3Rud2Q4ZS1NNV9TdFdMRURNYnF5N2d4SlRUZnd2RmxmMFZjOTQ0VnN5dldINXg1QjU2Q0gxM1hKQ3ctYkxFWno2UU50UFZSenNpaTlLeWI3OVUyb3RIRVZqTkVIbHhGenFKWGFPWjVQZVE0Mk0wdG4xdFM2MUQyTkpzQm1jTl9ZZEdkdjMwWGxGS3dFTWZ1Unk1VW9EbTlDVnR6VXZ3UGV4MHhLbFl4ZWtSNw?oc=5",
+     "published": "2026-10-23T14:26:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Arsenal's Saka to miss Everton clash, undergo further tests, says Arteta",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRk0ycnJIQXE1ZVFmVTRNOFJ3N1kwSTREWFJSd2tmeElWU3JRcjVEQmJVX19EUGs1ZmV4TWlHSmg2UU1SUVJMOHhoU25pbGt6Y2dxT2c4aDBVTWgweWo5aDVpNHE4U2loVGdudEs2ZEpua0FHWUk4LWhuaGFFME5VZ3RXZTU1TzZTdF9GbURTY1NoTUhjRTVEVGt5Q1BoVlVsTmh4T3J2Z2o5RmV4aXVzcmp4TWlzM280cmIwd1Rid0Q5UHpId1Bvd3NmWmY?oc=5",
+     "published": "2026-10-23T14:18:00.000Z"
+    },
+    {
+     "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQjc5Tkdac0xpU3htTGwtLTFqLS1EQkpybExHMjFiSkZZWUFBR3c5TGZGQ2FheHR2TkZEbUc4c0RpZEZBTkJLbl9tZkZlY2Eya05ZMEljMDZfdGNLMFNuZlpXbENrNDh3MkpseTdqQkozdE5VbkJuRE1WbHFBUS1hTlRFdExUcnQ2TGpnbzNSUFhHd3FaemVrczl0b1lRQnFmRVQwVzk2SWNEZHpEaHo1OGdNRFlvdWk0NDdwQ1BXank2UQ?oc=5",
+     "published": "2026-10-23T13:41:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Trabzonspor goalkeeper Onana escapes injury in car crash in Turkey",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTE2ZnJVM3YyczFlUVVYVmJQN01sTW5Pa0w5U1FIdWUxZGJDaHdtampGOF9DV3Jpb0FJYjlHUmRjLTFkNFd0bFZZOXdsZWgybjE3YmxCdGc2R2hmUlJpeFcwMXBXNm13cjBidWFZNVVMNmNSd29WMk1wMDBPMm1LSW1JQXFqeGZZY2h6TkdpU205Q1VZemV1ekVsU082TDJ6STBNRzFKbWRaLUplQ2Mza0FjYmdNcE90TTVjclNUSU1aOXZP?oc=5",
+     "published": "2026-10-23T13:09:00.000Z"
+    },
+    {
+     "title": "Building collapses in Kenyan capital, rescuers on the scene",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeHFpSG8yWGV0bnU2MkxWUXRBOXJfZkdEMGJtUU5TbUJZMVNfbktQTnFoTWxQLXljTXJSaHJDV2ZMcnh1eURSTkhPb0tkSWJvUy1yMXZMNzFrV2l2MTlLemI5dTdFd0w1eFNDLWdrOXQzWkpkWmZ6OUVEbkFWSEp5MzltYlV3bzNFTEZuNU0wSlFkeVZGSWVEdDI2d0ZweTFndUJoRURFclkyTEk?oc=5",
+     "published": "2026-10-23T13:06:00.000Z"
+    }
+   ]
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
-  "The Star: 0 items from nowhere"
+  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
  ]
 }
