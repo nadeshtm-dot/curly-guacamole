@@ -1,15 +1,39 @@
 {
- "updated": "2026-10-24T04:26:39.507Z",
+ "updated": "2026-10-24T05:25:28.082Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Who is Gadi Eisenkot, Netanyahu’s main challenger in Israel’s elections?",
+     "brief": "One of Gadi Eisenkot’s strongest electoral assets is a simple, undeniable fact: He is not Benjamin Netanyahu.",
+     "link": "https://www.cnn.com/2026/10/24/middleeast/gadi-eisenkot-israel-election-netanyahu-intl",
+     "published": "2026-10-24T05:25:28.221Z"
+    },
+    {
+     "title": "Fire engulfs Hitler’s ‘Eagle’s Nest’ mountain retreat",
+     "brief": "German police said they had detained a suspect after fire broke out at a historic mountain guest house known as the “Eagle’s Nest,” used as a retreat by Nazi officials, including the dictator Adolf Hitler.",
+     "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
+     "published": "2026-10-24T05:24:28.274Z"
+    },
+    {
+     "title": "Astronomers say van Gogh’s ‘The Starry Night’ may have been inspired by real celestial arrangement",
+     "brief": "For more than a century, Vincent van Gogh’s “The Starry Night” was believed to have been the result of imagination, previous drawings and memories of scenes he had seen outside his barred asylum bedroom window in France.",
+     "link": "https://www.cnn.com/2026/10/24/science/van-goghs-starry-night-astronomy-intl-scli",
+     "published": "2026-10-24T05:23:28.271Z"
+    },
+    {
+     "title": "Georgia man charged with throwing Molotov cocktail at Atlanta ICE building",
+     "brief": "A 31-year-old Georgia man was charged Friday after he allegedly threw a Molotov cocktail at a U.S.",
+     "link": "https://www.cnn.com/2026/10/24/us/ice-georgia-molotov-cocktail-hnk",
+     "published": "2026-10-24T05:22:28.273Z"
+    },
+    {
      "title": "A teenager starved to death months after being detained. Her mom’s taking police to court",
      "brief": "The teenager missed her mother’s cooking, her hugs, and their small, ordinary rituals of life together – reading, shopping, and singing.",
      "link": "https://www.cnn.com/2026/10/24/asia/japan-girl-jailed-dies-intl-hnk-dst",
-     "published": "2026-10-24T04:26:39.775Z"
+     "published": "2026-10-24T05:21:28.259Z"
     },
     {
      "title": "Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding",
@@ -28,30 +52,6 @@
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
      "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "US discreetly moves diplomats and families from multiple Middle Eastern countries as escalation fears grow",
-     "brief": "The United States is rushing to move some diplomats and their family members from posts in the Middle East as the threat of regional escalation looms, according to multiple sources familiar with the matter.",
-     "link": "https://www.cnn.com/2026/10/23/politics/us-moves-diplomats-middle-east-escalation-fears",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races",
-     "brief": "In the final sprint to the midterms, Speaker Mike Johnson went to President Donald Trump with a crucial ask, according to a person familiar with the exchange.",
-     "link": "https://www.cnn.com/2026/10/23/politics/mike-johnson-trump-house-races",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder",
-     "brief": "Cincinnati, Ohio (AP) — A man who struck and killed a county deputy with his car the day after his teenage son was fatally shot by a Cincinnati police officer was convicted of murder Friday.",
-     "link": "https://www.cnn.com/2026/10/23/us/rodney-hinton-jr-verdict-ohio-police",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
-     "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
-     "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
-     "published": "2026-10-23T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cycling: Motorcycling-Marquez wins thrilling Australian MotoGP sprint to retake championship lead",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0RVZFA4VllGcTVrQ0ZQZzVUb1VPTUtVSkZ3YVBsd0I5dnZOcjc5al91RmhhaDVYZGFLdUtfT3dMZElSVEdOa2FpOUM3LTRXclNySVhuRDBlYjhTeEpUNEhGX0tPaVNQQ29sNDhLLUl3blRLZ0w5TElyXzhyZjkwLUdaNkpNM0hPMXBDY1ZzMnBXTXpnclpUZ25IX0tEaURIT1BVVmxLWUtCQzNzNldmaGtuWkswWllVMG9WVlNXMXZrUW9NQU5kLVhfdkVZU3ZVck0wUzN0TQ?oc=5",
+     "published": "2026-10-24T04:36:00.000Z"
+    },
     {
      "title": "Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says",
      "brief": "",
@@ -84,6 +90,12 @@
      "published": "2026-10-24T00:54:18.000Z"
     },
     {
+     "title": "Fake royal scam exposed",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRDhDZEE1YUhvc2VmTTBRdHJqY2lMNjRjcGROTG1PUFp2LUhWR3hEX1J3eVlET0NfT1JrUUoxV29sbDBYUzgtRkpGQVVxMUJ0OFVPR28wRTNkWUdxY1YxLWJpa0NjcjR0aldhT1A3R01iNlpUNmVVZVh5azYtQQ?oc=5",
+     "published": "2026-10-24T00:40:12.000Z"
+    },
+    {
      "title": "Walkable cities need safer drivers",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUs4QXlMODJWUDBpTm9HdVZuMDBnc3dheTU5RlZLN1MzY2gybi1pNmo3c3NJdDRybmxibzZLTDhfcDdUOFAzVW54TEFSWkFvcWUzVWI0ejVLY1VxWFd5YnRRVDFJMDk0VjJYRWxUZFAwRXJlNDJRa0tHb1pTVHJTWi04blBOckIzZk5TcURMOTEzXzRTNWJZUlVQUy1BYU9vQXc?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVlUSEU1YnE0ekQ3VTlZVmVfMjFMSnZXQ1ktQWotTTRiWjdhUFVGX0dISTdDZGhCU2g5by1zUFh5WlV0Qm9QVjlvM2d5dVRFbzJURlFQckFOS0o3WmRVMzBZaFl2QnNlcU0yalU2dHFHdWFtYkg1azBKdzZwS3JHZ3FVREJQcmd5blpPZXFsMFhId29rcUhSRVZILUc3dS03cDBQSA?oc=5",
      "published": "2026-10-23T23:49:18.000Z"
-    },
-    {
-     "title": "Cycling: Wheels of frustrations and roadblocks to glory",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQWQ4SFpwa0VWQkVFLTZKQWR3SHNCbXFlVTdOdXpqbnVldE1CemtlbzdyTlJxUVBqc3llTDdjazEtSmpkTEFDVzA0Z056Zm1BLVIzNE80YXVFVHpXeENTclFjMGFhUWVwNXdFLTBwU1JNbjdxbkY1WE5FcXhIcFBwS09TbTFaYWU4bGhRek9rZHBmVlZOWEprcXgyakJHaEE?oc=5",
-     "published": "2026-10-23T23:24:28.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KVHY0c3BDd0R1c1FxWllmdzA4TFJWYlYzV1hkVGs0VzZxY0lxOS1GMWxyVUxKcnFlTURXWmt2Zkl1WU9qbVFNR2d6NjU0T0R1bnlCaUhn?oc=5",
-     "published": "2026-10-23T23:20:42.000Z"
     }
    ]
   }
