@@ -1,39 +1,45 @@
 {
- "updated": "2026-10-24T20:22:09.314Z",
+ "updated": "2026-10-24T21:23:27.506Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Golden State Valkyries beat the Atlanta Dream to even the WNBA Finals at 2-2",
+     "brief": "Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.",
+     "link": "https://www.cnn.com/2026/10/24/sport/wnba-finals-valkyries-dream-game-4",
+     "published": "2026-10-24T21:22:27.839Z"
+    },
+    {
      "title": "Knicks try to clear up ‘misinformation’ about rings, say employees will get them in 4-6 weeks",
      "brief": "The New York Knicks sought to clear up what they said is “misinformation” regarding the awarding of their championship rings, saying Saturday that employees who were always supposed to get them will do so in about a…",
      "link": "https://www.cnn.com/2026/10/24/sport/new-york-knicks-championship-rings-employees",
-     "published": "2026-10-24T20:22:09.624Z"
+     "published": "2026-10-24T21:21:27.819Z"
     },
     {
      "title": "New maps reveal who could see more snow during this year’s super El Niño",
      "brief": "This year’s potentially record-setting El Niño is expected to shape winter weather and snowfall across the US.",
      "link": "https://www.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
-     "published": "2026-10-24T20:21:09.578Z"
+     "published": "2026-10-24T21:20:27.830Z"
     },
     {
      "title": "Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave?",
      "brief": "In the end, it wasn’t even close.",
      "link": "https://www.cnn.com/2026/10/24/americas/canada-alberta-referendum-latam-intl",
-     "published": "2026-10-24T20:18:09.668Z"
+     "published": "2026-10-24T21:17:27.844Z"
     },
     {
      "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
      "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
      "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
-     "published": "2026-10-24T20:17:09.609Z"
+     "published": "2026-10-24T21:16:27.846Z"
     },
     {
-     "title": "Iowa’s cancer problem is scrambling the midterms",
-     "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
-     "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
-     "published": "2026-10-24T20:15:09.648Z"
+     "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
+     "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
+     "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
      "title": "At least 9 people killed in unprecedented shooting at church in Jordan",
@@ -46,12 +52,6 @@
      "brief": "A Mississippi police officer and interim police chief have resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a…",
      "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
      "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
-     "brief": "Israel began demolishing buildings and forcing residents to evacuate a neighborhood in the occupied West Bank on Friday, hours after two Palestinian gunmen opened fire on an Israeli military checkpoint, killing two…",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/israel-closes-west-bank-city-intl",
-     "published": "2026-10-23T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Hazard winner lifts Lens to 2-1 win over Paris FC",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0FFVW56QmRCZFNVckplT2ZkS2I0WlMxX0dJeDgxZDUtdGxqLXFxQ2xGRGt2VUxKTHFrNF9Rc0dqY0hQMWRiUWJzTFI4ajh1dlVzT05EZGVaZ0Z6eGhucnJMUUhtSHNXQkh5WHVxOWxGbWNsSjVTQ1JxM2Y4Um4wSXZoMnlPbnpfaDVJZUV4eHcwcmdoSEVPN09YUHl3UW4wcHdpUVQwN3p3M0FoLUE?oc=5",
+     "published": "2026-10-24T21:14:00.000Z"
+    },
+    {
      "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXpOZkZCd21HN1EtRW9ZdVN1T29iRTRfMU9lNFBteWkzRFA0UGxSOVJJSlcwY1VXSWdYMndzeXktUERQanRTd3NQVWhTZnRfMUViaXhBaGtUdDVXeW5uLW9SQ1pZLWxXN2swaUR4dnFhU0VLcFNRSGRLNmNpTzhQekNsaHl4Y2p0MXRBVllnSW5SbUVVMjhLN2hxMFBZd0FnWGg2TURlX0I1ZktEN0NTQ2tTRVdnTGdyd1B5VE9hSGdVZHhzWEozZVd3?oc=5",
      "published": "2026-10-24T19:17:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-Hamilton fastest to complete Ferrari's US Grand Prix practice sweep",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaU0yQUpDeGRPTHpmOE1UVkxvSGtlQTlpaDhoOWhXaWFHczNqYVRaS3JLQUVaM3pBQVNFTG05cUZLV3M3QXZZOTlKR3ZPZVNMbVM3U2ZLYVBIWTlWYjZKR0pMSUV3cGh0N0RuRU5OYVRYbVM0VFEtc2M4cHhiTHZINU5YMk1ObHB3OVI0U09rWmdpSjQ0TWdUVXRYVEdaRFFSVlNheU5IaFJ6RnBzQW1GTTc4STdXODBrZkhfVEN3YWZQQTMzOFVZTFEtM25jTmJuMzU4?oc=5",
-     "published": "2026-10-24T19:04:00.000Z"
     },
     {
      "title": "Football: Soccer-Burnley dismiss coach Hayen after 14 games",
