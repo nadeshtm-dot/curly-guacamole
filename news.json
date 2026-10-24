@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-24T00:41:07.074Z",
+ "updated": "2026-10-24T01:37:57.736Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Mike Johnson asks Trump for more midterm money as Republicans seek to avert disaster in House races",
+     "brief": "In the final sprint to the midterms, Speaker Mike Johnson went to President Donald Trump with a crucial ask, according to a person familiar with the exchange.",
+     "link": "https://www.cnn.com/2026/10/23/politics/mike-johnson-trump-house-races",
+     "published": "2026-10-23T12:00:00.000Z"
+    },
     {
      "title": "Man who fatally struck deputy after his son was killed by Cincinnati police is convicted of murder",
      "brief": "Cincinnati, Ohio (AP) — A man who struck and killed a county deputy with his car the day after his teenage son was fatally shot by a Cincinnati police officer was convicted of murder Friday.",
@@ -46,12 +52,6 @@
      "brief": "A man accused of killing a North Carolina college student 14 years ago was convicted Friday of first-degree murder, rape and other charges after prosecutors told jurors that forensic evidence was “screaming his name.”",
      "link": "https://www.cnn.com/2026/10/23/us/faith-hedgepeth-murder-trial-verdict",
      "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Mississippi officer and interim police chief resign after officer’s fatal shooting of 1-year-old in car during pursuit",
-     "brief": "A Mississippi police officer and interim police chief have resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a…",
-     "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
-     "published": "2026-10-23T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Post-mortem finds no internal injuries in detainee's death, exact cause still pending",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSWRSVmt0OWZfZUtJWERlY3dscXQ5by1fckpvblByY191V1J5SlkzY1RpUHM1cTNoMzRocVJSbXVHa3JCeVgwa0pvZUtjZ0JVRjh0SndLOFFLTTBBanJhc2pMVjBzY2x5b0FfUEFhLVhkeDRGdkROLXF4V25sci1SSnZmdGFfeEIwZ09jaFNwSFdiZVJHZVRySVdtRnlwaE1LNkxucnVJbHlTaU1jUVZaalpRNkM5TzNPekNOQnNCdHR2Wjlmb1kxNU1mTlVNcGQzUWc?oc=5",
+     "published": "2026-10-24T01:14:00.000Z"
+    },
+    {
+     "title": "Call for stronger enforcement against unethical practices in dental advertising",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZjFSXzQwamJOc1RORkJUY2tQclBIeFFDQnYxMjAxRjF6dUdmRXYzN1o2YmFOUm5ZWWp5dm1hMUU4M0xteXNwazdZNExJUElEWEhPblRNSGJja1RXUHFzcWNwc3pkbnZ4MkJJZmhNNS1uTF9xaXFwODhIemZkQm9lRTdJUVJ6Z2xyWThjeWZSMjI4R3Q2NHZMNTlZclAzX1dqTlVPRDFnWVVMSllacjR2Zm84bjBlbzA1QkNMT3hvNTRONE9SbHg4UzNKNU95dw?oc=5",
+     "published": "2026-10-24T00:54:18.000Z"
+    },
+    {
+     "title": "Scam call centre targeting South Koreans busted in Melaka",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQWpYTmJQai1HNVEtbmpkVnRhLWhOaHhTdGM4SWlEOTEyYnJmX1Z4aFZCZG54ZWktaXN0alJ0eXowaURpVGs3MUZkZkptWU1TczlaZUE2Qy1MVjlvMGlMXzFhSXRPZDhYeDVUa0sybi0yOENRQ0puMGZHVGx4LVZuMmNra0Y2MFJlcjgwTmRFSjE2X3dlU0V1WTVLWlBLZHJ2WXZwYVpnZDlocTQ?oc=5",
+     "published": "2026-10-24T00:33:00.000Z"
+    },
     {
      "title": "Walkable cities need safer drivers",
      "brief": "",
@@ -72,40 +90,22 @@
      "published": "2026-10-23T23:49:18.000Z"
     },
     {
-     "title": "Other Sports: Ziyad vows to return stronger after missing his fourth consecutive Para Asiad gold",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZGM5c25NQVl3c2U3QnNGc2t5Z3pwdUN3UDMyWjF6cDJ6VTkzZ3lOZ0pKZ0pUenBiOTU4X2pISGpfeTBwQ1RKcUE4QXM4VzQwcS1uNF9qcXJKVEhQaThBWjFZbUlTTVFOT1M0OVY0RDByUExQa3NkWDZ1Sk9GWnhVVmI1cmR0UktESTJxRXpOMHY4bGZONGJqdzR4dmJzempCTEdPd2JXZUdsdTAzTWRJQ3p4ZVB2OHpkZjNhYW9XUFJQTF9fR2RKekFqOG81UQ?oc=5",
-     "published": "2026-10-23T23:24:28.000Z"
-    },
-    {
      "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KVHY0c3BDd0R1c1FxWllmdzA4TFJWYlYzV1hkVGs0VzZxY0lxOS1GMWxyVUxKcnFlTURXWmt2Zkl1WU9qbVFNR2d6NjU0T0R1bnlCaUhn?oc=5",
-     "published": "2026-10-23T23:20:42.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAxWXprLU9kLTFEd3NaYUVXQ29hUGlockt4MHl6dWFXUzlyMnpWcHNYTTBfQWlQdm9xR1ludk1Ed2JycVNBcnF2NmR4QzhtOXVvaVRKMXZVd04?oc=5",
+     "published": "2026-10-23T23:48:44.000Z"
+    },
+    {
+     "title": "Cycling: Coach turns years of blood, sweat and tears into a lasting legacy for Malaysian cycling",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaEMtVUtyNndZUW1qMG4tMjJTb1NDNWJjbWZxdDdsOGNuMDFfaVhNQ3dZSy15X3g0QXBBMnZrWnZ2MHlzUmRiay1pSi1NVklCVXVJU0NpMUdacEg1RzduMWJ4aDdxQVpYelJBU1JpanNQTWJqcGNGLU8zYldxMU9qRFptbXZXeGZJOG1veHFTTkVSdTlFbEdZTXpvS3RNekNyVGFvSGFVbjRxMzZaSkRXVzc1V255QngxaHJZWnJORHNoTmxrREluLVlMbnFMektFRjFCSA?oc=5",
+     "published": "2026-10-23T23:24:28.000Z"
     },
     {
      "title": "The Star | Malaysia News: National, Regional and World News",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
      "published": "2026-10-23T23:00:20.000Z"
-    },
-    {
-     "title": "Power of standards",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5iTjYydEhuQmtyZHBDNDc0SDFVekRBSk9NQWhTZFVzMmVVdG15a3V4dzk3a0ladC1kNG1LSDY5cFNNU2x6NE8yc3k0VGpMWXBHcEMyWmdEbHZJSGRHX0NxYlY2bUNyOUZsQW9oUjlxNnQ0SFdueHZtMUZ3MmxQQQ?oc=5",
-     "published": "2026-10-23T22:51:54.000Z"
-    },
-    {
-     "title": "Football: Soccer-Ronaldinho to return to action with Italian club Ravenna",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONF9CZzV0RVFfTTJHbHhERlAzcU1WeWNzcnpSb3I1dzZja2dHZFFlX1BSRGVGa3V5ZHhxd3hFVVB0bFg1MG9nYWFweXV5RkVITlk0WDZ5YjZTTTl6dVc2eEVZRzgteDJBaTNLbkhvYkQ4MGYwT1Etd2wwQWMyRTFhcXRxR2NFS2hKM1dscklxX2VZcW42RFFJeDU2NjVfaTdfLU1SUWdFejJkcmV6TV9LTHpIdnA1ZzA?oc=5",
-     "published": "2026-10-23T22:41:00.000Z"
-    },
-    {
-     "title": "Pentagon designates Confucius Institutes in US a national security threat",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2hIRDFEOEdCWUpWd1BNaGgtLTlxc3F1bUQ0NjI4SlliczhYVEFqeGhkd1FOQjJDM0Q1bHp2dmw5ODZGSFJKODE3RENScGVkOW5CRi1FQ3Nad0VaLWU3Vkl3U3FGd0xHMUVmMlJRNjJFQXNZSDhvMTVVUkEwYjFZRGF2UzVqQTRWaEk4OUNrV0Znc1l4YnpzZWJPODREanY5Rmx6RzlRRnpWeUVMN1ZzOC0zRnFTMTM5OGpCU2NEdw?oc=5",
-     "published": "2026-10-23T22:30:00.000Z"
     }
    ]
   }
