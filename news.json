@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-24T11:23:36.117Z",
+ "updated": "2026-10-24T12:29:13.754Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
+     "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballot — warning that officials who knowingly count ballots cast by…",
+     "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "published": "2026-10-24T12:29:13.969Z"
+    },
+    {
+     "title": "A GOP congressman in a swing district faces angry voters: ‘I’m against the party that caused this’",
+     "brief": "GOP Rep. Brian Fitzpatrick was weaving through the crowd of a fall street festival when he was confronted by a man enraged by the skyrocketing costs he’s experiencing.",
+     "link": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
+     "published": "2026-10-24T12:28:14.029Z"
+    },
+    {
      "title": "How Title IX investigations work and why experts say the system failed Cornell’s Jane Doe",
      "brief": "The 18-year-old, now known as Jane Doe, flew across the country four years ago to Cornell University, where a civil complaint says she was immediately taken by the glorified façade of Greek life on campus and…",
      "link": "https://www.cnn.com/2026/10/24/us/title-ix-sexual-assault-cornell",
-     "published": "2026-10-24T11:23:36.388Z"
-    },
-    {
-     "title": "The vulnerable House Republican trying to withstand the anger directed at his party",
-     "brief": "GOP Rep. Brian Fitzpatrick was weaving through the crowd of a fall street festival when he was confronted by a man enraged by the skyrocketing costs he’s experiencing.",
-     "link": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
-     "published": "2026-10-24T11:22:36.392Z"
+     "published": "2026-10-24T12:26:14.044Z"
     },
     {
      "title": "The 2026 campaign is getting ugly — especially on the right",
      "brief": "Any campaign that involves Donald Trump is bound to get pretty ugly.",
      "link": "https://www.cnn.com/2026/10/24/politics/republican-rhetoric-ramaswamy-midterms",
-     "published": "2026-10-24T11:21:36.370Z"
+     "published": "2026-10-24T12:25:14.035Z"
     },
     {
      "title": "Angel Reese’s hairstylist explains the WNBA superstar’s look",
      "brief": "Angel Reese has always known the power of an image.",
      "link": "https://www.cnn.com/2026/10/24/sport/angel-reese-wnba-finals-hair-cec",
-     "published": "2026-10-24T11:20:36.381Z"
+     "published": "2026-10-24T12:24:14.048Z"
     },
     {
      "title": "Ramaswamy and Trump gamble on an incendiary ad, as Ohio shows signs it might turn purple again",
      "brief": "Vivek Ramaswamy is ending his run for Ohio governor the same way he launched himself onto the political scene four years ago — with a bet that voters will reward him for a never-back-down bombast that mirrors…",
      "link": "https://www.cnn.com/2026/10/24/politics/vivek-ramaswamy-ad-ohio-politics",
-     "published": "2026-10-24T11:19:36.398Z"
+     "published": "2026-10-24T12:23:14.020Z"
     },
     {
-     "title": "Gen Z are leading the European protests. Here’s why they’re angry",
-     "brief": "The kids are not alright.",
-     "link": "https://www.cnn.com/2026/10/24/europe/gen-z-protests-europe-explainer-intl",
-     "published": "2026-10-24T11:17:36.395Z"
-    },
-    {
-     "title": "Who is Nathan Fielder, really?",
-     "brief": "Nathan Fielder has been quietly building his cultish brand of meta-comedy since 2013 and has now exploded into mega-stardom thanks to “You Can See Everything,” the three-hour documentary about now-imprisoned Theranos…",
-     "link": "https://www.cnn.com/2026/10/24/entertainment/nathan-fielder-elizabeth-holmes-rehearsal",
-     "published": "2026-10-24T11:16:36.374Z"
+     "title": "US discreetly moves diplomats and families from multiple Middle Eastern countries as intel warns of Iranian plots to attack",
+     "brief": "The United States is rushing to move some diplomats and their family members from posts in the Middle East as the threat of regional escalation looms, according to multiple sources familiar with the matter.",
+     "link": "https://www.cnn.com/2026/10/23/politics/us-moves-diplomats-middle-east-escalation-fears",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
      "title": "France braces for another weekend of protests as authorities launch massive security operation",
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Family doctor concept deserves further attention",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVlUSEU1YnE0ekQ3VTlZVmVfMjFMSnZXQ1ktQWotTTRiWjdhUFVGX0dISTdDZGhCU2g5by1zUFh5WlV0Qm9QVjlvM2d5dVRFbzJURlFQckFOS0o3WmRVMzBZaFl2QnNlcU0yalU2dHFHdWFtYkg1azBKdzZwS3JHZ3FVREJQcmd5blpPZXFsMFhId29rcUhSRVZILUc3dS03cDBQSA?oc=5",
+     "published": "2026-10-24T11:43:24.000Z"
+    },
     {
      "title": "Heart And Soul: Who sends handwritten letters nowadays? These friends still do",
      "brief": "",
@@ -78,6 +84,12 @@
      "published": "2026-10-24T08:40:00.000Z"
     },
     {
+     "title": "Sarawak polls: PAS wants to contest four seats",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSk9sQ0ZiQmpycFRtcnJ3NkJYMGhxVEtoNlh5U0o3V0FtOVdBOUxMczhoOTk1cnMteGJyUjFzM0F0S2JZVjBVckxfTkdod0M5UHNsa0x5Q0VUcW5PYWRFNUFpcmRpbjFQdzJpdktUaE1WMG1lSXJCTDRqWGlIR0pQc1JxU2NGWUtnX09CVGl2TGlaVFN5NmFTdG5ZN0pQWGU3Z0hBb21B?oc=5",
+     "published": "2026-10-24T08:17:00.000Z"
+    },
+    {
      "title": "SpaceX's satellite connection renewed at over 400 km/h, Ukraine's defence minister says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOFBaVVUtc3FwNTVsUTE5bDhhUWx3MVFONFBtbXluUG1LQWIybktSbzdoLXVUOXA0dGszbDZuOXRTbzJ5cVVoWEt1SDdUVi1YdmZTazFkNWpER2NfVXdieFZ1WXBsME12bFZGbHFTbDJVdHBUQjdlbjZmY1NrWTV6WkR0NUxaNUZocmg3Uy1iWGFuWWRPRzJCbGhiSmYxelZjaC1uVFBpaDJMT1RvQVBJSklaZVhEOGdVeklQak84OGN3OVFFX2hMWWFPckI3ZkZCWHkxaw?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQjJOSjR6RTZsQktQOFVCWHJnOWg2TDRUaFFJSGcyUGtaTWM0Z1FEYmdRd0l6RmVWTUZqWE1NZFN4RHpDaEJiX28wMmREcndkczdtMno0OVhEUXBCaUgtdFhYWTNPdmlHMUNJdlhiR3NUeDdCenhZNXJLLTIxc29qWW92MGEtZmc1dHpCNkhEeldldFpVbFYxekJIbTlYb0lHTndSOVpCQmVTZjIzampXdFBXcU1Sb2FoZDRWYjZPRlVTVWh6VHc?oc=5",
      "published": "2026-10-24T06:28:00.000Z"
-    },
-    {
-     "title": "US embassy says security ramped up in Jordan after deadly church attack",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2RRWHRCaTdJT0I3dXhaOHBYYzZHeWNsdTZkOVFiNHdfTzJkaFk0cXNBdWs0cTBHaUtJWjF6YllNQ0FGZlJ1TVhqa3dhWVo1SnVMMVVzdDRjU3lLVGVCdllNNEhKRzRfd3JOSm5FdldNdWw4aG9zaEhTUWU4czB2dnk3VlZzVUJ5WjlwOFV6Y1JhWkN6cUZlbmFKR3BCd2NPWVJ5Uk5oSjdYbjA3VDRLVEJVMkdGS25RZ01pag?oc=5",
-     "published": "2026-10-24T06:24:00.000Z"
-    },
-    {
-     "title": "Walkable cities need safer drivers",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDR3YTlVQ1hyQTFQVjZaRzFKX1NrS0s3TTc1UGpsYkQxbmFxaHpPZnpMa3ZFMjlPcjFSZ2doR3pvaE9FSjhtdWg1Rnc5R3NjbVE1TVkwMEJlVWNFS0tIcFItQmk2OEd3V2pOT3ljZE8xRFZNNUcxeTFuYmpXWkdZTzJjcnNxYWtxWno4UVlKTjY0WnZjanN6d2pWV1plRFFOX01SbU9vc25GVVNRSWcwajVJUHEya2RyaE5iVWlRbw?oc=5",
-     "published": "2026-10-24T06:19:02.000Z"
     }
    ]
   }
