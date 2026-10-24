@@ -1,10 +1,22 @@
 {
- "updated": "2026-10-24T02:27:13.755Z",
+ "updated": "2026-10-24T03:27:17.087Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Fox News’ Sean Hannity and Ainsley Earhardt celebrate with Trump at Mar-a-Lago ahead of wedding",
+     "brief": "Fox News stars Sean Hannity and Ainsley Earhardt are getting married on Saturday.",
+     "link": "https://www.cnn.com/2026/10/23/politics/sean-hannity-ainsley-earhardt-wedding-trump",
+     "published": "2026-10-23T12:00:00.000Z"
+    },
+    {
+     "title": "Ukrainian officials say Starshield restrictions still in place, despite Trump’s claims",
+     "brief": "US President Donald Trump on Thursday said Elon Musk had restored Ukraine’s access to a military-grade version of his Starlink internet service, but Ukrainian officials have said restrictions remain in place that are…",
+     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
+     "published": "2026-10-23T12:00:00.000Z"
+    },
     {
      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
@@ -40,18 +52,6 @@
      "brief": "A ruling on the trial date for the man charged with killing conservative activist Charlie Kirk will come next month, a Utah judge declared Friday.",
      "link": "https://www.cnn.com/2026/10/23/us/charlie-kirk-tyler-robinson-trial-timeline",
      "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "‘The most complicated launch campaign ever’: NASA lays out mad dash to test lunar landers",
-     "brief": "NASA offered new details Friday about a mad dash to get two lunar landers — built by competing companies Blue Origin and SpaceX — and the space agency’s own rocket and spacecraft ready for a crucial test mission next…",
-     "link": "https://www.cnn.com/2026/10/23/science/nasa-artemis-update-spacex-starship-blue-origin",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "At least 7 people killed in unprecedented shooting at church in Jordan",
-     "brief": "At least seven people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Magnitude 7.2 earthquake strikes waters near Vanuatu, USGS says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ3pBU01BOGI2VGk3dmE0NXRHYlhkWWZJMHlfeVB0SVF5Uk1WV3htY25ad3N4amY2VWlxbXQ1Y1VSVGU1SnhTdG5xcC1sOXI4SldxN0VtbGdXOUtwVkFVdE1JVlV6R1VMZEVzaE56eEhYcy1oUFNCdm50YlZ2UVZyTVNiSHdEN1Q1N2hCYXR3aWZpQmt2alB3QlFqdWstZG5sTjRtN1pNdjhtbF9YZHVz?oc=5",
+     "published": "2026-10-24T02:57:00.000Z"
+    },
+    {
+     "title": "Typhoon Champi sweeps past Taiwan, one dead and 500 injured",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcDU4YWNOUFd4cXV6YXhpQ05laUk3R2xqa0VtS2JzZ0hhYW1sdGZDeEJ0NDNoUDJqZTFLZENhMVVfYWNmSzhVWWtLY2xycmVKWTROM3RrblFiRHJMekVySDFobDdTRjV5a09iR2d2M1dqejNkdC1TLUFZMW9RamNrXzhqQy1tYnNZYnF4UGpMZHdSR1BTcC1UeEpTYjB2S1gtWTltOFJUYkVwcGc?oc=5",
+     "published": "2026-10-24T01:29:00.000Z"
+    },
     {
      "title": "Post-mortem finds no internal injuries in detainee's death, exact cause still pending",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVpjNGhOM3VEQjFyZ2h3dTFFbVhpMzEwNWEyTDdLakMwdlozazFqQWtPb3NBUm1KWWdkUVBhTlBGYUtQT1k2QXlsY3FDOU5mUEhMUHRzNGFYeGtFa1M5dmxwYjlTM3dzQ1Nab1NoaUJhbHlVcjBsaDlUQlZtTlB6RDFlSnZFS3RxVG9MSEx4ZXBnWUx3SlF5WGVB?oc=5",
      "published": "2026-10-23T23:04:01.000Z"
-    },
-    {
-     "title": "The Star | Malaysia News: National, Regional and World News",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
-     "published": "2026-10-23T23:00:20.000Z"
-    },
-    {
-     "title": "Learning and earning on the job",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRXR5V0JIcTFhNGVaSHJaVnJ2YkZJTVFZYUFGamRZNlNid2dRNER4NU40QTRLTW9pcS1YOFBTWW51T0FteUlHb0xPNG5wWk5DeWFqYm5UTllycDBTSzhXOFJJUHdJSTB5akNvaS1kS3hFaW54LW1rMmlodTd2b3lTMklsM0VhT082T2RNVTliaw?oc=5",
-     "published": "2026-10-23T22:52:54.000Z"
     }
    ]
   }
