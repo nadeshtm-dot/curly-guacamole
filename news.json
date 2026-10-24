@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-24T15:24:24.883Z",
+ "updated": "2026-10-24T16:24:52.185Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Months after Venezuela’s earthquakes, families cling to hope in search of loved ones",
+     "brief": "The deafening roar of excavators echoes through the rubble, drowning out all other sounds.",
+     "link": "https://www.cnn.com/2026/10/24/americas/venezuela-earthquakes-victims-search-latam-intl",
+     "published": "2026-10-24T16:24:52.380Z"
+    },
+    {
+     "title": "We have more clothing options than ever. Why is shopping so hard?",
+     "brief": "Down a dim, crooked hallway inside the Jay Street Lofts, a hulking brick relic of Brooklyn’s industrial past, Naomi Mishkin is conducting a radical fashion experiment.",
+     "link": "https://www.cnn.com/2026/10/24/business/its-not-just-you-theres-nowhere-to-shop-anymore",
+     "published": "2026-10-24T16:23:52.474Z"
+    },
+    {
+     "title": "How cancer has scrambled Iowa’s midterm politics",
+     "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
+     "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
+     "published": "2026-10-24T16:22:52.419Z"
+    },
+    {
+     "title": "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
+     "brief": "When doctors diagnosed Jen Chan with an aggressive form of breast cancer last year, she and her wife, Emily, faced a frightening reality: surgery, chemotherapy, radiation and uncertainty about whether the treatment…",
+     "link": "https://www.cnn.com/2026/10/24/health/health-insurance-costs-jenchans-restaurant",
+     "published": "2026-10-24T16:21:52.424Z"
+    },
+    {
+     "title": "Gen Z are leading the European protests. Here’s why they’re angry",
+     "brief": "The kids are not alright.",
+     "link": "https://www.cnn.com/2026/10/24/europe/gen-z-protests-europe-explainer-intl",
+     "published": "2026-10-24T16:20:52.431Z"
+    },
+    {
      "title": "North Korea’s Kim crosses new bridge into China as trade ties warm",
      "brief": "North Korean leader Kim Jong Un visited the Chinese border city of Dandong on Saturday, Xinhua reported, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang’s push to expand…",
      "link": "https://www.cnn.com/2026/10/24/china/north-koreas-kim-crosses-china-bridge-intl",
-     "published": "2026-10-24T15:24:25.091Z"
+     "published": "2026-10-24T16:19:52.405Z"
     },
     {
      "title": "Six Flags signals Goliath roller coaster will reopen — with seat belts — after fatal fall at Georgia park",
      "brief": "Six Flags will add seat belts to Goliath and other roller coasters with similar restraints following the death of a man who fell from the ride at Six Flags Over Georgia earlier this month.",
      "link": "https://www.cnn.com/2026/10/24/us/six-flags-goliath-seat-belts-death",
-     "published": "2026-10-24T15:23:25.147Z"
-    },
-    {
-     "title": "A GOP congressman in a swing district faces angry voters: ‘I’m against the party that caused this’",
-     "brief": "GOP Rep. Brian Fitzpatrick was weaving through the crowd of a fall street festival when he was confronted by a man enraged by the skyrocketing costs he’s experiencing.",
-     "link": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
-     "published": "2026-10-24T15:20:25.114Z"
-    },
-    {
-     "title": "Inside BYU’s unique surge to the top of college football",
-     "brief": "The sun hadn’t yet risen over the Wasatch Range when Kalani Sitake decided to bust a move.",
-     "link": "https://www.cnn.com/2026/10/24/sport/byu-college-football",
-     "published": "2026-10-24T15:18:25.153Z"
+     "published": "2026-10-24T16:18:52.416Z"
     },
     {
      "title": "Melania Trump says she secured one-city ceasefire between Russia and Ukraine for humanitarian aid",
      "brief": "First lady Melania Trump announced on Friday that she helped secure a localized ceasefire between Russia and Ukraine in the city of Oleshky to facilitate the humane evacuation of elderly residents.",
      "link": "https://www.cnn.com/2026/10/23/politics/melania-trump-ceasefire-ukraine-russia",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "At least 9 people killed in unprecedented shooting at church in Jordan",
-     "brief": "At least nine people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Ukraine’s defense ministry says access to Starshield has been restored",
-     "brief": "Ukraine ’s full access to Starshield has been restored, the country’s defense ministry said Saturday, two days after US President Donald Trump said Elon Musk had restored access to the military-grade version of his…",
-     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
-     "brief": "Meghan, Duchess of Sussex said Friday she was “deeply distressed” by a report that her father had a large collection of images depicting child sex abuse and revealed she had been told of “disturbing allegations”…",
-     "link": "https://www.cnn.com/2026/10/23/uk/meghan-duchess-sussex-distressed-thomas-markle-allegations-intl",
      "published": "2026-10-23T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "MCA leaders stage walkout at BN's Melaka polls candidate announcement",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVXdSbEtjNHdqQXhCcnVqQjdLMmNpcHY1S0l2OGFfQlRsdXQzVkhiS3UtVzBCUVppUUNKSmZkNXdVRjlZN3QyNHFsRjBNX19iNDBHRnFkZVVqOFJjUkU0VklIY3lpSTZYZ0c0NGNzZkdwS0xWLVlXVGdmTTMyMTloVzFqUnBBMGZZUTVGeGNGTExSVW1oTnM4aGFmcFB1bXlLZDNfX2NJU3hKaTFabkd2R2VkdUw3YUFhQlNMRzZ3?oc=5",
+     "published": "2026-10-24T14:23:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Jackson double ends Man City's perfect run as Villa win 2-1",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0hJUktrZ3dXMGg3VlBTcnV5UkVTZEQ3LTM1bHdDNGVYTjJfNXlBTTJZYXVfVnM3NG9yMV9pb3dLRE5oaDlPazh2eDFWTllfZFVTc3ZwbEZ4bkY4OWR2eTFKUlA0RURPQUtoWXJQSWtwNHFuelZUX2dpdW0tVHRGNlEzTWFKUFhqOHhMT1E2cXB1Z1pIb0tObWtDS0Y2YXVla09fbXZmQ1o1eGlQYTZ5THpsbzVtYkRTQUF0LVNR?oc=5",
+     "published": "2026-10-24T13:56:00.000Z"
+    },
     {
      "title": "Heavy price of paying later",
      "brief": "",
@@ -70,12 +82,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGlZeEZpeVBHQVluOXBNUFMzMk5tX0dGNkEwbmZZeTUyWHJuMUF0WFNaYk9MUDlybFJiYnFZR1l0OHU0R1JMZFAxRF9UajFqNVF4Ul9DV2gxY2U2dmtoekRLWVVSNC1zU0Q0R0lJRThEZjAwYllpWFZMMmhFbXMwTnJaMmVHWG1GdFlVUWI2bXNIRGpGNUZnYXN3RQ?oc=5",
      "published": "2026-10-24T13:52:00.000Z"
-    },
-    {
-     "title": "Singapore identifies 65 apps with harmful content and another 24 wongly age-rated",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDNKNklDYk9MUlBJRXFJOW50VkZDTzNocjhPYWF6WHNqVmZzR0VvOXN6d0lJek5VQnJUcDR3VTJPY0U4X3BPYVpDekh3Wkt3QjNsemF6X0hmNWRIYU5iZVg0YU1kdFpXUi1aSXcxWVN5bFl0NTZBX01FODNJV282c2JNY1lJN2oyb01NQWtWR0dqQ2hrM0ljUEhEaUlRNUVHd1o1eFBZU0F6Tk9jX0pTS3BmZ2o3V2R5ZHctaExRX3I3eW5BRFF0bzc3Q0s2MlZTTjlPZ3JsaWUwSGdL?oc=5",
-     "published": "2026-10-24T12:36:00.000Z"
     },
     {
      "title": "Family doctor concept deserves further attention",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1jRUxQWTZHTF93eDhjYkFPRlFPOU13b3hwc0Vpd2FTS3EtQm5DQ0I2RktWX2d2bXFpdHFvN01HaUZPc29DYWQ0Z0ROSFlOV056UjdMaWM2Um9YUmZUel9wRi0tdFkwdVNTNHBDaXJjV01UampOckxBdkliX2xWVkQyV0NoMjNGaUZiRWdBbW93NUw1UFgtWVR3WGIyTk9QNU9OTGg3X3o0eC1BeGl6Ri1SSjBSMklBVkQ4bEQ2RElKNDdEeUN3ZGVWeVhCRGk5?oc=5",
      "published": "2026-10-24T09:16:00.000Z"
-    },
-    {
-     "title": "Malaysians to be spared higher RON95 prices even if subsidy bill hits RM45bil, says PM",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2tKM3BmS0N0VnR1N09nd0xMVnY2Y3ZvWkFBdTRjZlRWRzNNRlBFU184WS1wRmRlbC16YXJIWjdOOEU0UTBsQ25ER2Q4akNkRW8zdlJxUFV1aVJhOE8waHJqQ2R6TW41NXppZDVyTTVHaGtidkk0S3hMNHFhYXNwS1h0N291aWNWTTVBRlliSjBpVU4tR0l1bkY4UXR4bU5DMEtrcU5PMVRNcVJBeTlSQlg1ZXlTdmY0NlRXOWdVd1NLOG81NkpKdTh3Q2UtODFo?oc=5",
-     "published": "2026-10-24T09:11:00.000Z"
     }
    ]
   }
