@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-24T19:23:10.289Z",
+ "updated": "2026-10-24T20:22:09.314Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave?",
-     "brief": "In the end, it wasn’t even close.",
-     "link": "https://www.cnn.com/2026/10/24/americas/canada-alberta-referendum-latam-intl",
-     "published": "2026-10-24T19:22:10.542Z"
+     "title": "Knicks try to clear up ‘misinformation’ about rings, say employees will get them in 4-6 weeks",
+     "brief": "The New York Knicks sought to clear up what they said is “misinformation” regarding the awarding of their championship rings, saying Saturday that employees who were always supposed to get them will do so in about a…",
+     "link": "https://www.cnn.com/2026/10/24/sport/new-york-knicks-championship-rings-employees",
+     "published": "2026-10-24T20:22:09.624Z"
     },
     {
      "title": "New maps reveal who could see more snow during this year’s super El Niño",
      "brief": "This year’s potentially record-setting El Niño is expected to shape winter weather and snowfall across the US.",
      "link": "https://www.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
-     "published": "2026-10-24T19:21:10.539Z"
+     "published": "2026-10-24T20:21:09.578Z"
+    },
+    {
+     "title": "Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave?",
+     "brief": "In the end, it wasn’t even close.",
+     "link": "https://www.cnn.com/2026/10/24/americas/canada-alberta-referendum-latam-intl",
+     "published": "2026-10-24T20:18:09.668Z"
     },
     {
      "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
      "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
      "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
-     "published": "2026-10-24T19:20:10.546Z"
+     "published": "2026-10-24T20:17:09.609Z"
     },
     {
      "title": "Iowa’s cancer problem is scrambling the midterms",
      "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
      "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
-     "published": "2026-10-24T19:18:10.548Z"
+     "published": "2026-10-24T20:15:09.648Z"
     },
     {
-     "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
-     "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballots — warning that officials who knowingly count ballots cast by…",
-     "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
-     "published": "2026-10-24T19:17:10.482Z"
-    },
-    {
-     "title": "Months after Venezuela’s earthquakes, families cling to hope in search of loved ones",
-     "brief": "The deafening roar of excavators echoes through the rubble, drowning out all other sounds.",
-     "link": "https://www.cnn.com/2026/10/24/americas/venezuela-earthquakes-victims-search-latam-intl",
-     "published": "2026-10-24T19:16:10.550Z"
+     "title": "At least 9 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least nine people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
      "title": "Mississippi officer and interim police chief resign after officer’s fatal shooting of 1-year-old in car during pursuit",
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXpOZkZCd21HN1EtRW9ZdVN1T29iRTRfMU9lNFBteWkzRFA0UGxSOVJJSlcwY1VXSWdYMndzeXktUERQanRTd3NQVWhTZnRfMUViaXhBaGtUdDVXeW5uLW9SQ1pZLWxXN2swaUR4dnFhU0VLcFNRSGRLNmNpTzhQekNsaHl4Y2p0MXRBVllnSW5SbUVVMjhLN2hxMFBZd0FnWGg2TURlX0I1ZktEN0NTQ2tTRVdnTGdyd1B5VE9hSGdVZHhzWEozZVd3?oc=5",
+     "published": "2026-10-24T19:17:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Hamilton fastest to complete Ferrari's US Grand Prix practice sweep",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaU0yQUpDeGRPTHpmOE1UVkxvSGtlQTlpaDhoOWhXaWFHczNqYVRaS3JLQUVaM3pBQVNFTG05cUZLV3M3QXZZOTlKR3ZPZVNMbVM3U2ZLYVBIWTlWYjZKR0pMSUV3cGh0N0RuRU5OYVRYbVM0VFEtc2M4cHhiTHZINU5YMk1ObHB3OVI0U09rWmdpSjQ0TWdUVXRYVEdaRFFSVlNheU5IaFJ6RnBzQW1GTTc4STdXODBrZkhfVEN3YWZQQTMzOFVZTFEtM25jTmJuMzU4?oc=5",
+     "published": "2026-10-24T19:04:00.000Z"
+    },
     {
      "title": "Football: Soccer-Burnley dismiss coach Hayen after 14 games",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOajNUZUNocWstckN0WGpZMWVDa2t5a0tkUnlQWWMycXlZMnVaRGYtYnVSSXU0eTlwNEd0bFV2YjNNYjBXRTdQb24xMXpyUWpQeDhYVG92dkI0c1drcHl2RDVRc3F1M2dTQ3BKZEo4aGlnd2k4ZXJFdnZWSUlkU0VIQ0NiRndYdw?oc=5",
      "published": "2026-10-24T17:03:53.000Z"
-    },
-    {
-     "title": "Around 410,000 people take part in new round of protests across France: media",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHZZT1lKLWJEVXV6MTF3by1ING5KMUU5QUkyd29lTHc3bG1jLUw4VEhmU0pjTnk4V0hLdTNhbzdVSTFsdnVnZ2lyTDZJTG1ReW1IcXBGTENWU0hEUUt3Rl9YLVdJWXRlUWxoMXlyT21pdEFETTNkMlQxTWVaVGJoZHpETUk3YnB0RkFrWDhaUGR5RlNWSmFhblZza2M5UjlwN3YyQS11SXlyREtxU1FmOVFzaFp5bXJWYmhZbFFqRDgydw?oc=5",
-     "published": "2026-10-24T16:52:00.000Z"
-    },
-    {
-     "title": "Price homes affordable at cost",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhqNWhUM0pYWVhfWjZfMVgwNHlTcmMycjloYWNGUDhxVG4tNkRaU1N5ZldvWnFFSm9KcmJvS2wyanJnbHVHV2F5X1FIVFdIRVhpNUxxT3lIMEdwYzZmU1NGUW1XbDlkRlIta01HcldiYjhZc0ZDU0ltRDdXMTdrY1hzcEh1RDFJTnZHNEh0aklYclMwM0E?oc=5",
-     "published": "2026-10-24T16:49:12.000Z"
     }
    ]
   }
