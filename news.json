@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-24T18:25:31.466Z",
+ "updated": "2026-10-24T19:23:10.289Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave?",
+     "brief": "In the end, it wasn’t even close.",
+     "link": "https://www.cnn.com/2026/10/24/americas/canada-alberta-referendum-latam-intl",
+     "published": "2026-10-24T19:22:10.542Z"
+    },
+    {
+     "title": "New maps reveal who could see more snow during this year’s super El Niño",
+     "brief": "This year’s potentially record-setting El Niño is expected to shape winter weather and snowfall across the US.",
+     "link": "https://www.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
+     "published": "2026-10-24T19:21:10.539Z"
+    },
+    {
+     "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
+     "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
+     "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
+     "published": "2026-10-24T19:20:10.546Z"
+    },
+    {
      "title": "Iowa’s cancer problem is scrambling the midterms",
      "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
      "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
-     "published": "2026-10-24T18:24:31.703Z"
+     "published": "2026-10-24T19:18:10.548Z"
     },
     {
      "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
      "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballots — warning that officials who knowingly count ballots cast by…",
      "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
-     "published": "2026-10-24T18:23:31.714Z"
+     "published": "2026-10-24T19:17:10.482Z"
     },
     {
      "title": "Months after Venezuela’s earthquakes, families cling to hope in search of loved ones",
      "brief": "The deafening roar of excavators echoes through the rubble, drowning out all other sounds.",
      "link": "https://www.cnn.com/2026/10/24/americas/venezuela-earthquakes-victims-search-latam-intl",
-     "published": "2026-10-24T18:22:31.739Z"
+     "published": "2026-10-24T19:16:10.550Z"
     },
     {
-     "title": "We have more clothing options than ever. Why is shopping so hard?",
-     "brief": "Down a dim, crooked hallway inside the Jay Street Lofts, a hulking brick relic of Brooklyn’s industrial past, Naomi Mishkin is conducting a radical fashion experiment.",
-     "link": "https://www.cnn.com/2026/10/24/business/its-not-just-you-theres-nowhere-to-shop-anymore",
-     "published": "2026-10-24T18:21:31.697Z"
-    },
-    {
-     "title": "At one Atlanta restaurant, workers are family. A health insurance crisis tested that commitment",
-     "brief": "When doctors diagnosed Jen Chan with an aggressive form of breast cancer last year, she and her wife, Emily, faced a frightening reality: surgery, chemotherapy, radiation and uncertainty about whether the treatment…",
-     "link": "https://www.cnn.com/2026/10/24/health/health-insurance-costs-jenchans-restaurant",
-     "published": "2026-10-24T18:20:31.729Z"
-    },
-    {
-     "title": "Gen Z are leading the European protests. Here’s why they’re angry",
-     "brief": "The kids are not alright.",
-     "link": "https://www.cnn.com/2026/10/24/europe/gen-z-protests-europe-explainer-intl",
-     "published": "2026-10-24T18:19:31.721Z"
-    },
-    {
-     "title": "North Korea’s Kim crosses new bridge into China as trade ties warm",
-     "brief": "North Korean leader Kim Jong Un visited the Chinese border city of Dandong on Saturday, Xinhua reported, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang’s push to expand…",
-     "link": "https://www.cnn.com/2026/10/24/china/north-koreas-kim-crosses-china-bridge-intl",
-     "published": "2026-10-24T18:18:31.711Z"
+     "title": "Mississippi officer and interim police chief resign after officer’s fatal shooting of 1-year-old in car during pursuit",
+     "brief": "A Mississippi police officer and interim police chief have resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a…",
+     "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
      "title": "Israel begins demolitions in West Bank city after two soldiers killed in shooting attack",
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Burnley dismiss coach Hayen after 14 games",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORS1acGc3SHFNUmoxd3ZMX1VsNS1oNldHYVNtTXJ6aXlMZUFXRzA4ZDlxV19MVnlfYmlVclN5NXNFdlRfc1EyeDFIU1RVOFZOSlczVndDWGNnTE9HUGxVa0RxWl9ObFktVExTaVdZeW9jTFJTbU1iWk9lU1BqakxuTDV1QnZwX25xMHJJd3I4dVpjMllvZG44R1VyZmY5bmo5dXZ5Ng?oc=5",
+     "published": "2026-10-24T18:53:00.000Z"
+    },
+    {
+     "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnQxYXRDekY2Y0hSaUtpR2x5ZjFMYldPWE5RV3RSc0lSemZmU2RDMkRSQ2lZRmFhN242NER5eFk1MmZ1bnU2dGljeWFyc1F6bzlkNGUtTTJ1LTdWNGtRWEQ0V3NDU3F0SXpxVF9nX3NEd3VqQ3JKRmFHRXpyaE0yZGJydjdXd040RGJ2aUs5YzJfc0EwMzJacTNVR1ZsbzJLRy1ZZWd6UDBZaDF1OGstNHFCYnpLbXBiYktDdm5BeDg0SWJTcjREMWN3?oc=5",
+     "published": "2026-10-24T18:34:00.000Z"
+    },
     {
      "title": "Albanian police fire tear gas as anti-government student protests turn violent",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaXhqNWhUM0pYWVhfWjZfMVgwNHlTcmMycjloYWNGUDhxVG4tNkRaU1N5ZldvWnFFSm9KcmJvS2wyanJnbHVHV2F5X1FIVFdIRVhpNUxxT3lIMEdwYzZmU1NGUW1XbDlkRlIta01HcldiYjhZc0ZDU0ltRDdXMTdrY1hzcEh1RDFJTnZHNEh0aklYclMwM0E?oc=5",
      "published": "2026-10-24T16:49:12.000Z"
-    },
-    {
-     "title": "Jordan's death toll from Karak church attack rises to 9 as king vows tough response",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUTZWTkNEVkpobnBlUEY1OUl2ODJsYzVRMXZHWTJENkJjeDFYMHR5MmpySU5WTzJkeWtWSEdHX01zc0V0eXFvRk9VaDF4VWpXaW5UajBOdFFjZlBfSENaLWhWRFZvaUtBSHlyejc2QlZVVUx3N3RDaEZhelFHdEczWFhXT0xLMGtubGNENlowbVBhSHFsVjktdzBLQkNjS3VRSmtUMVgybDFCcXFybHkwVVpFYTktc0o1WWpWOTBwWTBTU3FTZGs5NEt1OXpkVHM?oc=5",
-     "published": "2026-10-24T16:28:00.000Z"
-    },
-    {
-     "title": "Belgian protesters and police skirmish at anti-government demonstrations in Brussels",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXRNc053cGV3ZHZxby11OVBycjRMQ01OQnVNRGlkRm0xSURIQmc2Z0hEc3Rna2dPVkVzSlhvczRoS0h1TWlDMTlMOVdEYVlrQXl6ekw5dnA0WU8tbGlsc29UVjU0WUNYYkhNUDZ1QWlaV3RhNXlVYlltREpzOGcwbkRlanF3TDFVdkZ4Zk9hQndpQXF6NnBMMmpraV80VnFlN2stOTRoQlVJVFNoZjdoNmpabjNBYl9ISjN3MXRJYjMzWS1jVDZOcXBxSFR5QQ?oc=5",
-     "published": "2026-10-24T16:22:00.000Z"
     }
    ]
   }
