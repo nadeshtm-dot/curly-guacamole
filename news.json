@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-24T13:29:13.872Z",
+ "updated": "2026-10-24T14:23:50.577Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
-     "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballot — warning that officials who knowingly count ballots cast by…",
-     "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
-     "published": "2026-10-24T13:28:14.365Z"
-    },
-    {
      "title": "A GOP congressman in a swing district faces angry voters: ‘I’m against the party that caused this’",
      "brief": "GOP Rep. Brian Fitzpatrick was weaving through the crowd of a fall street festival when he was confronted by a man enraged by the skyrocketing costs he’s experiencing.",
      "link": "https://www.cnn.com/2026/10/24/politics/pennsylvania-swing-seat-midterms",
-     "published": "2026-10-24T13:27:14.362Z"
+     "published": "2026-10-24T14:23:50.755Z"
+    },
+    {
+     "title": "Inside BYU’s unique surge to the top of college football",
+     "brief": "The sun hadn’t yet risen over the Wasatch Range when Kalani Sitake decided to bust a move.",
+     "link": "https://www.cnn.com/2026/10/24/sport/byu-college-football",
+     "published": "2026-10-24T14:20:50.796Z"
+    },
+    {
+     "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
+     "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballot — warning that officials who knowingly count ballots cast by…",
+     "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
+     "published": "2026-10-24T14:18:50.782Z"
     },
     {
      "title": "How Title IX investigations work and why experts say the system failed Cornell’s Jane Doe",
      "brief": "The 18-year-old, now known as Jane Doe, flew across the country four years ago to Cornell University, where a civil complaint says she was immediately taken by the glorified façade of Greek life on campus and…",
      "link": "https://www.cnn.com/2026/10/24/us/title-ix-sexual-assault-cornell",
-     "published": "2026-10-24T13:25:14.381Z"
+     "published": "2026-10-24T14:16:50.786Z"
     },
     {
-     "title": "The 2026 campaign is getting ugly — especially on the right",
-     "brief": "Any campaign that involves Donald Trump is bound to get pretty ugly.",
-     "link": "https://www.cnn.com/2026/10/24/politics/republican-rhetoric-ramaswamy-midterms",
-     "published": "2026-10-24T13:24:14.356Z"
+     "title": "At least 9 people killed in unprecedented shooting at church in Jordan",
+     "brief": "At least nine people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
+     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
-     "title": "Angel Reese’s hairstylist explains the WNBA superstar’s look",
-     "brief": "Angel Reese has always known the power of an image.",
-     "link": "https://www.cnn.com/2026/10/24/sport/angel-reese-wnba-finals-hair-cec",
-     "published": "2026-10-24T13:23:14.387Z"
-    },
-    {
-     "title": "Ramaswamy and Trump gamble on an incendiary ad, as Ohio shows signs it might turn purple again",
-     "brief": "Vivek Ramaswamy is ending his run for Ohio governor the same way he launched himself onto the political scene four years ago — with a bet that voters will reward him for a never-back-down bombast that mirrors…",
-     "link": "https://www.cnn.com/2026/10/24/politics/vivek-ramaswamy-ad-ohio-politics",
-     "published": "2026-10-24T13:22:14.384Z"
+     "title": "Ukraine’s defense ministry says access to Starshield has been restored",
+     "brief": "Ukraine ’s full access to Starshield has been restored, the country’s defense ministry said Saturday, two days after US President Donald Trump said Elon Musk had restored access to the military-grade version of his…",
+     "link": "https://www.cnn.com/2026/10/23/world/trump-musk-restored-ukraines-starshield-intl",
+     "published": "2026-10-23T12:00:00.000Z"
     },
     {
      "title": "Meghan ‘deeply distressed’ over child sex abuse image allegations against father",
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Tennis-Holder Rybakina sets up Fernandez clash in Ningbo final",
+     "title": "Football: Soccer-Jackson double ends Man City's perfect run as Villa win 2-1",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPemlPaFNkdDlSSnVMSEpsQzhhNWs0Sk5YbnZRX1NuSW1GcHhtbTRFR2U0VnJRNTYzejVONUxQa0Y1UHlfWEp1ZHpUak9aU0xZMFlaT183aG1RSjZhZTZCWUcyQnB5UHp2SEg0Q2FPbWpXSFdCOWVMSEh3Q1hmLTlnd3dOLUdYRFBYU09DbWl0LUpxRnpLX0lEYWM3ZEdScjR5ZmVUMkV3aXI0NWlKQjhUN0JCSQ?oc=5",
-     "published": "2026-10-24T12:25:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0hJUktrZ3dXMGg3VlBTcnV5UkVTZEQ3LTM1bHdDNGVYTjJfNXlBTTJZYXVfVnM3NG9yMV9pb3dLRE5oaDlPazh2eDFWTllfZFVTc3ZwbEZ4bkY4OWR2eTFKUlA0RURPQUtoWXJQSWtwNHFuelZUX2dpdW0tVHRGNlEzTWFKUFhqOHhMT1E2cXB1Z1pIb0tObWtDS0Y2YXVla09fbXZmQ1o1eGlQYTZ5THpsbzVtYkRTQUF0LVNR?oc=5",
+     "published": "2026-10-24T13:56:00.000Z"
+    },
+    {
+     "title": "(Podcast) Poll Position: The squeezed generation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGlZeEZpeVBHQVluOXBNUFMzMk5tX0dGNkEwbmZZeTUyWHJuMUF0WFNaYk9MUDlybFJiYnFZR1l0OHU0R1JMZFAxRF9UajFqNVF4Ul9DV2gxY2U2dmtoekRLWVVSNC1zU0Q0R0lJRThEZjAwYllpWFZMMmhFbXMwTnJaMmVHWG1GdFlVUWI2bXNIRGpGNUZnYXN3RQ?oc=5",
+     "published": "2026-10-24T13:52:00.000Z"
+    },
+    {
+     "title": "Heavy price of paying later",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ3BiYjEtRnJfQnBfWmJtM3pmempqZlJSVTFHVHZFcU9yVUM1ejJVaUo4THgwNnBaeU9xVng5NmlLbmNoeFpaN3FGTlVVV0hCUERIRjBGTGN6dUx5U2tiRVROdXBPcHRacUZxYmtSc241M3ZtY1EzMFk1NThIbXl2WUpydU1seTJBUmc?oc=5",
+     "published": "2026-10-24T13:38:46.000Z"
+    },
+    {
+     "title": "Singapore identifies 65 apps with harmful content and another 24 wongly age-rated",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMDNKNklDYk9MUlBJRXFJOW50VkZDTzNocjhPYWF6WHNqVmZzR0VvOXN6d0lJek5VQnJUcDR3VTJPY0U4X3BPYVpDekh3Wkt3QjNsemF6X0hmNWRIYU5iZVg0YU1kdFpXUi1aSXcxWVN5bFl0NTZBX01FODNJV282c2JNY1lJN2oyb01NQWtWR0dqQ2hrM0ljUEhEaUlRNUVHd1o1eFBZU0F6Tk9jX0pTS3BmZ2o3V2R5ZHctaExRX3I3eW5BRFF0bzc3Q0s2MlZTTjlPZ3JsaWUwSGdL?oc=5",
+     "published": "2026-10-24T12:36:00.000Z"
     },
     {
      "title": "Family doctor concept deserves further attention",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbVlUSEU1YnE0ekQ3VTlZVmVfMjFMSnZXQ1ktQWotTTRiWjdhUFVGX0dISTdDZGhCU2g5by1zUFh5WlV0Qm9QVjlvM2d5dVRFbzJURlFQckFOS0o3WmRVMzBZaFl2QnNlcU0yalU2dHFHdWFtYkg1azBKdzZwS3JHZ3FVREJQcmd5blpPZXFsMFhId29rcUhSRVZILUc3dS03cDBQSA?oc=5",
      "published": "2026-10-24T11:43:24.000Z"
+    },
+    {
+     "title": "Football: Soccer-Bayern boss Kompany stable but sidelined for weeks, says club director",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ3Z3NlBCZGFoM1dDdlAwZ05ycWlSTHZjUDc5VFliWnRiTElqYlJJTVUwT1ZNNjFRQl80dmVrSnVnTHQxdVlnNGtVVUZwMEdnTnQ0S2lyVlpvUk5Zd0x4a1A3Z1ZHdVRuNDUwdWFDWGhRRXl3bk8xX3Vsam5tT0lYSEpYQ3cxTVplYmdfdlZQbC0tUkQzVkd3cTZmZmtDTzRPbExNb3ZCZnlBVDJPNTdRUl9hc2RQdXFjU1RzUkRRTzcya1RaTXFoZQ?oc=5",
+     "published": "2026-10-24T10:36:00.000Z"
     },
     {
      "title": "Heart And Soul: Who sends handwritten letters nowadays? These friends still do",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1jRUxQWTZHTF93eDhjYkFPRlFPOU13b3hwc0Vpd2FTS3EtQm5DQ0I2RktWX2d2bXFpdHFvN01HaUZPc29DYWQ0Z0ROSFlOV056UjdMaWM2Um9YUmZUel9wRi0tdFkwdVNTNHBDaXJjV01UampOckxBdkliX2xWVkQyV0NoMjNGaUZiRWdBbW93NUw1UFgtWVR3WGIyTk9QNU9OTGg3X3o0eC1BeGl6Ri1SSjBSMklBVkQ4bEQ2RElKNDdEeUN3ZGVWeVhCRGk5?oc=5",
      "published": "2026-10-24T09:16:00.000Z"
-    },
-    {
-     "title": "Malaysians to be spared higher RON95 prices even if subsidy bill hits RM45bil, says PM",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd2tKM3BmS0N0VnR1N09nd0xMVnY2Y3ZvWkFBdTRjZlRWRzNNRlBFU184WS1wRmRlbC16YXJIWjdOOEU0UTBsQ25ER2Q4akNkRW8zdlJxUFV1aVJhOE8waHJqQ2R6TW41NXppZDVyTTVHaGtidkk0S3hMNHFhYXNwS1h0N291aWNWTTVBRlliSjBpVU4tR0l1bkY4UXR4bU5DMEtrcU5PMVRNcVJBeTlSQlg1ZXlTdmY0NlRXOWdVd1NLOG81NkpKdTh3Q2UtODFo?oc=5",
-     "published": "2026-10-24T09:11:00.000Z"
-    },
-    {
-     "title": "Ukrainian strike on enterprise in Russia's Oryol kills three, governor says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUTZEbHhYZTUyVTN2akJ4YlBMTk8tcEp4cnlBQ2lKei1qMnJZaUNya0NaekYtTWlBaVhpZWdpNnJLZm1ZVlQ1dy1YODZzdDhheldjX2NET1RTMDI2bUh0S2VUdDZoZzF3MjVGRGY5SlhtaDdtRDBldDBsel8zcEYzR296UVNxdnlObWFTeXp2MEJ5SnpFaFQwZFNkVkdkLVpSYnRwdm1mTG1Wek4yQ2t4VWZSazNvQko4ZllCNmQwUEdEWkk?oc=5",
-     "published": "2026-10-24T08:55:00.000Z"
-    },
-    {
-     "title": "Cricket-South Africa paceman Nortje ruled out of third test",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSnlXZWVQa3ZULTdSRGdkNXFQdVFxaWtOclN3RzhrZmFSQjcwdllVdVRXamU3OW1QOTV5ai1fdnh3OVNfUl9VN2x3UWFvTnlTY3IxZUVZY0l6NVZGdDNnYWVPZ0ZCdktFbEVPeTlRZm1wekdRQkpWR3o0ZnZRdjlOTzVmb05NVUFBWkRDLXRRQ1gxSXR6RExmcE4waDZuR293a2pqcDhOMHNVa0hOVG1EUQ?oc=5",
-     "published": "2026-10-24T08:40:00.000Z"
-    },
-    {
-     "title": "Thunderstorm, heavy rain warning in nine states until 6pm",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTBZLXdUUlhuWl9KZUE4d0lvSHR0aTBHWTNZR05ZODJ2cUJMY2FSZ29hVnlmY2pGREdCVmYybEhZeF9MU0VCLUtOOVhRQWwyTkJQRTVPSTNxT2xaSGhVa01lbVJwR0tDN0VIX1dnSkZ5cnlvMnhmdUgtOWNRODFFcGptcENCd3FqVTZlMUs3ajEtV0hESWptZXBURElMNnNObC01bm5zRzdsUQ?oc=5",
-     "published": "2026-10-24T08:19:00.000Z"
     }
    ]
   }
