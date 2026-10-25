@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-25T02:27:52.633Z",
+ "updated": "2026-10-25T03:28:01.600Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
+     "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
+     "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
+     "published": "2026-10-24T12:00:00.000Z"
+    },
     {
      "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
      "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballots — warning that officials who knowingly count ballots cast by…",
@@ -42,12 +48,6 @@
      "published": "2026-10-24T12:00:00.000Z"
     },
     {
-     "title": "Golden State Valkyries beat the Atlanta Dream to even the WNBA Finals at 2-2",
-     "brief": "Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.",
-     "link": "https://www.cnn.com/2026/10/24/sport/wnba-finals-valkyries-dream-game-4",
-     "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "When diarrhoea strikes your young child",
+     "title": "Squash: Sivasangari continues hot run to clinch Silicon Valley title",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJZazE0NmdhbjV2QnBfVk14WGNjRlcwNHgtZGc3MnF6N2hvbXdUWjJMc3NUUnJIdGJUbm00QnY2MnRqOVF0MkNWSUJoUG5jYVE3eGplVjhfSlcxQUZsS1phbEh3Q1UyU2hzQW1IMVBLS1djMkpsb0tEZ2ZsSFJOS0VYdzFxaXNid3pwUm1NYWkyX05rUG84aw?oc=5",
-     "published": "2026-10-25T02:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjhOa2dveGdmbWlvRC1EMVJPYzdKNjhNcTZ4Vmc3TFE0SzdWbWctd1ZwZ1l4WlpGMWh2bnQ4UVlleWsweG5ad1F4LU5ydVlIaU1Nc2xibUthb2Q3RTdwbXVMcElWY1RnRlNHTDRFQU04bTVlbkNLLUt6NnRsVG1uMWRKbjQteTVSX0hoSTZxZ3lDa0NuNzA0cE1ua2ljbE5aYTFfYnA2ek4zMHhjZVNtcA?oc=5",
+     "published": "2026-10-25T03:10:00.000Z"
     },
     {
-     "title": "Three decades of excellence at UKM",
+     "title": "Your parents may be asking AI health questions. Here’s what you should know",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdS1YNzlPcjdKUzh0VVVSclpQX2U1Tnp1MzhsU2xfR3g4NThERS0zVGU5cDhtTS1pTlJhaEgteERtM0VFNkM2RDB2NGIxU2FwQmpXbVBKbGQzUWZMYlJOT05kWDItWDBJdnlNUlgxbUZLRGEzNkZQTEx1U2FNdVA0dGh1Q1NGY3ZzRUxrczB6Q3Y?oc=5",
-     "published": "2026-10-25T01:52:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXhvcVhzak1xaGJDWkE5U3RVaUM3S3VHTmtSSEthLUtBQ1FQbXFWaVc0d2ZGZkptR3AwaFRKRUZpSHhvaXdSeUlJZldCM3ZTZ3hMRkEyUFBQOURwT3ZHd3FhVXpuZVN3Q2VXUS10amNVbi1jalV4SjBySmRJNU1tRHR3XzNBdTZtMEVhOUpLUlZDaDMtX3N6cDJwV0k3eEFIYVZuOXZxVkl2X0pDMlZwUDdRdHNFdHRpVzQ1WjNwWmFuYkdH?oc=5",
+     "published": "2026-10-25T03:00:00.000Z"
     },
     {
-     "title": "It's Just Politics: Banggi's riches, its people's struggles",
+     "title": "Athletics: Kar Gee sets sights on Paralympic prize after Asian success",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTJXLURNejBUdW5vN3Qzdi1TQjIyMjI5OU1nNFVBY285ejlNWGdNTmhZelAyVkVhX09aNFdkRGpNeU1zU1h1T2hxX21EbmQ1OTNSUkRsc0RSU0JJeXg3bjBmSWJmUlF0cEt6ZjBsNm9TRFRTOWE5TEtQSFJjSG1QUklCR2FDOGk1RXN3T1lCM2drY2FwS2dqa3NtVnpUaUhJaUg2dmN5Q0RHV2M3dmZ3Uw?oc=5",
-     "published": "2026-10-25T01:07:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0FXQlZOcFlEX3FXYWNpSHBDRWhzTU5NaGRta1I1SElpUWVzdm5FNm5adi11WFlQQkM0b2tJbUZsQVZuMGtFOWJpczdaaUs3TzFiYWUzMTFKZEZ4SmdDdnYwWnNaR2pxbHJOYUczVUtkckVUdy11eTR0MmF3TEVqYnFlLXRleHlMN2RzZ3Z2SFB6NkJ4V0pjVV9vS25mbDRUbXM1WGNDc21pb0lybU1jX3Zn?oc=5",
+     "published": "2026-10-25T02:59:51.000Z"
     },
     {
-     "title": "School violence demands more than knee-jerk fixes",
+     "title": "Branching out beyond palm oil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjF5ZG5xTWhMbXpqU1podnNPei1BUXFZaFhjby1GU1dxWnZDb2ozX2JXQUhZNHdKMm1tbk9ialJqRktIdkhWT2lzMEZNVlp4MWN1Wk9CRnZoU3dTRVJuUVMzZXpsRWxLdkZlRzg4R251eDkxQ3dIaWtJU09uWThvLWxnZ01SRkMzQTI4Y2NNdXdDRnZnaHNlc2lHZl9BWnU1WERNMHoxR0c3NHA1M01TVEVLOERYcEtpUVY3eg?oc=5",
-     "published": "2026-10-25T01:07:09.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXE1RV9PY0MwZVpWU0RnQXhwVXVEUmN4ckx5U045M0l5ajZDZXpzc1g4dUNSTmZJZVVtaWZKM0ZyOXBLTEZBblA3WlJEZ0VuY3FTWlUxdmRHOWNDS3JDV25WV3FzN1g1akxMRWUzY3BhdFZhV09mMEFCRF9IREpNQTRMQ0d4bEZSRWpqS0VQZFJES1ZF?oc=5",
+     "published": "2026-10-25T02:57:02.000Z"
     },
     {
-     "title": "Microsoft ends MS Publisher, but there are decent alternatives",
+     "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1pONThoT0xNMVl6ZUJpb2lNd3pZbnVoc3otR3hYbmV2Z19KWnhNT2VsZEZXSTZfTHJzRF9ENW5kSzBZUW5XTmk2dTVPQlc1VGdZb2RsSFZIcC0wNVppNERLa2g5ZnFlSzBlMjlNWmZvOGFtT2pLX1pxemRtMnh6cFM1NW5wNUxlNG5tZUJydVFsY0lGd3NyUlNRUGM0VXpHTk02aU4zOThzNUpWWlhyYmNhZw?oc=5",
-     "published": "2026-10-25T01:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXcyNWY1VU5FN0JQUmlvRVpMTWt3THFPTmFzOXIwdGd3Q04td2U3dER3TkI0WWthemd0S0xlQXdLV1pQYUhEM3NaWGRyRzB6VG9XODNscXRMSUZydUlsZW1salo4elJOdFJSNUdhUkZmMl9rNGp3S0VWcDNtOHphUXZ6Y0xpc2hySnl3bzVjYnVRdnl0OGlrcTdRcWg5eEk2OHphR1lNVUd6QkZfcUE?oc=5",
+     "published": "2026-10-25T02:53:00.000Z"
     },
     {
-     "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
+     "title": "Other Sports: No medal for Malaysia on final day as boccia duo miss out on bronze",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFZrNmlNMzZRRTUzbVBnT0FlU0pKN1MwdVdsYUx2MnBHb0lEakJtR2ZKWGtpNll3bUQwbnQyOGxpWTExZzR6bUJycFlsMmpaMlpyczVoeTRsUHBuNS1qaXhjQUtOWVlLOFU0X1hUM2MtM2ZDdzhVQTRweVV0eGFUN29yUVVtWXc1T0RRLVd4cElLNVJkNkJaQTBlemFZQktqakVqUy1Nc1FmRUFvYTQ1RWo2bHh2bVJfU2FZ?oc=5",
-     "published": "2026-10-25T00:07:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbUttcVlRZU42NGRtVmhhcXJENzVMUktvTzVhdEM3ZnFrbzhlVDFKb1FEQUlKbDdQOEhrbXhHWTQ5d2FjcHlzbTVMT3kyRFZJR05EYmEzcWJrQXFWNDlBdzBaSnV1d3g5RmRWaEhyMU95RmxnSEpyUnNuSkNWMk00bnVRWlVzaG1zdGE2dFpMSEN0aUpYSXp3Wm1iQkZKZEZIZ2JsXzktaUN4Tm5meHpHbExoMlpEM3dSV0E?oc=5",
+     "published": "2026-10-25T02:44:19.000Z"
     },
     {
-     "title": "Are 'man boobs' linked to a risk of cancer?",
+     "title": "The Star | Malaysia News: National, Regional and World News",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lXbmhMWlBNS0t6SHJGdVQ1cWg1Q2RwZDNhMHlaSTBTNVVjVU5zTkpkWW9WaGNtVHc2WEN0RVJHbmV2MEJwbkNTVVlGb29OUExCbklPaHJpWGhHQkRXS0txU0t5RlQxWmFoZEZIZGxPUzBJaG9ZZ2xtdV84YkpGMzktdUl0UUthWTdLQkxSS2t6eTRFRUZ0R1hXN3M4bEgtTXhLMWg0WmJUVnc1bi05S0xzWTdMQ3NYenR6c01pR3ZpYV85ZE9F?oc=5",
-     "published": "2026-10-25T00:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
+     "published": "2026-10-25T02:33:11.000Z"
     },
     {
-     "title": "Yemen's Houthis renew warning against using Riyadh airport",
+     "title": "Two suspected armed group members killed in shootout in Indonesia's Papua",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWm9qUnNEX2x4cHNHcVRrcHFhb3BySjZqSThBa3FqU1NEeE11dUpoY1FkSkE3dEZmRnlrVFhLRGdHc1hBd2QyRjVrV25XNmJxdm5QWHEtWm82MkVncFhtczNhTjgzVnZnbXg3NHdDQ2xSODZfYUtrcmtiQkJUeUdFRF9hSGRsZFRUR0VmSTIyQi1JR2M5c1hPZ1pfUW80QVIzc0RpY29pQXE2a0tWLUE?oc=5",
-     "published": "2026-10-24T23:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOanRRczU5RXd6ZWJTUFNMNkFuenNRQi1GT0tZOElKVUFVZDhHRG1HaF93S3dDM3VTdURQNVQxWThtOGZIM0VOQ254ZlhaRDU0QTVOY1N3U1lsSHVuUUctQnYtcHVRZGhzLWtlclE2c1JIZDRFa1lkRVJLck4tQmZqM040ZjVhd2ZSOW9hYWJDS0ZZMWdhWVg4QVBvd0hmeUJHVDRqaS0wRUtqODZlSVo2VkZfamYybUM2QmdXWEpqWHZ0ZDJ5Q2RMWlNGYWh0NEtucEs4OQ?oc=5",
+     "published": "2026-10-25T02:27:00.000Z"
     }
    ]
   }
