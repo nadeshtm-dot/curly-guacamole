@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T01:29:26.235Z",
+ "updated": "2026-10-25T02:27:52.633Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,22 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "When diarrhoea strikes your young child",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRFJZazE0NmdhbjV2QnBfVk14WGNjRlcwNHgtZGc3MnF6N2hvbXdUWjJMc3NUUnJIdGJUbm00QnY2MnRqOVF0MkNWSUJoUG5jYVE3eGplVjhfSlcxQUZsS1phbEh3Q1UyU2hzQW1IMVBLS1djMkpsb0tEZ2ZsSFJOS0VYdzFxaXNid3pwUm1NYWkyX05rUG84aw?oc=5",
+     "published": "2026-10-25T02:00:00.000Z"
+    },
+    {
+     "title": "Three decades of excellence at UKM",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdS1YNzlPcjdKUzh0VVVSclpQX2U1Tnp1MzhsU2xfR3g4NThERS0zVGU5cDhtTS1pTlJhaEgteERtM0VFNkM2RDB2NGIxU2FwQmpXbVBKbGQzUWZMYlJOT05kWDItWDBJdnlNUlgxbUZLRGEzNkZQTEx1U2FNdVA0dGh1Q1NGY3ZzRUxrczB6Q3Y?oc=5",
+     "published": "2026-10-25T01:52:30.000Z"
+    },
+    {
      "title": "It's Just Politics: Banggi's riches, its people's struggles",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTJXLURNejBUdW5vN3Qzdi1TQjIyMjI5OU1nNFVBY285ejlNWGdNTmhZelAyVkVhX09aNFdkRGpNeU1zU1h1T2hxX21EbmQ1OTNSUkRsc0RSU0JJeXg3bjBmSWJmUlF0cEt6ZjBsNm9TRFRTOWE5TEtQSFJjSG1QUklCR2FDOGk1RXN3T1lCM2drY2FwS2dqa3NtVnpUaUhJaUg2dmN5Q0RHV2M3dmZ3Uw?oc=5",
      "published": "2026-10-25T01:07:30.000Z"
     },
     {
+     "title": "School violence demands more than knee-jerk fixes",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjF5ZG5xTWhMbXpqU1podnNPei1BUXFZaFhjby1GU1dxWnZDb2ozX2JXQUhZNHdKMm1tbk9ialJqRktIdkhWT2lzMEZNVlp4MWN1Wk9CRnZoU3dTRVJuUVMzZXpsRWxLdkZlRzg4R251eDkxQ3dIaWtJU09uWThvLWxnZ01SRkMzQTI4Y2NNdXdDRnZnaHNlc2lHZl9BWnU1WERNMHoxR0c3NHA1M01TVEVLOERYcEtpUVY3eg?oc=5",
+     "published": "2026-10-25T01:07:09.000Z"
+    },
+    {
      "title": "Microsoft ends MS Publisher, but there are decent alternatives",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNR1pONThoT0xNMVl6ZUJpb2lNd3pZbnVoc3otR3hYbmV2Z19KWnhNT2VsZEZXSTZfTHJzRF9ENW5kSzBZUW5XTmk2dTVPQlc1VGdZb2RsSFZIcC0wNVppNERLa2g5ZnFlSzBlMjlNWmZvOGFtT2pLX1pxemRtMnh6cFM1NW5wNUxlNG5tZUJydVFsY0lGd3NyUlNRUGM0VXpHTk02aU4zOThzNUpWWlhyYmNhZw?oc=5",
      "published": "2026-10-25T01:00:00.000Z"
-    },
-    {
-     "title": "School violence demands more than knee-jerk fixes",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjF5ZG5xTWhMbXpqU1podnNPei1BUXFZaFhjby1GU1dxWnZDb2ozX2JXQUhZNHdKMm1tbk9ialJqRktIdkhWT2lzMEZNVlp4MWN1Wk9CRnZoU3dTRVJuUVMzZXpsRWxLdkZlRzg4R251eDkxQ3dIaWtJU09uWThvLWxnZ01SRkMzQTI4Y2NNdXdDRnZnaHNlc2lHZl9BWnU1WERNMHoxR0c3NHA1M01TVEVLOERYcEtpUVY3eg?oc=5",
-     "published": "2026-10-25T00:22:30.000Z"
     },
     {
      "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWm9qUnNEX2x4cHNHcVRrcHFhb3BySjZqSThBa3FqU1NEeE11dUpoY1FkSkE3dEZmRnlrVFhLRGdHc1hBd2QyRjVrV25XNmJxdm5QWHEtWm82MkVncFhtczNhTjgzVnZnbXg3NHdDQ2xSODZfYUtrcmtiQkJUeUdFRF9hSGRsZFRUR0VmSTIyQi1JR2M5c1hPZ1pfUW80QVIzc0RpY29pQXE2a0tWLUE?oc=5",
      "published": "2026-10-24T23:58:00.000Z"
-    },
-    {
-     "title": "Paying for their recklessness",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGFGMUI0VW5YSXZKUDljMjBIQ2ZQMmF2QngxdF9XUE4zN3ViMjEzX1A3S214Z1F3eWloWWh0TkpQbnpQc0ExdE1sYlFtNUlKeC1QZVhOaUp0ZkFpNDM3N0xmREdTTnctOVhCdk1iWDJzOHJyRTBzUHdyQXJ6NU9wblN4YzY?oc=5",
-     "published": "2026-10-24T23:46:18.000Z"
-    },
-    {
-     "title": "Golf: Square the face, split the fairway",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX19sS2lsbVEtd25xU2R6OVY4emVMWWpmbnVQZnBzUGxRRVp1cEROWGlJaGtDT0FBZ0xZOFBIeW54VkdZWVVjU3RiMnZhM05BX0FrYWhwM0ZoWnRPellfNXg1S05McWlxQkNaYU1zZ09rS2t5c3dLN1pkckVuaEI4M2ZySkFnRTVRbGc?oc=5",
-     "published": "2026-10-24T23:45:49.000Z"
     }
    ]
   }
