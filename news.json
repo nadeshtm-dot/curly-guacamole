@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T08:25:59.908Z",
+ "updated": "2026-10-25T09:25:19.790Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,19 +9,19 @@
      "title": "11 people shot near Florida university stadium",
      "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T08:26:00.123Z"
+     "published": "2026-10-25T09:25:19.979Z"
     },
     {
      "title": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
      "brief": "Brazilians return to the polls on Sunday to choose between two candidates campaigning on sharply different versions of the country amid growing concerns over crime, corruption, and a broader rightward shift among…",
      "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T08:24:00.208Z"
+     "published": "2026-10-25T09:23:20.023Z"
     },
     {
      "title": "Economic woes transform the Midwest into a massive midterms battleground",
      "brief": "Democrats could be poised for a revival in the heartland, as furor over high costs and doubt about President Donald Trump’s willingness to change the nation’s trajectory threaten to loosen the GOP’s grip on…",
      "link": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
-     "published": "2026-10-25T08:23:00.182Z"
+     "published": "2026-10-25T09:22:20.028Z"
     },
     {
      "title": "France sees another weekend of mass protests with nearly 1,000 detained",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Sydney's brand-new airport begins passenger flights",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0tleWxoTG9ERkhETmdlckNtakI3bnNpYW0xTnJGY2ltMF8wS3NPM3pkanh6NkdYdEl6aE9TcU12WElXdWd0YjR6aTc3TWtVbjFKYmtvcnVBcXlORmcxeXhISWU2ellUN21KVmwzTUFpMld3Znk2SUU4anJNT1NNZUdzeDBDdkg4SlJydmxLbjNLMFRNMmFnREV5elhTUDlPS2Q0dzRMM09mQUZ5WWp3YXNVY3k3VUk?oc=5",
+     "published": "2026-10-25T08:56:00.000Z"
+    },
+    {
+     "title": "Haze: 27 schools in Tebedu to be closed on Oct 26",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXlZLWVVR0NMODBZNnhGdXZCcWV1b2R2WmplTTlLZF9DM0pnc1dYWDlheTdQZ2dBemVXNWowWHhmSkpsMW8xRDZ1Vm9aMExCTU9USlRDd2FjWlIzYy1lNUQzanJDU18wYTNQNWRTVDRCdzRIN1A3OEQxUXBrLTNOX0JVNS1ScU9RZTd6aE14ZmVXUXlDSVA2Q2JqUmdxVTA?oc=5",
+     "published": "2026-10-25T08:26:00.000Z"
+    },
+    {
      "title": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVZhOFZ0MTJLOU1uSkh6WFdxWmt5TzRWUXBIdTROYk40VXhWNHdLUHAwLWh2dFhkbHptWVEzeTN0TzduVEdJUWxodjEwa1ZabjI0TXBnOUs4UHM2c2JwREx6N3lWZDVYOVBqLWNMZ0d1ZUFVSmFDTXF2T3NOMnZqcmFfVnVNLS1hb19RUXZHSUVORU1yZURadElHQ2t2SjFxQWpaU25lZmRyMmJIaTdCZkJvQ0Vpc3ZWZUFCUGk5dW00eFJpSHV0QlZiSkE0aWY1azZjWDBvbnhMTVF4UVlDOEhR?oc=5",
@@ -78,22 +90,10 @@
      "published": "2026-10-25T07:54:00.000Z"
     },
     {
-     "title": "IGP orders immediate CIP probe into Noorizwan's death",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLVM3UXpCb0kzMUxhLVJPeHB6aGhubE9ySTdld0pFM3FjMGpwT3NaZFNSWFlfVWtPRU9VUnpLNVlCV2thYXF3LWZCenNCWGlHZ25xZFM3R0VHN0RRbzJIQ3JOMUZRZzlJMFUwVDZzZ1Ita1NzNE9ZNmFDaGFMWmlOZnV5TnVpNTFWTDhyNXpfejJNOW1RRjFtOXFLY0hCZ2FUZ2NjZ2pvWC0?oc=5",
-     "published": "2026-10-25T07:43:00.000Z"
-    },
-    {
      "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEt0bFJ1Q1J6Ujg4SExHTVNOcDFHTE9FNjlMckxhbXdnRERjbHBjVGtKNnBNS09NRzB0NEdkZmxBQ25pOS1fQWhPQjVpX0ZKUFh0RGdMR1FfOXkzNVVMeXRHYjYzeG9iTHI5Y0J6UHNnZ2wyOHFDQjhHVVUwOW1QU1VGbGozTF83ZWlKb3Y5RkpLVHFTOHk3RjBFVlFzTmpYbGhvVDgxUHR3X3RFd0t2ZDc4eFZJU1RWTm9MbDVn?oc=5",
      "published": "2026-10-25T07:28:00.000Z"
-    },
-    {
-     "title": "Brazil heads to polls in runoff between leftist Lula and Bolsonaro Jr",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjI2MUJla1d2NUpveDEtYWI3UWVTVW9mMkFLd2tCcER5Z2pZUEFteTRiN3NSdDdyMzJEbUFkNzZWYnlMMk1seWdoeURGTzR5Y0E2SlFTczJSR0pRbTRTNkl0YTFhTzJTS2VxTkJXbVFPZE9YcWVsaHVTdnJMdXlXMVVBbkJZd1hEM09ZODkzUGUwWnd2Qk1ZVUJpTjdxLTVKSVdySll5M0JEYWNzd0pBQm4yc1IyV0F2MGc?oc=5",
-     "published": "2026-10-25T07:10:00.000Z"
     },
     {
      "title": "Borr Drilling rig sinks offshore Gabon, five personnel missing",
