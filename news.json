@@ -1,21 +1,27 @@
 {
- "updated": "2026-10-25T04:28:26.190Z",
+ "updated": "2026-10-25T05:26:59.433Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "11 people shot near Florida university stadium",
+     "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
+     "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
+     "published": "2026-10-25T05:26:59.663Z"
+    },
+    {
      "title": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
      "brief": "Brazilians return to the polls on Sunday to choose between two candidates campaigning on sharply different versions of the country amid growing concerns over crime, corruption, and a broader rightward shift among…",
      "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T04:28:26.432Z"
+     "published": "2026-10-25T05:25:59.700Z"
     },
     {
      "title": "Economic woes transform the Midwest into a massive midterms battleground",
      "brief": "Democrats could be poised for a revival in the heartland, as furor over high costs and doubt about President Donald Trump’s willingness to change the nation’s trajectory threaten to loosen the GOP’s grip on…",
      "link": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
-     "published": "2026-10-25T04:27:26.468Z"
+     "published": "2026-10-25T05:24:59.674Z"
     },
     {
      "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
@@ -46,12 +52,6 @@
      "brief": "The Archdiocese of New York and attorneys for about 1,300 parishioners who said they were sexually abused by clergy have agreed to an $800 million settlement of their legal claims, the second-largest involving a…",
      "link": "https://www.cnn.com/2026/10/24/us/new-york-archdiocese-abuse-settlement",
      "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
-     "title": "France sees another weekend of mass protests, with nearly 1,000 detained",
-     "brief": "Hundreds of thousands of people protested across France Saturday, according to the country’s Interior Ministry, in what were largely peaceful demonstrations.",
-     "link": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl",
-     "published": "2026-10-24T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cycling: Motorcycling-Australian Grand Prix called off as rain spoils Phillip Island send-off",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa2l1eGFLWEg5a0pVQmJFOGk0V2JsMk5xejhNQXVsQW5UcDlWb2trSHFrNnpoOExldWJCcXlDeElJaGtVZ0NDSWVVQXJQSkpkbXd0M3lIU2JCSVd4SzdqY0tSamxZOUZGQjNtTGhZbzlSaDhJbVhmdnk5M0pKWEpzNkxFaVNYMzNLaF9oeUVMVTJmOHVuN2ZxWU5FMTd0YndHRlJDeUR3ZWN6RDliOWJWRUM4UGF4UjZuQ00xZFh6SWNjejl5QzAzYmg1RGFnNUZFeFE?oc=5",
+     "published": "2026-10-25T05:17:00.000Z"
+    },
     {
      "title": "A 7.0-magnitude earthquake jolts Japan's Ogasawara Islands",
      "brief": "",
@@ -84,6 +90,12 @@
      "published": "2026-10-25T03:10:00.000Z"
     },
     {
+     "title": "Ministry seizes 5,801 squishy toys nationwide over safety compliance mark",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1BGNldvVGtNYU02c21yUjdSaG1IMnpSX29yRjJZYlZPTk9UaFg0YVZGODcxY2NlaWRfaXdiSWJwUGk3RkYxWXNpSmZwYVNNODNxQWgtZnhXMnpxV2VYWGQxOU1RbDF3d3psRDl1ZWR5WEVFQ00tX0dMLXBhZDBvcW1mMXdsRHUzdHB1dGxvWnNfTkRKek90YjhmVUJsaU9XTE1pM2FiLUtROEdUUUlYN1BqS3pFNTA2Y2Itc0RXQQ?oc=5",
+     "published": "2026-10-25T03:07:00.000Z"
+    },
+    {
      "title": "Your parents may be asking AI health questions. Here’s what you should know",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWXhvcVhzak1xaGJDWkE5U3RVaUM3S3VHTmtSSEthLUtBQ1FQbXFWaVc0d2ZGZkptR3AwaFRKRUZpSHhvaXdSeUlJZldCM3ZTZ3hMRkEyUFBQOURwT3ZHd3FhVXpuZVN3Q2VXUS10amNVbi1jalV4SjBySmRJNU1tRHR3XzNBdTZtMEVhOUpLUlZDaDMtX3N6cDJwV0k3eEFIYVZuOXZxVkl2X0pDMlZwUDdRdHNFdHRpVzQ1WjNwWmFuYkdH?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPN0FXQlZOcFlEX3FXYWNpSHBDRWhzTU5NaGRta1I1SElpUWVzdm5FNm5adi11WFlQQkM0b2tJbUZsQVZuMGtFOWJpczdaaUs3TzFiYWUzMTFKZEZ4SmdDdnYwWnNaR2pxbHJOYUczVUtkckVUdy11eTR0MmF3TEVqYnFlLXRleHlMN2RzZ3Z2SFB6NkJ4V0pjVV9vS25mbDRUbXM1WGNDc21pb0lybU1jX3Zn?oc=5",
      "published": "2026-10-25T02:59:51.000Z"
-    },
-    {
-     "title": "Branching out beyond palm oil",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXE1RV9PY0MwZVpWU0RnQXhwVXVEUmN4ckx5U045M0l5ajZDZXpzc1g4dUNSTmZJZVVtaWZKM0ZyOXBLTEZBblA3WlJEZ0VuY3FTWlUxdmRHOWNDS3JDV25WV3FzN1g1akxMRWUzY3BhdFZhV09mMEFCRF9IREpNQTRMQ0d4bEZSRWpqS0VQZFJES1ZF?oc=5",
-     "published": "2026-10-25T02:57:02.000Z"
-    },
-    {
-     "title": "Earthquake of magnitude 6.16 strikes Vanuatu islands, GFZ says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSXcyNWY1VU5FN0JQUmlvRVpMTWt3THFPTmFzOXIwdGd3Q04td2U3dER3TkI0WWthemd0S0xlQXdLV1pQYUhEM3NaWGRyRzB6VG9XODNscXRMSUZydUlsZW1salo4elJOdFJSNUdhUkZmMl9rNGp3S0VWcDNtOHphUXZ6Y0xpc2hySnl3bzVjYnVRdnl0OGlrcTdRcWg5eEk2OHphR1lNVUd6QkZfcUE?oc=5",
-     "published": "2026-10-25T02:53:00.000Z"
     }
    ]
   }
