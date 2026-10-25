@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-25T21:23:13.491Z",
+ "updated": "2026-10-25T22:21:08.618Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Opposition leader María Corina Machado returns to Venezuela from exile",
-     "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
-     "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
-     "published": "2026-10-25T21:23:13.720Z"
-    },
-    {
-     "title": "Voting extended in tight Brazil runoff between leftist Lula and Trump ally Bolsonaro",
-     "brief": "Voting in Brazil was extended by two hours on Sunday after both candidates made last-minute pleas to electoral authorities.",
+     "title": "Polls close in tight Brazil runoff between leftist Lula and Trump ally Bolsonaro after voting extension",
+     "brief": "Polls in Brazil’s presidential runoff election have closed after voting was extended by two hours on Sunday following last-minute pleas from both candidates to electoral authorities.",
      "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T21:22:13.733Z"
+     "published": "2026-10-25T22:21:08.826Z"
     },
     {
-     "title": "Possible ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say",
-     "brief": "Potential ammonia contamination after a seafood plant fire prompted recommended evacuations in a coastal Oregon city, local officials said Sunday morning.",
+     "title": "Ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say",
+     "brief": "Ammonia contamination after a seafood plant fire prompted recommended evacuations in a coastal Oregon city, local officials said Sunday morning.",
      "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
-     "published": "2026-10-25T21:21:13.714Z"
+     "published": "2026-10-25T22:20:08.856Z"
+    },
+    {
+     "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
+     "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
+     "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
+     "published": "2026-10-25T22:19:08.838Z"
     },
     {
      "title": "The reported sexual assault at University of Arizona is the latest instance of alleged misconduct at the university’s frats",
      "brief": "Editor’s Note: Help is available : For help in the US, call the National Sexual Assault Hotline at 1-800-656-4673 or chat 24/7 on online.rainn.org .",
      "link": "https://www.cnn.com/2026/10/25/us/university-arizona-sexual-assault",
-     "published": "2026-10-25T21:20:13.735Z"
+     "published": "2026-10-25T22:18:08.859Z"
+    },
+    {
+     "title": "Opposition leader María Corina Machado returns to Venezuela from exile",
+     "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
+     "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
+     "published": "2026-10-25T22:17:08.854Z"
     },
     {
      "title": "Swapping horses for ninja warriors: The Olympic sport undergoing massive change",
      "brief": "Several Olympic sports have evolved over the years to keep up with an ever-changing landscape, but few have been as drastic as the Modern Pentathlon.",
      "link": "https://www.cnn.com/2026/10/25/sport/modern-pentathlon-beckstrand-brothers-olympics",
-     "published": "2026-10-25T21:19:13.728Z"
+     "published": "2026-10-25T22:16:08.862Z"
     },
     {
      "title": "11-year-old, other minors among 11 shot near Florida A&M University stadium",
      "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 people with gunshot wounds Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T21:18:13.738Z"
+     "published": "2026-10-25T22:15:08.864Z"
     },
     {
      "title": "Israel is holding its most important election in years. Here’s what’s at stake",
      "brief": "When Israelis go the polls on October 27, they will face a familiar question: Should Benjamin Netanyahu, the country’s longest-serving prime minister, stay in power?",
      "link": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
-     "published": "2026-10-25T21:17:13.742Z"
-    },
-    {
-     "title": "When will there be a flying car in your garage? Not anytime soon.",
-     "brief": "People have been wishing for flying cars since the earliest days of flight and automobiles.",
-     "link": "https://www.cnn.com/2026/10/25/business/flying-cars",
-     "published": "2026-10-25T21:16:13.730Z"
+     "published": "2026-10-25T22:14:08.844Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Flash: Voting ends in Brazil's presidential runoff",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbmVYZUN1QTB6SmRMR05OQ3EzdUFqXy1sbFZwajNVR21EWUxQTHRpLXQ4S1NYNjNIX3V3SVplcmdaUzFHRnc2MDlaTloxT2FQSFJ1SkIyVDN5TU4zNEVOcERVUjRIYzBzR05LY01OcHZGSWV0bWs4akZTc3RoWi1LMkd6cHNISE4yaDlJaHM4YUtsMWJtREJGeFpsdTFGR0F4WGc?oc=5",
+     "published": "2026-10-25T22:07:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Antonelli wins US Grand Prix but must wait for title",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVHEzdWpKN3NKejlKOUlKVHZRRUdGQWo0c0dSbGNHODRuUHlvcWgyeTMySFVaTEI1VlF6Yk8wdGJabk1mcE5rSzh6NzFFQjVHalpTNkY0eUFwazNuY0puaGlZenhhZGZKSjRUUTVza2NiZ3p2UjlQclBHaW5lUzU2RUhUdXprRlhCNGhLUDd0NVdFVWU5ZEJrakpXSjFMNVg3YWJWb0Y0TExvakRidnBpeXZPTUdGcFZ6ajBKVg?oc=5",
+     "published": "2026-10-25T21:57:00.000Z"
+    },
     {
      "title": "1st LD: Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
      "brief": "",
@@ -78,12 +90,6 @@
      "published": "2026-10-25T20:47:00.000Z"
     },
     {
-     "title": "Football: Soccer-Terland strikes late to give Man United derby draw with City in WSL",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVUFWYXowaDNoc3pST3c4elRYN1FBaFJzNXZUQk94emxmMmoxOWVsdFVmdmhGbVAtNUotcjhBTmQ1ZGZic1EtT0FIZGVOZjBPTEZxNGFBbWpjTklVd2JqR0kySkRNa0VPUUhLRlR6LUNhS21mMG5SVDBJb2s3LWRfOWxXemFLQzNIODVIX1hyR1VVQ19adWo0em9kNHBkQUJHZklBYTlqYm1vZ1RyMnRUWmZfOTdPdHpiaXZSWWxObHpCU1dFN3c?oc=5",
-     "published": "2026-10-25T20:32:00.000Z"
-    },
-    {
      "title": "Urgent: Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWdEUC0zSzl4VnpFcVZwc2hFS25LSDN1ZDBkNUJLcVVIQzRxV21yYWJtOGNGeFdab1ZoYmpadHpyQUZFNmZ1VlE2RV9kRm9QVlZodW8zbEl3SmVIdTczREhfYVNOMk1pUG5uSU9RQ2dDb3IxRlkyRkFtbVNiQWpBQVAySU5VNTJEc2ZkM3VIc3pHZ0VOUzEzQW80WHZlZlVjZHdhWXRQTFpwbUJSUi0wOVg1TjI2bHowMlJNa3loSUFKQWlvV1NpWm9kLThyYjd3S3lj?oc=5",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3NfZzZQbzNQTlNXaEdhSVlGQXk3ZDRreWdXZjNMaWw3aTR0VTBpWlFFYm13S0FtQlJKQVIyMFA3ODFOMTB4eWIzdmM5QldUT0QyUVprcDdJS2RGejhUME1zakp6RXRNckVMZE1LWnFJOE0xNnNyTFpmMDZmUEJtVTdIblBsVFR4UlVBbWdMRWRPd3gtdzR1N1VYUkpDUUdWWGpYOFpPMHR5ZWVJd281UXRlenhRUEFKMWc?oc=5",
      "published": "2026-10-25T20:14:00.000Z"
-    },
-    {
-     "title": "\"Clayface\" tops North American box office in opening weekend",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa1FIMzc0eHI1MzluN0VrN1F4X3VERk14eHprLVJUN1FRZl9KNlZKRE9ZanR5Y3RQY0VyaVRJRmxReHE5UjVUMlk4aXRBZWZlN0gzeGo4VU5fU0JtTEV2ejJYTDNqSDE5RnlmOUlBaUlkOVhNR09JMWdCZGV0NGNzRUIteEUtMHgxR3pnRGM3TnF3NFF6dktFWGpzZmllUVVVdFlhREd6Wmk3bFE?oc=5",
-     "published": "2026-10-25T20:13:00.000Z"
     }
    ]
   }
