@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-25T10:24:10.510Z",
+ "updated": "2026-10-25T11:23:52.298Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "11-year-old, other minors among 11 shot near Florida university stadium",
+     "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
+     "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
+     "published": "2026-10-25T11:23:52.489Z"
+    },
+    {
+     "title": "Rent control doomed this mayor’s re-election campaign. He has no regrets",
+     "brief": "Brett Smiley was elected mayor of Providence in 2022 on a pledge to build more housing and get things done in Rhode Island’s capital city.",
+     "link": "https://www.cnn.com/2026/10/25/business/rent-control-providence-mayor",
+     "published": "2026-10-25T11:22:52.548Z"
+    },
+    {
+     "title": "‘A Few Good Men’ is back for the Trump era. Did Aaron Sorkin help get us here?",
+     "brief": "The arc of Bradley Whitford’s career makes for a grim report card on the state of the country.",
+     "link": "https://www.cnn.com/2026/10/25/entertainment/few-good-men-bradley-whitford-aaron-sorkin",
+     "published": "2026-10-25T11:21:52.539Z"
+    },
+    {
+     "title": "ICE said a man jumped on the hood of their vehicle. Video — and police — say otherwise",
+     "brief": "When footage of a man being hit by federal immigration officers’ SUV in Northern California became public, the Department of Homeland Security responded by saying the man had jumped on the vehicle’s hood.",
+     "link": "https://www.cnn.com/2026/10/25/us/woodland-man-struck-by-ice-vehicle",
+     "published": "2026-10-25T11:20:52.551Z"
+    },
+    {
      "title": "Once high-powered and influential brothers set to be sentenced for sex trafficking",
      "brief": "Three brothers who once lived at the height of wealth and society in New York and Miami could face life in prison for sex trafficking more than a dozen women and girls when they are sentenced Tuesday in federal court…",
      "link": "https://www.cnn.com/2026/10/25/us/alexander-brothers-sentencing-sex-trafficking",
-     "published": "2026-10-25T10:24:10.753Z"
+     "published": "2026-10-25T11:19:52.998Z"
     },
     {
      "title": "How to catch the hunter’s moon this weekend — and maybe Saturn, too",
      "brief": "October’s full moon will grace the sky this weekend — and those with a keen eye may also catch a glimpse of Saturn.",
      "link": "https://www.cnn.com/2026/10/25/science/full-hunters-moon-saturn",
-     "published": "2026-10-25T10:23:10.783Z"
+     "published": "2026-10-25T11:18:52.535Z"
     },
     {
      "title": "Swapping horses for ninja warriors: The Olympic sport undergoing massive change",
      "brief": "Several Olympic sports have evolved over the years to keep up with an ever-changing landscape, but few have been as drastic as the Modern Pentathlon.",
      "link": "https://www.cnn.com/2026/10/25/sport/modern-pentathlon-beckstrand-brothers-olympics",
-     "published": "2026-10-25T10:22:10.749Z"
-    },
-    {
-     "title": "11 people shot near Florida university stadium",
-     "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
-     "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T10:21:10.775Z"
-    },
-    {
-     "title": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
-     "brief": "Brazilians return to the polls on Sunday to choose between two candidates campaigning on sharply different versions of the country amid growing concerns over crime, corruption, and a broader rightward shift among…",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T10:19:10.789Z"
-    },
-    {
-     "title": "Economic woes transform the Midwest into a massive midterms battleground",
-     "brief": "Democrats could be poised for a revival in the heartland, as furor over high costs and doubt about President Donald Trump’s willingness to change the nation’s trajectory threaten to loosen the GOP’s grip on…",
-     "link": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
-     "published": "2026-10-25T10:18:10.786Z"
+     "published": "2026-10-25T11:17:52.531Z"
     },
     {
      "title": "France sees another weekend of mass protests with nearly 1,000 detained",
      "brief": "Nearly 1,000 people were detained across France Saturday, the Interior Ministry said, as a wave of protests airing economic grievances returned to the streets of its major cities.",
      "link": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl",
-     "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
-     "title": "A fire devastates the Eagle’s Nest retreat built for Hitler in Germany. A suspect is detained",
-     "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
-     "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
      "published": "2026-10-24T12:00:00.000Z"
     }
    ]
@@ -60,16 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Police seek dashcam footage of accident involving two journalists",
+     "title": "'It's East Asia's latest trend' - What is the ‘cadaver skin jab’ beauty trend and does it really work?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2F3RjBEOEtBeW02em1pYkZTVkN1eHliSkMzYVhvQ1hYNVRiVnRqWWtRa2h3RnVEdk0ybGhkWW1VbHd2U2xfRXNyMmJUVzJHREtELVRqYVpzaTd0bWRmaFFNTHNIVVM5OURVUE5fZ20wRXBNQV9POWxaR0VzOUZpVjBvSkFiWFNIcUZGaGVaVnFlbFdmeGlGOUFjZTN3RlhYTEZIN3FaRTVnQTRkajVpd01oR3V5Zw?oc=5",
-     "published": "2026-10-25T10:06:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVi1qU1ZKdkJudUlTZ0tIRlJ6ck8wV0V5UEQ2Z09FZXNOckUyRXUxaUxLMUNqUHhVdUVHSjF6YjZ2TFR2X195cGRQdFdzYnZsV3NwT1F0ZmI3ajlRNmFxSmF4WHNwaW9aNExwZ01oUE50WjVOR2ZrRVFQYlB2X29NNnlHbVlPT2xyWDhLTzh2eFdNNEQ1Q3ZSS2NldlI5TTIzamN1aUJmVGNpWFRKWXIyUnRjN1did3NCQkNiNDQ5UVdmdkdISFJWWDFxX2FtOWkwcmJXSzVOdEFSLWo2anZkaFB1RTFUUnJsTVM2SmtnZlRfOGdoTUh6SmFHNld2QVk?oc=5",
+     "published": "2026-10-25T11:07:00.000Z"
     },
     {
-     "title": "Jordan church attack survivor says her cousin died before her eyes",
+     "title": "MetMalaysia warns of thunderstorms in several states until 9pm (Oct 25)",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYU9MclFsR21QYmQyQUxsUXNad0RrVFlGMWk4YWtHVGpwblFqSGgzSm1yeTQzSVJ6U21NT2c4VzV3QmxCTWUtbDNuVWhFSWJlMThkdERxSGxKTHp3bEVfTi0zYmhKTmFfSzlvSXBFcEw2QS16MVZ3c3RHWGdEeFpvX0hJRzRIeGZkYi02dXpmX29hVk53N0tHMlB4RS1XT0Z5MThVMnJBOG0xcEN2UVlMRXl5X3drUQ?oc=5",
-     "published": "2026-10-25T09:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVE8xTjlKbm9Sb2wyM3c4MjFPQXhKLVJyclRMZDgzS1RqQUxvYkZyNnVVQWxqakRGdTBSZTBsSnpWVGNxa3hyS0JsMHNjWVpPN19BQTlMM0JEQjdoVjU1NlNvdGNqSHdqT2JPSlhVSjN2TTc3YnNES21DZFF1SE9ia1BnU1BsOTB3OEF5c0l4Mkl3Q20yaFFpLTdMZGc0ZmFjQUJHUUt5UlFvajJZXzFTSUNhMm53dmNpLTNZ?oc=5",
+     "published": "2026-10-25T10:54:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Real Madrid goalkeeper Courtois to miss Clasico due to illness",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeFZPQ2tXSEo0YmNsay1KdFFERnVCOWFmUmplVXB4Qm9iT3BNc0s1YUhYdHl6TjltR1BjUmtQcm9KYV9wVE1RT09xREFocXBvQ1NEVTNjMnNkR1p2ajlLMlN2Y21uMEo0SEJsWnRIaFZLdV9saXdYTXNHM0Z1MEMtWWFid1FSWEJvYjA1QklPTFgtdWdXeWdlTGh2LTJhSE9nMlpCYlpEUUQ0Y1MxYU9QN2tGU1M5X29NczdZMFpxOA?oc=5",
+     "published": "2026-10-25T10:34:00.000Z"
+    },
+    {
+     "title": "Man found dead at Cheras food stall",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYXNRVm8xRkNDUU5zTUtiV2RaNXBKdkQ5MHVqXzU1eUFkV1FBS09XUGx1QzdON1E3RlJTY1VaNlppUTl2aDgyWnZOQ0ZVeFNRTVZ1MV9RSlNBUjJUUU1Nd1h0LWdSTmlyU1BGUU15SzhhSGNqelhLQTJmSGIxM0x6aVlRNzZTQ1pqWVltdlBn?oc=5",
+     "published": "2026-10-25T09:52:00.000Z"
+    },
+    {
+     "title": "Magnitude-7.0 earthquake strike waters near Japan's Ogasawara Islands",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQenRsRjcyX0hCbXctVy0wa0xTNUxmdFl5LVVaRHFFT1RJN2NGeTRjWjNod3ZyNmswY0R2cC1aMDZnYUt4cFZRVkNiakF4dG9uQVczckdlOGxVa1BKY2V3VlFjQjRYWmU4aGxhU0VoWkxyY0JuLWdpUmFhemFrTS1DajRtTGZSekhfZGpEN3NoSFF0VGtueVFackRSY21SQmlNUXFqTTBoa0RxazR4T0ZWWnFuYkFHTjJ6bzBwRldET01rd09rcUgtTjN0OUd5Zw?oc=5",
+     "published": "2026-10-25T09:04:00.000Z"
     },
     {
      "title": "Sydney's brand-new airport begins passenger flights",
@@ -84,28 +102,10 @@
      "published": "2026-10-25T08:35:19.000Z"
     },
     {
-     "title": "Haze: 27 schools in Tebedu to be closed on Oct 26",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUXlZLWVVR0NMODBZNnhGdXZCcWV1b2R2WmplTTlLZF9DM0pnc1dYWDlheTdQZ2dBemVXNWowWHhmSkpsMW8xRDZ1Vm9aMExCTU9USlRDd2FjWlIzYy1lNUQzanJDU18wYTNQNWRTVDRCdzRIN1A3OEQxUXBrLTNOX0JVNS1ScU9RZTd6aE14ZmVXUXlDSVA2Q2JqUmdxVTA?oc=5",
-     "published": "2026-10-25T08:26:00.000Z"
-    },
-    {
-     "title": "Three people killed and 14 injured in Ukrainian attacks on Russia's Belgorod region, governor says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZVZhOFZ0MTJLOU1uSkh6WFdxWmt5TzRWUXBIdTROYk40VXhWNHdLUHAwLWh2dFhkbHptWVEzeTN0TzduVEdJUWxodjEwa1ZabjI0TXBnOUs4UHM2c2JwREx6N3lWZDVYOVBqLWNMZ0d1ZUFVSmFDTXF2T3NOMnZqcmFfVnVNLS1hb19RUXZHSUVORU1yZURadElHQ2t2SjFxQWpaU25lZmRyMmJIaTdCZkJvQ0Vpc3ZWZUFCUGk5dW00eFJpSHV0QlZiSkE0aWY1azZjWDBvbnhMTVF4UVlDOEhR?oc=5",
-     "published": "2026-10-25T08:07:00.000Z"
-    },
-    {
-     "title": "Final screen tests for next James Bond reportedly underway in London",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVdVeXdJeFFWRW83RzN2N0kyTUlZSkJVeDd2RFZkVkxwMGk4VDRVT1luNkk0TWxGX25fRmMwSHNqRnJza01yclVZYkVzTUxaNkFMZGRacDM1YjZEVzRDeElWSEdRal9HTk9sa2RuQlB0bXpfNGRSYTZoNEl5S0E4M0k3eXRmMktwbjhYQ0dQSjJnbURjMnZDeExsT2pVelg1dTFHUEJXemh5c2MzZ054bkFfN1dfdjY3NWVRNTZxRm9tT1FPMVpDRkVn?oc=5",
-     "published": "2026-10-25T08:00:00.000Z"
-    },
-    {
-     "title": "Johor expects 26,000 job opportunities statewide this year, says Onn Hafiz",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmNGSi1XamdWdXdYeDJYdnZveGwxSzFQSEQ4cm1lZzk2dDMtWmJ0eFpiYTZFczRqcjl1Z0ZKb3VCQUZfMWFkWHFnVnVrc0pJYjdtWDRUdFNfTFA4ZXZsblhYS0JYWjlNem5KSVlfYmM0MDJpSVJjOE5uREJRcWQwS0dlUU5fbWhpaVVEV2Q5MVozRmpTSFk1c0E1ckhuTUZteTI0Z09oRlJGRy1pcWhFakxWeHNHaFdIMDNibXdiOA?oc=5",
-     "published": "2026-10-25T07:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMlZOUDRWLWJ3MEg3ZjNidGRVVUxqLVg4VmNINUxkU3RHVG1ta1BYdjBtZ2s2ZXk3R1BYR19IMHlKMmlqSnRYR29GSWZqa1lzRVJkWFk5NkJlUzV3d05mU0lDZUs?oc=5",
+     "published": "2026-10-25T08:14:26.000Z"
     }
    ]
   }
