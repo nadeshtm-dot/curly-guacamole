@@ -1,27 +1,45 @@
 {
- "updated": "2026-10-25T09:25:19.790Z",
+ "updated": "2026-10-25T10:24:10.510Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Once high-powered and influential brothers set to be sentenced for sex trafficking",
+     "brief": "Three brothers who once lived at the height of wealth and society in New York and Miami could face life in prison for sex trafficking more than a dozen women and girls when they are sentenced Tuesday in federal court…",
+     "link": "https://www.cnn.com/2026/10/25/us/alexander-brothers-sentencing-sex-trafficking",
+     "published": "2026-10-25T10:24:10.753Z"
+    },
+    {
+     "title": "How to catch the hunter’s moon this weekend — and maybe Saturn, too",
+     "brief": "October’s full moon will grace the sky this weekend — and those with a keen eye may also catch a glimpse of Saturn.",
+     "link": "https://www.cnn.com/2026/10/25/science/full-hunters-moon-saturn",
+     "published": "2026-10-25T10:23:10.783Z"
+    },
+    {
+     "title": "Swapping horses for ninja warriors: The Olympic sport undergoing massive change",
+     "brief": "Several Olympic sports have evolved over the years to keep up with an ever-changing landscape, but few have been as drastic as the Modern Pentathlon.",
+     "link": "https://www.cnn.com/2026/10/25/sport/modern-pentathlon-beckstrand-brothers-olympics",
+     "published": "2026-10-25T10:22:10.749Z"
+    },
+    {
      "title": "11 people shot near Florida university stadium",
      "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T09:25:19.979Z"
+     "published": "2026-10-25T10:21:10.775Z"
     },
     {
      "title": "Brazil’s election tests Lula’s leftist legacy against Bolsonaro’s right-wing movement",
      "brief": "Brazilians return to the polls on Sunday to choose between two candidates campaigning on sharply different versions of the country amid growing concerns over crime, corruption, and a broader rightward shift among…",
      "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T09:23:20.023Z"
+     "published": "2026-10-25T10:19:10.789Z"
     },
     {
      "title": "Economic woes transform the Midwest into a massive midterms battleground",
      "brief": "Democrats could be poised for a revival in the heartland, as furor over high costs and doubt about President Donald Trump’s willingness to change the nation’s trajectory threaten to loosen the GOP’s grip on…",
      "link": "https://www.cnn.com/2026/10/25/politics/midwest-midterm-elections-michigan-ohio-iowa",
-     "published": "2026-10-25T09:22:20.028Z"
+     "published": "2026-10-25T10:18:10.786Z"
     },
     {
      "title": "France sees another weekend of mass protests with nearly 1,000 detained",
@@ -34,24 +52,6 @@
      "brief": "A fire swept through the mountaintop retreat built for Adolf Hitler and known as the Eagle’s Nest as emergency services struggled to tackle the blaze in snow and wind, and a man was arrested on suspicion of arson,…",
      "link": "https://www.cnn.com/2026/10/24/europe/nazi-house-fire-germany-intl-hnk",
      "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
-     "title": "Justice Department orders California counties to set aside ballots from suspected noncitizens",
-     "brief": "The Justice Department on Friday ordered California election officials to identify suspected noncitizens on voter rolls and set aside their mail-in ballots — warning that officials who knowingly count ballots cast by…",
-     "link": "https://www.cnn.com/2026/10/24/politics/us-midterm-elections-california-hnk",
-     "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
-     "title": "North Korea’s Kim crosses new bridge into China as trade ties warm",
-     "brief": "North Korean leader Kim Jong Un visited the Chinese border city of Dandong on Saturday, Xinhua reported, crossing a newly opened bridge in a symbolic move seen as highlighting Beijing and Pyongyang’s push to expand…",
-     "link": "https://www.cnn.com/2026/10/24/china/north-koreas-kim-crosses-china-bridge-intl",
-     "published": "2026-10-24T12:00:00.000Z"
-    },
-    {
-     "title": "Iowa’s cancer problem is scrambling the midterms",
-     "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
-     "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
-     "published": "2026-10-24T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Police seek dashcam footage of accident involving two journalists",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2F3RjBEOEtBeW02em1pYkZTVkN1eHliSkMzYVhvQ1hYNVRiVnRqWWtRa2h3RnVEdk0ybGhkWW1VbHd2U2xfRXNyMmJUVzJHREtELVRqYVpzaTd0bWRmaFFNTHNIVVM5OURVUE5fZ20wRXBNQV9POWxaR0VzOUZpVjBvSkFiWFNIcUZGaGVaVnFlbFdmeGlGOUFjZTN3RlhYTEZIN3FaRTVnQTRkajVpd01oR3V5Zw?oc=5",
+     "published": "2026-10-25T10:06:00.000Z"
+    },
+    {
+     "title": "Jordan church attack survivor says her cousin died before her eyes",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYU9MclFsR21QYmQyQUxsUXNad0RrVFlGMWk4YWtHVGpwblFqSGgzSm1yeTQzSVJ6U21NT2c4VzV3QmxCTWUtbDNuVWhFSWJlMThkdERxSGxKTHp3bEVfTi0zYmhKTmFfSzlvSXBFcEw2QS16MVZ3c3RHWGdEeFpvX0hJRzRIeGZkYi02dXpmX29hVk53N0tHMlB4RS1XT0Z5MThVMnJBOG0xcEN2UVlMRXl5X3drUQ?oc=5",
+     "published": "2026-10-25T09:53:00.000Z"
+    },
+    {
      "title": "Sydney's brand-new airport begins passenger flights",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM0tleWxoTG9ERkhETmdlckNtakI3bnNpYW0xTnJGY2ltMF8wS3NPM3pkanh6NkdYdEl6aE9TcU12WElXdWd0YjR6aTc3TWtVbjFKYmtvcnVBcXlORmcxeXhISWU2ellUN21KVmwzTUFpMld3Znk2SUU4anJNT1NNZUdzeDBDdkg4SlJydmxLbjNLMFRNMmFnREV5elhTUDlPS2Q0dzRMM09mQUZ5WWp3YXNVY3k3VUk?oc=5",
      "published": "2026-10-25T08:56:00.000Z"
+    },
+    {
+     "title": "The Star | Malaysia News: National, Regional and World News",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE41S0MyQngtV0VKd2h5ZVZac3h0ZEFrMVZhVE9STGVqb2U0UHNwamJrOGJ2bFFtQzRNRXBpYzJULXY?oc=5",
+     "published": "2026-10-25T08:35:19.000Z"
     },
     {
      "title": "Haze: 27 schools in Tebedu to be closed on Oct 26",
@@ -84,28 +102,10 @@
      "published": "2026-10-25T08:00:00.000Z"
     },
     {
-     "title": "RM950.78mil disbursed to over 44,000 Sabah entrepreneurs, cooperatives",
+     "title": "Johor expects 26,000 job opportunities statewide this year, says Onn Hafiz",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVlVRElZNGlqWXdwanJKTmJucHI5c2dWYkN4VXJKWlViblk5OVkwbW1ET2hORWZuQlU1TWFBd2FKOXBHOHFJVnB6NWM5X2VoTFZDOGw5SnR1OFcxMUdXQ3Axd2RwUHBmM0NOTzVSczEyNWwxanRwZHo4VVdJd3dxcmpDSzFuSThFcENjY0RGajd2YlBfclBYLThnZDNjQTFWVHlXbklVV0lMWi1kMnJpQ0FLZVpPU0Rv?oc=5",
-     "published": "2026-10-25T07:54:00.000Z"
-    },
-    {
-     "title": "Iranian army says it shot down US drone over Bandar Abbas, Tasnim reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUEt0bFJ1Q1J6Ujg4SExHTVNOcDFHTE9FNjlMckxhbXdnRERjbHBjVGtKNnBNS09NRzB0NEdkZmxBQ25pOS1fQWhPQjVpX0ZKUFh0RGdMR1FfOXkzNVVMeXRHYjYzeG9iTHI5Y0J6UHNnZ2wyOHFDQjhHVVUwOW1QU1VGbGozTF83ZWlKb3Y5RkpLVHFTOHk3RjBFVlFzTmpYbGhvVDgxUHR3X3RFd0t2ZDc4eFZJU1RWTm9MbDVn?oc=5",
-     "published": "2026-10-25T07:28:00.000Z"
-    },
-    {
-     "title": "Borr Drilling rig sinks offshore Gabon, five personnel missing",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVV8wOTZqcWk0N1NjMHA5S3g3WVdnYVNCOEJKTGtJaTN2dWN5MXFaVVl4ZUk5bjF6bjRCQjZTNWJYdUIzZFNjT2RWX2lqRjBHUEZ5UEFMOW90ckt5amFFLVNvVC10d1RGYlNTc21ZLVp3Wl8xT29NeFNJU2J4czRhczVFeFlGV0d5YXV6SkhlekZ3T19MUzdnNG9yaTZRNXhRcjNGQWFXNnRUc01ibFpn?oc=5",
-     "published": "2026-10-25T06:33:00.000Z"
-    },
-    {
-     "title": "Thai immigration confirms missing Dutch TV host has left Thailand",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0F5akVHZkdzSzY0QzIwU0lwNUFjek05b28ydGtLU0Vuc3p4RnRGTDFVM29xTG02djN5WV81c1hHX1M2NERKMUhUN2ZBN0tyaUcyRUNBWk9vTlQtRHc2X25jVUpXVmJtQnIycVdaQWJVenhLUVAwcjNkcFk2UnVfb0l1aGRVS1RkelJ5ZDJJdHplVkZFanF0bWpkbEFqMXhfMVNIU1pscGU1amxpVnBTeUx6eEdIanM4aXNvQklPUldGM29pd3Rv?oc=5",
-     "published": "2026-10-25T06:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNmNGSi1XamdWdXdYeDJYdnZveGwxSzFQSEQ4cm1lZzk2dDMtWmJ0eFpiYTZFczRqcjl1Z0ZKb3VCQUZfMWFkWHFnVnVrc0pJYjdtWDRUdFNfTFA4ZXZsblhYS0JYWjlNem5KSVlfYmM0MDJpSVJjOE5uREJRcWQwS0dlUU5fbWhpaVVEV2Q5MVozRmpTSFk1c0E1ckhuTUZteTI0Z09oRlJGRy1pcWhFakxWeHNHaFdIMDNibXdiOA?oc=5",
+     "published": "2026-10-25T07:58:00.000Z"
     }
    ]
   }
