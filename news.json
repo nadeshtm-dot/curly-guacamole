@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-24T23:20:34.117Z",
+ "updated": "2026-10-25T00:31:07.359Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Iowa’s cancer problem is scrambling the midterms",
+     "brief": "As the debate season kicked off in Iowa’s heated gubernatorial race, one question seemed to animate and, in some ways, unify the candidates.",
+     "link": "https://www.cnn.com/2026/10/24/politics/iowa-cancer-midterms",
+     "published": "2026-10-24T12:00:00.000Z"
+    },
+    {
+     "title": "New York’s archdiocese and survivors of clergy abuse agree to $800 million legal settlement",
+     "brief": "The Archdiocese of New York and attorneys for about 1,300 parishioners who said they were sexually abused by clergy have agreed to an $800 million settlement of their legal claims, the second-largest involving a…",
+     "link": "https://www.cnn.com/2026/10/24/us/new-york-archdiocese-abuse-settlement",
+     "published": "2026-10-24T12:00:00.000Z"
+    },
+    {
+     "title": "France sees another weekend of mass protests, with nearly 1,000 detained",
+     "brief": "Hundreds of thousands of people protested across France Saturday, according to the country’s Interior Ministry, in what were largely peaceful demonstrations.",
+     "link": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl",
+     "published": "2026-10-24T12:00:00.000Z"
+    },
+    {
      "title": "How reliant is Ukraine on US support – and could Kyiv carry on without it?",
      "brief": "It has been a bewildering period in US-Ukraine relations, after US President Donald Trump slammed his Ukrainian counterpart Volodymyr Zelensky for failing to negotiate an end to the war and Kyiv accused Washington of…",
      "link": "https://www.cnn.com/2026/10/24/europe/ukraine-us-support-trump-zelensky-relations-intl",
-     "published": "2026-10-24T23:20:34.389Z"
+     "published": "2026-10-24T12:00:00.000Z"
     },
     {
      "title": "Golden State Valkyries beat the Atlanta Dream to even the WNBA Finals at 2-2",
      "brief": "Gabby Williams scored 17 points and Golden State played stellar defense to beat the Atlanta Dream 67-62 on Saturday and even the WNBA Finals at 2-2.",
      "link": "https://www.cnn.com/2026/10/24/sport/wnba-finals-valkyries-dream-game-4",
-     "published": "2026-10-24T23:18:34.402Z"
+     "published": "2026-10-24T12:00:00.000Z"
     },
     {
      "title": "Knicks try to clear up ‘misinformation’ about rings, say employees will get them in 4-6 weeks",
      "brief": "The New York Knicks sought to clear up what they said is “misinformation” regarding the awarding of their championship rings, saying Saturday that employees who were always supposed to get them will do so in about a…",
      "link": "https://www.cnn.com/2026/10/24/sport/new-york-knicks-championship-rings-employees",
-     "published": "2026-10-24T23:17:34.417Z"
+     "published": "2026-10-24T12:00:00.000Z"
     },
     {
      "title": "New maps reveal who could see more snow during this year’s super El Niño",
      "brief": "This year’s potentially record-setting El Niño is expected to shape winter weather and snowfall across the US.",
      "link": "https://www.cnn.com/2026/10/24/weather/new-snow-maps-el-nino-climate",
-     "published": "2026-10-24T23:16:34.393Z"
-    },
-    {
-     "title": "Canada won’t see Alberta seceding anytime soon. But what to do with the people who wanted to leave?",
-     "brief": "In the end, it wasn’t even close.",
-     "link": "https://www.cnn.com/2026/10/24/americas/canada-alberta-referendum-latam-intl",
-     "published": "2026-10-24T23:13:34.414Z"
+     "published": "2026-10-24T12:00:00.000Z"
     },
     {
      "title": "Trump DOJ sues to block Alaska US Senate results if Republican incumbent loses",
      "brief": "The Trump administration has preemptively filed a lawsuit seeking to block certification of Alaska’s US Senate election if the Republican incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/23/politics/doj-sues-alaska-dan-sullivan-us-senate",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "At least 9 people killed in unprecedented shooting at church in Jordan",
-     "brief": "At least nine people were killed and another 40 injured after gunmen opened fire on a church in Jordan’s southern Karak province, in an unprecedented attack that has left the nation stunned.",
-     "link": "https://www.cnn.com/2026/10/23/middleeast/church-shooting-jordan-intl",
-     "published": "2026-10-23T12:00:00.000Z"
-    },
-    {
-     "title": "Mississippi officer and interim police chief resign after officer’s fatal shooting of 1-year-old in car during pursuit",
-     "brief": "A Mississippi police officer and interim police chief have resigned, officials said Friday — just days after the state said the officer’s actions were justified in a June shooting that resulted in the death of a…",
-     "link": "https://www.cnn.com/2026/10/23/us/mississippi-kohen-wiley-fatal-shooting",
      "published": "2026-10-23T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Alvarez apologises for Barcelona comments after scoring Atletico winner",
+     "title": "School violence demands more than knee-jerk fixes",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVnJja2hpek9ZR2diYWZtR2pWamJIaE1NNjhWQkpVOVk4T3lUMDRicndNakxZb3VkQmJmUXlqVWNsQlROWDNaejJaNjRZTzIyMm80WTJHRnJiQmx2SWZJYUNrTUJrV1I4bVVtbVJVSjdJTmFySWs4a0dsSElCTHZDeHFxOTc3Qk8zWUQ3UEVzUDRVdy1yeXlTUUFTcl9vekRoRHhUUzhfZXVycXRGaHBGX3I3Snp0MWFPZ3BDSFdJRElvZTJDQ1VYV28tQQ?oc=5",
-     "published": "2026-10-24T22:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMjF5ZG5xTWhMbXpqU1podnNPei1BUXFZaFhjby1GU1dxWnZDb2ozX2JXQUhZNHdKMm1tbk9ialJqRktIdkhWT2lzMEZNVlp4MWN1Wk9CRnZoU3dTRVJuUVMzZXpsRWxLdkZlRzg4R251eDkxQ3dIaWtJU09uWThvLWxnZ01SRkMzQTI4Y2NNdXdDRnZnaHNlc2lHZl9BWnU1WERNMHoxR0c3NHA1M01TVEVLOERYcEtpUVY3eg?oc=5",
+     "published": "2026-10-25T00:10:57.000Z"
     },
     {
-     "title": "Football: Soccer-Hazard winner lifts Lens to 2-1 win over Paris FC",
+     "title": "Bulgaria votes for president in wake of deadly Black Sea drone strikes",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN0FFVW56QmRCZFNVckplT2ZkS2I0WlMxX0dJeDgxZDUtdGxqLXFxQ2xGRGt2VUxKTHFrNF9Rc0dqY0hQMWRiUWJzTFI4ajh1dlVzT05EZGVaZ0Z6eGhucnJMUUhtSHNXQkh5WHVxOWxGbWNsSjVTQ1JxM2Y4Um4wSXZoMnlPbnpfaDVJZUV4eHcwcmdoSEVPN09YUHl3UW4wcHdpUVQwN3p3M0FoLUE?oc=5",
-     "published": "2026-10-24T21:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdFZrNmlNMzZRRTUzbVBnT0FlU0pKN1MwdVdsYUx2MnBHb0lEakJtR2ZKWGtpNll3bUQwbnQyOGxpWTExZzR6bUJycFlsMmpaMlpyczVoeTRsUHBuNS1qaXhjQUtOWVlLOFU0X1hUM2MtM2ZDdzhVQTRweVV0eGFUN29yUVVtWXc1T0RRLVd4cElLNVJkNkJaQTBlemFZQktqakVqUy1Nc1FmRUFvYTQ1RWo2bHh2bVJfU2FZ?oc=5",
+     "published": "2026-10-25T00:07:00.000Z"
     },
     {
-     "title": "Protests sweep Italian cities, clashes reported",
+     "title": "Are 'man boobs' linked to a risk of cancer?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMURNQzZzdHZ6WWtXaTRhNzZKLUE3Y01EMTlLSGh2QXN3ZTdIMDBRcGtueEJFNldwaElfSDNjVUFMeE9VbnBhT05kbmNtMlBUVHJVbjQwNFBFTU5DU1I0amYwa18wZ2NCU0pTUEJBUEl5RUlpb3lJUmhEY0pWQ0dLMzVpRWRYSnlKWGlNUi1aV0hPcXRLdDVmRVNWNA?oc=5",
-     "published": "2026-10-24T20:44:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU2lXbmhMWlBNS0t6SHJGdVQ1cWg1Q2RwZDNhMHlaSTBTNVVjVU5zTkpkWW9WaGNtVHc2WEN0RVJHbmV2MEJwbkNTVVlGb29OUExCbklPaHJpWGhHQkRXS0txU0t5RlQxWmFoZEZIZGxPUzBJaG9ZZ2xtdV84YkpGMzktdUl0UUthWTdLQkxSS2t6eTRFRUZ0R1hXN3M4bEgtTXhLMWg0WmJUVnc1bi05S0xzWTdMQ3NYenR6c01pR3ZpYV85ZE9F?oc=5",
+     "published": "2026-10-25T00:00:00.000Z"
     },
     {
-     "title": "Gunmen kill at least 40 people in northeastern Nigeria, Amnesty International says",
+     "title": "Yemen's Houthis renew warning against using Riyadh airport",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWXpOZkZCd21HN1EtRW9ZdVN1T29iRTRfMU9lNFBteWkzRFA0UGxSOVJJSlcwY1VXSWdYMndzeXktUERQanRTd3NQVWhTZnRfMUViaXhBaGtUdDVXeW5uLW9SQ1pZLWxXN2swaUR4dnFhU0VLcFNRSGRLNmNpTzhQekNsaHl4Y2p0MXRBVllnSW5SbUVVMjhLN2hxMFBZd0FnWGg2TURlX0I1ZktEN0NTQ2tTRVdnTGdyd1B5VE9hSGdVZHhzWEozZVd3?oc=5",
-     "published": "2026-10-24T19:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWm9qUnNEX2x4cHNHcVRrcHFhb3BySjZqSThBa3FqU1NEeE11dUpoY1FkSkE3dEZmRnlrVFhLRGdHc1hBd2QyRjVrV25XNmJxdm5QWHEtWm82MkVncFhtczNhTjgzVnZnbXg3NHdDQ2xSODZfYUtrcmtiQkJUeUdFRF9hSGRsZFRUR0VmSTIyQi1JR2M5c1hPZ1pfUW80QVIzc0RpY29pQXE2a0tWLUE?oc=5",
+     "published": "2026-10-24T23:58:00.000Z"
     },
     {
-     "title": "Motorsport: Motor racing-Hamilton fastest to complete Ferrari's US Grand Prix practice sweep",
+     "title": "It's Just Politics: Banggi's riches, its people's struggles",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaU0yQUpDeGRPTHpmOE1UVkxvSGtlQTlpaDhoOWhXaWFHczNqYVRaS3JLQUVaM3pBQVNFTG05cUZLV3M3QXZZOTlKR3ZPZVNMbVM3U2ZLYVBIWTlWYjZKR0pMSUV3cGh0N0RuRU5OYVRYbVM0VFEtc2M4cHhiTHZINU5YMk1ObHB3OVI0U09rWmdpSjQ0TWdUVXRYVEdaRFFSVlNheU5IaFJ6RnBzQW1GTTc4STdXODBrZkhfVEN3YWZQQTMzOFVZTFEtM25jTmJuMzU4?oc=5",
-     "published": "2026-10-24T19:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWTJXLURNejBUdW5vN3Qzdi1TQjIyMjI5OU1nNFVBY285ejlNWGdNTmhZelAyVkVhX09aNFdkRGpNeU1zU1h1T2hxX21EbmQ1OTNSUkRsc0RSU0JJeXg3bjBmSWJmUlF0cEt6ZjBsNm9TRFRTOWE5TEtQSFJjSG1QUklCR2FDOGk1RXN3T1lCM2drY2FwS2dqa3NtVnpUaUhJaUg2dmN5Q0RHV2M3dmZ3Uw?oc=5",
+     "published": "2026-10-24T23:46:18.000Z"
     },
     {
-     "title": "Football: Soccer-Burnley dismiss coach Hayen after 14 games",
+     "title": "Paying for their recklessness",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORS1acGc3SHFNUmoxd3ZMX1VsNS1oNldHYVNtTXJ6aXlMZUFXRzA4ZDlxV19MVnlfYmlVclN5NXNFdlRfc1EyeDFIU1RVOFZOSlczVndDWGNnTE9HUGxVa0RxWl9ObFktVExTaVdZeW9jTFJTbU1iWk9lU1BqakxuTDV1QnZwX25xMHJJd3I4dVpjMllvZG44R1VyZmY5bmo5dXZ5Ng?oc=5",
-     "published": "2026-10-24T18:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSGFGMUI0VW5YSXZKUDljMjBIQ2ZQMmF2QngxdF9XUE4zN3ViMjEzX1A3S214Z1F3eWloWWh0TkpQbnpQc0ExdE1sYlFtNUlKeC1QZVhOaUp0ZkFpNDM3N0xmREdTTnctOVhCdk1iWDJzOHJyRTBzUHdyQXJ6NU9wblN4YzY?oc=5",
+     "published": "2026-10-24T23:46:18.000Z"
     },
     {
-     "title": "Roundup: Türkiye opens new museum district showcasing major Chinese porcelain collection",
+     "title": "Golf: Square the face, split the fairway",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOGdtVjdJR29MaVh6ME93SEpIVnBmSXBVc0xGOURtRTlGUTg0dmhtdmZ3MVdaUW5GZjB5REZSaVRYTlh5RnNsV3hwak9hMXR1VlRaREpPQWZSQ0FXWVVWbGRiVk5EVm1iYnRhZUpjOUhuME1hZXVUZnR3QTNSZnlNaXRpVkVCTHZ3SkMySFZKS1BIVVRiV2R3ZjJ2TE9zU1Rkakcya0pJYk5ZR2ZaTDE0UnBhc1ZrSE9WLXFwbmhpT1o4VEU5c3FaN0hSV0dnRFhM?oc=5",
-     "published": "2026-10-24T18:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX19sS2lsbVEtd25xU2R6OVY4emVMWWpmbnVQZnBzUGxRRVp1cEROWGlJaGtDT0FBZ0xZOFBIeW54VkdZWVVjU3RiMnZhM05BX0FrYWhwM0ZoWnRPellfNXg1S05McWlxQkNaYU1zZ09rS2t5c3dLN1pkckVuaEI4M2ZySkFnRTVRbGc?oc=5",
+     "published": "2026-10-24T23:45:49.000Z"
     },
     {
-     "title": "Protests sweep Italian cities amid heavy security presence, some violence reported",
+     "title": "On the Beat: Mat rempit are not political props",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWnQxYXRDekY2Y0hSaUtpR2x5ZjFMYldPWE5RV3RSc0lSemZmU2RDMkRSQ2lZRmFhN242NER5eFk1MmZ1bnU2dGljeWFyc1F6bzlkNGUtTTJ1LTdWNGtRWEQ0V3NDU3F0SXpxVF9nX3NEd3VqQ3JKRmFHRXpyaE0yZGJydjdXd040RGJ2aUs5YzJfc0EwMzJacTNVR1ZsbzJLRy1ZZWd6UDBZaDF1OGstNHFCYnpLbXBiYktDdm5BeDg0SWJTcjREMWN3?oc=5",
-     "published": "2026-10-24T18:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR3hQb2l1SlVSUHhWbWdxVEVveTkzQnpvOFZHa0RTXzFDT3BLMFdEOEVDMW1leHgwZ2d4Q0RJd1F3SHJOR0lBb0xXaUdpSXBveWxhSXp0Ry1fUks2YmhOSDFQTTJFSW1DWkZKcWxfMlZXcGxuYUM5ZWt4TUFVNGp3N3BVMzlKZ0lmSmI0UVhFV1VKckVxM2MzTTBOMkliQlVDNXZKS3Nn?oc=5",
+     "published": "2026-10-24T23:44:14.000Z"
     }
    ]
   }
