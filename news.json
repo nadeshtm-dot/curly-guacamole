@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-25T14:23:36.282Z",
+ "updated": "2026-10-25T15:24:28.713Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "ICE said a man jumped on the hood of their vehicle. Video — and police — say otherwise",
+     "brief": "When footage of a man being hit by federal immigration officers’ SUV in Northern California became public, the Department of Homeland Security responded by saying the man had jumped on the vehicle’s hood.",
+     "link": "https://www.cnn.com/2026/10/25/us/woodland-man-struck-by-ice-vehicle",
+     "published": "2026-10-25T15:24:28.910Z"
+    },
+    {
      "title": "11-year-old, other minors among 11 shot near Florida university stadium",
      "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 with gunshot wounds Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T14:22:36.552Z"
+     "published": "2026-10-25T15:21:28.973Z"
     },
     {
      "title": "Musk accuses Ukraine of violating Starlink’s terms of service following dispute over coverage",
      "brief": "SpaceX CEO Elon Musk has accused Ukraine’s military of violating Starlink’s terms of service, after Kyiv said that access to the service had been restored.",
      "link": "https://www.cnn.com/2026/10/25/europe/starlink-musk-violation-accusations-intl",
-     "published": "2026-10-25T14:21:36.517Z"
+     "published": "2026-10-25T15:20:28.960Z"
     },
     {
      "title": "Rent control doomed this mayor’s re-election campaign. He has no regrets",
      "brief": "Brett Smiley was elected mayor of Providence in 2022 on a pledge to build more housing and get things done in Rhode Island’s capital city.",
      "link": "https://www.cnn.com/2026/10/25/business/rent-control-providence-mayor",
-     "published": "2026-10-25T14:20:36.549Z"
+     "published": "2026-10-25T15:19:28.965Z"
     },
     {
      "title": "‘A Few Good Men’ is back for the Trump era. Did Aaron Sorkin help get us here?",
      "brief": "The arc of Bradley Whitford’s career makes for a grim report card on the state of the country.",
      "link": "https://www.cnn.com/2026/10/25/entertainment/few-good-men-bradley-whitford-aaron-sorkin",
-     "published": "2026-10-25T14:19:36.537Z"
-    },
-    {
-     "title": "ICE said a man jumped on the hood of their vehicle. Video — and police — say otherwise",
-     "brief": "When footage of a man being hit by federal immigration officers’ SUV in Northern California became public, the Department of Homeland Security responded by saying the man had jumped on the vehicle’s hood.",
-     "link": "https://www.cnn.com/2026/10/25/us/woodland-man-struck-by-ice-vehicle",
-     "published": "2026-10-25T14:18:36.546Z"
+     "published": "2026-10-25T15:18:28.970Z"
     },
     {
      "title": "Once high-powered and influential brothers set to be sentenced for sex trafficking",
      "brief": "Three brothers who once lived at the height of wealth and society in New York and Miami could face life in prison for sex trafficking more than a dozen women and girls when they are sentenced Tuesday in federal court…",
      "link": "https://www.cnn.com/2026/10/25/us/alexander-brothers-sentencing-sex-trafficking",
-     "published": "2026-10-25T14:17:36.541Z"
+     "published": "2026-10-25T15:17:28.957Z"
     },
     {
-     "title": "How to catch the hunter’s moon this weekend — and maybe Saturn, too",
-     "brief": "October’s full moon will grace the sky this weekend — and those with a keen eye may also catch a glimpse of Saturn.",
-     "link": "https://www.cnn.com/2026/10/25/science/full-hunters-moon-saturn",
-     "published": "2026-10-25T14:16:36.631Z"
+     "title": "France sees another weekend of mass protests as thousands rally across Europe",
+     "brief": "Nearly 1,000 people were detained across France Saturday as a wave of largely-peaceful protests airing economic grievances returned to the streets of its major cities, mirroring similar demonstrations across Europe.",
+     "link": "https://www.cnn.com/2026/10/24/europe/france-weekend-protests-detained-latam-intl",
+     "published": "2026-10-24T12:00:00.000Z"
     },
     {
      "title": "Iowa’s cancer problem is scrambling the midterms",
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Other Sports: Rallying-Dakar Rally 2027 will not be held in Saudi Arabia, organisers say",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWpjRjR1QndLTjhwcjBydFRSMV9maFRsdWJPWmZFSERzUTlJY3RjMkdBOFhYZXhZZmVvRzNiY0I5YUg5bVhaQWtNakRlZ3FqQkdTX1JGOWllY2JibWFBNFQ4aENoWFB6b2tYVEZTZFdqSjdQNXZVaG02MmN4djNaaHphTjAwX2hiRklqeVRxbURXTVdqNGtwUElhRmpBUDJDNUx1T0pyYk5LWGUyQ21qYTItc2tnVGRTR1RFUFRwUUhad01w?oc=5",
+     "published": "2026-10-25T15:15:00.000Z"
+    },
+    {
+     "title": "Three family members killed in Dungun accident",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZjlJNVlfbzgyQXJ2MTJ2M1EtNldLUDVzTnFuMGlnUHpmOTdzU3loczdUX2NiTDBEbWVDTDlyVTRib29xMVFXZUtVdWZmcmhZNEdQZFl4LTJKeDFOYk5NVUx5bkZyS3VlMVlmeU5yb0ZlVVMta0dDeDMxVUdlNGJmZ29SNUlMbGRsdFhCNVphWkdxNmc?oc=5",
+     "published": "2026-10-25T14:45:00.000Z"
+    },
     {
      "title": "Tennis-Osaka says not far from best form despite retirement thoughts",
      "brief": "",
@@ -78,6 +90,12 @@
      "published": "2026-10-25T13:24:00.000Z"
     },
     {
+     "title": "'No more shine' - Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNT1BWOXZCeWs2M29VbWYySGIySXFFNnhwWmdDR2V1OGdyRHJsbVpfWlJ4eUdWNDVUemJGbUxNSkhFQXE4bl9VRGkyWlZ5WVA1X0tCMVFTUC1Zd2lRM2Q5cWpzcHVEdGF2aEd0UjkwVU0yTldSSzV5X1RUeHdKSi1fZERWS3VqZVJSdWNnOEh1bjlIZUJXQl9GeGZJRlVaSWJfNDdhMW5VeTlMbnk4eUVuUFMtb2RYTDZ3ZGhvQmY4ZkhIc2RHV2Y4MGpzMUhaUXN5WVZ6M2ktanhObGQ2d0xuZm85UEZKR25RM1NCWEYwQ25TMHI1MlE?oc=5",
+     "published": "2026-10-25T12:50:00.000Z"
+    },
+    {
      "title": "Top Entertainment stories of the week",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOZ0laR0J5TlZ6NUdwWXY2RzhDbUpHYUxYajNmRGRhRG1iU1RjeENmVFZRVk5nakVuZEFOVEg3cXJoVlRXTldvQ1lTbEpNNXN1MFNITXJFQjFWX3BCZnF5Y1l2QTk4TGlTMkQybGx6dUlNTXBfdGM5Z0ZSUGQyeTNsU1FCUUdtQVV2YVl5OE1mNXpsczZsbThTM2hweTNpckF4alZUeEN6UkNxdmdlZnhsRVV5cmNLU1pYdEFQVGtxdHg1S1BZOGZ0Nmdqc2FCLW44WTR0c09OQ1FlRXVkeUlUQm9VcnQwMk0tSE9YUjM5OWFfZlQ0V3owQnJEd2ZmcnJ2TVd5LU82QWFnOUFMMnNjZ05VWHNpWEhhaWR0Ri1ZNDJkVThmZllBZlRKZk9mckc5Wm8wRFJtbzBCT2JqSUxFYUZ5ZU1jUQ?oc=5",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQmNCbTkyOGdZcEtLbzdCYktQa0lVc0FfbTJUOGZ4NzFPUEhmSmJsUmtyUzJ5cXg3VjJBcUcxSEJnVlBjT2N6aElHODhjY0ZRMy1zQm1pakE5RVpkZ0NPQ1ZhdEN2Q1lYZWV6WC1SdFM3ZDNfUE1YcVBrdEFaclNYaE9WeGNKbG5WWE9Qd2xZNHZHd281LUtQYWxfOE1WMEs0bjgxTzBGVUd2d3dkSUVSSngzRVFqMDg?oc=5",
      "published": "2026-10-25T12:20:00.000Z"
-    },
-    {
-     "title": "Conservative party wins first election in nearly a century in British Columbia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWDdacXMxVE5wcUdKSnAzY0hZNHA2aHp1Zm5xMVlmTDUyMG80OGFzQ0NnXy1WMExvcF9HcG1KZ1pQSTdJMkVmOXZ5dzZVcE1tN09kRV9zSFd0QXN3MzM0MnJUWDk0YVU5NU1iZ3M0eUhDNG1LOGl6SU5IOUp3Nk1qTkpNRVpXTVhzMC13b3gyeXB0NHIyOU4xN0ZoS1hNbjh5RnBfTEdOZGhwMWp4WEs2QVJ6VlM0WU5FMEFEUnVjVE1TV2FUeGc?oc=5",
-     "published": "2026-10-25T11:54:00.000Z"
-    },
-    {
-     "title": "Badminton: Sindhu challenges but can't stop Se-young's winning streak",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOVAwb3lKdmltRlY5Vm5pa0tOVU1nb3A0TnVxNGliMEVfazQ5eWtQLWQ3OGVMYkhoeTVVU1cyMElkeXVad1dVamRTLXBicVVCcFl3TXh2amVxWkxsbi1aTDJsVEQxWGx2YVh5VHBsTmoxVFdpc3VJR3pVZ3daeWtJT3FQdWFZaEtDazU3eDNMNmhjREh4bmk1eExOallXX3I5Wkh5RldZZVRVT0xvbG1jV3FBRXh2c3c?oc=5",
-     "published": "2026-10-25T11:52:00.000Z"
-    },
-    {
-     "title": "Haze: Eight areas record unhealthy API readings as of 6pm, Oct 25",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSWNfSmI3YlRJbk5xb3ZlcVdpb2hMMFdaWDFydk5JRzlzTWRXMHhra05RLUpHelFpa1RaRXRaeTZKSVFGX1dCOVNFVDJONEk1WlZZOVF4ZlF1WUMyLW9DZVFXUmFBTFMxVlZrOFE5X3BrbTE1amc5RHkwQUZXNWVQRGxCeVF1MkV3MG54MDlidWtBQXNleEVrYnhHclIwZnhDd3c0WFJ3TFg5a3ZZQ0gwSUNqWQ?oc=5",
-     "published": "2026-10-25T11:21:00.000Z"
     }
    ]
   }
