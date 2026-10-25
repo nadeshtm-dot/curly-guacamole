@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-25T22:21:08.618Z",
+ "updated": "2026-10-25T23:21:09.635Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Polls close in tight Brazil runoff between leftist Lula and Trump ally Bolsonaro after voting extension",
-     "brief": "Polls in Brazil’s presidential runoff election have closed after voting was extended by two hours on Sunday following last-minute pleas from both candidates to electoral authorities.",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T22:21:08.826Z"
+     "title": "11-year-old, other minors among 11 shot near Florida A&M University stadium",
+     "brief": "A shooting near the football stadium at Florida A&M University in Tallahassee left 11 people with gunshot wounds Saturday night, officials said.",
+     "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
+     "published": "2026-10-25T23:21:09.894Z"
+    },
+    {
+     "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+     "brief": "The presidential election in Bulgaria on Sunday ended inconclusively, with the next head of state to be picked in a runoff, according to election officials.",
+     "link": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl",
+     "published": "2026-10-25T23:20:09.981Z"
     },
     {
      "title": "Ammonia contamination prompts evacuations after Oregon seafood plant fire, officials say",
      "brief": "Ammonia contamination after a seafood plant fire prompted recommended evacuations in a coastal Oregon city, local officials said Sunday morning.",
      "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
-     "published": "2026-10-25T22:20:08.856Z"
+     "published": "2026-10-25T23:19:09.966Z"
+    },
+    {
+     "title": "Leftist Lula and Trump ally Bolsonaro await voters’ decision in tight Brazil runoff election",
+     "brief": "Polls in Brazil’s presidential runoff election have closed after voting was extended by two hours on Sunday following last-minute pleas from both candidates to electoral authorities.",
+     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+     "published": "2026-10-25T23:18:09.975Z"
+    },
+    {
+     "title": "Judges skeptical of Trump administration effort to force California to set aside mail ballots",
+     "brief": "A three-judge US Circuit Court of Appeals panel expressed significant skepticism Sunday over the Justice Department’s desire to inject itself into California’s midterm vote-counting process by forcing election…",
+     "link": "https://www.cnn.com/2026/10/25/politics/california-midterm-voting-judges",
+     "published": "2026-10-25T23:17:09.979Z"
     },
     {
      "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
      "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
      "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
-     "published": "2026-10-25T22:19:08.838Z"
+     "published": "2026-10-25T23:16:09.956Z"
     },
     {
      "title": "The reported sexual assault at University of Arizona is the latest instance of alleged misconduct at the university’s frats",
      "brief": "Editor’s Note: Help is available : For help in the US, call the National Sexual Assault Hotline at 1-800-656-4673 or chat 24/7 on online.rainn.org .",
      "link": "https://www.cnn.com/2026/10/25/us/university-arizona-sexual-assault",
-     "published": "2026-10-25T22:18:08.859Z"
+     "published": "2026-10-25T23:15:09.963Z"
     },
     {
      "title": "Opposition leader María Corina Machado returns to Venezuela from exile",
      "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
      "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
-     "published": "2026-10-25T22:17:08.854Z"
-    },
-    {
-     "title": "Swapping horses for ninja warriors: The Olympic sport undergoing massive change",
-     "brief": "Several Olympic sports have evolved over the years to keep up with an ever-changing landscape, but few have been as drastic as the Modern Pentathlon.",
-     "link": "https://www.cnn.com/2026/10/25/sport/modern-pentathlon-beckstrand-brothers-olympics",
-     "published": "2026-10-25T22:16:08.862Z"
-    },
-    {
-     "title": "11-year-old, other minors among 11 shot near Florida A&M University stadium",
-     "brief": "A shooting near a college stadium in Tallahassee, Florida, left 11 people with gunshot wounds Saturday night, officials said.",
-     "link": "https://www.cnn.com/2026/10/25/us/11-shot-florida-tallahassee-shooting-hnk",
-     "published": "2026-10-25T22:15:08.864Z"
-    },
-    {
-     "title": "Israel is holding its most important election in years. Here’s what’s at stake",
-     "brief": "When Israelis go the polls on October 27, they will face a familiar question: Should Benjamin Netanyahu, the country’s longest-serving prime minister, stay in power?",
-     "link": "https://www.cnn.com/2026/10/25/middleeast/israel-election-2026-whats-at-stake-intl",
-     "published": "2026-10-25T22:14:08.844Z"
+     "published": "2026-10-25T23:14:09.984Z"
     }
    ]
   },
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Musk says SpaceX raised $40 billion in debt for GPUs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUDZoYnU3R3Nlc1lfZ2cxTmtsNDZHWWFZWFNLZWRMUS1aYjQwdjhEQTVKcTJFQW1YT3dvdTVpbm9nMHNiVjBYb1FZNGV0S1p0MmhvcjZ6dDBNSzk1WjBWRDBaZEVXYV90eGNfWjFZV3hJRUlmVmNwRnVnQnFOYWVGWXpRM041UHh2azVqNWtUMnN5SEJSa2dIdmxIS216LXRlMnlXTzVTcw?oc=5",
+     "published": "2026-10-25T23:06:00.000Z"
+    },
+    {
+     "title": "Urgent: Voting ends in Brazil's presidential runoff after 2-hour extension",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUkyYzZFTjViRnR6YzA2aWgwLXE1ZG91RHRzMGIxM2x6ZERYRzZPMjNPOEhERy1WYXEzR2dVSC1qS2phQk8tYzRrdjlIRWlSa1pmQW9yRHZwSnhXY2NjdkdZaHctOGJ2cjFQWGFYRlQ4QnRVUjBYcFQwU0dHV1N6N182R3hPcnFuOE9nb2FLWHk1dTBkYktYd0RKamxUVkJfUVRndTFwYVRrUEtOUGRPNFNXSWVPODh1U1VhSjJWanpadw?oc=5",
+     "published": "2026-10-25T22:19:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Real Madrid defeat Barcelona at Camp Nou to halve gap to LaLiga leaders",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeVY1Mmd4MmlvQjhQMUxBMDloNXJZemItZTY4RmdvSzNDaUE0ZmVFVm1HdllrUFl6TEJCWS0weXRuOWRaMTJvWGh3N3Rva2RVdGY1ZU5vNVhZMHFfb0hCaHBqVlQxR1RHSUw4ZnRiQzNxWEZZRG1iM2RrWHJwSGozQ09CZ191SEhsT1FtSlVKXy11bjBXcUJhandrNU9hR0pNUEtUSXZyT3VwTkgtemtXTnUtR05JcVAxZFpXODhaNk1CSUhqU2p4cVJfRQ?oc=5",
+     "published": "2026-10-25T22:19:00.000Z"
+    },
     {
      "title": "Flash: Voting ends in Brazil's presidential runoff",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ3huaWlWWUdGMlltY1VLb0NwRGlwMzd6ekFlS1dJaGNGNmhBSWs4SndDbFRWVVRrYzBQVUJiYVZiWGhEQXZ0QlV6OHlsSklpS0ZyU29RdVRYYzIzbEFIMEZ6R1AyTWJVbi11a1FLT2JpZUc5T2h1Tl9PM1g5a2VtTU11NHR5WlpvUkltZHYtRlBCYndHRjNkMUhqZGp3ZS1PTlkwRTZYMTdqVXcyRGRNLXlxaEFlZVVtLUtqelVTUk9MUlV5dHNXbUt5MA?oc=5",
      "published": "2026-10-25T20:47:00.000Z"
-    },
-    {
-     "title": "Urgent: Brazil's Supreme Federal Court extends voting in presidential runoff by 2 hours",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQWdEUC0zSzl4VnpFcVZwc2hFS25LSDN1ZDBkNUJLcVVIQzRxV21yYWJtOGNGeFdab1ZoYmpadHpyQUZFNmZ1VlE2RV9kRm9QVlZodW8zbEl3SmVIdTczREhfYVNOMk1pUG5uSU9RQ2dDb3IxRlkyRkFtbVNiQWpBQVAySU5VNTJEc2ZkM3VIc3pHZ0VOUzEzQW80WHZlZlVjZHdhWXRQTFpwbUJSUi0wOVg1TjI2bHowMlJNa3loSUFKQWlvV1NpWm9kLThyYjd3S3lj?oc=5",
-     "published": "2026-10-25T20:24:00.000Z"
-    },
-    {
-     "title": "Cricket-Shadab heroics lift Pakistan past England in one-wicket thriller",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3pwRk9SZEkzVnJ1M25FTk9GSGJlcDhlNlBqRWpwME4yZjZkc1dkb0d0R1REdFRTS0ZhZHVqaHItNXdYODRxQ0JkczBYUUlRVVRwVkJLUTZDbUNSSklZeHI4OVhnaUxFM2hhU0txR0J3VGJRUnVURGVhcnJ0Y3RkOUhjOXkwck95ZTIzaDN5U0dSR1ZWeTdid253YzV0d2E3Mm5FLS1vNHdWOVVrejFTMkZLNHhhcnJHdjN4Ym8tWEFiQQ?oc=5",
-     "published": "2026-10-25T20:23:00.000Z"
-    },
-    {
-     "title": "Mexico deploys special mission as Hurricane Vance nears Pacific coast",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY3NfZzZQbzNQTlNXaEdhSVlGQXk3ZDRreWdXZjNMaWw3aTR0VTBpWlFFYm13S0FtQlJKQVIyMFA3ODFOMTB4eWIzdmM5QldUT0QyUVprcDdJS2RGejhUME1zakp6RXRNckVMZE1LWnFJOE0xNnNyTFpmMDZmUEJtVTdIblBsVFR4UlVBbWdMRWRPd3gtdzR1N1VYUkpDUUdWWGpYOFpPMHR5ZWVJd281UXRlenhRUEFKMWc?oc=5",
-     "published": "2026-10-25T20:14:00.000Z"
     }
    ]
   }
