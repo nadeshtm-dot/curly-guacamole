@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T06:40:34.335Z",
+ "updated": "2026-10-26T07:48:27.057Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,19 +9,25 @@
      "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
      "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
      "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-     "published": "2026-10-26T06:38:34.559Z"
+     "published": "2026-10-26T07:45:27.333Z"
     },
     {
      "title": "How Lula beat Bolsonaro, broke records and halted the right-wing wave aligning Latin America with Trump in 20 days",
      "brief": "Luiz Inácio Lula da Silva made history on Sunday, setting a record for Brazil and the rest of Latin America by becoming the first president to win a fourth term – and he did so days before turning 81, an age when…",
      "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T06:36:34.562Z"
+     "published": "2026-10-26T07:43:27.380Z"
     },
     {
      "title": "US has plans for major Iran strikes if Trump chooses",
      "brief": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran “within 96 hours of receiving” an order from President Donald Trump, according to two US officials.",
      "link": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
-     "published": "2026-10-26T06:35:34.553Z"
+     "published": "2026-10-26T07:42:27.369Z"
+    },
+    {
+     "title": "Brazil’s Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
+     "brief": "Brazilian President Luiz Inácio Lula da Silva was reelected to a historic fourth term Sunday, but his defeated rival and Trump ally Senator Flávio Bolsonaro said he would not accept the results and would mount a…",
+     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+     "published": "2026-10-25T12:00:00.000Z"
     },
     {
      "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
@@ -42,12 +48,6 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "Brazil’s Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
-     "brief": "Brazilian President Luiz Inácio Lula da Silva was reelected to a historic fourth term Sunday, but his defeated rival and Trump ally Senator Flávio Bolsonaro said he would not accept the results and would mount a…",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "Serbia’s leader concedes defeat to student-led movement in seismic political shift",
      "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
      "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
@@ -60,16 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Election to end all elections?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1lCUmJDS2VSaTRLNm1JTHBkNm94UVNjb0VLQWZRb3hDYkpvYzlLUzdxRWRLNllvZGx3UXpsVy1oLXNrX2N5bHl6ekkyeU5QZXZtRFY4dzM2RVdCendjbl83NWZDcWlOeTBpSFJIYWdnVmZ5b21vOHNmWmdYbzdvUzlJRHNCQmxyUzVjNFdGeE00bHZBYkdhaV9ZTHlLNHhqTEpmaFRBdlNYV2M?oc=5",
+     "published": "2026-10-26T07:36:47.000Z"
+    },
+    {
+     "title": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2tob0JLYU9vdk5TSWFfak10WUpCTHFXNnN1TGNrZmpiaXV0SjR1d3dVYl94WlgtNHJqekV4ajNjZ0JUaEZzX0FqNGFBaVdRVjVrRURZWGh3WVFPeTVQYVI2TWh5X2w3M01WVC04cVhRRXVZOTJlQUlobUo5NHRkUVBZQXVGa0NTb214OENOU1lRRWYwNWtyNmE1VlpnT1FKV1l0bUlfell5ZUdoNnFaT3ppQ2dPU09xTDVieXRON3ViVXZ0UDBZd3lUVDc3Z3M?oc=5",
+     "published": "2026-10-26T07:15:00.000Z"
+    },
+    {
      "title": "South Korea's Lee says unlikely to join Pacific trade pact within his term",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3ZaNDBCSnhLSFpJcU04VGtxOURsSjBQTzM5T0M1U1F1TWs3MWkwYVBzN3ZEcFZ5Q2x6VmRiTHZyYkl6NEJGdHRPaFJ6OFpQZFVBY0IwSVFWQ0kyM0NxcFRQcUFvcWpwM1RkY2VFVlFTOFlYU21FQzNNc2ltcjdWTHduRXdSUmpjbzFQYUZTLUNUYWoxVHZRUFZDdmx1eVR3eFFzSjh2R013V3p3S2ZXejNhTTJyaGNjSVA4d0hFbG51UWs?oc=5",
      "published": "2026-10-26T05:58:00.000Z"
     },
     {
-     "title": "Six injured in Russian strikes on Ukraine's Zaporizhzhia, Chernihiv, officials say",
+     "title": "QuickCheck: Is Mosti soliciting payments through informal communications?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTAyUmtFUE9vbWFMNXQ1dkFwNXhkcEJia1QzUzJDVW9qZnQ4SW1CUG1tR2xEel9kMkNYTlluNEFBMmZoWnRvM0lrVVp4WUk3a1R5YlJHTHI4aTlvckVqdHlQVFlaWXBleElQOHBSTGw1b01tdFcyUzFVdzdkejhqa2w4Z1I5NllSYy1BOVR2Mzl6VXJIWm1jdTA4d21YNWxUd253bVY0QjRiM01Bc1h2T2FUTnNmRTVEZHI4QUhXOG93VFA1by15bTJTYw?oc=5",
-     "published": "2026-10-26T05:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVlzUWJaSGl4cmsteVd3SURiekFsZ2VtQk9MUlBweXhhdnZ5UVBiR1hFbllwa1Vmc2VXV0FnUWVvRDgwVlozQkoyWmJjWVFVY0pUVU9hOXlwTTRNQVpGZG9YVmxXaHVfNUFrZ0hsdkdHS0FIS3pLQTZQUDlBZW9kV1R0LW5ZWk95bjBjRnRXWURXd3lpT3Vlck5zUVF0NU1XQW5aWkpRWEhockN5clM3eENDbjJXR0R6N2pCeTU3Wjh1cWhG?oc=5",
+     "published": "2026-10-26T05:28:00.000Z"
+    },
+    {
+     "title": "QuickCheck: Was a crocodile spotted near a beach resort in Bagan Lalang?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRC1BcUdYSEtSYms4bmtybFZnMHJGdk8tbWNXUElsbzBYSUpKeUlYR2ZyN0lOQ2VlMTBiU2N5RXVrYVpsV0JjSEhJTGtSNm1TNFp5LUR0Y1JlUWlrRFFZZktURE5JUDRuWXd2dFd1RDhsY09STGttTF9XNjFSaTlTUlJQdEVEU0k2bUg3UkF6OERvVkcxVktfV2ZXSFJtcVY3TUluY2FxU0NkaHhNQXUtNDRtLVJ2ZjhpeDFHS2NEWUJIdDA?oc=5",
+     "published": "2026-10-26T05:24:00.000Z"
     },
     {
      "title": "HCK Capital opens sales gallery for RM1.3bil Hijauan Heights township",
@@ -84,28 +102,10 @@
      "published": "2026-10-26T04:26:00.000Z"
     },
     {
-     "title": "A 5.2-magnitude quake hits Bonin Islands, Japan",
+     "title": "Thailand hits back at Cambodia over two temples",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVDZDU2VobXA3ZnA0RDVRNkUtZUlEaHNvd084dDhtTkxhVnJsNzd0UlpkeFl5UHFPYmN0dHZBNVBBSDB4dUZLY3hVQ0ltaDNvTmMxM01aZXg1SzU2WUFBdGNUS3JHSlR5b3FEQXRic2ZjR3lmOVBuNGItOGEyZ1lJZFRkZUtaMDZmdG51RFlZWG9GVjdUTVF1ZkV3U2lXSjU2T3NvbHh6NTFSVTIz?oc=5",
-     "published": "2026-10-26T04:04:00.000Z"
-    },
-    {
-     "title": "Traffic slows in Malaysia airports in September amid soft domestic demand",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVEzYTAwNlNHMVhzZWNMTGhpT2FPVUZ0aUNGT0tjbFBxeW1tazYtUkdVN25XUnNQR0tPMU5Bd3Z2Y09aZE96LW9hMjdmaGMybWhPQVhwb0tHTDlPRVhqRER6bTJVd3htbXowS0pmdTZyYV9nWE4zcDJROEd0cXpZUWV2Qk0xMFVWSTlBOVNaODQ4bjFBX0VkVmMwNko4OUdXXzRaSjkyYXladHlYbmpaMlJlaWJCaXIwVXhUa2RJdE1hakpnMERScGdMT3ljYWc?oc=5",
-     "published": "2026-10-26T03:03:00.000Z"
-    },
-    {
-     "title": "Four killed after motorcycles collide in North Vietnam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0YyRy1GdDV6eko5SGc0NXR4MEpULUpVNi02V3VTX19rUmJRWUkwWFhhTWs3Z3Utc1RuMzRqcTVGUzdJSFRBT0pLbUFXRVhBbHl0X0NpeDZyTzRyb0h1SGNIamppOGExQjZTQ1dIZDlxOWIxWWR2QlA2M0VhSFJTaWJ3UG4ybEFDdHBpLVR5OUZRRnVoQjdFREc4Z0xqMEtzWkI1OGZ2d09JZE5wRFFEaVFBWm5jdUFV?oc=5",
-     "published": "2026-10-26T03:01:00.000Z"
-    },
-    {
-     "title": "All 19 crew members rescued after sand dredger sinks off Kuala Kurau",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXJVbzkyWmRIdlh1SGN6Skp0Yzc0dXM3RnI3RV9yZ0RpSkRReEZMdkQtODdkdjI4ZGQ1TTNxQzM4WDZKcXRKS05GSm95S1Q5dkVOMlhaVXQ4QVd4Xzl6VnFmcE5tOTZFblVZV1NneXJQcV9SQmJDWmk1N2RkNmxZT3hkeEtVV2FCc3hSdGpLTG1yODdXbmVYQi10SmlBLXJ4TWJ3UFBCVXd4WDFncDBvQkI2Y0tCbWVyOEE?oc=5",
-     "published": "2026-10-26T02:55:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmxKVGdWb19DbTVaSW1GS3JNVWE2MG5BTkpNNWtTQTVQTzg4WnlPWTVtX2piN0hiZFdiaVJFbDNCR0d2NldDYjkzYU5VSFhVSFlJdm9kOVJSZFpOR25Bc01pRjNwczdWZ1lDNGxzWEc1aGdFNFdidVBDeUFBRlBCM2tIandoVHVEOHlmUEYzWGxRVHJBcHhWS2JGdEFMWEdnN0J6dm5ULThXclhfeGpN?oc=5",
+     "published": "2026-10-26T04:09:00.000Z"
     }
    ]
   }
