@@ -1,51 +1,57 @@
 {
- "updated": "2026-10-26T22:31:02.618Z",
+ "updated": "2026-10-26T23:26:30.627Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Harry Kane and Alèxia Putellas win men’s and women’s Ballon d’Or awards",
+     "brief": "",
+     "link": "https://www.cnn.com/2026/10/26/sport/ballon-dor-winners-harry-kane-alexia-putellas",
+     "published": "2026-10-26T23:26:30.879Z"
+    },
+    {
+     "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
+     "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
+     "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
+     "published": "2026-10-26T23:25:30.987Z"
+    },
+    {
+     "title": "Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots",
+     "brief": "A federal appeals court on Monday rejected the Trump administration’s unprecedented attempt to force California to set aside votes from 20,000 people it claims are noncitizens.",
+     "link": "https://www.cnn.com/2026/10/26/politics/california-mail-ballot-noncitizen-appeals-court-rejects",
+     "published": "2026-10-26T23:24:30.967Z"
+    },
+    {
+     "title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
+     "brief": "Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how…",
+     "link": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo",
+     "published": "2026-10-26T23:23:30.934Z"
+    },
+    {
      "title": "Justice Department charges former FBI Director James Comey for third time",
      "brief": "The Justice Department criminally charged former FBI Director James Comey for the third time.",
      "link": "https://www.cnn.com/2026/10/26/politics/james-comey-charged",
-     "published": "2026-10-26T22:31:02.820Z"
+     "published": "2026-10-26T23:22:30.963Z"
     },
     {
      "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
      "brief": "Russia is committing war crimes and crimes against humanity by intentionally attacking civilian infrastructure – including vital energy systems – in Ukraine, an independent UN investigations panel said on Monday.",
      "link": "https://www.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl",
-     "published": "2026-10-26T22:30:02.889Z"
+     "published": "2026-10-26T23:21:30.981Z"
     },
     {
      "title": "Trump has made transactional promises in roughly half of states holding key Senate contests",
      "brief": "President Donald Trump kicked off his general election push at last month’s Republican midterm convention by making voters a highly controversial offer: Keep Republicans in the majority, and every US adult will get…",
      "link": "https://www.cnn.com/2026/10/26/politics/trump-campaign-promises-midterms",
-     "published": "2026-10-26T22:29:02.895Z"
+     "published": "2026-10-26T23:20:30.971Z"
     },
     {
      "title": "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
      "brief": "A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her.",
      "link": "https://www.cnn.com/2026/10/26/europe/switzerland-nigeria-ebola-intl",
-     "published": "2026-10-26T22:28:02.886Z"
-    },
-    {
-     "title": "How Lula beat Bolsonaro, broke records and halted the region’s right-wing wave",
-     "brief": "Luiz Inácio Lula da Silva made history on Sunday.",
-     "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T22:26:02.892Z"
-    },
-    {
-     "title": "Machado finally made it back to Venezuela. Her challenge now is to pressure Rodríguez without upsetting the US",
-     "brief": "María Corina Machado’s return to Venezuela not only challenges Washington’s vision for the country’s transition, it also puts pressure on acting President Delcy Rodríguez by heightening tensions within her ruling…",
-     "link": "https://www.cnn.com/2026/10/26/americas/machado-venezuela-return-analysis-latam-intl",
-     "published": "2026-10-26T22:25:02.898Z"
-    },
-    {
-     "title": "I asked Claude to explain Anthropic’s IPO",
-     "brief": "What does Anthropic’s chatbot, Claude, think about the big initial public offering ?",
-     "link": "https://www.cnn.com/2026/10/26/business/claude-anthropic-ipo-summary",
-     "published": "2026-10-26T22:24:02.870Z"
+     "published": "2026-10-26T23:19:30.977Z"
     }
    ]
   },
@@ -54,10 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Mayulu, Godts send PSG top with win over Olympique Lyonnais",
+     "title": "Football: Soccer-England and Bayern forward Kane crowned 2026 Ballon d'Or winner",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV2tHeVU3VzB6Ylhjb2tZZG56OXZhVkF4ZC1JWk5najlFN3ZDVUdwbjczQkpIZHEyZ3JSdTZfZFJ0cGNoMG5MU1VjbXdReExCUUw4eFJyQXhQZTgtUEdKWlo3SFY4YWVZQ25YNW94NnlMVmJURjBPN3BnZ1RqNDVESWVLeXhUTzQweWlOZkw2dzEwYUhFbVNGVTd5RzNTc1o1ZkZ1QzVBZk5fdmRnZHV1ZXZGSWlyX2ZGc2c?oc=5",
-     "published": "2026-10-26T21:43:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU3lsd3JLR2xOeUwtWWJTZHhBWHQ3cERvT2NWWVp5LTEwLUd5Xzd5Yi11aHYzNDhkUGEtTWZzUXMwUmFBVTE5TGlOLXp4d2hVcnJtQTFHYWZ4WmFxSF9ma2RuMUhGWVBFbFZMbmRybE9iOExGRnVCcXZpYWgxVXp6SWY5U1RwS0pEZVlnR3dLbXpQR2hQZDRlNUN4STJTYU44NWtDN1dleVh3a1FZYXRhcmIxZXJCbzA1am90bzJWQTdKWm8?oc=5",
+     "published": "2026-10-26T23:03:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Putellas wins 2026 Ballon d'Or Feminin award",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy03RHZWMXpONjNwRTlxRWNTa3F1TG1wMlVrWGdPQ1VYOXhhVmo1bUJrTXRVN1dueFdHOXdiSWdId1FyS2czcnJIZDVZbXF0ZThGdkk2anUzNktoZUdZaXVBWF9QdERHZFI0TjVmRDRsWGJKZ0owUlNJWTNTQ2FxTmlndHVLcjBYSUFIeW1ldFBaV0VubFVrOXRtZ01SQnIxVHZkZkpUcEFhQQ?oc=5",
+     "published": "2026-10-26T22:55:00.000Z"
     },
     {
      "title": "Libya says international safety warnings on its airspace lifted",
@@ -66,16 +78,10 @@
      "published": "2026-10-26T21:22:00.000Z"
     },
     {
-     "title": "Trump approval rises from record low to 32% ahead of midterm election, Reuters Ipsos poll finds",
+     "title": "U.S. stocks close higher",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSWtZZDdNa2w0V0dHNGtWNlhwNHQyU1lsaE1JUTFhMjU5OTRfQjN6THJadUd0N0VCQXVzdGpUM3kza0s4T0hUZ0UwYXptZHZHcDF1eE1vMlhvNUd6bmdMYTB4SVVnRlhIODd1WG5hX3p6TzdWUDhHc29rQ3JoVWc1YkE3dGdVUnRqWG4yZlRXcW1OZjhSSFl6NjJ1S19uMVR2SEtRczZGdVU1bkFrV2Q3em5zeVhIM0dEc0J0OFpKX24wMlFuZXRXc1JJNkpUOXZYc1YtN0JMQW1ydw?oc=5",
-     "published": "2026-10-26T21:08:00.000Z"
-    },
-    {
-     "title": "About 22 rescued after church building under construction collapses in Uganda",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR2Y2OGVqTzVUVXJBdlpvQ2dGaVZ3emRFbThsWDJXYjlwVi12VUltV1h0ZVlvWVNqRDBjUG9ycFZVUmdkQWlTQm9ZU2cyYzVsM2ktZUxjRGdwcEZ3THViSnJsbzg4NDB5V2tNZzNjSXBqVnhicGdZajlNdGo2OHBuclhIT0Z2Rk9MTDhRR2N1TEFLVDNQRGQ5V3lXdEw3bHpVeXZYR19HX3pobUZfTENnanQ3UnM4cXBuRWd1cmZxZVFIaVpy?oc=5",
-     "published": "2026-10-26T19:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYk12THVvLTZ2TkV5Mjc0VU5OQVNiNnNhc2pjQldfQ1h0c0ZINEt1N1VucW8zdzg3YVd0MXdkcnlpX0xkRGFrY0RNVF93NDBIcm9iMjhmU01qSTRBdzl1aGtiQUdFckRyWXlzZ1ZUYlozY2g0b3J2N2o4dw?oc=5",
+     "published": "2026-10-26T20:15:00.000Z"
     },
     {
      "title": "Crude futures settle lower",
@@ -84,28 +90,28 @@
      "published": "2026-10-26T19:14:00.000Z"
     },
     {
-     "title": "Bolsonaro allies recognize Lula's victory despite election challenge",
+     "title": "U.S. dollar ticks up",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUo3MnIzd3NqSTdidnN4bml3N1pvUzRDb0hIdFdYTkhoUzU2d0lMWWNka0lyd0w1eDdRMmZEZDVwcEJuVi1ERzlKZmpWZmhPRGZiazBZdmNJUHRreEVfWGpNRktsSklKM05oMENTZVgzSThReTIwVHhlZHFuTkR2eEVOR3ktVE9aQ0NNWlVMMjFBd2F4ekhub0lsTWNoSnNXOF90SlNIMldDT2xSVFVLU0VXbDJZRXNMZEJF?oc=5",
-     "published": "2026-10-26T18:25:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSjNtUXlpaGtKTE9TWkNPSi1VTzdtdlI3VEtucE5tQlpwalJSNU9renB2TnFDZVJJMVpRSG1sWGpFSlBZSlYxVkxQNmtzR3BtWUV2SE9DY1R5OC03STFwTnFzMm81V1JMT29pLXdRYVU5T2V3QWc?oc=5",
+     "published": "2026-10-26T19:14:00.000Z"
     },
     {
-     "title": "Soccer-England players leave pitch over alleged racist incident against Ireland at under-15 World Cup",
+     "title": "Microsoft is offering buyouts to around 60,000 employees, Business Insider reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMTJMR3ctcWdhNzlMWl9QV2Q4cUl4aTQ0SldEODREaGh4WDZZS0V4Q2M5akNGbi0yZ0E2aEhEXy1aQ3ZTZ1N4VGdvUnlieEZocnFMQXZtZ1czek9qVFhaRkU2VkNpc2hBNy13U2J2ME1lTVBhRmlwamNYeUVhaEVBSHQ3YzVZWjdTMWtIZl9NUXUzMF90VDdoZVlUTVdsU3pJSU9NeXdOZ1E4Y215RVZvaVlaNmJsWWxGeW5LS3RhQXF5bkI4ek5tSGMwX0duclV0X0tVejRqVkc0cktNY09hVFVBY280YkZhX2c?oc=5",
-     "published": "2026-10-26T18:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWxOYWd2V1BYUTFLMlJoRWQ5eXBzRy1VTy16UjNSQ1k4NUxGcHlSbUVfaFk5cFNab3lYQ0o5Q0xvemxoY0t5MlF2U2tfZV9pX2FxOHF6MXl2QkNhT293OGgxTE9HSVRmcTZLcFFTNEdfVzV6U04tblZCRTZXZGpIbVVPSG90dEVkMFMxSGtacFNyX0lqQXdOMUk0dmZMNWplYWU1bVk0YmtZVGVIeTBneG8xekI0VFo2QzI5WmdEZXY1endtYmpfcTZVQjgtQQ?oc=5",
+     "published": "2026-10-26T16:22:00.000Z"
     },
     {
-     "title": "Tennis-Sinner set to return at postponed Six Kings Slam",
+     "title": "Tennis-Chwalinska withdraws from Tokyo Open due to thigh injury",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSExGOU53SXBfTEhhX3U4REktQkNFUWhxVXI1UmJPT3QwbDA2UU95ZVRkWmd4RnpCNDRkcGJ6UjNrVWpiX3hNZDJzUmg0Wmc1TE8ySXBvdmpkZXNfd2VfS2g5Y3dNbnEtWGliNEllTWI1aGRXTkh0VFg3bG9XYjVNLUtocWtQc0tIWmJ4eVlNUVVfWWFCdFJ4V1VhTHE0elJsZWR0X3lxVmh6QQ?oc=5",
-     "published": "2026-10-26T17:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUFvNHg0S2E2TEtfbjU4YTVkM0t3aV9ya3ZvZHJhb2M5c0dPNk1UVFRrYzBHV3poOTdCZHAzeGxjLVdKLWFncmVxcnFyeEN0cTRSRzJlM0cyWG5XaDBrMHhKWUZHUjluR0w1N0Iwa3FkTnVMa3FRQU9PTjlKT2Q1ZWhpZDg1Rk1Vc1hXazFBZW5HeFRsR1NwNnpQVnNweHZNR29GX0d3R28zVUt5TUl2VFNkNC0?oc=5",
+     "published": "2026-10-26T14:31:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
