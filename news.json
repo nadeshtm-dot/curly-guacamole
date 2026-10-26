@@ -1,44 +1,50 @@
 {
- "updated": "2026-10-26T20:29:42.608Z",
+ "updated": "2026-10-26T21:30:42.486Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Kristi Noem’s ‘official statement’ on X wasn’t approved by officials, sources say",
-     "brief": "A little over a week ago, an “official statement,” appearing to be printed on State Department letterhead with its seal, was posted on Kristi Noem’s official special envoy X account and her own personal X account…",
-     "link": "https://www.cnn.com/2026/10/26/politics/kristi-noem-x-statement-not-approved-officials-say",
-     "published": "2026-10-26T20:29:42.757Z"
+     "title": "Trump has made transactional promises in roughly half of states holding key Senate contests",
+     "brief": "President Donald Trump kicked off his general election push at last month’s Republican midterm convention by making voters a highly controversial offer: Keep Republicans in the majority, and every US adult will get…",
+     "link": "https://www.cnn.com/2026/10/26/politics/trump-campaign-promises-midterms",
+     "published": "2026-10-26T21:30:42.662Z"
+    },
+    {
+     "title": "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
+     "brief": "A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her.",
+     "link": "https://www.cnn.com/2026/10/26/europe/switzerland-nigeria-ebola-intl",
+     "published": "2026-10-26T21:29:42.714Z"
     },
     {
      "title": "How Lula beat Bolsonaro, broke records and halted the region’s right-wing wave",
      "brief": "Luiz Inácio Lula da Silva made history on Sunday.",
      "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T20:28:42.847Z"
+     "published": "2026-10-26T21:27:42.711Z"
     },
     {
      "title": "Machado finally made it back to Venezuela. Her challenge now is to pressure Rodríguez without upsetting the US",
-     "brief": "Maria Corina Machado’s return to Venezuela not only challenges Washington’s vision for the country’s transition, it also puts pressure on acting President Delcy Rodríguez by heightening tensions within her ruling…",
+     "brief": "María Corina Machado’s return to Venezuela not only challenges Washington’s vision for the country’s transition, it also puts pressure on acting President Delcy Rodríguez by heightening tensions within her ruling…",
      "link": "https://www.cnn.com/2026/10/26/americas/machado-venezuela-return-analysis-latam-intl",
-     "published": "2026-10-26T20:25:42.806Z"
+     "published": "2026-10-26T21:26:42.700Z"
     },
     {
-     "title": "Catholic bishops apologize after video shows them praying over Trump in Oval Office",
-     "brief": "Two Catholic bishops have expressed regret over attending a meeting with 10 other prelates and President Donald Trump in the Oval Office, saying they were “exploited” and “manipulated.”",
-     "link": "https://www.cnn.com/2026/10/26/politics/catholic-bishops-trump-praying",
-     "published": "2026-10-26T20:22:42.798Z"
+     "title": "I asked Claude to explain Anthropic’s IPO",
+     "brief": "What does Anthropic’s chatbot, Claude, think about the big initial public offering ?",
+     "link": "https://www.cnn.com/2026/10/26/business/claude-anthropic-ipo-summary",
+     "published": "2026-10-26T21:25:42.641Z"
+    },
+    {
+     "title": "Kristi Noem’s ‘official statement’ on X wasn’t approved by officials, sources say",
+     "brief": "A little over a week ago, an “official statement,” appearing to be printed on State Department letterhead with its seal, was posted on Kristi Noem’s official special envoy X account and her own personal X account…",
+     "link": "https://www.cnn.com/2026/10/26/politics/kristi-noem-x-statement-not-approved-officials-say",
+     "published": "2026-10-26T21:24:42.646Z"
     },
     {
      "title": "Venezuela’s Machado returns from exile to crowds of cheering supporters",
      "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
      "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
-     "title": "Brazil’s Lula completes stunning turnaround to secure election victory, as Trump ally Bolsonaro rejects result",
-     "brief": "Brazilian President Luiz Inácio Lula da Silva was reelected to a historic fourth term Sunday, but his defeated rival and Trump ally Senator Flávio Bolsonaro said he would not accept the results and would mount a…",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
      "published": "2026-10-25T12:00:00.000Z"
     }
    ]
@@ -52,12 +58,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEc2Uzl5c2N3S2FUaTJlSEFfcjdjUDY3aFljTnIxdzJSdjJGM3V6YnJ5YlFENW1vYURjQzl0SDhEMExZUWt1aEJ2ZEF4aklQZ3VlQmJFbnJwWTd5ZkppUzlZT0JBS0kybVZra1BjbWJvVHNSS2ptQ1JoQWFzS0RoMQ?oc=5",
      "published": "2026-10-26T19:14:00.000Z"
-    },
-    {
-     "title": "Slovakia to improve security in healthcare facilities amid attacks on medical staff",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRU53TUR4U3NlcEFScEFNenpiM0dTSk1hV3pVV3NLU3JYZ2JLV3FzX1FvTG1aRlQxNjZjeFlSQzFMNE9qeWtDNGk1ZTBfZHpYblNZcGUweVdGRy1CQXVTbXFrQkI4QWo3OEl2YXRZZld1LU1rM1hqczNkczZwejBvZF80NzNqRU9pd01kVTNlZk5SYWw1dm1fdVM4VzNJWlV5Qk5IdzhYS1JBLTFrRm03NEt5MnQ5c0RiOXNSd0R0Ykgya1dZOHJObEU4Qm4?oc=5",
-     "published": "2026-10-26T16:19:00.000Z"
     },
     {
      "title": "Tennis-Chwalinska withdraws from Tokyo Open due to thigh injury",
@@ -84,22 +84,28 @@
      "published": "2026-10-26T12:02:00.000Z"
     },
     {
-     "title": "German climber dies on Nepal's Ama Dablam mountain",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2hlYnAwTlU2bElzMTNVOUZXcC0zdE5oQUpaSzlIOUoyNGMwaTJNRld1X25XVldxN3R5NXRtWlhNU0dma2dWV3lCRWJSUDkydGpKVWFobTQ1bjBaT1Zla19IcEF3ZU5RWmpGTXotNjhOWm5YS0FCdmRfNlUzYV9RT0dMeGVjT2pjcDRCaEJnWEd0R1lIMXczUXhyM0lZZEVrV0lv?oc=5",
-     "published": "2026-10-26T12:01:00.000Z"
-    },
-    {
      "title": "No further cancer treatment needed for Pope",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMUYwYUNNQWVGbC1nUnZrbzRCcFIyWjJPVGFrM1hQLXQwaEpLZ3VZNnBsZUpEYXA3SUJGd2NnenRJcUpQdllfNGdJRnh5U2lTRWQzc21NcG5ZX1psaGNJX3g5d2RLV0ZiOFJvSmxTVUltYlllbjZjQlFwQzBSM01uZmJaTzVVVlFqRi1MTzRXRVJ3TW82VEp0UlRHbEs3azA?oc=5",
      "published": "2026-10-26T12:00:00.000Z"
+    },
+    {
+     "title": "Schoolboy hit by car at pedestrian crossing",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVVhOYTdJdmthTEhvY256YnhUdzVyOEFEaWozZlc0TWU4UEZ1b2d4ZTlZdzFjbG5RLXo0Z3kySkJqR2dLYVZQOUpZYXFqZGk2bURRSmdlb0RqSXAzOWVWNE5Cd1hRdXF5Q3Y1Z3ZrX3JKV2VPdW9jOFVDeF9ZaExDVF9YLW5oRTNWcndSdWI3OFB3bmJ6bkY3cQ?oc=5",
+     "published": "2026-10-26T11:43:00.000Z"
+    },
+    {
+     "title": "Badminton: Rosman believes Pearly-Thinaah can inspire a new generation of women's doubles stars",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVZWY1VtZDdQd1RxMU8zWGdzUXFmWWIyUWZrVFBkNmhyOXVsRmJPSTB2bzJGSE9BMVpIMjF6bVVTbVQ5dGpBLXpodEt1OUpXeUtMSlBIOEFyMU9rczVObUhKVXlQZlJrWjJTZW5FbUNxNm5WdWtrc3dEVDI1TnlqQjdxenhqbVhhTDVxcFFRbG5YNDZ1OGl1NVotaFlHYWtFTDVBNkNwQ29Ga1NxaS1VNUJaVlJXTGlrMFFaMlVwT0RnMl9meklmMDFSZElUWkQtekZKS3Bwaw?oc=5",
+     "published": "2026-10-26T11:37:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
