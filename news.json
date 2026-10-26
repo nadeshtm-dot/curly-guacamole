@@ -1,27 +1,45 @@
 {
- "updated": "2026-10-26T09:38:40.367Z",
+ "updated": "2026-10-26T10:36:49.300Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Covid launched a new era of technology-led learning. Now, some parents and school districts are ready to toss devices",
+     "brief": "Dr. Yair Lev said his second-grade daughter suddenly went silent midsentence as she scrolled through a math app on her school-issued Chromebook last year.",
+     "link": "https://www.cnn.com/2026/10/26/us/schools-anti-tech-parents-movement",
+     "published": "2026-10-26T10:36:49.535Z"
+    },
+    {
+     "title": "AI is exposing how fragile the web really is. What you can do to stay safe",
+     "brief": "The vulnerabilities were around for years — more than a decade — but researchers were only able to understand how hackers could take advantage of them with the help of AI.",
+     "link": "https://www.cnn.com/2026/10/26/tech/ai-internet-safety-tips",
+     "published": "2026-10-26T10:35:49.595Z"
+    },
+    {
+     "title": "US has plans for major Iran strikes if Trump chooses",
+     "brief": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran “within 96 hours of receiving” an order from President Donald Trump, according to two US officials.",
+     "link": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
+     "published": "2026-10-26T10:33:49.593Z"
+    },
+    {
+     "title": "Bird flu is raging on a mink farm. It could spark a human pandemic, experts say, but officials won’t act.",
+     "brief": "This story was originally published by ProPublica , a nonprofit newsroom that investigates abuses of power.",
+     "link": "https://www.cnn.com/2026/10/26/health/bird-flu-mink-farm-propublica",
+     "published": "2026-10-26T10:31:49.600Z"
+    },
+    {
+     "title": "Gas under Trump 2.0 is now more expensive than it was under Biden",
+     "brief": "On the campaign trail in 2024, President Donald Trump promised to make gas dirt-cheap again and blamed record-high gas prices on the Biden-Harris “war on energy.”",
+     "link": "https://www.cnn.com/2026/10/26/economy/gas-oil-trump-iran-election",
+     "published": "2026-10-26T10:30:49.564Z"
+    },
+    {
      "title": "Eric Bauza, voice actor behind Bugs Bunny and other Looney Tunes stars, dies at 46",
      "brief": "Eric Bauza, the voice actor behind the modern-day Bugs Bunny and Daffy Duck, among other iconic animated characters, has died at age 46, according to his family and official health records.",
      "link": "https://www.cnn.com/2026/10/26/entertainment/eric-bauza-looney-tunes-voice-actor-dies-hnk",
-     "published": "2026-10-26T09:38:40.739Z"
-    },
-    {
-     "title": "Condo sales prices are dropping, but new rules may complicate affordability",
-     "brief": "In a housing market where affordability is increasingly out of reach for many buyers, Vic Bulbon is looking at a type of property that’s becoming less expensive: condominiums.",
-     "link": "https://www.cnn.com/2026/10/26/economy/condos-housing-affordability-hoa-fees",
-     "published": "2026-10-26T09:36:40.594Z"
-    },
-    {
-     "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
-     "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
-     "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-     "published": "2026-10-26T09:31:40.641Z"
+     "published": "2026-10-26T10:29:49.598Z"
     },
     {
      "title": "Israel is holding its most important election in years. Here’s what’s at stake",
@@ -30,27 +48,9 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "US Marine indicted over alleged murder of woman in Okinawa",
-     "brief": "Japanese prosecutors have indicted a US Marine on suspicion of murdering and robbing a woman in Okinawa earlier this month, multiple Japanese media outlets have reported, in a case that has prompted renewed outrage…",
-     "link": "https://www.cnn.com/2026/10/25/asia/us-marine-indicted-murder-okinawa-japan-intl-hnk",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
-     "title": "Brazil’s Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
+     "title": "Brazil’s Lula completes shock comeback to win reelection, as Trump ally Bolsonaro rejects result",
      "brief": "Brazilian President Luiz Inácio Lula da Silva was reelected to a historic fourth term Sunday, but his defeated rival and Trump ally Senator Flávio Bolsonaro said he would not accept the results and would mount a…",
      "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
-     "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
-     "brief": "The threat of an ammonia leak from a burning seafood plant in a coastal Oregon city has been contained, authorities said, hours after a fire erupted, prompting evacuations over fears of potential health risks.",
-     "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
-     "title": "Venezuela’s Machado returns from exile to crowds of cheering supporters",
-     "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
-     "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
      "published": "2026-10-25T12:00:00.000Z"
     }
    ]
@@ -60,10 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Haze: Serian highest among four unhealthy API areas at 5pm, Oct 26",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVEY4TElEYzlFRzM4R2plT3lZdlNvYm03ckN3WU1VN202ZDUwcC12SjI3WUJIQ25KNHl6c3VmanNjbGtyOTF3MDhjUDdMMnJfaXVxWjhZYlk4OW1vcXB2YXpoZEVoM0M2RmlvX2tNdTA4d21LMWdqcWUyN3c4ZmhIamM3d0dVR05nUzdjTTduQm55MDdTYjg2QnVpR0c5QkJnU3NjOG5fVUVkWDZlWXpTTVp1NWY?oc=5",
+     "published": "2026-10-26T09:42:00.000Z"
+    },
+    {
      "title": "India's Tata Communications to spend $450 million on AI connectivity infrastructure",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTHFfaHM5UmFTaXJBZGQ4R1Z0RVVoZTExODlyLThrbUZacWNRUGtxdjNQcnlGdlBqUThNbXg0Tjk0UGRlZS05MkoweHN0eHFkekFKZWh4NVpIanpZcGZXeU9zYmtLMnJpc2FycEVZSW03YV9hN3p3Uk5wRjdqbjFLaEIzUFlMZ2hhQVRyRUJ6RjlEaGhoZmpvWWp3T2FuWHZpR3pQUHpIQ3FvWm9TX1piNjg0SnFlcFl6ckZ3ZlB3QWFsSmY1aG5tYjNpNTMzWjdJMnc4?oc=5",
      "published": "2026-10-26T09:22:00.000Z"
+    },
+    {
+     "title": "JTIASA-C19 (438319), JTIASA-C19: CW JAYA TIASA HOLDINGS BERHAD (KIBB) - Market Watch",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVZlFPWTVZcXkwVTR2bWE1UWdJWkxreHRQdnE0UkI3bjJEVEVCMG8xeFphTjJ5Q01Ra21kcFRsMVR0U01GRTBuS2J0akplbEtqWXZXRllmZmN1Wl9rWDBuTjl5SDN6SDNsbmQ5Z2lNN3hDeU1PSFA2R3BmWl9wMEE?oc=5",
+     "published": "2026-10-26T09:20:00.000Z"
     },
     {
      "title": "When speculation becomes a public verdict",
@@ -84,28 +96,16 @@
      "published": "2026-10-26T08:44:00.000Z"
     },
     {
-     "title": "EMPIRE-CF (5351CF), EMPIRE-CF: CW EMPIRE PREMIUM FOOD BERHAD (MIBB) - Market Watch",
+     "title": "HARTA-C3V (51683V), HARTA-C3V: CW HARTALEGA HOLDINGS BERHAD (AFFIN) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LQWNIdnVDV3JrM1FPZ295TmZHeXJybktYTmZOU0dmYk1FSGdQU0xINnBoV3oyeS1OWWxhVkRKSU8zZmxZT1hWNnpOZmRLd2dDQUVveUNjNGJHSDZUME0xVkVsYUFtNjE3LVRmTTZXNmtJNWd5S3lrSURtbXZsQQ?oc=5",
-     "published": "2026-10-26T08:10:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZ0QzNHlualhPWERDOU1IUnc4RFo1dTJoWkVFVHFSdWpnRlNWZ1RXZEZoakFOQUtUSU15UnZwOTBfS2hqXzRhSG9FNjducW4zUGtXSTFXTmE2V2FGbW1rNzRUS0xsVGJ1Zi1aVkppUjlmeWlUR3BwdkU5MWhLQQ?oc=5",
+     "published": "2026-10-26T08:38:00.000Z"
     },
     {
-     "title": "UK's Burnham says he agrees with principle of migration reform",
+     "title": "Respite From The Haze",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRThJajJpY25jQk1TTTBaTHdqMVpvTDBFaDRQZk82bmx4Q0FMVW1kdlh2Z2oxSGstMlkxVFJFSm1KOGxJWi1BbG1FS0tDMTJadWR1YVVFVTU5ZWFiWFI1dzZRbm1KOHNwRkdpS0xwVGlPNFlpSEUwS01YM1I4T3FiZUJZUWtDVVZJS3hsbGlTdkNpR1VreG9CNjRUdlNBdGdkUWtGeWU5bU80RFpxTlVlY0U3cw?oc=5",
-     "published": "2026-10-26T07:56:00.000Z"
-    },
-    {
-     "title": "When AI gives us the answers, what do we lose?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSUswbTNrUms2c05pUDZKV1JORDBwNy1CZVFhT1dER2t4X3NDRWRtOWYzeHZadkNnZnRjd2ZNaU01SWd0ZS12RjRHU2dGMG90a0tKMDBuSVdTa1dyNXVWQjVlM2VTbkhITldGQzZLVEkzRXgwUjc1Z2RNX0dGdmN4S3JVOW40VF92d2dDUW1uc29iaEFYMzF1cTZjd1lFRnM?oc=5",
-     "published": "2026-10-26T07:49:00.000Z"
-    },
-    {
-     "title": "SCGBHD-C10: CW SOUTHERN CABLE GROUP BERHAD (MIBB)",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ZTlhGWDRURk5ZRG9aRzliMU9SaC1Dc0hKd0tkaVd0d2lnM2pQQ3F1aDhVVExpNzJYX3dLajV0MDVyN25SVzYtREUzTnVrdUN3LXdkUGZtSmxtOTZuNWYtWUc4NWlTYmNOUWZlQ1RrVVFnZWdOZDk3dlc1VXlqTjg?oc=5",
-     "published": "2026-10-26T07:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5acWdBRmlYWmJtQXpXOXdyVXJpTzhkLXRFN0ZVMzlEYmpGbHpaTFV4VDFvSklxeEZyc0hlR2d4emh3WC1RUFlXbnByS1ZvZVBRVzJVaWw4S3RDLTZKaUtwSk1UN0RjMzdZVWVJbC1CT1otV0VoaXhmYUFPVURjRm8?oc=5",
+     "published": "2026-10-26T08:22:54.000Z"
     }
    ]
   }
