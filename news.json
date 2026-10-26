@@ -1,32 +1,38 @@
 {
- "updated": "2026-10-26T04:32:20.274Z",
+ "updated": "2026-10-26T05:31:37.746Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
+     "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
+     "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
+     "published": "2026-10-26T05:30:38.104Z"
+    },
+    {
      "title": "How Lula beat Bolsonaro, broke records and halted the right-wing wave aligning Latin America with Trump in 20 days",
      "brief": "Luiz Inácio Lula da Silva made history on Sunday, setting a record for Brazil and the rest of Latin America by becoming the first president to win a fourth term – and he did so days before turning 81, an age when…",
      "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T04:32:20.437Z"
+     "published": "2026-10-26T05:28:38.070Z"
     },
     {
      "title": "US has plans for major Iran strikes if Trump chooses",
      "brief": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran “within 96 hours of receiving” an order from President Donald Trump, according to two US officials.",
      "link": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
-     "published": "2026-10-26T04:31:20.486Z"
-    },
-    {
-     "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
-     "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
-     "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-     "published": "2026-10-26T04:30:20.498Z"
+     "published": "2026-10-26T05:27:38.097Z"
     },
     {
      "title": "Venezuela’s Machado returns from exile to crowds of cheering supporters",
      "brief": "After more than 10 months in exile, Venezuelan opposition leader and Nobel laureate María Corina Machado has returned home to a political landscape that has been reshaped by her ally the United States without her…",
      "link": "https://www.cnn.com/2026/10/25/americas/machado-returns-venezuela-latam-intl",
+     "published": "2026-10-25T12:00:00.000Z"
+    },
+    {
+     "title": "US Marine indicted over alleged murder of woman in Okinawa",
+     "brief": "Japanese prosecutors have indicted a US Marine on suspicion of murdering and robbing a woman in Okinawa earlier this month, multiple Japanese media outlets have reported, in a case that has prompted renewed outrage…",
+     "link": "https://www.cnn.com/2026/10/25/asia/us-marine-indicted-murder-okinawa-japan-intl-hnk",
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
@@ -42,12 +48,6 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "US Marine indicted over alleged murder of woman in Okinawa",
-     "brief": "Japanese prosecutors have indicted a US Marine on suspicion of murdering and robbing a woman in Okinawa earlier this month, multiple Japanese media outlets have reported, in a case that has prompted renewed outrage…",
-     "link": "https://www.cnn.com/2026/10/25/asia/us-marine-indicted-murder-okinawa-japan-intl-hnk",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "Trump rails against Bill Maher in his longest Truth Social post ever",
      "brief": "President Donald Trump has just penned his longest Truth Social post ever, according to a CNN analysis and a third-party tracking firm.",
      "link": "https://www.cnn.com/2026/10/25/media/trump-bill-maher-truth-social-longest-post-ever",
@@ -60,10 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Magnitude 5.2 earthquake strikes Hindu Kush region in Afghanistan",
+     "title": "HCK Capital opens sales gallery for RM1.3bil Hijauan Heights township",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaHlhMjBJM2hmUEVLTUwwRGd4ajBuZUhnYjdYdXV1TFRTLWFzLXMzVVpHY2FLYVBYRzVZSEx3UFh1ajNvQ0hkcjFNSmZKNmdkNkhWTFdtZjB2UHJBajFDRzV6ckxvWmlxTHFuQTJOU3BUYklQU2t3V213dUx5S3NlRHh2OEVObnhPWGF0dUtmT0p5SnhKS0VYNkxWUll1TUlqUkNWaXhQeEpZT0ZvRTJWaUs1aV9KQTAydVU5NVltQXg3Wm5IS1E?oc=5",
-     "published": "2026-10-26T04:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPandNdlZwTmxhNUw2b21NSXF6MlQwV0xQRXBDRlk4TDI5YUNhcF81MVR1Q3Jja05TR1dVcEtlTjhseDJnaVI1bm4wWFROVnBDNUxsMzQ1aG14Z21jUlFGQ0xVYzVVam5oYjlTSksxbl83RHN1RDVvZDhiendnN2V0T0FqZ2Z0UEl6WVhIMWR3di12dnUtdjBDQUFRWDZQb3NYTUZCajhzZHhvb1FpTHc2cnpqOUh0OXh1bmRxVlNtcEpvZXlKVmhJNg?oc=5",
+     "published": "2026-10-26T05:06:00.000Z"
+    },
+    {
+     "title": "Jordan arrests three suspects in deadly church attack, state media says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV01Hb3JoenRYM0k3SFM3MlBsUTRyV3JNT0dQZmROTWRhd3VZZE1qZ09NSk45TEk4ODNlWTU3ODlMRG1id2pxLTVNNzdmTHZ0TEpES3BPVjlDeXFQeExkMWQxdTdXd3JnVFpRcjJwOWpLMnpVVHZ6bWRNaGpXaFFhZGZvOGFtZDhPSzhGazNoeUo0d1pVeHBpNlBmWkNadDBnbS03WUNiUW5yMVBQV2VHSS1PSGFvZkp5OEc0?oc=5",
+     "published": "2026-10-26T04:26:00.000Z"
     },
     {
      "title": "A 5.2-magnitude quake hits Bonin Islands, Japan",
@@ -76,6 +82,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY0YyRy1GdDV6eko5SGc0NXR4MEpULUpVNi02V3VTX19rUmJRWUkwWFhhTWs3Z3Utc1RuMzRqcTVGUzdJSFRBT0pLbUFXRVhBbHl0X0NpeDZyTzRyb0h1SGNIamppOGExQjZTQ1dIZDlxOWIxWWR2QlA2M0VhSFJTaWJ3UG4ybEFDdHBpLVR5OUZRRnVoQjdFREc4Z0xqMEtzWkI1OGZ2d09JZE5wRFFEaVFBWm5jdUFV?oc=5",
      "published": "2026-10-26T03:01:00.000Z"
+    },
+    {
+     "title": "All 19 crew members rescued after sand dredger sinks off Kuala Kurau",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXJVbzkyWmRIdlh1SGN6Skp0Yzc0dXM3RnI3RV9yZ0RpSkRReEZMdkQtODdkdjI4ZGQ1TTNxQzM4WDZKcXRKS05GSm95S1Q5dkVOMlhaVXQ4QVd4Xzl6VnFmcE5tOTZFblVZV1NneXJQcV9SQmJDWmk1N2RkNmxZT3hkeEtVV2FCc3hSdGpLTG1yODdXbmVYQi10SmlBLXJ4TWJ3UFBCVXd4WDFncDBvQkI2Y0tCbWVyOEE?oc=5",
+     "published": "2026-10-26T02:55:00.000Z"
     },
     {
      "title": "Moonshot resets subscriber quotas after Kimi K3.1 Pro launch issues",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnFPdS0wQlE0QnlNbmUyQldfZ0ZHUWpSSTc2eXVCUmJOSFZITUx5dnJLWFJYOFBjMTZ4MEItWHl5end1Ykg5cWxUR0UyVE13M3MxSDRsd0c4Z0hMM0g3c3lwdEZHMmtBV1RYaGdNNlpWNTkwalFiN0RyaXZCa1ZieU5qa2YzUnVVTlUyTnVWemIwYUVVbEpjTHhLSHRXNXJ2NVFkQVUyQ2hvRmJfakNSSmlpRkJxUGMwVm1oNDFtTU5CRDMtZl9MSQ?oc=5",
      "published": "2026-10-26T01:47:00.000Z"
-    },
-    {
-     "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSndJRVIzUWw5NEJZcGFmSFY2eWJ3LUo1NTA2REtOMUs0WWZQR3VKYk1mVGNkbkJMSndVWEhtdWViRWMxdGctbGt5VjdGOFpHMFJibGJIS3dNMGQ1NW5pMHdxbDMzOG12eFQ3a0FDVURNcFdYRThoTXlvLXlZaEhZLU9QQ3FBRmJVMDBhUE5RQ3BrTEMtdkNyN2F3RlVpS2RiR1ByTjlhbHNRX3g1cWk3Q3hR?oc=5",
-     "published": "2026-10-26T01:27:00.000Z"
-    },
-    {
-     "title": "Hockey: Raw but roaring",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wUl9ZTHJOelYzeXNUM21qUldMNVFQeVVsdjF3b0NFUnVjbGl0OHROTjYySVZuR2xialdOZ2g4ZnlSUjdnOEw3RG4wRnNfd1JWRERObks0UDZXc0lBZnp6ZmxadTJGRlo4aXhCdjdndW5kdncz?oc=5",
-     "published": "2026-10-26T00:56:46.000Z"
     }
    ]
   }
