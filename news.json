@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T07:48:27.057Z",
+ "updated": "2026-10-26T08:42:07.305Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,19 +9,25 @@
      "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
      "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
      "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-     "published": "2026-10-26T07:45:27.333Z"
+     "published": "2026-10-26T08:38:07.584Z"
     },
     {
      "title": "How Lula beat Bolsonaro, broke records and halted the right-wing wave aligning Latin America with Trump in 20 days",
      "brief": "Luiz Inácio Lula da Silva made history on Sunday, setting a record for Brazil and the rest of Latin America by becoming the first president to win a fourth term – and he did so days before turning 81, an age when…",
      "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T07:43:27.380Z"
+     "published": "2026-10-26T08:37:07.579Z"
     },
     {
      "title": "US has plans for major Iran strikes if Trump chooses",
      "brief": "US forces in the Middle East are prepared to launch new, potentially major, military operations against Iran “within 96 hours of receiving” an order from President Donald Trump, according to two US officials.",
      "link": "https://www.cnn.com/2026/10/26/politics/us-iran-strike-plans-trump",
-     "published": "2026-10-26T07:42:27.369Z"
+     "published": "2026-10-26T08:36:07.590Z"
+    },
+    {
+     "title": "US Marine indicted over alleged murder of woman in Okinawa",
+     "brief": "Japanese prosecutors have indicted a US Marine on suspicion of murdering and robbing a woman in Okinawa earlier this month, multiple Japanese media outlets have reported, in a case that has prompted renewed outrage…",
+     "link": "https://www.cnn.com/2026/10/25/asia/us-marine-indicted-murder-okinawa-japan-intl-hnk",
+     "published": "2026-10-25T12:00:00.000Z"
     },
     {
      "title": "Brazil’s Lula wins reelection with victory over Trump ally Bolsonaro, who rejects result",
@@ -42,12 +48,6 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "US Marine indicted over alleged murder of woman in Okinawa",
-     "brief": "Japanese prosecutors have indicted a US Marine on suspicion of murdering and robbing a woman in Okinawa earlier this month, multiple Japanese media outlets have reported, in a case that has prompted renewed outrage…",
-     "link": "https://www.cnn.com/2026/10/25/asia/us-marine-indicted-murder-okinawa-japan-intl-hnk",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "Serbia’s leader concedes defeat to student-led movement in seismic political shift",
      "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
      "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
@@ -60,10 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Bulgaria heads to presidential runoff after close vote",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2J1N3pKeXJHQjNvVnhoNkkyaXlKY19OVlhzNFpodlM1dEJ4c29rVlRaOVljM1N6VVRIVmtNeEJXMGZqeldoamRrckMtQlBXQ0ZEaXJTclA3OF9JdzE0V1lxYzBwXzVjTi1rbzdTam5pQXRxNkJhS1dmM3UwVGdCRzJOdFg3NmhKUHZUd0Jnd09QQTJyODhPeXJDWjU3aWxLd01wallR?oc=5",
+     "published": "2026-10-26T08:03:00.000Z"
+    },
+    {
+     "title": "UK's Burnham says he agrees with principle of migration reform",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRThJajJpY25jQk1TTTBaTHdqMVpvTDBFaDRQZk82bmx4Q0FMVW1kdlh2Z2oxSGstMlkxVFJFSm1KOGxJWi1BbG1FS0tDMTJadWR1YVVFVTU5ZWFiWFI1dzZRbm1KOHNwRkdpS0xwVGlPNFlpSEUwS01YM1I4T3FiZUJZUWtDVVZJS3hsbGlTdkNpR1VreG9CNjRUdlNBdGdkUWtGeWU5bU80RFpxTlVlY0U3cw?oc=5",
+     "published": "2026-10-26T07:56:00.000Z"
+    },
+    {
      "title": "Election to end all elections?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT1lCUmJDS2VSaTRLNm1JTHBkNm94UVNjb0VLQWZRb3hDYkpvYzlLUzdxRWRLNllvZGx3UXpsVy1oLXNrX2N5bHl6ekkyeU5QZXZtRFY4dzM2RVdCendjbl83NWZDcWlOeTBpSFJIYWdnVmZ5b21vOHNmWmdYbzdvUzlJRHNCQmxyUzVjNFdGeE00bHZBYkdhaV9ZTHlLNHhqTEpmaFRBdlNYV2M?oc=5",
-     "published": "2026-10-26T07:36:47.000Z"
+     "published": "2026-10-26T07:36:51.000Z"
     },
     {
      "title": "Indian opposition leader Rahul Gandhi acquitted in defamation case, TV channels report",
@@ -78,34 +90,22 @@
      "published": "2026-10-26T05:58:00.000Z"
     },
     {
-     "title": "QuickCheck: Is Mosti soliciting payments through informal communications?",
+     "title": "Thailand warns 14 southern provinces of heavy rain and floods",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUVlzUWJaSGl4cmsteVd3SURiekFsZ2VtQk9MUlBweXhhdnZ5UVBiR1hFbllwa1Vmc2VXV0FnUWVvRDgwVlozQkoyWmJjWVFVY0pUVU9hOXlwTTRNQVpGZG9YVmxXaHVfNUFrZ0hsdkdHS0FIS3pLQTZQUDlBZW9kV1R0LW5ZWk95bjBjRnRXWURXd3lpT3Vlck5zUVF0NU1XQW5aWkpRWEhockN5clM3eENDbjJXR0R6N2pCeTU3Wjh1cWhG?oc=5",
-     "published": "2026-10-26T05:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVGZ5YkZZZzM2YXd5X0p1OVlyMHg3TVN2SDl6b193N2NiSVREalJ4ZUxhUHN0YTNOWi14bWlTRFhudEhSRnRZWHVUdWtZYU0yclN4UG0tNVhxQXZORzBFbEJrYWZKVkhWUDVVQW1Sb3ptaGdCb3lvR0JKb1M2amdkZTZxS185Rmpnenh3STZ3cVVUZGFfdHVxV0RtdFd2N2xpRF96QkJhLUZVUW5zQkUxU3hFaGtlTjVEcC1DUW1ST1Bodw?oc=5",
+     "published": "2026-10-26T05:50:00.000Z"
     },
     {
-     "title": "QuickCheck: Was a crocodile spotted near a beach resort in Bagan Lalang?",
+     "title": "Six injured in Russian strikes on Ukraine's Zaporizhzhia, Chernihiv, officials say",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRC1BcUdYSEtSYms4bmtybFZnMHJGdk8tbWNXUElsbzBYSUpKeUlYR2ZyN0lOQ2VlMTBiU2N5RXVrYVpsV0JjSEhJTGtSNm1TNFp5LUR0Y1JlUWlrRFFZZktURE5JUDRuWXd2dFd1RDhsY09STGttTF9XNjFSaTlTUlJQdEVEU0k2bUg3UkF6OERvVkcxVktfV2ZXSFJtcVY3TUluY2FxU0NkaHhNQXUtNDRtLVJ2ZjhpeDFHS2NEWUJIdDA?oc=5",
-     "published": "2026-10-26T05:24:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRTAyUmtFUE9vbWFMNXQ1dkFwNXhkcEJia1QzUzJDVW9qZnQ4SW1CUG1tR2xEel9kMkNYTlluNEFBMmZoWnRvM0lrVVp4WUk3a1R5YlJHTHI4aTlvckVqdHlQVFlaWXBleElQOHBSTGw1b01tdFcyUzFVdzdkejhqa2w4Z1I5NllSYy1BOVR2Mzl6VXJIWm1jdTA4d21YNWxUd253bVY0QjRiM01Bc1h2T2FUTnNmRTVEZHI4QUhXOG93VFA1by15bTJTYw?oc=5",
+     "published": "2026-10-26T05:48:00.000Z"
     },
     {
-     "title": "HCK Capital opens sales gallery for RM1.3bil Hijauan Heights township",
+     "title": "Badminton: Popov lifts home title, set for world No. 1 spot as France emerge as force in men's singles",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPandNdlZwTmxhNUw2b21NSXF6MlQwV0xQRXBDRlk4TDI5YUNhcF81MVR1Q3Jja05TR1dVcEtlTjhseDJnaVI1bm4wWFROVnBDNUxsMzQ1aG14Z21jUlFGQ0xVYzVVam5oYjlTSksxbl83RHN1RDVvZDhiendnN2V0T0FqZ2Z0UEl6WVhIMWR3di12dnUtdjBDQUFRWDZQb3NYTUZCajhzZHhvb1FpTHc2cnpqOUh0OXh1bmRxVlNtcEpvZXlKVmhJNg?oc=5",
-     "published": "2026-10-26T05:06:00.000Z"
-    },
-    {
-     "title": "Jordan arrests three suspects in deadly church attack, state media says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV01Hb3JoenRYM0k3SFM3MlBsUTRyV3JNT0dQZmROTWRhd3VZZE1qZ09NSk45TEk4ODNlWTU3ODlMRG1id2pxLTVNNzdmTHZ0TEpES3BPVjlDeXFQeExkMWQxdTdXd3JnVFpRcjJwOWpLMnpVVHZ6bWRNaGpXaFFhZGZvOGFtZDhPSzhGazNoeUo0d1pVeHBpNlBmWkNadDBnbS03WUNiUW5yMVBQV2VHSS1PSGFvZkp5OEc0?oc=5",
-     "published": "2026-10-26T04:26:00.000Z"
-    },
-    {
-     "title": "Thailand hits back at Cambodia over two temples",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTmxKVGdWb19DbTVaSW1GS3JNVWE2MG5BTkpNNWtTQTVQTzg4WnlPWTVtX2piN0hiZFdiaVJFbDNCR0d2NldDYjkzYU5VSFhVSFlJdm9kOVJSZFpOR25Bc01pRjNwczdWZ1lDNGxzWEc1aGdFNFdidVBDeUFBRlBCM2tIandoVHVEOHlmUEYzWGxRVHJBcHhWS2JGdEFMWEdnN0J6dm5ULThXclhfeGpN?oc=5",
-     "published": "2026-10-26T04:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc1dmUURZRFZzMkJqNkVvaUd2amV4YmxvanpMNnlES2ticl9VU1p1cmFEQkhBaEJlS25pazhPcnhSbkhadEpoTFI0Qk9fR3Y1M0laSnpSM0lzOWlTUzFLMjUzY2N0MW5nNWFUOVFXZjdhRUx6Q19jckl1bGxjSXhiYldxR2N5aTB1Mm1RczRLbzd2N0NDNi1YNUZEVjhvZEphX2NJV0pKZ2dzamIxdUNINFRObHp2VlRKRWV5WHlzaHFkYWhWZFFYY3ZFRERKbXNsRjFWektxcnF3ZUNwMkE?oc=5",
+     "published": "2026-10-26T05:19:00.000Z"
     }
    ]
   }
