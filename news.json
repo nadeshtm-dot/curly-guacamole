@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26T16:00:39.730Z",
+ "updated": "2026-10-26T16:43:30.496Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,37 +9,37 @@
      "title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
      "brief": "Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how…",
      "link": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo",
-     "published": "2026-10-26T16:00:39.893Z"
+     "published": "2026-10-26T16:43:30.756Z"
+    },
+    {
+     "title": "Judge: Maurene Comey was illegally fired from Justice Department",
+     "brief": "A federal judge on Monday found the Justice Department’s firing of Maurene Comey, a former federal prosecutor who presided over several high-profile cases including those of Jeffrey Epstein and Sean “Diddy” Combs,…",
+     "link": "https://www.cnn.com/2026/10/26/politics/maurene-comey-unjustly-fired-from-doj",
+     "published": "2026-10-26T16:42:30.760Z"
     },
     {
      "title": "How Lula beat Bolsonaro, broke records and halted the region’s right-wing wave",
      "brief": "Luiz Inácio Lula da Silva made history on Sunday.",
      "link": "https://www.cnn.com/2026/10/26/americas/brazil-election-results-takeaways-latam-hk-intl",
-     "published": "2026-10-26T15:59:39.954Z"
+     "published": "2026-10-26T16:41:30.814Z"
     },
     {
      "title": "In Serbia, a very different student movement just ousted another European strongman",
      "brief": "Another one of eastern Europe’s authoritarian leaders has been vanquished by an upstart movement, with Serbia’s long-term president Aleksandar Vucic unexpectedly losing out to a student-led campaign.",
      "link": "https://www.cnn.com/2026/10/26/europe/serbia-election-analysis-student-movement-intl",
-     "published": "2026-10-26T15:58:39.939Z"
+     "published": "2026-10-26T16:40:30.767Z"
     },
     {
      "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
      "brief": "Russia is committing war crimes and crimes against humanity by intentionally attacking civilian infrastructure – including vital energy systems – in Ukraine, an independent UN investigations panel said on Monday.",
      "link": "https://www.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl",
-     "published": "2026-10-26T15:56:39.950Z"
+     "published": "2026-10-26T16:38:30.765Z"
     },
     {
      "title": "Iran hosts Saudi Arabia and regional powers as fears grow of return to war",
      "brief": "Saudi Arabia and its allies dispatched top security officials to Iran for talks on Monday amid fears of a fresh US-Israeli offensive that could plunge the Middle East into further instability.",
      "link": "https://www.cnn.com/2026/10/26/middleeast/iran-meeting-regional-powers-intl",
-     "published": "2026-10-26T15:54:39.952Z"
-    },
-    {
-     "title": "Chris Brown given prison sentence, suspended for a year, following London nightclub brawl",
-     "brief": "Grammy-winning singer Chris Brown avoided prison time Monday for beating a music producer with a tequila bottle at a London nightclub three years ago.",
-     "link": "https://www.cnn.com/2026/10/26/entertainment/chris-brown-suspended-sentence-scli-intl",
-     "published": "2026-10-26T15:53:39.943Z"
+     "published": "2026-10-26T16:36:30.763Z"
     },
     {
      "title": "Israel is holding its most important election in years. Here’s what’s at stake",
@@ -54,10 +54,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Slovakia to develop Russia ties in areas not hit by sanctions, minister says after Moscow talks",
+     "title": "Pope Leo's trip to Uruguay, Argentina and Peru to go ahead, Vatican says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNb24xajJWaVdpREgwZGxhaWw1WENMVU9IeXM1Sk41ZkgzbjM5ZHFtYnpDNVNkRlhQOEpLWi1JTlpnTmpteWxGSzZYN004SzdqRHBORU0zVmNfU3NnU0hJUjdnTy1xYUhKZ0hXZl9OZXFZNWxIMktoeUMydnRFNDdoSVVsVE1GZnUxZXQzN3VRTDlkWFl0ZDlZb1Vrd2FyWlY4anpoOThobDEzRVhORzZmX3l5aTNRTEk4UzVYU1A4Rl80eXM4dmxmZXdUVHJscmFjSXgwNFdnVmRRdXc?oc=5",
-     "published": "2026-10-26T15:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc185NnphU3pBQUlkamVwZjR4R3piNm5YOWJyR0pJd0JLQzJxNjFsbUxtMGphQWZOZzdQQUVTaDRtRVFKRlB3SU8xX2pHbktvbURHVHpLLVVTcnA3M2NfQ1dKTjdUTHdhcVRFME5NMjR3RWJtMmxxSTZxTWEzSm0xeU93b3I4SzAyQkVReWpwN2k4UjkwbkphTFRHSjFUUDdCWUpDV29UQ2Q1a0Z2cl9Xc1JZS2NZb0VkSTliUVFB?oc=5",
+     "published": "2026-10-26T16:10:00.000Z"
     },
     {
      "title": "Tennis-Chwalinska withdraws from Tokyo Open due to thigh injury",
@@ -66,28 +66,22 @@
      "published": "2026-10-26T14:31:00.000Z"
     },
     {
-     "title": "Factbox-From Amazon to Google, the deep-pocketed investors in Anthropic",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEZydk5SOGREaEgwcnZick9nVExVSmczZEwwTGtKLTVTS2hZNHFGQXFZcm9ENHJacUF4bUhRTnpTcHB6ai1VTUFpTmUtWlNLcHJTWnRQTmxTZEhaU19PdUFBR1BVem80VndNWm1CUjE5V1VVamdZM0ZVazZOOHRuNmZScDdvSWIyUkdxcUhrbHdzbkxERWZUX2NQb05pSFZId1p4SHM3Y2ctQ2xwNVRGOWFfWFZyTHdHLTdBSEJHdW8?oc=5",
-     "published": "2026-10-26T13:36:00.000Z"
-    },
-    {
      "title": "Football: Soccer-Espart ruled out for seven weeks as Barca lose another defender to injury",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNbGlacHRYOFBNcG8xUEZNX1FzMlgtSTB5dFNmZWhsRGl0ejZsUmVQOHM5TXkwMm1mMWpnNGRxN3ZsdWhqSFY0WjFFNm5QOW0xN3FZYzV5MzJyRmRQLWxLdUxDckJQQTZPWUU4dzdKRlVCMnFkVzA2Y24ySHVKbkx0TmIzdUVFUmJEdmVGV0RfX1hlLUZnSmNkdW94cW1zMWsyQXZtR0pJYTFQd1Z2WkVKS0kzQ0tGeExJMU9FeXRORFktVmU3MXJWUFBCT3dGQQ?oc=5",
      "published": "2026-10-26T13:32:00.000Z"
     },
     {
-     "title": "Rugby-Scotland name squad for Nations Championship",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNG9nblk4X3NqY29qeWM4SmtsRWhpZXRtdEktVU4tQlFpWkozWkItZkFwd0RCV2dBYWRxcUNpeU4wOFhoSl90TWVxTTItcG5uMU5vWXFTUUFHcU13ajg3ZjI1TEQ5ZnlmUVBTR1BvZ2ZjMlpjeXhSQ2I4VDdEM3N3V2pUanpLb241SHhyLU9LX0JUdm1pelZBeDlIZXNRbTkyOUE?oc=5",
-     "published": "2026-10-26T13:01:00.000Z"
-    },
-    {
      "title": "Latest",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNXZFNDlWR1YxY0U4WUllZXVqaktKdHlmNG81eU1MQ1padnREbEJGVkluNW1QRlhtVGxGV2IwUmlUQm9ubmMyZ1NpTWZBdmt0X3F0SDVMek1BVmFxd0hzYTlISS0zWTZYNGlDeWRhS1diN0RKQXpwT2ZRSFRFQXFEejNmbGw0NjA?oc=5",
      "published": "2026-10-26T12:37:50.000Z"
+    },
+    {
+     "title": "Cricket-South Africa make one change for series decider against Australia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWk5ValNOZXMydEJqczVfcVlCdlVwalRBUFY2aUViajlGYzBManFYd3k5SUYxd041b2xIV055MTdRUFdRNW5ZcUZ2Z2Q3dmVFdmF4ZC1IYW94bUFEM25YRFRCQ2ZEU0tMWUhrZzF5ankwdFRndmdRVE5PUE1yQUJEa3RKQ1lra3VCN3BrV3RkZWxlc2F4clkzbml4bXo2cFd6MWJKT2tjekh0Tm5OZDFraUx0RFpwcW9PZEI5dzlzNzRVZ3M?oc=5",
+     "published": "2026-10-26T12:03:00.000Z"
     },
     {
      "title": "Football: Soccer-Former Arsenal forward Pennant saved by his dog after German Shepherd attack",
@@ -100,6 +94,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT2hlYnAwTlU2bElzMTNVOUZXcC0zdE5oQUpaSzlIOUoyNGMwaTJNRld1X25XVldxN3R5NXRtWlhNU0dma2dWV3lCRWJSUDkydGpKVWFobTQ1bjBaT1Zla19IcEF3ZU5RWmpGTXotNjhOWm5YS0FCdmRfNlUzYV9RT0dMeGVjT2pjcDRCaEJnWEd0R1lIMXczUXhyM0lZZEVrV0lv?oc=5",
      "published": "2026-10-26T12:01:00.000Z"
+    },
+    {
+     "title": "Badminton: Rosman believes Pearly-Thinaah can inspire a new generation of women's doubles stars",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObVZWY1VtZDdQd1RxMU8zWGdzUXFmWWIyUWZrVFBkNmhyOXVsRmJPSTB2bzJGSE9BMVpIMjF6bVVTbVQ5dGpBLXpodEt1OUpXeUtMSlBIOEFyMU9rczVObUhKVXlQZlJrWjJTZW5FbUNxNm5WdWtrc3dEVDI1TnlqQjdxenhqbVhhTDVxcFFRbG5YNDZ1OGl1NVotaFlHYWtFTDVBNkNwQ29Ga1NxaS1VNUJaVlJXTGlrMFFaMlVwT0RnMl9meklmMDFSZElUWkQtekZKS3Bwaw?oc=5",
+     "published": "2026-10-26T11:37:00.000Z"
     }
    ]
   }
