@@ -1,10 +1,28 @@
 {
- "updated": "2026-10-26T00:44:16.253Z",
+ "updated": "2026-10-26T01:41:51.585Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Lula defeats Trump ally Bolsonaro, keeping Brazil left as Latin America shifts right",
+     "brief": "Brazilian President Luiz Inácio Lula da Silva won reelection Sunday, defeating Senator Flávio Bolsonaro , an ally of US President Donald Trump, in a razor-thin runoff election that capped a deeply polarized…",
+     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
+     "published": "2026-10-25T12:00:00.000Z"
+    },
+    {
+     "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
+     "brief": "The threat of an ammonia leak from a burning seafood plant in a coastal Oregon city has been contained after firefighters worked to control the blaze, local officials said Sunday afternoon.",
+     "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
+     "published": "2026-10-25T12:00:00.000Z"
+    },
+    {
+     "title": "Serbia’s leader concedes defeat to student-led movement in seismic political shift",
+     "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
+     "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
+     "published": "2026-10-25T12:00:00.000Z"
+    },
     {
      "title": "Woman charged with hate crimes in attack on two Jewish men in NYC",
      "brief": "A woman accused of assaulting two men in allegedly antisemitic attacks in New York City was charged with hate crimes connected to those incidents, according to police and court records.",
@@ -12,21 +30,9 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "Lula defeats Trump ally Bolsonaro, keeping Brazil left as Latin America shifts right",
-     "brief": "Brazilian President Luiz Inácio Lula da Silva won reelection Sunday, defeating Senator Flávio Bolsonaro , an ally of US President Donald Trump, in a razor-thin race that capped a deeply polarized presidential race.",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "Judges skeptical of Trump administration effort to force California to set aside mail ballots",
      "brief": "A three-judge US Circuit Court of Appeals panel expressed significant skepticism Sunday over the Justice Department’s desire to inject itself into California’s midterm vote-counting process by forcing election…",
      "link": "https://www.cnn.com/2026/10/25/politics/california-midterm-voting-judges",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
-     "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
-     "brief": "The threat of an ammonia leak from a burning seafood plant in a coastal Oregon city has been contained after firefighters worked to control the blaze, local officials said Sunday afternoon.",
-     "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
@@ -42,12 +48,6 @@
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
-     "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift",
-     "brief": "The long-serving strongman leader of Serbia, Aleksandar Vucic, conceded defeat on Sunday in an election that pitted him and his right-wing party against a diverse student-led opposition movement that spent two years…",
-     "link": "https://www.cnn.com/2026/10/25/europe/serbian-strongman-vucic-concedes-defeat-to-student-led-movement-intl-latam",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "The reported sexual assault at University of Arizona is the latest instance of alleged misconduct at the university’s frats",
      "brief": "Editor’s Note: Help is available : For help in the US, call the National Sexual Assault Hotline at 1-800-656-4673 or chat 24/7 on online.rainn.org .",
      "link": "https://www.cnn.com/2026/10/25/us/university-arizona-sexual-assault",
@@ -60,22 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSndJRVIzUWw5NEJZcGFmSFY2eWJ3LUo1NTA2REtOMUs0WWZQR3VKYk1mVGNkbkJMSndVWEhtdWViRWMxdGctbGt5VjdGOFpHMFJibGJIS3dNMGQ1NW5pMHdxbDMzOG12eFQ3a0FDVURNcFdYRThoTXlvLXlZaEhZLU9QQ3FBRmJVMDBhUE5RQ3BrTEMtdkNyN2F3RlVpS2RiR1ByTjlhbHNRX3g1cWk3Q3hR?oc=5",
+     "published": "2026-10-26T01:27:00.000Z"
+    },
+    {
+     "title": "Ecowatch: Renewable energy update",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVkJWM0UwOW9JeVhZc2ZOblktejFSV0Z4ck1SSXB3bDN0RlNMZkpqNUltZ0w0TmtCNWtPZHMwZE02WGFUWG82QVNoYU53WUxNVFR4Rl9yOWFZTFE4MTVWWFNXR1Jab1dpaVczckxfLXlubUdWaHExdE50NjZ5LXQ2SjRVVmV2eGpLbFlnQ2FqMlg?oc=5",
+     "published": "2026-10-26T00:48:00.000Z"
+    },
+    {
      "title": "Anthropic's Claude accessed Georgia state vote count data behind paywall",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWjE4VERFdDJuU0JldmZWVXJwWURCVjktVkh4V08wWkFzVkx5UVZpSFVxV0VDcGZjMG5FRnllZGdrbjZsSWg5SVV6MlliMjJmUUUxOW0ySnhXMTRJRU5KMmxyVEVwZDgwUmYtaURLZGhFVmNFcXFzVlNPRlJTSmZUeDFuZzhEMTBwQ1UwRkZvc0pFMEw5Y09kc29pNVdqMjdabUUxZkNueGEwSjBYX0dCeTJjeGVtTGxlQkR5aWZLbG44OHhyMFE?oc=5",
      "published": "2026-10-26T00:31:00.000Z"
     },
     {
+     "title": "Worth more alive than dead",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNlg3UThKS1ZJY2VVMGh4cS1zWE1VN0xHZWx0cGp5N3dvMmZCa3ZGbHlzNG4wdnQ5dWN3VkJjSTVFUktTcWdWMEg1UzU4THBqRlJNdEhWY18wbU9EZF9IclB6LVA5YWs0R19uU2t2NEEzdVJKTzBTbmRxcGlOVVk5VTBDRGdkOWk1ZzJ4eUxfNHRDN1k?oc=5",
+     "published": "2026-10-26T00:30:59.000Z"
+    },
+    {
      "title": "Rebadging doesn’t work in this case",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdUeUQtSDlwVzJJSmlzWTNoa0R0QWlaN3VxOFR3dktRNV9pVER6NlBLUEQ5bm1MeGFGNXA1eVhIUVhkN29KalpmWkVqa1VZUGpqUmN2ZkRwd1AxYUxrZzdNTmViaXkyNzZDdHZVaDIzS0tfRXhjNVVTWjhQTHFOZThjbF9fRHVuSjFlY2M5YzRHZw?oc=5",
-     "published": "2026-10-26T00:03:06.000Z"
-    },
-    {
-     "title": "Lindt has got chocolate price hikes wrong, chairman says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSzRCbmpIUnlQZkV3ZWktUENYV1FKMXNZcDNrMmktdC02Mmc2YVBjQlpVaG9wN2pFN05zQzRZc3hWUHJ0Z3l4YmFKbDJBdk5HbjBxSDRmY0UwS3hVSFdxSjVNVmd3SU5BMUFkRUFRTENuUmx2MGxpWEFpWTBBSVI0bmhnWUZiVUlUMkgybDVpLVhUY1NNWGk4eEMzYW1CTEZKMXlQcTE0Qm84MnBLNlM2blRLdnhHYm8?oc=5",
-     "published": "2026-10-26T00:01:04.000Z"
+     "published": "2026-10-26T00:03:25.000Z"
     },
     {
      "title": "Libya summons US envoy to protest at Trump remarks",
@@ -84,28 +96,16 @@
      "published": "2026-10-26T00:01:00.000Z"
     },
     {
+     "title": "Bridging the skin care gap",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGtFY21qZUlLU21hd2JKbS05SGdWOVFTcUtxQnRVNUM0NlBVN0JiMEZKNlZ4NUFvWXNXbEJKOGFaVmx3TUNSM3pSaVQ3V3ROY2NIMHNiU1R4VW9rSXNOTVVMSnhwN2taZ0xNNDB3YnZpemppcldrcXBNUWZBcHZkVlZmcW8tVHM?oc=5",
+     "published": "2026-10-26T00:00:18.000Z"
+    },
+    {
      "title": "QuickCheck: Can drying your clothes outdoors during the haze irritate your skin?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEZ1eDh3bDlHNVdkeVVSTi0wSjhib1c1WW9xOWQ5UGNYZkRhdEJSWXZGbzByOW1vbHppSDFCT21nWEppcDUzS1A4ajZ2c2ZYY0JBc3V2RmlMQW9ZOGJjUnFDWHhXWWY5MHYxQk9DRWVEOGYwSTlKWHZ0ejRobW51VUd2dE55b2czS2J0WG5KdVIwQlhscU1fRTJRdUc4SzZVUXhrTUNaeGNYVzFUNXVCZE9GZW5obGgtUm81U2FmdXNELV9oaDQ4MU1rcTNHQQ?oc=5",
      "published": "2026-10-26T00:00:00.000Z"
-    },
-    {
-     "title": "Turning experience into a national asset",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYUJ2Ul9ZQXNXT0hMM2lpZjZCQ2FiUjFRMERpeXBqaDN1T1QtZU0tSWgtRjR3UWV4S2ZIS3p6RUwwWkVmdUdHNHlHTnRJNkMwVWZtbnNpdHNzN0xTMWJxemFIUVpwU2dWRU1PcjBZTUtkNWU5dThnakVaMk9DNUkzSXVNUVBQUXdoVGMzTFR4V25JSnlUQ0hoWFdn?oc=5",
-     "published": "2026-10-25T23:59:54.000Z"
-    },
-    {
-     "title": "Centuries-old trade picked apart by cheap locks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQWwxcHNnbThBRURlX3liTzM0MS1Bc2lyTDhGRUJrTWhoRkY5RXRtUTBzMFd1bFhUaXpKT1FndHRrVnFLY0lVVlE5MTU3UHd5MG1HRkVUem1rNXR6YmtfMFNuT3FYWEltUHd5a2wxUVlFZFlaV2JEQlVMbmt6NUM0eEV5bUMtYmxMcmhzaHp4UHNqX1o5aW1Na25WMTRmZw?oc=5",
-     "published": "2026-10-25T23:59:03.000Z"
-    },
-    {
-     "title": "700 taxi, hire-car drivers in Penang get RM1,000 govt aid",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHhFSjB5WDNzc1V0Wkw2MDZsMTRMOFFSVkd4WTBIVm5qSE9uLU1WQWkxNEI3dkVnQ3o5MU1BTWg3YnZuNjJ2YnRJVmM0NjlxVDBnVlBXem5TV0o5bC0wQTNyeENnOHY4RTdsR0RKQm5IX2FiSkJaaEhpQVpQdHdvcU4xNVlqdXB3NndxNHduNk52TGk2clJtdzhRbkVYU0hOT2V1bUZ3Tms4YVQxUlhJ?oc=5",
-     "published": "2026-10-25T23:49:21.000Z"
     }
    ]
   }
