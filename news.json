@@ -1,20 +1,20 @@
 {
- "updated": "2026-10-26T01:41:51.585Z",
+ "updated": "2026-10-26T02:31:55.212Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Lula defeats Trump ally Bolsonaro, keeping Brazil left as Latin America shifts right",
-     "brief": "Brazilian President Luiz Inácio Lula da Silva won reelection Sunday, defeating Senator Flávio Bolsonaro , an ally of US President Donald Trump, in a razor-thin runoff election that capped a deeply polarized…",
-     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
-     "published": "2026-10-25T12:00:00.000Z"
-    },
-    {
      "title": "Ammonia threat contained at burning Oregon seafood plant, officials say",
      "brief": "The threat of an ammonia leak from a burning seafood plant in a coastal Oregon city has been contained after firefighters worked to control the blaze, local officials said Sunday afternoon.",
      "link": "https://www.cnn.com/2026/10/25/us/newport-oregon-seafood-plant-evacuation",
+     "published": "2026-10-25T12:00:00.000Z"
+    },
+    {
+     "title": "Lula defeats Trump ally Bolsonaro, keeping Brazil left as Latin America shifts right",
+     "brief": "Brazilian President Luiz Inácio Lula da Silva won reelection Sunday, but his defeated rival and Trump ally Senator Flávio Bolsonaro said he would not accept the results and would mount a legal challenge.",
+     "link": "https://www.cnn.com/2026/10/25/americas/brazil-election-lula-bolsonaro-intl-latam",
      "published": "2026-10-25T12:00:00.000Z"
     },
     {
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "The Budget for Malaysia's 2027 healthcare needs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ1hMVmdkRmQ1eFpBSE8wc1lzOWhnNDQ5M0FtQ2IxTHV4Zldac3NCRlRTQVI1a09wRmFmb0RpcGd0WkFuNi02cTJidUctLUVETW5LbnVhUGp0dFVLcUNuUjFhanpWRjRVbzBaSzlYbXhnY2FqaDhlLWFrSTBRNWtKR2VRclVXbkxhMDBEZEZZZWZQTHh6QTFheHlSWFhvR0EtRXZXYWszcDBXTDVxbERJYkxyTTdfWTlINlRz?oc=5",
+     "published": "2026-10-26T02:00:00.000Z"
+    },
+    {
+     "title": "Haze: Seven areas in S'wak record unhealthy API readings, Serian highest at 172",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnFPdS0wQlE0QnlNbmUyQldfZ0ZHUWpSSTc2eXVCUmJOSFZITUx5dnJLWFJYOFBjMTZ4MEItWHl5end1Ykg5cWxUR0UyVE13M3MxSDRsd0c4Z0hMM0g3c3lwdEZHMmtBV1RYaGdNNlpWNTkwalFiN0RyaXZCa1ZieU5qa2YzUnVVTlUyTnVWemIwYUVVbEpjTHhLSHRXNXJ2NVFkQVUyQ2hvRmJfakNSSmlpRkJxUGMwVm1oNDFtTU5CRDMtZl9MSQ?oc=5",
+     "published": "2026-10-26T01:47:00.000Z"
+    },
+    {
      "title": "Trump adds Norway to vulgar list of countries, citing Nobel snub",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSndJRVIzUWw5NEJZcGFmSFY2eWJ3LUo1NTA2REtOMUs0WWZQR3VKYk1mVGNkbkJMSndVWEhtdWViRWMxdGctbGt5VjdGOFpHMFJibGJIS3dNMGQ1NW5pMHdxbDMzOG12eFQ3a0FDVURNcFdYRThoTXlvLXlZaEhZLU9QQ3FBRmJVMDBhUE5RQ3BrTEMtdkNyN2F3RlVpS2RiR1ByTjlhbHNRX3g1cWk3Q3hR?oc=5",
      "published": "2026-10-26T01:27:00.000Z"
+    },
+    {
+     "title": "Hockey: Raw but roaring",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wUl9ZTHJOelYzeXNUM21qUldMNVFQeVVsdjF3b0NFUnVjbGl0OHROTjYySVZuR2xialdOZ2g4ZnlSUjdnOEw3RG4wRnNfd1JWRERObks0UDZXc0lBZnp6ZmxadTJGRlo4aXhCdjdndW5kdncz?oc=5",
+     "published": "2026-10-26T00:56:15.000Z"
     },
     {
      "title": "Ecowatch: Renewable energy update",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFdUeUQtSDlwVzJJSmlzWTNoa0R0QWlaN3VxOFR3dktRNV9pVER6NlBLUEQ5bm1MeGFGNXA1eVhIUVhkN29KalpmWkVqa1VZUGpqUmN2ZkRwd1AxYUxrZzdNTmViaXkyNzZDdHZVaDIzS0tfRXhjNVVTWjhQTHFOZThjbF9fRHVuSjFlY2M5YzRHZw?oc=5",
      "published": "2026-10-26T00:03:25.000Z"
-    },
-    {
-     "title": "Libya summons US envoy to protest at Trump remarks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUEtDY2M0eVZaeENqN3BJU1VZaGR0cHB0MVhXVHdNdDlqUEtTLU40bTd4Ui02MXlENFQ1VXN1WERJaTRzdFJaVVpDTW1maEFwOW1DbWRBaXRQdXZPMjhxVFRWbmYtWGY1M3Yxa08tN0xNekZ5am9pNjV5UmZhX20wQTZaYXYzcHVZUjh1a1JJaS13UHpIUXYyMXBXcWR5czFo?oc=5",
-     "published": "2026-10-26T00:01:00.000Z"
-    },
-    {
-     "title": "Bridging the skin care gap",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeGtFY21qZUlLU21hd2JKbS05SGdWOVFTcUtxQnRVNUM0NlBVN0JiMEZKNlZ4NUFvWXNXbEJKOGFaVmx3TUNSM3pSaVQ3V3ROY2NIMHNiU1R4VW9rSXNOTVVMSnhwN2taZ0xNNDB3YnZpemppcldrcXBNUWZBcHZkVlZmcW8tVHM?oc=5",
-     "published": "2026-10-26T00:00:18.000Z"
-    },
-    {
-     "title": "QuickCheck: Can drying your clothes outdoors during the haze irritate your skin?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcEZ1eDh3bDlHNVdkeVVSTi0wSjhib1c1WW9xOWQ5UGNYZkRhdEJSWXZGbzByOW1vbHppSDFCT21nWEppcDUzS1A4ajZ2c2ZYY0JBc3V2RmlMQW9ZOGJjUnFDWHhXWWY5MHYxQk9DRWVEOGYwSTlKWHZ0ejRobW51VUd2dE55b2czS2J0WG5KdVIwQlhscU1fRTJRdUc4SzZVUXhrTUNaeGNYVzFUNXVCZE9GZW5obGgtUm81U2FmdXNELV9oaDQ4MU1rcTNHQQ?oc=5",
-     "published": "2026-10-26T00:00:00.000Z"
     }
    ]
   }
