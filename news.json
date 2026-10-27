@@ -1,39 +1,45 @@
 {
- "updated": "2026-10-27T20:33:52.781Z",
+ "updated": "2026-10-27T21:30:54.609Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Defeated candidate Flávio Bolsonaro defies Brazil travel ban with flight to US, sources say",
-     "brief": "Brazilian senator Flávio Bolsonaro has left Brazil and is headed to the United States after losing Sunday’s presidential election, two sources have confirmed to CNN.",
-     "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
-     "published": "2026-10-27T20:33:52.961Z"
+     "title": "The Fed says it ignores politics. Its rate moves tell a more complicated story",
+     "brief": "Federal Reserve officials agree that inflation needs to return to the central bank’s 2% annual target.",
+     "link": "https://www.cnn.com/2026/10/27/economy/federal-reserve-rate-decisions-elections",
+     "published": "2026-10-27T21:30:54.763Z"
     },
     {
      "title": "Melania Trump says ceasefire has expanded as it takes effect around Russian-occupied city of Oleshky",
      "brief": "A localized ceasefire between Russia and Ukraine around the occupied city of Oleshky that first lady Melania Trump helped to broker has now gone into effect, officials on both sides said Tuesday.",
      "link": "https://www.cnn.com/2026/10/27/europe/russia-ukraine-melania-trump-ceasefire-intl-hnk",
-     "published": "2026-10-27T20:32:52.955Z"
+     "published": "2026-10-27T21:29:54.784Z"
+    },
+    {
+     "title": "US to issue Flávio Bolsonaro and family visas after he defied a travel ban and left Brazil",
+     "brief": "The United States will issue visas to the defeated Brazilian presidential candidate, Flávio Bolsonaro, and his family, allowing “them entry into the United States,” a State Department official told CNN.",
+     "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
+     "published": "2026-10-27T21:28:54.751Z"
+    },
+    {
+     "title": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking",
+     "brief": "Alon, Tal and Oren Alexander – three brothers who once lived at the height of wealth and society in New York and Miami – were each sentenced to 30 years in federal prison Tuesday for sex trafficking and other crimes…",
+     "link": "https://www.cnn.com/2026/10/27/us/alexander-brothers-sentencing-sex-trafficking",
+     "published": "2026-10-27T21:27:54.758Z"
     },
     {
      "title": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through DNA testing",
      "brief": "DNA connects serial killer Ted Bundy to the death of a Utah teenager, authorities announced Tuesday, more than 50 years after her body was discovered by a hunter.",
      "link": "https://www.cnn.com/2026/10/27/us/ted-bundy-utah-murder-dna",
-     "published": "2026-10-27T20:31:52.972Z"
+     "published": "2026-10-27T21:26:54.766Z"
     },
     {
      "title": "King Charles heads to Caribbean as calls grow for slavery apology",
      "brief": "Britain’s King Charles III will begin a tour of the Caribbean on Tuesday as pressure mounts on Britain to apologize and pay reparations for its role in the slave trade.",
      "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
-     "published": "2026-10-27T20:29:52.995Z"
-    },
-    {
-     "title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
-     "brief": "The FBI searched a Beverly Hills mansion Tuesday in connection to an investigation into former Rep.",
-     "link": "https://www.cnn.com/2026/10/27/politics/fbi-searches-beverly-hills-mansion-tied-to-former-rep-eric-swalwell",
-     "published": "2026-10-27T20:27:52.981Z"
+     "published": "2026-10-27T21:24:54.781Z"
     },
     {
      "title": "Alex Pretti’s family says feds are still stonewalling efforts for justice",
@@ -54,58 +60,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "OCBC ranked Asia Pacific’s strongest bank, third globally",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOclJoSkp0MzVPV1RIT3hZbVdITkZ1WF91V0dpSHo1SGFPVVI4TWxqRTAtTGdrYVAtUUwtb1ZIQVBKeW9YWDhWNllCZ3ZOWk5GcU8wTTF1N3ZGd29Wd2xSRURrb0ppWnZ5U0RiakFVSEo2UHkzaHZFTnJwRzhDcFByejNnalBWaG9lcW1zSU5hd25TT04zMzEwbGotZWxvR2tmZHlJclMxYy12U3JvQ1U5bndmdzZzVGM?oc=5",
+     "published": "2026-10-27T21:00:00.000Z"
+    },
+    {
+     "title": "AME Elite to build RM120mil Nilai factory",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQel9oLWwtWERXWnRNZG1VTDJLRlhSOUZuRVVkY0R6UTZ1aExsQnY1b09WcmxoMmdNT1dERnhmanRRY3Q0QVIxTVI0LWlXOFlyckFuamhPUDNkV3Rqc1ZjTzFVZjV1T2RIYW1LMExvbjEzYnpHQXZXSThScHY0UHdXbjJDRFdtQ05uREhGUzBSZ2FWZDJzeXdDRkpoSzJJcklkdkE5dA?oc=5",
+     "published": "2026-10-27T20:50:16.000Z"
+    },
+    {
+     "title": "Chinese rescue team detects signs of life beneath collapsed building in Kenya's Nairobi",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOc3lnd1dWZjZVNXpxZ19WQ1d4cmszMmVISjFWcmhraGo0NEkxdDNlcEt0eGZHRXJPNk5JbkxYUUNwRm1XTWVHQ1BTc2g1NEtNemdxVWNkUVlnanlpd1VpaWNQazJ1eFZHZ2tlZzhtNVBBbFlVb1ltYUVPam5XeWE1VzJmVS05RlNCcmp2bzJDejRKM3lUejFQVXhRUFVWaWJVM25TNldZenVIeHlZcFlMZlF3WVBFZUoybjJsd2ROSXhQV2EyVi1TandaWGNWUXlCOGU4bw?oc=5",
+     "published": "2026-10-27T20:37:00.000Z"
+    },
+    {
+     "title": "U.S. stocks close higher",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SbXdRa0Fxbkc0eWdXS25yTnVQTmdKOWdTSy1FOGhUeVV1dWtmbzZRaEprY19rdHVtU3JQVXFKNzhJYWpyb28zUFFfV1RTUzBzQmN0NWdpYXhZYWEwS0ZiUzV4NDlNcjg4WUlielJtYU5ESjVKRVlyckQycw?oc=5",
+     "published": "2026-10-27T20:12:00.000Z"
+    },
+    {
      "title": "Infomina bags RM32mil job",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQktQbFBoTGJMazY5ZVpvam4tc29YQ3QyUWNVSU9vSTg5dlFpMm1EOVdmNnpzTHZhbUZMbGZFVXB5LURxSFFxb19pdXEwQXVVUHQwV280b204MjdQODZadEtuX2tHemJoSG1OUE9vaG1lSlJJSjJoc3Z3b0NrOFpmRXVKZlFRSUFvNW1tU0FRcw?oc=5",
      "published": "2026-10-27T20:02:35.000Z"
     },
     {
-     "title": "Bintai Kinden bags RM20mil TNB contract",
+     "title": "Ni Hsin proposes bonus warrants",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMUhieTlRZFc4QWNMY0RuLUNfd3FwUDlNdXNrSURjYkY0bjJqaEpoS205TFBJZTJYTXNyWUtYeFNuTWlQNjU3VDkzdHloZ3c5WDVsN1o1cTRVZk9TMHAtX0I1aXJsMjNmSjJyY2pSVDg1aXJ0NnJLbzdzdmlrZGt6aDAybUtibVdVNjVON0Y0VGFsV3pVc04yRjVxTVAyUkFrcWc?oc=5",
-     "published": "2026-10-27T19:52:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNXFKZk5QRmFraXEzLUQ4X2d2SFdaRGlZME9mMkU0NjlXNHdaSjFBUzFjQ19SR005bEJacDBIRGU4LU81M2JJTjZ2NUN5SkQxdlh0U2FfNlFBdTl5QWstZE5VZjFRWUJ3ZlBKSHpWY1l1bGQ4eEd3cjJTVGRXRVlDSDJpdDRWbDlBeXk5N3dSX250R2phTDdN?oc=5",
+     "published": "2026-10-27T20:02:35.000Z"
     },
     {
-     "title": "Britain's shop price inflation keeps surging in October amid cost hikes: BRC",
+     "title": "HLB, UPI in cross-border payment tie-up",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeHJadk11Y0ktaE5UVlJYMjRjbW9fNmRsZGhKb1VFSmdYQWd2bENRX2IyZ3ZVMFlsa19hR0RpSDhudFY5Vk5DY25SRENmN2xScGhIZnUzajVaNzF4WkNjNFdpdzVoLV9rSVJwX2FGVjB6dUtueExvY01SczNBNWpuc0NPaVJaZjBJUmlSTzM3dG5sZFlDMW5Ia3FKUWliTElNZ3VDMWptc0dMY2t1c0RDR3I5NzZkUlJKTzJKaUprcVdXOTBU?oc=5",
-     "published": "2026-10-27T19:21:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUd0NjlBSlFlWHgtMVpnMUdDQ2lBNUU4LUF0bnlJcThfdXdfUl9NbG9mY3pZbmVxRGRNQTk4NXkwMGh2d3ZTbDlaamZFS0ZkdUlJYUczVWVuN3p2ZkJxXzVsVGJqSFpha3ExUmstVmdVV0NDcl9uUVRaVUVaWUFvNlVJV2J5WmxJTHZfUGFXbHZvZXNfT3NtbmFBRDdyb1ps?oc=5",
+     "published": "2026-10-27T20:02:35.000Z"
     },
     {
-     "title": "WTI crude futures settle lower",
+     "title": "PGB nets RM187.43mil from land sale",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUi1HSWJ2X19tM2twUFlVcDRxU3pFR1U3ZkxuU0d6R2hSNGtTOG53WW5BUTRnNks4a1JaOGFlY1luQ0tqNWRHQWhtU1JVSFJzLUZ1ckljeVZRSWdoWElGSWhtVXNxZEtWUHhEUzVsbGM5d2NRY19aRjVTai04Rl9kV3h4N1JjZw?oc=5",
-     "published": "2026-10-27T19:13:00.000Z"
-    },
-    {
-     "title": "National Bank of Kyrgyzstan keeps key interest rate at 12 pct",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMV9haXVGR1hWdTE3TURwajZ0Qk5obFpHWWhxQWhqVWxaWmV1a1hsNk16dUZQaDMwT0ZmZ0JHcUc0UlN2eFk2NUVzRnhRNzV5RUJuYzdkRE5VNmF5aUFmYnZpN0kwZ1VpQkhxaW9MaVB3NjhsX1lkOUZsM1BCS3gxbUxpbFp0ZU9ONHptNnN4ZDJPYjRHdjZFUGJYN0VxMW1RblRQZFJVYXlOQmc2UG00?oc=5",
-     "published": "2026-10-27T18:18:00.000Z"
-    },
-    {
-     "title": "Belarus, Russia sign agreement on common electricity market rules",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa1JENm1RdWJ0MlRmaWQ4N3c3aDNmRUlKbnJnSEdZTEZDOXJFWm5EbG9fdWU3ODRBMTBhdGZhbC1kbTlFeXYzRGo0Tm5LR0NVLUZBUkdnQjNLMlZwVzRjMkRzUUxJNEhURmFOMWNNMlFLcV9hck9Eb254OTJ6Wk0zcFBRWURnTVhqbzdIQ0MyZWxMQTI4THg0MVB1TTZyeVloMlBUVXpjNDJHOUJocWRlaVN5bw?oc=5",
-     "published": "2026-10-27T18:13:00.000Z"
-    },
-    {
-     "title": "Art and photography exhibition on China's Xinjiang opens in Kyrgyzstan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzlvU25oOVhVVW1lamJqODRXaEk4c2pQRXE0Wmt3QUVBMG5fRm03NmNKc1FoT1JEUUhhdHhfYUdwTWs1NG1STi0tM2tvMG12ZEU5TDlVYmZybVpBVGlDQWxMd3hyYkdvQjlTZFp2V2EwN0dLUnJkQklvZ01RdUVVd1UzNVJKdmJGZXcyNkthZDhydFg1T0RkZUhwMTdKSkV4T3o2TUpxaDk0S2F6cUphaGVHLWZ4aFpuc2ZqZHhn?oc=5",
-     "published": "2026-10-27T18:04:00.000Z"
-    },
-    {
-     "title": "Botswana taps mining as catalyst for national transformation, citizen empowerment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTk43N1l5YXUyc081cURNTDVFSEs2WUtlei1WZTFGR2FINlhVckZ2Y3RRV1EwYkItY1FMeHoyeURBQmpEdXEtd3pnbThEclNYSmFwa1hldlF4RWVEVXk3ampxMG94MWl5WndHSVhvZXNqWW5JTVVkcnJ3MmFfMGRTelZSeHkyal9BX2FjOVVVQVJFX0lsUUVmX0J6bkoxanFYNVlqc01sMHJkelgzMjMzUkNSMlNrRkpMdmRPYXJlLWNieDNRdE5YSQ?oc=5",
-     "published": "2026-10-27T17:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQnJZcHp6c1dKTkkydHB4UmdRb0stelg0NEowUHhlUkdoQmd6ZklPb2U3SlREM3BwUnV6VWZGSndwdlZ2SmtzQkRjRjdEb3RISERzb0N0N2RiWmdFSVJfdlBJbkdfNzFFM3pWYzJ2dWM2UkVTRnB4WXpEN2lsVHB5VUJNYkw0MXpoeG1rSFRRYmdxV2ljMl9mZzVBYw?oc=5",
+     "published": "2026-10-27T20:02:35.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
