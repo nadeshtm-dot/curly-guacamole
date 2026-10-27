@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-27T12:39:29.740Z",
+ "updated": "2026-10-27T13:47:54.707Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "From bioweapons to blackmail, here’s what’s in Anthropic’s nearly 100-page list of risks, including ‘risks to humanity’",
+     "brief": "It’s typical for companies that file to go public to include dozens of pages of risk factors outlining the biggest obstacles to their business.",
+     "link": "https://www.cnn.com/2026/10/27/tech/anthropic-ipo-risks-bioweapons-blackmail-vis",
+     "published": "2026-10-27T13:47:54.935Z"
+    },
+    {
      "title": "Soccer star Kylian Mbappé apologizes for remark about ‘Chinese dictator’",
      "brief": "French soccer star Kylian Mbappé’s face appears in ads across China, from subway stations to inside elevators, but now at least three companies are cutting ties with the national team captain after he made some…",
      "link": "https://www.cnn.com/2026/10/27/sport/kylian-mbappe-apologizes-chinese-dictator-remark",
-     "published": "2026-10-27T12:39:29.915Z"
+     "published": "2026-10-27T13:45:54.989Z"
     },
     {
      "title": "Where things stand one week out from midterms",
      "brief": "The United States may be within a week of momentous political change in midterm elections that could destroy the Republican Party’s monopoly on Washington and hand Democrats power to check President Donald Trump.",
      "link": "https://www.cnn.com/2026/10/27/politics/midterm-election-trump-final-week",
-     "published": "2026-10-27T12:37:29.945Z"
+     "published": "2026-10-27T13:44:55.075Z"
     },
     {
      "title": "Two British men charged with helping Iran over Fairford airbase incident",
      "brief": "British prosecutors said on Tuesday they had charged two British nationals under the National Security Act over an incident last month at the RAF Fairford airbase, with police saying the two were suspected of…",
      "link": "https://www.cnn.com/2026/10/27/uk/fairford-incident-charges-iran-intl",
-     "published": "2026-10-27T12:36:30.069Z"
+     "published": "2026-10-27T13:43:55.203Z"
     },
     {
      "title": "The man behind some of your favorite scents",
      "brief": "Voelkl is a master perfumer at DSM-Firmenich, one of the world’s leading fragrance houses — and is only the 16th in the company’s century-long history.",
      "link": "https://www.cnn.com/2026/10/27/style/frank-voelkl-perfumes",
-     "published": "2026-10-27T12:35:29.948Z"
-    },
-    {
-     "title": "Anthropic’s nearly 100-page list of business risks includes everything from bioweapons to AI blackmail",
-     "brief": "It’s typical for companies that file to go public to include dozens of pages of risk factors outlining the biggest obstacles to their business.",
-     "link": "https://www.cnn.com/2026/10/27/tech/anthropic-ipo-risks-bioweapons-blackmail-vis",
-     "published": "2026-10-27T12:34:30.000Z"
+     "published": "2026-10-27T13:42:54.956Z"
     },
     {
      "title": "What to know about cychlorphine, a drug more potent than fentanyl",
      "brief": "It’s an unfamiliar name that comes up in alerts from state medical examiners, local law enforcement and college campuses: cychlorphine.",
      "link": "https://www.cnn.com/2026/10/27/health/cychlorphine-drug-explained",
-     "published": "2026-10-27T12:33:30.378Z"
+     "published": "2026-10-27T13:41:54.913Z"
     },
     {
      "title": "Workers are getting a shrinking slice of America’s economic pie",
      "brief": "The US economy continues to grow at a relatively healthy pace, but American workers aren’t fully reaping the financial rewards.",
      "link": "https://www.cnn.com/2026/10/27/economy/us-workers-smaller-share-of-profits",
-     "published": "2026-10-27T12:32:29.958Z"
+     "published": "2026-10-27T13:40:54.918Z"
     },
     {
      "title": "Manhunt underway for convicted killer who escaped through Tennessee prison fence and fled in stolen truck, officials say",
@@ -60,10 +60,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Nobel Peace Prize committee welcomes Machado's return to Venezuela",
+     "title": "Former TVB actress Kaman Kong shows off sharp skills at hitting back at trolls during livestream",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWDI1WTV3bGp1QTZQMnQxQ0g4Y2V1Qmh1ODVsTTNVdENNRDJ5YlVtX21tUWt3OFBSRUFBOWJRZlh2UV9zeW5RdWRRNVh0SU82ZFhrMnpUWF9KbGEyUFJMd29rRzhLZG1vM3JOSEZBcWFTbzhnbmM2c2tjRmgxU3NjSmpzRHJyWExocEQ1YkVvOXB4SHpycG5yMEpkLVp1Z21ULWYxcWxLcEJPLUtwVjdobV94bklLdk10?oc=5",
-     "published": "2026-10-27T12:26:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUUlXVVdJQnhNN0thY1Y1dmE3N3E2Ql9iZDBhTUQ4NGdqaGN3TFp0TWk3RmRsZnpUSU55SzN6ckZQU1R3MkNNTS1vTUtnVHhwZU1SQ2YyMVpWQmFRZFliR192aVp5MTJnb1laOFpWV0pWRFlBUUJTSHc3N01hLWFNYWRFUFdnQ0xDZUxXbHc5OTJGMlBqdHJvUmkxY0RtdWxRTXV4anBBR0RYaTJSUzFURm9oNXdCZmY5T0ZWODU5YnR3cGlvRlJ3T2FLcWV6UUJiUVNzSWpmcGZLSENwWHpLUi1SY1NMdi14ZjF5T1k5VQ?oc=5",
+     "published": "2026-10-27T13:05:00.000Z"
     },
     {
      "title": "Cricket-South Africa pummel Australia bowling after being asked to bat",
@@ -72,40 +72,40 @@
      "published": "2026-10-27T12:17:00.000Z"
     },
     {
-     "title": "Cricket-Abhishek ton flattens New Zealand as India seal T20 series",
+     "title": "Football: Soccer-Carrick stays on as Manchester United boss, takes training after crisis talks",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbWVYcHhCTWNHYkFLU1dVSmEwbzFnZVhzazBaaEt5dlFlN3FMVzZGZ0JvTmJ6R3NYUnB1X19rRTBBM1dhb2VFb0pNMUNRSUR4TGZfeFZoczRUd3ZsODM4UUFaXy1VT2ZfQnRURHhBN096bnp3NDVRU0thUGJ4NlhILTRiNWE1VkUwQjFSQVZnOTNKU0hmN0tOQ3duMlZqLU1lSzZXb1pMT1VYTTE0TGhxMTJ6cU5UUy1aNmc?oc=5",
-     "published": "2026-10-27T11:06:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdMTk9Xb2xrTDNMbWh6YnBFM1Z2VENKekQ5OXVVeDJYWnVYeDFjM1VpbGo5MmJlRXVrVHRzXzRZNGZvWFJQWVY4cTAySV8wVy1acWdjOG1QeHlDZmRXSkhiQjVtOFdxRUVpaXlFQ0RHaTRnNFgwT1JvZjMxbkNFclVQdklkVEM4dzlhTGN3bHZzcVMxLS1XRU9mUmpBcnVnOC1LNTFEM1V3U2QtZS0wQV90cXR2bkJuR3Vud0liUjZkZmp3YlRFZGY1UTFHWnNVY3c?oc=5",
+     "published": "2026-10-27T12:15:00.000Z"
     },
     {
-     "title": "Govt studying phased implementation of automatic fuel adjustment from 2027, says Fadillah",
+     "title": "Govt to take firm action against human smuggling syndicates, says Anwar",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGRobVBHMU5BSEdHZGludmlIb3BhZG9vLVNzQ0U0eDFkVndLYllnYXBfUFRxeFYwZGo0ZkFlTFNKdDJQQ3EzMVhRTmdhV2U0QXd0ankwVDhwQkIyTzBJSVdJWHhmSEc0Rk1LamZZU2twREhBQVk1S01BYkJXSGdfaDlPdVhMZ2pybDZHZFJqc3hlS25UUE9aMm1KQ3NOUFd6U0llSnNVZmNVXzRndHlCNmNBQi16YVpZR0Qydk0tbVZ5a0pFOG4wdC1JU1FXZm1yVnVHcg?oc=5",
-     "published": "2026-10-27T10:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazRkaHFxcHlrWmV1Y0Y2cEJFd1puOUVrRjFEY2syQ3gtQmxXVl9wbk1hV2V3Vk9QUUowWnA1R1VNVzZNWVA2bUNxelV2LXltQ2lPMlRMSnhTaDFoTlNBR1VkUWdqYmtBZFpSckVfdk9XZDJvRlBLTkVXZ29XcVNJcVpBMDB6cFBzQlg0RWxhWm9wdjJscVFoRHJZQTFvMXVQX1RfZU9MNjZIMkFlUjZmN0pEX0pEQ2ZldV9EQg?oc=5",
+     "published": "2026-10-27T11:23:00.000Z"
     },
     {
-     "title": "Soccer-Bayern's Kompany is improving but no comeback date yet, says assistant coach Danks",
+     "title": "HSI-PWX2 (0652X2), HSI-PWX2: PW HANG SENG INDEX (MACQ) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGE5cHFjMWxZbS1JakFGLU9MX2VWUFVDaUlwV094Z1ZpQWtPMlpqUkhuVGd2Vk1SSGhRd2ctT0ZXckJyNXd2OVFDNW9uYjlDTW93UUROS0Y0TFlpeXRhZ25iMWlmOHdRNDZsdkh1N0ZGVTVuR0tDcGpXZnRKSy0zeF91MWNKcTBKbkhfMVQ4NnJyYkxkSG1lV09YcWRKVjdlaC1BVUNON2xZOTJBNVB2cVZXS1dzWHJ5d2RDaWZKSGxaYlRVeFZsa1lNVHphWkZfU1RBa21wVzNRbjA?oc=5",
-     "published": "2026-10-27T10:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LeU9BWHVvejY2dDlHS0liWDY0MU9IeUNYN3FMX1otWWNSNmMwUWhHQWFKT3JkcjZKUThpaWFvZURIWXJ2VUgwOTVZblEtMzdJWWpKcm5xQWlyQmxYNUhqYTU1X29mU21QYjlZMWJMOE1DdmhTaXA1R2d4SWc?oc=5",
+     "published": "2026-10-27T11:12:00.000Z"
     },
     {
-     "title": "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria",
+     "title": "HSI-PWX5 (0652X5), HSI-PWX5: PW HANG SENG INDEX (KIBB) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS2ZYa3FELVE0OUh5WnNBdnpYYklaUmJSRTJOSHB1M3p3R0Z1U25VY2w5Rm92M3ZpenpYZE1Kb1JKWl96ejNRNjVraVRJMUtrQ1BrSzl6a3VrT1dWano4b0JVYjRES1YtY0w4LWZ0Ri0xZ1RKeUZfZ0VqVkpfcWRiaUZpZ21DTHdxYnljQkdFb2w4c0RJUmZFVFR4d0RObE9wRmRCY0gwV3VNUXRZNjdNc3UwU1N2TmtSX2EwbldIOWVVU0kwYkVySkRR?oc=5",
-     "published": "2026-10-27T09:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IRGJIaURzdjcxYnFxQmNDZGpsaWFVOEZ6UTlfX21MbFJSdzhnejZBZmRMTnI4MTBrQ3h1RHcxbWtFN0xETVBibV9vU3lmSDNBQmtzU1Vncm01V29wM1gyS25WVW51cUY0bWVGZEpHNi1PU2ViU2JjYUQ3S0k?oc=5",
+     "published": "2026-10-27T11:12:00.000Z"
     },
     {
-     "title": "Iraqi court sentences six French men to life in prison for Islamic State membership",
+     "title": "HARTA-C3V (51683V), HARTA-C3V: CW HARTALEGA HOLDINGS BERHAD (AFFIN) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNGpuTFpiTVg0WnFvYmFGWW5icldsaHlnV2xMR1o3VGgxMURUeF9BRXJsTV9TSFl5LWxrcng0bnhJU2I5VGRPUzVvVUJfRWRwd3c1Smc0WWdLTGpjLTZNQ1N0N19xck82RENxc2psLUpvV3N1MktXRkU5c20tYjVDb3BJNHZpQkhVSEFKRTdWbFU3T0lNQVNJeE9ZdnZkNUF3cGMwQmRjbXEzZjJsRjYzMWhWVnE0dmNsMUFMbTdTelIxSGtlM3JPRjZTSWM?oc=5",
-     "published": "2026-10-27T09:56:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PZ0QzNHlualhPWERDOU1IUnc4RFo1dTJoWkVFVHFSdWpnRlNWZ1RXZEZoakFOQUtUSU15UnZwOTBfS2hqXzRhSG9FNjducW4zUGtXSTFXTmE2V2FGbW1rNzRUS0xsVGJ1Zi1aVkppUjlmeWlUR3BwdkU5MWhLQQ?oc=5",
+     "published": "2026-10-27T11:11:00.000Z"
     },
     {
-     "title": "Malaysia News: National, Regional and World News",
+     "title": "Staying humble will be greatest victory for emerging stars",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcUhrelJRN0VIN1ZteGhydkFUck1CaV9oZ3BSWDlSS1VvM09SVnBjc1lmaUxfNE5KMU9fSTgzVzFLVmctNUpBd0NvTVFsSzAzODhZd3k0VkJEUkdoMmxRVUdmQlI3SGVYZF96T2lhQ1FQLWp0NVJiY0FfMnhncjQ3ejJtNFV5c2EyQ2RaS3dXM2drQkhWYTl6UFdBOWlNNUdPeTJja3k3bw?oc=5",
-     "published": "2026-10-27T09:47:02.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGxhVWljR05wMVRNNW5OZDY5MTN2Y0VVR0stZXo1WU0ydlN2WWFUcnN1VGxYd1U2MHktM1J5dTRkWmZlbmNNQzlkQXRWUDMtRzNISGowbWNqYnNUeXItbG54aExCVVdDRUwtVnV5UmtVMlc0SkhkTDdmRkhWTnlaanRDLUxGMHluRTlVdnZnajMwSVhZbjZMUmNBbl9VZTM2YVRHeG9DeWxXOHVKN2FDcU44eEVJWGpLUUpleDJ5cGNyNWIy?oc=5",
+     "published": "2026-10-27T11:10:30.000Z"
     }
    ]
   }
