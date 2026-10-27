@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-26T23:26:30.627Z",
+ "updated": "2026-10-27T00:35:17.795Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots",
+     "brief": "A federal appeals court on Monday rejected the Trump administration’s unprecedented attempt to force California to set aside votes from 20,000 people it claims could be noncitizens.",
+     "link": "https://www.cnn.com/2026/10/26/politics/california-mail-ballot-noncitizen-appeals-court-rejects",
+     "published": "2026-10-26T12:00:00.000Z"
+    },
+    {
+     "title": "Justice Department charges former FBI Director James Comey for third time",
+     "brief": "The Justice Department criminally charged James Comey over a decade-old allegation that he ordered his staff to leak classified information to a reporter, the third time that prosecutors have levied criminal…",
+     "link": "https://www.cnn.com/2026/10/26/politics/james-comey-charged",
+     "published": "2026-10-26T12:00:00.000Z"
+    },
+    {
      "title": "Harry Kane and Alèxia Putellas win men’s and women’s Ballon d’Or awards",
      "brief": "",
      "link": "https://www.cnn.com/2026/10/26/sport/ballon-dor-winners-harry-kane-alexia-putellas",
-     "published": "2026-10-26T23:26:30.879Z"
+     "published": "2026-10-26T12:00:00.000Z"
     },
     {
      "title": "Anthropic taps a deep well of distrust as it eyes its Australian AI debut",
      "brief": "The first rainfall in months splashes off the windshield as the mayor of Western Downs Andrew Smith drives to the site of a proposed AI data center behind a cattle feedlot in rural Queensland.",
      "link": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
-     "published": "2026-10-26T23:25:30.987Z"
-    },
-    {
-     "title": "Appeals court rejects Trump DOJ demand to set aside 20,000 California mail ballots",
-     "brief": "A federal appeals court on Monday rejected the Trump administration’s unprecedented attempt to force California to set aside votes from 20,000 people it claims are noncitizens.",
-     "link": "https://www.cnn.com/2026/10/26/politics/california-mail-ballot-noncitizen-appeals-court-rejects",
-     "published": "2026-10-26T23:24:30.967Z"
+     "published": "2026-10-26T12:00:00.000Z"
     },
     {
      "title": "Anthropic set to make stock market debut as questions swirl about safety of AI",
      "brief": "Anthropic filed for an initial public offering Monday in what could become one of the largest stock market debuts in history — detailing its surging business growth, along with a vast multitude of warnings about how…",
      "link": "https://www.cnn.com/2026/10/26/tech/anthropic-files-ipo",
-     "published": "2026-10-26T23:23:30.934Z"
-    },
-    {
-     "title": "Justice Department charges former FBI Director James Comey for third time",
-     "brief": "The Justice Department criminally charged former FBI Director James Comey for the third time.",
-     "link": "https://www.cnn.com/2026/10/26/politics/james-comey-charged",
-     "published": "2026-10-26T23:22:30.963Z"
+     "published": "2026-10-26T12:00:00.000Z"
     },
     {
      "title": "UN panel: Russia is committing crimes against humanity by targeting civilians in Ukraine",
      "brief": "Russia is committing war crimes and crimes against humanity by intentionally attacking civilian infrastructure – including vital energy systems – in Ukraine, an independent UN investigations panel said on Monday.",
      "link": "https://www.cnn.com/2026/10/26/europe/un-report-russia-ukraine-intl",
-     "published": "2026-10-26T23:21:30.981Z"
+     "published": "2026-10-26T12:00:00.000Z"
     },
     {
      "title": "Trump has made transactional promises in roughly half of states holding key Senate contests",
      "brief": "President Donald Trump kicked off his general election push at last month’s Republican midterm convention by making voters a highly controversial offer: Keep Republicans in the majority, and every US adult will get…",
      "link": "https://www.cnn.com/2026/10/26/politics/trump-campaign-promises-midterms",
-     "published": "2026-10-26T23:20:30.971Z"
+     "published": "2026-10-26T12:00:00.000Z"
     },
     {
      "title": "First confirmed Ebola patient in Nigeria evacuated to Switzerland",
      "brief": "A Swiss woman being treated for Ebola in Nigeria was medically evacuated to Switzerland with her husband Monday, officials said, as Nigerian authorities continued monitoring 52 people who had been in contact with her.",
      "link": "https://www.cnn.com/2026/10/26/europe/switzerland-nigeria-ebola-intl",
-     "published": "2026-10-26T23:19:30.977Z"
+     "published": "2026-10-26T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,42 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Drug mule faces RM2.7mil fine",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGhfSFBjTGpMMHlJRTRCTUwtR1hkZmdQeGxIQmJLRG1HYVJuWmlqVEFwdWVELTdRakl1SFFGV1VaOHpWeHJfUEo4ZTE1ODFTTEhpbFRLdVpnRUJMbVVGWFk1QmtaTURzNFN6T1FBcUVVQkpxaWZTbGsyLWhhUlQwaXNoX1c?oc=5",
+     "published": "2026-10-27T00:33:26.000Z"
+    },
+    {
+     "title": "Applied Materials to raise BESI stake to about 20%",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYjF3ZV95Tk5rODBXUmhlUWg0UVpxSnd5ejFZOEZsdkR5eDU3QUJhMlY4NHljQ1BPLUJ4VElpMW9nWThDaVZlMW50N3JzcW5fS2RobDN1aDAwWThDN3BhZ1B2Wl8yZW9SSnIzS3lab1poczg5dzBldm9PdXNZSW9Bc213OHRIUVlvdHBhbW1vNVgtMUlFUlppZWJVX0swaXJBOFl5Qg?oc=5",
+     "published": "2026-10-27T00:12:00.000Z"
+    },
+    {
+     "title": "Wall Street banks, Blackstone line up $63 billion to finance Broadcom chips for Anthropic",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONEVPbFhVZ1RuZ3MzNjA5Q09lcTVydC1LY0w2T3VQUUZjc0o4X2NrUld1MFlYcEtHRDZSYjRDVlRJMk42cW82RGpsa0hrWkZNTEZvU0xBRzJuWlpBQnE1NDhOVWhVbUdMMXJCdFhkai1OMldfeW5tcm9oSVc3VkdocE41TUhQQUJIWjQwWXpQQmgwblBNX1BUU1ZGeFhBLUFMODRBU2JhcUZTdjlEN2NuX1E2U3MxYl9zR25IdVdFb3pSSkJnQkg5OVBGQkpiN3d4UVZtRVBHNA?oc=5",
+     "published": "2026-10-27T00:01:00.000Z"
+    },
+    {
+     "title": "MBPJ rewards state Sukma 2026 winners",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRWcwU2VBa0RWeVRIazEtSTRyUGkwaWE0RVhBb2FCQS1mX3kzOHJEXzNJNmN3blh1ZzJONlNlZHQ5WVFyaGZ3TkoxSm5fdndkSFVzYXAwU0plVGd5a1N3azNOTklGWkVGZnpoWE9tdEtUUGdzZjQ1LUhFbkNMZ092NkFFYnNKSlVPWkRVM0R2TzNIM2RxaFBJ?oc=5",
+     "published": "2026-10-26T23:58:59.000Z"
+    },
+    {
+     "title": "Between the sticks – how goalkeepers proved to be difference makers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMVZsQjNZV3BZbUI2Mm5oX2N3VXFqYTVjSnVCbUgxR3I1MERvd3p5bE9JUGtvYkVhZUVab3NGVHFUMERRRWxmaTg0V2k0T0NvaWViZV8tbjk2SDZoYzc2b2lKUG1Ga05XaEdKZ1JQbTVHRzI1dzFXZVlPNzdpU2hwTmRaVWJLY1JjZWRrU0k4VlJmaG9SazRSbTlxVmQxQjNrSlA5Z0l2bXFLc0djZVNoOUdIY0R6U1NLV3pRanZtQURFbmIxUjVlcm5fMGV2aS1ETkpUbWo0TTU?oc=5",
+     "published": "2026-10-26T23:39:54.000Z"
+    },
+    {
+     "title": "Staying humble will be greatest victory for emerging stars",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGxhVWljR05wMVRNNW5OZDY5MTN2Y0VVR0stZXo1WU0ydlN2WWFUcnN1VGxYd1U2MHktM1J5dTRkWmZlbmNNQzlkQXRWUDMtRzNISGowbWNqYnNUeXItbG54aExCVVdDRUwtVnV5UmtVMlc0SkhkTDdmRkhWTnlaanRDLUxGMHluRTlVdnZnajMwSVhZbjZMUmNBbl9VZTM2YVRHeG9DeWxXOHVKN2FDcU44eEVJWGpLUUpleDJ5cGNyNWIy?oc=5",
+     "published": "2026-10-26T23:14:09.000Z"
+    },
     {
      "title": "Football: Soccer-England and Bayern forward Kane crowned 2026 Ballon d'Or winner",
      "brief": "",
@@ -70,42 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy03RHZWMXpONjNwRTlxRWNTa3F1TG1wMlVrWGdPQ1VYOXhhVmo1bUJrTXRVN1dueFdHOXdiSWdId1FyS2czcnJIZDVZbXF0ZThGdkk2anUzNktoZUdZaXVBWF9QdERHZFI0TjVmRDRsWGJKZ0owUlNJWTNTQ2FxTmlndHVLcjBYSUFIeW1ldFBaV0VubFVrOXRtZ01SQnIxVHZkZkpUcEFhQQ?oc=5",
      "published": "2026-10-26T22:55:00.000Z"
-    },
-    {
-     "title": "Libya says international safety warnings on its airspace lifted",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSlBtWmVBQUlmcDd2V0NOQ2d4WEtqSWdfWkRFakpvdENjWkJBaWtUcy1NMVhBbUM4bWoxRVZVYmVYb2xfdHdKVEprWjNBdGY4QV94SlU2RjNPQkQ5VENwUnJvQ0tzRUJMRTNybDZpMFV1dThwNTlFZVJ6dU1SQUhlMEROY2ZMS3dxLWlrZzhzc19HbUVvODR0aUcwb2lvUHUwWWRoN0RsUFpDYVJYUkduNUJn?oc=5",
-     "published": "2026-10-26T21:22:00.000Z"
-    },
-    {
-     "title": "U.S. stocks close higher",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iYk12THVvLTZ2TkV5Mjc0VU5OQVNiNnNhc2pjQldfQ1h0c0ZINEt1N1VucW8zdzg3YVd0MXdkcnlpX0xkRGFrY0RNVF93NDBIcm9iMjhmU01qSTRBdzl1aGtiQUdFckRyWXlzZ1ZUYlozY2g0b3J2N2o4dw?oc=5",
-     "published": "2026-10-26T20:15:00.000Z"
-    },
-    {
-     "title": "Crude futures settle lower",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEc2Uzl5c2N3S2FUaTJlSEFfcjdjUDY3aFljTnIxdzJSdjJGM3V6YnJ5YlFENW1vYURjQzl0SDhEMExZUWt1aEJ2ZEF4aklQZ3VlQmJFbnJwWTd5ZkppUzlZT0JBS0kybVZra1BjbWJvVHNSS2ptQ1JoQWFzS0RoMQ?oc=5",
-     "published": "2026-10-26T19:14:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kSjNtUXlpaGtKTE9TWkNPSi1VTzdtdlI3VEtucE5tQlpwalJSNU9renB2TnFDZVJJMVpRSG1sWGpFSlBZSlYxVkxQNmtzR3BtWUV2SE9DY1R5OC03STFwTnFzMm81V1JMT29pLXdRYVU5T2V3QWc?oc=5",
-     "published": "2026-10-26T19:14:00.000Z"
-    },
-    {
-     "title": "Microsoft is offering buyouts to around 60,000 employees, Business Insider reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONWxOYWd2V1BYUTFLMlJoRWQ5eXBzRy1VTy16UjNSQ1k4NUxGcHlSbUVfaFk5cFNab3lYQ0o5Q0xvemxoY0t5MlF2U2tfZV9pX2FxOHF6MXl2QkNhT293OGgxTE9HSVRmcTZLcFFTNEdfVzV6U04tblZCRTZXZGpIbVVPSG90dEVkMFMxSGtacFNyX0lqQXdOMUk0dmZMNWplYWU1bVk0YmtZVGVIeTBneG8xekI0VFo2QzI5WmdEZXY1endtYmpfcTZVQjgtQQ?oc=5",
-     "published": "2026-10-26T16:22:00.000Z"
-    },
-    {
-     "title": "Tennis-Chwalinska withdraws from Tokyo Open due to thigh injury",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSUFvNHg0S2E2TEtfbjU4YTVkM0t3aV9ya3ZvZHJhb2M5c0dPNk1UVFRrYzBHV3poOTdCZHAzeGxjLVdKLWFncmVxcnFyeEN0cTRSRzJlM0cyWG5XaDBrMHhKWUZHUjluR0w1N0Iwa3FkTnVMa3FRQU9PTjlKT2Q1ZWhpZDg1Rk1Vc1hXazFBZW5HeFRsR1NwNnpQVnNweHZNR29GX0d3R28zVUt5TUl2VFNkNC0?oc=5",
-     "published": "2026-10-26T14:31:00.000Z"
     }
    ]
   }
