@@ -1,51 +1,45 @@
 {
- "updated": "2026-10-27T17:41:37.562Z",
+ "updated": "2026-10-27T18:39:08.157Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Flávio Bolsonaro’s whereabouts unknown after reportedly failing to hand passports to Brazilian police",
-     "brief": "The whereabouts of Brazilian senator Flávio Bolsonaro are unknown after the former presidential candidate failed to surrender his passports to police Tuesday, according to CNN affiliate CNN Brasil.",
+     "title": "Senator Flávio Bolsonaro heads to US following Brazil election loss",
+     "brief": "Brazilian senator Flávio Bolsonaro has left Brazil and is headed to the United States after losing Sunday’s presidential election, two sources have confirmed to CNN.",
      "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
-     "published": "2026-10-27T17:40:37.776Z"
+     "published": "2026-10-27T18:39:08.349Z"
     },
     {
-     "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
-     "brief": "A rare skeleton of Nanotyrannus, a smaller T.",
-     "link": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale",
-     "published": "2026-10-27T17:39:37.770Z"
+     "title": "Serial killer Ted Bundy is linked to another Utah teenager’s 1974 murder through new DNA testing, prosecutor says",
+     "brief": "DNA connects serial killer Ted Bundy to the death of a Utah teenager, authorities announced Tuesday, more than 50 years after her body was discovered by a hunter.",
+     "link": "https://www.cnn.com/2026/10/27/us/ted-bundy-utah-murder-dna",
+     "published": "2026-10-27T18:38:08.423Z"
     },
     {
      "title": "Melania Trump says ceasefire has expanded as it takes effect around Russian-occupied city of Oleshky",
      "brief": "A localized ceasefire between Russia and Ukraine around the occupied city of Oleshky that first lady Melania Trump helped to broker has now gone into effect, officials on both sides said Tuesday.",
      "link": "https://www.cnn.com/2026/10/27/europe/russia-ukraine-melania-trump-ceasefire-intl-hnk",
-     "published": "2026-10-27T17:38:37.752Z"
+     "published": "2026-10-27T18:37:08.421Z"
+    },
+    {
+     "title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
+     "brief": "The FBI searched a Beverly Hills mansion Tuesday in connection to an investigation into former Rep.",
+     "link": "https://www.cnn.com/2026/10/27/politics/fbi-searches-beverly-hills-mansion-tied-to-former-rep-eric-swalwell",
+     "published": "2026-10-27T18:36:08.414Z"
+    },
+    {
+     "title": "Rare Nanotyrannus sells at auction for $47.3 million, becoming second most valuable fossil ever",
+     "brief": "A rare skeleton of Nanotyrannus, a smaller T.",
+     "link": "https://www.cnn.com/2026/10/27/science/nanotyrannus-jodi-sale",
+     "published": "2026-10-27T18:33:08.417Z"
     },
     {
      "title": "Susan Saint James, Emmy-winning actor of ‘McMillan & Wife’ and ‘Kate & Allie,’ dies at 80",
      "brief": "Susan Saint James, who costarred with Rock Hudson in the 1970s TV crime series “McMillan & Wife” and later costarred with Jane Curtin in the sitcom “Kate & Allie” in the 1980s, has died.",
      "link": "https://www.cnn.com/2026/10/27/entertainment/susan-saint-james-death",
-     "published": "2026-10-27T17:37:37.748Z"
-    },
-    {
-     "title": "King Charles heads to Caribbean as calls grow for slavery apology",
-     "brief": "Britain’s King Charles III will begin a tour of the Caribbean Tuesday as pressure mounts on Britain to apologize and pay reparations for its role in the slave trade.",
-     "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
-     "published": "2026-10-27T17:36:37.765Z"
-    },
-    {
-     "title": "Republican attack ads mocking Troy Jackson’s relationship roil Maine Senate race against Susan Collins",
-     "brief": "Maine’s battleground Senate race is being roiled by a late burst of Republican ads mocking Democratic nominee Troy Jackson over his relationship with his longtime partner, whom Sen.",
-     "link": "https://www.cnn.com/2026/10/27/politics/susan-collins-troy-jackson-maine-senate-ad-family",
-     "published": "2026-10-27T17:35:37.761Z"
-    },
-    {
-     "title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
-     "brief": "The FBI searched a Beverly Hills mansion in connection to an investigation into former Rep.",
-     "link": "https://www.cnn.com/2026/10/27/politics/fbi-searches-beverly-hills-mansion-tied-to-former-rep-eric-swalwell",
-     "published": "2026-10-27T17:34:37.774Z"
+     "published": "2026-10-27T18:32:08.401Z"
     },
     {
      "title": "Alex Pretti’s family says feds are still stonewalling efforts for justice",
@@ -59,6 +53,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Art and photography exhibition on China's Xinjiang opens in Kyrgyzstan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTzlvU25oOVhVVW1lamJqODRXaEk4c2pQRXE0Wmt3QUVBMG5fRm03NmNKc1FoT1JEUUhhdHhfYUdwTWs1NG1STi0tM2tvMG12ZEU5TDlVYmZybVpBVGlDQWxMd3hyYkdvQjlTZFp2V2EwN0dLUnJkQklvZ01RdUVVd1UzNVJKdmJGZXcyNkthZDhydFg1T0RkZUhwMTdKSkV4T3o2TUpxaDk0S2F6cUphaGVHLWZ4aFpuc2ZqZHhn?oc=5",
+     "published": "2026-10-27T18:04:00.000Z"
+    },
     {
      "title": "Around 1,000 soldiers from El Salvador have deployed to Haiti, source says",
      "brief": "",
@@ -78,40 +78,34 @@
      "published": "2026-10-27T17:18:00.000Z"
     },
     {
-     "title": "Motorsport: Motor racing-Extreme H event in Saudi Arabia postponed to 2027",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOVNWWWVULVVfanJPMHA0dlVwS3VybjFIQ0pXalFHazF0UExTSW9EOXZlcFRxZHpwNFljLXpqUmFjaWJ6ZzdyQW9ZaTlTQUtnWUZhZW1abWE4TGtqRTRDTHZ2TlBHVFE3ZnQ3MFdUc2R6a3FDa2RENGRacXhoMU5WeE9tUXBraV9UZUZkR2JCejJYVUFXdnUyU2JKWVFYS0ZQeHhUaC1Wc3dzcnR5b0hkclNyckd1WDlz?oc=5",
-     "published": "2026-10-27T17:02:00.000Z"
-    },
-    {
      "title": "Football: Soccer-Xhaka and Embolo to return to international duty after Covid test investigation",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbXRxaDQtLWoybkdVUzlBcnBoRWZRam56YzNjSE0tRDYzOXIwMHZmbTBHNE5PX3p0Z29uWk1FTUg0OVBabkwtVGM4MDhkZlZoaXJfQ216UWVNaU1IQmhTLTBDNWtVcXFoem9qWDBCdXVOd2lXbHlIcWl5aVJMTE1lQWtDbkVqRi1zMlk0UmVmNDJESWtpQ25SN0p6OFg4bVFTUm1YNXduUThvR0Vmb3o0WURSMXdwTjY4cWF1LS1SQXBHUWt0eE16YXlpMngtU3Bfc3pvanRB?oc=5",
      "published": "2026-10-27T16:35:00.000Z"
     },
     {
-     "title": "Pope Leo to meet survivors of abuse by clergy in Latin America, Vatican says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMExHRThZSXZvMXBmeHpvam9ZTFc4LVR6UHJUcVVxYmhwSFZBZWF6TFpna3h1SlNrazJ6WnVuLXZrSlo0RDBKVktVS0VjZ0lVNzRYWGtpLXlGTkFXWFFSTjFhaFdhTmR2WXNxdjIzbkhvU3hMM1oxaGd5QzFtVkNXUF9BSGVoLWVRZ3QzOEtBdVJpc3pLMkdLc3FOLS12TDc2cEFlSENKMmg3bVVCUkR6RnVudjF3bmlMNjdNRWZtVktLdw?oc=5",
-     "published": "2026-10-27T16:05:00.000Z"
-    },
-    {
-     "title": "Judge orders Spanish government to declassify more material on Ceuta border surge",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBKQ3IxN1Q3cHZWdmViUzVYM1J2QmZGcTlBMUZqbWxEX2FiT1dNbHltRkw4SzcwcWZXQ09MUWlGT2wwM2Fad25ya2tJNVJ2NkxFWld2QVFlMEduc3lFZjcyVVdKWmpmcGhlUDFVQnRqMUtUSjlKaHFMODR0MDk2MFBiOHhGR2t2VHhCb2ZCaW5LWmFya1kzOXhtbURTbEFJNUdWMlR1ekZUNXdOTlNza3NkMlN1cmo2REsxOC1VTjl5UWd2Wmw5TUxB?oc=5",
-     "published": "2026-10-27T15:45:00.000Z"
-    },
-    {
      "title": "Football: Soccer-PSG's Kvaratskhelia undergoes successful ACL surgery",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcGlxajNCbmctYTlsTGZXeENlRXJBTGhNM0xxbkJHN0MxNXlFODZaNGNCcEx0VmVUZlRzanRLYnBKYVYtMVRWcEcwMzBRcFZTYW9kaTdQWWRheHFfV0xpb29XMkNfUXg0dWMyT1dhN3E1QnVfXy00LWh2SVVDY3NEV1FGeUlTd0RRZy03cmJScFVrU2xfVWY2ZHppaDRwcVlPTWhGT1NuV1pXdVdfdm9OUndiTkg?oc=5",
      "published": "2026-10-27T15:15:00.000Z"
+    },
+    {
+     "title": "Cricket-Sri Lanka beat Pakistan to reach final, England eliminated",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZDJCZnJ1ZlJiSVRiRW1qaEt1WUw5XzlBbGFveVF6RW95TzRRT3ZuNkFhMlNVbVROSDZTdGlTaEpxa1ZxZExWUVZrWUhWZHZBMlYwcm01d0hOd2doNUNjQ3doQlhsbXM4WTZ4WU9CRXVlWnRpRndHaVhkeFRmUmtPYzZTQllXSGpySFJzeDRQWERKWXNyRlVQYVZ0TGZqMHRYR0tjTHhpckZGQmg4bWJ3V1lDTVVlZ0dj?oc=5",
+     "published": "2026-10-27T15:14:00.000Z"
+    },
+    {
+     "title": "Four UK men on trial accused of raping or assaulting drugged woman",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWkZnaXlwZ0RqVkJYSlhweVJhU0VIZ2thOWdFRlJmUzNJQVhSOUhlUndNRGg2aU1YQnozVmFPNXQtclpTYkNCU3JtdGx4TXJxMjU0cVFuM1lUWjJobjdPQnB0QTlSb25xTE93bXF4S2pPb09IN1JTYkRuNnJ1M0dJcEdrU2kySUJtVGl5X3FHcTRxNU4wdFFrM0lDaVVWdXoxT3AxLURrTTBWYUdHRDZnRGNJaGpUUQ?oc=5",
+     "published": "2026-10-27T15:01:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
