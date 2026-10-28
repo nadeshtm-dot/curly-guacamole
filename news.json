@@ -1,51 +1,57 @@
 {
- "updated": "2026-10-28T21:34:47.851Z",
+ "updated": "2026-10-28T22:35:17.752Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Hell will freeze over before Havana gives in to Trump. But regular Cubans don’t have that long",
+     "brief": "The US president has vowed that Cuba could be the next US adversary to face his wrath.",
+     "link": "https://www.cnn.com/2026/10/28/americas/can-cuba-outlast-trump-analysis-latam-intl",
+     "published": "2026-10-28T22:35:17.962Z"
+    },
+    {
+     "title": "A ‘generational defense opportunity’: Hegseth offers full-throated endorsement of Trump’s arch amid legal battle",
+     "brief": "US Defense Secretary Pete Hegseth told a federal judge that President Donald Trump’s proposed triumphal arch is a “generational national defense opportunity” in a legal briefing arguing the project is vital to…",
+     "link": "https://www.cnn.com/2026/10/28/politics/hegseth-trump-arch",
+     "published": "2026-10-28T22:34:17.922Z"
+    },
+    {
+     "title": "Trump administration kicks out Cuban diplomat from US as tensions rise",
+     "brief": "US Ambassador to the UN Mike Waltz said the Trump administration is ejecting a Cuban diplomat from the United States amid soaring tensions between Washington and Havana.",
+     "link": "https://www.cnn.com/2026/10/28/politics/us-kicks-out-cuban-diplomat",
+     "published": "2026-10-28T22:32:17.917Z"
+    },
+    {
+     "title": "What caused the deadly train crash in Spain? What we know so far",
+     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
+     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
+     "published": "2026-10-28T22:31:18.032Z"
+    },
+    {
      "title": "Manhunt for escaped Tennessee murder convict crosses state lines after the truck he stole is found abandoned in Illinois",
      "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
      "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T21:34:48.048Z"
+     "published": "2026-10-28T22:30:17.959Z"
     },
     {
      "title": "RFK Jr. acts to ease access to unproven peptides despite opposition from FDA scientists",
      "brief": "The Trump administration on Wednesday acted to ease access to unproven peptide drugs favored by Health Secretary Robert F.",
      "link": "https://www.cnn.com/2026/10/28/health/fda-peptide-access",
-     "published": "2026-10-28T21:33:48.104Z"
+     "published": "2026-10-28T22:29:17.950Z"
     },
     {
      "title": "CNN, MS NOW and Politico expand lawsuit against Trump White House, citing continued ‘viewpoint discrimination’",
      "brief": "CNN, MS NOW and Politico have amended their lawsuit against President Donald Trump’s White House press ban, citing “continued retaliatory and viewpoint-discriminatory deprivation” by the Trump administration.",
      "link": "https://www.cnn.com/2026/10/28/media/cnn-msnow-politico-amended-lawsuit-trump-white-house-press",
-     "published": "2026-10-28T21:32:48.096Z"
+     "published": "2026-10-28T22:28:17.955Z"
     },
     {
-     "title": "Hayden Panettiere death investigation closed by police in South Carolina",
-     "brief": "Police in South Carolina closed the investigation into actress Hayden Panettiere’s death after it was determined she died of an accidental drug overdose, the Greenville police department said Wednesday.",
-     "link": "https://www.cnn.com/2026/10/28/us/hayden-panettiere-death-investigation-closed",
-     "published": "2026-10-28T21:31:48.112Z"
-    },
-    {
-     "title": "Netanyahu is the ultimate survivor. But can he survive this time?",
-     "brief": "In a political career that has spanned more than three decades, Benjamin Netanyahu has been written off too many times to count, only to prove the obituaries were penned prematurely.",
-     "link": "https://www.cnn.com/2026/10/28/middleeast/netanyahu-israel-election-intl",
-     "published": "2026-10-28T21:30:48.110Z"
-    },
-    {
-     "title": "Dolores Huerta, pioneering labor leader and civil rights icon, dies at 96",
-     "brief": "Dolores Huerta, a pioneering labor organizer and civil rights icon who cofounded the United Farm Workers with Cesar Chavez in the 1960s, died at 96, her family said in a statement Wednesday.",
-     "link": "https://www.cnn.com/2026/10/28/us/dolores-huerta-dead",
-     "published": "2026-10-28T21:29:48.103Z"
-    },
-    {
-     "title": "Did the Fed just make a huge mistake?",
-     "brief": "The cost of living is Issue No.",
-     "link": "https://www.cnn.com/2026/10/28/economy/fed-inflation-rate-decision",
-     "published": "2026-10-28T21:27:48.074Z"
+     "title": "Flávio Bolsonaro says he will lead Brazil’s opposition in exile, after landing in US following election defeat",
+     "brief": "Brazilian senator Flávio Bolsonaro has said he will lead his country’s opposition from the United States, where he arrived on Wednesday after fleeing Brazil following his defeat in Sunday’s presidential election.",
+     "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
+     "published": "2026-10-27T12:00:00.000Z"
     }
    ]
   },
@@ -54,22 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Polish fourth-tier club emulate Fleetwood in Cup upset of league champions",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdEw3azNpa1VPX0hadjgxTkhneWRZUUNkaG8tTUQ1UW1yNUNHZmlwNFFXSDFqVk1FMXAxOTg4RTNaRkdsUjFjQmw3S1B0dU9sMDlBM2pZUEl0dFlVWEkxV1dEcm54VzZwaGNiZDRwLUZNeTRoRDloOXFiVjdJbUJVNlE4NkR2dmNKb0FpQjhaOXVMeWd2UHVzZjdvYUtkZS1kT2xLT203ZDJEMTQzTURsODJvTWQ5MjVIeVhmamcwTTZNSzVrRXlmM0QzZzBGMGs?oc=5",
+     "published": "2026-10-28T22:13:00.000Z"
+    },
+    {
+     "title": "Canada not in position yet to sign U.S. trade deal: Carney",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTRYSE1xNXR0OVhXR19YY2NlYzgtV0RjWEVqbm9pR05qbm5VbEJZSlpHamFBd0MwTnBkQnRxWFktb3ZXZE1TUXdjY19GMWpXdVBkYm5GcDNlU3J5N09Mbk1lZFhNc2pqakpwX2poNEl6WHA0ZmFHVUR6MnZPX1d0SnpuZWp4Yl80ekJLVFlabEZNUGMzUHBqeEZlRGMwaHJHVGJGdnlTTQ?oc=5",
+     "published": "2026-10-28T22:09:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Bayern coach Kompany discharged from hospital, says club",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXhMZnMwT3ppVURPVjhSNDdqSXFpN0NvX25ZdHNzWThiNmp1VDdISFRzUlBsN3BVVXp6cGY4Qi1WQlAxTkdKSW9GV3Z2X1l1bVdYZUJXT21HYzZxYlZoZWNrZ3JRSlhsRUp6T2ZsZ3RKWHZnZ2VIaXpjQW9fSlhVRjRoVGo1OEVJTG5pVEdmcFZjMTdLNUhuMWpON3J6VkVFTlNuTzBDbzRMLWpBbTdZSEZyaW56QQ?oc=5",
      "published": "2026-10-28T21:08:00.000Z"
     },
     {
-     "title": "Ann Joo bags RM62mil EPCC sub-contract",
+     "title": "Pantech’s 2Q net profit rises to RM19.39mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0J3dm1VX0w3RUtESlV0eWNoM3BVSklCTzk2Wk9NR3MwbDgyMFlnLWkxc0pYUjRScDVxNXcwWUxmZ19Mdi1FUnQ3c1VmcDRiV3R1YWltTF84eVdzdGRJWDhHdDBhckVpZmZISUJMWUtPYUlfdXVFM1FDc21FcExra0oxcGZnUFBlei1vVHVwNjBGbk5vZm5QSC1jZERrZnBE?oc=5",
-     "published": "2026-10-28T21:00:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Inter win at Venezia to stay level with Lazio, Milan crash against Bologna",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOLVJycWJLYzZzREhfdTVndmZaNDJjSHJRa2xQU0UwWWJEZ2o0bzBDXzBwbkRZci1tMG9yVzVyNUhrUk1rQ2R5WlhCcU15MnRTOUVLRXA1Q0dxSVNHWWNWeTRjdHNBSWR4YWN1RWZ1UzRPYlB1VFNMOWRSVXdLdHFTSVVyS1lYZHZMLUl2clBIUEttcHhQc3V5dHZVaXpHdzF2Y1piVTJzejRCUDZUS3NzRTZCZkNZQjdoWk5HZk1sOERMaE9sWGJZeHQzNGs3Zw?oc=5",
-     "published": "2026-10-28T20:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdXBBQXRKaGxjTUJTRm1HMGR5TjBTbnhBOGlUSllTM0RJWTlITHJGQ3phYkNsOVlBMnFyMGh1LXkzbElzMGlJX1JsYzFJSVBsVlM4ZExtNnFZOXphM0UzZGlkNUhhbEdhRjNKSzJDaENlcVp6TUplbEFwQ2FtZ1RrQTFBWTVQNElGdGh5UzdvNVV1Y2d6Qmp0WEk0c0pqRUNZc2dQZg?oc=5",
+     "published": "2026-10-28T20:34:06.000Z"
     },
     {
      "title": "U.S. stocks close higher",
@@ -78,34 +90,28 @@
      "published": "2026-10-28T20:26:00.000Z"
     },
     {
+     "title": "EcoFirst in RM70mil fundraise",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDhibHRkZFgtenRSbTBOQzFfZnNEOEgwbHJFSlh4X3h1LTRDNEl4dEdnWWVJTEVBUS1TVGliV3pxZnhMV25Bc0h3dnI0enNQVWxCczJUb0RFU092MzZoNUhDOE9rY21SUkUwRjBiYzh1NkFhN2k0VkVMMmg4SlRmSjFKRXNYUHkzeHd3VnB6bmZ3em1Z?oc=5",
+     "published": "2026-10-28T20:21:55.000Z"
+    },
+    {
      "title": "Flavio Bolsonaro declares himself rightful president-elect of Brazil",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOWhlbkVjLUsza21EVWZOTTVJT3Y5Z2pzT2hJLTJIQ21YN08zbkdMdmhhVEpaLXAzcGo3TmRVWEU4T0dmNlluZnZWSjFTQmlHa2JHclV6X1lxcjBrQnVOcDJqVjJaZy1Tc2xkRjkwM3M1MXp2Mm15Mm5rclZmZzlNSFZRal83YUhvOTBMRmtmQUxLOUhXSEwzQXN1akZDM2NrQVM1T3A3MGVkcXczT0V4NXc5bVNubXhu?oc=5",
      "published": "2026-10-28T20:15:00.000Z"
     },
     {
-     "title": "EcoFirst in RM70mil fundraise",
+     "title": "Farmiera to sell Selangor land for RM5mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDhibHRkZFgtenRSbTBOQzFfZnNEOEgwbHJFSlh4X3h1LTRDNEl4dEdnWWVJTEVBUS1TVGliV3pxZnhMV25Bc0h3dnI0enNQVWxCczJUb0RFU092MzZoNUhDOE9rY21SUkUwRjBiYzh1NkFhN2k0VkVMMmg4SlRmSjFKRXNYUHkzeHd3VnB6bmZ3em1Z?oc=5",
-     "published": "2026-10-28T20:03:38.000Z"
-    },
-    {
-     "title": "T7 Global bags offshore services deal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTDdPQ0g2cGZQZTh0ejdHcEhKNy15MmNNakc5TWtXRElpc2UtVHppLWtVZXJzQUJmYmZjNDNjLS1MZmRlUnVPQlZldlhpbHdjc0V6amd0N2l6SzdUVkstMjB1ajVvUjZwRXM5V3QtWURwM1RtQkU5RGRZTXhXcTJoc3hxcUQtMDJncGx0dkxaWUVLZnhfcEpfcWo1OENaMms?oc=5",
-     "published": "2026-10-28T20:02:09.000Z"
-    },
-    {
-     "title": "Football: Soccer-Celestini appointed Burnley head coach after Hayen's departure",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOGNlMHdGdERLbnpQMGJDY2FudWlsZHlielh3N0Y2M0pUSzhlQmJBNHJLWENka2hfcGtRVmJJYV9la0VQNlRNMk4zMDZ6LXRpaWhITHBWc3IzUnBUbWIxODFkWEdiNGUyRzIwTEZoMWdXeXBHYVl1OFFlb3U5Z3hYbmFueFJoZERSbUJ6N1lzcGlPYWRyTjZJU3FDVnhhb3dQUzVjVTlPaERwaHpSY2FoTzhkS0NCSG5PZjVlZURtUVQ0Zw?oc=5",
-     "published": "2026-10-28T20:01:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVW1GeWpmSW5veW93VnhpUTFiRl90VFF1X0JkSGl3WHdEUlFRWGxnclZhb1lyV0cxZ2w3a0F0elBQUGpDRzAtbjBjMXFvRmJiLWIxU0NPTUIzMExiQUlRZFpKM1gzcF8xYlVFYVNjc0hveHV5bjRfdmpjMmYyWlBJd29pMHF4ZHYyYW5xYXhDQWwwYVRnMUY1Z0cwN2xlM25kMFBDZQ?oc=5",
+     "published": "2026-10-28T20:03:45.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
