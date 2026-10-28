@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T07:54:39.854Z",
+ "updated": "2026-10-28T08:47:42.444Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,13 +9,19 @@
      "title": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs",
      "brief": "A residential cruise ship that has been sailing around the world continuously for more than two years has evicted passengers in Cambodia after the fallout from the Iran war made fuel prices too expensive to continue…",
      "link": "https://www.cnn.com/2026/10/28/travel/round-the-world-cruise-ends-cambodia-iran-war-hnk-intl",
-     "published": "2026-10-28T07:53:40.045Z"
+     "published": "2026-10-28T08:45:42.697Z"
     },
     {
      "title": "It can be lonely at the top. And that’s just how China’s leader likes it",
      "brief": "Last week Beijing’s deputy mayor was meeting with Walmart CEO John Furner and encouraging American companies to invest in the Chinese capital.",
      "link": "https://www.cnn.com/2026/10/28/china/china-plenum-xi-corruption-purge-analysis-hnk-intl",
-     "published": "2026-10-28T07:50:40.073Z"
+     "published": "2026-10-28T08:43:42.760Z"
+    },
+    {
+     "title": "Soccer star Kylian Mbappé seeks to defuse anger in China after Mao ‘dictator’ comment",
+     "brief": "France soccer captain Kylian Mbappé apologized to China on Tuesday after a fierce backlash over his comments referring to late Chinese leader Mao Zedong as a dictator, underscoring how swiftly global celebrities can…",
+     "link": "https://www.cnn.com/2026/10/27/sport/kylian-mbappe-apologizes-chinese-dictator-remark",
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "Trump approved allowing Flávio Bolsonaro to enter US after Brazil election loss, source says",
@@ -27,12 +33,6 @@
      "title": "Israel just voted in a critical election. But the ultimate outcome will take time to become clear",
      "brief": "Israel’s elections produced no clear winner Tuesday night, exit polls showed, with neither Prime Minister Benjamin Netanyahu nor his main rival Gadi Eisenkot within reach of the 61 seats needed for a governing…",
      "link": "https://www.cnn.com/2026/10/27/middleeast/israel-elections-outcome-analysis-hnk-intl",
-     "published": "2026-10-27T12:00:00.000Z"
-    },
-    {
-     "title": "Soccer star Kylian Mbappé seeks to defuse anger in China after Mao ‘dictator’ comment",
-     "brief": "France soccer captain Kylian Mbappé apologised to China on Tuesday after a fierce backlash over his comments referring to late Chinese leader Mao Zedong as a dictator, underscoring how swiftly global celebrities can…",
-     "link": "https://www.cnn.com/2026/10/27/sport/kylian-mbappe-apologizes-chinese-dictator-remark",
      "published": "2026-10-27T12:00:00.000Z"
     },
     {
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Rugby-Veteran Beale added to Wallabies squad for Nations Championship tests",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQ2JIRE9taEppNHNOZHRtcEZnR1J4aF9sa3lMbzVwSTQ0Uy1hcF9IWXNiZmx2MERXY1FCUGRHcVhRY3RiMTVNY0xsVzVrQ3BpcVN0RGowRUgxaV9ILXBDOXlHaFcyUWJ0Mnh4ZEdmRUtMeVhIVFA1bkhzVWlNYnREeTlOOS1ocnE0QklXeE9SMzNtU0lwSHpXbk5pSzVyd18zcW1rV2p0NFJSLUxza3ZOTHJ0RWd5MzE1aTRCRFBvajF0ZEE?oc=5",
+     "published": "2026-10-28T08:31:00.000Z"
+    },
+    {
+     "title": "Flight attendant charged with murdering company supervisor",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHdrUmN4VnVrTDJCTkxIZFRqODRpUXBEMGJYbEt6aG52VWdNRmhVeFVrLWU5UDZGYXhKckotM2U0aHlBYW1VTENUNjlVUEVjTklNNU5JSVNremplaG5CZ0NlTkRzNGg3dW04RFdyR1B5REctTmpzRUlFazNUb1Itb1dVWGFjeGdacEQ4cXZOTXhfT08wbkptU1FkNUltQkhTdHlkTXRtV2pkc3Zi?oc=5",
+     "published": "2026-10-28T07:50:00.000Z"
+    },
+    {
      "title": "Flavio Bolsonaro and family board flight bound for Ecuador, Argentina says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRDIxT0k0Z0hPeUNXcV9TRnZweWk2NFpIQWVqQnpDc2VmWUJzMkp2LXczd0lISkpfUHNFZmZBS3d3ZmZWT3dnbHAxdk81VmFxajNGV1h1WHVtbHVfMk5jdDZpYWsxMXp2SjdCcWFyOWdfT0ttSUlQLTFOaHRkWWk4S3RNUGstSUdDY2JxTkNzNmY0UDM1YnV1Y2RtbVZpVXEwZlBkbVg2WmFWc21xTjBab2ZTaWJ4SVVMREJWUkhSVQ?oc=5",
@@ -78,6 +90,12 @@
      "published": "2026-10-28T06:41:00.000Z"
     },
     {
+     "title": "China's old-age dependency ratio overtakes children for first time",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdkktbE84dlpHU3lFSGtHd0RYVXhXTzU5NU80SU9JTFN4T0l5Mkh0ZVBaUUpoUzRpWTJUalRpVEdFU0IxMzRFNERRZDBZZFNBSWVVa0N3S0Z3MWVGMmJWd2owaXZ1ckRRSDRpZHBoV0VfcVM1SDhRWEpUZlk5RHZJYTg2eXhUeWMwUzNCUUlhNS1kYkdRQlFlS0JNdExLM3RQa3hWeHlNUDhJb0tvQkIyZ0p4RjJTOC03blJVUm1FX2pGaF9SU2l2bXAycw?oc=5",
+     "published": "2026-10-28T06:39:00.000Z"
+    },
+    {
      "title": "T7 Global unit secures contract for provision of HUC services",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUVVaY0JxdEtfcVVqdXN6SFZsSTBDbVVkNWhCamJ2bjZVanZvbllqV1hZX2tKYmt2TFpxTEIyZEk4cEZUNHpKbFNNeE5oNjNLUmtYNE5XcHB1VnhCcWlBRXRHM2JsMExKSFBEN2UtTWNYRTlEb0tKbjgxaEpobHRTU0tBYUFuU3JPOGFkUEhVOTZvYVIwTG5tbkM3dWZ5QTJZbFZnQzlZQk8weE9rTnFneVh6TGgxLWRQZjBVMVhINA?oc=5",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUlfa0NIb2tvNlFGb2NsWW1KczJoMndPYXEzMmNzOXNnckI4WEdrZERBeVhtS3FCUjVMVTBhaEU3R2hvUkc2T25HclRubDRKeGNTNGxKWGRWcGQzMTBuWHpJRExBNUNyYktJNXZzajZpUVRYT0NVUHR3NlJDQi02VVJtTGJuek1jYVplMUtaQ2FtV1ctSnc2anNPTTl2Y0JHUEVEVVh1eV9vcDgzWEk1MzdiM2l4REduY2d6N056YVBFUlU0dk1HS0FNdw?oc=5",
      "published": "2026-10-28T05:20:00.000Z"
-    },
-    {
-     "title": "Further 1MDB recoveries will not erase billions in losses, says Amir Hamzah",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUE5CWVV1ZlhZbF81YlFwQWxJbHhwMnJZeDVlNXJIODRjeC1IbXM3TmdmTEpXNG53RVF4Z0VYTUZxZE1OQ090N1Rod29rRUVPUnlkZmhlTUJyQnhjVUFFWjJmZXd4YlEzTWFuTDBXNlBJV0Q3WDJXZFNNdnZUNDY3MGtSNmQxMWl2bkVwQ0t5anlXMUE5Q0JoNXdBSjl3RGtHNjhjVnVRT0lrYXQ2TGNKSF91Mkc2SEJjYXI1SGJrVVdMUQ?oc=5",
-     "published": "2026-10-28T04:36:00.000Z"
-    },
-    {
-     "title": "Najib allowed to attend leave application hearing in RM1.9mil suit against Tommy Thomas",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMFNlQVlLT29hV3k0dGNUa2hza3RDU21DUjJDOWM1aHhaUkZJbjB5WURjdVpVckFBN3hvX2NlRHFiTEZxam5hYkFrcGhmQWVXTkUtaHlMdGkxS3JtZzlHRDRhX3Y2Q2pLcXpoOVVkWjVHU2VSeG9BaDlodWZwX05NdXhiU09UNkdFOW5rWHhWU0NzUGpYRkZZa1lpNzBlY3gxM3Vhb0tDUlFPSjlzVTY4ekdxM0FUeFNzSU90NlJOZS1MS1VnUldnNDYzdmxGWTB2OEE?oc=5",
-     "published": "2026-10-28T04:14:00.000Z"
-    },
-    {
-     "title": "'The Pitt' actor Noah Wyle named People magazine's 'sexiest man alive'",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmJzSVhnckoyRU5wYUx2WjhCaGNNZ3lGNHZkaUpfWkZaODgwWFROTnNZWGtsY0g4ZW5oY1BnWkZVcUdWc2FhRlBIV0s5Z3JQMU8tVml2a25WMlFmOFNGRWlPQ042T2NtY2RwdE45Sk12ckpBWGM0bzMwZE16NDFxM0tNbHd3Y1ZxQ3Q3QS1hRVUzb3Z6TDB3QnAwSHVWVXFMaTZPekZQWFJncXB5dWdXN0xJTHk2cXN3bkpjX1pLMWs3MllaajZleF9sb1hlbkNJOGhxVno5UXVZUQ?oc=5",
-     "published": "2026-10-28T04:04:00.000Z"
     }
    ]
   }
