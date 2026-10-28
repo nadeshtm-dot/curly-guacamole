@@ -1,56 +1,50 @@
 {
- "updated": "2026-10-28T14:50:03.940Z",
+ "updated": "2026-10-28T15:46:48.865Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Dutch zookeeper dies after being attacked by leopard",
-     "brief": "A zookeeper has died from her injuries days after she was attacked by a leopard at the Dutch safari park where she worked.",
-     "link": "https://www.cnn.com/2026/10/28/europe/dutch-zookeeper-dies-leopard-attack-scli-intl",
-     "published": "2026-10-28T14:49:04.161Z"
+     "title": "New study suggests 3 in 4 former NFL players who died from 2008 to 2023 had CTE",
+     "brief": "A new study estimates about 3 in 4 former National Football League players who died between 2008 and 2023 had chronic traumatic encephalopathy — an even higher level than identified in another recent study of former…",
+     "link": "https://www.cnn.com/2026/10/28/health/former-nfl-players-cte",
+     "published": "2026-10-28T15:44:49.467Z"
+    },
+    {
+     "title": "Abdul El-Sayed and Haley Stevens haven’t campaigned together — or spoken — in recent months",
+     "brief": "With under a week to go in what many polls are showing as a still tight Senate race in Michigan, Abdul El-Sayed hasn’t called his former primary opponent Rep.",
+     "link": "https://www.cnn.com/2026/10/28/politics/abdul-el-sayed-michigan-senate-haley-stevens-mike-rogers",
+     "published": "2026-10-28T15:43:49.445Z"
+    },
+    {
+     "title": "She exchanged 40,000 texts with her alleged killer. At his trial, they’re being used to tell two different stories",
+     "brief": "Matthew Farwell wanted to stop by Sandra Birchmore’s apartment.",
+     "link": "https://www.cnn.com/2026/10/28/us/matthew-farwell-trial-sandra-birchmore",
+     "published": "2026-10-28T15:42:49.451Z"
     },
     {
      "title": "Manhunt for escaped Tennessee murder convict crosses state lines after his stolen truck is found abandoned in Illinois",
      "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
      "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T14:48:04.170Z"
+     "published": "2026-10-28T15:41:49.468Z"
+    },
+    {
+     "title": "Dutch zookeeper dies after being attacked by leopard",
+     "brief": "A zookeeper has died from her injuries days after she was attacked by a leopard at the Dutch safari park where she worked.",
+     "link": "https://www.cnn.com/2026/10/28/europe/dutch-zookeeper-dies-leopard-attack-scli-intl",
+     "published": "2026-10-28T15:40:49.461Z"
     },
     {
      "title": "Look of the Week: It’s Drake’s birthday and he’ll wear red leather pants if he wants to",
      "brief": "If you were a polarizing Canadian rapper who had a tumultuous end to your 30s and had spent the better part of the last year releasing a trove of new music to change the narrative, what would you want to signal…",
      "link": "https://www.cnn.com/2026/10/28/style/drake-birthday-lotw",
-     "published": "2026-10-28T14:47:04.152Z"
-    },
-    {
-     "title": "Continuous round-the-world cruise comes to an end as Iran war spikes fuel costs",
-     "brief": "A residential cruise ship that has been sailing around the world continuously for more than two years has evicted passengers in Cambodia after the fallout from the Iran war made fuel prices too expensive to continue…",
-     "link": "https://www.cnn.com/2026/10/28/travel/round-the-world-cruise-ends-cambodia-iran-war-hnk-intl",
-     "published": "2026-10-28T14:46:04.168Z"
-    },
-    {
-     "title": "Hundreds of World War I munitions exposed by melting ice removed from Dolomites",
-     "brief": "Some 250 World War I-era munitions that emerged from rapidly retreating glaciers in the Italian Dolomites have been removed.",
-     "link": "https://www.cnn.com/2026/10/28/travel/munitions-melting-ice-dolomites-scli-intl",
-     "published": "2026-10-28T14:45:04.157Z"
+     "published": "2026-10-28T15:39:49.458Z"
     },
     {
      "title": "Flavio Bolsonaro lands in US after fleeing Brazil following election defeat",
      "brief": "Brazilian senator Flávio Bolsonaro has landed in the US after fleeing Brazil following defeat in the country’s presidential election on Sunday.",
      "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
-     "published": "2026-10-27T12:00:00.000Z"
-    },
-    {
-     "title": "King Charles acknowledges ‘injustices of the past’ as Caribbean tour gets underway",
-     "brief": "Britain’s King Charles III began his nine-day tour of the Caribbean region Tuesday, arriving in the Bahamas where he acknowledged “the great suffering and injustices of the past” as pressure mounts on Britain to…",
-     "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
-     "published": "2026-10-27T12:00:00.000Z"
-    },
-    {
-     "title": "Justice Department fails to indict former White House aide over her testimony about Trump and Jan. 6, sources say",
-     "brief": "Justice Department prosecutors on Tuesday tried and failed to secure a grand jury indictment of former White House aide Cassidy Hutchinson over her testimony about President Donald Trump’s role in the January 6,…",
-     "link": "https://www.cnn.com/2026/10/27/politics/cassidy-hutchinson-fail-indictment",
      "published": "2026-10-27T12:00:00.000Z"
     }
    ]
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Carney to host European Union officials as draft declaration avoids 'associate member' discussion",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWROUHpkVHJ4UVhoNjdfWXhIWHlRd0I4YVpKWGMtMVZrVkcwMXBELXVibGRYUm00UzZFN2Z6OXBIU2h6cy11VnRvLUJoOTFSdjJaQWJOS2xrNHBGTHdqY1JNdlFrSXFNYnByM0ZJSkZkbmhMUmhjRE8tdld1TTNTUW9SZVJYR3BiLWMyanh6d3BHUHZRcDJuMUcxRTNLb3kxc1RuLWpPVm1GTXF2aE9JMXJsR1BuTTdUZ2YtUFJ3RGFFZGxyNDFzeEh6OFpEUzlGWTVyM3RLWWdlaWNzUkZCYzl3WUs?oc=5",
+     "published": "2026-10-28T15:41:00.000Z"
+    },
+    {
+     "title": "Dropbox plans 9% workforce cut, technology chief to exit",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjk5RWczWWdHUENtOEdMSWpZNFBPalQyZV9VMnJKNm9pTi1jcEVxT3pHOFRvSl9MY3RGZGZOSFZDeFZXQUhZWkpMU1YxOTB0VnQ0ZE92eFo3elBJYVZqdVpJeWV0Yl8wZWJod2xvNEszY01pUVV6TXJLcy01UDg4ay15M0lRQk5hZUxjaDdhUkxiR2hid25uY2FtaEhZdnpFT2V6eHlkTWh4clU?oc=5",
+     "published": "2026-10-28T15:21:00.000Z"
+    },
+    {
+     "title": "UK anti-Islam activist Robinson convicted of harassing two journalists",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdzIwRnZRLWRHNUt6eDR2MzZ3Zk9wbC1EWjVIWmh4MldkUzNLMVNGTllPbF9yVks3elRlbEp0dzdfazNSUzFCcGZVdHMzQi1Pc24zTVdITVYzT1dSSFRJUmhKQXNzVW41X0I1MGdrSTFWNEh0b2hBODR1amxoWjZ6eFo0U3B2VFdmUHVRTVZPT1lsU21lQjJMaFlHelVqRkR4S3pPajlNbkNqWlZmSGtTa3lERm42aTh0T0Uw?oc=5",
+     "published": "2026-10-28T15:19:00.000Z"
+    },
+    {
+     "title": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1E5ekY3bGFOTWNBRTFqRlFSaXJxUGF6M3otQVhsbW1FMzVNX200dTl5OTdJY05OTjBaZEsxOFBzaUg1eFB0bUo3d1lZVzJuUXdiV1hYWnFDcTJWc1VtZHVsd1hxY2p3SHJnbnBSUTdzNWNNeTB6UkxtUTlOWWN5UjVFQU5Hb2drV3dfZ21lWUl3aS1Fb0E4eXIyVkh1dFRiSTFaTWkwV2NJWkpCak51alpDYXVseXFKWFpPa2cyYzU?oc=5",
+     "published": "2026-10-28T15:19:00.000Z"
+    },
+    {
+     "title": "Germany weighs role in GCAP fighter jet program, says Merz on Japan visit",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZzBUbjMxbXNzSU9pT0FjRVFtYjd6UTRjNHE3cEVQUkFfT1dWYjNfcjY2WWl2eWdKYU9zeXkzb09sUDN1LXo4Yk1pU1MxU1VhZUljVkwwc09OY3dpWUlEWmE4VDV3aXVONmFUekVxNDRpcFQ2TWllZXB5YTdYZF9ubDEwTmxBd2VHUUFNNk1uMnpqV3d5d3FxOGN0dU84RFl2bEhrUEVySFpBRlJ3NlgwZmVBaWo1SldhaHBaR1ZR?oc=5",
+     "published": "2026-10-28T15:03:00.000Z"
+    },
+    {
+     "title": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbjd3NGlieEZuWDVrTm5YVUkzazZMVnQyc01PYVE3N3IwdGxIbHRaNGctR2tKRGFJM0lSZ3loakxqZUZVMVk4eU5DWkQtN1loMXkyNUIyYU1fUUI0WTNFQ2Q5SWZMcUFtN05jdTlsb2FEeUw1R1Y1eGM0RW9kSThrX3NvUDVhYjdDUm5sUU1QMmQ2eEpsNVpaYWNkRFZRM0dQekN4S3FDdy1PbFBjdTBjOXpjSXlCcnZVTmNlN2dkY2I5LTRaQUl5M1NrNUE3aWpqbnc?oc=5",
+     "published": "2026-10-28T14:45:00.000Z"
+    },
+    {
      "title": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhlMGdTOEd5OUtFVkpBQlZZR2kxV2g3dmhOdUFyRWtPTEQ0VUZsU3B4SEJnRmNoS0FzWFBHS1laaF9jZnZGMWF5MHd3YVlUa1JvNE80bFNGelFpSTh3WEhDcGlVd002elFkaGpDeHZJSFFsbTNydWt0NHlEQmpJRWpfR0lwSmdIRjE0Z0oxcFd2ZGswR2lsWXdoanV3QzF5UG9DbkZWdHRCZUpQVkdQSjQySmlkYWxvM3M3TmZnLWdxQ2l0NEE?oc=5",
      "published": "2026-10-28T14:42:00.000Z"
     },
     {
-     "title": "Brazil's Flavio Bolsonaro arrives in US after election defeat",
+     "title": "Over 400 Philippine overseas migrant workers repatriated from Saudi Arabia",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaC1OVGN5TlByT0lMNDZvTXd5M1NuZ2twcHB3THNzU002OXFXejBQSWlwWmZpX24xMkI5TXItMGQ4WURPZmlaNkpKNWNTZzhpZHliUG1lcXJUOUtDNGxKaVktVEVUbFZZOEQxM09ZYzh3UThOaTcyY1NFZ0xGZUJEYnBMRW5uV1pOc2hzMHZyUy1uN0QwRzdFNFdMYkQ0cENJM1BwZnVmQnlCRW8zVE5fRTRn?oc=5",
-     "published": "2026-10-28T13:52:00.000Z"
-    },
-    {
-     "title": "Cricket-Renshaw, Green guide Australia to 191-4",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDBCMER2b3hTWEdGQlIzTFE4WDRnWkpTckxOUW9YWEQ5Z1dOY2plZWhlZ0NMTTljd3Vza0FUMUs4cnd3dGZTYlhiVVZCa2ZHYlFTUHRLb20tOWxmZnYwa0ZUc3lZNF9EdmIwQ3VqVk1JVlBwZzBkTXd4UWNlaWN0eDd3VGU4ZzN3T2MxVUQtYzJGb0NxbEFGNEJkMFJtbU0?oc=5",
-     "published": "2026-10-28T13:31:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-RC Lens ban own fans from attending Lille match",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQODZKVEMxcWF6RHY2OERRNjBOdzdQcEJrR3dJVklTV3hwR0V4dkhnQ3kwSGI4amxWd2Q1MU55clhKS2ZyVDlSb3FBRkN0Vk1aVnZQTTNLOXY5MlZ4cjE1S2hkWVZtU0pVYTFRSjZRUFM3cUhROTRTYzBpUHhYenRXSzBuTWRXWG91MWVRRmxrVFFRVXFDQTRWajJzU1Fpd0VnaWlSZlJvUlktbHM?oc=5",
-     "published": "2026-10-28T12:39:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Copa del Rey fixtures postponed following train crash",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnZCcUxJWnZGSDFkYUFLUmxpQVY1STYyYlR4SU5OUVUtNTlEeDZoX2x3THhEZkVGczltZjFod0Qxem9hY2p4Q3B4ZExEUXFzazRsTU5HcWZrZUZDdkUzNlo3Z0tsU1VIb29QdTJTUE1QMWVCV1UyNFVrc3FyYi1qcFhjOGIwRjJxUndBb1dyOGRtVU1FM09LeFZGZWo0dnkzSmVuQTBDWUlfdllRakh6Q0h1QQ?oc=5",
-     "published": "2026-10-28T12:26:00.000Z"
-    },
-    {
-     "title": "Total RM3.8bil financing approved to benefit about 6,800 SME accounts",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUDZkRzhhUWRqVzgxLVdDR0xRZW1mRENUWk5ITE50d2pVS3gwdUtlTUg4Y3FackxudzNCR0JoQ2lsdV9JakpicE9YZG5FVXdXLUQ4S3BTR3FCcjBDSjJRc2NDczJZazRHNGFTREdrTFhlS3NYOGVVWkVQVjhlcldiaWhCekpVWDlRME1zMVp6R19SWXgyZGN0TkVwUXNFMmFlYk5wenl1NnZrdWF3UlRxaU0tZV85YWt2amJUUjY2U0M4MG1zN2RF?oc=5",
-     "published": "2026-10-28T12:15:00.000Z"
-    },
-    {
-     "title": "Flavio Bolsonaro expected to land in Miami shortly after Trump offers Brazil exit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbWp2UFhyYk53d1JuTExwaGl2ejhsZ055bGt6U2ZGWnByQUVfUGtyQU02aThBeTFfRjRrTUdOX2owUEloNmpKS3U2cUlhOHhoT1ctRzhiUm1ZcDAxVFhJRGZzcjdQamNxNE5kdlpFeWo2RVZmM3lJZHViWGh1VUduYmRtWEV2Y0IyeWtwUkY1TVp0V1R6ek5ocTd0UWxsM2l2X3dUN3ZrTThPU2RhMG9aZkdDU3VYclcxTVU5cWJjQjRlRzN5WkY2d3Bn?oc=5",
-     "published": "2026-10-28T12:03:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-African Confederation Cup group phase draw",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUlFsMlUwTmlqTmhvVWZvc0VrRzUtTlRSZmVnRGVXNzhuOHB1VloxbkxTZEhLdWFvUGxRRC1TM0U1OWZEZjNJTlQ1X3JWTlphVUhjTGZ0R2UtX3V4X2dmb2t3Q0R1ZGJuSUxWNGt2eFZGRTFnM0o0WjhpWTA0d0ViNXJTQXNRaWRqVVMyeTFNd1ZpaVNOQ29GRTBibGRBeEtNQ1U5RA?oc=5",
-     "published": "2026-10-28T11:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYnEzczdiYTFHMGpoYlA0TTlndFhWcTNNZWhlYm9XeU1pckc3cXFLSTd4UmRzQnVhOVlVOEMybmRDVWRJYVBaQk54M3VETHhQWjByQ2RVT1lNOGwyQVBJeGhNSTA4UGU5V3owWWlmSjVNS05TM0RRT0ZpbGdQbDZfN1ZsTVN3N2JOS09hb0RvaVE4OE1tVXdsVWd5anV0cERUaUozUTFCODlLQ0psUXhKenM0YWE0QTIxaWNRM24ta2F3cGpJVWxRV0toLS1mRDAybTQ4?oc=5",
+     "published": "2026-10-28T14:31:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
