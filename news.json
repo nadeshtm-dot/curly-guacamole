@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-28T17:41:49.576Z",
+ "updated": "2026-10-28T18:42:06.703Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Hell will freeze over before Havana gives in to Trump. But regular Cubans don’t have that long",
-     "brief": "The US president has vowed that Cuba could be the next US adversary to face his wrath.",
-     "link": "https://www.cnn.com/2026/10/28/americas/can-cuba-outlast-trump-analysis-latam-intl",
-     "published": "2026-10-28T17:40:49.854Z"
-    },
-    {
-     "title": "‘It’s definitely the time’: Black governor hopefuls from both parties aim to make history in midterms",
-     "brief": "Americans have elected three Black governors in the nation’s 250-year history.",
-     "link": "https://www.cnn.com/2026/10/28/politics/black-governor-candidates-bottoms-donalds",
-     "published": "2026-10-28T17:39:49.800Z"
-    },
-    {
-     "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
-     "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
-     "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
-     "published": "2026-10-28T17:38:49.844Z"
-    },
-    {
-     "title": "Dolores Huerta, pioneering labor leader and civil rights icon, dies at 96",
-     "brief": "Dolores Huerta, a pioneering labor organizer and civil rights icon who cofounded the United Farm Workers with Cesar Chavez in the 1960s, died at 96, her family said in a statement Wednesday.",
-     "link": "https://www.cnn.com/2026/10/28/us/dolores-huerta-dead",
-     "published": "2026-10-28T17:37:49.848Z"
-    },
-    {
-     "title": "Abdul El-Sayed and Haley Stevens haven’t campaigned together — or spoken — in recent months",
-     "brief": "With under a week to go in what many polls are showing as a still tight Senate race in Michigan, Abdul El-Sayed hasn’t called his former primary opponent Rep.",
-     "link": "https://www.cnn.com/2026/10/28/politics/abdul-el-sayed-michigan-senate-haley-stevens-mike-rogers",
-     "published": "2026-10-28T17:36:49.792Z"
-    },
-    {
-     "title": "Manhunt for escaped Tennessee murder convict crosses state lines after his stolen truck is found abandoned in Illinois",
+     "title": "Manhunt for escaped Tennessee murder convict crosses state lines after the truck he stole is found abandoned in Illinois",
      "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
      "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T17:35:50.000Z"
+     "published": "2026-10-28T18:41:06.955Z"
     },
     {
-     "title": "Astronomers spot a new dwarf planet candidate beyond Pluto",
+     "title": "What caused the deadly train crash in Spain? What we know so far",
+     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
+     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
+     "published": "2026-10-28T18:40:06.933Z"
+    },
+    {
+     "title": "Right-wing influencers charged after Minnesota polling station stunt",
+     "brief": "A Minnesota county attorney is charging right-wing influencers James O’Keefe and Cameron Higby with felony counts of unlawful voting and identity theft, alleging that the two claimed other voters’ identities while…",
+     "link": "https://www.cnn.com/2026/10/28/politics/right-wing-influencers-charged-unlawful-voting-identity-theft",
+     "published": "2026-10-28T18:39:06.930Z"
+    },
+    {
+     "title": "‘It’s big’: Astronomers make startling discovery of a possible dwarf planet beyond Pluto",
      "brief": "Astronomers have spotted a new dwarf planet candidate in the solar system, beyond the orbit of Pluto, which they provisionally named ED138.",
      "link": "https://www.cnn.com/2026/10/28/science/ed138-dwarf-planet-candidate-beyond-pluto",
-     "published": "2026-10-28T17:34:49.795Z"
+     "published": "2026-10-28T18:38:06.928Z"
+    },
+    {
+     "title": "FDA scientists opposed the Trump administration’s move to ease peptides access",
+     "brief": "A plan to give people in the United States easier access to unproven peptide drugs favored by Health Secretary Robert F.",
+     "link": "https://www.cnn.com/2026/10/28/health/fda-peptide-access",
+     "published": "2026-10-28T18:37:06.952Z"
+    },
+    {
+     "title": "Apple just announced its first ever MacBook with a touchscreen",
+     "brief": "Apple once scoffed at the idea of a laptop with a touchscreen.",
+     "link": "https://www.cnn.com/2026/10/28/tech/apple-macbook-pro-touchscreen",
+     "published": "2026-10-28T18:36:06.917Z"
+    },
+    {
+     "title": "King Charles acknowledges ‘injustices of the past’ as Caribbean tour gets underway",
+     "brief": "Britain’s King Charles III began his nine-day tour of the Caribbean region Tuesday, arriving in the Bahamas where he acknowledged “the great suffering and injustices of the past” as pressure mounts on Britain to…",
+     "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "Flávio Bolsonaro lands in US after fleeing Brazil following election defeat",
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "China-Namibia South-South Cooperation Project phase II trains over 2,300 Namibians",
+     "title": "Urgent: U.S. Fed holds interest rate steady ahead of midterm elections",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWNKOVE4SjlNbXI5V1RkUmdVVlJLVmZwajNCcHdpQnpNZEV0bUs1cEh1V0R6aFd0YmlwUDh2MVVNVV95U2VnOWhfTFhhbHdPNWFBSWZHQ2pGVGktSkRCWWtnVDRCaGdoWldHSzNkT3QyaHR6elJaaVNkVV82cmJVbkRGbjBPZzJMaVRwTmxkdS1RUUUwdlUxaW1LRERYUGd4bjlRNW5lckczeGNHZll5aGpQZmpiTTUzZjh1VXFmSG9sa1ZrZVNtc0hR?oc=5",
-     "published": "2026-10-28T16:47:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMk85bmFUYXdFSktkMzVtZmRWeVBUZ1Y2QzMyU0NHVGlHdHNYVnZuNEt2TlJyQ1RGWGZESlhGN3YxSVRobzhETE01MnpsYW90UGFQVk5qQy1mRHhrd2phZy0yLWlYNHEyTWw2aHEtcWdBMENHeENra1BlaTlfY0djMlNNXzZYVlBhTEFFZGExY09VbnEyRkFwZi1DTTFEV3NmMm03dWlrb2xiS3VHQldXX2M3SFFPcDA?oc=5",
+     "published": "2026-10-28T18:02:00.000Z"
+    },
+    {
+     "title": "Flash: U.S. Fed keeps interest rate steady at 3.75-4 pct",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcWVTRmYtX3VvLUMzRlg5Q2ZFRFNGR3R6b1M5XzhFcDRNWUhEbzdmdjlFVmNueUFLR192QXp4MXNyYzRTRVJvM3Ntc2k0ZUkzcXpKRExRWkxnUjkzSVViWm5kNnJHWHA5U1F4UGZJZDEtUlRkUFR6bi1naTczblA0Q1pNWHZEc1hYMmxsS0VFQUhhNDZMXzU2WEJhM1ZTcXRfOVJn?oc=5",
+     "published": "2026-10-28T18:00:00.000Z"
+    },
+    {
+     "title": "Zimbabwe lowers growth forecast to 3.5 pct in 2027 amid drought fears",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdlJiamkzM2tPdjNDMk5nSXU2dEk5MkpkSkg5OGxjRjBZdW4zUTBreVA0bEZubFlkMktvY25hdWJRZ0FJZWxnUFExMG9Gclg1YzhRM2J5ekNpN09adEpqbTF5cmlRSExuY3MtODQ4NEZEZ200a241ZUZXem1oNWNFMHlEOGljZHNIXzhNUzZBaWVNcTJ2U1Z5bHItTm1fOVl6MDc0SVl0VTNuaENlT1hJejY5UzhIWFYy?oc=5",
+     "published": "2026-10-28T17:45:00.000Z"
+    },
+    {
+     "title": "North America's leading dietary supplement expo opens in Las Vegas",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUpSdWN2RERWSTA1VXJhSFdTa3VIVUhvcG9OYUdNQzE3Z0U1b3BRa2RVRnA2ZWE0MzFaQ0ZnekdiQTdUZV9reG9ZZUpWZ19jNEo5amdxVjQwS1ZuekJMV3MxdF9jcmxHbkdxWDRYVFltaTF1TEpURzJucExxUzUweHByTjlFX20yUkx1VlREdEJVa3c0UW52dXZ3Q1FNWnBXYlc4MTd5a0dubUtVaVB5T1RMQnNxNFhz?oc=5",
+     "published": "2026-10-28T17:35:00.000Z"
     },
     {
      "title": "Football: Soccer-New Kenyan venue to host Ajax v Bayern friendly in January",
@@ -78,34 +96,16 @@
      "published": "2026-10-28T16:23:00.000Z"
     },
     {
-     "title": "Rugby-Quesada blames crowded calendar as Italy injury list grows",
+     "title": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbW4xa0FZRm9leU1mX1FGRzFrT2QwZTJxbGdCRThzRUIyX3padE5PLTVFa08zUUtEZDN6dGdDOFBMM1A0TlA3QXdyU3VyNHlhdHBzTjVac2lRdkR3TGVfemhfcW41bnVRZXBwNFRCb0RyMHlsbXRQaEpuOEVmbThWa0JGLWV4MkQ1ejlNN1ZhRXVISEk2SmQ5X1hjSThlRGlOWnpBb1hLR0RiQzBwU3lzNWlmbnI?oc=5",
-     "published": "2026-10-28T16:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhlMGdTOEd5OUtFVkpBQlZZR2kxV2g3dmhOdUFyRWtPTEQ0VUZsU3B4SEJnRmNoS0FzWFBHS1laaF9jZnZGMWF5MHd3YVlUa1JvNE80bFNGelFpSTh3WEhDcGlVd002elFkaGpDeHZJSFFsbTNydWt0NHlEQmpJRWpfR0lwSmdIRjE0Z0oxcFd2ZGswR2lsWXdoanV3QzF5UG9DbkZWdHRCZUpQVkdQSjQySmlkYWxvM3M3TmZnLWdxQ2l0NEE?oc=5",
+     "published": "2026-10-28T14:42:00.000Z"
     },
     {
-     "title": "Officials call for reliable, affordable energy to drive industrial growth in Africa",
+     "title": "Astro sells, Maxis gains",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVi0wSmhLbEh0am9nVHNWUUxSTmo0Z3hlTks5c1RNUE0xNk1oR0NVam1HdGZQQXU2N21OX240WURyMHdFWW9vVXdpSngzMU5kYm9SMExncndQQzlOVWZYYjNHa01Gc1R0OE92eHpfcl92NlFTUnd5R2JzMGxxcG13TGNMcE1rSmRmc0hHbFlQeURCajZXMERNYy1NaG9nTDdCMlRxUUQ1aXhFejNwMzdKS3Y4VE9QdlpwV3VEbU0xMGNEZmxOTnozWFVyQQ?oc=5",
-     "published": "2026-10-28T16:22:00.000Z"
-    },
-    {
-     "title": "Carney to host European Union officials as draft declaration avoids 'associate member' discussion",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNWROUHpkVHJ4UVhoNjdfWXhIWHlRd0I4YVpKWGMtMVZrVkcwMXBELXVibGRYUm00UzZFN2Z6OXBIU2h6cy11VnRvLUJoOTFSdjJaQWJOS2xrNHBGTHdqY1JNdlFrSXFNYnByM0ZJSkZkbmhMUmhjRE8tdld1TTNTUW9SZVJYR3BiLWMyanh6d3BHUHZRcDJuMUcxRTNLb3kxc1RuLWpPVm1GTXF2aE9JMXJsR1BuTTdUZ2YtUFJ3RGFFZGxyNDFzeEh6OFpEUzlGWTVyM3RLWWdlaWNzUkZCYzl3WUs?oc=5",
-     "published": "2026-10-28T15:41:00.000Z"
-    },
-    {
-     "title": "Dropbox plans 9% workforce cut, technology chief to exit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQjk5RWczWWdHUENtOEdMSWpZNFBPalQyZV9VMnJKNm9pTi1jcEVxT3pHOFRvSl9MY3RGZGZOSFZDeFZXQUhZWkpMU1YxOTB0VnQ0ZE92eFo3elBJYVZqdVpJeWV0Yl8wZWJod2xvNEszY01pUVV6TXJLcy01UDg4ay15M0lRQk5hZUxjaDdhUkxiR2hid25uY2FtaEhZdnpFT2V6eHlkTWh4clU?oc=5",
-     "published": "2026-10-28T15:21:00.000Z"
-    },
-    {
-     "title": "Amazon cuts more jobs, in devices unit, after flurry of product rollouts",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS1E5ekY3bGFOTWNBRTFqRlFSaXJxUGF6M3otQVhsbW1FMzVNX200dTl5OTdJY05OTjBaZEsxOFBzaUg1eFB0bUo3d1lZVzJuUXdiV1hYWnFDcTJWc1VtZHVsd1hxY2p3SHJnbnBSUTdzNWNNeTB6UkxtUTlOWWN5UjVFQU5Hb2drV3dfZ21lWUl3aS1Fb0E4eXIyVkh1dFRiSTFaTWkwV2NJWkpCak51alpDYXVseXFKWFpPa2cyYzU?oc=5",
-     "published": "2026-10-28T15:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVh1WDNXaWJpcFVWcmw3ZHNBeWp5VWZoQ2NOWGdCNGJNMXFZSVZETVdBZWh3QVRNdE9Xd21vaEc0ZGNTWUxtbE1JLWhJQjNCVWhoV2xGeVRfcEs2WkdlYVVacnZSWm5PM2dzMUZObFYyakNOWngyUnQ2WEE5QUhoV0JlUnNuMlY3Q2JKTA?oc=5",
+     "published": "2026-10-28T12:57:00.000Z"
     }
    ]
   }
