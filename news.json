@@ -1,45 +1,45 @@
 {
- "updated": "2026-10-27T23:29:03.878Z",
+ "updated": "2026-10-28T00:44:48.292Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Justice Department fails to indict former White House aide over her testimony about Trump and Jan. 6, sources say",
-     "brief": "Justice Department prosecutors on Tuesday tried and failed to secure a grand jury indictment of former White House aide Cassidy Hutchinson over her testimony about President Donald Trump’s role in the January 6,…",
-     "link": "https://www.cnn.com/2026/10/27/politics/cassidy-hutchinson-fail-indictment",
-     "published": "2026-10-27T23:29:04.034Z"
-    },
-    {
-     "title": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking",
-     "brief": "Alon, Tal and Oren Alexander – three brothers who once lived at the height of wealth and society in New York and Miami – were each sentenced to 30 years in federal prison Tuesday for sex trafficking and other crimes…",
-     "link": "https://www.cnn.com/2026/10/27/us/alexander-brothers-sentencing-sex-trafficking",
-     "published": "2026-10-27T23:28:04.132Z"
+     "title": "Atlanta Dream owners say they raised WNBA Finals scheduling conflicts months ago in blistering open letter",
+     "brief": "The Atlanta Dream raised concerns about scheduling conflicts between the WNBA Finals and other events at the city’s State Farm Arena months ago, according to a blistering open letter to Atlanta released Tuesday night.",
+     "link": "https://www.cnn.com/2026/10/27/sport/wnba-finals-atlanta-dream-schedule-conflict-letter",
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "Trump approved allowing Flávio Bolsonaro to enter US after Brazil election loss, source says",
      "brief": "President Donald Trump approved allowing Brazilian senator Flávio Bolsonaro entry into the United States following his election loss , a Trump adviser told CNN.",
      "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
-     "published": "2026-10-27T23:27:04.138Z"
+     "published": "2026-10-27T12:00:00.000Z"
+    },
+    {
+     "title": "Justice Department fails to indict former White House aide over her testimony about Trump and Jan. 6, sources say",
+     "brief": "Justice Department prosecutors on Tuesday tried and failed to secure a grand jury indictment of former White House aide Cassidy Hutchinson over her testimony about President Donald Trump’s role in the January 6,…",
+     "link": "https://www.cnn.com/2026/10/27/politics/cassidy-hutchinson-fail-indictment",
+     "published": "2026-10-27T12:00:00.000Z"
+    },
+    {
+     "title": "Alexander brothers each sentenced to 30 years in federal prison for sex trafficking",
+     "brief": "Alon, Tal and Oren Alexander – three brothers who once lived at the height of wealth and society in New York and Miami – were each sentenced to 30 years in federal prison Tuesday for sex trafficking and other crimes…",
+     "link": "https://www.cnn.com/2026/10/27/us/alexander-brothers-sentencing-sex-trafficking",
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "FBI searches Beverly Hills mansion tied to former Rep. Eric Swalwell",
      "brief": "The FBI searched a Beverly Hills mansion Tuesday in connection to an investigation into former Rep.",
      "link": "https://www.cnn.com/2026/10/27/politics/fbi-searches-beverly-hills-mansion-tied-to-former-rep-eric-swalwell",
-     "published": "2026-10-27T23:25:04.149Z"
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "The Fed says it ignores politics. Its rate moves tell a more complicated story",
      "brief": "Federal Reserve officials agree that inflation needs to return to the central bank’s 2% annual target.",
      "link": "https://www.cnn.com/2026/10/27/economy/federal-reserve-rate-decisions-elections",
-     "published": "2026-10-27T23:23:04.143Z"
-    },
-    {
-     "title": "Melania Trump says ceasefire has expanded as it takes effect around Russian-occupied city of Oleshky",
-     "brief": "A localized ceasefire between Russia and Ukraine around the occupied city of Oleshky that first lady Melania Trump helped to broker has now gone into effect, officials on both sides said Tuesday.",
-     "link": "https://www.cnn.com/2026/10/27/europe/russia-ukraine-melania-trump-ceasefire-intl-hnk",
-     "published": "2026-10-27T23:22:04.135Z"
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "Manhunt underway for convicted killer who escaped through Tennessee prison fence and fled in stolen truck, officials say",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "‘Even savvy people can fall for scams’",
+     "title": "Year-long study mooted to assess need for law to lower disaster risks",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3hzNkpPZ01sX3hRbzFjNnNwVjY4V0tVWE5TZVhMQVB1eDNfRlZvOWlGU1F3S1RBanlsWEVaczVzamRDZkNSSFE4WjFjRVV0WS1tejVqeWtoNS1GZnBxb19zOEthNHBrckxsUDFKbmtqZzlfUl9UamZlYV9TTk5IcWJiUVdFSGdjODdVUUl4Q3c3SDhLRkE?oc=5",
-     "published": "2026-10-27T23:24:50.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFlRb1ljOFI1S05mV093dDNWcl9LS1N5Z2NaY0NkUEdvTFNkM0JUendIdTQxYTdnejNraDhyTkVHT2JGSmRORVlNQXVMd2d4ZTJvVURnY0h1WjdSbE9seFQ2ckVjTVVzM2gzOU9CcEc5cUdaS3lGNzBIaTludnluZndNeU5tN2c3QzdHRlBEZVNiYmFGQU5ZM3c1TGhxa0d1Vzc3dF9KRmRCV0puMjRvaG9vUS1xdWplQXVr?oc=5",
+     "published": "2026-10-28T00:19:24.000Z"
     },
     {
-     "title": "Drilling in disaster preparedness",
+     "title": "Armizan: Joint effort to stabilise chicken and egg supply in Sabah",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTE5uTnBBdlBEOVhUWmtMWnlnRm1pZjJxbVVWbmYwdHlNSmxEYnA3TGpFUHJtT3BMV0xfRm9RVW12RFUyeWFfRUF5MVdTbG1Nc1FQbW5IUEtLX3VlZXktNzVnUWF3cmt3M3B2U0VhTzRyY2VsWDlpY3VuYS1maFpTQndUTk1WOHdraTc5aTZCSE1sUQ?oc=5",
-     "published": "2026-10-27T23:24:50.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOblVIbDZJR3JOajJxYWJoazJ4cGFCQXNLQmVZc3g4alloTWVKRGlONFQ5ZVZjbTNqX19TYUNVcG5RdXVHS18yckVfNEtVdnVGVmhKLVNXOEVsV2d6MG9yeHk5Xy10a0VubmhSY3FOOVBvaE8zTmVLdzRBVHNJVWNxZUdFMUR0VkNDbGZSTnMwaEpVMUZUcm9xY3JxTDJ4X1V4SmNPNGp0OTdKcHlEZjlMRjNVZnA?oc=5",
+     "published": "2026-10-28T00:07:09.000Z"
     },
     {
-     "title": "Using tiny particles to help fight superbugs",
+     "title": "Robinhood CEO's AI startup Harmonic expands into software, chip design verification",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPemZrYUlNcTE2Q2dOel9yUnNhdnZZbmJNcGJkcExaWFlVSXlnUjRJcHpTa0MwZWMyVFZYQ1hoc0w4dmRKMzFQalYxMFhhSV9DWnVYQUNnS0VwMENyTkVwd2JJUm51OWdOa3Y0d29zelZkRkdYbHRSNGVNUWxiYm13THRxSXU1WWh4MkoxaDU5SnRCaDhFUURybHlSOVpqMms?oc=5",
-     "published": "2026-10-27T23:19:26.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjNZX3BpcTlfdkZzdlhoT0RpbG1nWkw1YzZYUmF5d29fc202RnFNbFFPOTF3TU9TUWdhWXNHV3JmNVhTT0ZZUncyaWE5MHhCSGVpMWxuS3RfU0JaQjd4emZpOUlqcDFITjhZNXJ4dW1GbE4wOFFpWDZrUk5VNFMwV2Z2Q3JXVHBkei0yUVg3UlZKVDRKSG1McEtNRWFfaFdOTWxQdjZYUVJVZGwtaGJVMVZZejdJeXVBNkpyVjlndzNvNDRfeUIzSkxEdFRfVC1YV2Yw?oc=5",
+     "published": "2026-10-28T00:04:00.000Z"
     },
     {
-     "title": "Malaysia keen to help local brands go global",
+     "title": "Robinhood quarterly profit falls as softer crypto activity outweighs robust trading",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3lWMV80Vzc1Y05abldzN1B4ajBWRDRET3pEUFpibkVhQW1oNFZCQ2ItSklaY2F6TEFBTmgzWkdLS282cElLcGJVdEE1b21WVTZvaWFXZ1NZMU9tdG9hMjRmcGp1d3FvcXZGSUpsWVphS2Y5WC1KdVdPc0hvQnZqSkI0MUdHME9UcV9TZU5nUVFSNU9veHNJY0VlWXpsdE5N?oc=5",
-     "published": "2026-10-27T23:19:20.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNWJrRExZcGtpR295ZXFVQlpnU1I0WEo3cDFyTlNmWFp4ZzRQLWxNR0ZjRTg2RlpraTJ6NDhlUUo0SXZQM1pSenZKVFY3TDhzcHRPZncyZThhQzRsUGtiSzZpLWFqaXN1R1EyVGdubjZjZFVDOEpIWE5mOVVfS0lpV1pjUmJNVUFtcEgzLUpzdjQ4NHpubzJfUEhGSVNWOG1iUWVLN3NXQmRNaWczVlBYemRMZTdGWEZ0dnZwODFGYVNaN3RDcHZCZUc1RVZsYTVjc2c?oc=5",
+     "published": "2026-10-28T00:03:00.000Z"
     },
     {
-     "title": "Australia to refresh critical minerals plans",
+     "title": "Soft power an enduring asset in modern statecraft",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclBWQ1U2a2ctTVUyVWM5bWlnNEZGRWJ5QUc0ZXFKY1ZPRXhhbUZJN2xQb196eURLTU9UVmVzTGhqeElnY0o2aW8xeVR0QUUtTjJrdW9MaVZ0MnMxdUoyMnVKU1psdjJXVGstQUdkWHI1SXhSZVlobHZRTUVtdW1GSC1sT0R5ZUo1VXhJQ0pacHhqQ05tZFlOTFZ0bVFZdm1STHhFX3dUd0c?oc=5",
-     "published": "2026-10-27T23:03:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFo2YXp4NHctRFo5Y3NaMXR6WGllallnaHdaTUJHbDlJWTRRSE5QQTVTa1FqUnJPOTVZRnktVlQ4cTlGRGJhYVFPWWZrRFRnLW9hMHRwNUJWV3d3R21PQWRNQ0QxcDMyOHVQR0JnZUlEcE9wR0w1dFZMZnNoY3N4alhuY1BseWtFVGhkTzU5TzRzYTNYbDZoNGctOFVWVm5keEtnSVV3?oc=5",
+     "published": "2026-10-27T23:56:22.000Z"
     },
     {
-     "title": "Football: Soccer-Fourth-tier Fleetwood stun Arsenal in League Cup shootout",
+     "title": "Hockey: Pakistan’s absence at ACT gives Speedy Tigers good chance to rise",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ3pBX1NfR2t2OVZzSm11ektVU0hocFNvYU5HNm83UnBJcDhVM1o2bWx0U25SLTd6ZFRiOUZaUVJPVjJaNC11QzlEbnZ1SnRpQ1Y1T2ozWXJ3SEdfOVpXaVptbkFwNkVQczhzdk1CM3NDYnQzTlI2cHpXeXdBRzZWQ2M0MVlfdlRRWDQwcEpWQTBsVk1MV0lLaDMyME1ENGl5dmNCRmFzMTBlbVAwUl8wbC1UZk9kc0V5?oc=5",
-     "published": "2026-10-27T22:54:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNV3dXbzRhSWpTSllDVWhoeXhYd3RMMThOa1V1ekV4dEEyX3l2bDNWVnJMQUNWYjJqTTU4clZoeWUxNWRlVkJ3ZnRXc1dFVTFMZkpYeXhvQnJQOHhKT3pXdkx1SUlQRFVUM081YkZkZGRleDZUQlRnLTNzZEJmZVJXRzJ0UUpKVTE2RnUtRGJCNzAxNXRSZlpPV0hHN05Sa3FnZnF3cUQ3eHFPYUZsSTRSX2FIOTUwdw?oc=5",
+     "published": "2026-10-27T23:54:36.000Z"
     },
     {
-     "title": "Brazil central bank says no significant risk to financial stability",
+     "title": "The apt thing to do about Waze",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2VfN2NzZElZcV9HeE95aVRSQ3pKTUxkODlBVHJURmNNNGF4MWpQcVdLYVdSOUlZUkUxaGVMbDVSN25RaGdpVUQxOHVJRGdjZzFBVVRORzhUSV9SMlo0eHZkOEJLNkVDaUl3azkyYkwzRjI4czlnSVZpOFRxTTI0RUR6REtqQ0xYTlF6RGZzMW1Ga0liSjFNdFRvZGdvWlVMV2FkeWxKOVl1ZmxrQzhYYzdadE5FaXc?oc=5",
-     "published": "2026-10-27T22:32:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN2kyX05QUzI5QWpOUjZ1VGlxMTZGaURqeXhrbVJrM2dJTXdXakRWT0ZYZ0hNVUFGTVlnVVMxenVDWFhuUmZWU2tUUDRFRWV6c3BZUG5iNGoxdVJYMm9yQm94aDRzQXBrVFh6b3N3WEZlTURYc0JtVWVwTS1tMkhpSkE2c3R4Y3d5cXRzbXJONlVicmZxRDVGWnNUU0pEam5hSmIyNXhGQQ?oc=5",
+     "published": "2026-10-27T23:54:10.000Z"
     },
     {
-     "title": "Ukraine's Zelenskiy says territory recaptured, forces on the offensive",
+     "title": "‘Politicians cannot interfere in investment decisions’",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRHFnVHlXcTF1SWFnbzdDTEhNdGt1ZzM4X2lhZy1rQ2pYZTBFR3QxLS1IMXJoekI1akI0SjU2T1lEQVV4Mm1BZGZ3VzYtM2R3dmNISnF3ZGU3YU85MVNqTGFBeW52UnBoTUcxcXAtMTA5TWNIaUx6MnpkWFJuU1NoaFl5bS01TlBwcTVhWGJaOWRKdWhHRjVmeHJ2YTZTS2lTWUVjMS1UWXBzbS1GMVBUR3FfOVYwUkdNQWppaA?oc=5",
-     "published": "2026-10-27T22:23:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYzRSNTZpbEt5RlZBVnh6Z3pSRkl3Xy10cDZoQUUzYmZTVnJUcnNBalRQZXRUVWFGRzd4SERwWEVlMy1jTXllSFJoR3pJUXVmb0l2ZEx2ejl3SjBETm9jOFdYTWlmb3IzeHMyMk5GNnA4aDBiektMTGZiWjBRd3dMeFZJeVMxaWRXYUtZOUd1UENjM3lNQmJrZmxKY0UwYTFXMV93QQ?oc=5",
+     "published": "2026-10-27T23:53:54.000Z"
     }
    ]
   }
