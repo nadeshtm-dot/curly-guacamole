@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-28T18:42:06.703Z",
+ "updated": "2026-10-28T19:43:31.808Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Manhunt for escaped Tennessee murder convict crosses state lines after the truck he stole is found abandoned in Illinois",
-     "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
-     "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T18:41:06.955Z"
+     "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
+     "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
+     "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
+     "published": "2026-10-28T19:43:32.042Z"
     },
     {
-     "title": "What caused the deadly train crash in Spain? What we know so far",
-     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
-     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
-     "published": "2026-10-28T18:40:06.933Z"
+     "title": "A new report confirms Democrats were behind the Dan Sullivan spoiler candidacy. Will it matter?",
+     "brief": "An October surprise has surfaced in a race that could well determine who wins the Senate majority in next week’s midterm elections.",
+     "link": "https://www.cnn.com/2026/10/28/politics/dan-sullivan-alaska-senate-democrats",
+     "published": "2026-10-28T19:42:32.090Z"
     },
     {
-     "title": "Right-wing influencers charged after Minnesota polling station stunt",
+     "title": "Dolores Huerta, pioneering labor leader and civil rights icon, dies at 96",
+     "brief": "Dolores Huerta, a pioneering labor organizer and civil rights icon who cofounded the United Farm Workers with Cesar Chavez in the 1960s, died at 96, her family said in a statement Wednesday.",
+     "link": "https://www.cnn.com/2026/10/28/us/dolores-huerta-dead",
+     "published": "2026-10-28T19:41:32.099Z"
+    },
+    {
+     "title": "James O’Keefe charged after Minnesota polling station stunt",
      "brief": "A Minnesota county attorney is charging right-wing influencers James O’Keefe and Cameron Higby with felony counts of unlawful voting and identity theft, alleging that the two claimed other voters’ identities while…",
      "link": "https://www.cnn.com/2026/10/28/politics/right-wing-influencers-charged-unlawful-voting-identity-theft",
-     "published": "2026-10-28T18:39:06.930Z"
+     "published": "2026-10-28T19:39:32.095Z"
     },
     {
      "title": "‘It’s big’: Astronomers make startling discovery of a possible dwarf planet beyond Pluto",
      "brief": "Astronomers have spotted a new dwarf planet candidate in the solar system, beyond the orbit of Pluto, which they provisionally named ED138.",
      "link": "https://www.cnn.com/2026/10/28/science/ed138-dwarf-planet-candidate-beyond-pluto",
-     "published": "2026-10-28T18:38:06.928Z"
+     "published": "2026-10-28T19:38:32.084Z"
     },
     {
-     "title": "FDA scientists opposed the Trump administration’s move to ease peptides access",
-     "brief": "A plan to give people in the United States easier access to unproven peptide drugs favored by Health Secretary Robert F.",
-     "link": "https://www.cnn.com/2026/10/28/health/fda-peptide-access",
-     "published": "2026-10-28T18:37:06.952Z"
-    },
-    {
-     "title": "Apple just announced its first ever MacBook with a touchscreen",
-     "brief": "Apple once scoffed at the idea of a laptop with a touchscreen.",
-     "link": "https://www.cnn.com/2026/10/28/tech/apple-macbook-pro-touchscreen",
-     "published": "2026-10-28T18:36:06.917Z"
-    },
-    {
-     "title": "King Charles acknowledges ‘injustices of the past’ as Caribbean tour gets underway",
-     "brief": "Britain’s King Charles III began his nine-day tour of the Caribbean region Tuesday, arriving in the Bahamas where he acknowledged “the great suffering and injustices of the past” as pressure mounts on Britain to…",
-     "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
-     "published": "2026-10-27T12:00:00.000Z"
+     "title": "Manhunt for escaped Tennessee murder convict crosses state lines after the truck he stole is found abandoned in Illinois",
+     "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
+     "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
+     "published": "2026-10-28T19:36:32.093Z"
     },
     {
      "title": "Flávio Bolsonaro lands in US after fleeing Brazil following election defeat",
      "brief": "Brazilian senator Flávio Bolsonaro has landed in the US after fleeing Brazil following defeat in the country’s presidential election on Sunday.",
      "link": "https://www.cnn.com/2026/10/27/americas/flavio-bolsonaro-brazil-passports-latam-intl",
+     "published": "2026-10-27T12:00:00.000Z"
+    },
+    {
+     "title": "King Charles acknowledges ‘injustices of the past’ as Caribbean tour gets underway",
+     "brief": "Britain’s King Charles III began his nine-day tour of the Caribbean region Tuesday, arriving in the Bahamas where he acknowledged “the great suffering and injustices of the past” as pressure mounts on Britain to…",
+     "link": "https://www.cnn.com/2026/10/27/europe/king-charles-uk-caribbean-slavery-apology-chogm-intl",
      "published": "2026-10-27T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Espanyol appoint former Barcelona assistant Sarabia as new manager",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmpiSnN3dy1KTFVvUXpPNmw0MHhOdlpKOUV3aTBjRkdHbU51clEzdFllWlZfRkMxSTRKN0xGbmotc0hRd1VTUGtROG5ibG5MMkd6WmRzdmE4aGdROWUtUW5WMGJFc2dWQUViX2FIb2M5RmpGak85VV9USThOemZQS2xaWG4tYlcwYWQxVXFaT2swNExZdW1kWFU3ZUdvc3NjelpsWTY3ZjhmNEtEUTdXX1o3NGtYRW95UVVLRi1CNm16Y2NU?oc=5",
+     "published": "2026-10-28T18:38:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Neymar handed two-game suspension for covering mouth during argument",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZWVZWWNQZERkcVZncFlJdTBQVF9yeUhFVmZXMFBQcGlKc25vS1ZEbm05V0h6NVhVZUJoU1pxN1BkM0w2NWJpMEM2T1owMVZxLVJlckhLQTdxbUwyU1RLVmtXRGs5VjBtZnJIbUFRUnBLMURDYW96WUpIa21xYzNJWmszZ2kwa0pMMm1rVW9fOHFHYm80S1lQQXpTcDdpd1JjR1hoSndQaDZZZmZoN29iaFJEeVFrVnhGVmk1eVhLMElzb29xZDBz?oc=5",
+     "published": "2026-10-28T18:20:00.000Z"
+    },
+    {
+     "title": "European natural gas prices top 100 euros for first time in nearly four years",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUWRLenBuR2xiOThuTWJYVmt1QXV0dGx2Q2xJVTN6RkdhRGtIQy13Q3Fydk5TOHZwd3hCZ0FkclZ2Yk9WQTNFNlhvNnNCNW5MeDZQNFZCRDk0QUtUaTdKSGdSMXNpQjdKdTJPLXlXVXpVSDFYalFkRGpsVm52UlM5RGRXV2xJLU84RmtabUtWSXVpSFNMQWJJMFNKbzNmbTRVR1NuYkJ4ZU16TnJ6M2x6N01FRkFSSUhIQjNROURJMWdYUU15?oc=5",
+     "published": "2026-10-28T18:04:00.000Z"
+    },
     {
      "title": "Urgent: U.S. Fed holds interest rate steady ahead of midterm elections",
      "brief": "",
@@ -78,34 +96,16 @@
      "published": "2026-10-28T17:45:00.000Z"
     },
     {
+     "title": "Bank of Canada raises key interest rate to 2.5 pct",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRWNWbDduRFpucm1QS2k1Q2dXOXVaUVBlSGZyUWtNMWZaNEw4cFNwM3BKWlBra0hHMWdDUmFlZ0FXNXJRTkkyR0QzWHVWZW0zUkczak5JLTdFcmxtNmI4YndfZkdMMGMtRGY4MmsyakVnT0xMeXNCMzlxeU51RmJ5ck5WdW5vSWQ5SlkxQ2ZRM2JvbEVlcmVnRTF4akdmNVU?oc=5",
+     "published": "2026-10-28T17:37:00.000Z"
+    },
+    {
      "title": "North America's leading dietary supplement expo opens in Las Vegas",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeUpSdWN2RERWSTA1VXJhSFdTa3VIVUhvcG9OYUdNQzE3Z0U1b3BRa2RVRnA2ZWE0MzFaQ0ZnekdiQTdUZV9reG9ZZUpWZ19jNEo5amdxVjQwS1ZuekJMV3MxdF9jcmxHbkdxWDRYVFltaTF1TEpURzJucExxUzUweHByTjlFX20yUkx1VlREdEJVa3c0UW52dXZ3Q1FNWnBXYlc4MTd5a0dubUtVaVB5T1RMQnNxNFhz?oc=5",
      "published": "2026-10-28T17:35:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-New Kenyan venue to host Ajax v Bayern friendly in January",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR05xc0hnZzdLcFpIcWZiU3lTc01IQXVySVUxblNMYnhWSXJIbXN5bERPSFozNnRWbUxXcldMeE1GcUpsYmJNaGtsd0VZOGhqNFU2QjIybzRaTGdWYlBVYkxvekwwNmtNaWhlbzhPU2U2TWp2aVEzR1pJQzl6SHlXeE40eGh6QzdsdGFsOURkM1hseGhsVGphcHQxRnpnSUdYY3hQY3ZaRnRjVFozUzBuZTRKdnRyd2lKcEE?oc=5",
-     "published": "2026-10-28T16:23:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-Perez extends Cadillac contract until 2029",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkhpTl96cG9yWGVjT016ZlhYRDZQamVBRVhBMFB0R28ya2xPVFVfdTU0OE93N1RrbktvaFlWcmF5aVQzRXJmMVV2STZKeVBuMUdCWHRnX0piaG5YZlI2ZnV4Qkp0OVFCa0daRWdQaGdtdDU3cld0dHNhcmdZRjduZkxXcmxrT1o1bTJXS3lXRW95MFN5WVkyQndBRnJsQjI1T043OXphRmlDVEdyU3RB?oc=5",
-     "published": "2026-10-28T16:23:00.000Z"
-    },
-    {
-     "title": "Iran's Revolutionary Court sentences director Panahi to jail term, travel ban",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmhlMGdTOEd5OUtFVkpBQlZZR2kxV2g3dmhOdUFyRWtPTEQ0VUZsU3B4SEJnRmNoS0FzWFBHS1laaF9jZnZGMWF5MHd3YVlUa1JvNE80bFNGelFpSTh3WEhDcGlVd002elFkaGpDeHZJSFFsbTNydWt0NHlEQmpJRWpfR0lwSmdIRjE0Z0oxcFd2ZGswR2lsWXdoanV3QzF5UG9DbkZWdHRCZUpQVkdQSjQySmlkYWxvM3M3TmZnLWdxQ2l0NEE?oc=5",
-     "published": "2026-10-28T14:42:00.000Z"
-    },
-    {
-     "title": "Astro sells, Maxis gains",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVh1WDNXaWJpcFVWcmw3ZHNBeWp5VWZoQ2NOWGdCNGJNMXFZSVZETVdBZWh3QVRNdE9Xd21vaEc0ZGNTWUxtbE1JLWhJQjNCVWhoV2xGeVRfcEs2WkdlYVVacnZSWm5PM2dzMUZObFYyakNOWngyUnQ2WEE5QUhoV0JlUnNuMlY3Q2JKTA?oc=5",
-     "published": "2026-10-28T12:57:00.000Z"
     }
    ]
   }
