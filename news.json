@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T05:38:36.490Z",
+ "updated": "2026-10-28T06:44:32.410Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,7 +9,13 @@
      "title": "It can be lonely at the top. And that’s just how China’s leader likes it",
      "brief": "Last week Beijing’s deputy mayor was meeting with Walmart CEO John Furner and encouraging American companies to invest in the Chinese capital.",
      "link": "https://www.cnn.com/2026/10/28/china/china-plenum-xi-corruption-purge-analysis-hnk-intl",
-     "published": "2026-10-28T05:37:36.738Z"
+     "published": "2026-10-28T06:42:32.639Z"
+    },
+    {
+     "title": "Soccer star Kylian Mbappé seeks to defuse anger in China after Mao ‘dictator’ comment",
+     "brief": "France soccer captain Kylian Mbappé apologised to China on Tuesday after a fierce backlash over his comments referring to late Chinese leader Mao Zedong as a dictator, underscoring how swiftly global celebrities can…",
+     "link": "https://www.cnn.com/2026/10/27/sport/kylian-mbappe-apologizes-chinese-dictator-remark",
+     "published": "2026-10-27T12:00:00.000Z"
     },
     {
      "title": "Trump approved allowing Flávio Bolsonaro to enter US after Brazil election loss, source says",
@@ -46,74 +52,20 @@
      "brief": "Alon, Tal and Oren Alexander – three brothers who once lived at the height of wealth and society in New York and Miami – were each sentenced to 30 years in federal prison Tuesday for sex trafficking and other crimes…",
      "link": "https://www.cnn.com/2026/10/27/us/alexander-brothers-sentencing-sex-trafficking",
      "published": "2026-10-27T12:00:00.000Z"
-    },
-    {
-     "title": "Manhunt underway for convicted killer who escaped through Tennessee prison fence and fled in stolen truck, officials say",
-     "brief": "Tennessee authorities are searching for a 28-year-old convicted murderer who escaped through a state prison’s fence late Sunday night before stealing a truck and driving off.",
-     "link": "https://www.cnn.com/2026/10/26/us/convicted-murder-serving-life-sentence-escapes-from-tennessee-prison",
-     "published": "2026-10-26T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Meghan Markle to join Australia's 'Junior MasterChef' next year",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYUlfa0NIb2tvNlFGb2NsWW1KczJoMndPYXEzMmNzOXNnckI4WEdrZERBeVhtS3FCUjVMVTBhaEU3R2hvUkc2T25HclRubDRKeGNTNGxKWGRWcGQzMTBuWHpJRExBNUNyYktJNXZzajZpUVRYT0NVUHR3NlJDQi02VVJtTGJuek1jYVplMUtaQ2FtV1ctSnc2anNPTTl2Y0JHUEVEVVh1eV9vcDgzWEk1MzdiM2l4REduY2d6N056YVBFUlU0dk1HS0FNdw?oc=5",
-     "published": "2026-10-28T05:20:00.000Z"
-    },
-    {
-     "title": "'The Pitt' actor Noah Wyle named People magazine's 'sexiest man alive'",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTmJzSVhnckoyRU5wYUx2WjhCaGNNZ3lGNHZkaUpfWkZaODgwWFROTnNZWGtsY0g4ZW5oY1BnWkZVcUdWc2FhRlBIV0s5Z3JQMU8tVml2a25WMlFmOFNGRWlPQ042T2NtY2RwdE45Sk12ckpBWGM0bzMwZE16NDFxM0tNbHd3Y1ZxQ3Q3QS1hRVUzb3Z6TDB3QnAwSHVWVXFMaTZPekZQWFJncXB5dWdXN0xJTHk2cXN3bkpjX1pLMWs3MllaajZleF9sb1hlbkNJOGhxVno5UXVZUQ?oc=5",
-     "published": "2026-10-28T04:04:00.000Z"
-    },
-    {
-     "title": "Govt urged to gazette 30kph school zone speed limit for students' safety",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ0dBc01fcDJJaHpHdVQ4NmdlU2FHZWJxV0I2RGJoRmF1VERMRk1ZSEQ0MDZzak02UXprY0RYY0lremltQ1I2OWNIVmlSOXZKaHBCaHZ2NnczQWV4THdIcm44NHNoZDBTdU8tU19TSWxDV3R4OTRWQV9sckk0ZGZ0TG1WT1ZERjZLWU9yYk44R3RVbVFUNk5ieGE5ajJWMmNNODVfSnJYU1pIOHBZbUI3ZTZ3UW1VM2FFOURMcmtBaHJPUQ?oc=5",
-     "published": "2026-10-28T03:47:00.000Z"
-    },
-    {
-     "title": "US judge narrows French President Macron's defamation lawsuit against podcaster",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYVpQbERNR09ibTczRzBXYktNXzE1amYzZmJSS0lBZjlkdjRfMURkRklZc29Obi00ZzBhWGxDZ1BrY0NQeFJwbW1pVjVEUjh1WW9YdEVLYWgyRkRrYVJkbnRidWxCMjVncDhwMDJaRzFvU2Zxb0V5YkZGbkZRejg4dHAzTjhXSGZVVHItMEhkSmtNNVZFNTQxbHZoSEdoSGNjdU1qNlJkLXh0eTNsT19KWVFBWFFkOWxRN3NHRDJqMmxNNjRJMzBadXJn?oc=5",
-     "published": "2026-10-28T03:37:00.000Z"
-    },
-    {
-     "title": "US military says it struck vessel in Eastern Pacific, killing five",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3JoVm5VZDc5MTJXQjhZcjVhU1dzX0VGX3pSemxaWkJ3bHVPdFNuTzhmU0lxRHFDMGltNV9ScG9WYnZOLUg4WlNhMHRuOWh1QUlDb1o1RXoxNzdwZVJBOEYtaXAxaWNiMFE4Nm9CMHJfTUMxLXBvN0xHUmt3NlhmbXp4OVFBdTBLRllzWWZDU1Y1TGZIa08yLWNsX2pRcGlzdmdwZ1NWTWl3WlhoTjFPSXM4aHM?oc=5",
-     "published": "2026-10-28T03:06:00.000Z"
-    },
-    {
-     "title": "Royal Bank of Canada to block AI agents, calling out ‘unacceptable’ client risk",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRjBVNFlxNUVTV1d0UnNPVmpwZ0VoYkNfdnNxdlFEY0taeXgzM1ZrUjQzT0JIU1pIMzdTelVzTTNZOFY4MWR6YkxjVXZwdWx2WWJMQW9TQVpNSmE0YXFrUjdCamRtNWhhY2tSMDVUSUs4bTBuRVlQR2RsSllZcUFmNy1oQjE5c2QtRHJfSzhjSlJQUUppaGF4bE5QdEt5SldUZ1U0NlBVUHpiaTllWXhnX2tn?oc=5",
-     "published": "2026-10-28T03:00:00.000Z"
-    },
-    {
-     "title": "Show same level of commitment in dealing with haze",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZFlJa1c0dzZ2Yk13MFdjOVZjYW12R1UyRy1UUDBRZ3Y1VmpGZmtfOHNkT0tfR0ttdmhwN05kd1p0UUFfZV9NMlhHOTd6NEE5MXdrNDhTTFd5TUxoRDY3cTFuMHJIRTNVT1dNWHRWZnRiTUEyQ05udEJrTVlfd0EyVURPSVFqclhmQWV4MHRtMTVMZHoycW14bGZmbDNacGY0b0RqVDlRNA?oc=5",
-     "published": "2026-10-28T02:54:52.000Z"
-    },
-    {
-     "title": "Golf: Mirabel out to make impression at Maybank C’ship, with Olympian Michelle on the bag",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdjQ0cWkxUEpPdVNqXzJWX2ZUUm5qMDcxbmtFY0VGeExJVlhSY2pzNFdhWGZTUHFnbFlEa0pocVQ4UHlmbmVVWWMxcXE3aWhiZDVfMkJZWm1KTHJiN3pNcVlHV3k4RGNidVo0Z3JPNUttUmc5Ump0YlI0c25iclNIdUY1T19fTWlpZXQ0bzl4Tl9JampWM0NrbnpILXZVcGdwVllwMHVnRjZJVDh3OUUwZEJObTVsVGtSNHVmWVo2VDJJUm5wVHU3Ug?oc=5",
-     "published": "2026-10-28T02:49:55.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
