@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-29T18:44:02.931Z",
+ "updated": "2026-10-29T19:45:19.984Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Machado pushes for new elections in first news conference since returning to Venezuela",
+     "brief": "Venezuelan opposition leader María Corina Machado said she returned to the country from exile this past week to mobilize society as she pushes for new elections next year.",
+     "link": "https://www.cnn.com/2026/10/29/americas/machado-presser-venezuela-latam-intl",
+     "published": "2026-10-29T19:45:20.214Z"
+    },
+    {
+     "title": "Atlanta holds off furious Golden State comeback to force Game 7 in WNBA Finals",
+     "brief": "The WNBA Finals are headed to a decisive Game 7 on Saturday night after the Atlanta Dream’s convincing victory over the Golden State Valkyries on Thursday.",
+     "link": "https://www.cnn.com/2026/10/29/sport/atlanta-dream-win-game-6-wnba-finals",
+     "published": "2026-10-29T19:44:20.221Z"
+    },
+    {
+     "title": "Justice Department’s Dan Sullivan criminal probe accelerates after Alaska campaign revelations",
+     "brief": "The Justice Department has dramatically accelerated a criminal probe into whether Alaska Democrats sought to confuse voters by recruiting a Senate candidate intended to siphon votes from the Republican, issuing…",
+     "link": "https://www.cnn.com/2026/10/29/politics/justice-department-dan-sullivan-investigation-criminal-urgency",
+     "published": "2026-10-29T19:42:20.238Z"
+    },
+    {
+     "title": "FDA plans to update infant formula nutrition requirements for first time in nearly 30 years",
+     "brief": "The US Food and Drug Administration is proposing changes to nutrient requirements for infant formula.",
+     "link": "https://www.cnn.com/2026/10/29/health/infant-formula-nutrition-fda",
+     "published": "2026-10-29T19:41:20.248Z"
+    },
+    {
      "title": "Man pleads guilty to federal hate crimes in deadly firebomb attack on Colorado demonstrators",
      "brief": "An Egyptian man faces an additional life sentence after pleading guilty Thursday to federal hate crime and other charges for a deadly firebombing attack on demonstrators in Boulder, Colorado, last year.",
      "link": "https://www.cnn.com/2026/10/29/us/boulder-attack-suspect-guilty-plea",
-     "published": "2026-10-29T18:44:03.145Z"
+     "published": "2026-10-29T19:40:20.227Z"
     },
     {
      "title": "Russia strikes Dnipro train station in central Ukraine, killing 14",
      "brief": "A Russian drone struck the main railway station in the central Ukrainian city of Dnipro as people waited to board a train on Thursday morning, killing 14 people.",
      "link": "https://www.cnn.com/2026/10/29/europe/russia-ukraine-strikes-dnipro-train-station-intl",
-     "published": "2026-10-29T18:43:03.175Z"
+     "published": "2026-10-29T19:39:20.245Z"
     },
     {
-     "title": "FDA plans to update infant formula nutrition requirements for first time in decades",
-     "brief": "The US Food and Drug Administration is proposing changes to nutrient requirements for infant formula.",
-     "link": "https://www.cnn.com/2026/10/29/health/infant-formula-nutrition-fda",
-     "published": "2026-10-29T18:42:03.185Z"
-    },
-    {
-     "title": "Machado pushes for new elections in first news conference since returning to Venezuela",
-     "brief": "Venezuelan opposition leader María Corina Machado said she returned to the country from exile this past week to mobilize society as she pushes for new elections next year.",
-     "link": "https://www.cnn.com/2026/10/29/americas/machado-presser-venezuela-latam-intl",
-     "published": "2026-10-29T18:40:03.167Z"
-    },
-    {
-     "title": "The range of outcomes in the 2026 battle for the Senate is enormous",
-     "brief": "Imagine when the dust settles on the 2026 midterm elections that Democrats haven’t gained a single Senate seat and are stuck at 47.",
-     "link": "https://www.cnn.com/2026/10/29/politics/senate-midterms-democrats-republicans",
-     "published": "2026-10-29T18:39:03.172Z"
-    },
-    {
-     "title": "Spanish train crash yet another blow to Sánchez’s government ahead of elections in November",
-     "brief": "The deadly train crash in Spain’s Toledo province has sparked fresh criticism of Spanish Prime Minister Pedro Sánchez’s government and raised questions about the country’s investment in public infrastructure – just…",
-     "link": "https://www.cnn.com/2026/10/29/europe/spain-train-crash-protests-sanchez-election-intl",
-     "published": "2026-10-29T18:37:03.396Z"
+     "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
+     "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
+     "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
+     "published": "2026-10-28T12:00:00.000Z"
     },
     {
      "title": "Truck stolen by Tennessee prison escapee sat in Illinois for more than a day before it was found, police say",
      "brief": "The truck a convicted murderer stole after escaping from a Tennessee prison appears to have sat in southern Illinois for more than a day before police found it, authorities said, as the multistate search for him…",
      "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "What caused the deadly train crash in Spain? What we know so far",
-     "brief": "Spain has begun three days of national mourning after 69 people were killed and over 100 injured in a high-speed train collision, the third deadly incident this year on the country’s rail network.",
-     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
      "published": "2026-10-28T12:00:00.000Z"
     }
    ]
@@ -60,16 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "U.S. dollar ticks down",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBJMmM1eEc2TlgxQ0RfYVg4Z0hlMmd1WGtoa2djVTdtMHpndTZtODRobWx1emVlTHBjel9GTjdrWlNHRm5OOHhJaXpmTEQxZmdTb283a2F3UjhVblVoN3RDQTItUVRPMDhESWk0aDNlb25qc3pzNk9NTQ?oc=5",
+     "published": "2026-10-29T19:10:00.000Z"
+    },
+    {
      "title": "Cricket-Afghanistan's Rashid becomes first men's player to claim 200 T20I wickets",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObDZtMkllTnNmVXk3NE1xTkNXVkliYlFPUHhUXy1CNUtYcGxXeDlrbE9wZHJBUjBSRG1tbkVscElXbk1mT2NNSEZxUkVDeGczYVZoRUZCUjJLVUtLUXlyazBiRldJdUhyaFVDMUY2OW9ob0tJdEd4VGEweU1oaS02WTRCaHZveHoxcTVydUVqNU1fd1ZNcjlsdGF4RU1LM0VYazV0SFZMT1JYUTdFSS1Sc0hIamRTNmpmaXdZWF9kOHZYcEJDcVRsUXhJWFhzeEdRcFpV?oc=5",
      "published": "2026-10-29T18:09:00.000Z"
-    },
-    {
-     "title": "Golf: Golf-Garcia leaves LIV, targets DP World Tour return and Ryder Cup place",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMEM1alVOUmZ1cUw3ZGE0bmhqenQyR2MtOVpLOG9zYTVDNjJuMy12ZzBBcVZEbGJ1aUpSQ2o0Vm5qdldKeGNaTkhqWDJXQ1ZRQ25mUGNMTW5JRXhyMjh5emZtbmM5Y3o4Q3lTUkdjWFhZS2RhSm9aa2g3S1FsODFpUG9wN2hmaDV3ZlJNbmhmUC1MTk4yNmZTd2xERDRZZWNkRDRqQVhpQnZjbFZ1V0tHWVpiZHpEUlJHckNHMw?oc=5",
-     "published": "2026-10-29T17:46:00.000Z"
     },
     {
      "title": "Tennis-Medvedev battles back from brink to beat Norrie in Vienna",
@@ -78,34 +78,34 @@
      "published": "2026-10-29T17:12:00.000Z"
     },
     {
-     "title": "Chinese automaker BYD launches new hybrid car model in Israel",
+     "title": "Flash: Death toll from Spain train collision rises to 74 -- Railway accident investigation commission",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0JYTDJ5REtJTjVqdFZsYXJaY1Zza1VXdzJsbXA1NWdGMEFBME03ejdlYU9MWi0zS1J6S2tYZ2M3c25vM1hKYXRidXJPS3dRemVPd05VQ3dERGw1ZjVGajNlOFRjc01WY0RiRnlUbG4xbEoyTU9ZdURnSHF1M190VmFuRUtWMVFENmlkNkdrcG9rblhGOXZmcmVlaHlXMGZocnI2ZzZONEdnV2xzeVFN?oc=5",
-     "published": "2026-10-29T16:31:00.000Z"
-    },
-    {
-     "title": "2 killed, 23 injured in bus-tractor collision in NW Pakistan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNzE3Qk1hak4yUzg1enRyeGNCT3IxNTNpWmlYbm4xblBWMmRmNzFnZ1NSWl9aUHBCOTdpVVl2b3JaT3ppSVBhUXpia3lLLU5ydllHZGNVMzJBN2dEVXlxcmw3T2JiWWdnWE1xeWVCWGFWRjN2V3ByVFlDQ252VkkxRXZLRkc1QS1jNFVNWTFXeDdTT3ktdEpCbm4yS0g5c3o4X2NIQzEzYUs3SnFS?oc=5",
-     "published": "2026-10-29T16:20:00.000Z"
-    },
-    {
-     "title": "Russia to extend diesel export ban, use quotas to fulfil US deal, sources say",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb21kNTh3VzBpMWtlOGMtclVYQ1hKRlBXb3k5ZVJDeUVTdURyWlJLblI1LS1RaktJVW5MNUJNVmlDVDBLU1VnTTN5Wl9qMFEwUlE0WUxHMFBzYTNIa1doamZYR0JadG43VXhvWjdza3VocDg0TEZ4Sm80V0tnMGFIdVkwX3lGcUNDbWV1dEZpRUtHVFNBMG93ZmZfaEhRUXhHbEZJR2hKNGJjVWRYNUtOSkdhUjVCM1VHWmZVTi1pdnBRUQ?oc=5",
-     "published": "2026-10-29T15:54:00.000Z"
-    },
-    {
-     "title": "US files lawsuit claiming Google wouldn't give employee new job following military deployment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTmlqYWZoWndxTml2NkRteFhrN2VfeURuU1QwNWRUY0k5RlNRckFncHBiNDVJVWJDbFFJS1IwLWJTbHNsa1YtRFVQU0tEVzA1YXpZdGVGZG42NmNPTmt2NFZ1RjFUQllEUnZJQlh3Y2RGdlVrSm5JMVd6emc4LXVsQWI1ak05MFdvdDFDOXNacUNfYVpzUGwyOG02Rk5kWjB5bW1GS2g2bExEdDRzRzZaZWV0VEZlR3BmQnR0aVBiOXk4T1J0S3R6TXdNWmltaFdDbmhVWkxTUllWZzNPMkJ4bGEyTXpMRVlVT0ZR?oc=5",
-     "published": "2026-10-29T15:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR01zYmItMExCbEZvREZoYkEyTHdYX0p2akZnLVNaWUR0WnFsTm5TOHMtTkQ2eVZrcjB6TUphanNGUGZFV2UzTTVTLXQ2ZnVWcmlpSEJBb2ZSay1neWNpZkVtcW81VkFWUVJtSEJTSGZOOUFuN3lDZWNzUVl1TUJPU2lkMmxrSTFqSERyMndKU0JlNEtXbmd6WXFDMm1URDExa0JQUmZWaHJWa0NGbGR4dm1adjdFZG5WN0hNSnJ2dHpmeUIzYWN5V3JxR1JDbHd0N0xQTkxWLW02ZXBIbC1hR0VJRQ?oc=5",
+     "published": "2026-10-29T16:39:00.000Z"
     },
     {
      "title": "ECB's Lagarde resigns early so she can speak freely on topics beyond monetary policy",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVnhCY1ZtTndGWEVTb2hlczlNb250Sk5aUndWSFpYTGxCbGw3WlNoNGViQWg0QVVsQXJ2THdnUVNiSlB4UWgwMEwzOVBnbThFc04tTzlqbzRaeDZLUU1qaGtJd2lzZXpoVnZSal9DVlk1LTQyLTJRNEpBem5sY2hnX1V4OG1HdlJydnVGanoycDZISmU2RlA1aVl5VzBrdmd2dHhmOEFEalZjNkkzVUpOR0lHdjBXOHlleWhIYjRITmRWTFdwQUVwbWRGTFlGZHdv?oc=5",
      "published": "2026-10-29T15:11:00.000Z"
+    },
+    {
+     "title": "WATCH: Perikatan announces candidates for Melaka polls",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQTc1Q2V1bjZFY3E0bmZLMklSUVF2S0hCbENPY2Fxc2E0Y19VSEVqdnFfUjZfWF82WklmTkVueUNrRENPUkJqVzNFSmk4SzVGcXFHSEVwNnUzOFIzcDdpajVBeHdDeGRyeG9QQVV5d0ZPemZ3Mm91MzRScnhPdEl4LXRpSEN5SmdteW9Lei1fd2dJS2FEUWVCMndDRkN5em8yaFhFNFB3?oc=5",
+     "published": "2026-10-29T13:29:00.000Z"
+    },
+    {
+     "title": "No Malaysians involved in deadly Spain train crash, says Foreign Ministry",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV1VVTWw1dFkwLXdDWHVndEpFbWlzZnJkemNycnRmdHI5UjFZUlFsVnowaEdHRk5mU3FMb1J0WnpJa25RdUxSdWhjNFhKYnNtNnJBM1ktcFROa1RwR09mZ0ZseGRIOGYxMWZpUDNvQ1JYTGdTZFF2WEd3a3BEazdfcXBUSHczSzlBbkpGZGNjWGdUVzg3VXdJOHlici1qQjRVNE4yMElXVGRtTy1xLU9LazA0ckt3V1p1VDFpdC1XMA?oc=5",
+     "published": "2026-10-29T12:25:00.000Z"
+    },
+    {
+     "title": "MyEG hit with additional RM353.13mil income tax assessment, civil suit by government",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORTBDRWN1Tlh1eDlxSXBhMmF4eFZWZGhSaUFFRkQ0SkpiVnZFaTFmelQ1SW9YNHZWeDNpeWd0QmFwVHRWVHdVNnFrTi1lQ2FGQ3IxZ3FHRlNfeDhFREs5dzZSQVNIRlRHTVdMMDFJMkNsYko2VVdMa1MxWjV1Skp3RnBhSDdFcGlWZHdsNk85S2dMTnhKbUMzX3ctSlJKMUx6a1JHN1BGM2NaSlFlSk84OFBVSHljcmVkU2FhNEFQUGp1cmVzeDI2SkFSWlU?oc=5",
+     "published": "2026-10-29T12:22:00.000Z"
     }
    ]
   }
