@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-29T00:45:31.114Z",
+ "updated": "2026-10-29T01:52:24.542Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Federal judge warns Trump administration’s bid to set aside 20,000 California mail ballots would ‘wreak havoc’",
+     "brief": "A federal judge is refusing to allow the Justice Department to intervene in California’s ongoing mail-in ballot counting, warning that the Trump administration’s request to segregate as many as 20,000 ballots to vet…",
+     "link": "https://www.cnn.com/2026/10/28/politics/judge-denies-trump-bid-california-ballots",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
     {
      "title": "Manhunt for escaped Tennessee murder convict crosses state lines after the truck he stole is found abandoned in Illinois",
      "brief": "The search for a convicted murderer who escaped from a Tennessee prison has crossed state lines after authorities found his stolen getaway truck in southern Illinois.",
@@ -40,12 +46,6 @@
      "brief": "Police in South Carolina closed the investigation into actress Hayden Panettiere’s death after it was determined she died of an accidental drug overdose, the Greenville police department said Wednesday.",
      "link": "https://www.cnn.com/2026/10/28/us/hayden-panettiere-death-investigation-closed",
      "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "Texas nonprofit says it was impersonated in LGBTQ+ mailers. A judge cleared the way to find the sender",
-     "brief": "The blue and pink pamphlets began arriving in mailboxes across Texas around Saturday, October 17, just two days before early voting began on October 19.",
-     "link": "https://www.cnn.com/2026/10/27/us/texas-nonprofit-lgbtq-mailers",
-     "published": "2026-10-27T12:00:00.000Z"
     }
    ]
   },
@@ -54,34 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Up to RM6bil needed for road upkeep",
+     "title": "Gen Z is still sceptical of AI-infused dating apps, new survey finds",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGlZX0Y2Zl90UXh2cFY4S1NiRzlla2ZCN2g1MmVTYW1GR0EyV05hM1YwWHl5a0lsM3ZyRERxRDl0SjZGdDRNSE12OWRnZnk2Z0pOaEpiSy1xb1huUC1kY05MSmh4RzFUTzJ3RUFRdHRJSEdEYkN5cUdFZ2YyZ1BiVkoyUHVuVFhTbldWRkl3?oc=5",
-     "published": "2026-10-29T00:05:52.000Z"
-    },
-    {
-     "title": "Seoul shantytown fire largely extinguished",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTVBtc2c4VV9FaVU2STZfUTBzckg5d2JIQkNJVVhoVWYzR3dRWnZwMU5nZHgtQ0RyMGNFMTFxMDdjR1JXTWJPMmRTNnZhcmxyV1NkUTBFTnpjeVlpV3JmV1NaclFWTTRqMDhMY1hObFdFTjV3cmM5R1BXR3paaXBfREpaUTZGM08xWEFfcDJyOUxwQi16dGN2akd0MklYSG44SDRMVVU4MDI?oc=5",
-     "published": "2026-10-29T00:05:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2JLXzBIVXBXLWppc2YwaWJhYXBDamc3VzRWOGhRZENLaklzY1Y1eHY0VUdETGhHZlhvRnJQVFZYWnlQVHdYdmx4OTVkUUFqazJ2SzRnWjd5N19xVnZtTVVSdGxBWkNqZVlmU21sUU0xMFVNQWJwT0tyRWx6MGFSZjRXb09rWmhRa0pwdFAzejV5YmJVMG5wRlVnQnNJSzdYR2xIVnJhM3hGMjNwcV9ibzNfamxIVTMwNHNLaw?oc=5",
+     "published": "2026-10-29T01:00:00.000Z"
     },
     {
      "title": "Regional haze crisis calls for long-term solutions",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
-     "published": "2026-10-28T23:38:51.000Z"
+     "published": "2026-10-28T23:39:48.000Z"
     },
     {
      "title": "Do you know ... about Tasik Bera and its people?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekpJRmpnT0gyb3Jwc2ZLdk96VWlHVDV5WndkalkyaHlQbEVwRzNSNUp4UXB4ZlNRNXgyak9qVk1SeEhBVzBtQVBHdldyTXd5dmUzc2MydkNGSnFISWl4T3JoTzExM1dNMHIzeHh3UGI2MEF4a2MyTUx2dlFwNVhGNWwxaUdVRy1NbWJDcXZMb2FSR3A1NHNfLXZR?oc=5",
      "published": "2026-10-28T23:30:00.000Z"
-    },
-    {
-     "title": "Families connect with nature at KL East Park",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMUt1dzVMZ3hraFBMbWRXaFc5eHV6T2hLN2lNMXdQdFhtYXZIM1FReWxIQWtzbzllbFZScDYtdWZWMXdHUG82Sk9uQl9jUDZGLWw3ejh4T01MVU55eGNIQ19FdUFhLXZDanFjX2Njb1dnSl9od3pzZk1WRjR2SndxaTc0blFmbjJ4RmNCbGNoTjQzaW1CMUdHcW4yZW1PVHR1?oc=5",
-     "published": "2026-10-28T23:29:11.000Z"
     },
     {
      "title": "Boxing: Boxing gives Adam a fighting chance in life",
@@ -100,6 +88,18 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFlCazNtc2lFVXpRTm55UEpQaVdUZGVjX01LRU4tNzFMSkpoenF2YTl4blNvaTA5MURsQ1RTbUNSdUdlUUtDR1VoM0Y3dm5NcHFEaXdQNTN6UTBNaGhLNEIwcU5BMDhoSFlVSTZaa1E0M2RkbEo4UFBZb1lBTXpZQkVwQjVmRVd1ZnExc3lOTTljWkl6ZDFvWlloTkF1X1gtZENpbGN3?oc=5",
      "published": "2026-10-28T23:07:48.000Z"
+    },
+    {
+     "title": "Canada not in position yet to sign U.S. trade deal: Carney",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTRYSE1xNXR0OVhXR19YY2NlYzgtV0RjWEVqbm9pR05qbm5VbEJZSlpHamFBd0MwTnBkQnRxWFktb3ZXZE1TUXdjY19GMWpXdVBkYm5GcDNlU3J5N09Mbk1lZFhNc2pqakpwX2poNEl6WHA0ZmFHVUR6MnZPX1d0SnpuZWp4Yl80ekJLVFlabEZNUGMzUHBqeEZlRGMwaHJHVGJGdnlTTQ?oc=5",
+     "published": "2026-10-28T22:09:00.000Z"
+    },
+    {
+     "title": "Proposed Air Canada-United deal likely to harm market competition: regulator",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejdCMjdOaFZ0UHRFcnMxX09MTTlpOUxXamFVTnVDd0trQTlFTDhHWlhuaFA2eUFFTjYxV2hZcmdqbkp5MVVsTXRWanotQlJoY2ZMenFYTlpUS1ZuYm1TYVFMYWdvY3dnUHh0aWRGSHFPWWRFVk5EOWFEVWtwWnFQOGRTUkVpWGZSYmxmLVM2c3VEWmMwdTBTbm0wQ09aZ29hUXdBcGZZUU02Z1ZkeDA2bzhJUExsQlcyeGVRUlcxSl92UQ?oc=5",
+     "published": "2026-10-28T21:40:00.000Z"
     }
    ]
   }
