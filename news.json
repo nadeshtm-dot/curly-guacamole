@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T06:46:55.044Z",
+ "updated": "2026-10-29T07:57:15.419Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,19 +9,25 @@
      "title": "Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says",
      "brief": "The Trump administration and the Kremlin are discussing the possible lifting of US sanctions on Russia’s multibillion-dollar sovereign wealth fund, Russian state media quoted a Kremlin aide as saying, in what would…",
      "link": "https://www.cnn.com/2026/10/29/europe/russia-us-sanctions-investment-fund-intl-hnk",
-     "published": "2026-10-29T06:46:55.400Z"
+     "published": "2026-10-29T07:56:15.642Z"
     },
     {
      "title": "Hegseth ousts Pentagon’s chief planner as renewed action against Iran looms, source says",
      "brief": "US Defense Secretary Pete Hegseth has pushed out the Pentagon’s top planning officer as President Donald Trump weighs new strikes against Iran, a source familiar with the situation tells CNN.",
      "link": "https://www.cnn.com/2026/10/29/politics/pentagon-top-planner-sylvia-ousted-hegseth-hnk-ml",
-     "published": "2026-10-29T06:44:55.435Z"
+     "published": "2026-10-29T07:54:15.628Z"
     },
     {
      "title": "Alaska Democrats played into Trump’s hands with Dan Sullivan ballot-stacking effort",
      "brief": "Alaska Democrats gave Donald Trump exactly what he wanted.",
      "link": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan",
-     "published": "2026-10-29T06:43:55.439Z"
+     "published": "2026-10-29T07:53:15.640Z"
+    },
+    {
+     "title": "What caused the deadly train crash in Spain? What we know so far",
+     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
+     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
+     "published": "2026-10-28T12:00:00.000Z"
     },
     {
      "title": "Dolores Huerta, pioneering labor leader and civil rights icon, dies at 96",
@@ -46,12 +52,6 @@
      "brief": "Alaska officials said new revelations in The New York Times about efforts by Democrats to recruit a Senate candidate with the same name as GOP incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/28/politics/alaska-election-oppose-doj-involvement-senate",
      "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "Abdul El-Sayed and Haley Stevens haven’t campaigned together — or spoken — in recent months",
-     "brief": "With under a week to go in what many polls are showing as a still tight Senate race in Michigan, Abdul El-Sayed hasn’t called his former primary opponent Rep.",
-     "link": "https://www.cnn.com/2026/10/28/politics/abdul-el-sayed-michigan-senate-haley-stevens-mike-rogers",
-     "published": "2026-10-28T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Six killed in cyclone off India's eastern coast",
+     "title": "Appeals court reserves decision in Sabah special grant appeal",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDFTbVI1ZUhSdHp0dHZRUUw4cmRWQ2RBR3Q5bi1YX0FPWFYtdU5TeXhtQkl5eWVBS1FHa3E1TEJPM1hSZGxaUEwtaGdWTFMtSUpONkZPNHoxWnV1LXE0MmxYVDduQnpBV2lxcGNIUHY1NnVUTW82a1F2SjJ1QWlvanBKRDdmdEtRWHJ3aWt5Qm8ySkR6d2ZtcEQtR1pOUkk?oc=5",
-     "published": "2026-10-29T06:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTBnamdwYzZCV0xTV1REUnJMZjc5NE0tNWV3ckVmMFVXdkFTMTJzYnRGcWI5c3dXUlZOclMxX2dvdldfZDNPZHk5X2RsSHA5Z3g4UEVUYWY5UnFvZDZBVHl2TkVLZFBJLVFxRWFnb2kxTHFXbWlkRXBUQ1pKckY0d1BQbFloVDlCVzYybzRLSEhyaVBGN1hIRm85S2taeDhDQ3U5NG4tTmNRSjg1U3V6Tg?oc=5",
+     "published": "2026-10-29T07:33:00.000Z"
+    },
+    {
+     "title": "Ask The Expert: Do you really need sheet masks in your skincare routine?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNko0elB4cmIya01QaG1wZXFNY19ZdTVsVlVMYk5pSk93ZkFjTkZxNHdjXzZKQjZsaEVfcnZfcTF1T3UtTkZjSkMyRXlxOTJSTmJ1TWZ1d2xVdTYtbDgxLUE4Yzh1b21pXzI4bEtRdnJyaEt1cHdsZ0Ixa2twOTNkZ29hVmlzZGNGVUhPUVdMd2s0a0x5TXZrSGpQZ2ZSMzZlQWRzaG1vd3FCWmYzVGVEVXdycGg4Y2dJX1h4Vm8zZXNBdw?oc=5",
+     "published": "2026-10-29T07:00:00.000Z"
+    },
+    {
+     "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzlFbldJSFB2cW5SQTlfVEhCTmNRX2QzR294ZFZGdkwtb1I0S1RoT1ZfckZ4b2Z6NlZjUk1uTjJTLW9ubXkwY2FibG0tRlJTN3JSVnBTcVRuMjIxRjU4Si13MjMtMktSY3pxREV2cko3a181QlhrX3FUekNYRjV3NzAyTmROcWdqaThwYlFJV2tnQ29EbjNtZlk2NTVkQy1BYUFySFFyd1o1QWR2R1NKV0dobUxRaFVsRDY3RGhnX0hYbDNZbXZ3VTJCNlp0eEF3?oc=5",
+     "published": "2026-10-29T06:52:00.000Z"
     },
     {
      "title": "Addressing the ECRL first-last mile situation",
@@ -72,28 +84,16 @@
      "published": "2026-10-29T05:14:30.000Z"
     },
     {
-     "title": "Laos' inflation rate stands at 7.7% in October",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdDc4b1A5eHduQ0RPVEZsc3Zlc3pKUWxyb2FqanRJNDA2YVJua3E2a1J6X19LUGptbHd0TTVmbzB1QURpUXRBU1M0WjI0T3V0cjBYWGFnVE1VMlNLUXJISlFaXzNWbzJqMVNBeTdTWWI1Z0lJdjl2REtaVTBJZ0JUa0M2Vl9vaG5qNzZ1Z21MeDhva1N3ay00MkNWOU1ic3h3ODRKRnJwVmhtZnhXc1E?oc=5",
-     "published": "2026-10-29T04:17:00.000Z"
-    },
-    {
      "title": "Regional haze crisis calls for long-term solutions",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
      "published": "2026-10-29T04:10:27.000Z"
     },
     {
-     "title": "North Korea fires around 10 ballistic missiles toward sea off east coast, Seoul says",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGYyX3Z6UmRHM3MwUDRPbnBfTHhuOVlLcS12MHctUmREVVYwQXBTQlhwV0tzYnhhNHhNZHdhSk5ybzRBeHBObVFjeGlHdkhwcVNELTlqV0pUQVd5Yko2cE4xVWQ3ODhKVTUwOF9HUF9kS09YT1pVVEVDaTNNckVTc1hhVm5wMHhqVEYweXpOT09TZ0QzWmtMUTdDSTJZQmdQQmh5NDBtZlVPUWh3NmJWdk9sRGc2dlpJUkE1REFyWmNzcEY2dW1laA?oc=5",
-     "published": "2026-10-29T04:05:00.000Z"
-    },
-    {
-     "title": "Paris Hilton cancelled interview for Kim Kardashian biography 17 times",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX0tkYUNRUkxmTjZDLWVtcVA5NmtRbENUb1ZheWVkc09OMncwLXJscmZBekFTTjJ4UUlVNWhXdkdYWlllMDVqVzNraEdxMVZLd0ZBZTZsMDdzVVdjVGh3cENEdzhfTXFHVmwwZ0taa3NUQVc5Uk01S3JDWjJDZ0J5YU1xOVl2dVNNM2E3aU40YTlXZkhYTG5oRGcwM2VnTEZLSmI1WGV6UGlIVm8zWi03NFJQT0lKNzdaTVNpS3RQN0w2Wjk2VjVoeHFBNlA?oc=5",
-     "published": "2026-10-29T04:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UUkJpeFNNMWdobW4xeVVnQ1BUZzhjTUJQSTdSLU9rbFpWaWFTbU5PbVQ1RVRwWjJQSHZXTTg2bFpURlhLSVZTbzMxN2l4WjJPS2gzZ3dXLVNDQQ?oc=5",
+     "published": "2026-10-29T04:00:00.000Z"
     },
     {
      "title": "BMI: Asean to strengthen medicine supply chains, domestic manufacturing",
