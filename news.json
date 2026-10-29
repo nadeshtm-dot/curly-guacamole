@@ -1,14 +1,38 @@
 {
- "updated": "2026-10-29T01:52:24.542Z",
+ "updated": "2026-10-29T02:44:07.918Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Alaska election officials oppose Trump DOJ’s involvement in Senate race",
+     "brief": "Alaska officials said new revelations in The New York Times about efforts by Democrats to recruit a Senate candidate with the same name as GOP incumbent Sen.",
+     "link": "https://www.cnn.com/2026/10/28/politics/alaska-election-oppose-doj-involvement-senate",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+     "title": "Abdul El-Sayed and Haley Stevens haven’t campaigned together — or spoken — in recent months",
+     "brief": "With under a week to go in what many polls are showing as a still tight Senate race in Michigan, Abdul El-Sayed hasn’t called his former primary opponent Rep.",
+     "link": "https://www.cnn.com/2026/10/28/politics/abdul-el-sayed-michigan-senate-haley-stevens-mike-rogers",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+     "title": "Fire at South Carolina nuclear site triggers emergency but no contamination found outside lab, officials say",
+     "brief": "A fire at a South Carolina laboratory on a site that produces materials for US nuclear weapons triggered an emergency response, but the fire was extinguished and no contamination was reported outside of the facility,…",
+     "link": "https://www.cnn.com/2026/10/28/us/savannah-river-national-lab-fire-nuclear-south-carolina",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
      "title": "Federal judge warns Trump administration’s bid to set aside 20,000 California mail ballots would ‘wreak havoc’",
      "brief": "A federal judge is refusing to allow the Justice Department to intervene in California’s ongoing mail-in ballot counting, warning that the Trump administration’s request to segregate as many as 20,000 ballots to vet…",
      "link": "https://www.cnn.com/2026/10/28/politics/judge-denies-trump-bid-california-ballots",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+     "title": "Pentagon watchdog declines bipartisan request to investigate Starshield slowdowns in Ukraine",
+     "brief": "The Defense Department’s watchdog has declined a bipartisan request to open an investigation into the slowdown of the SpaceX’s military-grade Starlink system in Ukraine, according to a letter obtained by CNN.",
+     "link": "https://www.cnn.com/2026/10/28/politics/pentagon-watchdog-declines-request-investigate-starshield-ukraine",
      "published": "2026-10-28T12:00:00.000Z"
     },
     {
@@ -18,33 +42,9 @@
      "published": "2026-10-28T12:00:00.000Z"
     },
     {
-     "title": "Alaska election officials oppose Trump DOJ’s involvement in Senate race",
-     "brief": "Alaska officials said new revelations in The New York Times about efforts by Democrats to recruit a Senate candidate with the same name as GOP incumbent Sen.",
-     "link": "https://www.cnn.com/2026/10/28/politics/alaska-election-oppose-doj-involvement-senate",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
      "title": "Chiefs face sharp questions after signing Justin Tucker to practice squad",
      "brief": "The Kansas City Chiefs signed Justin Tucker to their practice squad on Wednesday, giving the five-time All-Pro kicker a second chance in the NFL after serving a 10-game suspension last year for violating the league’s…",
      "link": "https://www.cnn.com/2026/10/28/sport/justin-tucker-kansas-city-chiefs",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "Why the US has become a political base for Brazil’s Bolsonaro allies",
-     "brief": "Three days after losing Brazil’s presidential election on Sunday, Senator Flávio Bolsonaro arrived in Miami , joining other prominent allies of the Bolsonaro political movement who have sought refuge in the United…",
-     "link": "https://www.cnn.com/2026/10/28/americas/bolsonaro-allies-exile-united-states-latam-intl",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "Law firm that handled Lehman, Enron bankruptcies plans to wind down",
-     "brief": "Leaders at Weil, Gotshal & Manges, the nearly century-old law firm that worked for companies from the Lehman Brothers to General Motors, recommended on Wednesday that the firm shut down.",
-     "link": "https://www.cnn.com/2026/10/28/business/weil-gotshal-and-manges-winds-down-operations",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "Hayden Panettiere death investigation closed by police in South Carolina",
-     "brief": "Police in South Carolina closed the investigation into actress Hayden Panettiere’s death after it was determined she died of an accidental drug overdose, the Greenville police department said Wednesday.",
-     "link": "https://www.cnn.com/2026/10/28/us/hayden-panettiere-death-investigation-closed",
      "published": "2026-10-28T12:00:00.000Z"
     }
    ]
@@ -54,52 +54,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Regional haze crisis calls for long-term solutions",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
+     "published": "2026-10-29T02:37:30.000Z"
+    },
+    {
+     "title": "Addressing the ECRL first-last mile situation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXZNZXVRVkNFVk5wUm5sUjJJTnZFTTI3Uzk1dXR0ckFpNVcxZGNCN3AtRS02VWdXMXMwc0Y0TG1Dc0s2dU5UWnVBZkFuekh0UV9idklSb3lyTEk4S2h3ZEVUM3Q0U1hBMHRBM3dEUGkydXU2cFkzb2Y4WkFRSGhpU0dKQktPVDZuOXZPMEhiTDM3VXBzT3N0bzVjLTBwOXJ0?oc=5",
+     "published": "2026-10-29T02:26:15.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUWUyWm9VLXFISU9pT1RhZ2pmN3FqSlItRjktcTNlWXZOSGM0ZzZwVmhvV2tXVzVzNGlleC1fRVNXVG1YenN1OFlIbjladE5hbjFCdzh4RmlKaF8yTGVHQ0Q4QU5OclBBODBXLXVsZ3E3ak5UemppUlhDQURpUGdSR3pGVDhkZmR6TzJCMQ?oc=5",
+     "published": "2026-10-29T01:25:23.000Z"
+    },
+    {
+     "title": "Samsung posts record profit in Q3 on AI chip boom",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQm4yTGNwVExDcmxYS2hUNFhBcVlIZUpwSjk2VXpKNDZCWHlYckxIYVlQa1oxMHlNUy1pSGg5b0VfMlBZNTNhbGJIWmVKSjA0akstZV9MN0JPanZMNVFOTWtMS3RacEo5bmNNOWhULU4zSzRqS3UzZkdQV3otRU1xYndGaVU4cHcxLXVQWk10d2Y2YTBycVlDbjE5NDBUSG1oZ3pISw?oc=5",
+     "published": "2026-10-29T01:25:00.000Z"
+    },
+    {
      "title": "Gen Z is still sceptical of AI-infused dating apps, new survey finds",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa2JLXzBIVXBXLWppc2YwaWJhYXBDamc3VzRWOGhRZENLaklzY1Y1eHY0VUdETGhHZlhvRnJQVFZYWnlQVHdYdmx4OTVkUUFqazJ2SzRnWjd5N19xVnZtTVVSdGxBWkNqZVlmU21sUU0xMFVNQWJwT0tyRWx6MGFSZjRXb09rWmhRa0pwdFAzejV5YmJVMG5wRlVnQnNJSzdYR2xIVnJhM3hGMjNwcV9ibzNfamxIVTMwNHNLaw?oc=5",
      "published": "2026-10-29T01:00:00.000Z"
     },
     {
-     "title": "Regional haze crisis calls for long-term solutions",
+     "title": "Man who threatened woman beaten to death",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM01XNU5hUUdjU2R1Z2FOWlZ3MzEtUW1OeHR5bldXZGF1RmZiQzdZRjZfeEgwbnplaExaTE5hOUJxRHlIQkxoNGJaZmhreXhfVFUtbGlDemJlN2dIZno1akxsamZMU3dnZktVbmZESGE5OVNDbU5ZLXhtcndMc2xiY0dnNHZCa3d1N0EtbHVNby02cmdzMkpBUGo5WHYtNDRaXy1kMmpkaHNjTFJLMmxPY0JJZVE2bldhV1pqTUQ3UFZlT0txQnNz?oc=5",
-     "published": "2026-10-28T23:39:48.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZU0wLTJLVXJtSnFYVGZOVXRHSDI4Zmd2MHpNQlBndE9xSXhocDNXcmVsUWh5OUlLZ1BiNG9uVERWeC1GSUdEMzNSR294c3VrM0U4THhOQUQ1REJ1WTlHeWJ2NnBLM2hBVzhzQXdJWHJOSHhERk9BWFVFTHY2M3BsWF9MdHdtUjRPMU5ZZVV1TVFSTnVF?oc=5",
+     "published": "2026-10-29T00:35:53.000Z"
     },
     {
-     "title": "Do you know ... about Tasik Bera and its people?",
+     "title": "BORNEO AND BEYOND, UNDER ONE ROOF",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNekpJRmpnT0gyb3Jwc2ZLdk96VWlHVDV5WndkalkyaHlQbEVwRzNSNUp4UXB4ZlNRNXgyak9qVk1SeEhBVzBtQVBHdldyTXd5dmUzc2MydkNGSnFISWl4T3JoTzExM1dNMHIzeHh3UGI2MEF4a2MyTUx2dlFwNVhGNWwxaUdVRy1NbWJDcXZMb2FSR3A1NHNfLXZR?oc=5",
-     "published": "2026-10-28T23:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPejM0alhJbGU4MF9RekN5dElkMThTQTBSd3JPVE1iRXA1OUM1Y2dCR2lzWDJTMzc3N3dZYlFTZjRDOUpjYm1JbTJCQVFtUXFyQTJKME5TUmhmUkRHbDRVTWtNaVpwLWR2bDhlYkd2ek8tZkdoM056WXVtRVF6UldJVnRzSW5tVlhabnc?oc=5",
+     "published": "2026-10-29T00:35:53.000Z"
     },
     {
-     "title": "Boxing: Boxing gives Adam a fighting chance in life",
+     "title": "Truck driver killed in an accident involving three lorries near Slim River toll interchange",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSm9pVW1ZVVdEeDZscEV5ajU3c0pWOHdiSDZvU3FqUUMtZEtWT01ucGJrSi1Way11eXVldC1FTkFsZ1ZmYlVTVXdfQ1pIOVJKNUtKci0tU2M5clpHMy16c1lkVXVnNmw3QkZ3MFozQktxU1FjbEE2SnJuSk5XcG4zaWs1eTBQcGhIWWs3YUlUbllaWjktSWVFZTdB?oc=5",
-     "published": "2026-10-28T23:20:35.000Z"
-    },
-    {
-     "title": "Football: Malaysia’s U-15 go down to S. Africa",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd3haTUJIMlVGSjRNVTFzOEU2RU4zbFF6T1ZLUXZTSWY4X2RNaHJYcFhnNE1ieDBRaGh0cHNjZlhqclhid3BXc3NkdWZsOWFvZEQ3dUNEUzdZMkticEoyeEZ1NWNiYy15TWZtcE80N2xONE16WnJCNlR3ZHJsZWhMMGpWSXdXbjZ3VFEzMmt2THA?oc=5",
-     "published": "2026-10-28T23:19:05.000Z"
-    },
-    {
-     "title": "Upgrade, win supply chain orders, firms told",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOFlCazNtc2lFVXpRTm55UEpQaVdUZGVjX01LRU4tNzFMSkpoenF2YTl4blNvaTA5MURsQ1RTbUNSdUdlUUtDR1VoM0Y3dm5NcHFEaXdQNTN6UTBNaGhLNEIwcU5BMDhoSFlVSTZaa1E0M2RkbEo4UFBZb1lBTXpZQkVwQjVmRVd1ZnExc3lOTTljWkl6ZDFvWlloTkF1X1gtZENpbGN3?oc=5",
-     "published": "2026-10-28T23:07:48.000Z"
-    },
-    {
-     "title": "Canada not in position yet to sign U.S. trade deal: Carney",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWTRYSE1xNXR0OVhXR19YY2NlYzgtV0RjWEVqbm9pR05qbm5VbEJZSlpHamFBd0MwTnBkQnRxWFktb3ZXZE1TUXdjY19GMWpXdVBkYm5GcDNlU3J5N09Mbk1lZFhNc2pqakpwX2poNEl6WHA0ZmFHVUR6MnZPX1d0SnpuZWp4Yl80ekJLVFlabEZNUGMzUHBqeEZlRGMwaHJHVGJGdnlTTQ?oc=5",
-     "published": "2026-10-28T22:09:00.000Z"
-    },
-    {
-     "title": "Proposed Air Canada-United deal likely to harm market competition: regulator",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejdCMjdOaFZ0UHRFcnMxX09MTTlpOUxXamFVTnVDd0trQTlFTDhHWlhuaFA2eUFFTjYxV2hZcmdqbkp5MVVsTXRWanotQlJoY2ZMenFYTlpUS1ZuYm1TYVFMYWdvY3dnUHh0aWRGSHFPWWRFVk5EOWFEVWtwWnFQOGRTUkVpWGZSYmxmLVM2c3VEWmMwdTBTbm0wQ09aZ29hUXdBcGZZUU02Z1ZkeDA2bzhJUExsQlcyeGVRUlcxSl92UQ?oc=5",
-     "published": "2026-10-28T21:40:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQLVlmTUpfU3lfOTRYM2g0eUdqc0JMY0htTmwzWjlNS0QzZWVOdWt2ZElGbTgyOVJTN2N3VzUzQkJ5Q3dpMEo3b0l3c0E2LTFiYllUMlV2UWU4SjhYb292cjktTkpkSmpkSjJJeGxzQmZORkxjQUhFelhETkRQZFJha3VkalFHekEtU2NvakxiX1FoNFNQcE1MWFIyMV8yb095TXBuY3d5Wm9TMmlDazg3a3FLWVp5UXlpRnJUbVZ5a0k2ZnVwQ1pXYzFseVB2bDBpejExc1ktRmE?oc=5",
+     "published": "2026-10-29T00:19:00.000Z"
     }
    ]
   }
