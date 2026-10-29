@@ -1,56 +1,56 @@
 {
- "updated": "2026-10-29T08:49:32.264Z",
+ "updated": "2026-10-29T09:45:50.515Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says",
-     "brief": "The Trump administration and the Kremlin are discussing the possible lifting of US sanctions on Russia’s multibillion-dollar sovereign wealth fund, Russian state media quoted a Kremlin aide as saying, in what would…",
-     "link": "https://www.cnn.com/2026/10/29/europe/russia-us-sanctions-investment-fund-intl-hnk",
-     "published": "2026-10-29T08:48:32.528Z"
-    },
-    {
-     "title": "Hegseth ousts Pentagon’s chief planner as renewed action against Iran looms, source says",
-     "brief": "US Defense Secretary Pete Hegseth has pushed out the Pentagon’s top planning officer as President Donald Trump weighs new strikes against Iran, a source familiar with the situation tells CNN.",
-     "link": "https://www.cnn.com/2026/10/29/politics/pentagon-top-planner-sylvia-ousted-hegseth-hnk-ml",
-     "published": "2026-10-29T08:46:32.531Z"
-    },
-    {
      "title": "Alaska Democrats played into Trump’s hands with Dan Sullivan ballot-stacking effort",
      "brief": "Alaska Democrats gave Donald Trump exactly what he wanted.",
      "link": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan",
-     "published": "2026-10-29T08:45:32.513Z"
+     "published": "2026-10-29T09:45:50.692Z"
     },
     {
-     "title": "What caused the deadly train crash in Spain? What we know so far",
-     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
-     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
-     "published": "2026-10-28T12:00:00.000Z"
+     "title": "He’s styled everyone from Rihanna to Naomi Campbell. Carlos Nazario’s first book isn’t what you might expect",
+     "brief": "If you were to put together a time capsule that might reflect what life feels like amid the chaos of the 2020s, what would you choose to include?",
+     "link": "https://www.cnn.com/2026/10/29/style/carlos-nazario-silver-lining-book",
+     "published": "2026-10-29T09:43:50.725Z"
     },
     {
-     "title": "Dolores Huerta, pioneering labor leader and civil rights icon, dies at 96",
-     "brief": "Dolores Huerta, a pioneering labor organizer and civil rights icon who cofounded the United Farm Workers with Cesar Chavez in the 1960s, died at 96, her family said in a statement Wednesday.",
-     "link": "https://www.cnn.com/2026/10/28/us/dolores-huerta-dead",
-     "published": "2026-10-28T12:00:00.000Z"
+     "title": "The strange math that shows how Trump got Venezuela to ‘gift’ oil to the United States",
+     "brief": "President Donald Trump made an extraordinary announcement this week: Venezuela had gifted the United States 1 million barrels of oil – and it didn’t cost American taxpayers a dime.",
+     "link": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep",
+     "published": "2026-10-29T09:42:50.817Z"
     },
     {
-     "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
-     "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
-     "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
-     "published": "2026-10-28T12:00:00.000Z"
+     "title": "Getting in the (literal) swamp: Corruption becomes a $275 million fight in the midterm ad wars",
+     "brief": "Candidates are trading accusations of being beholden to big donors, debating who wants to restrict congressional stock trading more and running ads in which they stand in literal swamps .",
+     "link": "https://www.cnn.com/2026/10/29/politics/corruption-messaging-democrats-republicans-midterms",
+     "published": "2026-10-29T09:41:50.730Z"
     },
     {
-     "title": "The Vatican unveils its holy garage of popemobiles used since 1930",
-     "brief": "The Vatican is opening a celebration of the popemobile, the now-iconic vehicle that for nearly a century has let popes get close to the faithful at home and abroad.",
-     "link": "https://www.cnn.com/2026/10/28/travel/vatican-popemobile-exhibition-intl-hnk",
-     "published": "2026-10-28T12:00:00.000Z"
+     "title": "Democrats in striking distance: New CNN polls in four states highlight party’s path to Senate majority",
+     "brief": "CNN polling across four key Senate races in the final days of the midterm campaign finds Democrats well-positioned in Michigan and Texas , with no clear leader in the races in Maine or Kansas .",
+     "link": "https://www.cnn.com/2026/10/29/politics/cnn-polls-michigan-maine-texas-kansas-senate-races-midterms-vis",
+     "published": "2026-10-29T09:40:50.714Z"
+    },
+    {
+     "title": "Russia and US discussing sanctions relief for Moscow’s sovereign wealth fund, Kremlin aide says",
+     "brief": "The Trump administration and the Kremlin are discussing the possible lifting of US sanctions on Russia’s multibillion-dollar sovereign wealth fund, Russian state media quoted a Kremlin aide as saying, in what would…",
+     "link": "https://www.cnn.com/2026/10/29/europe/russia-us-sanctions-investment-fund-intl-hnk",
+     "published": "2026-10-29T09:38:50.735Z"
     },
     {
      "title": "Alaska election officials oppose Trump DOJ’s involvement in Senate race",
      "brief": "Alaska officials said new revelations in The New York Times about efforts by Democrats to recruit a Senate candidate with the same name as GOP incumbent Sen.",
      "link": "https://www.cnn.com/2026/10/28/politics/alaska-election-oppose-doj-involvement-senate",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+     "title": "What caused the deadly train crash in Spain? What we know so far",
+     "brief": "Scores of people were killed after two trains collided in Spain on Wednesday, in a crash that authorities say was caused by both computer system failure and apparent human error.",
+     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
      "published": "2026-10-28T12:00:00.000Z"
     }
    ]
@@ -60,16 +60,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Japan to support restoration of strictly protected area in Mongolia after wildfires",
+     "title": "Top Russian official takes US journalists into besieged Ukrainian city ahead of evacuation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGtJelRUOV9oY0dPTW1EX0NyT0l4UmVVcUxUdW1abndUb21DbE1yeUt5VHA1SDhSOWk5YkQ3cklEUVZBZG1iRV9TUHY5ZTJwUTFQOTl3Y211RDk4TEZma0Nsang2bG5zdzFjWG9xZklsVnJ3R2JMa24tOWVCTGFuMkIwT2JPWTdUS0JCcWVsaDVSc2R2RjdjMWVmb21sZXVObFZCdGJvUXVBMjNsM0ZmcXQtMTVjU2ZXRnJsVWhIYmxkc2lLX29EZXp5aVlwTThPeG96c0JIb1l4M3dNSm9n?oc=5",
-     "published": "2026-10-29T08:31:00.000Z"
-    },
-    {
-     "title": "The ECRL journey has just begun, but its destination is far greater than we imagine",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONzNCNTRNUTMxY1JscXRzU2ZOSlY0UGQ4Vlc2aDZxaG5FdVJGaDlNNE0xa1dfYjJHbFRzMzVUMHdqa0ZoS1BpRDNjdXBTUVlmbWpYeGRTM1VOd29ESVRRZS1YblJpZTJSMmJocm1PQXMxSjg0cUxZQ1cxeG52dEVkbkZLSHpTMzFPOHl6aHJ0MFFzQUVOREUwbjF6MUhBU1NMOXVYVjNZN1RkRER2OUxza3lfaklXOFJlRWp5YlZsckVYXzl1NFNwNzJUR05vU0g3S3c?oc=5",
-     "published": "2026-10-29T08:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdzFmSmlsQi1IRWw1RFBBQUNkeV9fbHFpMldndHY0NFItUE9iZ2h0LXBpTGRxY2lWLWhHMUVLV3BvYmhsTWZZWGtQRnRXWXkyOXBlbEM2NlZDRzFyMGhPT1ZmTVR2VzZkbElyeFRoV3JVUHVYMXE0OFRaUG0tanZEVmpsYjdEb1Z3WFJkbFhHbk8wcmhZVlZhdF9uTW1tRjdMTDlWaHpJUXVybGZ5Q2dJaU4zanJ5UkxyX2JBNGw4dU9fZl9rZ1dka0NfQmY3cXN2VmZ4bHF3?oc=5",
+     "published": "2026-10-29T09:22:00.000Z"
     },
     {
      "title": "Appeals court reserves decision in Sabah special grant appeal",
@@ -90,22 +84,28 @@
      "published": "2026-10-29T07:00:00.000Z"
     },
     {
+     "title": "Authors",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56OGVXd0xUa1hVbW1MWHJyek9jNU1BWUVPaGkxM01uMldpcTRjMU9qYmViZExHM3ZUam1pMkowUHhMbFBIVWpYYzlteGduY2pseUREM3FJX0VMdGFZSHlGbnJoU2Y?oc=5",
+     "published": "2026-10-29T06:57:58.000Z"
+    },
+    {
      "title": "South Korea says considering deployment options to Strait of Hormuz, including aircraft",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPYzlFbldJSFB2cW5SQTlfVEhCTmNRX2QzR294ZFZGdkwtb1I0S1RoT1ZfckZ4b2Z6NlZjUk1uTjJTLW9ubXkwY2FibG0tRlJTN3JSVnBTcVRuMjIxRjU4Si13MjMtMktSY3pxREV2cko3a181QlhrX3FUekNYRjV3NzAyTmROcWdqaThwYlFJV2tnQ29EbjNtZlk2NTVkQy1BYUFySFFyd1o1QWR2R1NKV0dobUxRaFVsRDY3RGhnX0hYbDNZbXZ3VTJCNlp0eEF3?oc=5",
      "published": "2026-10-29T06:52:00.000Z"
     },
     {
+     "title": "Environment Dept to probe claims of milky white water in Sungai Kim Kim",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQVZ6aFNWd1FQWExyQkhfR2VudFdNMnpOWW5fYUdRQWc4blFjUk9wUmQtajRPR2trSmUyS292WWpPcWVCN1U1WUFLeDJ3Zk13c0FGbkRUeXFsSV9JODBXd3BQR295dzFDY2JoUjdzdjVhX25HODB5eko0eTJvN1JEQnZHLXVSbVZPMGMtRWtvaVB0cllHX0VLUVE1ZG9UTHBsRjhkRzBjaGgtbUZsNTJZVmM3TWNjZEhvUFZ2OExtenlNRE0?oc=5",
+     "published": "2026-10-29T06:24:00.000Z"
+    },
+    {
      "title": "Friends facing animal cruelty charge for allegedly dragging dog behind their motorcycle",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNeU5xcEpqU3RIWUVXVWtnVGk5UHBmS2tIejZpNlpWdXM0cTdsNXMySzd3d2MxeWJKaGtwNWZUcUdKVWV0UnU4SjVLZ2xxYUZLUnVDa0xyQzJIWEpEbENJd0diRXR1TS1pMnB6VFFwLVBvcjNvZDNPZmVSbTF1dkxFNDZ1V0doMXU1UldWX0RHM01RYXhHb2R1ZHBFNmFNWGJ6RXRvbDRtN1NubmNzU3ljT25nS1NvbThWeTk0RFJjVVYtMC1XakFCWndaWURGNWktTUF3?oc=5",
      "published": "2026-10-29T05:52:00.000Z"
-    },
-    {
-     "title": "Addressing the ECRL first-last mile situation",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcXZNZXVRVkNFVk5wUm5sUjJJTnZFTTI3Uzk1dXR0ckFpNVcxZGNCN3AtRS02VWdXMXMwc0Y0TG1Dc0s2dU5UWnVBZkFuekh0UV9idklSb3lyTEk4S2h3ZEVUM3Q0U1hBMHRBM3dEUGkydXU2cFkzb2Y4WkFRSGhpU0dKQktPVDZuOXZPMEhiTDM3VXBzT3N0bzVjLTBwOXJ0?oc=5",
-     "published": "2026-10-29T05:14:30.000Z"
     }
    ]
   }
