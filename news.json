@@ -1,14 +1,20 @@
 {
- "updated": "2026-10-30T01:53:36.875Z",
+ "updated": "2026-10-30T02:44:00.136Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "2 helicopters carrying 3 people collide midair near Oregon airport, FAA says",
-     "brief": "Two helicopters carrying a total of three people were involved in a midair collision near an airport in northwest Oregon on Thursday afternoon, according to the Federal Aviation Administration.",
+     "title": "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
+     "brief": "Three people died after two helicopters collided midair near an airport in northwest Oregon on Thursday afternoon, according to the Yamhill County sheriff.",
      "link": "https://www.cnn.com/2026/10/29/us/oregon-helicopters-crash",
+     "published": "2026-10-29T12:00:00.000Z"
+    },
+    {
+     "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
+     "brief": "Patrick Stewart, the gentlemanly British actor best known for his role as Captain Jean-Luc Picard in “Star Trek” and later as the erudite mutant mentor Professor X in “X-Men,” has died at the age of 86, according to…",
+     "link": "https://www.cnn.com/2026/10/29/entertainment/patrick-stewart-death",
      "published": "2026-10-29T12:00:00.000Z"
     },
     {
@@ -42,12 +48,6 @@
      "published": "2026-10-29T12:00:00.000Z"
     },
     {
-     "title": "Shares of Google’s parent company just had their worst day ever. Here’s what it means",
-     "brief": "",
-     "link": "https://www.cnn.com/2026/10/29/investing/alphabet-google-stock-ai",
-     "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
      "title": "The final Israeli election results are in. Netanyahu hasn’t won – but he hasn’t lost either",
      "brief": "No clear winner has emerged from Israel’s election with all the votes counted, according to the Israeli Central Elections Committee.",
      "link": "https://www.cnn.com/2026/10/28/middleeast/netanyahu-israel-election-intl",
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "The power of sensory play in child development",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkF1Zk9RN0xfbklmVlYySS1zOUZJU2RxZjc0TUVZN3phbHBJRkpfRUxCc0t4N1AyWFlNck9YNWJnZ3VJSktRZTNZaDFrMkNDNkFZZ25MNXVHVG4zTUZVdEw2d25iTnNnRVNOYjRCOE9vVFZUVm5QNUh3MXQ4bm5zT09NYXBZTWw1MUljMzZTQzR1VnZoNDN5RkhhVVVjclo5WThLejJWdjBob0wyYjBJc0NZT1NNRl9WOWxj?oc=5",
+     "published": "2026-10-30T02:00:00.000Z"
+    },
+    {
+     "title": "52 summonses issued in Sungai Dua integrated enforcement operation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW8tN3pBcXhLR0N1MXJ2NzJWYlA2czgta2JrNzc1aHY4bnkxRTc0U1EwRjB0dnRJbmxOZVhMa1hOTzZuYlBnNldYLWt6V2F0QUFibU1FTjRRaS1RakV1NzdZUUxKNEhFWlBITlFQa0tFWXltbFA0LXFjM3lGR3l6T1U1aGZBLUVCdnV4RUNlZ01oVFBqNS1tWkdjcko0akhWeExQZmNmTjFZZkUycHMtazZCcEs5QVE?oc=5",
+     "published": "2026-10-30T01:32:00.000Z"
+    },
     {
      "title": "(Video) Goodbye haze, but what’s next?",
      "brief": "",
@@ -72,16 +84,16 @@
      "published": "2026-10-30T00:55:06.000Z"
     },
     {
-     "title": "Asia-Pacific Amateur offers Malaysian hopefuls golden pathway to Major dreams",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTjU5TEZzZ1ZkZUUzZURRNllNUkxiNDlFemFaZGlqN1ExLVAwbUY4elRVc1Zhb3NYdVdjX0hYSlliTzJOckl2UjV4TW9LX3dlWmIxRXRSYjFuQURsbFU1bUdEU0RPN1QwdEFFb0xzZmE4amVKZjRHa0JZY1pNZzNUSWtUVEVnQ3kyTGpNQ3ZrSWx0SGxNXzlyQkQydFhOMGU2am9INHhJRXZQUi1EY25zRll1YzFWT2Rlb21ucVJMeEd6OTBjUmRDa0FDb1pOWkc1aU45WDA1UWdja0R1NEVYbGd3?oc=5",
-     "published": "2026-10-30T00:55:06.000Z"
-    },
-    {
      "title": "Do you know... about hiking safely?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWhtRThJaXFyOVJoSXBLcjlqSGlxRWZLUi05RGNtYkttZHN1UU1JZHRReUptSUgxUXpmTDZVeml0eC0taEwyMWNOQkhxeEpzc3ZSd01qbGxHVXB4M1pQMkxjTVNvbjJjUjZZdi1qYUJSNGYxdTRaMTV6LV81REY4aXJrel9mUy1P?oc=5",
      "published": "2026-10-30T00:28:00.000Z"
+    },
+    {
+     "title": "A reform that gives the House back to itself",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUltTnZPcUV1cVc0SUw1amViUmFyQ0xOZGRqMFE4NXJQWHF5azBtZ3lIVjN0WW1oQnY2Z093Tld4Z2NjVjlJMFBhbXpIbkVzNE9hb2ZRYzJaLUlpdzZlM3RGSVlNTHRFZEMxYmd4NnhRS0xMdzBFcnBXTGI3anVjMHNDOEtucHgyMVNYdWh0X1Z3WTc2ZGluc3JEbzBWeXM?oc=5",
+     "published": "2026-10-30T00:15:33.000Z"
     },
     {
      "title": "Motorsport: Driven by determination",
@@ -90,22 +102,10 @@
      "published": "2026-10-30T00:04:38.000Z"
     },
     {
-     "title": "Pedestrian crossing needed at Ipoh Railway Station",
+     "title": "QuickCheck: Was the mask Halloween's Michael Myers used actually a modified Star Trek prop?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb0JWTU1idlhaaXc0UWJZX09FenhUaWd6bkVFOXZ0Z3JUa1dIZ2gwTUVrZU1obmNqbWFVcUpBUTNma3NwUkNtYjAwVVN6ckVfZFBsWUQ1a0c3NUpzcWZfYW1XOVZMZWNtazBxTnE0ZDFjZEEzTFppS1FMMnIzZW11TlFoR3UtUE4zbWRtTkN3R2tqRjBUdXJRc1ZlWEJFZ0xLTWc?oc=5",
-     "published": "2026-10-29T23:58:16.000Z"
-    },
-    {
-     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
-     "published": "2026-10-29T23:55:03.000Z"
-    },
-    {
-     "title": "Golf: Nateesh weathers the storm to stay in Masters contention",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTDVleU4yOFRuVE9zeVY2VXJ3RGNEb0sxcWpMMXA2VW1QQ0FzWFNwMHFJckthdG5XLTBIamVOUnBlT21TMi1HTXR5SXpDUVdfbVA1RHRxS1hRZ19fcktoMEhYMFFKcnFyX2dDYzFyYnVMbW9nWG1PYS1ZQ2kzY0Q0TWdWaVJuNjItdzlaQlA3RG1oSFhBNWtqdGR0Y0l3UnJMNXlWT3lfRVE?oc=5",
-     "published": "2026-10-29T23:55:03.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNzY0a2Y0Y0hKWm5rM2lTU09XRHc0WjN3TmhmZ2ZTMTg4cGxOSm9jYzIyLTlLc05rSkN3dF94c3Z3TUpOMUFNdHA4c0wtR3ZueHpXUHNhcl8tbS1WWnVMNWhHMEFUVEk1ZHR6Tks2WnUxbHNuQ1pYWTljM29qRFFXU19NN0dJLUtIWUhVM3RXMnRsM3VvWHRYQkNFTFJ0b1loTnBBN21IWENMdDNkUW02Z2dkakQtUXZpeVpsck52ZDlkSzJ2T1dMZVZpN2J5bmtubTRpRWE0dTRfcjA5ZlZr?oc=5",
+     "published": "2026-10-30T00:00:00.000Z"
     }
    ]
   }
