@@ -1,39 +1,51 @@
 {
- "updated": "2026-10-30T12:46:24.282Z",
+ "updated": "2026-10-30T13:55:17.254Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Police probe Jeffrey Epstein’s time spent at Balmoral with Andrew Mountbatten-Windsor",
-     "brief": "Scottish police are investigating the time convicted sex offender Jeffrey Epstein spent with Andrew Mountbatten-Windsor at Balmoral, a private royal estate in Scotland which is a favored retreat for the monarchy.",
-     "link": "https://www.cnn.com/2026/10/30/europe/police-balmoral-epstein-andrew-mountbatten-windsor-intl",
-     "published": "2026-10-30T12:45:24.531Z"
+     "title": "Visit Norway makes toilets ‘great again’ after Trump’s ‘sh*t house country’ jab",
+     "brief": "Norway’s tourism board has launched a tongue-in-cheek toilet campaign to show off the country’s most scenic restrooms after US President Donald Trump branded the Nordic nation a “sh*t house country.”",
+     "link": "https://www.cnn.com/2026/10/30/travel/visit-norway-toilets-trump-scli-intl",
+     "published": "2026-10-30T13:55:17.455Z"
     },
     {
-     "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
-     "brief": "Wall Street braced for another steep day of losses Friday, with futures falling after the latest earnings from Big Tech reignited concerns that the massive spending on AI may not deliver the returns that investors…",
-     "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
-     "published": "2026-10-30T12:44:24.535Z"
+     "title": "Christa Pike, in first public comments since botched execution: ‘Healing is not the same as being okay’",
+     "brief": "Christa Pike , who survived Tennessee’s attempt to execute her by lethal injection last month, is speaking out for the first time, saying she is recovering, “but healing is not the same as being okay.”",
+     "link": "https://www.cnn.com/2026/10/30/us/christa-pike-case-first-statement",
+     "published": "2026-10-30T13:54:17.503Z"
     },
     {
-     "title": "Evacuations begin in occupied Ukrainian town as Melania Trump-brokered ceasefire holds",
-     "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies are set to be evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
-     "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
-     "published": "2026-10-30T12:43:24.591Z"
+     "title": "Major anti-government protests sweep across Italy",
+     "brief": "Farmers dumped manure on the streets of Turin on Friday as mass demonstrations unfurled across more than 50 cities in Italy.",
+     "link": "https://www.cnn.com/2026/10/30/europe/italy-protests-anti-government-meloni-intl",
+     "published": "2026-10-30T13:53:17.501Z"
     },
     {
-     "title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices.",
-     "brief": "Big Oil minted big money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.",
-     "link": "https://www.cnn.com/2026/10/30/business/big-oil-profits-trump-gas-prices",
-     "published": "2026-10-30T12:42:24.600Z"
+     "title": "Pope Leo makes history by voting in US midterms",
+     "brief": "Pope Leo XIV has submitted a mail-in ballot for the US midterms, becoming the first pope to vote in a US election and likely the first to vote in a secular democratic election.",
+     "link": "https://www.cnn.com/2026/10/30/europe/pope-leo-voting-us-midterms-intl",
+     "published": "2026-10-30T13:52:17.512Z"
     },
     {
-     "title": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
-     "brief": "Binance, the world’s largest cryptocurrency exchange, suspended withdrawals after hackers broke into its digital wallets and stole $6 billion in what appears to be the biggest crypto heist ever.",
-     "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T12:39:24.596Z"
+     "title": "How one billionaire could ‘singlehandedly’ alter the course of the midterms",
+     "brief": "Elon Musk has plowed nearly half a billion dollars into elections in the 2026 cycle, a spending spree that makes him the single, largest disclosed donor in modern American politics and one of the Republican Party’s…",
+     "link": "https://www.cnn.com/2026/10/30/politics/elon-musk-midterm-spending-republicans",
+     "published": "2026-10-30T13:51:17.497Z"
+    },
+    {
+     "title": "Why Trump’s favorite CNN video of Harry Enten is ‘not the full story’",
+     "brief": "CNN chief data analyst Harry Enten has become an unexpected star at President Donald Trump’s rallies this fall.",
+     "link": "https://www.cnn.com/2026/10/30/media/why-trumps-favorite-cnn-video-of-harry-enten-is-not-the-full-story",
+     "published": "2026-10-30T13:50:17.511Z"
+    },
+    {
+     "title": "Republicans’ attacks on El-Sayed aren’t just bigoted. They’re unconstitutional",
+     "brief": "The Republican argument against electing Abdul El-Sayed as a senator is becoming perilously close to, Don’t vote for him because he’s a Muslim.",
+     "link": "https://www.cnn.com/2026/10/30/politics/trump-abdul-el-sayed-midterms",
+     "published": "2026-10-30T13:49:17.509Z"
     },
     {
      "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
@@ -48,58 +60,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Hockey: Azrai scores twice as Malaysia trounce Bangladesh in Asian Champions Trophy",
+     "title": "Cricket-Lancashire exit came as shock, says Anderson",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXZIZXhpZGNvODd1NzN0RENJcVBRTDNXRmhZeFNPRDluTmRrUy1WVkRtVUFfYXMyUXYwS3J2N3J1b2pNM2UzYmxBVDB3ZmN0M29ZYXJfTHdVeVNtTnNKY3o2dnFKZjdsWThZclFWcTdEZ0pUWkhsR2F2ek41VWF3OHloV21kTzE2aG9PZ1RyaHdSd0lqUWlid2sxcGpoZUl0Vk0yS2QwUC1wZEdzZGp5NXJMVWhIcnhVbVRTSXdjV1FjcnRu?oc=5",
-     "published": "2026-10-30T12:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTV9LMGdEc1lUa3B5TDJjajVDeDFTWFMzbU1oNzF5ams1Zk9lcXNVSzlQaWpaNUxPSlRZam9LUWVHcnZiaXZfcTBiNXdxTUg3aFE2ek1xRkFHZE9XWUxpb25qdjNENGJfVEdYYk0xNmdXRDJ3NkRIU2JMU084d19UaVBvMmtLTElEMUJrS25kMnA3UWZiWFRBMVJJc0dyMERsUHNnXzlB?oc=5",
+     "published": "2026-10-30T13:33:00.000Z"
+    },
+    {
+     "title": "Tennis-Rybakina withdraws from Tokyo quarter-finals with neck injury",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1hzNmE5SGlqZnpJTWZKYmdoVGpNYUE2aks4cUMzTlI0eldzNWd3QTk0QXAtT1BlLVc0dVQtQmlVNE1aalY0WlBlSERGTEp0U3l0MkNsc0Q5dHB4cTRPVWRiQm9VaGlGZm1SYkJEUFlrVWV3Y2lId1M1ZWw3enlFM05Ka0d1dF90c0xPek8zQ3FjUThOQW5nQm5JbDZFZDQzd2FJb2xSWFBrOGNPYVN3SzM5eXA3Z1liUi1V?oc=5",
+     "published": "2026-10-30T13:31:00.000Z"
+    },
+    {
+     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
+     "published": "2026-10-30T13:18:45.000Z"
+    },
+    {
+     "title": "Athletics-India's Chopra targets return to training after injury layoff",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZHhrM1FkV3l2V3U1T1NhNnFlWFpOQld3LUJqcTJmUnl2RkctdTRTVmpIankzaEJFNFJxRW9haHlwNXRZYmxQOW84Tm1teVZLQ3R1M0ZTMmJibEhDWTZOQmNCbzlBdTh4ZDBOVjFRMkNhejNiNXQ0bFpmMmJicFdsR01DNHdWNVZRbXA5RXhBeE9fTmxsdXhYdGppUDBsZlBwUVhEZFZwMkJPZUF5NG5qNUVDNEFqWTBPX0ROWW9LS2tsc3RDSUE?oc=5",
+     "published": "2026-10-30T12:59:00.000Z"
+    },
+    {
+     "title": "Cricket-Phillips fireworks secure New Zealand's consolation win v India",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQ1I4SkJBaWZCSHR6dVNiOE5QUFJnOVBIZUtSYVRiZ2cxbVJpSl93S1NuVW14d0FwdHRvMzEzeTBTYTJ6dWxlaHdEeHZGUlNfSHJ6ckNZb1JfMkNQd2d5VXVRMjc1cmxuQU8xaE94cjNyV3BIUUF4ZjJ5RUlpMHl2TEpxUWt6ajBkRGdvWndlc0ZnQUdEZXpObzdjLWNYZnl2MHpFX2tkRVRxWHkzbDZOdnZMajhyQ3dpbjk5T25IY3FwLWs?oc=5",
+     "published": "2026-10-30T12:59:00.000Z"
+    },
+    {
+     "title": "Oman navy evacuates 25 crew from vessel off Musandam",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSkc0OW5XaXBKUDJSa3Q0TjlmLWd1cmZOLXdMVlZJeW9LMVBWNkF3Y2NYMzBaV0RGMEZQZ2Z6ckpNZHZ4NHdUZGhiYXpleXpQTVdHSUk1NDNXMG5kRjVqWlE1OGhsX19Od3Z6UkFkZndlUUdtRVVrbUhiUkFNbklSdjBVM0FCWTM2YzRzUzU2cjZqQ0pRcUdBbklUUE1VWTZzU3RZ?oc=5",
+     "published": "2026-10-30T12:48:00.000Z"
+    },
+    {
+     "title": "Golf: Liyana draws strength from family to charge ahead",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVl0UW9MQjhTTkJ5QVdVMzBfQmd2Y2tOTWdnVDc0YmVtdjY5SmNpU3NablA2bVlFWWtwV04zS2p1R2daRGQyZ0d1cElQcU91blVOdlhFWHVjbE12WFNvZlRIeUlPT2JBb2R5dGhBWU0wZG9HcW1vUGZPUjhmdlJvUzdCYUw3SENTbWpDXzE1S1ZmY3RIVExteEVRYks0T1E?oc=5",
+     "published": "2026-10-30T12:13:28.000Z"
     },
     {
      "title": "Trump on Iran war: It's going to get wrapped up soon",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVVPYmRvSUZOOGUwbndPbEtqclA1NDhzQUlCRm1MbzVNNGc3bWR3TkhxWF8yWm9XNF81eElQSmhzYzJWbmVLNUM4dTdYazdXemJTWFZlY09zaUg4cEpiNHRHVGtORkhkMXJzT3JFalRwVVhxR2t2el9kN0RPMmhpTDlSTzRhWVIzU2p0cGRRTWpuMEhLYVl2NVBRMkVoLTBXdl81Zg?oc=5",
      "published": "2026-10-30T12:03:00.000Z"
-    },
-    {
-     "title": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUZ2NFJYbGZWb0Jfd05UZnpmNGFNNTlfVk5IUU1VbGliX1daSG51WEtHR3p0eWc3ajNuWTRuRWx1enN4OWVBNHFCa05UZWE5Q08tdXZuZDVsbUY4TlFFVGtLQm9tN3kteGtVYTVqT1VuUjZvQ2V6VGx0aGpXd1ZKeGpsZkZXQV83SkdLdTA2TFl0dlg5U2VLTHRTY0dCbzI1UUxtUHE5Yk5vb1VISkJUU3hGbFFzR2tNZmpSeEJnMTR4MHVjaENDdGdzaXI5dw?oc=5",
-     "published": "2026-10-30T11:55:00.000Z"
-    },
-    {
-     "title": "Badminton: Aaron-Roy King justify Herry's decision to make them a permanent pair",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1RRcmtTRzR6U0ZqLWtpdUFRbHF0U2JFMi1QS2V5LUNUMFZ2b1BNaGZodXB4UjdvSE9qVnRZaTF0eTlQdDU0VThBNGo5Q2x4a1dGbDdsQWdkWU4yV1pDUTVSLURndjVTcGROelZ1S05pYU9pZzZiTk4wZjUxbUZENVFuWGFSczdsa1k4V1F5R1dZbUsyckZCbUoxUi1neGVyb0VlbS1vazBKSjQ1QWcyN3hXcklXVEVjcVhTdTJnNEtYTGM?oc=5",
-     "published": "2026-10-30T11:52:00.000Z"
-    },
-    {
-     "title": "Golf: Liyana draws strength from family to charge ahead",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVl0UW9MQjhTTkJ5QVdVMzBfQmd2Y2tOTWdnVDc0YmVtdjY5SmNpU3NablA2bVlFWWtwV04zS2p1R2daRGQyZ0d1cElQcU91blVOdlhFWHVjbE12WFNvZlRIeUlPT2JBb2R5dGhBWU0wZG9HcW1vUGZPUjhmdlJvUzdCYUw3SENTbWpDXzE1S1ZmY3RIVExteEVRYks0T1E?oc=5",
-     "published": "2026-10-30T11:48:45.000Z"
-    },
-    {
-     "title": "Reddit, Pinterest shares tumble on weak user and revenue growth",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjY2YmdqTVFpWll1RlZXbnR5SUdwZThPQWVmYkw4OXZqSXF1NEpOcnZDX3I2TFRCcU9tMTVCallYelZkOWx1WkY1WDQtVU9SbGIzX0JvTEdVakVTQkFLYmhnNS1yQTlDemJQOUREdUl5UWZVaFdvLUlfZUlpZ0d2Q0xmMHRHZHZhalVBQ0VqNjc3SzJnS2lUemhjeUl0dlBNa3p5bzA1QkVtX280al8wRmlTZUQ4UQ?oc=5",
-     "published": "2026-10-30T11:47:00.000Z"
-    },
-    {
-     "title": "Football: Substitute Luan stars for Brunei in win against Negri",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWtCYzVTZnRURVF5ZmNNeUY5Mm9XTzhoMmxLcE52S1d6cElvX1hLeDY4bGlxRWVpVi16Z2RnVGY5eV92ZUJobnR6eFl2Nmh4TnN1SHdOTmZXMUNmd2plQ18zTkFoZnNHV3pfcmpQVmhwbHFVYUZoQlhKeUptTnNzQ0NXTjNpU1M2V1RPd0M2RkVTRklJU2g4ZGVZNWZ0TXhteW9Ibi1qci1OUQ?oc=5",
-     "published": "2026-10-30T11:45:00.000Z"
-    },
-    {
-     "title": "Six feared dead in helicopter crash in Indian Himalayan state, media report",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0lZUTRNM0NjUFFUNGxpVGx6aERCdHQxc1lsd3VQZjVWNEs4QVR5NERvSTNSR0JsdUJZTzhhdThhdmNXRlA0RllBbUlsUjZoV2FjS1U2dkxpWWZpR2JPOXE1MjR4RUJsbVVacW9IMGhGXzBESnhIRmtyUXhxY21Qay1feExwaU1RdVNtaEJFZERxUjZ3WnpmT1NIVkRzSENjTWw2M3RJWjljUkR2MlZ2X3E4TXk4dUtKSjZQYnppWjU?oc=5",
-     "published": "2026-10-30T11:28:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
