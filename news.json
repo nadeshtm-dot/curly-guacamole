@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-30T20:34:19.479Z",
+ "updated": "2026-10-30T21:32:49.673Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘They killed us’: Russia’s last independent newspaper falls silent amid pressure from Kremlin",
+     "brief": "Novaya Gazeta , one of Russia’s last independent news outlets, announced on Friday it would close down operations due to pressure from authorities.",
+     "link": "https://www.cnn.com/2026/10/30/business/novaya-gazeta-russian-newspaper-shutdown-intl",
+     "published": "2026-10-30T21:32:49.991Z"
+    },
+    {
+     "title": "G20 photo scrapped amid tensions over Russian foreign minister’s presence",
+     "brief": "The G20 foreign ministers meeting kicked off in Atlanta on Friday without a “family photo” after numerous representatives were expected to walk out rather than be pictured alongside Russian Foreign Minister Sergey…",
+     "link": "https://www.cnn.com/2026/10/30/politics/g20-tensions-photo-canceled-lavrov-rubio",
+     "published": "2026-10-30T21:31:50.073Z"
+    },
+    {
      "title": "Trump fumed at coverage of rally cancellations before ordering the events back on",
      "brief": "Flying on Thursday to South Carolina to headline his 25th midterm rally this month, President Donald Trump and his political team made a decision, according to one of his advisers: Instead of holding an in-person…",
      "link": "https://www.cnn.com/2026/10/30/politics/trump-rally-cancellation-midterms",
-     "published": "2026-10-30T20:34:19.743Z"
+     "published": "2026-10-30T21:30:50.053Z"
     },
     {
      "title": "The real question we should all be asking about AI",
      "brief": "The stock market is turning its back on Big Tech.",
      "link": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
-     "published": "2026-10-30T20:33:19.815Z"
+     "published": "2026-10-30T21:29:50.058Z"
     },
     {
      "title": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
      "brief": "The US State Department approved the potential sale of 500 Patriot air defense interceptor missiles to Ukraine on Friday, according to a department release .",
      "link": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine",
-     "published": "2026-10-30T20:32:19.806Z"
-    },
-    {
-     "title": "‘They killed us’: Russia’s last independent newspaper falls silent amid pressure from Kremlin",
-     "brief": "Novaya Gazeta , one of Russia’s last independent news outlets, announced on Friday it would close down operations due to pressure from authorities.",
-     "link": "https://www.cnn.com/2026/10/30/business/novaya-gazeta-russian-newspaper-shutdown-intl",
-     "published": "2026-10-30T20:31:19.801Z"
+     "published": "2026-10-30T21:28:50.064Z"
     },
     {
      "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
      "brief": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
      "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
-     "published": "2026-10-30T20:30:19.768Z"
+     "published": "2026-10-30T21:27:50.038Z"
     },
     {
      "title": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
      "brief": "For years, the crypto industry has tried to shed its affiliation with crime while marketing itself as a safe alternative to traditional banking and investing.",
      "link": "https://www.cnn.com/2026/10/30/business/binance-hackers-crypto-safety",
-     "published": "2026-10-30T20:29:19.812Z"
+     "published": "2026-10-30T21:26:50.067Z"
     },
     {
      "title": "An ICE officer has been charged after striking a man with a car in Houston",
      "brief": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was indicted by a grand jury Friday on a charge of aggravated assault with a…",
      "link": "https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston",
-     "published": "2026-10-30T20:28:19.776Z"
-    },
-    {
-     "title": "Hundreds evacuate Ukrainian city of Oleshky under Melania Trump-brokered ceasefire",
-     "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies are being evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
-     "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
-     "published": "2026-10-30T20:27:19.809Z"
+     "published": "2026-10-30T21:25:50.062Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "3 Uruguayan soldiers die during tactical diving course",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUnFDcDN4RnFrcXBrZW9yTmxFcW1SUmVZejlOb2o0eTJRdkhDbV9sWERISkJFUlVWbEJSWnYycVl1VFo0c1pvMndHVXJsaWg4NWVaNXNyejROUzNmLTFmWEdlSXh2ek5Ed3JTUFAxVlBfZ0tkX0lNSlRYbVZLX0lpOUtPNkFqbk1zSU9aekI2YkRyVFdvb19VbWpURl85a21BUFk0ZTl3?oc=5",
+     "published": "2026-10-30T19:49:00.000Z"
+    },
+    {
+     "title": "Five children among seven dead in eastern Syria floods",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQTR5YzZqQ3QwS2o4N0hvTng2eHl2SlFBcGFGem1fTUNhRmVYWUJVcnZHWXYxOUMwLUYza0hCMEN0QUMwS3NNQ2E0TjZPQ09ydWlJTGpPaG1uQmhfQWQ1SHdLMkdmaVVqVFFJVU5Kd3JoVEJJVzV1dzMxTVpBZlRYSk40UG5VcGFSdUk1VUdockZha3hqWUpubGVocmVwejZJSnhkdWR3?oc=5",
+     "published": "2026-10-30T19:24:00.000Z"
+    },
     {
      "title": "Crude futures settle higher",
      "brief": "",
@@ -84,28 +96,16 @@
      "published": "2026-10-30T17:48:00.000Z"
     },
     {
+     "title": "Cricket-Slow Newlands wicket will test Australia in 288 chase, says Rickelton",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYlY4cjcyZWtHNGJGdFlkZ0xYS2FOMDd0aTlLQ3BMTnRsMVY5SDRySVpIcEJXMmJmeGl2bjdNRFQ1VVFRNmhVem5nTkhtVzRtTnlMcTdiOEk2TW56UnV0V3cweUI4WWJHb2dxNkl4YTFWNm5nYUo3Rk5VTXZGdlloaVNYSDVRTkJrNnpOS3JlcVMweTNMU0dSelQyZmNvbEF4UGJZdFRnYlZobG5DYkdKejVXS1VuTmF2Smw0OXhBNHVpb0FYVVJV?oc=5",
+     "published": "2026-10-30T17:44:00.000Z"
+    },
+    {
      "title": "Wrestling-Bhanwala becomes first Indian woman to win wrestling world title",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlkxMHUxR3h6UGI2OFl6WXpQQXgxZkNsZ0JGV0pwWU9UclhQb0ZfMDNOSEZBOHVhYWRUZ0pHRnJOcnZXeF9LWUw5a2xVR3BTeHR2ZXhtZXBNSUlBVlZpejJnNjRMcWYxdG1XbHJqT0QxYmlhaVFDQ1lrS01jT1Y0M29sOWgxaENFcWQ3WTcxMEJpQ0NVdzlDdl9DTkd5RVAxbWxSYU9UaUFQRm1feDB3Q2ZGRVhXNHg5RWtMYzFlVDlqZzl0TFFB?oc=5",
      "published": "2026-10-30T17:36:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Tottenham's Maddison available for Palace match, says De Zerbi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTI2WGNIQWViSFpRR3VDci11SmRISVB1ODY2ZXlCUlZ6VEQtTVJMbExtamlwTUlVWmpDaElBV19vUHNRM3pVRGw5eFZYWGk1S2ZNRGxTdG1MS2FsZnBLRGRfRG5zcnBxOXB0UFhmTVhpUEhCSUJaMkc0bzJrZVlKZFAzbE4zdjE4VzIteEtKRTAxQmNsYWFoOURUN1oxR1lMQk92SjIzQ19STUExY21UTWo5ODFDeDFuZndVQWhzYjk?oc=5",
-     "published": "2026-10-30T16:57:00.000Z"
-    },
-    {
-     "title": "Tennis-Medvedev clinches ATP Finals berth by reaching Vienna semi-finals",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdjlpVlB1bXNmV3ZoRmlOc3V4cUlwR2NjR0dlazRBNmlwX2dON01McFVYN2NTcjRkeUx4Ry1yOEhyeW9iUldRWl9ONWc2am95a2dEN0RSOUFpQ1RkaF9XNFFaVFZNbVBQc2Y5UUVQYnJaalVMdGduaGpScW9zQmI3X1pqZ053SWlLcXB4MDh4Nk5TZVlxMWFwb2dHU2ozMF91cTdTZkhLc1pydUpLeFI1MlVxTDRTS0NzT1A1UjR6cWM?oc=5",
-     "published": "2026-10-30T16:09:00.000Z"
-    },
-    {
-     "title": "G20 foreign ministers skip photo-op amid objections over Russia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzdBUkRiWUlaTTBZNVUtXzlsY2I1SEFTelF2NnAwYllvUEEtWndhRjZsUVoyMFZEb3pGX0FMaHdSMkJZYW0xOWlmVW8zSmo1WUJCYXFaZGRYQmpleVJPd3B2N3hVdk9RSV9PS3ByTFZrSXVjaTNLZ2dsMVdwaWJKb3FsYXVvaXg1cGsycVdiRldrTEdoRGs4N1M0emxaYnZuaHZUUm5NQ2FmYUJpUVMyUXFn?oc=5",
-     "published": "2026-10-30T15:54:00.000Z"
     }
    ]
   }
