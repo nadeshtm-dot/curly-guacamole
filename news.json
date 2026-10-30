@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T10:43:25.652Z",
+ "updated": "2026-10-30T11:34:34.121Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -7,39 +7,27 @@
    "items": [
     {
      "title": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
-     "brief": "Hackers stole over $6 billion in cryptocurrency on Thursday, shattering the record for the largest such heist as multiple investigators pointed the finger at North Korea.",
+     "brief": "Binance, the world’s largest cryptocurrency exchange, suspended withdrawals after hackers broke into its digital wallets and stole $6 billion in what appears to be the biggest crypto heist ever.",
      "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T10:42:25.925Z"
+     "published": "2026-10-30T11:33:34.347Z"
+    },
+    {
+     "title": "Pete Hegseth’s political future could be on the line if Democrats win the House",
+     "brief": "Defense Secretary Pete Hegseth’s political future could be on the line if Democrats win the House majority in next week’s midterm elections.",
+     "link": "https://www.cnn.com/2026/10/30/politics/pete-hegseth-impeachment-democrats",
+     "published": "2026-10-30T11:31:34.345Z"
     },
     {
      "title": "Protests and violence now go hand in hand in France. It wasn’t always like this",
      "brief": "Lucas Petit was just 11 when hundreds of thousands of men and women wearing yellow vests poured onto the streets and occupied roundabouts across France in November 2018.",
      "link": "https://www.cnn.com/2026/10/30/europe/france-violence-protests-intl",
-     "published": "2026-10-30T10:41:25.922Z"
+     "published": "2026-10-30T11:29:34.453Z"
     },
     {
      "title": "‘This can’t keep happening’: How divorced military spouses get trapped in foreign countries",
      "brief": "Christina Fuller is an American former military spouse living without legal residency in southern Spain, where a custody fight has kept her and her son for years.",
      "link": "https://www.cnn.com/2026/10/30/politics/divorced-military-spouses-stuck-in-foreign-courts",
-     "published": "2026-10-30T10:40:25.914Z"
-    },
-    {
-     "title": "Canada’s economic break with the US in 5 charts",
-     "brief": "For decades, the United States and Canada worked to build one of the world’s closest economic partnerships, with supply chains, businesses and trade increasingly intertwined.",
-     "link": "https://www.cnn.com/2026/10/30/economy/canada-us-trade-economy-vis",
-     "published": "2026-10-30T10:38:25.921Z"
-    },
-    {
-     "title": "Packers’ Watson makes improbable ‘Thursday Night Football’ return after mid-game trip to hospital",
-     "brief": "Green Bay Packers wide receiver Christian Watson had himself a night to remember in the team’s 27-19 win over the Carolina Panthers on “Thursday Night Football.”",
-     "link": "https://www.cnn.com/2026/10/30/sport/packers-watson-tnf-hospital-return",
-     "published": "2026-10-30T10:37:25.916Z"
-    },
-    {
-     "title": "The push to impeach Hegseth will gain momentum if Democrats win the House",
-     "brief": "Defense Secretary Pete Hegseth’s political future could be on the line if Democrats win the House majority in next week’s midterm elections.",
-     "link": "https://www.cnn.com/2026/10/30/politics/pete-hegseth-impeachment-democrats",
-     "published": "2026-10-30T10:36:25.912Z"
+     "published": "2026-10-30T11:28:34.351Z"
     },
     {
      "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
@@ -52,6 +40,18 @@
      "brief": "Israel faces weeks, possibly months, of political limbo after final results show there’s no clear winner in its elections .",
      "link": "https://www.cnn.com/2026/10/29/middleeast/israel-election-results-deadlock-vis-intl",
      "published": "2026-10-29T12:00:00.000Z"
+    },
+    {
+     "title": "Truck stolen by Tennessee prison escapee sat in Illinois for more than a day before it was found, police say",
+     "brief": "A truck that a convicted murderer stole after escaping from a Tennessee prison this week appears to have sat in southern Illinois for more than a day before police found it, authorities said, as a multistate search…",
+     "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
+     "published": "2026-10-28T12:00:00.000Z"
+    },
+    {
+     "title": "What caused the deadly train crash in Spain? What we know so far",
+     "brief": "Individuals from as many as 27 different countries may have died in this week’s high-speed train collision in Spain, the country’s prime minister said Friday, as the process to identify victims continued.",
+     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
+     "published": "2026-10-28T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cricket-South Africa lead over Australia passes 100",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb05xY1VBclNEVFdnNnJjNHNQMi1scURmTElKU3BwZjg3Zkp1ZVQ2MmR1c2p4dm92dkc1S004X2NwalppS3BrdTBiQVVKNGlNWlY2dndINzR3aV9YcDAzeTk1T05MM1hKSmdFUFVLaG5OZk96WDM5eHZpSS1IRVY3OWpseDVfdXRVX01tNkVVN0hCdUl4UlAzaVRYaTZ3THY2dkRDenln?oc=5",
+     "published": "2026-10-30T11:19:00.000Z"
+    },
     {
      "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
      "brief": "",
@@ -84,21 +90,15 @@
      "published": "2026-10-30T09:04:00.000Z"
     },
     {
-     "title": "Meghan Markle’s dad’s personal devices probed for illegal content",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNkNqQmtNMkQ0ellhV0NBa2x2Zk1RWVljLVZuLWtNTzE5Wl9lQ01UVFlOT1hpZkxNV2RFRjl0LWg1VWd5NHNFMjVGUE1odHZkS2U0bmNYZVFDbzhIbWJOZWVTdW9jSHgtbUVKd1F1bXVqZXhha0hMLVptRkRSRmRUWXhMZkppbkhQNHh1RkZJRGxZRkhyd0k4R3lBc2NZNWNUX2dlM3dCa19SLVVVY1lDNUdNR2l6enNla2twcHBQMzhPN2M?oc=5",
-     "published": "2026-10-30T09:02:00.000Z"
-    },
-    {
      "title": "Malaysian travellers charmed by Slovenia's car-free zone",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUI3aTREWlR3RlFjNi1MTU5aWmcxSS1wVUExcTlXUXdlSXBDaUl0cV9WX0JBb2huQWV5QjZzUzk5T3F2LVVHNWZVWkN4NjJkZ1Z3Q0pJWnpjRWFOa1hYMy02Nk04QTRjN0c2d1hsdHRIMTNNUEpjRm9rZk51UzZaa2oxVm9TVGVqQ1RCZUZRU3hkcEZLZF9BU3Zzd0h4d0Y2a0ZHcWtVX1QwR1ZCWVJKLVVwUQ?oc=5",
      "published": "2026-10-30T09:00:00.000Z"
     },
     {
-     "title": "Asia-Pacific Amateur offers Malaysian hopefuls golden pathway to Major dreams",
+     "title": "Nigerian families and survivors seek justice over miners' deaths",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTjU5TEZzZ1ZkZUUzZURRNllNUkxiNDlFemFaZGlqN1ExLVAwbUY4elRVc1Zhb3NYdVdjX0hYSlliTzJOckl2UjV4TW9LX3dlWmIxRXRSYjFuQURsbFU1bUdEU0RPN1QwdEFFb0xzZmE4amVKZjRHa0JZY1pNZzNUSWtUVEVnQ3kyTGpNQ3ZrSWx0SGxNXzlyQkQydFhOMGU2am9INHhJRXZQUi1EY25zRll1YzFWT2Rlb21ucVJMeEd6OTBjUmRDa0FDb1pOWkc1aU45WDA1UWdja0R1NEVYbGd3?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFhJTW92V3pMQzQyMUdVVGhRVEtJUVM2OGozekVoX0dpVE9DRDRNT2dSVmZFSTFPajFiMVlUQnRfNVdQTlpHMFlwTW1rZWoydzZZVUZSakZ0UHZXRXdBVVJyTFZDaTF1M05OM1dCSDUxUW5fa0JpWWtJNlRRRHhWU09wMGxQVE1HXzJhVDBSa0M3bHVfYWRadl84cmpWRVJOSGplYTF0QWxBdERWc3c1bUhQb1ZYQQ?oc=5",
      "published": "2026-10-30T09:00:00.000Z"
     },
     {
