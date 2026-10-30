@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T02:44:00.136Z",
+ "updated": "2026-10-30T03:43:14.139Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,16 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
+     "published": "2026-10-30T02:48:45.000Z"
+    },
+    {
      "title": "The power of sensory play in child development",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkF1Zk9RN0xfbklmVlYySS1zOUZJU2RxZjc0TUVZN3phbHBJRkpfRUxCc0t4N1AyWFlNck9YNWJnZ3VJSktRZTNZaDFrMkNDNkFZZ25MNXVHVG4zTUZVdEw2d25iTnNnRVNOYjRCOE9vVFZUVm5QNUh3MXQ4bm5zT09NYXBZTWw1MUljMzZTQzR1VnZoNDN5RkhhVVVjclo5WThLejJWdjBob0wyYjBJc0NZT1NNRl9WOWxj?oc=5",
      "published": "2026-10-30T02:00:00.000Z"
-    },
-    {
-     "title": "52 summonses issued in Sungai Dua integrated enforcement operation",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSW8tN3pBcXhLR0N1MXJ2NzJWYlA2czgta2JrNzc1aHY4bnkxRTc0U1EwRjB0dnRJbmxOZVhMa1hOTzZuYlBnNldYLWt6V2F0QUFibU1FTjRRaS1RakV1NzdZUUxKNEhFWlBITlFQa0tFWXltbFA0LXFjM3lGR3l6T1U1aGZBLUVCdnV4RUNlZ01oVFBqNS1tWkdjcko0akhWeExQZmNmTjFZZkUycHMtazZCcEs5QVE?oc=5",
-     "published": "2026-10-30T01:32:00.000Z"
     },
     {
      "title": "(Video) Goodbye haze, but what’s next?",
@@ -78,34 +78,34 @@
      "published": "2026-10-30T01:30:00.000Z"
     },
     {
-     "title": "Promoting mental health in schools",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXFJYWNQcHJHRjhGbk4tRlczRHhOT2kyT2JlalNJSHhTcDlMMHhPSU02VTJKeFhrU0lobFBlb3JIV0NWbmdKYnBBWS1BME9ac1doV0daU1NDdTcxMjN6VmV4eExNWGpMaUF4LUNsVzZGV0VtQTd3ZUQtejlWR2wyb2otLUkweERuM1hsekVnQlh0b3c?oc=5",
-     "published": "2026-10-30T00:55:06.000Z"
-    },
-    {
-     "title": "Do you know... about hiking safely?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWhtRThJaXFyOVJoSXBLcjlqSGlxRWZLUi05RGNtYkttZHN1UU1JZHRReUptSUgxUXpmTDZVeml0eC0taEwyMWNOQkhxeEpzc3ZSd01qbGxHVXB4M1pQMkxjTVNvbjJjUjZZdi1qYUJSNGYxdTRaMTV6LV81REY4aXJrel9mUy1P?oc=5",
-     "published": "2026-10-30T00:28:00.000Z"
-    },
-    {
      "title": "A reform that gives the House back to itself",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUltTnZPcUV1cVc0SUw1amViUmFyQ0xOZGRqMFE4NXJQWHF5azBtZ3lIVjN0WW1oQnY2Z093Tld4Z2NjVjlJMFBhbXpIbkVzNE9hb2ZRYzJaLUlpdzZlM3RGSVlNTHRFZEMxYmd4NnhRS0xMdzBFcnBXTGI3anVjMHNDOEtucHgyMVNYdWh0X1Z3WTc2ZGluc3JEbzBWeXM?oc=5",
-     "published": "2026-10-30T00:15:33.000Z"
+     "published": "2026-10-30T01:23:04.000Z"
     },
     {
-     "title": "Motorsport: Driven by determination",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekdrWVd6NWU0REthVi14Wi1fNHdfYkN0cEN3ak95MkNKS1kweXlORnhzaVBCWE4zZVRsSnJKRk5kQjRRVHpWVkJGczJRbWNya0k3azJScXlaalFCV3NPWWdYMnBWRFl5SHh3S0xja0w1UmZyRDBHSjJLOVdwSmxxZ0tpM1g?oc=5",
-     "published": "2026-10-30T00:04:38.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XamV3aDRpaTJ2SlBZanRqMFlFV0JRRkh3RWY4VHFUSE5jcG94RTAzTUpJODBYeG5ZNzdvYjZDN1d0TlBtX2ZuaUl2MXVWcFRhRHA4OTNoQVZvYlNMNHc?oc=5",
+     "published": "2026-10-30T01:09:59.000Z"
     },
     {
-     "title": "QuickCheck: Was the mask Halloween's Michael Myers used actually a modified Star Trek prop?",
+     "title": "Ringgit opens higher against US$ for 10th consecutive day",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNzY0a2Y0Y0hKWm5rM2lTU09XRHc0WjN3TmhmZ2ZTMTg4cGxOSm9jYzIyLTlLc05rSkN3dF94c3Z3TUpOMUFNdHA4c0wtR3ZueHpXUHNhcl8tbS1WWnVMNWhHMEFUVEk1ZHR6Tks2WnUxbHNuQ1pYWTljM29qRFFXU19NN0dJLUtIWUhVM3RXMnRsM3VvWHRYQkNFTFJ0b1loTnBBN21IWENMdDNkUW02Z2dkakQtUXZpeVpsck52ZDlkSzJ2T1dMZVZpN2J5bmtubTRpRWE0dTRfcjA5ZlZr?oc=5",
-     "published": "2026-10-30T00:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbGNoVUgwV3RQbUVKQUN6U011N2lzOUFjQTE2bl8zSHBiUEdNWGJYQ3N3bXJUUXVxMGNGb2RsTWZ3Y0FsSnp2bWpyRkhEWl9lQ0w1eE1FMWt0LXcySFhheDZ0a2RtUjZ6YU5RMmk1alRFeFlPeEhBRFlQaExkNWhvUjRxLW1YdGdVRWM3MDBCMGdvRHJZVjNhYUlwTlowUXg1QmRHb3RXakt4eGpRcE5vYm52RTAyZGZB?oc=5",
+     "published": "2026-10-30T01:04:00.000Z"
+    },
+    {
+     "title": "Asia-Pacific Amateur offers Malaysian hopefuls golden pathway to Major dreams",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTjU5TEZzZ1ZkZUUzZURRNllNUkxiNDlFemFaZGlqN1ExLVAwbUY4elRVc1Zhb3NYdVdjX0hYSlliTzJOckl2UjV4TW9LX3dlWmIxRXRSYjFuQURsbFU1bUdEU0RPN1QwdEFFb0xzZmE4amVKZjRHa0JZY1pNZzNUSWtUVEVnQ3kyTGpNQ3ZrSWx0SGxNXzlyQkQydFhOMGU2am9INHhJRXZQUi1EY25zRll1YzFWT2Rlb21ucVJMeEd6OTBjUmRDa0FDb1pOWkc1aU45WDA1UWdja0R1NEVYbGd3?oc=5",
+     "published": "2026-10-30T00:55:06.000Z"
+    },
+    {
+     "title": "Prosecutor seeks death for Yoon",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ09xNWhES2lRQmtpSGR5bFdBNmhseFNmWmNpTVlHM1NOcGdmTTI4NmlXdHRzb3padFB3UXlxSzFzeFJCMmdLb3UxYnBQNmV1d21udUJmaTAyRHRhUXdMelY1Nk8zQ2VwdzVWYk5XaDlIUTFJUTlYMEZfeGpjY3BIVWZiRWlvTGJGdUliXzdRR21WTGNrWndOamh3?oc=5",
+     "published": "2026-10-30T00:33:32.000Z"
     }
    ]
   }
