@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-30T07:56:57.555Z",
+ "updated": "2026-10-30T08:49:39.340Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "‘Bravest person I know’: Father’s pride as school shooting victim leaves hospital after 262 days",
-     "brief": "A 13-year-old girl who was critically wounded in the deadly February school shooting in Tumbler Ridge, Canada, has been released from hospital after 262 days, her father said Thursday.",
-     "link": "https://www.cnn.com/2026/10/30/americas/tumbler-ride-shooting-survivor-canada-hnk",
-     "published": "2026-10-30T07:55:57.786Z"
+     "title": "Packers’ Watson makes improbable ‘Thursday Night Football’ return after mid-game trip to hospital",
+     "brief": "Green Bay Packers wide receiver Christian Watson had himself a night to remember in the team’s 27-19 win over the Carolina Panthers on “Thursday Night Football.”",
+     "link": "https://www.cnn.com/2026/10/30/sport/packers-watson-tnf-hospital-return",
+     "published": "2026-10-30T08:49:39.553Z"
     },
     {
      "title": "World’s largest crypto exchange hit by world’s largest heist",
      "brief": "Hackers stole over $6 billion in cryptocurrency on Thursday, shattering the record for the largest such heist as multiple investigators pointed the finger at North Korea.",
      "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T07:54:57.792Z"
+     "published": "2026-10-30T08:48:39.602Z"
+    },
+    {
+     "title": "The push to impeach Hegseth will gain momentum if Democrats win the House",
+     "brief": "Defense Secretary Pete Hegseth’s political future could be on the line if Democrats win the House majority in next week’s midterm elections.",
+     "link": "https://www.cnn.com/2026/10/30/politics/pete-hegseth-impeachment-democrats",
+     "published": "2026-10-30T08:47:39.604Z"
+    },
+    {
+     "title": "‘We just have to bother the crap out of these people’: How the GOP is confronting its voter enthusiasm deficit",
+     "brief": "For Republicans, the midterm alarm bells are increasingly coming from inside their house.",
+     "link": "https://www.cnn.com/2026/10/30/politics/republican-turnout-voter-enthusiasm-midterms",
+     "published": "2026-10-30T08:46:39.589Z"
+    },
+    {
+     "title": "If Republicans win the midterms, Elon Musk’s money may be why",
+     "brief": "Elon Musk has plowed nearly half a billion dollars into elections in the 2026 cycle, a spending spree that makes him the single, largest disclosed donor in modern American politics and one of the Republican Party’s…",
+     "link": "https://www.cnn.com/2026/10/30/politics/elon-musk-midterm-spending-republicans",
+     "published": "2026-10-30T08:45:39.584Z"
+    },
+    {
+     "title": "‘Bravest person I know’: Father’s pride as school shooting victim leaves hospital after 262 days",
+     "brief": "A 13-year-old girl who was critically wounded in the deadly February school shooting in Tumbler Ridge, Canada, has been released from hospital after 262 days, her father said Thursday.",
+     "link": "https://www.cnn.com/2026/10/30/americas/tumbler-ride-shooting-survivor-canada-hnk",
+     "published": "2026-10-30T08:43:39.595Z"
     },
     {
      "title": "After decades of boycotts, Palestinian citizens of Israel turned out to vote. It could shape what comes next",
      "brief": "For decades, many Palestinian citizens of Israel stayed away from the polls, refusing to legitimize a system they say has oppressed their people, sidelined their concerns, and failed to represent them.",
      "link": "https://www.cnn.com/2026/10/30/middleeast/palestinian-israelis-vote-what-next-intl",
-     "published": "2026-10-30T07:53:57.782Z"
-    },
-    {
-     "title": "The deeper question raised by the anti-Muslim attacks in Michigan’s Senate race",
-     "brief": "The Republican argument against electing Abdul El-Sayed as a senator is becoming perilously close to, Don’t vote for him because he’s a Muslim.",
-     "link": "https://www.cnn.com/2026/10/30/politics/trump-abdul-el-sayed-midterms",
-     "published": "2026-10-30T07:50:57.916Z"
-    },
-    {
-     "title": "Protests and violence now go hand in hand in France. It wasn’t always like this",
-     "brief": "Lucas Petit was just 11 when hundreds of thousands of men and women wearing yellow vests poured onto the streets and occupied roundabouts across France in November 2018.",
-     "link": "https://www.cnn.com/2026/10/30/europe/france-violence-protests-intl",
-     "published": "2026-10-30T07:49:58.061Z"
+     "published": "2026-10-30T08:42:39.627Z"
     },
     {
      "title": "Russia strikes Dnipro train station in central Ukraine, killing 15",
      "brief": "A Russian drone struck the main railway station in the central Ukrainian city of Dnipro as people waited to board a train on Thursday morning, killing 15 people.",
      "link": "https://www.cnn.com/2026/10/29/europe/russia-ukraine-strikes-dnipro-train-station-intl",
      "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
-     "title": "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
-     "brief": "Investigators were combing through debris scattered across a field in northwest Oregon Thursday after two helicopters collided midair, killing three people and forcing the closure of a nearby highway, officials said.",
-     "link": "https://www.cnn.com/2026/10/29/us/oregon-helicopters-crash",
-     "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
-     "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
-     "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
-     "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
-     "published": "2026-10-28T12:00:00.000Z"
     }
    ]
   },
@@ -60,27 +60,21 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Other Sports: Rallying-Dakar Rally 2027 will be held in Portugal and Morocco, organisers say",
+     "title": "End the cycle of addiction",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT1JZcGpaSzlBWno3Wmp2SXQ1SGsxRGRXb3FiNUdXWU9hQzZBMjRRcmpfbDJ5Unl5S0h0OXpDZzdxRFhYTWEydE9oSWtHNldXbm5QWHI0dzJYMTcwdlJwLXNEYWxXTjBUbE85TzRkOWotTDh0ajZVYm5PaHZlNWx1X244QzlnUmtvZEJ5cmhfY0g4cjJPR2tQbks2b0NLcXNWc0I4OEtwVzI3WmhnckYzUnpnUTlJNDVGeGd5dW1zWmoyamd2cFI4?oc=5",
-     "published": "2026-10-30T07:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlpnUmJNSXZ0cTdBRm1vT1cyLUZKLWlQX2dxZHRwOFBfRzhDdkhrV3owRURDaGt6a0dyLVY4dURvWXloVVV1YWc3cVJiaXp3cXZvVHhsaDlIeE8tYWN1VmJSRFdCRkxaSkVVSnBZNGxQQ1FwTWdzZ0xTZXZycVRGeGpkZHgyVkk?oc=5",
+     "published": "2026-10-30T08:37:30.000Z"
     },
     {
-     "title": "Golf: A rousing start",
+     "title": "Greece arrests three over explosion that killed six people in Athens",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOQ2hlU3RpZ2RuNkpZYUFTcjY5dV8xWWJndXFXWjhvaTFNOUJQT2tQWEpyS2M2Y0I2MXkyckIxN21jTk8xQUJ5WXFOc0NXdjZldjZGa0ZUU2F6dG5GMEFFQmhIb3QtbHowMmliazRjTG5VUQ?oc=5",
-     "published": "2026-10-30T07:18:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzlfSEh1U0N6VVhjMW5YbUxkTlVZR3FlQ19mQV9sSWhYM1RFdDc1Uy04eTNKVExhUmttUnNnaHIyWC1udzF4a2NIMGxZdWtQS0J3OURqamhUVGhrSC05eWw3RXE1M2RNZ09HNi1qY2lDVWxjajJKVy1mcllqbVBjUTMwRER4RFpGcjQxY1VtSzZyQXNLYWJRZzI5X2oxUzhoRHItXzZaOFhLLUxQRVo0OGtnaUFfN1RI?oc=5",
+     "published": "2026-10-30T07:55:00.000Z"
     },
     {
-     "title": "Toyota, Waymo to test autonomous bZ4Xs in Japan in 2027, eye overseas expansion",
+     "title": "Capgemini raises 2026 guidance as AI push brings work to IT consultants",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemFKZUdSZWw5Y3BwZkMwVTh4allGLWs3NHBNU1pfUkFJSDdjZDNMbFVORzB3OWI2eTV0SjZQbTBpU080X0RDMTgxS0VHc1dWb3cwcjUtOWwwaEJCUTlVNko3R3g0cE95elRtclhERTNZd2JKeEI3X3J2NkQtU2U3cUhPZzZ1eUNvTTltdnRGMThxcnZfZzJjQUNuRkg3UGNPb1E1MDczWWZuLWlaekZydVIxUFRDSmdkbWJMYXlYaWlrZEtpWFd0T0lR?oc=5",
-     "published": "2026-10-30T07:18:00.000Z"
-    },
-    {
-     "title": "Yangon readies over 600 heat relief shelters amid El Nino concerns",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEh6X3AxcE5EREZmelZTOHNYUXRWazVEaFVVQk5sNkx6bmlwNkl0WmRYR0Rva1BCODhwSkVIMVNmbVdrNVhfUURSWVpmanZQRzB0SVlWTW1YUmZCcXg2OElqcGhRSlFYaEpQMlRja1B5Ni16eVRIYjZxY2g2RmJWTHVuY2RTajFwYkxld0E2N1N1aHlFOVlBU0VCNlF3eVFVVW5NdkVTa3Z4M0NDQVVpaW1MV29TRDh6WHFTZ1VoM1BNSnpCeThQRw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQzFwMDZzWkNwenplejRXUFdXUWZEbnBHSTV3cFlfQ3E1cm1LZEd6Y3BLMkdNSEJpY3N0QWNmMDV6b2swcV9GWHplRVNhWGNWWEJjRzNOaDdkb0RGOVQtLWlqdzd2Q2diNkVpdUlSalMzSktDc3h3a1BlRXU5RUpReVlSWjE2aEhoWFR0c2RfMGFPcXVOaDRqM0dYSEVJaS1Ub0dBZVVtRmJ6SW1FS19ISFJIUFBnQU9BOWNBNWp1VkVjdw?oc=5",
      "published": "2026-10-30T07:18:00.000Z"
     },
     {
@@ -90,22 +84,28 @@
      "published": "2026-10-30T07:16:00.000Z"
     },
     {
-     "title": "End the cycle of addiction",
+     "title": "Badminton: Aaron-Roy King stun Indonesian top seeds to check into Hylo Open quarters",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlpnUmJNSXZ0cTdBRm1vT1cyLUZKLWlQX2dxZHRwOFBfRzhDdkhrV3owRURDaGt6a0dyLVY4dURvWXloVVV1YWc3cVJiaXp3cXZvVHhsaDlIeE8tYWN1VmJSRFdCRkxaSkVVSnBZNGxQQ1FwTWdzZ0xTZXZycVRGeGpkZHgyVkk?oc=5",
-     "published": "2026-10-30T07:07:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY3FQNWRoZDRvS3l3ZDJFZ0pKRkxpV0RkMWFZZ24yY3ZjNC1yZzZ4REtyaVJ1SVFpNVJPRXNqZzdHMDE3Qi1jdFFoVGtXbmV3c29GcFNSemNydGNua1gxcy1ORXA3MmJfVl9saVRyTjdkREhWWVNZRTBRd0dDejVTVktoOHN5WEFROXd2RGQxVF9tajJ4dm13UFJIamVwd1pWOG9qZ3lJUXcxUVIwU0lNLWx1YVNNQkZHTDZWZmlWSGNXeTRibUE?oc=5",
+     "published": "2026-10-30T06:44:00.000Z"
     },
     {
-     "title": "Anwar calls on parents to take greater charge of children’s discipline, activities",
+     "title": "Yemen's Houthis deny launching drone after coalition reports interception in Mecca region",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNk84Z0ViVEJKampMcndHUFItLS1FMHYzTUMtX3V2R1UxQjJaMG1yektxd3d6TjVGMGZkc2laUmxIZGhNT0VmY1czbU9oTWlES1FZR0pCUldrN3VfalBGUUF5QlEwY3RzS3hWRE9VSHQ1N042SkYxTWxxRzNXcWkyaVFZc2lRX3FVZW5ZakR1LVJyRmwyOEl5Sk1kVGd6YllWTzFCZzBNaXV3VFRrVmozaE1VNUxqZjA1aGVnMnpyM0JvZWRiaWF3Q3dB?oc=5",
-     "published": "2026-10-30T07:01:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZldoR0ozaUJsb0V5bk1OWU02Y0o3UTZjREFKclM3bmZPRTlXZkNtT09Ua2E1bjYwdUN6N1VlaVJpWlR3WjRMZm45Vmd0Y0ZoWG5jajVhMmdBaE5jRDU2R05kdEZrYVB1R1hRY0FpV0RBY0pWOG5JZkhJS1RYYUN5Q2lkVDFkOVVuNWgyV200OENJZGhVUlFLV2lUOWdMdGRNWVg2RU56ZFp4aW9lbUdWV1B0WEVHUWYwQW5FaTRwdHo3YkdENVhGUHV4WldqT1RRZTRxNjJqSQ?oc=5",
+     "published": "2026-10-30T06:28:00.000Z"
     },
     {
-     "title": "WhatsApp now lets messages stay pinned forever",
+     "title": "Promoting mental health in schools",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWd2WVRZYVhxTXliay1SQmRrNDdCWEhIMUlCOEZZaE5MeDdVUHB5Yl9qOUpobG15LU1KdktndkwxTHQyVmlVZGFFRFZqMDVFb3hRWXhBTjUwelB6ckQ5aTRQd2VIcU1YZTc2QU1JQ0xnaVNxMVdlVXdzalFzdkVnYnozaHpfTnBYZkRkRWthQUpMMlpxbnlHZVlUbXExYUxZ?oc=5",
-     "published": "2026-10-30T07:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTXFJYWNQcHJHRjhGbk4tRlczRHhOT2kyT2JlalNJSHhTcDlMMHhPSU02VTJKeFhrU0lobFBlb3JIV0NWbmdKYnBBWS1BME9ac1doV0daU1NDdTcxMjN6VmV4eExNWGpMaUF4LUNsVzZGV0VtQTd3ZUQtejlWR2wyb2otLUkweERuM1hsekVnQlh0b3c?oc=5",
+     "published": "2026-10-30T06:27:35.000Z"
+    },
+    {
+     "title": "Asia-Pacific Amateur offers Malaysian hopefuls golden pathway to Major dreams",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTjU5TEZzZ1ZkZUUzZURRNllNUkxiNDlFemFaZGlqN1ExLVAwbUY4elRVc1Zhb3NYdVdjX0hYSlliTzJOckl2UjV4TW9LX3dlWmIxRXRSYjFuQURsbFU1bUdEU0RPN1QwdEFFb0xzZmE4amVKZjRHa0JZY1pNZzNUSWtUVEVnQ3kyTGpNQ3ZrSWx0SGxNXzlyQkQydFhOMGU2am9INHhJRXZQUi1EY25zRll1YzFWT2Rlb21ucVJMeEd6OTBjUmRDa0FDb1pOWkc1aU45WDA1UWdja0R1NEVYbGd3?oc=5",
+     "published": "2026-10-30T04:55:57.000Z"
     }
    ]
   }
