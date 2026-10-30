@@ -1,33 +1,39 @@
 {
- "updated": "2026-10-30T05:41:06.891Z",
+ "updated": "2026-10-30T06:47:33.474Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘Bravest person I know’: Father’s pride as school shooting victim leaves hospital after 262 days",
+     "brief": "A 13-year-old girl who was critically wounded in the deadly February school shooting in Tumbler Ridge, Canada, has been released from hospital after 262 days, her father said Thursday.",
+     "link": "https://www.cnn.com/2026/10/30/americas/tumbler-ride-shooting-survivor-canada-hnk",
+     "published": "2026-10-30T06:47:33.675Z"
+    },
+    {
      "title": "World’s largest crypto exchange hit by world’s largest heist",
      "brief": "Hackers stole over $6 billion in cryptocurrency on Thursday, shattering the record for the largest such heist as multiple investigators pointed the finger at North Korea.",
      "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T05:41:07.070Z"
+     "published": "2026-10-30T06:46:33.716Z"
     },
     {
      "title": "After decades of boycotts, Palestinian citizens of Israel turned out to vote. It could shape what comes next",
      "brief": "For decades, many Palestinian citizens of Israel stayed away from the polls, refusing to legitimize a system they say has oppressed their people, sidelined their concerns, and failed to represent them.",
      "link": "https://www.cnn.com/2026/10/30/middleeast/palestinian-israelis-vote-what-next-intl",
-     "published": "2026-10-30T05:40:07.075Z"
+     "published": "2026-10-30T06:45:33.732Z"
     },
     {
      "title": "The deeper question raised by the anti-Muslim attacks in Michigan’s Senate race",
      "brief": "The Republican argument against electing Abdul El-Sayed as a senator is becoming perilously close to, Don’t vote for him because he’s a Muslim.",
      "link": "https://www.cnn.com/2026/10/30/politics/trump-abdul-el-sayed-midterms",
-     "published": "2026-10-30T05:37:07.090Z"
+     "published": "2026-10-30T06:42:33.710Z"
     },
     {
      "title": "Protests and violence now go hand in hand in France. It wasn’t always like this",
      "brief": "Lucas Petit was just 11 when hundreds of thousands of men and women wearing yellow vests poured onto the streets and occupied roundabouts across France in November 2018.",
      "link": "https://www.cnn.com/2026/10/30/europe/france-violence-protests-intl",
-     "published": "2026-10-30T05:36:07.082Z"
+     "published": "2026-10-30T06:41:33.722Z"
     },
     {
      "title": "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
@@ -39,12 +45,6 @@
      "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
      "brief": "Patrick Stewart, the gentlemanly British actor best known for his role as Captain Jean-Luc Picard in “Star Trek” and later as the erudite mutant mentor Professor X in “X-Men,” has died at the age of 86, according to…",
      "link": "https://www.cnn.com/2026/10/29/entertainment/patrick-stewart-death",
-     "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
-     "title": "Mushroom killer to be jailed for life after appeals court finds sentence too light",
-     "brief": "An attempt by murderer Erin Patterson, who killed three people with a meal of toxic mushrooms, to overturn her conviction has failed, with an appeals court finding that her original sentence was too light for her…",
-     "link": "https://www.cnn.com/2026/10/29/australia/australia-mushroom-patterson-appeal-ruling-intl-hnk",
      "published": "2026-10-29T12:00:00.000Z"
     },
     {
@@ -60,16 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Singapore Airlines extends Dubai flight cancellations to February 2027",
+     "title": "Opposition MPs to receive allocations once Budget 2027 is passed, says PM",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUtid2JzZy1IbjRhWFlLTVBkMjZIZ0wzRktWSkVhMnJrOGdIRmVhZkJwa2hjMjVTTDEtNW9oeHdMS3A5QW9xX0k0RlZWZnJ1OWs3c2w0MVFZTjVGV1p1cU82QWRnaDJESXI3WU0yUlJnVDNmX0Z3V1VFSzMxSkVwUE1Id01saWpmcnhRUkY0bjVPVU16SmJ1YUNSYjVRVTBYX0NPSW9iRzh0RFdCb2xHQzV3VnVTajRmaGdYUDYxdmJIWkJzVTE4VjVRZ2ZWZw?oc=5",
-     "published": "2026-10-30T05:13:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVExNV1VSTWJrSHFrUEJBQTJMUHZwR29TZnEyaEp4MXVSQ2pTS0h1amtDeEFWeXkzX1NiUk9Xdm43THFzU1pNZ1poZ2U1c3NjbnNHUk1PMWFaVC1kalR6Y0pyR0VWMllBRGRUcjRxa2ZlNjBZTS02NUh4SHVjR2ZxYzViOENhTl9QT0xmV0V1ajBZU0FGTVBxRXV0NkJYOEljZjZncWZrQnR2STNzdXhpTG90UGwzWUhoVFM3MVVORQ?oc=5",
+     "published": "2026-10-30T06:33:00.000Z"
     },
     {
-     "title": "Fire pollution killed 3,560 people in Indonesia in September: report",
+     "title": "Asia-Pacific Amateur offers Malaysian hopefuls golden pathway to Major dreams",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeE8zcEtORzFRVzlpN2F6OTVMUTJwUGlSZTItZTQ0MUZHY2pKMW1mV0p0Y1gtU2VZRU5wZlVDUHBYclh2YW9uZG92NmFpbllIX2VqX3hGeXZoWTgzbmhkNUFaYVBHckw2QUUyVlVodHpCYTZ5UjQ0MjEwNHB1NUdwTWlNUTQ5ZGRfcFo1YUpIcjdtbVFUY2gzZnJaaWtac0QzdlFfWHkzNWFZaUlNbDAzVjg2RzdxaUlmdkZrcm1GSHdWRW9ZX1lRSg?oc=5",
-     "published": "2026-10-30T05:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTjU5TEZzZ1ZkZUUzZURRNllNUkxiNDlFemFaZGlqN1ExLVAwbUY4elRVc1Zhb3NYdVdjX0hYSlliTzJOckl2UjV4TW9LX3dlWmIxRXRSYjFuQURsbFU1bUdEU0RPN1QwdEFFb0xzZmE4amVKZjRHa0JZY1pNZzNUSWtUVEVnQ3kyTGpNQ3ZrSWx0SGxNXzlyQkQydFhOMGU2am9INHhJRXZQUi1EY25zRll1YzFWT2Rlb21ucVJMeEd6OTBjUmRDa0FDb1pOWkc1aU45WDA1UWdja0R1NEVYbGd3?oc=5",
+     "published": "2026-10-30T04:55:57.000Z"
+    },
+    {
+     "title": "TENCENT-C53 (054653), TENCENT-C53: CW TENCENT HOLDINGS LIMITED (KIBB) - Market Watch",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYmxaSVh6QThvdVh2MmlULTR1UnlRSk0tbjJFemcwSHhQYW1qb05lWTNTTk1Od2puRVVVVmIyMjhqNTdsY0p2T2UtaXZQbmQwRWpCS0JyLXlNbjdVT29FRjN2R1JiQThnenZacnV2U2tKdkVHa2psR2V3eC01WDdwMQ?oc=5",
+     "published": "2026-10-30T04:54:39.000Z"
     },
     {
      "title": "Cricket-Injured India seamer Krishna out of ODI series in NZ",
@@ -84,28 +90,22 @@
      "published": "2026-10-30T04:33:00.000Z"
     },
     {
+     "title": "Football: Soccer-CAF reverses decision, keeps AFCON biennial",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMURpT0VCWWhmTjdsTktxR1NvcWlMNkJMaVN2a2N2REhzYWlmUzlZOGR0czJTZm5OZjk2SkNMSFE2ang4Y2ZGSzdpT2pBTWRoU3lHZDNVV3JxaVNuVUxnaXpsSTMtNEV0ZDFKbTFDclpGaTVKYmdZQ09qY0o1NWxHNEZoYkVPQno3TFJpeVdXYTF3ZkYyMVBwVUkzSHhJOWd5cXJPeA?oc=5",
+     "published": "2026-10-30T04:23:00.000Z"
+    },
+    {
      "title": "Cricket-McCullum backs Brook's captaincy after England's tri-series flop",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcUoydTNFUDZFY3JxYmh3SnBXdHVJandISXlsLXRxdWhwLUp4MW5HTlg0SVRYWmtNYmNDWnZlRGliNkFrSkpNbEZsVXBVWnZ0S2RxWVpFOWMxVDMtdVl0RUhnZ29XLTNhSHN6bWJ6VEYzZ21SWWJjaWZmUnYzWmloRk8xaU5TR25nUjhCZWtzNHdSUmhvSE1xbmg0Qm9JejRSX25rR0RnVGs3RkVZXzhhUThiaW1oZS1ZZEl4Y3NuQkJVcmNJMHBj?oc=5",
      "published": "2026-10-30T04:21:00.000Z"
     },
     {
-     "title": "Former Big Bang member Seungri says he is married, expecting first child",
+     "title": "BURSA-C1X (18181X), BURSA-C1X: CW BURSA MALAYSIA BERHAD (AM) - Market Watch",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUlINjhSSTFQbWVTOVAtT2hPbEtmSlRPNF9mdVpjUmN5ajQteXFSNVBnd1pVT1lYTmNpbjAtaXVWY3NrQzNDamZodUJSME4tTnEyZXNkRUM2Q29oLUh4Q0dOaUtsYzVHdnZVMWhuNFgyazZtRmw0WWpGNHJ5cndlYzkzajV1Q2dkLThXWHNkcTJHSDN4S2ZBZEpJYWhNR01nbF9JZW9VQXVxU2pvcU0za2FsZkhnUWVqVnRjQThqSHdvQTU3bXpPN21MaFFkQQ?oc=5",
-     "published": "2026-10-30T04:06:00.000Z"
-    },
-    {
-     "title": "South Korea to respond firmly to North Korean breaches of border, security aide says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0U3ZVFfTzZfeWFqMU1xeFBVYXdHNUV3Nkpub3hwQzNOT3hrbENjUFNLTm4wUDI2MVppeGZsRmhDWEhudTRIbVhZY2Y2bHc2UHdoZS1DNFk3UTJiR0R3NExTLXVtU2R5RkhqdTl4UklBMnB0eEZUOGtQZzd5Vy12S01BQlN2dS1uWTk0SVhOOXNxYWhCc0NTNWpIQ2ZiZWlHa2ZzYXdLLTY1T20tUzJxWm9BSmVpV1lDR05ZOXJwc255blhPaHBnVjQzOWc?oc=5",
-     "published": "2026-10-30T03:57:00.000Z"
-    },
-    {
-     "title": "PJ Police hunt foreigner after woman allegedly splashed with acid post-breakup",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEpPMDZGSFFrTTdXbWtmSXI4eUdUb1pFLXgwbVk0V09qZnZHTjVwTmFVWVB4RC02emM3LW1wUTdsUnptWnNjTVZXajc5bDVjaDRHaU9IOWtieV9HU05CWnQ0NWVOd3RJNXJDc2MzZmZaWThDS25FcWpWWlBBWUFDc3NCNkRTUXhjTTc4d2hwVTdhQjR0LXlQUi1maEs2S0kxX3N3Q0NJMVZXRXg2cDladTBDVlJpSFJ2UmEyWklRMFRsTmRtMERN?oc=5",
-     "published": "2026-10-30T03:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUHRodGdlX01wSElmcXUtYUhRem9LZHdqMnJMR3ltUG00ZktxbmxfQkdBbjh0MElQQWJCQWc1b0RHSS1KRXI3WGd3OEo1amNLUzhKai1saGxTc3RySi14SExIT0VNNlVOTDBMSjdJVlBnMzF6cy1kR3RjQ04zUQ?oc=5",
+     "published": "2026-10-30T04:08:15.000Z"
     }
    ]
   }
