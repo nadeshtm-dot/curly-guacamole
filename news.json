@@ -1,57 +1,45 @@
 {
- "updated": "2026-10-30T11:34:34.121Z",
+ "updated": "2026-10-30T12:46:24.282Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Police probe Jeffrey Epstein’s time spent at Balmoral with Andrew Mountbatten-Windsor",
+     "brief": "Scottish police are investigating the time convicted sex offender Jeffrey Epstein spent with Andrew Mountbatten-Windsor at Balmoral, a private royal estate in Scotland which is a favored retreat for the monarchy.",
+     "link": "https://www.cnn.com/2026/10/30/europe/police-balmoral-epstein-andrew-mountbatten-windsor-intl",
+     "published": "2026-10-30T12:45:24.531Z"
+    },
+    {
+     "title": "Wall Street sell-off continues as investors question returns on massive AI spending",
+     "brief": "Wall Street braced for another steep day of losses Friday, with futures falling after the latest earnings from Big Tech reignited concerns that the massive spending on AI may not deliver the returns that investors…",
+     "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
+     "published": "2026-10-30T12:44:24.535Z"
+    },
+    {
+     "title": "Evacuations begin in occupied Ukrainian town as Melania Trump-brokered ceasefire holds",
+     "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies are set to be evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
+     "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
+     "published": "2026-10-30T12:43:24.591Z"
+    },
+    {
+     "title": "Big Oil is raking in huge profits. Shareholders like Trump are cashing in. You’re paying for it with high gas prices.",
+     "brief": "Big Oil minted big money as the Iran war delivered American drivers the highest gas prices on record for the third quarter.",
+     "link": "https://www.cnn.com/2026/10/30/business/big-oil-profits-trump-gas-prices",
+     "published": "2026-10-30T12:42:24.600Z"
+    },
+    {
      "title": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
      "brief": "Binance, the world’s largest cryptocurrency exchange, suspended withdrawals after hackers broke into its digital wallets and stole $6 billion in what appears to be the biggest crypto heist ever.",
      "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T11:33:34.347Z"
-    },
-    {
-     "title": "Pete Hegseth’s political future could be on the line if Democrats win the House",
-     "brief": "Defense Secretary Pete Hegseth’s political future could be on the line if Democrats win the House majority in next week’s midterm elections.",
-     "link": "https://www.cnn.com/2026/10/30/politics/pete-hegseth-impeachment-democrats",
-     "published": "2026-10-30T11:31:34.345Z"
-    },
-    {
-     "title": "Protests and violence now go hand in hand in France. It wasn’t always like this",
-     "brief": "Lucas Petit was just 11 when hundreds of thousands of men and women wearing yellow vests poured onto the streets and occupied roundabouts across France in November 2018.",
-     "link": "https://www.cnn.com/2026/10/30/europe/france-violence-protests-intl",
-     "published": "2026-10-30T11:29:34.453Z"
-    },
-    {
-     "title": "‘This can’t keep happening’: How divorced military spouses get trapped in foreign countries",
-     "brief": "Christina Fuller is an American former military spouse living without legal residency in southern Spain, where a custody fight has kept her and her son for years.",
-     "link": "https://www.cnn.com/2026/10/30/politics/divorced-military-spouses-stuck-in-foreign-courts",
-     "published": "2026-10-30T11:28:34.351Z"
+     "published": "2026-10-30T12:39:24.596Z"
     },
     {
      "title": "Patrick Stewart, ‘Star Trek’ and ‘X-Men’ actor, dead at 86",
      "brief": "Patrick Stewart, the gentlemanly British actor best known for his role as Captain Jean-Luc Picard in “Star Trek” and later as the erudite mutant mentor Professor X in “X-Men,” has died at the age of 86, according to…",
      "link": "https://www.cnn.com/2026/10/29/entertainment/patrick-stewart-death",
      "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
-     "title": "Israel’s election ended in deadlock. Here are four ways out",
-     "brief": "Israel faces weeks, possibly months, of political limbo after final results show there’s no clear winner in its elections .",
-     "link": "https://www.cnn.com/2026/10/29/middleeast/israel-election-results-deadlock-vis-intl",
-     "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
-     "title": "Truck stolen by Tennessee prison escapee sat in Illinois for more than a day before it was found, police say",
-     "brief": "A truck that a convicted murderer stole after escaping from a Tennessee prison this week appears to have sat in southern Illinois for more than a day before police found it, authorities said, as a multistate search…",
-     "link": "https://www.cnn.com/2026/10/28/us/tennessee-prison-escape",
-     "published": "2026-10-28T12:00:00.000Z"
-    },
-    {
-     "title": "What caused the deadly train crash in Spain? What we know so far",
-     "brief": "Individuals from as many as 27 different countries may have died in this week’s high-speed train collision in Spain, the country’s prime minister said Friday, as the process to identify victims continued.",
-     "link": "https://www.cnn.com/2026/10/28/europe/spain-train-crash-cause-what-we-know-intl",
-     "published": "2026-10-28T12:00:00.000Z"
     }
    ]
   },
@@ -60,58 +48,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Cricket-South Africa lead over Australia passes 100",
+     "title": "Hockey: Azrai scores twice as Malaysia trounce Bangladesh in Asian Champions Trophy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNb05xY1VBclNEVFdnNnJjNHNQMi1scURmTElKU3BwZjg3Zkp1ZVQ2MmR1c2p4dm92dkc1S004X2NwalppS3BrdTBiQVVKNGlNWlY2dndINzR3aV9YcDAzeTk1T05MM1hKSmdFUFVLaG5OZk96WDM5eHZpSS1IRVY3OWpseDVfdXRVX01tNkVVN0hCdUl4UlAzaVRYaTZ3THY2dkRDenln?oc=5",
-     "published": "2026-10-30T11:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWXZIZXhpZGNvODd1NzN0RENJcVBRTDNXRmhZeFNPRDluTmRrUy1WVkRtVUFfYXMyUXYwS3J2N3J1b2pNM2UzYmxBVDB3ZmN0M29ZYXJfTHdVeVNtTnNKY3o2dnFKZjdsWThZclFWcTdEZ0pUWkhsR2F2ek41VWF3OHloV21kTzE2aG9PZ1RyaHdSd0lqUWlid2sxcGpoZUl0Vk0yS2QwUC1wZEdzZGp5NXJMVWhIcnhVbVRTSXdjV1FjcnRu?oc=5",
+     "published": "2026-10-30T12:27:00.000Z"
     },
     {
-     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
+     "title": "Trump on Iran war: It's going to get wrapped up soon",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
-     "published": "2026-10-30T10:17:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRVVPYmRvSUZOOGUwbndPbEtqclA1NDhzQUlCRm1MbzVNNGc3bWR3TkhxWF8yWm9XNF81eElQSmhzYzJWbmVLNUM4dTdYazdXemJTWFZlY09zaUg4cEpiNHRHVGtORkhkMXJzT3JFalRwVVhxR2t2el9kN0RPMmhpTDlSTzRhWVIzU2p0cGRRTWpuMEhLYVl2NVBRMkVoLTBXdl81Zg?oc=5",
+     "published": "2026-10-30T12:03:00.000Z"
     },
     {
-     "title": "End the cycle of addiction",
+     "title": "FBI and US Secret Service working with Binance after $6.3 billion hack, source says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTlpnUmJNSXZ0cTdBRm1vT1cyLUZKLWlQX2dxZHRwOFBfRzhDdkhrV3owRURDaGt6a0dyLVY4dURvWXloVVV1YWc3cVJiaXp3cXZvVHhsaDlIeE8tYWN1VmJSRFdCRkxaSkVVSnBZNGxQQ1FwTWdzZ0xTZXZycVRGeGpkZHgyVkk?oc=5",
-     "published": "2026-10-30T10:07:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOZUZ2NFJYbGZWb0Jfd05UZnpmNGFNNTlfVk5IUU1VbGliX1daSG51WEtHR3p0eWc3ajNuWTRuRWx1enN4OWVBNHFCa05UZWE5Q08tdXZuZDVsbUY4TlFFVGtLQm9tN3kteGtVYTVqT1VuUjZvQ2V6VGx0aGpXd1ZKeGpsZkZXQV83SkdLdTA2TFl0dlg5U2VLTHRTY0dCbzI1UUxtUHE5Yk5vb1VISkJUU3hGbFFzR2tNZmpSeEJnMTR4MHVjaENDdGdzaXI5dw?oc=5",
+     "published": "2026-10-30T11:55:00.000Z"
     },
     {
-     "title": "Soccer-No big Bayern changes ahead of Klassiker despite coach Kompany absence, Danks says",
+     "title": "Badminton: Aaron-Roy King justify Herry's decision to make them a permanent pair",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmRocS14VVpkRktEbXBsc0xPVWFQajVXY1Z5OXZGX1ZldkRuNkl0X3pPTmdQZEZtUExqcENjR1poay00eFN4czNfb1NrdlNkcEFlZW9yd0VrNDBVZVhDLTFGSjJQdXl1Y3U4UEdTZml1OWpBUTI0T3R4QXhieEpQUDRFV3pKSlZRNVAyYWJjMk94OVItc1BEVENEcWRZMy1ncWZYQ1BQLTVERlNpZFlabFkyYXBHOUJmQ2lDR1JsYzI4elhnbUhLTW1tZmtOZzltS2Jic0p1N0I?oc=5",
-     "published": "2026-10-30T09:52:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd1RRcmtTRzR6U0ZqLWtpdUFRbHF0U2JFMi1QS2V5LUNUMFZ2b1BNaGZodXB4UjdvSE9qVnRZaTF0eTlQdDU0VThBNGo5Q2x4a1dGbDdsQWdkWU4yV1pDUTVSLURndjVTcGROelZ1S05pYU9pZzZiTk4wZjUxbUZENVFuWGFSczdsa1k4V1F5R1dZbUsyckZCbUoxUi1neGVyb0VlbS1vazBKSjQ1QWcyN3hXcklXVEVjcVhTdTJnNEtYTGM?oc=5",
+     "published": "2026-10-30T11:52:00.000Z"
     },
     {
-     "title": "Cycling: Motorcycling-Martin cuts Sepang practice short to aid recovery from wrist fracture",
+     "title": "Golf: Liyana draws strength from family to charge ahead",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVQ2ZUhSVXFSdXg0MU1zUk9BTVlITjlxR200dFFhUTYxc2Nkbk04aGMxaDYwdjU4RVRlSUVoTWE5alZFbmNLMW9peXlrc3ltOE5zZ2c0WXRrYmFiRk5VY3JRMHdrN2VIM0wtT1pNYTJ5SDQ2dndSeXBSTmpCOUZqM0xIUjVVelczQ3dGQjdlYjJPWlAxTUllRnFpNjUwUTA3bmIyNUxZY3dBbk5ndGhOSlNoMEhMOEVMblg4Zk9reVM0ZDFvR09XWUtINERhbms?oc=5",
-     "published": "2026-10-30T09:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVl0UW9MQjhTTkJ5QVdVMzBfQmd2Y2tOTWdnVDc0YmVtdjY5SmNpU3NablA2bVlFWWtwV04zS2p1R2daRGQyZ0d1cElQcU91blVOdlhFWHVjbE12WFNvZlRIeUlPT2JBb2R5dGhBWU0wZG9HcW1vUGZPUjhmdlJvUzdCYUw3SENTbWpDXzE1S1ZmY3RIVExteEVRYks0T1E?oc=5",
+     "published": "2026-10-30T11:48:45.000Z"
     },
     {
-     "title": "Malaysian travellers charmed by Slovenia's car-free zone",
+     "title": "Reddit, Pinterest shares tumble on weak user and revenue growth",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUI3aTREWlR3RlFjNi1MTU5aWmcxSS1wVUExcTlXUXdlSXBDaUl0cV9WX0JBb2huQWV5QjZzUzk5T3F2LVVHNWZVWkN4NjJkZ1Z3Q0pJWnpjRWFOa1hYMy02Nk04QTRjN0c2d1hsdHRIMTNNUEpjRm9rZk51UzZaa2oxVm9TVGVqQ1RCZUZRU3hkcEZLZF9BU3Zzd0h4d0Y2a0ZHcWtVX1QwR1ZCWVJKLVVwUQ?oc=5",
-     "published": "2026-10-30T09:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjY2YmdqTVFpWll1RlZXbnR5SUdwZThPQWVmYkw4OXZqSXF1NEpOcnZDX3I2TFRCcU9tMTVCallYelZkOWx1WkY1WDQtVU9SbGIzX0JvTEdVakVTQkFLYmhnNS1yQTlDemJQOUREdUl5UWZVaFdvLUlfZUlpZ0d2Q0xmMHRHZHZhalVBQ0VqNjc3SzJnS2lUemhjeUl0dlBNa3p5bzA1QkVtX280al8wRmlTZUQ4UQ?oc=5",
+     "published": "2026-10-30T11:47:00.000Z"
     },
     {
-     "title": "Nigerian families and survivors seek justice over miners' deaths",
+     "title": "Football: Substitute Luan stars for Brunei in win against Negri",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFhJTW92V3pMQzQyMUdVVGhRVEtJUVM2OGozekVoX0dpVE9DRDRNT2dSVmZFSTFPajFiMVlUQnRfNVdQTlpHMFlwTW1rZWoydzZZVUZSakZ0UHZXRXdBVVJyTFZDaTF1M05OM1dCSDUxUW5fa0JpWWtJNlRRRHhWU09wMGxQVE1HXzJhVDBSa0M3bHVfYWRadl84cmpWRVJOSGplYTF0QWxBdERWc3c1bUhQb1ZYQQ?oc=5",
-     "published": "2026-10-30T09:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaWtCYzVTZnRURVF5ZmNNeUY5Mm9XTzhoMmxLcE52S1d6cElvX1hLeDY4bGlxRWVpVi16Z2RnVGY5eV92ZUJobnR6eFl2Nmh4TnN1SHdOTmZXMUNmd2plQ18zTkFoZnNHV3pfcmpQVmhwbHFVYUZoQlhKeUptTnNzQ0NXTjNpU1M2V1RPd0M2RkVTRklJU2g4ZGVZNWZ0TXhteW9Ibi1qci1OUQ?oc=5",
+     "published": "2026-10-30T11:45:00.000Z"
     },
     {
-     "title": "Motorsport: Driven by determination",
+     "title": "Six feared dead in helicopter crash in Indian Himalayan state, media report",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOekdrWVd6NWU0REthVi14Wi1fNHdfYkN0cEN3ak95MkNKS1kweXlORnhzaVBCWE4zZVRsSnJKRk5kQjRRVHpWVkJGczJRbWNya0k3azJScXlaalFCV3NPWWdYMnBWRFl5SHh3S0xja0w1UmZyRDBHSjJLOVdwSmxxZ0tpM1g?oc=5",
-     "published": "2026-10-30T08:53:26.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR0lZUTRNM0NjUFFUNGxpVGx6aERCdHQxc1lsd3VQZjVWNEs4QVR5NERvSTNSR0JsdUJZTzhhdThhdmNXRlA0RllBbUlsUjZoV2FjS1U2dkxpWWZpR2JPOXE1MjR4RUJsbVVacW9IMGhGXzBESnhIRmtyUXhxY21Qay1feExwaU1RdVNtaEJFZERxUjZ3WnpmT1NIVkRzSENjTWw2M3RJWjljUkR2MlZ2X3E4TXk4dUtKSjZQYnppWjU?oc=5",
+     "published": "2026-10-30T11:28:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 6 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
