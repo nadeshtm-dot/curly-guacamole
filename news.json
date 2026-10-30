@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T04:43:08.455Z",
+ "updated": "2026-10-30T05:41:06.891Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,19 +9,25 @@
      "title": "World’s largest crypto exchange hit by world’s largest heist",
      "brief": "Hackers stole over $6 billion in cryptocurrency on Thursday, shattering the record for the largest such heist as multiple investigators pointed the finger at North Korea.",
      "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T04:42:08.734Z"
+     "published": "2026-10-30T05:41:07.070Z"
+    },
+    {
+     "title": "After decades of boycotts, Palestinian citizens of Israel turned out to vote. It could shape what comes next",
+     "brief": "For decades, many Palestinian citizens of Israel stayed away from the polls, refusing to legitimize a system they say has oppressed their people, sidelined their concerns, and failed to represent them.",
+     "link": "https://www.cnn.com/2026/10/30/middleeast/palestinian-israelis-vote-what-next-intl",
+     "published": "2026-10-30T05:40:07.075Z"
     },
     {
      "title": "The deeper question raised by the anti-Muslim attacks in Michigan’s Senate race",
      "brief": "The Republican argument against electing Abdul El-Sayed as a senator is becoming perilously close to, Don’t vote for him because he’s a Muslim.",
      "link": "https://www.cnn.com/2026/10/30/politics/trump-abdul-el-sayed-midterms",
-     "published": "2026-10-30T04:40:08.673Z"
+     "published": "2026-10-30T05:37:07.090Z"
     },
     {
      "title": "Protests and violence now go hand in hand in France. It wasn’t always like this",
      "brief": "Lucas Petit was just 11 when hundreds of thousands of men and women wearing yellow vests poured onto the streets and occupied roundabouts across France in November 2018.",
      "link": "https://www.cnn.com/2026/10/30/europe/france-violence-protests-intl",
-     "published": "2026-10-30T04:39:08.684Z"
+     "published": "2026-10-30T05:36:07.082Z"
     },
     {
      "title": "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
@@ -42,12 +48,6 @@
      "published": "2026-10-29T12:00:00.000Z"
     },
     {
-     "title": "Bukele adds a wildcard to Haiti’s fractured security landscape",
-     "brief": "What could go wrong? For over a week, El Salvador has been quietly sending troops to Haiti, a project whose scale was only revealed publicly last night: More than 2,000 Salvadoran soldiers will be sent to the…",
-     "link": "https://www.cnn.com/2026/10/29/americas/haiti-bukele-salvador-soldiers-intl-latam",
-     "published": "2026-10-29T12:00:00.000Z"
-    },
-    {
      "title": "Election Day storm could impact voter turnout in key midterm races in the central US",
      "brief": "A soggy storm will track through the central United States on Election Day and could influence voter turnout for key races in the region .",
      "link": "https://www.cnn.com/2026/10/28/weather/election-day-storm-voter-turnout-climate",
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Singapore Airlines extends Dubai flight cancellations to February 2027",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSUtid2JzZy1IbjRhWFlLTVBkMjZIZ0wzRktWSkVhMnJrOGdIRmVhZkJwa2hjMjVTTDEtNW9oeHdMS3A5QW9xX0k0RlZWZnJ1OWs3c2w0MVFZTjVGV1p1cU82QWRnaDJESXI3WU0yUlJnVDNmX0Z3V1VFSzMxSkVwUE1Id01saWpmcnhRUkY0bjVPVU16SmJ1YUNSYjVRVTBYX0NPSW9iRzh0RFdCb2xHQzV3VnVTajRmaGdYUDYxdmJIWkJzVTE4VjVRZ2ZWZw?oc=5",
+     "published": "2026-10-30T05:13:00.000Z"
+    },
+    {
+     "title": "Fire pollution killed 3,560 people in Indonesia in September: report",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeE8zcEtORzFRVzlpN2F6OTVMUTJwUGlSZTItZTQ0MUZHY2pKMW1mV0p0Y1gtU2VZRU5wZlVDUHBYclh2YW9uZG92NmFpbllIX2VqX3hGeXZoWTgzbmhkNUFaYVBHckw2QUUyVlVodHpCYTZ5UjQ0MjEwNHB1NUdwTWlNUTQ5ZGRfcFo1YUpIcjdtbVFUY2gzZnJaaWtac0QzdlFfWHkzNWFZaUlNbDAzVjg2RzdxaUlmdkZrcm1GSHdWRW9ZX1lRSg?oc=5",
+     "published": "2026-10-30T05:09:00.000Z"
+    },
+    {
+     "title": "Cricket-Injured India seamer Krishna out of ODI series in NZ",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZXdRVUxQVW56RVVqTERnODg5QlRNYUE2LTZKY01MVXRHZmliOHVTUF9rdkQzSUMzQjBUTDhYSHYxdjNzMTB0ZG90cmZkbF94YjNzY3NJVXZ5NTFrTmFyLW4xSkk0anAxTERIa0taRU1tTDd6Ulh4S1MzZHR5aDZlTTd3Rko2SVpvd21iOGJSUUJtSlRoeXNWM1F3QV8tNDR6VUUxYTV1dDdFNVBuZW9ZeC1R?oc=5",
+     "published": "2026-10-30T04:49:00.000Z"
+    },
     {
      "title": "Blockchain analysis firm TRM says North Korea behind Binance crypto theft",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEpPMDZGSFFrTTdXbWtmSXI4eUdUb1pFLXgwbVk0V09qZnZHTjVwTmFVWVB4RC02emM3LW1wUTdsUnptWnNjTVZXajc5bDVjaDRHaU9IOWtieV9HU05CWnQ0NWVOd3RJNXJDc2MzZmZaWThDS25FcWpWWlBBWUFDc3NCNkRTUXhjTTc4d2hwVTdhQjR0LXlQUi1maEs2S0kxX3N3Q0NJMVZXRXg2cDladTBDVlJpSFJ2UmEyWklRMFRsTmRtMERN?oc=5",
      "published": "2026-10-30T03:19:00.000Z"
-    },
-    {
-     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
-     "published": "2026-10-30T02:59:05.000Z"
-    },
-    {
-     "title": "The power of sensory play in child development",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMkF1Zk9RN0xfbklmVlYySS1zOUZJU2RxZjc0TUVZN3phbHBJRkpfRUxCc0t4N1AyWFlNck9YNWJnZ3VJSktRZTNZaDFrMkNDNkFZZ25MNXVHVG4zTUZVdEw2d25iTnNnRVNOYjRCOE9vVFZUVm5QNUh3MXQ4bm5zT09NYXBZTWw1MUljMzZTQzR1VnZoNDN5RkhhVVVjclo5WThLejJWdjBob0wyYjBJc0NZT1NNRl9WOWxj?oc=5",
-     "published": "2026-10-30T02:00:00.000Z"
-    },
-    {
-     "title": "(Video) Goodbye haze, but what’s next?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU0xHanlvVzFEOHhlTFE4OEZXSWhoV3RGeWg2R2IzSGltLVdZMXRnTzZhVER5aGZWbmxCdWkzWlc3ZXc1d1U4OW11YWxlbGtaSzZGT2FHOGMxcjk4enp5ODc2OWoyd1dIX19iRDBQWndRSk5fWU00VTRzTHU1dVgwTnlaZzVCZVVCSlA4?oc=5",
-     "published": "2026-10-30T01:30:00.000Z"
     }
    ]
   }
