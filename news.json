@@ -1,51 +1,45 @@
 {
- "updated": "2026-10-30T16:42:55.334Z",
+ "updated": "2026-10-30T17:38:19.609Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "What is happening in Oleshky, the occupied Ukrainian town at the center of a Melania Trump ceasefire?",
-     "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies are being evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
-     "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
-     "published": "2026-10-30T16:42:55.617Z"
+     "title": "‘This can’t keep happening’: How divorced military spouses get trapped in foreign countries",
+     "brief": "Christina Fuller is an American former military spouse living without legal residency in southern Spain, where a custody fight has kept her and her son for years.",
+     "link": "https://www.cnn.com/2026/10/30/us/divorced-military-spouses-stuck-in-foreign-courts",
+     "published": "2026-10-30T17:38:19.841Z"
     },
     {
-     "title": "Egyptian highway billboard hacked to show porn",
-     "brief": "A billboard stretching across one of Egypt’s biggest highways was hacked on Thursday to broadcast pornographic footage, according to the government and local media.",
-     "link": "https://www.cnn.com/2026/10/30/middleeast/egyptian-highway-billboard-hacked-porn-intl-scli",
-     "published": "2026-10-30T16:40:55.619Z"
+     "title": "What drove Trump to revive red-state rallies less than 24 hours after canceling them",
+     "brief": "Flying on Thursday to South Carolina to headline his 25th midterm rally this month, President Donald Trump and his political team made a decision, according to one of his advisers: Instead of holding an in-person…",
+     "link": "https://www.cnn.com/2026/10/30/politics/trump-rally-cancellation-midterms",
+     "published": "2026-10-30T17:37:19.807Z"
     },
     {
-     "title": "World’s largest crypto exchange hit by suspected North Korean hack in world’s largest heist",
-     "brief": "Binance, the world’s largest cryptocurrency exchange, has suspended withdrawals after hackers broke into its digital wallets and stole $6 billion in what appears to be the biggest crypto heist ever.",
-     "link": "https://www.cnn.com/2026/10/30/tech/binance-crypto-heist-hnk-intl",
-     "published": "2026-10-30T16:39:55.614Z"
+     "title": "Pope Leo makes history by voting in US midterms",
+     "brief": "Pope Leo XIV has submitted a mail-in ballot for the US midterms, becoming the first pope to vote in a US election and likely the first to vote in a secular democratic election.",
+     "link": "https://www.cnn.com/2026/10/30/europe/pope-leo-voting-us-midterms-intl",
+     "published": "2026-10-30T17:35:19.845Z"
     },
     {
-     "title": "An ICE officer has been charged after striking a man with a car in Houston",
-     "brief": "A U.S. Immigration and Customs Enforcement officer accused of intentionally ramming his car into a Mexican construction worker in Houston was charged Friday with aggravated assault with a deadly weapon, prosecutors said.",
-     "link": "https://www.cnn.com/2026/10/30/us/ice-officer-charged-houston",
-     "published": "2026-10-30T16:38:55.604Z"
-    },
-    {
-     "title": "Canada’s economic break with the US in 5 charts",
-     "brief": "For decades, the United States and Canada worked to build one of the world’s closest economic partnerships, with supply chains, businesses and trade increasingly intertwined.",
-     "link": "https://www.cnn.com/2026/10/30/economy/canada-us-trade-economy-vis",
-     "published": "2026-10-30T16:37:55.609Z"
+     "title": "Wall Street sell-off deepens as investors question returns on ‘monster AI splurge’",
+     "brief": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
+     "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
+     "published": "2026-10-30T17:34:19.823Z"
     },
     {
      "title": "Major anti-government protests sweep across Italy",
      "brief": "Farmers dumped manure on the streets of Turin on Friday as mass demonstrations unfurled across more than 50 cities in Italy.",
      "link": "https://www.cnn.com/2026/10/30/europe/italy-protests-anti-government-meloni-intl",
-     "published": "2026-10-30T16:36:55.622Z"
+     "published": "2026-10-30T17:33:19.832Z"
     },
     {
-     "title": "Christa Pike makes first public comments since botched execution: ‘Healing is not the same as being okay’",
-     "brief": "Christa Pike , who survived Tennessee’s attempt to execute her by lethal injection a month ago, is speaking out for the first time, saying she is recovering, “but healing is not the same as being okay.”",
-     "link": "https://www.cnn.com/2026/10/30/us/christa-pike-case-first-statement",
-     "published": "2026-10-30T16:35:55.752Z"
+     "title": "What is happening in Oleshky, the occupied Ukrainian town at the center of a Melania Trump ceasefire?",
+     "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies are being evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
+     "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
+     "published": "2026-10-30T17:32:19.818Z"
     }
    ]
   },
@@ -54,16 +48,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Golf: Water woes leave Mirabel searching for answers at KLGCC",
+     "title": "Football: Soccer-Tottenham's Maddison available for Palace match, says De Zerbi",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRi02LXBYTEFIZzlBdW1sQzVRRUVPRXZfeFF4cF9NdWFnMUZqV0c0YmE2WDhFejVmT2JyNWJzNHJiU3ZBYnhMV1Q1Qm9BTHg1dkdSOGV1clhERlh5Z0ZkM3Y3VEdJTmpBeDVyTFdyUFNLXzFGdW1FcThmQi1iQzE4Wm5WR2N1S0pZM2M4MENsa0k5dUNzd1k0R1JqUmV2MFFVZkhrS0twcw?oc=5",
-     "published": "2026-10-30T16:17:53.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTI2WGNIQWViSFpRR3VDci11SmRISVB1ODY2ZXlCUlZ6VEQtTVJMbExtamlwTUlVWmpDaElBV19vUHNRM3pVRGw5eFZYWGk1S2ZNRGxTdG1MS2FsZnBLRGRfRG5zcnBxOXB0UFhmTVhpUEhCSUJaMkc0bzJrZVlKZFAzbE4zdjE4VzIteEtKRTAxQmNsYWFoOURUN1oxR1lMQk92SjIzQ19STUExY21UTWo5ODFDeDFuZndVQWhzYjk?oc=5",
+     "published": "2026-10-30T16:57:00.000Z"
     },
     {
-     "title": "Golf: Liyana draws strength from family to charge ahead",
+     "title": "Mass protests sweep Italy during nationwide strike",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObVl0UW9MQjhTTkJ5QVdVMzBfQmd2Y2tOTWdnVDc0YmVtdjY5SmNpU3NablA2bVlFWWtwV04zS2p1R2daRGQyZ0d1cElQcU91blVOdlhFWHVjbE12WFNvZlRIeUlPT2JBb2R5dGhBWU0wZG9HcW1vUGZPUjhmdlJvUzdCYUw3SENTbWpDXzE1S1ZmY3RIVExteEVRYks0T1E?oc=5",
-     "published": "2026-10-30T16:17:53.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc2xIZkc4VXRKMXZtb0l0QTJEeG5MQUoyNnF0NUl4RUxQclYxdWZXRGRYYUQ4dmNBaTVXcmV1ekxJUFNUZjQtajJBUUlYZC1XNXVteXVPcmdCd0J2MWNOZG4wZFFaZS1ya1pDSFFOZ19PVGZoRElWaGVkQ01uTzlSS0ZxNWhmZEFJRE5oc1NONkZ4RGxFVDVkVlV5dXZqemRm?oc=5",
+     "published": "2026-10-30T16:52:00.000Z"
     },
     {
      "title": "Tennis-Medvedev clinches ATP Finals berth by reaching Vienna semi-finals",
@@ -84,6 +78,12 @@
      "published": "2026-10-30T15:20:00.000Z"
     },
     {
+     "title": "Basketball-French sports institute expels five teenage players",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeGstN1hxbWxWb19tWm5zUnptb0VwdTN3X3hsYlB0YnpoQWYzd0hvdFJNUEVzbThCT3BpTmZIVkdHaUI1OThfM0pkR0U0R3FTbllLa2ZQV2RhUzBBRUZhaVhFRS1xMm9sYm1jZ1pfWk5INXBadDNMU1JXRHViME5xZVhaX3JmM2QwTGN4Q2R4RzhTMkJhSlVMS2tXWl9HMzFFVVI4T2w5YnZ4OGhGLThHdTk3M1hySUd4?oc=5",
+     "published": "2026-10-30T14:33:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Fenerbahce appoint Dutchman Kuyt as interim coach",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcnk1Q0UxZm0zZGpYSTZSS0VWSzRnQjZEb0VXWmtYMHVMMkdCYjhKSmlCX1dzQ0JtLXNQajBrMmJZMUU3MnZ3V01EV2NoV2VwVEVYejBETE5OemdGUTh1eXlVMjBBc0N6S2xicHBGeGFrRHpTSWJjV2FReUR2NXJGV0tidC1FQ0MwQnNmRlhrd0o4bFU3RmpEWTRtZjdheWNqSDlERjFwWTJSeWpnckE?oc=5",
@@ -94,18 +94,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8wSDA3UTFGUlYyLWx1aUdRWElvXzlYRE40VWo5aWo1NHFsbjhkLVhZcE9NNk42eEF6VkxMeUhFSTBReWZlYUxmdkRBSHJITGxldHc4dk56cDF3MzU3cGc?oc=5",
      "published": "2026-10-30T14:22:36.000Z"
-    },
-    {
-     "title": "Nigeria says troops kill 48 Islamist fighters after attacks in Borno, Yobe bases",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPclBoMjJLY1NMS0lDV3htOXRpSDVENmt6R0VIZm01VktyQUNjSnF1YkFLcHRjZFI2MnozUE1ncS0ycjhRRHV0aTMxV2hrYXpCbGxUbzVqNXNhZzlMOS1LWjNsbExrTWZtU2dmb2YwTWxyYVhMekJyQ1VtUUEzY1NaZW95WlFsMm5oZGdZUDRjbUx0VjdHMXRvd29FVkRoTWpSbExvcXdNT1JBaVNHZTk2UjZGQkdsTUxHNTNlcUc3SXhEclpGU0o4?oc=5",
-     "published": "2026-10-30T14:08:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 6 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
