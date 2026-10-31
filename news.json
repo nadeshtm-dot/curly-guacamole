@@ -1,57 +1,57 @@
 {
- "updated": "2026-10-31T17:28:59.369Z",
+ "updated": "2026-10-31T18:36:49.521Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
-     "brief": "On Thursday, Binance, the world’s largest crypto exchange, saw more than $6 billion hacked from its system .",
-     "link": "https://www.cnn.com/2026/10/31/business/crypto-hacker-money-laundering",
-     "published": "2026-10-31T17:28:59.576Z"
-    },
-    {
-     "title": "Americans voting from Mexico share a concern ahead of the midterms: the future of democracy",
-     "brief": "On the shores of Lake Chapala, in the Mexican state of Jalisco, lies one of the country’s most popular communities for American retirees.",
-     "link": "https://www.cnn.com/2026/10/31/americas/american-expats-mexico-midterms-latam-intl",
-     "published": "2026-10-31T17:27:59.599Z"
-    },
-    {
-     "title": "Protests spread to Germany on Halloween as hundreds of thousands march again in France",
-     "brief": "Cost-of-living protests that began in France have spread to Germany where demonstrations that coincide with Halloween are underway on Saturday, with tens of thousands of people expected to turn out across the country.",
-     "link": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
-     "published": "2026-10-31T17:26:59.609Z"
-    },
-    {
-     "title": "1 dead, 6 wounded in targeted shooting at California Spirit Halloween store, police say",
-     "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California, on Friday night, police said.",
-     "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
-     "published": "2026-10-31T17:25:59.623Z"
-    },
-    {
-     "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
-     "brief": "Dmytro had not seen his wife Larisa for 1,711 days.",
-     "link": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
-     "published": "2026-10-31T17:24:59.621Z"
+     "title": "Scientists say decades-old theory on the origin of life might be wrong",
+     "brief": "The popular theory that comets were crucial in kick-starting life on Earth billions of years ago may not hold up, according to new computer simulations that counter decades of scientific thinking.",
+     "link": "https://www.cnn.com/2026/10/31/science/origin-life-theory-comet-simulation",
+     "published": "2026-10-31T18:36:49.775Z"
     },
     {
      "title": "Middle East on edge as fears mount the Iran war could restart after the midterms",
      "brief": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and the United…",
      "link": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
-     "published": "2026-10-31T17:23:59.628Z"
+     "published": "2026-10-31T18:35:49.863Z"
+    },
+    {
+     "title": "Protests spread to Germany on Halloween as hundreds of thousands march again in France",
+     "brief": "Cost-of-living protests that began in France have spread to Germany where demonstrations to coincide with Halloween were underway on Saturday, with tens of thousands of people turning out across the country.",
+     "link": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
+     "published": "2026-10-31T18:34:49.825Z"
+    },
+    {
+     "title": "Notorious hacker says stolen crypto is like ‘holding a hot potato’",
+     "brief": "On Thursday, Binance, the world’s largest crypto exchange, saw more than $6 billion hacked from its system .",
+     "link": "https://www.cnn.com/2026/10/31/business/crypto-hacker-money-laundering",
+     "published": "2026-10-31T18:33:50.057Z"
+    },
+    {
+     "title": "Americans voting from Mexico share a concern ahead of the midterms: the future of democracy",
+     "brief": "On the shores of Lake Chapala, in the Mexican state of Jalisco, lies one of the country’s most popular communities for American retirees.",
+     "link": "https://www.cnn.com/2026/10/31/americas/american-expats-mexico-midterms-latam-intl",
+     "published": "2026-10-31T18:32:49.877Z"
+    },
+    {
+     "title": "1 dead, 6 wounded in targeted shooting at California Spirit Halloween store, police say",
+     "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California, on Friday night, police said.",
+     "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
+     "published": "2026-10-31T18:31:49.871Z"
+    },
+    {
+     "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
+     "brief": "Dmytro had not seen his wife Larisa for 1,711 days.",
+     "link": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
+     "published": "2026-10-31T18:30:50.004Z"
     },
     {
      "title": "Storm set to hit central US on Election Day as key midterm races hang in balance",
      "brief": "A storm headed for the central United States on Election Day could affect voter turnout in key races across the region .",
      "link": "https://www.cnn.com/2026/10/31/weather/election-day-storm-climate",
-     "published": "2026-10-31T17:22:59.616Z"
-    },
-    {
-     "title": "Trump’s triumphal arch faces more opposition, with judge asking if desire is to ‘bedazzle’ DC",
-     "brief": "A federal judge on Friday was skeptical of the Trump administration’s urgency to rush construction of a controversial 250-foot triumphal arch that the president wants to begin next week.",
-     "link": "https://www.cnn.com/2026/10/30/politics/judge-slams-trumps-arch-plans-bedazzle",
-     "published": "2026-10-30T12:00:00.000Z"
+     "published": "2026-10-31T18:29:49.852Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Jordan seize automatic weapons smuggled by hot air balloons",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGNNX2h5VmUybjUtS21jOHI5ZllnTnF3WXZTM3NCX3hMaGMyT0ZWdWpxVld5MDRPZ2tiaEVsQ3hobGR5YkhZWmZlTzVrWmE0RkREcHl3a1BDZlJ6UVZmaU54QVM5bzNzN25DNmU1TlJyNzBWRFNiRGJCSDV5T0c4ZWVDSnV1dWNxaFM2eUY4NnVibnV6UTRlMHN1a0hiU2xfTmM4dlA2NjN4Qnpf?oc=5",
+     "published": "2026-10-31T18:09:00.000Z"
+    },
+    {
+     "title": "Nigeria reports two suspected Ebola cases in northeast region",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOODJzX3dRWWJaMjhwMXJibVFUYUlfTW5IQnJFMmtkcUkxUWF4TVZlM3dlbTV6bk55eTdDZWhvRENxTXlBemJLRmVLOTVUREtlR0ZuUlZIMXFxVE9SLTA5ZEx2SzhBaXltblNJZkl0blhRa2JNQkgxb2hIbFZsX082Q1Q1QktKSXByV2s5NnVabU5rZnhwOHdrTUR4SlcyQVc3aFNwTVJIeDF5UXJHQ2RZ?oc=5",
+     "published": "2026-10-31T17:33:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Dark day for Man United and City after Halloween defeats",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM2RlSnhwdUVreVY0VzROam5BZWlzdkhMTmpPcUlSZGx1bE1xRWdYNTlSLXo2VVBDQTNGSVFkSmFwZFJYVmZxLVlpd2hpMzVTZEJCX1FUZ3dSNFhtRE1Cdks3LW9INWxnLTdYNDliaFhVWld3NTIzbHotdzkwd3VZSkwxN2JjSkxsYmFPNzNzUHlrRm94S0gzSEhIeXdoREtjRUVxN3N2ZzMxTjZFWU5sdkdYTFRySWs?oc=5",
+     "published": "2026-10-31T17:15:00.000Z"
+    },
+    {
+     "title": "Tennis-Alcaraz beats Medvedev to reach Vienna final",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ3QwSGZHRUp1MUFUTDVfX19Rd21nOXhyS3JWc0JKR2ZHNWRESlhpZ3lOeExMaVBWLWM4VHdjbWhtLVRhZzBoV21YalYwREp2ekpTejJYb3hQUVVWd01yOUZzMmZwaFFUV2JLRlk2RXgtc0h6NE5rNXBpNzZXaUNmQnV1M2kxb0ZtOE1kQV9TcllVc1RNbkwzYWxYNEJtWTJaNkRfRA?oc=5",
+     "published": "2026-10-31T17:14:00.000Z"
+    },
+    {
+     "title": "Around 320,000 people take part in protests across France: media",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObkZVaHhQSGNDQzctMVF6MG15OUdiT1YyUGQyMFl1QnZWdThFSm9tWjZleUNMZmF0YlpMNUEydl9ObkdQY05iNGlBNlpvZTNhU180dHl3LUowQXJyMFI2WVlfeXEtRjhtNE9lZDdaLVZtcWpKZG1YTGlXNzN6UkJ2VWE1YThRcjhCNWxQQ1p3Qjl1aTRXWS00cjNXMU5maU1aLUM5MXBHYkxyUmVnR3RBdg?oc=5",
+     "published": "2026-10-31T17:04:00.000Z"
+    },
+    {
+     "title": "Meta builds humanoid robot with Chinese startup Fourier, The Information says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcHpkUHlXbFBrZWJ4eWxndGtxYXRMdVY0eDR3RksyTl94UWVUd3h3ckNsZVVKVm0wU0ozLTRNR1NTb3A3OVhHWjk4OEoyc0FjRU5CNUhwY01iNUotUkM2V0tGcEk0S3k1cmxlRkVaNGVrUm9YUFVuZElPLVVPWnU0VTlGQmJLLWh2Y2c5dDMxTHFzbjNuQ1JGN3JZRmdZR1pXWkVfUnlMUVh4cGdmWW1WQzViNGFlY0ltTVhyckVVcHBta1hsRVJkeg?oc=5",
+     "published": "2026-10-31T16:20:00.000Z"
+    },
+    {
      "title": "Latest",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeG1EVjItWmlyUG1rcERLdDVISmFYbElPbTNDLU9oZWY3eHpOdXp4TXItMC0yNXlVUkljSDFLQ1dNVmRycW92Ql95SW8yc1ZhX0lpbXA1b0dDc1VuT0xQSDFsNVNkU2FFbS1NSy1NZmVubEkteWlrUkxYOFJXZVRraDFtRGZuU0VQNUE?oc=5",
-     "published": "2026-10-31T13:50:43.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEtKR241Z2VEWVV1SFVGa045ZUowZnJSOFdIblQxZUZRajE4MjR1SGdVOGJ4a3VKcjJ6akFDbld4OVhTdFJVTGozTzFBYXZ6UlJ4UTFLSXNfUjlsTUo5NDFoektKYWdscEFKcXNSeEZBak9PVXlMcHhSbzF2QWt1RUJqeGQwNWtQVmR2bnEtUmdPUQ?oc=5",
+     "published": "2026-10-31T13:21:17.000Z"
     },
     {
-     "title": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+     "title": "Pope Leo tries to stay neutral as basketball rivals descend on Vatican",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkJxNjdyZFpkT1ZDSFRiZUFuUDZwbmhFR3JJZUZYYUVaZXV0aWczSEFWcTZVRlZLbUp5VHFVa1JwR3Y1NmpLZlRIT1huRTFnbGZCSTBQekR4OVFtajNiQzJ2VlV2dzNZVFdDdVRPQXV1ODRYa3hSZ3NwNVB0VnN0d1AtaEN3MjVNUDlDUjZiUkhoMTAtaTBfWnFKOHZOWnNXeG83T3hIRGV2c2MzaHlSQUpDOXZCVmVCM0xhN0FaVWJBOVFjYm5OU3p1Wm85My1QZzR3TVFKaFM?oc=5",
-     "published": "2026-10-31T12:39:00.000Z"
-    },
-    {
-     "title": "Do not ignore medicine side effects, report it, Health Ministry urges public, healthcare personnel",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVpiTl9MZWpzeVNLcVF0Yi05Y0JScmRXYTF0alBTTmtOVzNESWdHZGttRFVEMjhkTHh1U2JNYzY3SEFjbjdTWWZITGJ2OXFKMjNLYVlxLXktelFReGVsenVMSjJ6UDBoNlZXSGJ1cEdhbWlPNHdscjZfR1pVRXBCSmVMbTZlQlhvQXl4dGE3dnNNLVNkTFJXeWo4SlNFbHRTM09FM1hUbHRjTzkzdk8zOVlXV0ozVF91WXNlNkhoMEtIS2NpSTJ0cElIcEFXaTJxTXRBWTVoNm1BYmJGRkE?oc=5",
-     "published": "2026-10-31T11:11:00.000Z"
-    },
-    {
-     "title": "Batang Lupar 2 bridge officially opens, to cut drive time between Simanggang, Betong",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd185R1QybXR0YnJNNlc3RmZpREhSZkhrcFBkZVJvMmZpa0NBYnZGNjZjckd5dmJwcWFoa3VTM3NHRmxZRE5hRlJGeVJGMjM3V0ozSWN0SFRnV01Za1R4b2tSQkVlYnp6Y0RmODRuaVN4Y2JoeUtKR0dab1FIalNNSTdjX1ZpcmNDTElENi1JOWdvNjNIeWpvcUlKVURHdnlVLUEzUU1NXzVXRVZvV1NteTJ6MXUxQldaZXl1Vnpzbmp3bDVXSE5oN0gtM0g?oc=5",
-     "published": "2026-10-31T11:00:00.000Z"
-    },
-    {
-     "title": "Badminton: Rashid: Time to serve up some consistency, Zii Jia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFVUeGs0SUNueGhUUkRzdWxRSlpZcTE1Z3JzXzNJUHBpN0ZUM1VxeFVwN2NBLXpBRGUzYzR2b0ctallaWEk2eFZiOTJtU08zS0ZoeG5pWEtiaDd5d3QwZzc2aFprMFU1VE50MHAxMVhoSzVadE1wT1E1dG9sNUhWRDlqSEZqdkpMZHUxRVphYkdJWlpkUHB4TU9XN2ozWVNwVDZtTA?oc=5",
-     "published": "2026-10-31T09:47:00.000Z"
-    },
-    {
-     "title": "Badminton: Birthday boy Aaron enjoying quality matches against big guns with Roy King",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYkhCRl92VTBZT0w0dGNrLURuWE1SUWhzR0VvN2Y5ZzdwVFJITXBPcHJqcEMxMnRRWWJ4Mnc4OXRlLVpfV1BvUzJWNnU3SWZ1VEpDdEJuNUVfQVdFZENwZUlpNDV5UnhBMHFETHR5a0J1U09KSVptOS1kR2lCYU5pLWJ3V042bF95bGZCcElZUzd6NHo5YnFlV18yaWFRbnBlWEhtbUxYcGJ0TVdVR1BiaHdBZHdXZVEtQURXWFdTWQ?oc=5",
-     "published": "2026-10-31T09:39:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Carragher apologises after Villa threaten legal action over remarks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXJvRWpVZVI5TVJDTlBNaV83MUlTSC1Qdm5kbUtYampqWVZSZ3JwLW1yVEhKTWtXc0N6amtCUTZNWG5ubXllZUllU0hBQktGRGpEN0k5aHc2OWM3R25aenNZWjd4c0xVY0hlQTl5cUU0a0g4eUVscUFPMzc5VTBTV3BXeGF2NGNkMUpMU1l4Wk1ZRDFpTFR4dklPT1ZuU0pCV29hcE1RODBESFllbXVBS2hMNkhWQWtsX2h3Tnd2UFUtQQ?oc=5",
-     "published": "2026-10-31T09:15:00.000Z"
-    },
-    {
-     "title": "Motorsport: Qabil tops Moto4 Asia Cup Race 1 at Sepang",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWlTS01YN0Rlc0lINkkzYW92ZEU1R19GdE1zY0NVR0hnR1JHREprQUdnek95cGFIR0Y1aThwNUY0ZW9DejVqQUJpb3Bqd1d0bWpzMzdTTEpMZ0RfdEwxUWFKNzZHUF9yLU81SENiUVVpMGRGUnpfWGxKT21raEloSm1aX2FobUxwb1NNNzJ4QkI3cUMxaFFvZk9vdFliZw?oc=5",
-     "published": "2026-10-31T09:13:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdjl6QWtTNGNoamtjN1BKQkpnWU1RU19QZGlZZUx3SnNBUTZaR3hnSEtGLVEzY3pTNGRrZDB6LVl5TFJ4TXNFcVpoNHFQSUpMWUc1azZTNXBnMnVOcmtaZTNxeGxqVDhaMEh2TVRwcDdoOXNaWUFOY2lic2xMYXk5c3BtN0Ywa0R1NG5kNmNwdVlLdkxhME5sLVRMVUxQeEdEWE9mVENIM05QcXp1Y2J1bEVKOFBYQ2k2Q2pZMU9mQlNBYmM?oc=5",
+     "published": "2026-10-31T13:05:00.000Z"
     }
    ]
   }
