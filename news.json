@@ -1,51 +1,51 @@
 {
- "updated": "2026-10-31T14:31:10.945Z",
+ "updated": "2026-10-31T15:30:39.813Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Cost-of-living protests spread to Germany on Halloween as France braces for fresh unrest",
-     "brief": "Cost-of-living protests that began in France have spread to Germany where demonstrations that coincide with Halloween are underway on Saturday, with tens of thousands of people expected to turn out across the country.",
-     "link": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
-     "published": "2026-10-31T14:31:11.101Z"
+     "title": "1 dead, 6 wounded in shooting at California Spirit Halloween store",
+     "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California on Friday night, police said.",
+     "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
+     "published": "2026-10-31T15:30:40.088Z"
     },
     {
      "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
      "brief": "Dmytro had not seen his wife Larisa for 1,711 days.",
      "link": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
-     "published": "2026-10-31T14:30:11.138Z"
+     "published": "2026-10-31T15:29:40.169Z"
     },
     {
      "title": "Storm set to hit central US on Election Day as key midterm races hang in balance",
      "brief": "A storm headed for the central United States on Election Day could affect voter turnout in key races across the region .",
      "link": "https://www.cnn.com/2026/10/31/weather/election-day-storm-climate",
-     "published": "2026-10-31T14:29:11.141Z"
+     "published": "2026-10-31T15:28:40.153Z"
+    },
+    {
+     "title": "Cost-of-living protests spread to Germany on Halloween as France braces for fresh unrest",
+     "brief": "Cost-of-living protests that began in France have spread to Germany where demonstrations that coincide with Halloween are underway on Saturday, with tens of thousands of people expected to turn out across the country.",
+     "link": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
+     "published": "2026-10-31T15:27:40.321Z"
     },
     {
      "title": "Police detain 3 protesters during overnight rally as Polish president backs suspended judge",
      "brief": "Hundreds of anti-government protesters rallied overnight around a top court in Poland to denounce the suspension of the tribunal’s president, for which they blame the country’s pro-European government.",
      "link": "https://www.cnn.com/2026/10/31/europe/poland-protests-president-karol-nawrocki-flies-home-hnk-intl",
-     "published": "2026-10-31T14:28:11.160Z"
+     "published": "2026-10-31T15:26:40.189Z"
     },
     {
      "title": "It’s the world’s largest passenger plane. But he still fit some of it inside his home",
      "brief": "In our roundup of travel stories this week: Aviation’s strangest four-engine giant passenger plane, the luxury 1980s private jet you can book for a private stay, plus the A380 superfan who has outfitted his home like…",
      "link": "https://www.cnn.com/2026/10/31/travel/worlds-largest-plane-partly-inside-his-home",
-     "published": "2026-10-31T14:27:11.146Z"
-    },
-    {
-     "title": "1 dead, 6 wounded in shooting at California Spirit Halloween store",
-     "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California on Friday night, police said.",
-     "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
-     "published": "2026-10-31T14:26:11.162Z"
+     "published": "2026-10-31T15:25:40.146Z"
     },
     {
      "title": "Republicans try to save Max Miller as child custody dispute roils his race",
      "brief": "In the closing days of the race, Rep.",
      "link": "https://www.cnn.com/2026/10/31/politics/republicans-max-miller-midterms",
-     "published": "2026-10-31T14:24:11.153Z"
+     "published": "2026-10-31T15:23:40.171Z"
     },
     {
      "title": "Zelensky welcomes sale of crucial US Patriot missiles but warns delivery could take years",
@@ -66,10 +66,28 @@
      "published": "2026-10-31T12:46:42.000Z"
     },
     {
+     "title": "Brussels wants industry to ditch Chinese suppliers. Businesses are pushing back",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSkJxNjdyZFpkT1ZDSFRiZUFuUDZwbmhFR3JJZUZYYUVaZXV0aWczSEFWcTZVRlZLbUp5VHFVa1JwR3Y1NmpLZlRIT1huRTFnbGZCSTBQekR4OVFtajNiQzJ2VlV2dzNZVFdDdVRPQXV1ODRYa3hSZ3NwNVB0VnN0d1AtaEN3MjVNUDlDUjZiUkhoMTAtaTBfWnFKOHZOWnNXeG83T3hIRGV2c2MzaHlSQUpDOXZCVmVCM0xhN0FaVWJBOVFjYm5OU3p1Wm85My1QZzR3TVFKaFM?oc=5",
+     "published": "2026-10-31T12:39:00.000Z"
+    },
+    {
      "title": "Do not ignore medicine side effects, report it, Health Ministry urges public, healthcare personnel",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdVpiTl9MZWpzeVNLcVF0Yi05Y0JScmRXYTF0alBTTmtOVzNESWdHZGttRFVEMjhkTHh1U2JNYzY3SEFjbjdTWWZITGJ2OXFKMjNLYVlxLXktelFReGVsenVMSjJ6UDBoNlZXSGJ1cEdhbWlPNHdscjZfR1pVRXBCSmVMbTZlQlhvQXl4dGE3dnNNLVNkTFJXeWo4SlNFbHRTM09FM1hUbHRjTzkzdk8zOVlXV0ozVF91WXNlNkhoMEtIS2NpSTJ0cElIcEFXaTJxTXRBWTVoNm1BYmJGRkE?oc=5",
      "published": "2026-10-31T11:11:00.000Z"
+    },
+    {
+     "title": "Batang Lupar 2 bridge officially opens, to cut drive time between Simanggang, Betong",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd185R1QybXR0YnJNNlc3RmZpREhSZkhrcFBkZVJvMmZpa0NBYnZGNjZjckd5dmJwcWFoa3VTM3NHRmxZRE5hRlJGeVJGMjM3V0ozSWN0SFRnV01Za1R4b2tSQkVlYnp6Y0RmODRuaVN4Y2JoeUtKR0dab1FIalNNSTdjX1ZpcmNDTElENi1JOWdvNjNIeWpvcUlKVURHdnlVLUEzUU1NXzVXRVZvV1NteTJ6MXUxQldaZXl1Vnpzbmp3bDVXSE5oN0gtM0g?oc=5",
+     "published": "2026-10-31T11:00:00.000Z"
+    },
+    {
+     "title": "Badminton: Rashid: Time to serve up some consistency, Zii Jia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFVUeGs0SUNueGhUUkRzdWxRSlpZcTE1Z3JzXzNJUHBpN0ZUM1VxeFVwN2NBLXpBRGUzYzR2b0ctallaWEk2eFZiOTJtU08zS0ZoeG5pWEtiaDd5d3QwZzc2aFprMFU1VE50MHAxMVhoSzVadE1wT1E1dG9sNUhWRDlqSEZqdkpMZHUxRVphYkdJWlpkUHB4TU9XN2ozWVNwVDZtTA?oc=5",
+     "published": "2026-10-31T09:47:00.000Z"
     },
     {
      "title": "Badminton: Birthday boy Aaron enjoying quality matches against big guns with Roy King",
@@ -78,34 +96,16 @@
      "published": "2026-10-31T09:39:00.000Z"
     },
     {
-     "title": "Residents of Russian-controlled Ukrainian town arrive in Belarus",
+     "title": "Football: Soccer-Villa threaten legal action against Carragher over 'insults'",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWlVFeVVyOWFsS2FXaGNOaDhKWEh3MGpKaFZ1aDFOZy1kOURMVDA5ampmN1A0bnpmblpTM3c2MGhhVHpEWlJUSnhpZjlhaWJzaUNMYy02MkhtUUJ0WmhKTDB6SjhVaU54ejNpUUFXcXhydVlvMXJ2SWljdHhid2ZGZnhEUkV1U3ZocTVBTHNrQjdUREJERUljUDYyZ2d2azlPWlhZclB4Q0hOd0wwTjZpZ1N4ZVJiTy1qanhlZHNFU2pFckhhMVZGWFBWWlJQUmlQYkhTWHBITjY?oc=5",
-     "published": "2026-10-31T08:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQXJvRWpVZVI5TVJDTlBNaV83MUlTSC1Qdm5kbUtYampqWVZSZ3JwLW1yVEhKTWtXc0N6amtCUTZNWG5ubXllZUllU0hBQktGRGpEN0k5aHc2OWM3R25aenNZWjd4c0xVY0hlQTl5cUU0a0g4eUVscUFPMzc5VTBTV3BXeGF2NGNkMUpMU1l4Wk1ZRDFpTFR4dklPT1ZuU0pCV29hcE1RODBESFllbXVBS2hMNkhWQWtsX2h3Tnd2UFUtQQ?oc=5",
+     "published": "2026-10-31T09:15:00.000Z"
     },
     {
-     "title": "Fire breaks out at Nepal hotel along route to Everest base camp",
+     "title": "Motorsport: Qabil tops Moto4 Asia Cup Race 1 at Sepang",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3ZMenN4TUFRUzJ3QUJMXzJudWNxRDV0M0Z6a0s2cmRvNnlJZ0UzMHNqRXVJc3l6ek4xck1NakNIZThadURQaHM2QlFMUE9fbjUzVnFQT0VLVG1fcDg3WmVQREpuX2RGcjhUOS1fdVdHTUxNS2hoSEpocEhWN2JXeVQ1ZlFIMmEzaUZwaWQ5eG5neGY0VjY4elR6anNtWWFlS1JlV1FldmVoM0hkOWxUNk56TE1kVk9YREJiTFZQZllkOHQt?oc=5",
-     "published": "2026-10-31T06:04:00.000Z"
-    },
-    {
-     "title": "Police raid exclusive penthouse poker den in Jalan Ampang, 16 arrested",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjhUR1BVSjFhemNUcUxYQVM2SE12UVVmZ0M3VERJaVlvZ05mY0g3WHIwV3pWeHlpMFFwdWVsZ0Q5YkdDR1VmVjRnVlY2T2FUZmtIaDBXTWVXN2lXX2paX1A2ektDNGt1WE9nT3pmY3FPRUhtNDR5VGlCSUVtRUdHLUZ6bUxjNTlHdzdram95TzROYUN0RGJOaU5YaGJvUWpIRzZhOXRoRFd1SEcwT1RnN2dvTVZ1X1VsZFI0?oc=5",
-     "published": "2026-10-31T06:02:00.000Z"
-    },
-    {
-     "title": "Melaka polls: BN’s Ngwe in three-cornered fight to defend Machap Jaya seat",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2czbWRxQUJCSW1VckhoLUdEVGhWQXBuUmhRMU1UZUlvOEZESjRwRkxPNTRTNjhxSEFSRFdvTzEzSlJuNF83MmpTaEhQRmozSGx6b2xPNFNDTkNCWXF6MGRKX3lDNjBnMjlZVFlMSWFJbTZKWWRhV0lOLURoNzF5eWlVMGR6QzVVSEp0TEl6WUkyMGVuOTBUX3YtUl9MUU9OWHg3V0lIRlFiQXpwbno1RUNxLXg3S0lLMkJtTUN6RQ?oc=5",
-     "published": "2026-10-31T05:07:00.000Z"
-    },
-    {
-     "title": "Two men on motorcycle open fire on parked vehicle in Sitiawan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNlBYSzBvNllNLWl6WUJsaWN3YWFQRkRILWVLOFprQUNDV21Ib0JzY0dJLU5zXzJsMWJHYzBiRHpHamo4ZkdTY1UyQlNHNE9vTVJmaXNEazlwSVZWa0RRbWtGdThMRm5DWUtwMnBvVG9FR0RHUGNBc09SQjc2YTVmTURONVFsOGtzNEtlSG8zX3RKQVhLSUg1UUhwVHl2R2ctT1F5UzJqS2NNYnlXV0dPMA?oc=5",
-     "published": "2026-10-31T04:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWlTS01YN0Rlc0lINkkzYW92ZEU1R19GdE1zY0NVR0hnR1JHREprQUdnek95cGFIR0Y1aThwNUY0ZW9DejVqQUJpb3Bqd1d0bWpzMzdTTEpMZ0RfdEwxUWFKNzZHUF9yLU81SENiUVVpMGRGUnpfWGxKT21raEloSm1aX2FobUxwb1NNNzJ4QkI3cUMxaFFvZk9vdFliZw?oc=5",
+     "published": "2026-10-31T09:13:00.000Z"
     }
    ]
   }
