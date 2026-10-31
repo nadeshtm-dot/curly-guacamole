@@ -1,50 +1,50 @@
 {
- "updated": "2026-10-31T08:40:11.902Z",
+ "updated": "2026-10-31T09:35:29.663Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Republicans pour millions into once-safe House seat in bid to save Max Miller",
+     "brief": "In the closing days of the race, Rep.",
+     "link": "https://www.cnn.com/2026/10/31/politics/republicans-max-miller-midterms",
+     "published": "2026-10-31T09:35:29.919Z"
+    },
+    {
+     "title": "This retired professor was arrested for blocking a delivery robot. She says she’ll do it again",
+     "brief": "October 14 wasn’t the first time Carolyn Marvin put herself in front of an autonomous delivery robot.",
+     "link": "https://www.cnn.com/2026/10/31/us/philadelphia-woman-delivery-robots-cec",
+     "published": "2026-10-31T09:34:29.905Z"
+    },
+    {
+     "title": "Americans may feel a bit spooked by Halloween prices",
+     "brief": "A group of college students walked into Lorenzo Caltagirone’s costume store in Washington, DC, earlier this week to dress up as yellow cartoon Minions for Halloween.",
+     "link": "https://www.cnn.com/2026/10/31/business/halloween-costume-prices",
+     "published": "2026-10-31T09:33:29.998Z"
+    },
+    {
      "title": "What do Kylian Mbappé and Hello Kitty have in common? They’ve both angered China",
      "brief": "What do French soccer star Kylian Mbappé and the Japanese company behind Hello Kitty have in common?",
      "link": "https://www.cnn.com/2026/10/31/china/mbappe-sanrio-china-controversies-intl-hnk",
-     "published": "2026-10-31T08:39:12.110Z"
+     "published": "2026-10-31T09:31:29.913Z"
     },
     {
      "title": "Polish president turns plane around to return home as court chief’s suspension sparks protest",
      "brief": "Police secured Poland’s Constitutional Tribunal on Friday as dozens of protesters gathered to demonstrate against what they perceive as the wrongful suspension of the top court’s president by the current pro-European…",
      "link": "https://www.cnn.com/2026/10/31/europe/poland-protests-president-karol-nawrocki-flies-home-hnk-intl",
-     "published": "2026-10-31T08:38:12.104Z"
+     "published": "2026-10-31T09:30:29.925Z"
     },
     {
      "title": "Putin wants Africa on his side. African leaders are playing their own game",
      "brief": "Russia is seeking allies and expanding its influence abroad as its war in Ukraine drags on.",
      "link": "https://www.cnn.com/2026/10/31/africa/putin-russia-africa-cooperation-intl",
-     "published": "2026-10-31T08:37:12.118Z"
+     "published": "2026-10-31T09:29:29.916Z"
     },
     {
      "title": "Hundreds evacuate Ukrainian city of Oleshky under Melania Trump-brokered ceasefire",
      "brief": "Hundreds of people from an occupied town in southern Ukraine who survived months without basic supplies were evacuated on Friday under a ceasefire agreement negotiated by first lady Melania Trump .",
      "link": "https://www.cnn.com/2026/10/30/world/evacuations-oleshky-melania-trump-ceasefire-intl",
-     "published": "2026-10-30T12:00:00.000Z"
-    },
-    {
-     "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials across the country",
-     "brief": "A federal judge imposed a sweeping emergency order halting various aggressive tactics employed by the Trump administration in recent days to pressure election officials across the country.",
-     "link": "https://www.cnn.com/2026/10/30/politics/emergency-order-halts-doj-pressure-campaign-election-officials",
-     "published": "2026-10-30T12:00:00.000Z"
-    },
-    {
-     "title": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
-     "brief": "The US State Department approved the potential sale of 500 Patriot air defense interceptor missiles to Ukraine on Friday, according to a department release .",
-     "link": "https://www.cnn.com/2026/10/30/politics/us-approves-potential-patriot-missile-sale-ukraine",
-     "published": "2026-10-30T12:00:00.000Z"
-    },
-    {
-     "title": "G20 photo scrapped amid tensions over Russian foreign minister’s presence",
-     "brief": "The G20 foreign ministers meeting kicked off in Atlanta on Friday without a “family photo” after numerous representatives were expected to walk out rather than be pictured alongside Russian Foreign Minister Sergey…",
-     "link": "https://www.cnn.com/2026/10/30/politics/g20-tensions-photo-canceled-lavrov-rubio",
      "published": "2026-10-30T12:00:00.000Z"
     },
     {
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Jordan stops fighters attempting to enter from Syria, armed forces say",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXhIZk85eUhZdGV0MV9iWFRTcDJ6N21pZkNOTHlpRlM3REUtR05uWV9FRU80QkRyRGZpQnRSVFdvZXVtU1MzMVhmWGpYQ243ZDF5dGlQQ3JYOHByeTlydkhXTUw4NElHdk96QXljVUJpZEdqWTFma2JzeF9yeXdmSHQtS1RKUkVHdUc5cm9xUlFVcEN6ajBYMTJGazQ3UE56TUl1b2EtMmQ2LXhaUEs2MHdRVGVMSy1Zbmc?oc=5",
+     "published": "2026-10-31T08:41:00.000Z"
+    },
     {
      "title": "Latest",
      "brief": "",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcU9WRFQ1RHZaWU1RdVVDcEdZdWNfVkR3cUlSWG5LWmt3U0VTN1d3LXZoc010dGQ3cmV0dl8xOC1CU2xZZU95bUpaT1o0RGh2bTBuQXh6cWZSWFVqNHl3ejN2Nm1wdXAyRTN6Tng4VEYtekRnRFZ2QXZpODJ6N3VFYlBkZlJwSGY1enJEVjUwcURBQjlBN0otSzhCclM3QV9Jck8zMXJ1V2lsdEU?oc=5",
      "published": "2026-10-31T02:59:00.000Z"
-    },
-    {
-     "title": "Apple users keep seeing scary warnings that their accounts are locked",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXh4OTBmdWFtUVlHRmE3cnFkdElvTWxKVUY5cDlYMjN2clNyYkdxejdrMzVQbjg4RG4tbGZjem1uZThKcHJCdGpLOTQ3R1ctWlJqcEdUVXA4N3JGLW1MUjVtZ25lXzlEZWhLdTVMVUVVWFpVV2xHdG8yVV81S1ExM0VrTk12VG8zSE84elpDRVNNSzJwaHREeG01THpWc0ZOc2puWGRMRzh3ZzJhTnB6bFZwc0FlV2RSNnFjRG1WVQ?oc=5",
-     "published": "2026-10-31T01:00:00.000Z"
     }
    ]
   }
