@@ -1,12 +1,12 @@
 {
- "updated": "2026-10-31T01:52:45.307Z",
+ "updated": "2026-10-31T02:43:08.846Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials",
+     "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials across the country",
      "brief": "A federal judge imposed a sweeping emergency order halting various aggressive tactics employed by the Trump administration in recent days to pressure election officials across the country.",
      "link": "https://www.cnn.com/2026/10/30/politics/emergency-order-halts-doj-pressure-campaign-election-officials",
      "published": "2026-10-30T12:00:00.000Z"
@@ -42,10 +42,10 @@
      "published": "2026-10-30T12:00:00.000Z"
     },
     {
-     "title": "Hackers just stole $6 billion in crypto. It’s not the first time, and it won’t be the last",
-     "brief": "For years, the crypto industry has tried to shed its affiliation with crime while marketing itself as a safe alternative to traditional banking and investing.",
-     "link": "https://www.cnn.com/2026/10/30/business/binance-hackers-crypto-safety",
-     "published": "2026-10-30T12:00:00.000Z"
+     "title": "3 dead after 2 helicopters collide midair near Oregon airport, sheriff says",
+     "brief": "Investigators were combing through debris scattered across a field in northwest Oregon Friday after two helicopters collided midair, killing three people and forcing the closure of a nearby highway, officials said.",
+     "link": "https://www.cnn.com/2026/10/29/us/oregon-helicopters-crash",
+     "published": "2026-10-29T12:00:00.000Z"
     }
    ]
   },
@@ -84,12 +84,6 @@
      "published": "2026-10-31T00:17:01.000Z"
     },
     {
-     "title": "More than 100,000 rescue personnel on standby",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ6RkU1OFhTTFFUM1hfNmhLS2lzaV9mcmJRN2VRb081VFNzUHd1bDE2b0V2NUh5aDFuWlFNaGs3el85TE5pY0ZzYmhsQ0pZOGhUR2sybF9MQTdPalZxdXE2bklmVDhkbGtaUlRDMU5SV2oydTgtNTdWVzBEZnNPekJTRzB2MUQ4X0ZRWkN0X1ZiWFA2QmtnQmhR?oc=5",
-     "published": "2026-10-31T00:10:04.000Z"
-    },
-    {
      "title": "Cleaning up Semporna’s waters",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0QzSzJ5cHNXOUQ5YTlydkdadGg3VldEZ2p5QkNRRjQzZEFkM1pBRUJJTnZ6YlNaSHRabUNuVGsxWVZzSHp0MzdHcVlfQmMwT3VScDdxdXprRmdsMjR1cDdWdzZiWDJ1eHRqbXFKeTVnYXJWLS1ULTk3T3czYlB3VW4zQmJZLTFqMEN2RXFxdXN0N3psTGtxVXJR?oc=5",
@@ -100,6 +94,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWXB1Ql9tRW9jbnFpaWowT3dITmhXcWVZcW9XMEZJOU11WWphOFRPR2pEUENfNW9PVGF4bE9aMmxCUGlNRG1WWnhkWW9lajM3dDJJTzVFa2FNclpqRnJzU3VZd3AzVHZHeWRUU2lsa216SC1fS1NhV3RmaGZlTU1zaGx4bE5lOEJfV2ZOdkx0ODB6NGVNX29sRS1CYkk1VFhkTWFXSC1MdkdSV1FheHpybjhTMVExXzZHdlZabmpmM0wtaE93ZmV4YldjSHM5NUE2?oc=5",
      "published": "2026-10-31T00:00:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Hakimi hat-trick leads PSG to 5-1 win at Le Havre",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWRHWW91X1ZlTWh0YU00VmtrZEs4bktzZFFrTHlOTWFxN29veUcwSlUwZW0zSkd6NlF0NkxVdzQ1eVdqVDExQ2NSczJhQ3FPNXQwNmdyZDJMTUh5aFpreWJsMzVBOUVUNFZhS3VJYU1KazFrWURaZ1ZPTkZ6cXlpUTI5b0hNRE5oQUdzcEJaUV9QYlV3N2g3WkRZMk1QVjd2QnNhQmRYa3g3ZmRMMXc?oc=5",
+     "published": "2026-10-30T23:53:00.000Z"
     }
    ]
   }
