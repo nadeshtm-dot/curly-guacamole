@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-31T05:36:26.692Z",
+ "updated": "2026-10-31T06:44:19.057Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "What do Kylian Mbappe and Hello Kitty have in common? They’ve both angered China",
+     "title": "What do Kylian Mbappé and Hello Kitty have in common? They’ve both angered China",
      "brief": "What do French soccer star Kylian Mbappé and the Japanese company behind Hello Kitty have in common?",
      "link": "https://www.cnn.com/2026/10/31/china/mbappe-sanrio-china-controversies-intl-hnk",
-     "published": "2026-10-31T05:36:27.136Z"
+     "published": "2026-10-31T06:44:19.401Z"
     },
     {
      "title": "Polish president turns plane around to return home as court chief’s suspension sparks protest",
      "brief": "Police secured Poland’s Constitutional Tribunal on Friday as dozens of protesters gathered to demonstrate against what they perceive as the wrongful suspension of the top court’s president by the current pro-European…",
      "link": "https://www.cnn.com/2026/10/31/europe/poland-protests-president-karol-nawrocki-flies-home-hnk-intl",
-     "published": "2026-10-31T05:35:27.179Z"
+     "published": "2026-10-31T06:43:19.437Z"
     },
     {
      "title": "Putin wants Africa on his side. African leaders are playing their own game",
      "brief": "Russia is seeking allies and expanding its influence abroad as its war in Ukraine drags on.",
      "link": "https://www.cnn.com/2026/10/31/africa/putin-russia-africa-cooperation-intl",
-     "published": "2026-10-31T05:34:27.174Z"
+     "published": "2026-10-31T06:42:19.442Z"
     },
     {
      "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials across the country",
@@ -57,15 +57,63 @@
   },
   "thestar": {
    "name": "The Star",
-   "feed": "",
-   "items": []
+   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
+   "items": [
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYUl0MTFEQy1oQ2lzM3BHRmoxR3JSdWN6c1JqRHFJWDd6eUlvMXRxNXpfUFh2bnhxcFZVYnB3V0MzOEZCTndLQXBQSE13ZWtZUFhhdmhTTlo5Qm9UbzFPWF9RcVNvMFc1aXR0SzBDcFNUV29SWVg4c3puTkdDQVZuM1BkUEJLQzkyNW1n?oc=5",
+     "published": "2026-10-31T04:15:39.000Z"
+    },
+    {
+     "title": "Views - Metro",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TVnlRQ1VyQmpreXJ4SFJaZWhoTjdRTTFUb1BHdGlkV2x6QWlsUmpybGFUTmNScHh2VFEzN0FEejJZZzN4bEllWFBLYS1PT3JZdUJBckJGUXh4cnpNa0NkZG9DNy02TXF1S1kxYnZBREVCU1dzanp3?oc=5",
+     "published": "2026-10-31T04:07:42.000Z"
+    },
+    {
+     "title": "In the AI 'Robogym', machines train to be more like humans",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUkZPYXQ2WWhCdTZ0QzRVRUhUMW1wS1lxcFlaWFdsR29RX0lIS3doTkQ1aDdtUmtxbzJQam14LWdYR2M0Yk1VOGNUdUNjcXJMS1pGdUc4c2xZZ1RHbjB4T1VyUTR0VUI2Q2lxbTZBcl9tLS02YmxjN3dGN1FiWlRlVVI2TkdtME1xcHFMeW0zdHlvS093S0dtVkx3aktrRWRfQ3FWR0oxeGV3WUc0Q1NTUlFRazI?oc=5",
+     "published": "2026-10-31T03:00:00.000Z"
+    },
+    {
+     "title": "Melaka polls: Four-cornered fight for Bukit Katil as Adly seeks third term",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcU9WRFQ1RHZaWU1RdVVDcEdZdWNfVkR3cUlSWG5LWmt3U0VTN1d3LXZoc010dGQ3cmV0dl8xOC1CU2xZZU95bUpaT1o0RGh2bTBuQXh6cWZSWFVqNHl3ejN2Nm1wdXAyRTN6Tng4VEYtekRnRFZ2QXZpODJ6N3VFYlBkZlJwSGY1enJEVjUwcURBQjlBN0otSzhCclM3QV9Jck8zMXJ1V2lsdEU?oc=5",
+     "published": "2026-10-31T02:59:00.000Z"
+    },
+    {
+     "title": "Apple users keep seeing scary warnings that their accounts are locked",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVXh4OTBmdWFtUVlHRmE3cnFkdElvTWxKVUY5cDlYMjN2clNyYkdxejdrMzVQbjg4RG4tbGZjem1uZThKcHJCdGpLOTQ3R1ctWlJqcEdUVXA4N3JGLW1MUjVtZ25lXzlEZWhLdTVMVUVVWFpVV2xHdG8yVV81S1ExM0VrTk12VG8zSE84elpDRVNNSzJwaHREeG01THpWc0ZOc2puWGRMRzh3ZzJhTnB6bFZwc0FlV2RSNnFjRG1WVQ?oc=5",
+     "published": "2026-10-31T01:00:00.000Z"
+    },
+    {
+     "title": "Former factory worker crowned richest woman, again",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRXN1eGNHeURsODRNM0tVMUxBU3U4TXJLdXJoMVQ0ZEVKRUp5bHROQ2czRk9QU3dSMzBETHRPNU5oV3Q4Qi1fbG1fVFQ3MW9PS2p3UkVYQ3FyaVo1WUc0ZlM4dmQ5b0Z4MTBHLTBkbU1MNG0wQW5SRHZPWTBZM0VodDhvOGxCdVFMekNsbTdPWkJ4S2VjVklNdzBUanJpdEdPcUNZM0xPcDZsVlR6OEYwLXB3?oc=5",
+     "published": "2026-10-31T00:40:21.000Z"
+    },
+    {
+     "title": "Ministry: DPP programme not a way for refugees to get PR, citizenship",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWlZSNUpnREFwano1Z1pOdmpqOU5DaU9XSDRlb2VpQ0xOY1J4eDdELU9EVWw2S1hFd1RlU0FNQUd5cEo4ZlpqeHluUm9vOGNlRDRNNkJrUTdHZ3VuTk5GWEdESVoyUDNzTzJNRU1KMDAzaXNETV9oMWNFckxIMl9nSFFuRW5rV0ZhaGZkWkNKRWxrc1JlSzY2RVBzZi1PM0dGa0phTnQ2TlpHMGNTbEJzT0lLQURJMzJT?oc=5",
+     "published": "2026-10-31T00:09:48.000Z"
+    },
+    {
+     "title": "Cleaning up Semporna’s waters",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0QzSzJ5cHNXOUQ5YTlydkdadGg3VldEZ2p5QkNRRjQzZEFkM1pBRUJJTnZ6YlNaSHRabUNuVGsxWVZzSHp0MzdHcVlfQmMwT3VScDdxdXprRmdsMjR1cDdWdzZiWDJ1eHRqbXFKeTVnYXJWLS1ULTk3T3czYlB3VW4zQmJZLTFqMEN2RXFxdXN0N3psTGtxVXJR?oc=5",
+     "published": "2026-10-31T00:03:51.000Z"
+    }
+   ]
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
-  "The Star: 0 items from nowhere"
+  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
  ]
 }
