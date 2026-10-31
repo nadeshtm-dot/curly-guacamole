@@ -1,10 +1,16 @@
 {
- "updated": "2026-10-31T00:52:16.058Z",
+ "updated": "2026-10-31T01:52:45.307Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Judge imposes sweeping emergency order halting DOJ pressure campaign on election officials",
+     "brief": "A federal judge imposed a sweeping emergency order halting various aggressive tactics employed by the Trump administration in recent days to pressure election officials across the country.",
+     "link": "https://www.cnn.com/2026/10/30/politics/emergency-order-halts-doj-pressure-campaign-election-officials",
+     "published": "2026-10-30T12:00:00.000Z"
+    },
     {
      "title": "US approves potential $2.1 billion sale of scarce Patriot missiles to Ukraine",
      "brief": "The US State Department approved the potential sale of 500 Patriot air defense interceptor missiles to Ukraine on Friday, according to a department release .",
@@ -40,12 +46,6 @@
      "brief": "For years, the crypto industry has tried to shed its affiliation with crime while marketing itself as a safe alternative to traditional banking and investing.",
      "link": "https://www.cnn.com/2026/10/30/business/binance-hackers-crypto-safety",
      "published": "2026-10-30T12:00:00.000Z"
-    },
-    {
-     "title": "Nasdaq suffers worst month in over a year as AI nerves roil markets",
-     "brief": "Wall Street suffered a steep day of losses Friday after the latest tech earnings reignited concerns that massive spending on AI may not deliver the returns that investors expect.",
-     "link": "https://www.cnn.com/2026/10/30/investing/us-stocks-ai-investment",
-     "published": "2026-10-30T12:00:00.000Z"
     }
    ]
   },
@@ -54,52 +54,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Latest",
+     "title": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORm1NSkE1VFI2OXhFRzZDLUJQX3pIWkRTMzNDSFN0OXF3TlJ2akZ2TnRWbEhaVUFXbkd5YVVOSUQtajQ1STlSNnlJTlV5OGFMYXIzR1ZmLTlTY2JaOHRCU1J1TUFVbG5xWVZPSXA5VzYwRzV5aWFZaDVjMjJyM0pXTDNBc0VyVm9SOUE?oc=5",
-     "published": "2026-10-30T23:41:16.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORm93UjZFNXVNd2JXb2h3WE5RVmhkZE9uTkRwSGdCdi1oZGpCTG1wQk9LczB5ZEdlT2R3bEZQVUZfWUNOLVh6QlEzU2VUempsNjM0eUdCTDZmeTJzNlA4dXg1YjZ1M2VQY3Fvel8xRGZwTnFOTnp1NUVRd1dmdGlISDh0UkZCS3pNeXdmSlU4RF9ObFBLYk1MdmY0azNNRjFRODZSZjIzWVpicGJFZkFLc0N2YUQzaV9MSV80aHI0YjQ?oc=5",
+     "published": "2026-10-31T01:26:00.000Z"
     },
     {
-     "title": "S&P Global revises outlook on Meta to negative on cashflow concerns",
+     "title": "Other Sports: US court reinstates 'Sunday Ticket' class action verdict against NFL",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOR19ST3NPMEZuNzFvbWlkWlVsOW5vNWhpYllhTFR1eVd6cWRlNlk5TVBOOXA4SFBBSFo4UUR3UnZaVURNVlMyWDZ4N3RJUDBmeDZRRnJaaFhodzU1ckNpRWJIbTJYT2x6N2RQb2dxdDF3eEw2MEw1eURuV2dCT1FVMlR2bWxaVkZXQlBvdUM1RXRCUFBLeVg0TFB6UGJQM0JhdVZDcHJKck8wQzFOVktPaHVHSmpKaUdPZmx3?oc=5",
-     "published": "2026-10-30T23:41:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc043aHdkajN3ZUU4VHgyUUdxT0xjb01SZDJjaDlCTklZTWZpRWg2VUs1MDFjbHZSMEpTVEFReTZHd0xia0l6LTBzMnpLV0ZZWWV0VkNUSk1tZHBrUlN0Xy11ZXVCS1l2OThlaW93YjZjOXFVdEdXVDJOUzhpeWk2RzdrX1JsVk5pcDN6YURSaW9hZ2MyMG91cjU1WldkWjVnTU9memtRSkFxcGNPZ0V1Q0FqU0ZKcXhPWUMyLXdIb18?oc=5",
+     "published": "2026-10-31T00:59:00.000Z"
     },
     {
-     "title": "Kane’s triumph and Azeem’s trial tell a story of hope",
+     "title": "Volcano alert raised as eruption sends ash skyward",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU3BCdFVoRjhSa2JvaGRQYmhuMHJKYjI1TjlmOTQwVVJMU2FmeVJFSjlCVWdGMHlxTUlUTnMtZUxTU3JxSThfRU9QOXY1NFVrRldRaWRMSDA4NXZIX0Z2cWN0SUJ5WGpnRUpiZXN0amswZVc4VmtaaDRuc0c5aVN0QlBSNm5lejFHU01yaHFsZ1VCMjk2NlUySnBKd3JSNWVwVE1ZQmFyMGswN0ZjSmFWZ2FUcFN0SGRoM2Zv?oc=5",
-     "published": "2026-10-30T23:35:25.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEZaVTFCOC1tYmR1NURVdGJxWlB0ZlVhMmtEMEdfUDBJNXZPN1dJSm5YcWlmOXB2emg2UnEyM29PYVcwd0VLX1Zyd0J3WUd1RTRQV2I4Yk5SNGhEV1ZpdG5GTFotMERGSUl2TFlxdEVBUEE3dm5zTHEzaVF4dzhFdEN5bVd5aVRidnlwak45T2pXTDJEUDNQbTh4QVgxd1JrVXJOY0RNTVJManZJVGZmUlROQQ?oc=5",
+     "published": "2026-10-31T00:35:41.000Z"
     },
     {
-     "title": "U.S. stocks close lower",
+     "title": "Female tapir killed after being hit by vehicle",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WSWh1cDVvc0dGY0xKdGxzeFBoZGdScjRFTW9mYUJ5MzNxRFUycmpxeFBnbTdPcGtxMFNTZl9ZNTMwT094d0ktZm1fVmRJcnNaMVhGclFfUU1fMXFiS0RBa1VzdlRKanNqRExEUEpfeEFvWFpBVC1QRU53?oc=5",
-     "published": "2026-10-30T20:12:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQVFSME9iWFFQMlhQUkd3YzduRWN5cU9sNUV1dmRGdmFhdlBIVEdjWFh3T3lGRjc4dXEzb2c5NG5ZZGJ4VU1WcnVHWktiY1lyZDN1T2FjWl94MGU1bVZDWVhWeXdxU0c5bjlLTTVWWDhmTnBiYlltX2JMQkV5T2ZDOWM2bFR0Z3doNnZvejIwcVluSjdubzBVcEk4Rmc?oc=5",
+     "published": "2026-10-31T00:23:26.000Z"
     },
     {
-     "title": "Crude futures settle higher",
+     "title": "Implement symposium resolutions, Forestry Dept urged",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOVUxRVRBVVp2SUNBb3ZVa0pVZHJVR2huYnhUS1IxdVhKTjVDT2F4akg2azV4by1oRjlHclJtMDItc1dHeGpmWkU3YUVvMWhOM0hXRzhBV21yN0kzZmlwZ3dON0ZSdXRMdjMzd3NXazRzLWFtMXU4ZmQxZVA1QkhYMmlR?oc=5",
-     "published": "2026-10-30T19:12:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0tTeVVXN2hqS1dSQl9IbUhINjZiellELXVhdUV3NTh5c0lBam1WTXlLNGd2RFVGcHdsMS01LWFBcm1FUlZQYUFWcGNIcnYxeERGaXc2VWdmNjRfUS1vOG1FNTRDVTV4Rk54T3hZUFpWOUVLdHZhZlRsYnJnSGFOdVRNcU1xUEE2T2tndVoxREMzZERzUk5RSEhLUHZRQjFJVy1V?oc=5",
+     "published": "2026-10-31T00:17:01.000Z"
     },
     {
-     "title": "U.S. dollar ticks down",
+     "title": "More than 100,000 rescue personnel on standby",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxSzd2QUk3YlJpRVdpcWU4VUxLa0c1bDE3UWRfdnhRc2UxcFpPUkw4akFncTZIR2ZrZHBNYkRITGNqQmV1eGxTM1pLZGdQT0pzYlc1Vng0dC1ibWlwWUd3a3RIY21PSlpvQVJBVEtYcG1Rb3d1d3hERQ?oc=5",
-     "published": "2026-10-30T19:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeGZ6RkU1OFhTTFFUM1hfNmhLS2lzaV9mcmJRN2VRb081VFNzUHd1bDE2b0V2NUh5aDFuWlFNaGs3el85TE5pY0ZzYmhsQ0pZOGhUR2sybF9MQTdPalZxdXE2bklmVDhkbGtaUlRDMU5SV2oydTgtNTdWVzBEZnNPekJTRzB2MUQ4X0ZRWkN0X1ZiWFA2QmtnQmhR?oc=5",
+     "published": "2026-10-31T00:10:04.000Z"
     },
     {
-     "title": "Tajikistan projects state budget revenue at 8.7 bln USD in 2027",
+     "title": "Cleaning up Semporna’s waters",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT0pmS25BRTRSWkM2eUF3dklXXzAwTGI4NllKMWluSFgzQWlkdnRYVnZtbnE5X2dnQ0xTelZkRk5PdXJCZVQxcWR6cXJib2gwWFMzOG1OMUE3UTlVMHNhMTdJOU1qdUJxRGJjUzlQckN5SWx4dzVTd0E0WFU2d3V1TTdDV29qdzBLaWxOOGdxeHIwOGd5blpxTWtSM1JPaWctY0R2cGprcGd0UFA2cDdJOQ?oc=5",
-     "published": "2026-10-30T17:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ0QzSzJ5cHNXOUQ5YTlydkdadGg3VldEZ2p5QkNRRjQzZEFkM1pBRUJJTnZ6YlNaSHRabUNuVGsxWVZzSHp0MzdHcVlfQmMwT3VScDdxdXprRmdsMjR1cDdWdzZiWDJ1eHRqbXFKeTVnYXJWLS1ULTk3T3czYlB3VW4zQmJZLTFqMEN2RXFxdXN0N3psTGtxVXJR?oc=5",
+     "published": "2026-10-31T00:03:51.000Z"
     },
     {
-     "title": "Wrestling-Bhanwala becomes first Indian woman to win wrestling world title",
+     "title": "Badminton: Aaron-Roy King, Pang Ron-Pei Jing march into semis to keep European momentum going",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTlkxMHUxR3h6UGI2OFl6WXpQQXgxZkNsZ0JGV0pwWU9UclhQb0ZfMDNOSEZBOHVhYWRUZ0pHRnJOcnZXeF9LWUw5a2xVR3BTeHR2ZXhtZXBNSUlBVlZpejJnNjRMcWYxdG1XbHJqT0QxYmlhaVFDQ1lrS01jT1Y0M29sOWgxaENFcWQ3WTcxMEJpQ0NVdzlDdl9DTkd5RVAxbWxSYU9UaUFQRm1feDB3Q2ZGRVhXNHg5RWtMYzFlVDlqZzl0TFFB?oc=5",
-     "published": "2026-10-30T17:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWXB1Ql9tRW9jbnFpaWowT3dITmhXcWVZcW9XMEZJOU11WWphOFRPR2pEUENfNW9PVGF4bE9aMmxCUGlNRG1WWnhkWW9lajM3dDJJTzVFa2FNclpqRnJzU3VZd3AzVHZHeWRUU2lsa216SC1fS1NhV3RmaGZlTU1zaGx4bE5lOEJfV2ZOdkx0ODB6NGVNX29sRS1CYkk1VFhkTWFXSC1MdkdSV1FheHpybjhTMVExXzZHdlZabmpmM0wtaE93ZmV4YldjSHM5NUE2?oc=5",
+     "published": "2026-10-31T00:00:00.000Z"
     }
    ]
   }
