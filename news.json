@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-01T14:33:26.973Z",
+ "updated": "2026-11-01T15:30:17.713Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Germany blames infiltrators as Gen Z protests turn violent",
+     "brief": "Cost-of-living protests in Germany turned violent on Saturday evening with police using water cannons to disperse crowds and masked rioters smashed shop windows, as officials warn the day of rallies organized by a…",
+     "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
+     "published": "2026-11-01T15:30:17.918Z"
+    },
+    {
      "title": "Bitter spat between Poland’s pro-Europe PM and pro-Trump president erupts",
-     "brief": "Poland is in the throes of a constitutional crisis as a battle over the future of the country’s highest court ignites another confrontation between the country’s president and prime minister,",
+     "brief": "Poland is in the throes of a constitutional crisis as a battle over the future of the country’s highest court ignites another confrontation between the country’s president and prime minister.",
      "link": "https://www.cnn.com/2026/11/01/europe/poland-constitutional-tribunal-tusk-intl",
-     "published": "2026-11-01T14:33:27.156Z"
+     "published": "2026-11-01T15:29:17.954Z"
     },
     {
      "title": "1 dead, 8 injured in shooting after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T14:32:27.191Z"
-    },
-    {
-     "title": "Germany blames infiltrators as Gen Z protests turn violent",
-     "brief": "Cost-of-living protests in Germany turned violent on Saturday evening with police using water cannons to disperse crowds and masked rioters smashed shop windows, as officials warn the day of rallies organized by a…",
-     "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
-     "published": "2026-11-01T14:30:27.188Z"
+     "published": "2026-11-01T15:28:18.080Z"
     },
     {
      "title": "Federal officials investigate suspected arson at beleaguered police department in Mississippi",
      "brief": "A suspected arson Saturday morning damaged the building of a beleaguered police department in Mississippi that has drawn outrage from the community in recent months after an officer shot and killed a 1-year-old,…",
      "link": "https://www.cnn.com/2026/11/01/us/senatobia-mississippi-police-arson-investigation",
-     "published": "2026-11-01T14:29:27.194Z"
+     "published": "2026-11-01T15:26:17.975Z"
     },
     {
      "title": "Election officials brace for foreign threats — and an unpredictable Washington",
      "brief": "With the midterms just days away, the channels for federal officials to communicate foreign threats to election officials are at their weakest since the 2016 vote, numerous sources who work in elections told CNN.",
      "link": "https://www.cnn.com/2026/11/01/politics/election-threats-federal-preparations",
-     "published": "2026-11-01T14:28:27.201Z"
+     "published": "2026-11-01T15:25:17.970Z"
     },
     {
      "title": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear",
      "brief": "From Cleveland to the Outer Banks, the cost-of-living crisis that will decide the midterms, in the words of the people living it.",
      "link": "https://www.cnn.com/2026/11/01/economy/americans-midterm-personal-economics",
-     "published": "2026-11-01T14:27:27.204Z"
+     "published": "2026-11-01T15:24:17.967Z"
     },
     {
      "title": "The story behind Megan Thee Stallion’s elaborately spooky Halloween costume",
      "brief": "Megan Thee Stallion takes her Hottieween very seriously.",
      "link": "https://www.cnn.com/2026/11/01/entertainment/megan-thee-stallion-halloween-costume",
-     "published": "2026-11-01T14:26:27.197Z"
+     "published": "2026-11-01T15:23:17.961Z"
     },
     {
      "title": "Middle East on edge as fears mount the Iran war could restart after the midterms",
@@ -60,22 +60,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "German, Slovak die in suspected electrocution at hotel pool in India",
+     "title": "First two FA-50M aircraft arrive at Kuantan airbase",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NXVGVZUEZnbUVWMkhMZDVDY2ZIVWtWSzRsUkdKeXJnNXBaMmxMcmJwQTdQQlFUdmNWN245aS1WUTB0T1RpZUg0dHlucWlBVEowYWNaS3lpOVdla0pTQnRYa0VDQ1pJaWhhWEJENkZSNWRpdzdrQ2JJY245WXJNR29uWmFabEdBUEMyc1BSR3l1Q2JETzR5ckJCSXlRMEs4VHdCX3ViZVh3aXk1UDhqMGV0QWw4alU?oc=5",
-     "published": "2026-11-01T13:32:00.000Z"
-    },
-    {
-     "title": "Cops probe trespass after group removes inmates from Klang rehab centre",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0NKM044bnlwV1RfcHhwWmV1clppLXAxSkIyVE5UMTY0Wkw5T3BLeENBMlRtMV81QkdHZ25uNmhOMkJuOE42aS1oLXJGT1huaGNvYlZPdWJ6cFhMTlBXVGJsWXFzV3AxcERKUmNNZnZ6d21Vb0xyVWZLMGZPNzMyRlRoenh2MnN1OUh1VWZuZGRQSEQySjl5bERuR0h3Vk5oZzBqX3c0cERtcnJrRnVKUFNiYkN1c0xDVHJxRWhB?oc=5",
-     "published": "2026-11-01T13:32:00.000Z"
-    },
-    {
-     "title": "Top Entertainment stories of the week: HK legends come together; Aaron Kwok turns 61; Ray Lui travels in style",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM0xteXozNGQ1Q19hNnFVTThoeS1PS2FscmtXQ2dUam9ZaVBMUjVYSEhpZ2xLUnZqejZXSkMzNHROa0hvTlktdVZZUXlQZEdkbG1kdnB6MTRYTlR2VlFXaU9xdWIwR0IzY2E1VTFaSEZydW5sT3pnZUNLZVFoeDhlNlkyeXN4dGZJazYtdi10M1dOVHJWYm1MMU4xZGtrLXgzMlcwQnBiZWd3b2hjQUtoOTFlS3duOHpwQWZwYkFMckx0bE01ajROOU04enktVEpSNGxxcmFIX1BTSlJlaWk2bm5paEM2ZXZaWDAtMHRxNVRadWNaVVVXVlRlX0ZNUQ?oc=5",
-     "published": "2026-11-01T13:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWJrNG8wQks3YS1sN2Q0aHJWQlotY0ZYclh5SnY2TG9LLTBCUmhXRTd6dTBwWkVVbV9fd1lyUGltZGJzZnhobnlIbW1DdWVMeHFvOHMzMlFfMVBnODNrNnhfMEpHT0VQWjZ6VXVtVDBUMS1lMF9RTHNEaVp0aXhzWnpUSS13U1NLeV8yVFllb0RoNEtKdzNWUUF0U1czR2VkbHpj?oc=5",
+     "published": "2026-11-01T13:45:00.000Z"
     },
     {
      "title": "PM Anwar makes time to mingle with free helmet recipients at SIC",
@@ -84,10 +72,28 @@
      "published": "2026-11-01T13:14:00.000Z"
     },
     {
+     "title": "Vietnam Airlines diverts to Pakistan as German passenger suffers seizure",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcTFrUE10UHU4OXNrcVJCQksxRkdoMHdpdlFRbmdyT01wX2pTdGJnMDJydF8zWTl2b3g1WUI1V2VXN3hrRFVZb2NqbHg4ZFBPZnktdDl3TWE3Sy1DRXBBZEVIN3p3OXVja2xRMUx2R2RzdHJrRnFVbG9jUEdCUVVJRmRfR25LOHZGRFZjd29HZlNHY3hWUjRSMmVVOXRDd2RudWk1Tk0xZktjRHJKMDBzRURkTEhreEdWSDJqYk5zcC15b3NlNXJESk5hQ3ZyeVhQ?oc=5",
+     "published": "2026-11-01T13:09:00.000Z"
+    },
+    {
      "title": "Latest",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOWlJcExueWRjY3FqVTNIU3ZBbUhkX3FhaUN5azZfb2JKWGppMkw1Q0pENlhIa053dzJ2RXlMbVRVdWRnbDBrYk0yZkVTdFpYYUZERFB5Yk11NU9FWndpUXZLS0w0bmpSSzBoTFpoNTZkZW9semd2SjJsTWxucEtxNjFRcVlwSjloNEE?oc=5",
      "published": "2026-11-01T12:58:34.000Z"
+    },
+    {
+     "title": "Indonesia's forest fire hotspots fall to 96, but peat fire risks persist",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHBtenUtRldCRFd4TlVkUm9NTnQxUlVIOV8yUDlGRHlORVpoa1FoSDNzZ1R0RHNtRU84TmlGOFNLbXNwTld4VFFXWWVzbmR6clB3Z0FtWXhncURFSC1fTmU1Wk9mdUdUVS1IMFlHelppS3V5ZUV1WWJ3RFNiWi1vNldqQWllZU1ZUE1vSzZxSjJ3NWwzcTR3MFc1Wmo5WE82U1UxVU45TnhwM0JzVE5jd1NfM3hMWFhGZ210QVdsRk5UWnMxVENvTjRNZVJCVlNXMmc?oc=5",
+     "published": "2026-11-01T12:50:00.000Z"
+    },
+    {
+     "title": "QuickCheck: Did two men beat up a 60-year-old in front of JB carwash?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYjUzcWF5SXBGWGk3cndiVVF4Q2J2LThEbGdFT1BrVlFQWXdKNV9UZG9ZeUJxaUVmb1ZPMmRuVXFkM0p3MmRYc1prenNTZEh6d2ZudFEtSGREaG9JQXlVaWl3VTF0UzVZUTZZaW9Db3dUQnZxV3pCV1NuWVY0OW5aTEt5cmNHVUg4YmJ1QTlheF9RZnl3QUd0eE9wWVZBRXdwZ1lwSWpkbU9rYTBUTVd2cTM0TVk2dUYxbzJLanFJOA?oc=5",
+     "published": "2026-11-01T12:48:00.000Z"
     },
     {
      "title": "Tennis-Britain's Dart claims first WTA singles title in Guangzhou",
@@ -96,16 +102,10 @@
      "published": "2026-11-01T12:39:00.000Z"
     },
     {
-     "title": "Football: Soccer-Saibari and Gnabry ruled out indefinitely, say Bayern",
+     "title": "Japan's Miyu Yamashita is rightly 'the queen' after creating history defending her Maybank Championship title",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXQtdTNOTFZmdEgwS3BTdXJ2UVFxczJ3TEVIM242TlcyQTVSM1dZZ1lHMVl4a2swSnNZQXdBQzlmcjRJUktFd2JXM0VWbzlrZmVBbHVSd1N5bjZHTUNpYnhqdEpDZ2R6aDFwLXdORmVXTXVIUlNsV244OHVOTDl3U2x5bXY0TDV0Z1hiV0g2R2ZhTF80enFCV0k5ZVNiaHhOeTJZU0NsVmJ1UzMycVBFZzlB?oc=5",
-     "published": "2026-11-01T12:39:00.000Z"
-    },
-    {
-     "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3QyVjVpMHZzS2VRWjRhQ2FyQWJLaHhxNnVKV1dlbXNrOHpBTzNDUF83cGY1OVpwZDVheHJnSFEyVU45cDFBWFMxaWYyQ0hMTjIyM0VJaFJmZE5LcGZlMW5BazQ1N2JzQm5vMFlBUzVXZVN0MEh1NmdKUW5OX0EyN003OWFKaU5YWDF1OUlHbWdjVXJpdWNVTmQ5ekJJNmJ1cHdWYVhhS0JWWnVpN2V4cXNJWWNvcUVmdnB3M2ZpT0ZLcmM?oc=5",
-     "published": "2026-11-01T12:29:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQMWxMR3U0X2JwNDZLT1ZBdmRYVkFKR2dCSkdfYkNUcXBBS1FjQTV0cGFIQ29xenRlYm9pUkV6V2o3Qll1YjUtQ2pzd3lqZDVwNDJBLTZXOFpSbG1RM0dEX0ZTWXlzU0VfU01TTHp4WG9VQWdTZ2pFbmxkX3RYUTkxNmp2TVdlbWZMT19qNGpwd2UtRXZqM0l0OGR3MEFhVk5iSFZFLUJGdE10Mnc5ajl1d2lQX1dSTkFSRFk5aW5ZcGFlZGpra2FxMk5TV3JBcVpMcXl4UkNfLXpEeXRvbHRHTmJuV3FjR1FkZUVCU3lCSHlZMkdySzNzcjF1OGFXNnpIbGRONF85VnpXUQ?oc=5",
+     "published": "2026-11-01T12:13:00.000Z"
     }
    ]
   }
