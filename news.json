@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T03:46:58.225Z",
+ "updated": "2026-11-01T04:46:59.065Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "H5 bird flu detected in dolphin in South Australia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGdzUjNyRWJDOXpvT2dtZGE4TEpGYkdqTnEtOGh4QlYzQWpzWHlvb19MWm9XdzVGSkljd21ON2tPeE5qYlc0b1h2emw0TXFMZjc5VFNZZElRdWlSWXJfZUdYQjY0bUMwaElPVVNndkRGUWNvc3FJcHFXdXUxRDZLYkp1clRzcXpsTkM1MGhkUlFrZVdpcmsxTVpMd1BwbWVMQl9HNHpZZmFDNzVFLUR1VDFCZw?oc=5",
+     "published": "2026-11-01T04:06:00.000Z"
+    },
+    {
+     "title": "Magnitude 6.1 earthquake strikes off Japan's Mie Prefecture",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUZQN2dpWWl4elFUZTNXVldMRFJONmNTSXRIdURoRThQeE9CaGIzbmxyeE5lbFp1cEg4NmV4dDJrMWhFbVB5NVltd2xuYXFLWjFFVnFfamJYWGJYcWdDelA5V2VSbHVwZ3pxRjJHYTJLOTdVQXRwS1dycThGSlBiQmFiekd4MDdLMXUtODNDRm04RjlnM3hIVlBUOFRTRmRrOWZManpiajFBT25RM2EyVU5PLXNxaFFIcUVULS1SUFo?oc=5",
+     "published": "2026-11-01T03:52:00.000Z"
+    },
+    {
      "title": "Brunei spelling champions crowned after final showdown",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ0tBcWwwdjR1ZEV6SzYtRGI4Z2ZCY01MUUJsLW5Ud1VPbFRYUmExU3ktNFZHOGE1YkI4dzdKalB0ZC1icjB4cW5vbncta2xBSmdPZDU4d1B5aU9YQ1R6c2VUSHZXU01PblpnYktQNTA4cjRvNms1amxlemQ4QlRlY05pZzBmVU5jUmhwUjREQ1I0NDhEMl9xN0l3V2pUWmxBeTZIZzJVa1RaNkdwRVZJLV93aEhIdEI1?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDhkWk02eDRybnd6cTNxeVlZb05SSWw3SGNhcGJBVUtZUWtMZWJXTDZmcXhMNVc4eUtiaWFRWWlJOEJuZ0NFc2hVYzhwYUM3YXluZzB3V3paaVdxc19Yd2hqcGt3NFJqV2JHbldGMEFGRFBoaUpTQUF2NEtwM2J2SFo2Zi0zNVh6VEZUWVpuMktQS1dQdDg0cVM4dHZIb0FGeGxLbF8yVUE0am5zeDVEN19ySXY?oc=5",
      "published": "2026-11-01T00:40:00.000Z"
-    },
-    {
-     "title": "Gaming rules need careful approach",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcDhRMGZjWEFSVEU1cF9rbWZsTkhlYl9CeS0xTnpyZ0d0MGFFWVdvX0xrUTZwMUNtQ01oZnpudkJfUHFFU2E5YTRqS2NxTGhTSU9ZbnF4MVNLNjExeEg1a3VxN0NDcE1hVW9DWEd2QVNtZTJOd3d2QVRoNjlRUGlvQTF1ZGFtX0VwZTRELTM4S0E?oc=5",
-     "published": "2026-11-01T00:32:19.000Z"
-    },
-    {
-     "title": "Character comes first, say esports stars",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNnR2RjhNNzdwTFhVc3NObGFjMkx1TnpFak5FYkQyenlNNDBLOTFrYW5jQ01oVmxGYk5jbHRDVUtCdS1xUXlUZ05McXlaSEVfeXBiejY3WEFVUzRWMEstcnFBZVRwSmtmX1BDcnJDNW1WeDliNklCOFlzY1NTNlZwVS1PY1duaUtqLTQ2cFdpMlA4Ni0xZU53?oc=5",
-     "published": "2026-11-01T00:32:19.000Z"
     }
    ]
   }
