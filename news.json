@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:37:15.683Z",
+ "updated": "2026-11-01T19:35:42.258Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,49 +9,49 @@
      "title": "1 dead, 8 injured in shooting after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T18:37:15.931Z"
+     "published": "2026-11-01T19:35:42.457Z"
     },
     {
      "title": "Sen. Chris Murphy hospitalized with stroke and expected to make full recovery, his team says",
      "brief": "Democratic Sen. Chris Murphy has been hospitalized after experiencing a stroke and is expected to make a full recovery, his team announced Sunday.",
      "link": "https://www.cnn.com/2026/11/01/politics/chris-murphy-stroke",
-     "published": "2026-11-01T18:36:15.992Z"
-    },
-    {
-     "title": "Judge throws out DOJ attempt to delay certification of Alaska Senate race",
-     "brief": "A federal judge on Sunday threw out the Justice Department’s lawsuit seeking to segregate ballots and delay certification of Alaska’s Senate race, the latest legal rebuke to a rash of Trump administration attempts to…",
-     "link": "https://www.cnn.com/2026/11/01/politics/alaska-senate-judge-ruling",
-     "published": "2026-11-01T18:35:15.994Z"
+     "published": "2026-11-01T19:34:42.505Z"
     },
     {
      "title": "The last-minute surprises and sideshows of the 2026 campaign",
      "brief": "The 2026 midterm elections mostly revolve around deeply serious business.",
      "link": "https://www.cnn.com/2026/11/01/politics/midterm-election-cheesecake-factory",
-     "published": "2026-11-01T18:34:15.981Z"
+     "published": "2026-11-01T19:33:42.537Z"
     },
     {
      "title": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off",
      "brief": "A suspect allegedly planning a terror attack on a major Moscow museum was arrested by Russian authorities after a tip-off from the United States, Russia’s security agency FSB announced on Sunday.",
      "link": "https://www.cnn.com/2026/11/01/europe/russia-terror-attack-us-warning-intl",
-     "published": "2026-11-01T18:33:15.996Z"
+     "published": "2026-11-01T19:32:42.546Z"
     },
     {
      "title": "A record number of health professionals are running for office. Could they help heal US politics?",
      "brief": "At least 125 doctors, nurses and public health experts are on the ballot for Tuesday’s midterm elections — an unprecedented number from fields that historically offered fewer paths to elected office than boardrooms…",
      "link": "https://www.cnn.com/2026/11/01/health/health-candidates-midterms",
-     "published": "2026-11-01T18:32:16.001Z"
+     "published": "2026-11-01T19:31:42.526Z"
     },
     {
      "title": "4 killed, about 15 injured after multiple overnight shootings in Dallas neighborhood, police say",
      "brief": "Four people were killed and approximately 15 others were injured after multiple overnight shootings in one of Dallas’ vibrant nightlife neighborhoods, police said.",
      "link": "https://www.cnn.com/2026/11/01/us/dallas-halloween-night-shootings",
-     "published": "2026-11-01T18:31:15.987Z"
+     "published": "2026-11-01T19:30:42.511Z"
     },
     {
      "title": "Binance withdrawals resume following $6 billion hack",
      "brief": "Binance, the world’s largest cryptocurrency exchange, said it has resumed withdrawals after a record $6.3 billion was stolen from its digital wallets last week .",
      "link": "https://www.cnn.com/2026/11/01/business/binance-withdrawals-crypto-heist",
-     "published": "2026-11-01T18:30:15.999Z"
+     "published": "2026-11-01T19:29:42.513Z"
+    },
+    {
+     "title": "Democratic leaders enter the midterms ‘confident and paranoid’",
+     "brief": "No part of a rolling, decadelong existential crisis is ever easy, even when things seem on the cusp of going well — and especially when Democrats have had their hopes raised and dashed so many times.",
+     "link": "https://www.cnn.com/2026/11/01/politics/democrats-midterms-hakeem-jeffries",
+     "published": "2026-11-01T19:28:42.533Z"
     }
    ]
   },
@@ -59,12 +59,6 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
-    {
-     "title": "Four killed in car accident in northwestern Spain",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPam8xZkFhbGRwOWFYbHhGTTRtNXd4Z0t0cFdaa1BCNG1KdFpPSTRpMzltMmVnbk5zLXFhV1p0OVNMY3JWWTdScERWVzZPWGJhSzVER09VSWhzaXJybmNsdm5pcVdUcnItVHZQYWhHeUlMaHVXa0VmTjhZRm1kWXVNRXE1VkhGQ1Z1X3NBRkU1UXp0bzZpb2hEY0ZPcXJmdXc?oc=5",
-     "published": "2026-11-01T16:41:00.000Z"
-    },
     {
      "title": "Views - Metro",
      "brief": "",
@@ -106,6 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcTFrUE10UHU4OXNrcVJCQksxRkdoMHdpdlFRbmdyT01wX2pTdGJnMDJydF8zWTl2b3g1WUI1V2VXN3hrRFVZb2NqbHg4ZFBPZnktdDl3TWE3Sy1DRXBBZEVIN3p3OXVja2xRMUx2R2RzdHJrRnFVbG9jUEdCUVVJRmRfR25LOHZGRFZjd29HZlNHY3hWUjRSMmVVOXRDd2RudWk1Tk0xZktjRHJKMDBzRURkTEhreEdWSDJqYk5zcC15b3NlNXJESk5hQ3ZyeVhQ?oc=5",
      "published": "2026-11-01T13:09:00.000Z"
+    },
+    {
+     "title": "Indonesia's forest fire hotspots fall to 96, but peat fire risks persist",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZHBtenUtRldCRFd4TlVkUm9NTnQxUlVIOV8yUDlGRHlORVpoa1FoSDNzZ1R0RHNtRU84TmlGOFNLbXNwTld4VFFXWWVzbmR6clB3Z0FtWXhncURFSC1fTmU1Wk9mdUdUVS1IMFlHelppS3V5ZUV1WWJ3RFNiWi1vNldqQWllZU1ZUE1vSzZxSjJ3NWwzcTR3MFc1Wmo5WE82U1UxVU45TnhwM0JzVE5jd1NfM3hMWFhGZ210QVdsRk5UWnMxVENvTjRNZVJCVlNXMmc?oc=5",
+     "published": "2026-11-01T12:50:00.000Z"
     }
    ]
   }
