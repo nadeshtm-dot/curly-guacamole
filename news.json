@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-01T16:33:18.334Z",
+ "updated": "2026-11-01T17:29:46.665Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Hero teacher who tackled Bend gunman speaks out as community prepares to reopen school",
-     "brief": "A teacher hailed as a hero for her quick action to help stop the gunman who carried out the school shooting in Bend, Oregon, last month is speaking out about her experience as the community prepares to send its…",
-     "link": "https://www.cnn.com/2026/11/01/us/bend-oregon-hero-teacher",
-     "published": "2026-11-01T16:33:18.507Z"
+     "title": "4 killed, about 15 injured after multiple overnight shootings in Dallas neighborhood, police say",
+     "brief": "Four people were killed and approximately 15 others were injured after multiple overnight shootings in one of Dallas’ vibrant nightlife neighborhoods, police said.",
+     "link": "https://www.cnn.com/2026/11/01/us/dallas-halloween-night-shootings",
+     "published": "2026-11-01T17:29:46.869Z"
     },
     {
-     "title": "Germany blames infiltrators as Gen Z protests turn violent",
-     "brief": "Cost-of-living protests in Germany turned violent on Saturday evening with police using water cannons to disperse crowds and masked rioters smashed shop windows, as officials warn the day of rallies organized by a…",
-     "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
-     "published": "2026-11-01T16:32:18.524Z"
+     "title": "Russia’s security service detains a teenager planning a ‘terror attack’ after a US tip-off",
+     "brief": "A suspect allegedly planning a terror attack on a major Moscow museum was arrested by Russian authorities after a tip-off from the United States, Russia’s security agency FSB announced on Sunday.",
+     "link": "https://www.cnn.com/2026/11/01/world/russia-terror-attack-us-warning-intl",
+     "published": "2026-11-01T17:28:47.045Z"
     },
     {
-     "title": "Bitter spat between Poland’s pro-Europe PM and pro-Trump president erupts",
-     "brief": "Poland is in the throes of a constitutional crisis as a battle over the future of the country’s highest court ignites another confrontation between the country’s president and prime minister.",
-     "link": "https://www.cnn.com/2026/11/01/europe/poland-constitutional-tribunal-tusk-intl",
-     "published": "2026-11-01T16:31:18.512Z"
+     "title": "Binance withdrawals resume following $6 billion hack",
+     "brief": "Binance, the world’s largest cryptocurrency exchange, said it has resumed withdrawals after a record $6.3 billion was stolen from its digital wallets last week .",
+     "link": "https://www.cnn.com/2026/11/01/business/binance-withdrawals-crypto-heist",
+     "published": "2026-11-01T17:27:46.932Z"
+    },
+    {
+     "title": "Democratic leaders enter the midterms ‘confident and paranoid’",
+     "brief": "No part of a rolling, decadelong existential crisis is ever easy, even when things seem on the cusp of going well — and especially when Democrats have had their hopes raised and dashed so many times.",
+     "link": "https://www.cnn.com/2026/11/01/politics/democrats-midterms-hakeem-jeffries",
+     "published": "2026-11-01T17:26:46.914Z"
+    },
+    {
+     "title": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+     "brief": "In early October, AI giant Anthropic inserted new language into its AI usage policy.",
+     "link": "https://www.cnn.com/2026/11/01/business/anthropic-dont-be-mean-claude-ban",
+     "published": "2026-11-01T17:25:46.919Z"
+    },
+    {
+     "title": "A field guide to the conspiracy theories you’ll likely see on Election Day",
+     "brief": "It’s the most important day in American democracy.",
+     "link": "https://www.cnn.com/2026/11/01/politics/conspiracy-theories-election-day-field-guide",
+     "published": "2026-11-01T17:24:46.927Z"
     },
     {
      "title": "1 dead, 8 injured in shooting after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T16:30:18.574Z"
+     "published": "2026-11-01T17:23:46.937Z"
     },
     {
-     "title": "Federal officials investigate suspected arson at beleaguered police department in Mississippi",
-     "brief": "A suspected arson Saturday morning damaged the building of a beleaguered police department in Mississippi that has drawn outrage from the community in recent months after an officer shot and killed a 1-year-old,…",
-     "link": "https://www.cnn.com/2026/11/01/us/senatobia-mississippi-police-arson-investigation",
-     "published": "2026-11-01T16:28:18.551Z"
-    },
-    {
-     "title": "Election officials brace for foreign threats — and an unpredictable Washington",
-     "brief": "With the midterms just days away, the channels for federal officials to communicate foreign threats to election officials are at their weakest since the 2016 vote, numerous sources who work in elections told CNN.",
-     "link": "https://www.cnn.com/2026/11/01/politics/election-threats-federal-preparations",
-     "published": "2026-11-01T16:27:18.562Z"
-    },
-    {
-     "title": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear",
-     "brief": "From Cleveland to the Outer Banks, the cost-of-living crisis that will decide the midterms, in the words of the people living it.",
-     "link": "https://www.cnn.com/2026/11/01/economy/americans-midterm-personal-economics",
-     "published": "2026-11-01T16:26:18.571Z"
-    },
-    {
-     "title": "Middle East on edge as fears mount the Iran war could restart after the midterms",
-     "brief": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and the United…",
-     "link": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "Hero teacher who tackled Bend gunman speaks out as community prepares to reopen school",
+     "brief": "A teacher hailed as a hero for her quick action to help stop the gunman who carried out the school shooting in Bend, Oregon, last month is speaking out about her experience as the community prepares to send its…",
+     "link": "https://www.cnn.com/2026/11/01/us/bend-oregon-hero-teacher",
+     "published": "2026-11-01T17:22:46.935Z"
     }
    ]
   },
@@ -59,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Russia's FSB says minor detained over park attack threat after US tip-off",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWWFUcFFPblJkWWViamdVd2ppdFR2U0o4Q1BHVTBCaHVyUE9nTWV2NlJIb3Z5amIzaW5ZU3lRU3FhRnBPZDdJVnVyazlGdnktQ1NRdXpzWktpX0N5RkM3RTlxVFhldTlxYmUyUWgtdmJ4LXk5SW9KRkVvNVNpcHdfLURWQUxnNHlkeUpCQjhZZWhjOTFKSjhPN3pwRDJ5RUV1RENvRk9iRF8zSjJRVW9nUmh3OTlIakRmd2czYTVVdGFqdw?oc=5",
+     "published": "2026-11-01T17:11:00.000Z"
+    },
+    {
+     "title": "Four killed in car accident in northwestern Spain",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPam8xZkFhbGRwOWFYbHhGTTRtNXd4Z0t0cFdaa1BCNG1KdFpPSTRpMzltMmVnbk5zLXFhV1p0OVNMY3JWWTdScERWVzZPWGJhSzVER09VSWhzaXJybmNsdm5pcVdUcnItVHZQYWhHeUlMaHVXa0VmTjhZRm1kWXVNRXE1VkhGQ1Z1X3NBRkU1UXp0bzZpb2hEY0ZPcXJmdXc?oc=5",
+     "published": "2026-11-01T16:41:00.000Z"
+    },
+    {
+     "title": "Chinese experts train Tanzanian media professionals in AI applications",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaktvQU5mSzhMcHpiMkNfeU5DZUtla2pCelhiQllHNHY4d2hvZXllN2JQN0xUcWl3RmlDMVlQaDJGWGpXZDVEckVxT1V2bV9xUVBYdDJ6ZzF4Y014dGhtX2FOSUhqVzc4X2JfblB2aXZPMnhQNEFxTHFYRzlzaGRMeC0teVBKVmtua1NPOThSd1luNTFtai0tX252RE1nekkwRGhtQ0U1UHRHcjZweE9nUXZyNmJzTUFQN3ZB?oc=5",
+     "published": "2026-11-01T16:26:00.000Z"
+    },
+    {
+     "title": "Athletics-Kenyan Chepkirui takes back NYC Marathon title",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQS3c1SXJyRzVoM3lhbERzUzE2eF9BMmprVXNaSkpwdkZTWXNFOU5SeV9taWlyRlFzNEpLYWdnZHo1VXlDYkdhUzFRbFVIRnZyME90b0tsNU9rWnhFb0w1ZEJkU2FTb1k0Rkx3UXVPdFdFSVBFb0ZhNWpJcjFQSnlvWlBOMjQ4WTlrcERZcWNBeVZGTFBqU1BNX01ySnBLUHYwNjFhdDVVckZhcG5fbTV3?oc=5",
+     "published": "2026-11-01T16:26:00.000Z"
+    },
     {
      "title": "Football: Soccer-Sharp reverses retirement and joins eighth-tier AFC Rushden",
      "brief": "",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNd0NKM044bnlwV1RfcHhwWmV1clppLXAxSkIyVE5UMTY0Wkw5T3BLeENBMlRtMV81QkdHZ25uNmhOMkJuOE42aS1oLXJGT1huaGNvYlZPdWJ6cFhMTlBXVGJsWXFzV3AxcERKUmNNZnZ6d21Vb0xyVWZLMGZPNzMyRlRoenh2MnN1OUh1VWZuZGRQSEQySjl5bERuR0h3Vk5oZzBqX3c0cERtcnJrRnVKUFNiYkN1c0xDVHJxRWhB?oc=5",
      "published": "2026-11-01T13:32:00.000Z"
-    },
-    {
-     "title": "German, Slovak die in suspected electrocution at hotel pool in India",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NXVGVZUEZnbUVWMkhMZDVDY2ZIVWtWSzRsUkdKeXJnNXBaMmxMcmJwQTdQQlFUdmNWN245aS1WUTB0T1RpZUg0dHlucWlBVEowYWNaS3lpOVdla0pTQnRYa0VDQ1pJaWhhWEJENkZSNWRpdzdrQ2JJY245WXJNR29uWmFabEdBUEMyc1BSR3l1Q2JETzR5ckJCSXlRMEs4VHdCX3ViZVh3aXk1UDhqMGV0QWw4alU?oc=5",
-     "published": "2026-11-01T13:32:00.000Z"
-    },
-    {
-     "title": "Top Entertainment stories of the week: HK legends come together; Aaron Kwok turns 61; Ray Lui travels in style",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM0xteXozNGQ1Q19hNnFVTThoeS1PS2FscmtXQ2dUam9ZaVBMUjVYSEhpZ2xLUnZqejZXSkMzNHROa0hvTlktdVZZUXlQZEdkbG1kdnB6MTRYTlR2VlFXaU9xdWIwR0IzY2E1VTFaSEZydW5sT3pnZUNLZVFoeDhlNlkyeXN4dGZJazYtdi10M1dOVHJWYm1MMU4xZGtrLXgzMlcwQnBiZWd3b2hjQUtoOTFlS3duOHpwQWZwYkFMckx0bE01ajROOU04enktVEpSNGxxcmFIX1BTSlJlaWk2bm5paEM2ZXZaWDAtMHRxNVRadWNaVVVXVlRlX0ZNUQ?oc=5",
-     "published": "2026-11-01T13:15:00.000Z"
-    },
-    {
-     "title": "PM Anwar makes time to mingle with free helmet recipients at SIC",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSlppZUVmeHRiekl6UmdxNEl6bXVIWXZKX2ZtcGhTMTZkZzI4Ym1oUVc5NkYxYXpHN3pvQ0xzaHdlYkJoOVF6cmdibHJZOW12MVg4dk9WX05YNGI4dVNMY0ZkRGdRM3ROZzlxRGttdkV6NHZGbjVoalBOY292Q3RHZUYzWC1wX09wTFlYOVppemoyMnd6aEFZREJsZm5mc01GOW5JMlg3SVIyRFhGRE5kYWZMOC0?oc=5",
-     "published": "2026-11-01T13:14:00.000Z"
-    },
-    {
-     "title": "Vietnam Airlines diverts to Pakistan as German passenger suffers seizure",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcTFrUE10UHU4OXNrcVJCQksxRkdoMHdpdlFRbmdyT01wX2pTdGJnMDJydF8zWTl2b3g1WUI1V2VXN3hrRFVZb2NqbHg4ZFBPZnktdDl3TWE3Sy1DRXBBZEVIN3p3OXVja2xRMUx2R2RzdHJrRnFVbG9jUEdCUVVJRmRfR25LOHZGRFZjd29HZlNHY3hWUjRSMmVVOXRDd2RudWk1Tk0xZktjRHJKMDBzRURkTEhreEdWSDJqYk5zcC15b3NlNXJESk5hQ3ZyeVhQ?oc=5",
-     "published": "2026-11-01T13:09:00.000Z"
     }
    ]
   }
