@@ -1,119 +1,71 @@
 {
- "updated": "2026-11-01T11:29:37.816Z",
+ "updated": "2026-11-01T12:42:20.853Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Election officials brace for foreign threats — and an unpredictable Washington",
-     "brief": "With the midterms just days away, the channels for federal officials to communicate foreign threats to election officials are at their weakest since the 2016 vote, numerous sources who work in elections told CNN.",
-     "link": "https://www.cnn.com/2026/11/01/politics/election-threats-federal-preparations",
-     "published": "2026-11-01T11:29:38.100Z"
+     "title": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear",
+     "brief": "From Cleveland to the Outer Banks, the cost-of-living crisis that will decide the midterms, in the words of the people living it.",
+     "link": "https://www.cnn.com/2026/11/01/economy/americans-midterm-personal-economics",
+     "published": "2026-11-01T12:42:20.958Z"
     },
     {
-     "title": "Italian taxpayers are paying millions to keep Russian yachts afloat",
-     "brief": "An expensive floating eyesore has marred views in the port of Trieste, northern Italy, for more than four years, and it is costing Italian taxpayers millions to maintain, the city’s mayor says.",
-     "link": "https://www.cnn.com/2026/11/01/europe/italy-russian-superyachts-sanctions-taxpayers-intl",
-     "published": "2026-11-01T11:28:38.152Z"
+     "title": "1 dead, 8 injured in shooting after college football game in Alabama",
+     "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
+     "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
+     "published": "2026-11-01T12:41:21.009Z"
     },
     {
-     "title": "Golden State Valkyries make history with first WNBA title in the team’s second year of existence",
-     "brief": "The Golden State Valkyries made history on Saturday, clinching the franchise’s first WNBA championship with a 68-63 Game 7 win over the Atlanta Dream.",
-     "link": "https://www.cnn.com/2026/10/31/sport/valkyries-dream-wnba-finals-game-7",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "The story behind Megan Thee Stallion’s elaborately spooky Halloween costume",
+     "brief": "Megan Thee Stallion takes her Hottieween very seriously.",
+     "link": "https://www.cnn.com/2026/11/01/entertainment/megan-thee-stallion-halloween-costume",
+     "published": "2026-11-01T12:40:21.011Z"
     },
     {
-     "title": "Judge tosses Trump’s lawsuit against Wall Street Journal again, this time for good",
-     "brief": "A federal judge on Saturday again dismissed President Donald Trump’s defamation lawsuit against The Wall Street Journal over its reporting on a lewd birthday letter to Jeffrey Epstein bearing Trump’s name.",
-     "link": "https://www.cnn.com/2026/10/31/media/trump-wall-street-journal-murdoch-lawsuit-dismissed",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "Flock was founded in Atlanta. Thousands of cameras later, the company is getting pushback in its hometown",
+     "brief": "When Alex Wittlin makes the 6-mile drive home every day from his workplace near Atlanta, 22 eyes follow him.",
+     "link": "https://www.cnn.com/2026/11/01/us/flock-cameras-atlanta-privacy-backlash",
+     "published": "2026-11-01T12:39:21.015Z"
     },
     {
-     "title": "Top Kennedy Center official urged closure due to financial problems, not poor conditions, lawyers argue",
-     "brief": "Eighteen months after President Donald Trump stepped in to remake the John F.",
-     "link": "https://www.cnn.com/2026/10/31/politics/kennedy-center-court-documents",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "The Cheesecake Factory can’t get enough of the Gen Z ‘Tuscan moms’",
+     "brief": "It’s always going to be 2006 at the Cheesecake Factory.",
+     "link": "https://www.cnn.com/2026/11/01/business/cheesecake-factory-tuscan-moms",
+     "published": "2026-11-01T12:38:20.999Z"
     },
     {
-     "title": "Protests spread to Germany as hundreds of thousands march again in France",
-     "brief": "Cost-of-living protests that began in France have spread to Germany where demonstrations to coincide with Halloween took place on Saturday, with tens of thousands of people turning out across the country.",
-     "link": "https://www.cnn.com/2026/10/31/europe/protests-europe-germany-halloween-intl",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "Spoiler candidate, Cheesecake Factory and sibling rivalry: Recounting the many late 2026 midterm sideshows",
+     "brief": "The 2026 midterm elections mostly revolve around deeply serious business.",
+     "link": "https://www.cnn.com/2026/11/01/politics/midterm-election-cheesecake-factory",
+     "published": "2026-11-01T12:37:21.013Z"
     },
     {
-     "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
-     "brief": "Dmytro had not seen his wife Larisa for 1,711 days.",
-     "link": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "Obamacare continues to shrink as enrollment opens for 2027",
+     "brief": "Holly Hendricks, who is battling an autoimmune disease that leaves her with open wounds down to the muscle, did everything she could to maintain her Affordable Care Act coverage after the enhanced premium subsidies…",
+     "link": "https://www.cnn.com/2026/11/01/politics/obamacare-continues-to-shrink-as-enrollment-opens-for-2027",
+     "published": "2026-11-01T12:36:21.003Z"
     },
     {
-     "title": "Pregnant woman killed, 6 others wounded in targeted shooting at California Spirit Halloween store, police say",
-     "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California, on Friday night, police said.",
-     "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
-     "published": "2026-10-31T12:00:00.000Z"
+     "title": "How to follow along with CNN’s election coverage",
+     "brief": "Millions of voters will cast their ballots Tuesday in an election that will decide the balance of power in Congress and set the tone for President Donald Trump’s remaining two years in the White House.",
+     "link": "https://www.cnn.com/2026/11/01/politics/midterms-cnn-election-coverage",
+     "published": "2026-11-01T12:35:21.007Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Cricket-Seifert guides New Zealand to consolation win over India in fifth T20I",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC1JSm1RTjJEYlV0SGlKSjMwLUpxX1VZRkZsUkpGckVEU1VIelNkUnluVzFFMVBHLVQ1ZTZydXhIZlp0QThGeldPX0FJaFNHMXI4UUpJUl9VcnZleHMzLXJaOFB5emoteW43TWppNUpyOG50QjJkRnRNbTloTjNvRHNubVM1MnVLa1F2LTFNMTdtLVV2S1I1RUxJa3d4Q2toTDI1eVdrbnM5YTdSemJmblJsZzNtMER1UENCcC1LY1RXVzBsemd2bHlR?oc=5",
-     "published": "2026-11-01T11:12:00.000Z"
-    },
-    {
-     "title": "Five people injured after car hits pedestrians near autumn foliage spot in Japan's Miyagi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTDgwNkJ5cVREU195NGJHUTJtUTk3OTd2YXFNTW1jb2dSYUVPWVRSaVcxa282RVJzS3pCSmNwb0pHS3RDNm9OU1pDZGlmdjl5dmlWWXJxUHhKOTFWN0tjQkNRQkNuaWJraUhISzc3STNEZzNFUnB3T2xjdkJRYU0ydlFvaFAyUldIbDJtUHQ1bGt4M0YzQ2NyTU5CM1NXdDV6bGRrZ0Q2d3JGZnAwYWZhT2ZPUUx5MHNWbExSMzZtcURBbW1pV25TeGRwcUdYalFpZjBaUjJYQ3hKNG9QZjNrVTNBdFVEc09Ja1E?oc=5",
-     "published": "2026-11-01T11:08:00.000Z"
-    },
-    {
-     "title": "Man dies during running event in Putrajaya",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaE5VRjZNd1Z2azJVZy1ILTVKb1YyZGc5Rl81emhtMXc0STg2c2NlZC04S2dBYTJRWTZSWGhiREhmS29Ic1FPbkpzSjVYa0VtenBCdmZvMXdHaUFjSWZjaWI1V2FzNHdFUDZnTE1FUUdnYjJJeVVYNkYwVmZrR25GTGZuQkhBZmczNmNNZnhUektfcWp5Ni1v?oc=5",
-     "published": "2026-11-01T10:39:00.000Z"
-    },
-    {
-     "title": "Five killed in fresh ethnic violence in India's Manipur state",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQczBkZjJFWlZDUHQ0NzBDUk1KSWxGQkdSNlJEdGNNX3JRVjAxZDJVVGU5aTN3U3FuWklJRXNaejhCb09XaGY5VW1FVUYzN1hCMUFwSDZKc3hSSGw5VVpVYWh0UW1zUXlZLTlxZ2hGM2Nsd0QwWmVkeVJ3OFdzN0Fac19NZGdxWUx0Z2hWQU1yWmlMR3k5c2kzLWNBSGFWSWR6WHhmeEhzckdHZk9sOUI5aUt3?oc=5",
-     "published": "2026-11-01T09:45:00.000Z"
-    },
-    {
-     "title": "Over 400 people nabbed in KL nightclub raid",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2tBd3Nvc1hhNldLRWU4WWhlTEJMZ1BULUhudHhDSXhicVlNc21lRkI1aTQybzVhbnZHWGwwTkpLZnRjUnhmUmVid3F4VVJrZEV2WWpmbHY4TkVmdnZjSVFBUlR6WDNOY1hwYmMwdGozcEpfN1hKRVZobGFiS0F6RU9fVUdMZ2tnS1NmTFJCbE9NNlJVb2FtSQ?oc=5",
-     "published": "2026-11-01T09:39:00.000Z"
-    },
-    {
-     "title": "Bulgaria votes in presidential runoff after tight first round",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORjI3dXdtWERLLUhhLWVfa2pTRU84cTBJalk3NWZCVURhUW5xOHFkV1NNS1ZJNFllQlZzWnQzUkFaVFZMUnVURXZfenNRZUdicG1ac2ZsdFdZNXlSaktjSndmNElSTG05QmRjV2Q3RUJqZlVnMnhMcEk3ckZGQ3phVjF6SGNuTXNUeFNCOTItaW5tN050cExRRVlyQzIyY3ZiT3l4TTI0T2pENVJzbkNV?oc=5",
-     "published": "2026-11-01T08:50:00.000Z"
-    },
-    {
-     "title": "Cops arrest three after raiding suspected gambling den",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMndmSmJkY00tc1RGczZIdkdianMzTV91N0h5dWl2ZWgtTEQ5S0FVbUZTZWxHWEo1R0dEc2VkeFV2RTFia0VvZGlWenRMcEp1TXlqdWYteldYYzhvX0xSMTFRQzJRdDA0cW4tcU1FWjdSay1XSWYyRG5oZXg5WWdPY043M1FkU2REMThHVUFodlNPZmluejlTZkE0TjZrQlVQS1cxaXMxUQ?oc=5",
-     "published": "2026-11-01T08:08:00.000Z"
-    },
-    {
-     "title": "Myanmar moves to channel migrant remittances through official banking systems",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNREZoTUt2UlBKM3k1cXN6S2JXYWlxbmEwTFVoMTVReE50eUtjQVM2VkFVUVRETW9oejhrSXRTYmlfZ1lYck9Zazh2S0ZoQjM3ZzlyM0xOUHRXVWZkbFE0R3p4ZkdyenI2MVNJVnc3cGpxRzVWVC1fNzJCNzBTX2NlQTRiU3NMTk8xNjJuUzBGOVRjUUVNd19VWml4UU1jbXR1bWE5a1JJZmhpOEJNaDNKcHUzbnBXM0lVN2RxeTdqdHFRUG1fV2FGV1ZQSmI1TEc0ZVdQSFducw?oc=5",
-     "published": "2026-11-01T07:07:00.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
