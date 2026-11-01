@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T00:53:56.409Z",
+ "updated": "2026-11-01T01:56:38.588Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,6 +60,12 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "UK PM Burnham says he is 'open' to formal apology for slavery, but rules out reparations",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYlBCSDZGMWNSZ3NYYTQ4bVhnaXlrRUdnbXlFZlVNRmtjMVJ3NnpmUldNZEJuVlp4VDFSeXNNYXBvVlRJaU5pNERSejEwcGstVzF1V1V3aTVVRHc1SzlCNjlqLUVQV2pIcGhnOFU1Ny1Hd0k4Mkt2MEFtV1pWNmV5RmNXQ1o2WUZxUUF0dkdXZkdDNTVwMGpOa2VNWXU1VnpBY1VLZmJkZ2ozYmdlemVXdE9SZS1SRjVlV3pjX0lvUF8ySjgzMXRjZUxLZ3pOd2pqZlFWN1Ricw?oc=5",
+     "published": "2026-11-01T01:21:00.000Z"
+    },
+    {
      "title": "Other Sports: Horse racing-Sovereignty returns to win Breeders' Cup Classic",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZDhkWk02eDRybnd6cTNxeVlZb05SSWw3SGNhcGJBVUtZUWtMZWJXTDZmcXhMNVc4eUtiaWFRWWlJOEJuZ0NFc2hVYzhwYUM3YXluZzB3V3paaVdxc19Yd2hqcGt3NFJqV2JHbldGMEFGRFBoaUpTQUF2NEtwM2J2SFo2Zi0zNVh6VEZUWVpuMktQS1dQdDg0cVM4dHZIb0FGeGxLbF8yVUE0am5zeDVEN19ySXY?oc=5",
@@ -78,6 +84,18 @@
      "published": "2026-11-01T00:32:19.000Z"
     },
     {
+     "title": "Activist’s jail term extended to over 34 years",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX0NpSFZfQ3d2X2JaZGJPTk8zaUZTMF9qaFRRRVdWVnVUVlJXcUU4TEdhV0dxWHkwMlhqMWVOV3UzMHdPbm1tTXprSjgyNDZBQWhSRUY0aWNSVlJQd09GUFlaMXYyU2RqOXdFSG9NbG9vREI1MU9aQ3VTTndROWRPV19iaVJuTy1LUERxcXRsODRtd1JlcVJYQlRYWGpKZ1g4ZjhJazhfcGo1UW4y?oc=5",
+     "published": "2026-11-01T00:22:22.000Z"
+    },
+    {
+     "title": "Tokyo wants Moscow to release journalist",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmxfX2ZNTmtZNFFkVVl1QTBhOThYdlk5TXdiQWM5NjNPX3phRjZpX3ZWQnpQTjNDcEttaFFEcm1mT0JVaHNfT1c1enY3Rlg5ZjBEYlA0dmM2RS1VY2tINUFHU1UzTXdoVllSQjZoNDl3aEIwNTBydktHUmJwSlFaOXN6dWpHQU9XbzFPYVBzbkM4UWdIWmhmWWQyTXprVlpyNEJuU2xR?oc=5",
+     "published": "2026-11-01T00:22:22.000Z"
+    },
+    {
      "title": "Beyond likes and shares",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONkFpak5rXy1MSk9ELWx4VzFHZ0NqWUZHa0JMY1RaalFrdW5oZDJhM0d0VXcyMUdXdllUU1JpMWplMldpYzVGNnBIbklWcWtIWVpQaDVITHhvd1pUTTJIR3AtWEgwVUtmRVR2VnFrM2RKSVVPdEk2RlBseE5zZ0dwZGNB?oc=5",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRU1XRS1jRTNZdk9xMHF0RHd4bVBOLTlRb2Z6dVFZWXBMSkR6bGFJZ2R4WXZ5bEVzYk9BUlYzUElHVzdZenZLYVFsLWpIMTd6bF9MQkhnTlkzZ3FLNk5rcS1QcklrMjZWa2ZQRlVzZXVTcFZ5aWhFdzloVnNuWU81NGw0T1prWGxkbzY3Wnd4R3B5NlhyWVVwcDZvU1k1R2RUbXduTnFyREpfNWw2LUxfdlZVZEJ1S0RDMjlOXzZkVmh1Z2lRR1YxUw?oc=5",
      "published": "2026-11-01T00:00:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-Lawson apologises to Verstappen after practice clash",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUWM3QlpVc2s3SkhGSzZhMTVlM0hfRjZqYUdVMkNTcXoweUVqOFh6RHFlbkdaX1JZNFQwY3g1R0pGb056cVYzTjIwVlhMc3NxV2ZQZktYRURmMEcxM3VWS1NZMUU2MkFrZU12dGx5UFU4M0NvQ2o2T2J2LU9xLVpKeWZJVmNLSGJCT0Y1RDYyTVNnc1pjeW1pYXFSSmUwQ0NLdzByMnVZZUZSRVFNejVDVWZvYU5jOGFFelc1Sw?oc=5",
-     "published": "2026-10-31T23:52:00.000Z"
-    },
-    {
-     "title": "Mada farmers’ losses still unclear",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOERKUnpaX1dZNWJhWk9jcnFmUGpac3R1TzZCVGZkbFAtNFk0RTI0SGdfQkw5RjU1T0NLOXlYSVVrSUNjYklEWVNKeTcwZ0hodko4ZEw4aTBxQXV0bGVHTVRqYjdHTjNlWGpyalkxVkFrVHZ0d1VUS2FPaTJ4b0doS0QwRGpNWjJkUVRB?oc=5",
-     "published": "2026-10-31T23:49:57.000Z"
-    },
-    {
-     "title": "Golf: Discover gems of the game with Maybank Asean Golf Getaway",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdzR5SE1pNXZQcEVLN1VVVWdqWXlxTW4xdkpPdDVlWWdTQTVzOGpxYlNhMFl3dzlPdzFxbUd3VF9FR1l4cGlDMGZHdTZwRkdfcktZd0hqUTBEZ0FsVVZMU0tBNUZZcXZLc2Rtajd0aVhLX3dFMk82bVJkZEtyXzVlbzhIT2RFdXI4WDkwWjNTQUlUWGdqZlBvZ3JmNEFjaGZhM3B3c1JTdlVZUQ?oc=5",
-     "published": "2026-10-31T23:40:15.000Z"
     }
    ]
   }
