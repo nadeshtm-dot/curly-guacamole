@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-01T21:32:18.602Z",
+ "updated": "2026-11-01T22:31:48.179Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "9 killed after a Learjet crashes and erupts into flames in Pam Beach County, Florida",
-     "brief": "A plane carrying nine people crashed near a residential area and killed all the passengers on board before erupting in a fireball in Palm Beach County, Florida, on Sunday afternoon, Transportation Secretary Sean…",
+     "title": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida",
+     "brief": "Nine people died after a Bahamas-bound Learjet crashed and then erupted in a fireball in Palm Beach County, Florida, Sunday afternoon, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/south-florida-plane-crash",
-     "published": "2026-11-01T21:32:18.755Z"
+     "published": "2026-11-01T22:31:48.446Z"
     },
     {
      "title": "Lions All-Pro LB Jack Campbell placed on backboard, carted off field after a tackle against Vikings",
      "brief": "Detroit Lions All-Pro linebacker Jack Campbell was placed on a backboard and carted off the field early in the fourth quarter against the Minnesota Vikings.",
      "link": "https://www.cnn.com/2026/11/01/sport/jack-campbell-lions-carted-off",
-     "published": "2026-11-01T21:31:18.799Z"
+     "published": "2026-11-01T22:30:48.510Z"
+    },
+    {
+     "title": "Here is how CNN’s Sightline real-time election insights tool works",
+     "brief": "As Election Day comes to a close and results start to roll in, it can be difficult to understand what the numbers you’re seeing might be saying about who will ultimately win a key race.",
+     "link": "https://www.cnn.com/2026/11/01/politics/cnn-sightline-explainer",
+     "published": "2026-11-01T22:28:48.527Z"
     },
     {
      "title": "1 dead, 8 injured in shooting after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T21:29:18.802Z"
+     "published": "2026-11-01T22:26:48.559Z"
     },
     {
      "title": "Sen. Chris Murphy hospitalized with stroke and expected to make full recovery, his team says",
      "brief": "Democratic Sen. Chris Murphy has been hospitalized after experiencing a stroke and is expected to make a full recovery, his team announced Sunday.",
      "link": "https://www.cnn.com/2026/11/01/politics/chris-murphy-stroke",
-     "published": "2026-11-01T21:28:18.807Z"
+     "published": "2026-11-01T22:25:48.554Z"
     },
     {
      "title": "4 killed, about 15 injured after multiple overnight shootings in Dallas neighborhood, police say",
      "brief": "Four people were killed and approximately 15 others were injured after multiple overnight shootings in one of Dallas’ vibrant nightlife neighborhoods, police said.",
      "link": "https://www.cnn.com/2026/11/01/us/dallas-halloween-night-shootings",
-     "published": "2026-11-01T21:27:18.809Z"
-    },
-    {
-     "title": "The last-minute surprises and sideshows of the 2026 campaign",
-     "brief": "The 2026 midterm elections mostly revolve around deeply serious business.",
-     "link": "https://www.cnn.com/2026/11/01/politics/midterm-election-cheesecake-factory",
-     "published": "2026-11-01T21:25:18.796Z"
-    },
-    {
-     "title": "Middle East on edge as fears mount that Iran war could restart after the midterms",
-     "brief": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and the United…",
-     "link": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
-     "published": "2026-10-31T12:00:00.000Z"
+     "published": "2026-11-01T22:24:48.546Z"
     },
     {
      "title": "Reunited after 1,711 days: Oleshky evacuees return to Ukraine under Melania Trump-brokered ceasefire",
      "brief": "Dmytro had not seen his wife Larisa for 1,711 days.",
      "link": "https://www.cnn.com/2026/10/31/europe/oleshky-ceasefire-russia-ukraine-arrivals-intl",
+     "published": "2026-10-31T12:00:00.000Z"
+    },
+    {
+     "title": "Middle East on edge as fears mount that Iran war could restart after the midterms",
+     "brief": "With little transparency from Washington and warmongering from Tehran, people across the Middle East have been left anxious and confused, scanning for signals on whether the conflict between Iran and the United…",
+     "link": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
      "published": "2026-10-31T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "\"You Can See Everything\" tops North American box office in a tight race",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcVhfU0JuQ0N5S2tiZWRZd1lyR0UtMmRQNTdpajRYY2tNa1ctZ3Q3VjRUdlVGSm5aaHZmUjdUbGx2ZE80TmRZRGVGaGNBdWxIbkw0YnpJRjlJdWVPNmdqQlhqRzQ1X0FFR1JLNzc4YkY1dm1LRWJ6VHJneUI5aEtFNEVaOFJ4NEVoZWM0TkZCbFpXb2JWbl9tYjZlMHBuQmNrdmI2c0tDWWpoZnJoZmduZHRmMGRiOGhoSHc?oc=5",
+     "published": "2026-11-01T22:00:00.000Z"
+    },
+    {
+     "title": "Urgent: 9 killed in plane crash in U.S. Florida: transportation secretary",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZHdPZUkyRnh3a1c2WVFOeGVWeDhtcFA2cWtaeGl6aEZGdFZGbEl5SnZFUXk2QV9KUEJvMFRRVzdSNURudmh2a1Q0R05IaGdqLTRBeU9rQ0c5ay1hWnRMeDdpMjd2VTVpNlczbmlTQnZpVEhiaVZHNjdORzZyWmxuNDdfRGpxOVdwSjVtMzhZNXJFMDdTRzVicHJqX1lXZGoxUVFxeWEtZGRWOVdKSklvM3NsQ1BMWHJYdkE?oc=5",
+     "published": "2026-11-01T21:27:00.000Z"
+    },
+    {
+     "title": "China bows out of U-17 Women's World Cup after Brazil comeback",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdk1DTW95WGFtOVdmalZlb1ZaMWJ4S0cxMUZwYUFnakFFbE9tWW5OcFdGeXRhOFpFM3VjSUpyUFZ6NzZRN1M0LU82QnUtUS1PQjdOOEN4OTUtRnR1bUFBcDlzbEVzMFNKQ0hQMnJqb3NLMXR4MDVudHUxZ1VaSzFwcjIwRjduRWRubHRaeTJaNm81RFIxdm5MZnFQdWt3d2lJZGxaTEw5QVNHUmxGUnNfMUJKZw?oc=5",
+     "published": "2026-11-01T21:21:00.000Z"
+    },
+    {
+     "title": "OPEC+ to maintain oil output for 3rd consecutive month in December",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON3g5bEg5WDhxN0VuenRCTFp5VjRiUnFwX0ZldFhUVnZoZmpPME9XcEl6SWh3NnZub3lydGVuN05OMWxVTHdCLWh0ZE9IZW44Q2Y4UkhTTkprNkh1RU1zS05RZnNvM2FValF3OWg0dmtCcUtWX1pnWDFXLXR1VC1DZ3I0ZzJUSVR3c0pOdUlyMWNXQjh6OXpnN1ZvNEN5U0lwZXJHcWdoYzRfVWlYNlR6dndBQTQ?oc=5",
+     "published": "2026-11-01T21:14:00.000Z"
+    },
+    {
+     "title": "Flash: 9 killed in plane crash in U.S. Florida",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUG41WDB3dkpsc202WllyQTRHVEpLQ1VTbHRtZERRanQyV2JqZTZyR0dZTzdiRjNfSGtzekQxTWtfWHNXaFhuV3hhRjlvR0ZXLWVETXJIMnFUSXFEOElQN0t1b0tJVHQ4c2VXTkswYV9aTjhTY0t4YzREM1ZicjQtYmJTelVCTWhlZ19RTU13eWlVZkQ5OVRv?oc=5",
+     "published": "2026-11-01T21:11:00.000Z"
+    },
     {
      "title": "Football: Soccer-Athletic and Real Sociedad honour landmark derby moment 50 years later",
      "brief": "",
@@ -72,40 +102,10 @@
      "published": "2026-11-01T20:15:00.000Z"
     },
     {
-     "title": "Football: Soccer-Frankfurt cruise to 3-1 home win over Hamburg",
+     "title": "A guide to swing-state energy politics ahead of US midterms",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOc3NYclZsSmdVOVV4VVEyMV9ULW1FYkxTOFFGUjF4TzdlSjJJemZaOE5PYkVpcW1OTjZXR1hhVXRMc0hKUUduWW1fdzJzOUZEcHhMblpGdktFcE91UnZiREdIVDI1eEhKbUlkZWE1YjdwOWRkR1hLZFpSR3hOaGJQSlA3OWVTSHVCQzBpVnZkUElXYVFiNDlOVVlTaEJ2TkRrTlQ3MXExWkM?oc=5",
-     "published": "2026-11-01T18:57:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Coventry investigate footage of fan taunting Sunderland",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTGNzRTdkSUtQWjhEaWNMWlhhQUViMVRPQXdBazVGa2FpWXYzaHM0bHJYYnBjRWxwQjN2djZWamhqZXk2VHZKbWhzbUFvbnNpT0RGaEZySVk2VDVwOGw4Y2VGSlkwUUJqOUdUdzZNZ3dxSVYycVBTMUpVWTM5ZzNlRHFRSTM0eXBVbzFLeG9MRUF0YlFSXzhCTFhaZzFBMklOd1Nxc0RIWGxRZW5aT3B5WXRGblU2dw?oc=5",
-     "published": "2026-11-01T18:21:00.000Z"
-    },
-    {
-     "title": "Latvia reports brief airspace intrusion near Russia, Belarus borders",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjVWMlA1NFVmRXhNd1N1bVZvM05NbjVPN2w1OFJ5T2tvMHgzdHlzZmN3TnlLdzFrMDZDSTYwTE5rZTZXb0FMNXdiMk9PbC1RYnVwVWpFblVJbUFpaFdJTGJfNE9vbDF5M2dUMU1HQWJrd0pjS1R0QldaYU94SmRadDlRX2VsTk43QzlPSWM0VmFOVGhFSzFkRmg0eEFGbDFXNDRMcDY1SWcwdzMtVzVDWkVVUEdfSGs?oc=5",
-     "published": "2026-11-01T18:13:00.000Z"
-    },
-    {
-     "title": "2 killed in bus-car collision in eastern Slovakia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU3JHRlBVbl9FdGZuTkN6VWVLNlRSRUptTHdXdXlNbzF5UjRvZXNqRVZOSm03X2RTWDI0VFpYak1fWTB4cVpNVTdwRHlYb3E4TjhYQXA1QU1UZDlhLU9rOFJoZVp6WkN6QUotWTBZVlZDR1R4LXZEU3NMRHBWdzF5R1BNcWlvaXpwYnBpVXVqNV9TaDJJd3dsejlYZXNxSXM?oc=5",
-     "published": "2026-11-01T18:12:00.000Z"
-    },
-    {
-     "title": "Canada, U.S. working to forge mutually beneficial trade deal: Carney",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNVDlQcGxyTmtyRHkzMmVzSERlbmQtV3hPQ2VJMjJEUTNWUzd3ckJrN1hqV1dINU9ralFsMHhzenlnVVl1QkV3VzFLTkRCRmJVUGUxRzg4WmViUk5zLWVFR2JZVmNPbnlLNGNYc3dNYjhxMXZBR195enBxUVZicHg4YUZPaGx4VWF6V1o4RkJqSlFkNHFjUzhFNmItRVFDekhpcmUzanA4RF9BMjRnZ0VtR1AyOA?oc=5",
-     "published": "2026-11-01T17:26:00.000Z"
-    },
-    {
-     "title": "Over 240 suffer food poisoning in E. Syria, most discharged: authorities",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWVFYdllpckttbGdVS25EZXRFVDRJdGM3VHR1ZDRHWGRCVU9YZjBPZ1Q0WkR3cGlwTDJxRVR1NFltR1J0ZWtGVjU5amUwdnJnendWM193Mnp4ZXZnS1d4NGppRGU2Q2ZIeDZfeUh2cWE2UXpZSGNtRVZaalRrTkNvVmFlbEtNeDl2dEZYd01LdG5VcVFsUnZHQ1NVS1VMYmJpRzk5dmF6X0JJSzNBOHRsUjZ2WjdtZ25UQmc?oc=5",
-     "published": "2026-11-01T17:23:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSUlLZ0RIWVR5TWxFZjBPVHNKUXJ6ckNxN1BjOXVkbERnbmNLaHNyVnVBbjhST2hRVDNmV1hqZWxMR0VZSEhaaFI2LTNKSUJsRThjUGw0OW5rVWFEbzlrVkJhYmpaLWE0Z3JtWWdqdXIwS1hXeTN1bmhMSldrUERncm5zbjhPN2xGWGdVM3E0WlViVTk4M19VSmNjVjhyUEF4ZzM0amVjMG80R3AtQzZsR0Jlb3I?oc=5",
+     "published": "2026-11-01T20:01:45.000Z"
     }
    ]
   }
