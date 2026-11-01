@@ -1,71 +1,119 @@
 {
- "updated": "2026-11-01T12:42:20.853Z",
+ "updated": "2026-11-01T13:43:32.566Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear",
-     "brief": "From Cleveland to the Outer Banks, the cost-of-living crisis that will decide the midterms, in the words of the people living it.",
-     "link": "https://www.cnn.com/2026/11/01/economy/americans-midterm-personal-economics",
-     "published": "2026-11-01T12:42:20.958Z"
+     "title": "Germany blames infiltrators as Gen Z protests turn violent",
+     "brief": "Cost-of-living protests in Germany turned violent on Saturday evening with police using water cannons to disperse crowds and masked rioters smashed shop windows, as officials warn the day of rallies organized by a…",
+     "link": "https://www.cnn.com/2026/11/01/europe/germany-gen-z-protests-turn-violent-intl",
+     "published": "2026-11-01T13:43:32.748Z"
+    },
+    {
+     "title": "Federal officials investigate suspected arson at beleaguered police department in Mississippi",
+     "brief": "A suspected arson Saturday morning damaged the building of a beleaguered police department in Mississippi that has drawn outrage from the community in recent months after an officer shot and killed a 1-year-old,…",
+     "link": "https://www.cnn.com/2026/11/01/us/senatobia-mississippi-police-arson-investigation",
+     "published": "2026-11-01T13:42:32.760Z"
+    },
+    {
+     "title": "Election officials brace for foreign threats — and an unpredictable Washington",
+     "brief": "With the midterms just days away, the channels for federal officials to communicate foreign threats to election officials are at their weakest since the 2016 vote, numerous sources who work in elections told CNN.",
+     "link": "https://www.cnn.com/2026/11/01/politics/election-threats-federal-preparations",
+     "published": "2026-11-01T13:41:32.769Z"
     },
     {
      "title": "1 dead, 8 injured in shooting after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in a shooting after a college football game in Birmingham, Alabama, on Saturday night, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T12:41:21.009Z"
+     "published": "2026-11-01T13:40:32.763Z"
+    },
+    {
+     "title": "“Nobody’s listening”: 5 things Americans told me about the economy that Washington needs to hear",
+     "brief": "From Cleveland to the Outer Banks, the cost-of-living crisis that will decide the midterms, in the words of the people living it.",
+     "link": "https://www.cnn.com/2026/11/01/economy/americans-midterm-personal-economics",
+     "published": "2026-11-01T13:39:32.773Z"
     },
     {
      "title": "The story behind Megan Thee Stallion’s elaborately spooky Halloween costume",
      "brief": "Megan Thee Stallion takes her Hottieween very seriously.",
      "link": "https://www.cnn.com/2026/11/01/entertainment/megan-thee-stallion-halloween-costume",
-     "published": "2026-11-01T12:40:21.011Z"
+     "published": "2026-11-01T13:38:32.767Z"
     },
     {
      "title": "Flock was founded in Atlanta. Thousands of cameras later, the company is getting pushback in its hometown",
      "brief": "When Alex Wittlin makes the 6-mile drive home every day from his workplace near Atlanta, 22 eyes follow him.",
      "link": "https://www.cnn.com/2026/11/01/us/flock-cameras-atlanta-privacy-backlash",
-     "published": "2026-11-01T12:39:21.015Z"
+     "published": "2026-11-01T13:37:32.941Z"
     },
     {
      "title": "The Cheesecake Factory can’t get enough of the Gen Z ‘Tuscan moms’",
      "brief": "It’s always going to be 2006 at the Cheesecake Factory.",
      "link": "https://www.cnn.com/2026/11/01/business/cheesecake-factory-tuscan-moms",
-     "published": "2026-11-01T12:38:20.999Z"
-    },
-    {
-     "title": "Spoiler candidate, Cheesecake Factory and sibling rivalry: Recounting the many late 2026 midterm sideshows",
-     "brief": "The 2026 midterm elections mostly revolve around deeply serious business.",
-     "link": "https://www.cnn.com/2026/11/01/politics/midterm-election-cheesecake-factory",
-     "published": "2026-11-01T12:37:21.013Z"
-    },
-    {
-     "title": "Obamacare continues to shrink as enrollment opens for 2027",
-     "brief": "Holly Hendricks, who is battling an autoimmune disease that leaves her with open wounds down to the muscle, did everything she could to maintain her Affordable Care Act coverage after the enhanced premium subsidies…",
-     "link": "https://www.cnn.com/2026/11/01/politics/obamacare-continues-to-shrink-as-enrollment-opens-for-2027",
-     "published": "2026-11-01T12:36:21.003Z"
-    },
-    {
-     "title": "How to follow along with CNN’s election coverage",
-     "brief": "Millions of voters will cast their ballots Tuesday in an election that will decide the balance of power in Congress and set the tone for President Donald Trump’s remaining two years in the White House.",
-     "link": "https://www.cnn.com/2026/11/01/politics/midterms-cnn-election-coverage",
-     "published": "2026-11-01T12:35:21.007Z"
+     "published": "2026-11-01T13:36:32.754Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "",
-   "items": []
+   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
+   "items": [
+    {
+     "title": "German, Slovak die in suspected electrocution at hotel pool in India",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON2NXVGVZUEZnbUVWMkhMZDVDY2ZIVWtWSzRsUkdKeXJnNXBaMmxMcmJwQTdQQlFUdmNWN245aS1WUTB0T1RpZUg0dHlucWlBVEowYWNaS3lpOVdla0pTQnRYa0VDQ1pJaWhhWEJENkZSNWRpdzdrQ2JJY245WXJNR29uWmFabEdBUEMyc1BSR3l1Q2JETzR5ckJCSXlRMEs4VHdCX3ViZVh3aXk1UDhqMGV0QWw4alU?oc=5",
+     "published": "2026-11-01T13:32:00.000Z"
+    },
+    {
+     "title": "Top Entertainment stories of the week: HK legends come together; Aaron Kwok turns 61; Ray Lui travels in style",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPM0xteXozNGQ1Q19hNnFVTThoeS1PS2FscmtXQ2dUam9ZaVBMUjVYSEhpZ2xLUnZqejZXSkMzNHROa0hvTlktdVZZUXlQZEdkbG1kdnB6MTRYTlR2VlFXaU9xdWIwR0IzY2E1VTFaSEZydW5sT3pnZUNLZVFoeDhlNlkyeXN4dGZJazYtdi10M1dOVHJWYm1MMU4xZGtrLXgzMlcwQnBiZWd3b2hjQUtoOTFlS3duOHpwQWZwYkFMckx0bE01ajROOU04enktVEpSNGxxcmFIX1BTSlJlaWk2bm5paEM2ZXZaWDAtMHRxNVRadWNaVVVXVlRlX0ZNUQ?oc=5",
+     "published": "2026-11-01T13:15:00.000Z"
+    },
+    {
+     "title": "Tennis-Britain's Dart claims first WTA singles title in Guangzhou",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZFQ1MGVxR1YybEdRc1ZuUldiTTJfRmdabVFreHZLcmYxd2stRm5Nb1lfbTZ3QUNhaDZDZlpsLVBLSWMzZzlRd0VHZUMyUE5qdVR6cGtqNEZ5Ym04N1dobzd5VXMwUjFXSzVGaWdlVXN1bDY2enhIVUFXa0pjV2VNZDRpRHZzaElxRV9BMzhpTWNKV2o2WVdBVTI4UmJOZWlXd1k2SG5nbDJqdkZhSUFVRzRlTUdqUUlQZ0E?oc=5",
+     "published": "2026-11-01T12:39:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Saibari and Gnabry ruled out indefinitely, say Bayern",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSXQtdTNOTFZmdEgwS3BTdXJ2UVFxczJ3TEVIM242TlcyQTVSM1dZZ1lHMVl4a2swSnNZQXdBQzlmcjRJUktFd2JXM0VWbzlrZmVBbHVSd1N5bjZHTUNpYnhqdEpDZ2R6aDFwLXdORmVXTXVIUlNsV244OHVOTDl3U2x5bXY0TDV0Z1hiV0g2R2ZhTF80enFCV0k5ZVNiaHhOeTJZU0NsVmJ1UzMycVBFZzlB?oc=5",
+     "published": "2026-11-01T12:39:00.000Z"
+    },
+    {
+     "title": "Pope Leo says he hopes Oleshky truce could spur Ukraine-Russia peace efforts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb3QyVjVpMHZzS2VRWjRhQ2FyQWJLaHhxNnVKV1dlbXNrOHpBTzNDUF83cGY1OVpwZDVheHJnSFEyVU45cDFBWFMxaWYyQ0hMTjIyM0VJaFJmZE5LcGZlMW5BazQ1N2JzQm5vMFlBUzVXZVN0MEh1NmdKUW5OX0EyN003OWFKaU5YWDF1OUlHbWdjVXJpdWNVTmQ5ekJJNmJ1cHdWYVhhS0JWWnVpN2V4cXNJWWNvcUVmdnB3M2ZpT0ZLcmM?oc=5",
+     "published": "2026-11-01T12:29:00.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzBzVjI1WFdMZ3UwY3o4MnNJcGwxeVZYX1o2czJncWVOVTk1WTBscUEtWXhCS0FhdzJrZy03ZFgzajZJaUl3RVNNalpkdm1UanFVcE5KdlJXblZLQzRUekptdGpPeXMtYS1mX2lQd1RLQ0ZJQ3BKSzdiemcyWmdKLS11V2NQb1dQWThINUZTa3NiUQ?oc=5",
+     "published": "2026-11-01T12:00:21.000Z"
+    },
+    {
+     "title": "Football: Soccer-CAF names Samson Adamu as new general secretary",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMXNIMFdLWS1DclU3NEJxX1ZXRjQ2dC1mRTFLWE5DWGl0ajNjWktGWlpGRTkyZUM4RFZzSjZxeDNoaDdxTlhnenVVd1ktSjc2Q1NWR0RDeVpTMnZHWVJabi1SeHhlbXF1bGRfSUNuYm0wc2hDY04xRnAyUFFtQ3ZqVmNuLXVyb1E3RkRDQzJxVHRBa3ZLNmZFcU9ObXc4QklmWXBWZEUwWHEwcDg?oc=5",
+     "published": "2026-11-01T11:57:00.000Z"
+    },
+    {
+     "title": "All schools in Selangor to operate as usual tomorrow",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTXQzQ2FST0dXLWgtYVd1bmFTdzJ2WUFXeWF5ckpHTnJsU2FWanRyUDE3WGFZck55VXE1MEdqQXlUNjNFUUdvbUw2dFBwOGdlbWdvd3Z0eTlwWUwwQTJQUXlRdmxoOUM3ME81Z0lLaV9vakV1X0tmNF9CSkxMSEYwaGNRbjVRM0VqX0VOTjlEbmxoQWxuVUZ1MWdBeURkWE10bzl4Vg?oc=5",
+     "published": "2026-11-01T11:46:00.000Z"
+    }
+   ]
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
-  "The Star: 0 items from nowhere"
+  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
  ]
 }
