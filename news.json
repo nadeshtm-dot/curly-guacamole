@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-01T09:39:54.391Z",
+ "updated": "2026-11-01T10:35:55.488Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Election officials brace for foreign threats — and an unpredictable Washington",
+     "brief": "With the midterms just days away, the channels for federal officials to communicate foreign threats to election officials are at their weakest since the 2016 vote, numerous sources who work in elections told CNN.",
+     "link": "https://www.cnn.com/2026/11/01/politics/election-threats-federal-preparations",
+     "published": "2026-11-01T10:35:55.649Z"
+    },
+    {
      "title": "Italian taxpayers are paying millions to keep Russian yachts afloat",
      "brief": "An expensive floating eyesore has marred views in the port of Trieste, northern Italy, for more than four years, and it is costing Italian taxpayers millions to maintain, the city’s mayor says.",
      "link": "https://www.cnn.com/2026/11/01/europe/italy-russian-superyachts-sanctions-taxpayers-intl",
-     "published": "2026-11-01T09:39:54.603Z"
+     "published": "2026-11-01T10:34:55.678Z"
     },
     {
      "title": "Golden State Valkyries make history with first WNBA title in the team’s second year of existence",
@@ -46,12 +52,6 @@
      "brief": "One person was killed and six others injured after a shooting inside a shopping mall at a Spirit Halloween store in Fairfield, California, on Friday night, police said.",
      "link": "https://www.cnn.com/2026/10/31/us/shooting-spirit-halloween-store-california",
      "published": "2026-10-31T12:00:00.000Z"
-    },
-    {
-     "title": "Mamdani says Trump agrees to grant visa to mother of teen from Ghana killed in Bronx shooting",
-     "brief": "New York (AP) — New York City Mayor Zohran Mamdani said on Saturday in a social media post that after talking to President Donald Trump, he has agreed to grant a visa to the mother of a 15-year-old immigrant from…",
-     "link": "https://www.cnn.com/2026/10/31/us/mamdani-javits-frimpong-visa-trump",
-     "published": "2026-10-31T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Five killed in fresh ethnic violence in India's Manipur state",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQczBkZjJFWlZDUHQ0NzBDUk1KSWxGQkdSNlJEdGNNX3JRVjAxZDJVVGU5aTN3U3FuWklJRXNaejhCb09XaGY5VW1FVUYzN1hCMUFwSDZKc3hSSGw5VVpVYWh0UW1zUXlZLTlxZ2hGM2Nsd0QwWmVkeVJ3OFdzN0Fac19NZGdxWUx0Z2hWQU1yWmlMR3k5c2kzLWNBSGFWSWR6WHhmeEhzckdHZk9sOUI5aUt3?oc=5",
+     "published": "2026-11-01T09:45:00.000Z"
+    },
+    {
+     "title": "Over 400 people nabbed in KL nightclub raid",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR2tBd3Nvc1hhNldLRWU4WWhlTEJMZ1BULUhudHhDSXhicVlNc21lRkI1aTQybzVhbnZHWGwwTkpLZnRjUnhmUmVid3F4VVJrZEV2WWpmbHY4TkVmdnZjSVFBUlR6WDNOY1hwYmMwdGozcEpfN1hKRVZobGFiS0F6RU9fVUdMZ2tnS1NmTFJCbE9NNlJVb2FtSQ?oc=5",
+     "published": "2026-11-01T09:39:00.000Z"
+    },
     {
      "title": "Bulgaria votes in presidential runoff after tight first round",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN0tCWUZZU2xxNWFLMHlZTGFobW5XY01tUVFGNkVMNnpVY2FIOU5jM2FRc0loanI2ZXVtT2s0ZWFUQjBkQWVDZTY1ZUdtYW5fT1RTa0kzam1SRXR6YW51MVJJUXlTaWVWWlZRZVdSTmVqLTRoOXFTMFVILWlsajZPazRxUlFsd0pkZk9CYm9US0RsWnJ5NU5YdnhTRG9odDZrbHc?oc=5",
      "published": "2026-11-01T05:36:00.000Z"
-    },
-    {
-     "title": "US to deport 150 Afghan immigrants back to Afghanistan via Pakistan: US media",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVmxzT1dMN2R6ZUVCOHJnOTBXX0pyQnhqT3h6djhnQWZRb0EtOTRjSzF3UGNCeWNJM0R6Y3BNaVItaHY3M24wX0tpcjluTlR3bVpMMXo4NFlfYllTWEtnTDBQOTNTTF9KYXFnREpvczRPWk5hM0tXNUZZc2hPNHdSVzYzYjVSOHV2RFU0Z3VqS3VJbG0tZTBESElNeS1WN0hPc3RsR3VqVm0wN2sxY3pQeUM4VjA0ZFg5Uk4xSElXbVhOZmtUa0Y4cWdtTGhmMjdRYU9CTE9n?oc=5",
-     "published": "2026-11-01T04:37:00.000Z"
-    },
-    {
-     "title": "‘Flirtatious’ US$2,500 photo shoots for ‘lonely’ middle-aged women spark backlash in China",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNTFGYW5qQ3ZPRGxWSV9MaEtOclFMb205R2NHMzFHbXZXYWROS29aZDJfZnJMdFBCUF9XeUpId1VyTF82ZG1QcXN4eEpEb2RYR3A4Uk1YWU9fV2M2d0xUWEJmRlJRLU5jd2ZlM0dRZ2dHZzRHLVlpLXdyVEpGM0tWclAxTXpkemZScVhFSl9lZFpwLXF5VTdJbzVxMVpTdF8yUWFxcTBOWE5ha1JNeG5aNFdKbzlnQjV3UXkxY0dGV3hoemhnZWExaldSb2k1cklfSFU0eWthTlA4dEJjYXRmWA?oc=5",
-     "published": "2026-11-01T04:01:00.000Z"
     }
    ]
   }
