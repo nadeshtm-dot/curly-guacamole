@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T02:47:37.282Z",
+ "updated": "2026-11-02T03:51:00.971Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,6 +9,18 @@
      "title": "9 killed after a Learjet crashes and erupts into flames in Palm Beach County, Florida",
      "brief": "Nine people died after a Bahamas-bound Learjet crashed and then erupted in a fireball in Palm Beach County, Florida, Sunday afternoon, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/south-florida-plane-crash",
+     "published": "2026-11-01T12:00:00.000Z"
+    },
+    {
+     "title": "Lions All-Pro LB Jack Campbell placed on backboard, carted off field after a tackle against Vikings",
+     "brief": "The Detroit Lions say Jack Campbell was staying overnight at a hospital for continued evaluation and monitoring of a neck injury.",
+     "link": "https://www.cnn.com/2026/11/01/sport/jack-campbell-lions-carted-off",
+     "published": "2026-11-01T12:00:00.000Z"
+    },
+    {
+     "title": "How an attempt at Democratic unity in Michigan imploded",
+     "brief": "As recently as Saturday night, the prospect of Democrat Haley Stevens endorsing Republican Mike Rogers in Michigan’s Senate race had seemed implausible.",
+     "link": "https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened",
      "published": "2026-11-01T12:00:00.000Z"
     },
     {
@@ -30,21 +42,9 @@
      "published": "2026-11-01T12:00:00.000Z"
     },
     {
-     "title": "How an attempt at Democratic unity in Michigan imploded",
-     "brief": "As recently as Saturday night, the prospect of Democrat Haley Stevens endorsing Republican Mike Rogers in Michigan’s Senate race had seemed implausible.",
-     "link": "https://www.cnn.com/2026/11/01/politics/haley-stevens-abdul-el-sayed-mike-rogers-michigan-primary-what-happened",
-     "published": "2026-11-01T12:00:00.000Z"
-    },
-    {
      "title": "1 dead, 8 injured in pair of shootings after college football game in Alabama",
      "brief": "At least one person was killed and eight others injured in two nearby shootings, just minutes apart, after a college football game in Birmingham, Alabama, on Saturday, officials said.",
      "link": "https://www.cnn.com/2026/11/01/us/alabama-college-football-game-shooting",
-     "published": "2026-11-01T12:00:00.000Z"
-    },
-    {
-     "title": "Lions All-Pro LB Jack Campbell placed on backboard, carted off field after a tackle against Vikings",
-     "brief": "Detroit Lions All-Pro linebacker Jack Campbell was placed on a backboard and carted off the field early in the fourth quarter against the Minnesota Vikings.",
-     "link": "https://www.cnn.com/2026/11/01/sport/jack-campbell-lions-carted-off",
      "published": "2026-11-01T12:00:00.000Z"
     },
     {
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "New Zealand early voting surges ahead of November 7 election",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHd1Y2FwVmpOR1JKaWljTDh6MlRxNlh3alp1M3RDcnpzbmFrdnhEYmhpTG9LMU1ac3lNdGJRV2VXZVJPcjN2alMycFhuclhLZDlTVHVMc0NuZkxmYi04ZUNzMW9PZVZ2LWVPNmFZSExNX1FoYndvOE12TGU3WUt0TDFLS2NqcEp3cnFHeWJRWG9FdVhWWUxKV1JERlhyUjJvSFFySFM1TEUxakpnS3c?oc=5",
+     "published": "2026-11-02T03:39:00.000Z"
+    },
+    {
+     "title": "A watch inspired by Atera River",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT0pwWUR5Q3A2Q25LeFdRRHdVbDlyVHViTlhEb09ETXo3TXozYmN5MDN3LUROaUlYck01M19SNVVMcGFUSTZncnZhS1dsSkFlbXNUdzN0NmhvVDdkcTVCUENnUFdaSnpJSHB6YmlYenliUFhOUGZfS1hCQ3hPSXFwSDFCM3NzV3VrMTZhVnVR?oc=5",
+     "published": "2026-11-02T02:30:00.000Z"
+    },
+    {
      "title": "Living well after surviving breast cancer",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdjhaT3RMbmRFaU5MWGVTcGZwVklGUzNjN1pFbHRfc0xPbWYxbDVqSG11dklzcV9fVUZtTWF6eU5xcDZpQjRaVDQyTWZLbXFPWjY4elRDYnBSQXZub0hXZ0F1MU5reUxVd3RwbnlQWENkWDBBeFhqN0g5SVNzVUNuWW0wRW9pOWpwT190dU9hYVJRcWNHMzBPMHg3anhvOGJBQjJGaThKdWJGYWhGTUE?oc=5",
      "published": "2026-11-02T02:00:00.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Erdogan says South Korea could partner in Turkey's Sinop nuclear project, Yonhap reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNG9EeEFEM3JQSlFhVHBldXAwX0ZTZ3pjd0hkYVJIWEF2dEh4bl85VVk2TEowcEQ1czdJY2ZRX3N6RkJUTWZMb1JESndlRlptaFQ2SkhFNE1sNm1OTlVxMnNLbzlzckJ1dDJtZ3kzV1l2SXVLOWw4VVBRVzJWV0VJS1RDclNybi1reEZ1Q3ZrbUQyMTAxbEVRU0h3?oc=5",
-     "published": "2026-11-02T00:04:39.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNclhfM3l2STlpMl9XWUYyRGpRekV4b2VreXZNeGFkTmgxVzRuZGNEanZpdmpYbEE2SFZrOEx3QkEtSXN5S3FjZVNnT2xkUk5MOGJqeFY2U3dyZ2Nxb0hTblAzRWVWWkhWSEZCZzJxcC1XSzFiVHg2b3N1V1JENGlBaXVNOC00eXZqbEdYYXVlWlZwem1Nc1NtZ3NaSUwyY1V5YnFqc05YSG5ISjlxRXplM1ZHRTdJRXNTbC1wbjU3OEJ0UlpPeWh5eFFxMjRpYTVjY2I4OA?oc=5",
+     "published": "2026-11-02T01:45:00.000Z"
     },
     {
-     "title": "Golf: Nateesh hopes to return stronger after navigating wind in New Zealand",
+     "title": "Ukraine says public air raid alert app sent false alerts after being hacked",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaEI0ZEVXOGVxdUxKNkZMcnZwRUNwWDB6ZmU5dm1RRHRlbVI5eXhuZDBZTkxldjRTbnhzMi1RQS1yaGtqNktHVEdmRVo1VWQzajZyRVB5cVN4ZTNzQ2ZRSkdnNC1oaWE5b2NlaF9OWG85czNjbWtRRXNVY19pR2ktVWhoeFlqMU5BT29FbjhUakRRRjBPWm1MdWdNOVlQZS1BUWZHNE01M01iM0txVnNJWm9xSVFfVUQ2cmc?oc=5",
-     "published": "2026-11-01T23:18:51.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNmVlRzNfWDd6UC0xRzB6cjNvZWMzRFl6VENwb1NIWWY5QUNtVzI1S29RbEVlcWRCSHc2Y1hSMjEwNWM1bnp0YnkzaUNfYVE0UGg3QjFQWTZ3VkJiX2lXTC1SazNMeHE2M042REoyU05lLW1DZjM2M2hGYUdvX2ZDdjM2SFZJOGN6NUVXQjl3NnJEblR4RFlyRDRKYlNseDBETTlFRlRxSndYWjgxWWtaQ1U0TUNCMlRIQzRFbXZHZzRWUQ?oc=5",
+     "published": "2026-11-02T01:44:00.000Z"
     },
     {
-     "title": "A vote for better days ahead",
+     "title": "DeepSeek drops enhanced coding agent with aim to rival Anthropic",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOS0t1dkFDM1ZEbldTclFWUVBSaUp4VE14VDB2VTJkaWx1RXhSekpKQUQ4cC14aW9VdGlYT0ZWNTZrNEFTdDF0OV9tT0FWdXN3YmlVSGtjaFB3RzZCUDRJTjFCTVMwakRGN3pxTTJ5SWZmWVN4eHB2bzhjWEhnby0tU2ZJOVE?oc=5",
-     "published": "2026-11-01T23:15:21.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcGtHUEtZajRJUy1XQjluRFJ5OUFaT3d4VDZORkJtc3phN21LOU9lMW9vUkpiTVRvLUZtVUhxS3hFS0o2UlRkTFd4WEdMWlpRRS0tenNqb3Y2SW5GZVl4dGV6eDREblVQS1ZjZkJpd0p1VGJNMUp4el8xcGNnZl9UbEV1SnVsSHN0MXo1XzU1NVdiMl9VUFMyUHpEZ182SzVjcUF5NGZYVF9BbTVjWlBGRWlkM2lkajJz?oc=5",
+     "published": "2026-11-02T01:00:00.000Z"
     },
     {
-     "title": "Golf: Being the best Malaysian doesn’t matter as much for Mirabel as having done her best",
+     "title": "24 people evacuated as floods hit Sipitang district",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnkzZXRoTVQwWllOZXltcE12dzE1WGF0OFEzZ1ozR1R5YVhsYWwzb19zLXRfNm1NY0lGZWtzUzFxSDgxTGQ2N1IxeVB6TWE5eDVSZVFMX2VvOVJRaVVkNVVldDhiWjZVNGhNczBHUFZLZURmdnJEUkVZUXVZc0ZTSTJHdFVlMW0xR3VxTEVnOHRsb2IyUExZWkNmWU0zSngzdUdoMkw5RFZJLXlKNWRzRnNmcldkRExiOTRwWU54RjlXZHRXRUpYekZlQQ?oc=5",
-     "published": "2026-11-01T23:13:32.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmljVnNYUVFjUnkxMlYwc1NQLVhDRVdNOHVIWGR0cWhGektjRC0wTUY5Y1l1Z19fdlZTUTMzWDd0dlYwcmRZLXhtTXg0MzBhSkdqWlNYd2lFNGlPWEhKeGlHNUt0aEotZllyOGpDc3RCaGxnRzNkdDNaZ0NDeDZLQk1mclYyX0kwdEVRcU9sQkktYVNDM1VoVjVkX1R0WjJlNU00?oc=5",
+     "published": "2026-11-01T23:59:23.000Z"
     },
     {
-     "title": "The Week Ahead",
+     "title": "Bank staff bring Deepavali cheer to 50 families",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWVwSTZlU1Y2aG5UZHRKdWlidmZnYmNVVENmckFxdXpYUENMSzdfamJlMDh5Q3dKVlNKNFNqdy1UTVlxUDJpS1JMN3hwMGE4LVJfSkRHbk9BUHY5bTEyRUtIMW56VGkyRFZGdXVieHBzZHBPcmIwYU42Q3BGaDdveg?oc=5",
-     "published": "2026-11-01T23:04:13.000Z"
-    },
-    {
-     "title": "Flash: 9 killed in plane crash in U.S. Florida",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUG41WDB3dkpsc202WllyQTRHVEpLQ1VTbHRtZERRanQyV2JqZTZyR0dZTzdiRjNfSGtzekQxTWtfWHNXaFhuV3hhRjlvR0ZXLWVETXJIMnFUSXFEOElQN0t1b0tJVHQ4c2VXTkswYV9aTjhTY0t4YzREM1ZicjQtYmJTelVCTWhlZ19RTU13eWlVZkQ5OVRv?oc=5",
-     "published": "2026-11-01T21:11:00.000Z"
-    },
-    {
-     "title": "Malaysia poised for economic expansion",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVVfRUlyYzFDRUlzeTJLaUVkVzBIWmF6anNPbEUzMDdjUmZpalItOWZoeVIxeGhVVW1WWDZodUh1M1BBUGpmbmxpbU9fanZKaWF4dVN2WGJzLU9qWllkM2dtbzRfSC1kcFpLbXVydjgzaFM1WGpjUUpvbkQyQmtRQVNKZ05SVTZVTldxLUJWYnlTMFU2M0pUb2lDOTFfeWpK?oc=5",
-     "published": "2026-11-01T21:08:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdW5ST2VHMGZpYkU5S1JGUEREaXk4MHdWNWNCdGF3MW1jOVRHNTREb3pzRHU1X1pNWXNsZ0g5MlRFMlNxVFBHMWRqZFc1bjk5eEw1aWhDTUU4TzJ3Q3d5dTNJN041YVZNNWRoSTFLa2hTcEdpSVR6S0RHYnZGZ1RIZHNFV3NCd2VSbDJmckxhMVdSemtlOEQ2RGt0MnpLTFN4cFpYYQ?oc=5",
+     "published": "2026-11-01T23:49:40.000Z"
     }
    ]
   }
