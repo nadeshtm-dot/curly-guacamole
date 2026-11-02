@@ -1,51 +1,57 @@
 {
- "updated": "2026-11-02T18:51:13.784Z",
+ "updated": "2026-11-02T19:49:54.211Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
+     "brief": "Emergency warning apps in Russia and Ukraine were hacked overnight Sunday into Monday, according to authorities in both countries.",
+     "link": "https://www.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl",
+     "published": "2026-11-02T19:49:54.406Z"
+    },
+    {
+     "title": "Lindsay Clancy’s judge eyes March 2027 for retrial – if there is one",
+     "brief": "The judge overseeing the case of Lindsay Clancy , the Massachusetts mother accused of murdering her three children, said Monday he would like to schedule her retrial for March – though prosecutors remained…",
+     "link": "https://www.cnn.com/2026/11/02/us/lindsay-clancy-court-hearing-retrial",
+     "published": "2026-11-02T19:48:54.395Z"
+    },
+    {
+     "title": "‘Responsible, hardworking’ 20-year-old co-pilot among 9 killed when Learjet nosedived into a road",
+     "brief": "In the blink of an eye, a private jet plummeting 450 feet per second nosedived into a Florida roadway, bursting into flames and killing all nine people on board .",
+     "link": "https://www.cnn.com/2026/11/02/us/florida-learjet-plane-crash-monday",
+     "published": "2026-11-02T19:47:54.452Z"
+    },
+    {
+     "title": "Trump’s California ballot appeal puts Supreme Court in center of fight over allegations of noncitizen voting",
+     "brief": "President Donald Trump on Monday urged the Supreme Court to force California to set aside potentially thousands of ballots the Justice Department claims may have been cast by noncitizens, a longshot request that…",
+     "link": "https://www.cnn.com/2026/11/02/politics/trump-supreme-court-california-noncitizen-ballot",
+     "published": "2026-11-02T19:46:54.389Z"
+    },
+    {
+     "title": "9 men go on trial in England accused of sexually assaulting woman drugged by husband",
+     "brief": "Nine men accused of taking part in or helping to facilitate the abuse of a woman, whose husband drugged and sexually assaulting her for more than two decades, appeared in court Monday for the start of their trial in…",
+     "link": "https://www.cnn.com/2026/11/02/europe/stockport-rape-trial-latest-intl",
+     "published": "2026-11-02T19:45:54.447Z"
+    },
+    {
      "title": "ICE officer indicted on allegations he ran over undocumented Mexican immigrant released on bond",
      "brief": "The US Immigration and Customs Enforcement officer accused of running over an undocumented immigrant from Mexico with a vehicle was released on a $30,000 bond Monday after appearing in court for a bond hearing,…",
      "link": "https://www.cnn.com/2026/11/02/us/indicted-ice-officer-surrenders-texas",
-     "published": "2026-11-02T18:51:14.104Z"
+     "published": "2026-11-02T19:44:54.392Z"
     },
     {
      "title": "Washington reports first US bird flu death of 2026; health officials say risk to the public is low",
      "brief": "A person in Yakima County, Washington, who caught bird flu after being exposed to infected dairy cows has died following a severe illness, county health officials said Sunday.",
      "link": "https://www.cnn.com/2026/11/02/health/bird-flu-death-2026",
-     "published": "2026-11-02T18:50:14.126Z"
-    },
-    {
-     "title": "Fake warnings of nuclear attack posted on hacked Russian and Ukrainian emergency apps",
-     "brief": "Emergency warning apps in Russia and Ukraine were hacked overnight Sunday into Monday, according to authorities in both countries.",
-     "link": "https://www.cnn.com/2026/11/02/europe/hacked-russian-ukrainian-emergency-apps-intl",
-     "published": "2026-11-02T18:49:14.089Z"
+     "published": "2026-11-02T19:43:54.449Z"
     },
     {
      "title": "An hour-by-hour guide to election night poll closings",
      "brief": "It’s almost Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other…",
      "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T18:48:14.108Z"
-    },
-    {
-     "title": "A Learjet nosedived into a road, killing 9 on board. Now investigators are probing what caused the ‘cataclysmic’ plane crash",
-     "brief": "In the blink of an eye, a private jet plummeting 450 feet per second nosedived into a Florida roadway, bursting into flames and killing all nine people on board .",
-     "link": "https://www.cnn.com/2026/11/02/us/florida-learjet-plane-crash-monday",
-     "published": "2026-11-02T18:47:14.113Z"
-    },
-    {
-     "title": "Martha Stewart says she ‘really screwed up’ with homeless Halloween costume",
-     "brief": "Martha Stewart has said she is “distressed” and “sorry,” after her choice of Halloween costume sparked a backlash.",
-     "link": "https://www.cnn.com/2026/11/02/entertainment/martha-stewart-homeless-halloween-costume-intl-scli",
-     "published": "2026-11-02T18:45:14.121Z"
-    },
-    {
-     "title": "What polls do and don’t tell us about the 2026 midterms",
-     "brief": "Can the polls be trusted?",
-     "link": "https://www.cnn.com/2026/11/02/politics/midterm-election-polls-accuracy-response-rate",
-     "published": "2026-11-02T18:44:14.119Z"
+     "published": "2026-11-02T19:42:54.444Z"
     }
    ]
   },
@@ -54,7 +60,25 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Ukraine's Zelenskiy: Russian bombing kills 18 in southeastern Zaporizhzhia region",
+     "title": "Football: Soccer-Bayern are doing well despite rollercoaster week, Kane says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTYtWlo5TUh2ZWFNNWdKSG4yalVfUURXZi00dTAwUWdja3RGTXMyUkhWbXRadlNWTk1CY1ZVUUxVeFF6LUZZS00yd0NEUG1pY2NNOFQtcmxVa2h5RTJJbC1NdEJmdjRobzJsbmtRd0JXS1phTGt3cFBrOE1oazBURzhQY0dCME43VUhlWExLWXluakxjdE1HV2RsVjJta3ZONW9ua0tWNEEzQzZHcGFSN3BKS1VWQ3R5eEE?oc=5",
+     "published": "2026-11-02T19:22:00.000Z"
+    },
+    {
+     "title": "European natural gas prices plunge more than 10 pct amid hopes for U.S.-Iran talks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcmFYeWlMMWZIVVpyaUxha2RzdkZiejVYYjdCeVQ5U09HdGVSWFlwZlowWjUyUV9zc2tGbVFES1BucDRMZVFWT2h2cS1RUG43QnZJbktKNVNya0t4ZmVQUERzcGJka1JlYWp5Ry1jRVhIVjN0dUhNVlRxUGNuZjRpeGVwSGV1dzFiUnh5Nmp4TTl6cXN4U2piTFRLM1ctOEVlU2VFQ0xweFMteU1hNzhuM3ZJNWpHY3J3ZkQ2YlpmSnlKOHlBenBLcA?oc=5",
+     "published": "2026-11-02T18:54:00.000Z"
+    },
+    {
+     "title": "Other Sports: Flag football-NFL-backed Premier Flag league to launch in summer 2027",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSkhGeHF5NGRINkd5dTBaMUdHZHk5bjk1SHRoYXJXaDIxUWRPbXNVaUZVTDZYczNoREZ1YUczWTVPQTdiSlpyRnEzRm1zYlRoLXNzUlFVUk9kMGJCaV9IU01VdDdjdDJFVmNISV9IWlM0bkIxWFVGR01OUFBkZFFuTTBwUkNQdnh5SHA0WGd5WTA3a3BSaHB2cGw5Z1oyTHYwcWdocEU1eUlXSWgySFZpSWJvMjRERHRSMVRsRQ?oc=5",
+     "published": "2026-11-02T18:15:00.000Z"
+    },
+    {
+     "title": "Russian bombing kills 24 in village in southeastern Ukraine, emergency services say",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQclBkTUFGdzhKanpPNDR6QnZpUFk4WGNsNTQ1WW0tNmhjQlVQdkdraGtWcTI2X1RTN2t3anpJczdlN1pEM1hYUUtCOHAzMG5iR1ZpOXpFb1RRYWpZSGExbWJndlRqdnpSVzFVOGMyN0V2YXRHVVhjRm1Ha2RMelRodEVqaGMyaEYwWmozQkQtSHE2TWtzZW5VTjZWcWNLNDN1X1V2b0dtNTQ4ejBITEZlbm5jNGRqVTBVbW9KUFVXdmMxZTMyTkJ2YWlMOA?oc=5",
      "published": "2026-11-02T17:37:00.000Z"
@@ -82,30 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQUR1Q0JhV3oyZkQxeHB0VHFFYkpIbm5Fdk1DVUY0eXBzMnNKRVU2THVTY01HVkRSLUEtdm85X2wxRjFKd2Y5Y05HU3JLOUd6VGRudVVGUkljRDNiR3RmVGg1VW5sejE5QTZwQnZoelFrVTA5SE5aYVZfcDBCMEVfbHQxcHk3c2JXcEFlOEJySDd5VmdzcnVjQ1pnd3dEeC0xbkpwVXFjaU5jbVA5Ynp6QmV1Q0w?oc=5",
      "published": "2026-11-02T17:05:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Tenerife match abandoned after player collapses",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFd0SkR4UmhCSS1SNm8xSWl5SVFkUncwQmFNR3kwSDN1SGp3RGw3ZEpwU2ZiMDF6aFhxNHJOZVQtVEF6Q2t2YnlmcWtqTkQzUTJTT0V4LTFsYVI0dV9qeDZXZmNqbERaQjJPemE0RkpQUF8wRXFmN215RFJucERPS3kwbVFxdmpNQm5ZaVFadDF2Nk9keXlxNFdUNmY4eVpmTDcwTjZFZXlFUHVLcWIyVmpxRi0xQm5zNlhhV2k4eGpFUQ?oc=5",
-     "published": "2026-11-02T16:52:00.000Z"
-    },
-    {
-     "title": "Cricket-South Africa's Verreynne, Prince receive ICC reprimands",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcktwOC04NFExOXctMjlDbzJtQk84bi1JeVE5SEd0T3EwOW8xcUJGMS0tV2N0NGV0aEliVENCSEoxd0FtcWpnRDhFM3ExVEJoZEh0Yzh1SnBTYzZBdWpmdER3eHhiaW9lUFlfWllURmhCUUQzTHZSWHhMRVljaXFiSWxNRW85QVRMNTgtZ2UwQkxsdWFIcEY2NVVWWmFNSy14MHRXc21XTzlLb0RibFBuRmxJTTFxUXM?oc=5",
-     "published": "2026-11-02T16:40:00.000Z"
-    },
-    {
-     "title": "Belgian prosecutors probe cyberattack on supermarket fridges",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSml2UWhXZ0VDTTFuaDFhVUhHV1FRa3JYMURRcXZLY1hhNm5FdU40Ukc1ZUZJakxldG1sUE92YWhTQ3RlWGs2UnNPekJISU1ZRE5Wc3ROdkZ3b3EyaGF5UEpvT29DSHlNQW56eHIwMkt1OTA0V0NwWVA3SlNyWlp0N3g4eW1kb2lVa1A5MUdOZU4wVmpXeWRxX0FhX3ZvdlBoM1JkUHJ1VkNKWmgyUUE?oc=5",
-     "published": "2026-11-02T16:17:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
