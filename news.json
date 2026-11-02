@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-02T15:55:54.504Z",
+ "updated": "2026-11-02T16:57:58.783Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "What polls do and don’t tell us about the 2026 midterms",
+     "brief": "Can the polls be trusted?",
+     "link": "https://www.cnn.com/2026/11/02/politics/midterm-election-polls-accuracy-response-rate",
+     "published": "2026-11-02T16:57:58.953Z"
+    },
+    {
      "title": "Judge dismisses case against former FBI officials who DOJ believes hampered Biden family corruption probe",
-     "brief": "A federal judge has thrown out a case against two former FBI officials who were charged with lying to Congress as part of a probe that focused on whether FBI investigators sought to minimize allegations of Biden…",
+     "brief": "A federal judge has thrown out a case against two former FBI officials who were charged with lying to Congress as part of a winding probe from lawmakers focused in part on whether FBI investigators sought to minimize…",
      "link": "https://www.cnn.com/2026/11/02/politics/judge-dismisses-case-fbi-officials-biden-corruption-lying",
-     "published": "2026-11-02T15:55:54.737Z"
+     "published": "2026-11-02T16:56:58.998Z"
+    },
+    {
+     "title": "Netanyahu lost his majority in parliament. Now he claims elections were stolen",
+     "brief": "On election day in March 2015, Benjamin Netanyahu filmed a controversial 28-second video, warning right-wing voters that Arab citizens were heading to the polls “in droves.” A week later, after he had won against…",
+     "link": "https://www.cnn.com/2026/11/02/middleeast/netanyahu-elections-stolen-claims-intl",
+     "published": "2026-11-02T16:55:59.048Z"
+    },
+    {
+     "title": "A Learjet nosedived into a road, killing 9 on board. Now investigators are probing what caused the ‘cataclysmic’ plane crash",
+     "brief": "In the blink of an eye, a private jet plummeting 450 feet per second nosedived into a Florida roadway, bursting into flames and killing all nine people on board .",
+     "link": "https://www.cnn.com/2026/11/02/us/florida-learjet-plane-crash-monday",
+     "published": "2026-11-02T16:54:59.071Z"
+    },
+    {
+     "title": "Historic flooding forces evacuations in Southwest as storm shifts east for Election Day",
+     "brief": "A storm causing historic flooding, evacuations and rescues in the Southwest is now pushing into the central United States, where it will bring soggy weather on Election Day on Tuesday.",
+     "link": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate",
+     "published": "2026-11-02T16:53:58.979Z"
+    },
+    {
+     "title": "Martha Stewart says she ‘really screwed up’ with homeless Halloween costume",
+     "brief": "Martha Stewart has said she is “distressed” and “sorry,” after her choice of Halloween costume sparked a backlash.",
+     "link": "https://www.cnn.com/2026/11/02/entertainment/martha-stewart-homeless-halloween-costume-intl-scli",
+     "published": "2026-11-02T16:52:58.967Z"
     },
     {
      "title": "Breathtaking images from Weather Photographer of the Year 2026 finalists",
      "brief": "Astonishing photographs of rainbows, lightning strikes and incredible cloud formations are among the finalists in the Weather Photographer of the Year 2026 competition.",
      "link": "https://www.cnn.com/2026/11/02/weather/weather-photographer-2026-finalists-scli-intl",
-     "published": "2026-11-02T15:53:54.791Z"
-    },
-    {
-     "title": "Coffee’s new status symbol is a machine without plastic",
-     "brief": "For decades, it was all the bells and whistles that was the selling point for a fancy coffee machine.",
-     "link": "https://www.cnn.com/2026/11/02/food/coffee-machine-plastic-free",
-     "published": "2026-11-02T15:52:54.777Z"
-    },
-    {
-     "title": "Lindsay Clancy returns to court as the prospect of a retrial remains unclear",
-     "brief": "Lindsay Clancy returned to a Massachusetts courtroom Monday for a hearing that could determine the date of her retrial on triple-murder charges for the killings of her children – or whether it is held at all .",
-     "link": "https://www.cnn.com/2026/11/02/us/lindsay-clancy-court-hearing-retrial",
-     "published": "2026-11-02T15:51:54.770Z"
-    },
-    {
-     "title": "A mystery skeleton found in a Roman sarcophagus at Westminster Abbey may finally have an identity",
-     "brief": "A centuries-old stone coffin discovered more than 150 years ago at London’s Westminster Abbey sparked a question that has endured ever since: Who’s inside?",
-     "link": "https://www.cnn.com/2026/11/02/science/mystery-skeleton-westminster-abbey",
-     "published": "2026-11-02T15:49:54.787Z"
-    },
-    {
-     "title": "Washington reports first US bird flu death of 2026; health officials say risk to the public is low",
-     "brief": "A person in Yakima County, Washington, who caught bird flu after being exposed to infected dairy cows has died following a severe illness, county health officials said on Sunday.",
-     "link": "https://www.cnn.com/2026/11/02/health/bird-flu-death-2026",
-     "published": "2026-11-02T15:48:54.804Z"
-    },
-    {
-     "title": "Learjet crashes and erupts into flames in Florida, killing all 9 on board",
-     "brief": "A private jet traveling from Austin, Texas, to the Bahamas careened into the ground in Palm Beach County, Florida, Sunday afternoon, leaving a deep crater and burning debris just feet from nearby homes and businesses…",
-     "link": "https://www.cnn.com/2026/11/01/us/south-florida-plane-crash",
-     "published": "2026-11-01T12:00:00.000Z"
+     "published": "2026-11-02T16:50:59.024Z"
     }
    ]
   },
@@ -53,6 +53,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Tenerife match abandoned after player suffers severe head injury",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFd0SkR4UmhCSS1SNm8xSWl5SVFkUncwQmFNR3kwSDN1SGp3RGw3ZEpwU2ZiMDF6aFhxNHJOZVQtVEF6Q2t2YnlmcWtqTkQzUTJTT0V4LTFsYVI0dV9qeDZXZmNqbERaQjJPemE0RkpQUF8wRXFmN215RFJucERPS3kwbVFxdmpNQm5ZaVFadDF2Nk9keXlxNFdUNmY4eVpmTDcwTjZFZXlFUHVLcWIyVmpxRi0xQm5zNlhhV2k4eGpFUQ?oc=5",
+     "published": "2026-11-02T16:52:00.000Z"
+    },
+    {
+     "title": "Other Sports: Sailing-Early Route du Rhum setback for Dorange as protest looms after crash",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQODZNdXpIclJEYkNzY0pRcm5qeWVIUlJJVFpqOUZ0b2pRamttMkUtWEN5Y0hJWU45Y3VxNDVrRmZRbXhsdmhLZ2VqWVV3bmxLb2k5WERwUmRkVGZNR2dhRkNQdHNQMDNhRjU0MXBrNjFLT2lBc0ZiUkctLUVPbnFzelRZY0V5Qi1naERITGFMdkpDbEFTZS1Dc3N4eXQ0aDlQUHJjbkQ2ZnJid3BHaDhISWhuOXdab0dDcjAwY1RzejFISWNhenc?oc=5",
+     "published": "2026-11-02T16:42:00.000Z"
+    },
+    {
+     "title": "Cricket-South Africa's Verreynne, Prince receive ICC reprimands",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcktwOC04NFExOXctMjlDbzJtQk84bi1JeVE5SEd0T3EwOW8xcUJGMS0tV2N0NGV0aEliVENCSEoxd0FtcWpnRDhFM3ExVEJoZEh0Yzh1SnBTYzZBdWpmdER3eHhiaW9lUFlfWllURmhCUUQzTHZSWHhMRVljaXFiSWxNRW85QVRMNTgtZ2UwQkxsdWFIcEY2NVVWWmFNSy14MHRXc21XTzlLb0RibFBuRmxJTTFxUXM?oc=5",
+     "published": "2026-11-02T16:40:00.000Z"
+    },
+    {
+     "title": "Ice hockey-AJ Products cuts world championship sponsorship following Russia ruling",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHFwdkRrdjZZRXQ3bkotOEplZFpHb2JMNDJLY0t5MEh6dGIxdU9KMnpDWjdSNVJLZmNaSjA0SlFkMGtjSnY2SDVmb2gyVEUyRjZiWVFwcUJ6clVZdTRHdU1jbFo4Y2JIUWlDck9sNXBkZzFubVNhdVlkZjR3Xzgwa3pZVTVTRWMtYkxCZWxXTW1yNXNKZ3JGYjA5NXQ2c3A2LWxDZVdGLUFCTU1BWi1sSi1YOUdlNGdVMGM3U0gtWC1iZ0t5bGRDLXNFbDRhZw?oc=5",
+     "published": "2026-11-02T16:13:00.000Z"
+    },
     {
      "title": "Seven migrants die in seas off Spain's Canary Islands",
      "brief": "",
@@ -76,30 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQalhYNF9pOFRhNldHeWMyTlloZ0dORkQ0V1kwSGxwUm9BVjJwc1NQRTFtTGlJUWNTRktiSUhWRmpVeWt2THI1YUtsODlzRTJ4M0pPcFZqanRaNlFweXN3cVpSTkV1SWs2RFRFZzVoWmQ2ZUlZcmM3OV9Sd0taTmdtNXpQXzFwY3BKMlcxU2tIR3ZiVENEakZSNWJreTcwaHViaElNNEs0YUg1MWVrb2tj?oc=5",
      "published": "2026-11-02T13:47:00.000Z"
-    },
-    {
-     "title": "Boxing: Boxing-Paul to return against Doumbe in Dubai on Christmas Eve",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYXZ1ODhVWFdsMXZiQTExMUlZRVFzLTA2VGs4SHBjMnVvS3pKejRSVmpSQVRpc0twNnI5Vmhra09haU1zS21Qb0s3S3ZuU0lLQ1diN3hZaWlsYTBkVS0tUnRFc3AzM1d3MDEzS2VsSEMyUVRFTFhNcmJhQnVwMzF3Q3dRdi14V1lzSmxyYlBCSi1Gal8zMldvX25Ea1VvOEh5LTlqU3N1ektXUXZ6SUxmc0RTSQ?oc=5",
-     "published": "2026-11-02T13:46:00.000Z"
-    },
-    {
-     "title": "Flash flood temporarily closes NKVE stretch between Setia Alam, Shah Alam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUlJFVlZ5aEFBNV9mLVdLVkliZHRLN0VjUUFmWXZ4THM3NUFNODFYREhBN1BLVlI5dE04WUFDd2FYUnEyMjduVnlKWDZXQjdlbi04eWgwV2lTZVRoNm9oRlFNOHY0UFNwcVZHdGZidnNvYWEwalBuenFSazdCUHB0Y1RHVUMyUnpnSEJwOWlEY2JIZDRGQno1VzkzZk1sRlpvSF9QMmZ1STcxX3prRDJUYU5rSkJ2YTJ3TTJULXdNUQ?oc=5",
-     "published": "2026-11-02T13:30:00.000Z"
-    },
-    {
-     "title": "HK action star Michael Chan, 82, sparks concern after seen using walking stick",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVEQ5dXlMN0JycTBXS2FQUE5FWlVCcTZrdUdicFBUTE9YbjhNeHBPVXd2OV9NZm01M0o2QUxvQkU2dlZCR0RsSjAyaTJfYnhzbUFHUTN6N3QyalJ3YXBmcVNmTHVhTUdnbzg3cHhBOE5rN0pvYWd0akpSVlRrbklTLW52VTkxSzNhcHh3NnE2SXNqUFZ4S2ZDN2JhWWhEakVTcVYwLURNR1hjcjhnek9wWWpTNERkeUZJRE1KYkdISmRGM0JWTG1LMzE0WDJQc3V2WHB4Ug?oc=5",
-     "published": "2026-11-02T13:00:00.000Z"
-    },
-    {
-     "title": "Police rule out racial, gang elements in Sungai Besi cafe brawl",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmxBUE56YWNfMDFSU2ZyX2UyNnhmaTUyQm84bkNjY1Q5blUxWVhRVExEbG9BNEhxaDlLOXVXcnRMWTVxUTdBTHhXODNfRC1HWlZ3MUwtcDZqZmZQRGVPdTFycjN3UGdvSEVjZUtMaVB0Yi1UcnNxRkNVMThGZzUtWjZFMEtvcXdKYTdYQS1UeURKV0dCdmp4OHFaR0syQzVva2l6VDlBQWtXOEZqbzlxaGt3?oc=5",
-     "published": "2026-11-02T12:03:00.000Z"
     }
    ]
   }
