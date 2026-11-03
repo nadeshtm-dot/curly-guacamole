@@ -1,33 +1,27 @@
 {
- "updated": "2026-11-03T17:45:46.761Z",
+ "updated": "2026-11-03T18:44:52.166Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Bomb threats on flights in Europe cause disruption, no devices found",
+     "brief": "At least seven flights and a cruise ship in Europe received bomb threats on Tuesday, causing disruption at airports although no devices were discovered.",
+     "link": "https://www.cnn.com/2026/11/03/europe/bomb-threat-airport-warsaw-intl",
+     "published": "2026-11-03T18:43:52.379Z"
+    },
+    {
+     "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
+     "brief": "A convicted murderer who escaped a Tennessee jail was apprehended and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
+     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
+     "published": "2026-11-03T18:42:52.347Z"
+    },
+    {
      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
      "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
      "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-     "published": "2026-11-03T17:44:47.002Z"
-    },
-    {
-     "title": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
-     "brief": "President Donald Trump said Tuesday that the United States is cutting off $4 billion in aid to Israel at the end of the year because “they don’t need it.”",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-us-aid-israel",
-     "published": "2026-11-03T17:40:46.977Z"
-    },
-    {
-     "title": "Bomb threats on flights in Europe cause disruption, no devices found",
-     "brief": "At least seven flights in Europe received bomb threats on Tuesday, causing disruption at airports although no devices were discovered.",
-     "link": "https://www.cnn.com/2026/11/03/europe/bomb-threat-airport-warsaw-intl",
-     "published": "2026-11-03T17:39:46.995Z"
-    },
-    {
-     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
-     "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
-     "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
-     "published": "2026-11-03T17:38:47.007Z"
+     "published": "2026-11-03T18:40:52.330Z"
     },
     {
      "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
@@ -54,16 +48,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Argentina name first squad of post-Messi era for November friendlies",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONE1JYnZjSTJGU3h6cEJzRllmZElFaDQ3Uks3eXFCYVdPQk81T3I0VVpBVjZSQ0FfeHZsNzVkaVBQWFlSUk9ENFN0a0pEdldJS3A0Ym9pQi1KMGlTYk5TYW5rRk5ORzdiTWtuNHRYbUpHRTAzdFh0TFJtQlU0R1lXRVNaY1A1eDV5cXpxVUtXYUpvWHlQNnJ5UC1hTldSQlBrVW84dUF6YmRYSHJqQTAwdkJCQWw4YURsZDVCemR4M3JZMVV0dUFz?oc=5",
+     "published": "2026-11-03T17:55:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Gravenberch misses Fenerbahce clash but weekend return possible, says Iraola",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFl5UWtONWZOMmUyek9acnVJdTZtRExXRVNETlNKVHQ5ck1wbTFqNTI2R1djenBfSElsM0xOTnN4UFZ2YVhlc0xEQkFuY0xONzh3M0NrQkszZjh3cG81WmpoUzZwbHM0dW1jT1hNT3Zsd1B0bmI4RzdjMEVWenEwTGxfaVo1YTZWWTNpak5jOUREZlh1dTVsY2pXWHZYcEZ5NzZvRjVqZkRJM1NiOVNHcnJVckFYXzh3RjFsVVJZNkJjdWNrNXJEaEg4dXJyQldI?oc=5",
+     "published": "2026-11-03T17:46:00.000Z"
+    },
+    {
      "title": "Greenland parliament ratifies security deal agreed with Trump",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0IwZ1JHZ3hqNkFtbGhWQ1hvUkx4c3BFX0ZwSDFfdm0tc09XRTgxNVBIeGVyZ0pjWE1OSW96WW1lOEtvUExCWVFmc2o3bnEwUl8tWnlmOXFMNXJPSW1BQ29RSXR4ZUtHM0pONGdiMDRubThLV3FoQVhRU1pmd21WSVZQWWZlelFIaF85dm5zbE95MlRjNXhmWksxb0Q4LU5jYjQzU0pQYnNYWnNhVC1z?oc=5",
      "published": "2026-11-03T16:44:00.000Z"
-    },
-    {
-     "title": "Anwar moved by photo of his first parliamentary election win over four decades ago",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGNROW15TWViYjhLMHhLdXh1YUVjVUY0eVdKdE5PbnJQdHItU05yc1V2VmYyU3J0ZEE3ZjB6dHdYZ2Y4T0xUb0hqdHh5MWJ5b3B1MWZUTzRiLVZKOVowcVRFWGg5X29PZVBIQ1Q4Q3pZSExxSlQzYWl3R1RpTWxuQmFaaGVSN2RhdUF3Y1FPcW5obF9jVmI2TERmclh0b2NvSW1WYTdocGxTS1JiUUNQeUNHMndRU1NRNXpIS1hFeGF1N3ZrWUZZWG95azdGcnVBbmt1X3k4c2I?oc=5",
-     "published": "2026-11-03T15:16:00.000Z"
     },
     {
      "title": "Hungary's former PM Orban says he rebuffed secret police recruitment",
@@ -94,18 +94,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVluaHN3TkZfM0VvS2hDTGxjUnJHVmtqc25CYW14V0VNT01hRXpqQ01tRW5ZMHFsZHNleWl0bmtMaEpQYlA1aDZMTUZfTC1COTJOTktKU183b1JvQ0R4d01vQUpGVHl0d19sRVEtbUQ1TEM2anRuakl4dGctSVZ4RzhheTByd0lnYk5BeFMzc29SdTV3S3JfcTBCOUxWYXZwTUFIUjhLaWpzR013TzBhZW5tbWJ1OW15RDgyMjQ3bnBUVFFfWkE?oc=5",
      "published": "2026-11-03T13:35:00.000Z"
-    },
-    {
-     "title": "Melania Trump to host Russia, Ukraine representatives at White House",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlWT09vMkxYZjdIU2NiTzJ0MUl5bnVSNGN0TWhQYTh4WUdEN24wWUVRRjEyWlRVdDA3cUNmcVNtc2EtQlpVZEt0dmk3R0JCMWV3TlFwd1M3TXpIeldUWUZ1S1d6SXFmeElROVRpa0ZqS3YzcDJpRkUyYS1rR080ZVM3TjVjNUt0ZURhTEtYRVVDUUdKWTNSaWdiRnhFclpSZmRMbG0tXzBlTDlnMWdGdThYR2pyTkk?oc=5",
-     "published": "2026-11-03T13:11:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 6 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
