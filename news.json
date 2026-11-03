@@ -1,21 +1,39 @@
 {
- "updated": "2026-11-03T09:52:51.221Z",
+ "updated": "2026-11-03T10:53:01.958Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+     "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
+     "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
+     "published": "2026-11-03T10:53:02.133Z"
+    },
+    {
+     "title": "Can AI safety and profit growth coexist? Anthropic is betting on it",
+     "brief": "In 2021, a group of employees at OpenAI left the company to start a new lab focused on safe development of artificial intelligence.",
+     "link": "https://www.cnn.com/2026/11/03/tech/anthropic-ipo-ai-safety",
+     "published": "2026-11-03T10:52:02.190Z"
+    },
+    {
+     "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
+     "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
+     "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
+     "published": "2026-11-03T10:51:02.206Z"
+    },
+    {
      "title": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway",
      "brief": "Russian drones have struck at least a dozen merchant ships in the Black Sea in recent weeks – killing more mariners than have died during the Iran war.",
      "link": "https://www.cnn.com/2026/11/03/europe/ukraine-black-sea-drone-attacks-intl",
-     "published": "2026-11-03T09:51:51.431Z"
+     "published": "2026-11-03T10:49:02.200Z"
     },
     {
      "title": "He reimagined his parents’ wedding portrait, with their roles reversed",
      "brief": "In 2009, he was studying for his art degree and had recently come out to them as a gay man — both of which they struggled to understand.",
      "link": "https://www.cnn.com/2026/11/03/style/liu-hsing-yu-photography-snap",
-     "published": "2026-11-03T09:50:51.558Z"
+     "published": "2026-11-03T10:48:02.211Z"
     },
     {
      "title": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
@@ -34,24 +52,6 @@
      "brief": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday.",
      "link": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
      "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "‘He would wind her up’: Democratic anger at Haley Stevens’ fiancé boils over after her endorsement reversal",
-     "brief": "Late last fall, Haley Stevens decided to get off social media.",
-     "link": "https://www.cnn.com/2026/11/02/politics/jason-turkish-haley-stevens-michigan-senate-mike-rogers-abdul-el-sayed",
-     "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "Texas couples, 2 young children, caregiver and pilots killed in Florida Learjet crash",
-     "brief": "In the blink of an eye, a private jet plummeting 450 feet per second nosedived into a Florida roadway, bursting into flames and killing all nine people on board .",
-     "link": "https://www.cnn.com/2026/11/02/us/florida-learjet-plane-crash-monday",
-     "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "Deadly flooding forces evacuations in Southwest as storm shifts east for Election Day",
-     "brief": "A storm causing historic flooding, evacuations and rescues in the Southwest is now pushing into the central United States, where it will bring soggy weather on Election Day on Tuesday.",
-     "link": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate",
-     "published": "2026-11-02T12:00:00.000Z"
     }
    ]
   },
@@ -60,7 +60,37 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Tenerife striker Jesus de Miguel dies after collision in match",
+     "title": "Samsung to make AMD, Nvidia chip parts at second Texas plant, Maeil Business reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNnZOMXlIQzdvVHNDWjhfTGZRVExoQy15U1lHSGxSb2xVakNyR1JJVnVjeXczZG45Y3hRMThCYVJEcGN1TXpEbUw3YWR1c3ItQnUybWhmcnc1TXpiRkhYRHlOYmpjMFdJc0JFYXFkTW82eVJMNjMxeWI1RzV3ME9QRDVoZUpCakhkSWkxRUQyVnIwdV9Xck94M3hoR0tFcDJyLVJSdjYza1ExRk5ibEt0blFvdVF1S1c4LUREM0xMLXYzdHFmaWpzcTJwMUN1b1Zo?oc=5",
+     "published": "2026-11-03T10:35:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-West Ham part ways with manager Espirito Santo",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUVpRYVQwXzZFRWRZNUIxM1o2dzhEQkRDYVYyeU5Yb0JrczNLUS14S08zSTNSSHB6WjN0SjEtVmIwaUZyZUZickh6TG1VVXVCNzJUNWdEam9lZnF0c1U4c0ZsTktfcW1ZdmRCUEVoUkJ4SU52YXQwdUhxQktGT3h1bmdGVnpwSW1Na1pDQ2hqOVVaa1hUSTIwSXBRM2lKLURzTk5DOG5JMl8yZw?oc=5",
+     "published": "2026-11-03T10:30:00.000Z"
+    },
+    {
+     "title": "Bomb threats reported on two passenger planes to Warsaw, both land",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTnFGN19WZGZ2eDNRelpiYWI3SzZRcExoSm40S1RtYm5SX2FuOEYzaW5QSkh3V2FnbndXaXhiVGRDNmY3ckR0VVBtOWpybGJEWjZZdzB6Mm5JNTRxWFVwaUljZVZESERUTWpreGh3dWh6M3lXSl9xX3pSNkRXdUI1OThvcXM5ejA2eGdsTlpLY29HYXAwWXV5cVFuSmZfd2owOGtEN3ZWTmNhWnB6S0JGTl9KWU8?oc=5",
+     "published": "2026-11-03T10:29:00.000Z"
+    },
+    {
+     "title": "Heart And Soul: 'Spirited Away' and life lessons",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd3AxdEtOQ1k5ZTI3cTI1OG13UkdpbS1YSVhWLTMwcW9XWlJqSE5uMERpOGRSMGdRQWotUEVpaTc1VmY3UXFIYVNENmFfQ1FMNnlac2ZkdmNEVkpoRVkxOHVvVHpmNXJKQndmN1R4d0N4b0ZBT2R1MVgxMEIyZWFtVEpRdjlNQ2U2aHFBcmZiQmFHVjNFZWhTTDlLb01pUFp3RUtwVzk0VUVrdw?oc=5",
+     "published": "2026-11-03T10:00:00.000Z"
+    },
+    {
+     "title": "Hong Kong logs hottest October on record",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT0Q5UzhmVENUTFc2NnNJelpfYkVCV0l1cnd3bnh1RzJ2NWhURUZpeHJTeDUxb3UzVWVTLUVJWWNtQVNYUzBDNDN4cENEd3gwalBzRDNkQ0I0T0RQVG5taEZMN3V4bVRnMnd0OVJCYmNJWVdSMmNKV1NWWVZWcmFNeWdKUG43aTJKWmNMOTl0Z3dqQ1lHZnJBckxGMHRicUE5aXozUml3?oc=5",
+     "published": "2026-11-03T09:44:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Tenerife striker De Miguel dies after collision in match",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaWo0RGV1elE2VVdjWTZUa0dEODVxVGo2VllQZl9QV3BrZ3BmZUpucXBkYWhYckZzQXBzVnJubXlIUnJKU2ltZEl3QnBSWF9HOEFOZW1MdjJ3b2Z4aURoeTc5V3BMdnlTQUVJVlk2YnJNQXlYcHRzd2FNbFZiS0dxcjloX21Ja0t2UWY4MUJkNmo1a1d6WEdGV1NnaUMtN01oMXpZbmx0NGVmUEM4blF2MGJlc1VTZEJVeFBqSHh6TQ?oc=5",
      "published": "2026-11-03T09:09:00.000Z"
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTERUa1lidWJKUEZjTzdNZE1aNUxYRDR1dHdVR01nQVI1TU1wWnVNdXREcmpIUEI3U0NHN1l0dWVDdlZINmpkWDZzUDlCaVRWQUtrS05qS2NwWk1mVG9jTGM4cGNtNWNvMGZLZUVUMGhtTjJ0SDFRc2h3VTVIbERTVkthV0tDRUdabnRZUU9oVVY3YjVicTU4R0dUUE1MRHRzZm9fakEwRGtpV3hnU0N6V3FkMWVvdWM?oc=5",
      "published": "2026-11-03T08:51:00.000Z"
-    },
-    {
-     "title": "MCMC investigating social media post allegedly insulting Selangor Ruler",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3cwR3RvUVVLcE5hRXJQNWRXQThvQXF3MnY0aHZvSk1LUjZwamVTdUFzTkRPRDBGdUszczRFejFoVFVzdWJoZDJ3aWprMkVFTVl4emtOdkVINGxVRTc1RUZNRm83bEZ4dUpoMjl6MVBEaDBCcTJDRGFmNEZlamJUalZNZ014dGtMLXZkMVJvT0l5ekZ4SVowOWx3MnZTV0NGN2pIWXBxS3RVSURQaFdPYVl3R3d0bVMwWVE1WDdB?oc=5",
-     "published": "2026-11-03T08:18:00.000Z"
-    },
-    {
-     "title": "Cricket-Conway out of India ODI after collision with Henry",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTVwdEo5ZXdXNUtwdXJoUU5UYWs1OHE2dzZJY3NlNnFUOFZpWUZzOWY2N1pqdmIzRjhzRENMMk1zT3lQeVZwX3h6dGhGamo2a3RoOFFnYkhwZEFiSmotQWpQU1VXS3BBR1BJMmFLZV9COU9WU0VtNGJ3WWt4UlJsT3F0N2hCZEtacXF4WGM4MUlSckVkejNCbzYtVlR1RjhCYmpNanl4QU5MTTl6MGEw?oc=5",
-     "published": "2026-11-03T07:15:00.000Z"
-    },
-    {
-     "title": "South Korea investigates online leak of president's passport details",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2o4blFHYlZMY09ob3NMSFluZGptc2pGOUtQSEtocV9tWloyX19vcm5vSHdhVnMyS1NzZUxKNllnZ09ueFJTLTl3cDI3dVVnTDRvWkJ4d2pSLXZGQ0hGbXZsaTRPT1R3enZHb0M4alpfclVac3JOU3ZmRHBQVHdadWpMSkFUS0wxTGk3VTNnZWxDTnY1N2lyc1dkeDlhSlBOVXNnYWRuOW9nWERoNmt4SnVjeGstamZHS2xZaUdFQ04?oc=5",
-     "published": "2026-11-03T07:00:00.000Z"
-    },
-    {
-     "title": "Gold eases ahead of US midterm elections",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa2x5RDBXSFRFaDlja1JkY3pBaDJQUFhiUEc3R0szc3JXbHA3WFpWdk1SblhieWxYRkFsQWYyamhsYndHZXNFMnp4U2tKWFlJOGtITHpPVHhrQ29sSmE0V25JNThVeTkyS0RBTndLWi0xVEUzQ1Fybmh4WGdoblhxdjc0WkxSdzFvNkNIcmJNMjg5LWZKSnpfN1FDS3I4NW9HaDJj?oc=5",
-     "published": "2026-11-03T06:43:00.000Z"
-    },
-    {
-     "title": "(Video) Why so many elections?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnFFTTN5bVY1WWFxZUswUVRVc3ZXNnFCOTZLcnQzX3ZBSlU4NWdVSjhoZFpGWXVqOTZ4SmFVZUR6ZFcwMzAwZk1mdWJxUzRIN3JZSmE4ZkNBZHQ0MmVjaEZxdHNGekxGbEFneldJYWxkcU9GN1NKcFY1eHpzcnBVeVpMcw?oc=5",
-     "published": "2026-11-03T06:43:00.000Z"
     }
    ]
   }
