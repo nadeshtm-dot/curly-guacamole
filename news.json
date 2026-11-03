@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-03T06:58:32.245Z",
+ "updated": "2026-11-03T08:10:09.449Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "He reimagined his parents’ wedding portrait, with their roles reversed",
-     "brief": "In 2009, he was studying for his art degree and had recently come out to them as a gay man — both of which they struggled to understand.",
-     "link": "https://www.cnn.com/2026/11/03/style/liu-hsing-yu-photography-snap",
-     "published": "2026-11-03T06:58:32.456Z"
-    },
-    {
      "title": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway",
      "brief": "Russian drones have struck at least a dozen merchant ships in the Black Sea in recent weeks – killing more mariners than have died during the Iran war.",
      "link": "https://www.cnn.com/2026/11/03/europe/ukraine-black-sea-drone-attacks-intl",
-     "published": "2026-11-03T06:57:32.514Z"
+     "published": "2026-11-03T08:09:09.766Z"
+    },
+    {
+     "title": "He reimagined his parents’ wedding portrait, with their roles reversed",
+     "brief": "In 2009, he was studying for his art degree and had recently come out to them as a gay man — both of which they struggled to understand.",
+     "link": "https://www.cnn.com/2026/11/03/style/liu-hsing-yu-photography-snap",
+     "published": "2026-11-03T08:08:09.758Z"
+    },
+    {
+     "title": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
+     "brief": "The US military carried out limited strikes on Iran’s Qeshm Island on Monday, three US officials told CNN, characterizing the action as defensive in nature and meant to protect US assets in the region.",
+     "link": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island",
+     "published": "2026-11-02T12:00:00.000Z"
     },
     {
      "title": "An hour-by-hour guide to election night poll closings",
@@ -27,12 +33,6 @@
      "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
      "brief": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday.",
      "link": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
-     "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
-     "brief": "The US military carried out limited strikes on Iran’s Qeshm Island on Monday, three US officials told CNN, characterizing the action as defensive in nature and meant to protect US assets in the region.",
-     "link": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island",
      "published": "2026-11-02T12:00:00.000Z"
     },
     {
@@ -60,22 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Cricket-Conway out of India ODI after collision with Henry",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUTVwdEo5ZXdXNUtwdXJoUU5UYWs1OHE2dzZJY3NlNnFUOFZpWUZzOWY2N1pqdmIzRjhzRENMMk1zT3lQeVZwX3h6dGhGamo2a3RoOFFnYkhwZEFiSmotQWpQU1VXS3BBR1BJMmFLZV9COU9WU0VtNGJ3WWt4UlJsT3F0N2hCZEtacXF4WGM4MUlSckVkejNCbzYtVlR1RjhCYmpNanl4QU5MTTl6MGEw?oc=5",
+     "published": "2026-11-03T07:15:00.000Z"
+    },
+    {
+     "title": "South Korea investigates online leak of president's passport details",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb2o4blFHYlZMY09ob3NMSFluZGptc2pGOUtQSEtocV9tWloyX19vcm5vSHdhVnMyS1NzZUxKNllnZ09ueFJTLTl3cDI3dVVnTDRvWkJ4d2pSLXZGQ0hGbXZsaTRPT1R3enZHb0M4alpfclVac3JOU3ZmRHBQVHdadWpMSkFUS0wxTGk3VTNnZWxDTnY1N2lyc1dkeDlhSlBOVXNnYWRuOW9nWERoNmt4SnVjeGstamZHS2xZaUdFQ04?oc=5",
+     "published": "2026-11-03T07:00:00.000Z"
+    },
+    {
      "title": "(Video) Why so many elections?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRnFFTTN5bVY1WWFxZUswUVRVc3ZXNnFCOTZLcnQzX3ZBSlU4NWdVSjhoZFpGWXVqOTZ4SmFVZUR6ZFcwMzAwZk1mdWJxUzRIN3JZSmE4ZkNBZHQ0MmVjaEZxdHNGekxGbEFneldJYWxkcU9GN1NKcFY1eHpzcnBVeVpMcw?oc=5",
      "published": "2026-11-03T06:43:00.000Z"
     },
     {
-     "title": "New Zealand's National and Labour in dead heat days before election, poll shows",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbDdGLXF0c3FGNFFpYW82VW9nQTBNVl9xeGx6SFJVQWwteXpUa1RXU0p0SGR3a3dnTEhaOVhfX1kxV0lhQndmbDJ4RHRQLTJvYUlHTW5PdXB4SUlPdm9ENFRrc0hHcWFXUVVHUW1kQ2NnajRqX0tKdjVnandBblROei02S3pPaW9yUDNqWXFCQXlPdWhYWDlHdk5qRTU4VTdHeWdvZ1lIaXJhZGRCeHVHU1VNRDdYc1FNVjVWYWNZTXRmOU9XTUNfeg?oc=5",
-     "published": "2026-11-03T06:41:00.000Z"
-    },
-    {
      "title": "Cyclone Murasu makes landfall on India's eastern coast",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGVJNmJ0emJpQmhLNTNHN2tfRjIzWl9nMVFYWVJuSG9BVnptMjdCNThuZi11MC1GTFJjeUM3bEdXeE53ejFSM21oRFd0WDZVWEtPY1U1OG5vMW1SS1p3MXpjSENNYW1JZjl0NHppa28zZjN1RGg5ZkhiYUJHbGdoNUc1ZE03LVFJV0FKVTcxM1NQRkEwZzRsWWVHV05QWFZ5QUhyOXBnQVU?oc=5",
      "published": "2026-11-03T06:29:00.000Z"
+    },
+    {
+     "title": "Indian national killed after two helicopters collide in Nepal's Mount Everest region",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ3c0d0NsQ2ZCVXNWbDBXbDF0cVlQQllmN0NmSWQ5U2VKVHdDamZBQzMxRFBnV2hWSXpvb2cxMXN6al9SdGFvZldlclNtSkdUSDBTbXNpaUQ0NGg2ODRHdnEwSUxDUEw0eEdHazk3SEEyMXMydkRtWks2U3FwNktoX1NVZ1c1N3ZPdkR5RTdlMnNMOG1vYjRoSXdSeEFHZG9HU3BKZzJybkx3VnQtbGlRZmlJWjR2TGsxOV9qWi1TZVhrbDJVWUJETGZYMUJicUp5aU1SNGtKSDJRWVRfQURQbjV3Yw?oc=5",
+     "published": "2026-11-03T06:11:00.000Z"
     },
     {
      "title": "Singapore will push for stronger action against transboundary haze as ASEAN chair in 2027, says minister",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeXM5bXU3OHNSUzhTZGZOcUVPSXY3UXUydng0eEM0UWVmQ2FyRFdUeXpiU0R3X2dCdmFNbFRPQkxNUTcwdWd0S3Y3ZXhocFVrWjVTeE5pOC1CZDRoeDFQN1BETnNCNUxrSm9YVHl4b2RNNEZfOWM1OFFyanRrRU02WlhHWEd3WDZ4My1CLTFYS3lXRG5SellFY1hTd01IODZmejBtWXF2S0VNZXNTOWhlOXpaSDRuVzg?oc=5",
      "published": "2026-11-03T05:20:00.000Z"
-    },
-    {
-     "title": "Brunei withdraws approval of BEEP as payment system operator",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb3VzZ3VVOGZucS1aMGVGSWJLS1hvNGxNWjNVNTBnS1VXUFZma21XdGFLUFJSSDhwVEtFRWU4cjJpVE9yXzBzbzBscWFkTnVWT25MWHY1V2dPTHJZakZyNURYTlZTM1Z2SDZSVW05Zi1ONE9hMXR1VHoxZzlaYW5udDVYdnp2cno2Y0FyWVZsUlZmSW5QMDctMnFXakFlbWxvdmFHMXhTY2c1bFV3NWVSLUR6OEFzUlhGNVRMN3ZNbEI?oc=5",
-     "published": "2026-11-03T05:02:00.000Z"
-    },
-    {
-     "title": "Tennis-Feeling better, playing better: Djokovic sees light at end of the tunnel",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPN1VpYkpsLTdENFhqREJtYk5lSm5jelI2WjcyLTNJbFhtdzdQUERfT05KUUwtcm9Xdk5jTU5nN3NzeEE3Y2hUWl9zcjZzUWpSMm9iMzVWRkprMUFvWEdZXzE5X1I5d3VuUzBiYi1aN2hBUUpYOVRTSXBPNzlqLUtBZHQwcWZCRW1ENG5XMHpDenJCZ1ktY1NZcW05b25ucDlmZ3pPczQxYmpDYUZfdE8tTVJVUE80QzVLbDdaZUoydGx1QlhHc3Jj?oc=5",
-     "published": "2026-11-03T04:34:00.000Z"
     }
    ]
   }
