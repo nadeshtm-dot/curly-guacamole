@@ -1,44 +1,50 @@
 {
- "updated": "2026-11-03T18:44:52.166Z",
+ "updated": "2026-11-03T19:48:29.294Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
+     "brief": "A convicted murderer who escaped a Tennessee jail was apprehended in Missouri and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
+     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
+     "published": "2026-11-03T19:48:29.544Z"
+    },
+    {
+     "title": "Supreme Court prepared to rule that publicly funded religious schools can reject children of same-sex couples",
+     "brief": "A majority of the Supreme Court signaled on Tuesday it would allow Catholic preschools receiving taxpayer money to deny enrollment to children of same-sex couples , potentially delivering another significant win for…",
+     "link": "https://www.cnn.com/2026/11/03/politics/supreme-court-prepared-rule-religious-schools-gay-couples",
+     "published": "2026-11-03T19:47:29.519Z"
+    },
+    {
+     "title": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
+     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
+     "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+     "published": "2026-11-03T19:46:29.535Z"
+    },
+    {
+     "title": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
+     "brief": "President Donald Trump said Tuesday that the United States is cutting off $4 billion in aid to Israel at the end of the year because “they don’t need it.”",
+     "link": "https://www.cnn.com/2026/11/03/politics/trump-us-aid-israel",
+     "published": "2026-11-03T19:45:29.528Z"
+    },
+    {
      "title": "Bomb threats on flights in Europe cause disruption, no devices found",
      "brief": "At least seven flights and a cruise ship in Europe received bomb threats on Tuesday, causing disruption at airports although no devices were discovered.",
      "link": "https://www.cnn.com/2026/11/03/europe/bomb-threat-airport-warsaw-intl",
-     "published": "2026-11-03T18:43:52.379Z"
-    },
-    {
-     "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
-     "brief": "A convicted murderer who escaped a Tennessee jail was apprehended and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
-     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
-     "published": "2026-11-03T18:42:52.347Z"
+     "published": "2026-11-03T19:43:29.539Z"
     },
     {
      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
      "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
      "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-     "published": "2026-11-03T18:40:52.330Z"
+     "published": "2026-11-03T19:41:29.514Z"
     },
     {
      "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
      "brief": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday.",
      "link": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
-     "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "An hour-by-hour guide to election night poll closings",
-     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
-     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "Storm soaks central US on Election Day after causing deadly flooding, voting disruptions in Southwest",
-     "brief": "Widespread rain is draped across the central United States on Election Day from the same storm that caused deadly and historic flooding in the Southwest over the past few days.",
-     "link": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate",
      "published": "2026-11-02T12:00:00.000Z"
     }
    ]
@@ -48,28 +54,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Argentina name first squad of post-Messi era for November friendlies",
+     "title": "World",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONE1JYnZjSTJGU3h6cEJzRllmZElFaDQ3Uks3eXFCYVdPQk81T3I0VVpBVjZSQ0FfeHZsNzVkaVBQWFlSUk9ENFN0a0pEdldJS3A0Ym9pQi1KMGlTYk5TYW5rRk5ORzdiTWtuNHRYbUpHRTAzdFh0TFJtQlU0R1lXRVNaY1A1eDV5cXpxVUtXYUpvWHlQNnJ5UC1hTldSQlBrVW84dUF6YmRYSHJqQTAwdkJCQWw4YURsZDVCemR4M3JZMVV0dUFz?oc=5",
-     "published": "2026-11-03T17:55:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB1Ykx0eHBhV2RjNU54Z3Zva0hpOGNaa2Npdno3d1k0N25yWnhSVHZXY3FJZWktZlRZTE9sWW9GZUJ5aDBua0pfV2hIRGdDM2lHdjF5OXZFNzZ6cW1nWUE?oc=5",
+     "published": "2026-11-03T17:46:42.000Z"
     },
     {
-     "title": "Football: Soccer-Gravenberch misses Fenerbahce clash but weekend return possible, says Iraola",
+     "title": "Libya receives WHO recognition for remaining free of polio",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFl5UWtONWZOMmUyek9acnVJdTZtRExXRVNETlNKVHQ5ck1wbTFqNTI2R1djenBfSElsM0xOTnN4UFZ2YVhlc0xEQkFuY0xONzh3M0NrQkszZjh3cG81WmpoUzZwbHM0dW1jT1hNT3Zsd1B0bmI4RzdjMEVWenEwTGxfaVo1YTZWWTNpak5jOUREZlh1dTVsY2pXWHZYcEZ5NzZvRjVqZkRJM1NiOVNHcnJVckFYXzh3RjFsVVJZNkJjdWNrNXJEaEg4dXJyQldI?oc=5",
-     "published": "2026-11-03T17:46:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGZublBEWXlDVFlOZ3ZmMDFfMlY0dm9vbnpVSlU4VmVpczRjVHhBUEk2NExuNjFlY0xnazFLM2drLThKU0kxTlJpaVJWenpVS0dneWNrT3dJRTQ1T1g4OXIzaHB3SGtKVDlwM3hXZy1SeFcxOHRxNkZMTGVhWVF2Vko2ZGxwc1JsX21aakZUMzV3MElFbjNyQnpFRkxEQWtma3hBMTdJLVJHZlU?oc=5",
+     "published": "2026-11-03T17:17:00.000Z"
     },
     {
-     "title": "Greenland parliament ratifies security deal agreed with Trump",
+     "title": "Authors",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa0IwZ1JHZ3hqNkFtbGhWQ1hvUkx4c3BFX0ZwSDFfdm0tc09XRTgxNVBIeGVyZ0pjWE1OSW96WW1lOEtvUExCWVFmc2o3bnEwUl8tWnlmOXFMNXJPSW1BQ29RSXR4ZUtHM0pONGdiMDRubThLV3FoQVhRU1pmd21WSVZQWWZlelFIaF85dm5zbE95MlRjNXhmWksxb0Q4LU5jYjQzU0pQYnNYWnNhVC1z?oc=5",
-     "published": "2026-11-03T16:44:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIaGV3eFRxNE9SMXlFb25ya1lkX0lHWVNlVlpEa2NEUEJCZk0xVW9KdEVjbFFtbE1KUDlRTXFKNDVfNExYQWx5VWxNeU5qTUVtNmpiLXhaWWg1akFHTzJLdXFRYWZkQQ?oc=5",
+     "published": "2026-11-03T15:58:00.000Z"
     },
     {
-     "title": "Hungary's former PM Orban says he rebuffed secret police recruitment",
+     "title": "Latest",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTUFhR1hyOXRpMVRfNHNTV280eUNIb3BVOUtrYl8wT05ZekFwNnp2aC1iRzlXYVViWXhEYXVYdUlGSE81M2VTTTg4XzVqMlExdjRqQ2h1RGJFUjNqVkx3NTViaTdpLXhDdC05OFlQNzBQcEluWE9NT2ozNG5NaHRpZ1lDbFZoRTFpNXRhOWROZ0pIb2I1TW1fOVpLUmZQN0FVTUVTVGo0RXBuQjNFaHRScjBhbUVZX1lGUzhF?oc=5",
-     "published": "2026-11-03T14:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVFJnQ1ZwT0Q1MUUwZ2pNbFZTc0wyVEdWM0ZqaURmR3dtZVZidWpzVWN0NlNVS3J1STN4azNGcjdodW0yX09DMFdvU2thc1RUUjBmVE05TXpuTmh5TnBiVw?oc=5",
+     "published": "2026-11-03T13:52:52.000Z"
     },
     {
      "title": "Merz promises more support for Ukraine, warns Russia over Black Sea attacks",
@@ -78,28 +84,28 @@
      "published": "2026-11-03T13:52:00.000Z"
     },
     {
-     "title": "China foreign minister meets South-East Asian officials amid relations push",
+     "title": "Melania Trump to host Russia, Ukraine representatives at White House",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0ZqNDg2ejlxS0pVMXc2MTlMMjNuNklIYTJudFJFMHo3V3JzWWNSLWU2OU5URFBtNS1WbFlKem5uNy1Ia2ZCWEVRYnlzTC1jZm5URW1Da3ljejZ6TWlWeDhUeEV4dGVDeG5DRVpOdWhnYW54aDlMYVlycS00T3BQUjZpcEVLOXBhUS1VV1JBUndteElVVWJ6al84X2drRVdldVp4MWtzNU5VRFdqak1PREVGRWZlSWw5b01vM3B4VzBjVFBwRHFrSDAydDN3XzhHMkxTUg?oc=5",
-     "published": "2026-11-03T13:43:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlWT09vMkxYZjdIU2NiTzJ0MUl5bnVSNGN0TWhQYTh4WUdEN24wWUVRRjEyWlRVdDA3cUNmcVNtc2EtQlpVZEt0dmk3R0JCMWV3TlFwd1M3TXpIeldUWUZ1S1d6SXFmeElROVRpa0ZqS3YzcDJpRkUyYS1rR080ZVM3TjVjNUt0ZURhTEtYRVVDUUdKWTNSaWdiRnhFclpSZmRMbG0tXzBlTDlnMWdGdThYR2pyTkk?oc=5",
+     "published": "2026-11-03T13:11:00.000Z"
     },
     {
-     "title": "Nexperia sues Wingtech and its founder, demanding compensation for damages",
+     "title": "Julian Cheung reportedly rich enough to support 3 generations of his family",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2JEcTAwWkpPWXRjTm91V2N5aTdJU2libi1mdzlSV0MzbFJVQ3FxU1Q4a3dnTUV5d0ZudE9VQXZWbVJ5aUtaaGJ6NXA1RjZSY3YyemxJaUxCY3E1UC1PV0QwRXV5S1hla2xKNm45NWdpV1ZVeVN6TDFuTDFRUF8yRWk1a3RpTENJVEJycExGMXNtbjNiZDBGSFJnaUI3dFZ1bmMtTGt0bnpjaW44SmtDS2h1TFQ0UEZzTmQ3RUNZN25zWFVy?oc=5",
-     "published": "2026-11-03T13:35:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbE01Rk1CSHlGczd1NmlOazBXakkyMVpWOXpjbVhQNzI2eHBoM29wRlU0cUd1RWs2eTVpcEZUY1B4NHNJU1NEeHZmWkxzcVl4eDAwMDB4UlJpUjI2aUdYbWRzZW1JaXBmOVF1ZXA4bGtfVmZXM1I5LUo2VFVGYlRWZnVGY1NxTWctSUxxZ0pJWmxSSVZ4V3NzWTFtTjIzeHpqRTI1TFRZZVRySTY2Yk52RlVpY09wTHpIa3hkakF6YVZzYVp2NDRSNXc4aFFzT3dscDhKcHBtb29uSmRGVEE?oc=5",
+     "published": "2026-11-03T13:00:00.000Z"
     },
     {
-     "title": "Schwarz Digits and Bull partner up to build European AI computing services",
+     "title": "Proton October sales hit 21,624 units, second-highest this year",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUVluaHN3TkZfM0VvS2hDTGxjUnJHVmtqc25CYW14V0VNT01hRXpqQ01tRW5ZMHFsZHNleWl0bmtMaEpQYlA1aDZMTUZfTC1COTJOTktKU183b1JvQ0R4d01vQUpGVHl0d19sRVEtbUQ1TEM2anRuakl4dGctSVZ4RzhheTByd0lnYk5BeFMzc29SdTV3S3JfcTBCOUxWYXZwTUFIUjhLaWpzR013TzBhZW5tbWJ1OW15RDgyMjQ3bnBUVFFfWkE?oc=5",
-     "published": "2026-11-03T13:35:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOckRsbmxLVEdzY2hCa0FXeGFhalh4N2VvNjUxV3Yyc1dEb0JLQ3ZkRHM4MnJtMl9rVUtVQVpYU05ZX18zMXc2a3pmZmpPUEhGd25RMzF0RkVwWGFvT2RlZ1c3a1pfamJpVFRlRHNLV1FZb1RvbllRV1BkejJOamZvUXNlM05aLTBvLU9tdkZJM0EwNU9zNmdfQ0VqZkxreEd5U2NheDVyR0NuZXgwMm04VnNkdTJxTkxXT09qcF9Icw?oc=5",
+     "published": "2026-11-03T12:45:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
