@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-03T20:42:56.751Z",
+ "updated": "2026-11-03T21:39:52.876Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
-     "brief": "A convicted murderer who escaped a Tennessee jail was apprehended in Missouri and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
-     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
-     "published": "2026-11-03T20:42:56.962Z"
+     "title": "Spanish transport minister resigns after two deadly train crashes in one year",
+     "brief": "Spain’s Minister of Transport Óscar Puente announced his resignation after two deadly train crashes occurred in a single year, including one last week that killed 69 people and injured more than 200.",
+     "link": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam",
+     "published": "2026-11-03T21:39:53.135Z"
+    },
+    {
+     "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
+     "brief": "President Donald Trump is arguably the most pro-Israel president of modern times.",
+     "link": "https://www.cnn.com/2026/11/03/politics/trump-election-day-israel-aid",
+     "published": "2026-11-03T21:38:53.193Z"
     },
     {
      "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
      "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
      "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
-     "published": "2026-11-03T20:40:57.051Z"
+     "published": "2026-11-03T21:37:53.207Z"
     },
     {
-     "title": "Trump says US is cutting off aid to Israel at year’s end because ‘they don’t need it’",
-     "brief": "President Donald Trump said Tuesday that the United States is cutting off $4 billion in aid to Israel at the end of the year because “they don’t need it.”",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-us-aid-israel",
-     "published": "2026-11-03T20:38:57.024Z"
+     "title": "Zohran Mamdani has the most famous mustache in politics — for now",
+     "brief": "New York City Mayor Zohran Mamdani knows the power of maintaining a signature look in politics.",
+     "link": "https://www.cnn.com/2026/11/03/style/mayor-zohran-mamdani-new-mustache-movember",
+     "published": "2026-11-03T21:36:53.204Z"
     },
     {
-     "title": "Google will let schools turn off AI, but they may also lose Search",
-     "brief": "Google is rolling out new controls for schools to limit students’ access to the company’s AI tools.",
-     "link": "https://www.cnn.com/2026/11/03/tech/google-ai-search-policy",
-     "published": "2026-11-03T20:37:57.046Z"
+     "title": "Justice Department sends criminal target letters in Alaska probe to people aligned with Democratic party",
+     "brief": "The Justice Department sent target letters to more than a dozen people it believes helped recruit a Senate candidate with the same name as the Republican incumbent, in Alaska — an indication that the department is…",
+     "link": "https://www.cnn.com/2026/11/03/politics/justice-department-target-letters-dan-sullivan-alaska-democratic-party",
+     "published": "2026-11-03T21:35:53.202Z"
     },
     {
-     "title": "Supreme Court prepared to rule that publicly funded religious schools can reject children of same-sex couples",
-     "brief": "A majority of the Supreme Court signaled on Tuesday it would allow Catholic preschools receiving taxpayer money to deny enrollment to children of same-sex couples , potentially delivering another significant win for…",
-     "link": "https://www.cnn.com/2026/11/03/politics/supreme-court-prepared-rule-religious-schools-gay-couples",
-     "published": "2026-11-03T20:36:57.054Z"
-    },
-    {
-     "title": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
-     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
-     "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
-     "published": "2026-11-03T20:35:57.066Z"
+     "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
+     "brief": "A convicted murderer who escaped a Tennessee jail was apprehended in Missouri and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
+     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
+     "published": "2026-11-03T21:34:53.199Z"
     },
     {
      "title": "Storm soaks central US on Election Day after causing deadly flooding, voting disruptions in Southwest",
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Spain's transport minister says he will resign after latest deadly train crash",
+     "title": "Football: Soccer-Paris St Germain set Champions League record as fastest side to score four goals",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclRweXFyalNUaWNRUEctN1h5OUhVcU4wYms2RUNtenBkMHpZRTJScjBkdjNtUWxHb0dMM3lvZ2FKY0ZmaHZqMWF0UmNZRGNuRWRlZmJmTVlpeGdmUGpDTUlGektLUnVXbldVSTF2YXEtaUlvWUNoemI2RUFpQk9ZVXZMbW9QSFQwd2x3WElSbUNvTDgxenpqWVBSR3dKaFFtRFg5cExpUXAwX0tUVVE4U25PQlpfUkxzcHVUa3ZkTndMb2dxYUZYVg?oc=5",
-     "published": "2026-11-03T20:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ29pN1F0ckRTTHE5LWJBMmpVRGZLZG51NWhQMVJPQVd0cEl3ZjlYUlduSnRySWhRSnM3aWpWMXFGTGlNVVZiN0EyUG5FMWhjUmdSQmhSS2J5SGtwbTBkMVBlWHFKajR1bm1sVjEtcTV4MS1VUkoydEhZbnl1QkVURTM3Q0c5U2tyTlFaWWhPVl9FNUE2UXo4a1ZDVmwtX1B1Vkt2eWE4S3FHUjdEVUhDQy1hQjJ3R0RzUExQeWpFVUhQdHkzdUM1YU5JS2V4X0RiNUprUzlZTQ?oc=5",
+     "published": "2026-11-03T21:12:00.000Z"
+    },
+    {
+     "title": "Brazil, Venezuela foreign ministers discuss trade, Amazon cooperation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNci1RWGZJbjV6dnFQUFg0UmYxWTBvejlDWjFtMXZOWk45WGFwdEtZNHRXaTMtd3FiSVdqVHRiX1FrbUVLaWItdU1aR3NhYTNnU0RsNERyUkxhbFo4UHN1WHB4MmFPSXRldlYtdy1TZ2c4T2ZnY0VhV2FZRGl6TGhGc01PdEJNdk1HTWV4ZTBKRS0tRWlOeHRFUHBNWmEyd29ha05tNVdZam5aRlllRkZlcEpjMEoxMWc?oc=5",
+     "published": "2026-11-03T20:52:00.000Z"
+    },
+    {
+     "title": "Flash: Spanish transport minister says to step down:reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0F0VlFESVlZME9zNjFXbkpQLVFOb2pvaVExV3dISzdUcURTajRwY0NPcHV0Ni03Qy1OTEdzbG0wYS1MeDFuZlhtYjZjeUJMazUwQVpXNzhQc2xIZ3ByU0ZWeDREdGlkSkZyazU5M2ZGRl9OTmRxQkwyUzJPRnk2Y0QtY0VRb1NlOXAzOTlEU09xdlF3U25hRDM3RlExWXMyT0hxVUFsWTBRUQ?oc=5",
+     "published": "2026-11-03T20:22:00.000Z"
+    },
+    {
+     "title": "WTI crude futures settle lower",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObXJJSGxxWXM0MUh2NGJ0Wkp4QWgxMDh5aU5KN0NFUjJERUh1NGtDNHMyQjN0OXp0bkZ6RHdmMGpyWFBJZmg1MDVpbWEwYUo1VENqa0w0Q25xZTVseGlocUNNNHpvN3EwOU5QMm9EODEzWEJ6QkZYdERpY2V2YmxsTFZ4Q0ppZw?oc=5",
+     "published": "2026-11-03T20:12:00.000Z"
     },
     {
      "title": "U.S. dollar ticks up",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YTFNHSFJpUGU4UmoxVmZzREVpSEpTZnBwcXZBcENHRVhZYzQwLWQxdzZnSjZyUDM5a0xSOXdIT095bURpc2NBMk41VGhvTEprSDNGYUgyN3YzdlhKWW51NHA0M0MySUFxN1JHUFhKMDB5eEVKanc?oc=5",
      "published": "2026-11-03T20:05:00.000Z"
+    },
+    {
+     "title": "China's Yao Ruixuan knocked out of Youth Olympics",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUHlNRE1KQ1E5Yk9YYkhXRGRHN2Rhcm1rYmcyVi0tdnNwbHVUcjZ4ZldJTkVXd3pKVlZ1ZXZmTzlfNEpSMWt4V3ZxU3pMLVZEUHJ0M0tkb2JZcXhQR2xHNFpHazFNM214bW1rOUNLbmFKWXNpdDFQZ1JMc1lSU3BJeHNHd0pIVU82WG1LU016dVZfTTlWZnozSDNZTkZaelFEeGc?oc=5",
+     "published": "2026-11-03T18:11:00.000Z"
     },
     {
      "title": "World",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGZublBEWXlDVFlOZ3ZmMDFfMlY0dm9vbnpVSlU4VmVpczRjVHhBUEk2NExuNjFlY0xnazFLM2drLThKU0kxTlJpaVJWenpVS0dneWNrT3dJRTQ1T1g4OXIzaHB3SGtKVDlwM3hXZy1SeFcxOHRxNkZMTGVhWVF2Vko2ZGxwc1JsX21aakZUMzV3MElFbjNyQnpFRkxEQWtma3hBMTdJLVJHZlU?oc=5",
      "published": "2026-11-03T17:17:00.000Z"
-    },
-    {
-     "title": "Authors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBIaGV3eFRxNE9SMXlFb25ya1lkX0lHWVNlVlpEa2NEUEJCZk0xVW9KdEVjbFFtbE1KUDlRTXFKNDVfNExYQWx5VWxNeU5qTUVtNmpiLXhaWWg1akFHTzJLdXFRYWZkQQ?oc=5",
-     "published": "2026-11-03T15:58:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SVFJnQ1ZwT0Q1MUUwZ2pNbFZTc0wyVEdWM0ZqaURmR3dtZVZidWpzVWN0NlNVS3J1STN4azNGcjdodW0yX09DMFdvU2thc1RUUjBmVE05TXpuTmh5TnBiVw?oc=5",
-     "published": "2026-11-03T13:52:52.000Z"
-    },
-    {
-     "title": "Merz promises more support for Ukraine, warns Russia over Black Sea attacks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0tjSEl3ZzNOdWtaRmhHMWI4TjFwc09GcVdoYVpDTG14a1hHdmE1TmYtZHJMbGYtMFZCTXVZRl9QdEFzZXNCT2paTVpkYkotZEdXNjQ3M2lUYnpPQWJpMFlfck5veU9keWFoSlVwZHA0anZWNFNEa2Zqd3lXdGtCaHlldTVkV3N0TnJ2ZjU3dkVvMnk0UDg0ZUNlS3RXWkxHVFN6alFJUHFucDJwZXdOVXdYaWJlanlEaEhNOThReVY?oc=5",
-     "published": "2026-11-03T13:52:00.000Z"
-    },
-    {
-     "title": "Melania Trump to host Russia, Ukraine representatives at White House",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlWT09vMkxYZjdIU2NiTzJ0MUl5bnVSNGN0TWhQYTh4WUdEN24wWUVRRjEyWlRVdDA3cUNmcVNtc2EtQlpVZEt0dmk3R0JCMWV3TlFwd1M3TXpIeldUWUZ1S1d6SXFmeElROVRpa0ZqS3YzcDJpRkUyYS1rR080ZVM3TjVjNUt0ZURhTEtYRVVDUUdKWTNSaWdiRnhFclpSZmRMbG0tXzBlTDlnMWdGdThYR2pyTkk?oc=5",
-     "published": "2026-11-03T13:11:00.000Z"
     }
    ]
   }
