@@ -1,50 +1,56 @@
 {
- "updated": "2026-11-03T12:55:00.981Z",
+ "updated": "2026-11-03T14:07:44.101Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "‘Mogging’ is Collins’ word of the year, but what does it mean?",
-     "brief": "“Mogging,” a tongue-in-cheek term jovially used by members of Gen-Z and Gen Alpha to suggest an outperforming or outshining of someone or something, has been crowned 2026’s word of the year by Collins English Dictionary.",
-     "link": "https://www.cnn.com/2026/11/03/uk/mogging-collins-word-year-2026-scli-intl",
-     "published": "2026-11-03T12:54:01.294Z"
-    },
-    {
-     "title": "At least 31 dead after Russia drops nine bombs on a Ukrainian school building",
-     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter.",
+     "title": "At least 33 dead after Russia drops nine bombs on a Ukrainian school building",
+     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
      "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
-     "published": "2026-11-03T12:52:01.284Z"
+     "published": "2026-11-03T14:07:44.690Z"
     },
     {
-     "title": "A West Point cadet drugged his girlfriend to force an unwanted abortion. Then he graduated from Cornell",
-     "brief": "A onetime West Point cadet drugged his then-girlfriend in her barracks room, administered abortion pills to her against her will and caused a miscarriage.",
-     "link": "https://www.cnn.com/2026/11/03/us/west-point-forced-abortion-pill-lawsuit",
-     "published": "2026-11-03T12:51:01.305Z"
+     "title": "Exit polls have become the CNN Voter Poll. Here’s what that means",
+     "brief": "CNN’s Election Night coverage has for decades featured the results of surveys, known as exit polls that aim to explain how and why voters made their decisions.",
+     "link": "https://www.cnn.com/2026/11/03/politics/exit-polls-voter-poll",
+     "published": "2026-11-03T14:05:44.768Z"
+    },
+    {
+     "title": "Warsaw-Modlin airport reopens after bomb threat; second flight checked at Chopin",
+     "brief": "Warsaw-Modlin airport reopened around midday on Tuesday after a bomb threat alert forced a passenger plane from London to make an unscheduled landing there, while another plane from Copenhagen was checked at…",
+     "link": "https://www.cnn.com/2026/11/03/europe/bomb-threat-airport-warsaw-intl",
+     "published": "2026-11-03T14:04:44.717Z"
     },
     {
      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
      "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
      "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-     "published": "2026-11-03T12:49:01.296Z"
+     "published": "2026-11-03T14:03:44.716Z"
     },
     {
-     "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
-     "brief": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday.",
-     "link": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
-     "published": "2026-11-02T12:00:00.000Z"
+     "title": "Russian drone attacks turn the Black Sea into the world’s deadliest waterway",
+     "brief": "Russian drones have struck at least a dozen merchant ships in the Black Sea in recent weeks – killing more mariners than have died during the Iran war.",
+     "link": "https://www.cnn.com/2026/11/03/europe/ukraine-black-sea-drone-attacks-intl",
+     "published": "2026-11-03T14:02:44.735Z"
     },
     {
-     "title": "An hour-by-hour guide to election night poll closings",
-     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
-     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T12:00:00.000Z"
+     "title": "‘Mogging’ is Collins’ word of the year, but what does it mean?",
+     "brief": "“Mogging,” a tongue-in-cheek term jovially used by members of Gen-Z and Gen Alpha to suggest an outperforming or outshining of someone or something, has been crowned 2026’s word of the year by Collins English Dictionary.",
+     "link": "https://www.cnn.com/2026/11/03/uk/mogging-collins-word-year-2026-scli-intl",
+     "published": "2026-11-03T14:00:44.680Z"
     },
     {
      "title": "US military conducts strikes on Iran’s Qeshm Island in defensive operation, officials say",
      "brief": "The US military carried out limited strikes on Iran’s Qeshm Island on Monday, three US officials told CNN, characterizing the action as defensive in nature and meant to protect US assets in the region.",
      "link": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island",
+     "published": "2026-11-02T12:00:00.000Z"
+    },
+    {
+     "title": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
+     "brief": "A child in Lewis County, New York, has died after contracting measles, officials announced Monday.",
+     "link": "https://www.cnn.com/2026/11/02/health/new-york-measles-death",
      "published": "2026-11-02T12:00:00.000Z"
     }
    ]
@@ -54,22 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery",
+     "title": "Merz promises more support for Ukraine, warns Russia over Black Sea attacks",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMXQ4TUxUazJHdC1nS1JfTHdUZFNuTmVLLVJKeGVXeFNfNGZxdWpOd0J2d2xmaGpVMHVKUDV2c3ljNllfVkJQVXNGT2xZV2QweURKTkx6aC1obG1QR3Bua3B3QmZWTEtfZ0VZUTd0T1A0Z08xMDBBRml1Xy1lWEh2WFpScEVVcUNjb2FOVmd6dk1GWmxDZl9KTjNOOEc0S2R5QWE5RVNQYUNEQWpYWmxITWptZGVaUzQ2Nk1VVEVLUm1vVWFFQW1BQQ?oc=5",
-     "published": "2026-11-03T12:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0tjSEl3ZzNOdWtaRmhHMWI4TjFwc09GcVdoYVpDTG14a1hHdmE1TmYtZHJMbGYtMFZCTXVZRl9QdEFzZXNCT2paTVpkYkotZEdXNjQ3M2lUYnpPQWJpMFlfck5veU9keWFoSlVwZHA0anZWNFNEa2Zqd3lXdGtCaHlldTVkV3N0TnJ2ZjU3dkVvMnk0UDg0ZUNlS3RXWkxHVFN6alFJUHFucDJwZXdOVXdYaWJlanlEaEhNOThReVY?oc=5",
+     "published": "2026-11-03T13:52:00.000Z"
     },
     {
-     "title": "Spain readies aid for rail crash victims, transport minister to face lawmakers",
+     "title": "China foreign minister meets South-East Asian officials amid relations push",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNX196RHJDbHBlZnJTYjRpVi1OeGFMMlo4aUhrRE9oMnkwMXhQNFhxZnpSOFE1QU5BdjNWRngzNGFyVzEwczVZYXppdmtLRTFTR0RzN1VndUkydHVwaFV0VzNXMEY3T0F3SGxra1l0ZGdCaFZldkNZcXhCb1hFZU9kb0RnTGNaU2hlNDN0Qkh2Nkl3NWl6OHp2M1l1cWFrQi1WREN0aS10MUNvOXgwbzdTMjlPbnZpTzZkT3Fjd2JobVlScWxx?oc=5",
-     "published": "2026-11-03T11:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX0ZqNDg2ejlxS0pVMXc2MTlMMjNuNklIYTJudFJFMHo3V3JzWWNSLWU2OU5URFBtNS1WbFlKem5uNy1Ia2ZCWEVRYnlzTC1jZm5URW1Da3ljejZ6TWlWeDhUeEV4dGVDeG5DRVpOdWhnYW54aDlMYVlycS00T3BQUjZpcEVLOXBhUS1VV1JBUndteElVVWJ6al84X2drRVdldVp4MWtzNU5VRFdqak1PREVGRWZlSWw5b01vM3B4VzBjVFBwRHFrSDAydDN3XzhHMkxTUg?oc=5",
+     "published": "2026-11-03T13:43:00.000Z"
     },
     {
-     "title": "RM14bil in unclaimed money as of September 2026, says Amir Hamzah",
+     "title": "Nexperia sues Wingtech and its founder, demanding compensation for damages",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbS1OTDA2N1NCek05T1ZadExWbFB4MU1zbVJOTmVVYUxfalNaMnNwdkE2ZlZaWE1BSzYzcHpFU2xOVUJ2SXV2cHJRdGFzVV9zUVdsM196cFZMelNnNU9pX2ZzSGJpMjVRbmRReHNqdlpmcXZXdm1xeFB5NnZyZEJpWF94NXNvX3VyMjFhdlRkQjFRdFJxbVpYSTlINzdMbUQ2M1VKZ0xLUFN3aDBlc28yNFh3Rkc?oc=5",
-     "published": "2026-11-03T11:41:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2JEcTAwWkpPWXRjTm91V2N5aTdJU2libi1mdzlSV0MzbFJVQ3FxU1Q4a3dnTUV5d0ZudE9VQXZWbVJ5aUtaaGJ6NXA1RjZSY3YyemxJaUxCY3E1UC1PV0QwRXV5S1hla2xKNm45NWdpV1ZVeVN6TDFuTDFRUF8yRWk1a3RpTENJVEJycExGMXNtbjNiZDBGSFJnaUI3dFZ1bmMtTGt0bnpjaW44SmtDS2h1TFQ0UEZzTmQ3RUNZN25zWFVy?oc=5",
+     "published": "2026-11-03T13:35:00.000Z"
+    },
+    {
+     "title": "Melania Trump to host Russia, Ukraine representatives at White House",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVTlWT09vMkxYZjdIU2NiTzJ0MUl5bnVSNGN0TWhQYTh4WUdEN24wWUVRRjEyWlRVdDA3cUNmcVNtc2EtQlpVZEt0dmk3R0JCMWV3TlFwd1M3TXpIeldUWUZ1S1d6SXFmeElROVRpa0ZqS3YzcDJpRkUyYS1rR080ZVM3TjVjNUt0ZURhTEtYRVVDUUdKWTNSaWdiRnhFclpSZmRMbG0tXzBlTDlnMWdGdThYR2pyTkk?oc=5",
+     "published": "2026-11-03T13:11:00.000Z"
+    },
+    {
+     "title": "Sweden parliament rejects Centre leader as prime minister, as expected",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVlp6RVlzZmNUODl0aUVHWk5Ib2NnUjJUQW1PWW0xbnBxa2trLWQ2ZTdfNjliUTJzbmVySTU0MU5hTUotVC0yWk4tcTlIWlFIVVZHUHNaYkFDZUY4RjFFbmxYRVZIZW9jZ3U3M1JmeTJpZ2pyc2VtaG53aUFTQzg1WUtqdV9ObFpEVDRfdGw5QU5GeG5FZFNjOHRsTnV6RnppZFplZmU1VGhuSUNHTWtPSkJOYzBFUDhfQVE?oc=5",
+     "published": "2026-11-03T13:00:00.000Z"
     },
     {
      "title": "Bosch to spin off semiconductor division in January 2028",
@@ -78,34 +96,22 @@
      "published": "2026-11-03T11:30:00.000Z"
     },
     {
-     "title": "Other Sports: Alpine skiing-Switzerland's former Olympic champion Gisin retires",
+     "title": "ESG Issue: View Issue",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcXNNQlNKVmNoTHVwY2hMQTRlNW04aDUxeThFTXFOb3RfY3prWHJqM28xWkdkeHY4NFRZVnZzNU94WHRjWmZ1emZ6MkF3cnFjUTF0aWF2bXhJWnVjWkxBbGZvZl93UnVxTEctMEpYUDVQTnBGTEVmcVlyUUd3MjVhei1JaHFTeG5tRkdEcEdscmZwQjlNQTJyQ1BrdVdSU3lsT1FEV1RydFU1TnhwcVhnSkdfNFZOT3ZqZGc?oc=5",
-     "published": "2026-11-03T11:26:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41eVpCelkydVBSOVdLUWdBY3dObGh3SXBMS2IzZDJEcVNaUVcwZ1MtZWVOX0hIOGpxd0VYQkp5SUw5WGluQzJBOW1yeWtnbElmQlNjQjBCOVRKYXIwLXJQNlhB?oc=5",
+     "published": "2026-11-03T11:27:10.000Z"
     },
     {
-     "title": "Spanish police clear remaining housing protesters from Madrid encampment",
+     "title": "No JDT players in Harimau Malaya squad for first time in years as Cheng Hoe names 24 for two friendlies",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNVk4YVhvNFVQbHpGTjNJdnBud0V0bXJrUWItcThYeW8wVFo4N0UxaWN5U3NnMnhUQVpxOUZSV0l6bmV3MzEtd19ZRHZKbG1KWFp5RWtJeVBoMjRLZ0gwOW1fdzg2aUl0YkR6Z29VbV9vU2ZzSUYwVXZXVjc2Tl85QXdxdTFDRlgwdlhwNDM1R2NNTlJyLTFIZ1VKZzFFTGJIenpoeTgzbUI3UktmYVdQVEhrMzBUZnhaZS1PQXdn?oc=5",
-     "published": "2026-11-03T11:25:00.000Z"
-    },
-    {
-     "title": "Rainproof latex collection system to be introduced next year, says Zahid",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGhKRm5ORE5JdllkR05fYWJiMEdvR2xVMlBwQjJEZjNNQTRTRzk5bFNLS3YzT2pIRDNQM3hZcFd3Z1NtM0gxajB2S1NxVm1vZnIyRTJLek1kV0tVc0lOa1doZjQxeHFRdGR0UVFXQnB4SzgxVU01UUw2WGFrenpqWGZHbW1VTWFTbTE3VmtEc3hjb0pSRGZtVEQ3V0pHNUxiN241SUVvMGc0VlA1ZnRHQldtalZ2Z1l0ZE1JTm9n?oc=5",
-     "published": "2026-11-03T11:25:00.000Z"
-    },
-    {
-     "title": "Attackers ambush police in Nigeria's Zamfara, killing at least eight, officials say",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNDQtVE16ZGNfQmdMWTRXQ3VDTHlBdnpjTFRoQmJXZkViR1l1M0xUMW00SWFQelB6Q3JPVmM1U2RyS1dtMHpDbVd3WXBxQlpsaldkN1hTS05oY1BhMllPNU80aEYtX3d3UzFPamc5d3V4b2xkakFyTnphQ25jM3ZlZk1LZ2ZFWXhHRFNqR1BYSGo0bzR2Q0gyV3M4WnZXc1VCVGJ5N1VHUUxpdjBWNnQ2VTFzZTRoT093TGtlZDF3SnpMTEFLbzc2Mk1NLXY?oc=5",
-     "published": "2026-11-03T11:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbWpGMVAxdTcxakxlLVZNRFRjV0wzMklPX2RsSDUzY0dKMllTakdGWGF0ZWw0c0hQMXI5SDRybVZtc0hFNDRHWHhtZVk3RE9ZNGJXaG1mYklydXdtY2ZES0JjSHN0RC10dkhRWldyTUJ3dWZEd3ZtbkRROVJfa29lLWlfSnpxNmNINWE4SmVpRkJEMEFRX0lXc3kwbnVSMTY5c0NGa2ZyU0VPY0NmQUt3WFlSa3hsUURjRnZ2TWk5dE1ucDlzam42cjJTa29ZbU9XeXRvR1g2eUlmZzJTN3A3Z2dmYnBSb2FVVWx4ag?oc=5",
+     "published": "2026-11-03T11:20:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
