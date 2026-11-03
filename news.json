@@ -1,57 +1,51 @@
 {
- "updated": "2026-11-03T22:38:25.868Z",
+ "updated": "2026-11-03T23:36:53.542Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Spanish transport minister resigns after two deadly train crashes in one year",
-     "brief": "Spain’s Minister of Transport Óscar Puente announced his resignation after two deadly train crashes occurred in a single year, including one last week that killed 69 people and injured more than 200.",
-     "link": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam",
-     "published": "2026-11-03T22:38:26.429Z"
-    },
-    {
-     "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
-     "brief": "President Donald Trump is arguably the most pro-Israel president of modern times.",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-election-day-israel-aid",
-     "published": "2026-11-03T22:37:26.117Z"
-    },
-    {
-     "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
-     "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
-     "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
-     "published": "2026-11-03T22:36:26.149Z"
-    },
-    {
-     "title": "Zohran Mamdani has the most famous mustache in politics — for now",
-     "brief": "New York City Mayor Zohran Mamdani knows the power of maintaining a signature look in politics.",
-     "link": "https://www.cnn.com/2026/11/03/style/mayor-zohran-mamdani-new-mustache-movember",
-     "published": "2026-11-03T22:35:26.152Z"
-    },
-    {
-     "title": "Justice Department sends criminal target letters in Alaska probe to people aligned with Democratic party",
-     "brief": "The Justice Department sent target letters to more than a dozen people it believes helped recruit a Senate candidate with the same name as the Republican incumbent, in Alaska — an indication that the department is…",
-     "link": "https://www.cnn.com/2026/11/03/politics/justice-department-target-letters-dan-sullivan-alaska-democratic-party",
-     "published": "2026-11-03T22:34:26.130Z"
+     "title": "Google will let schools turn off AI, but they may also lose Search",
+     "brief": "Google is rolling out new controls for schools to limit students’ access to the company’s AI tools.",
+     "link": "https://www.cnn.com/2026/11/03/tech/google-ai-search-policy",
+     "published": "2026-11-03T23:35:53.804Z"
     },
     {
      "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
      "brief": "A convicted murderer who escaped a Tennessee jail was apprehended in Missouri and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
      "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
-     "published": "2026-11-03T22:33:26.162Z"
+     "published": "2026-11-03T23:34:53.812Z"
     },
     {
-     "title": "Storm soaks central US on Election Day after causing deadly flooding, voting disruptions in Southwest",
-     "brief": "Widespread rain is draped across the central United States on Election Day from the same storm that caused deadly and historic flooding in the Southwest over the past few days.",
-     "link": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate",
-     "published": "2026-11-02T12:00:00.000Z"
+     "title": "Spanish transport minister resigns after two deadly train crashes in one year",
+     "brief": "Spain’s Minister of Transport Óscar Puente announced his resignation after two deadly train crashes occurred in a single year, including one last week that killed 69 people and injured more than 200.",
+     "link": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam",
+     "published": "2026-11-03T23:33:53.798Z"
     },
     {
-     "title": "An hour-by-hour guide to election night poll closings",
-     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
-     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T12:00:00.000Z"
+     "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
+     "brief": "President Donald Trump is arguably the most pro-Israel president of modern times.",
+     "link": "https://www.cnn.com/2026/11/03/politics/trump-election-day-israel-aid",
+     "published": "2026-11-03T23:32:53.753Z"
+    },
+    {
+     "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
+     "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
+     "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
+     "published": "2026-11-03T23:31:53.751Z"
+    },
+    {
+     "title": "Zohran Mamdani has the most famous mustache in politics — for now",
+     "brief": "New York City Mayor Zohran Mamdani knows the power of maintaining a signature look in politics.",
+     "link": "https://www.cnn.com/2026/11/03/style/mayor-zohran-mamdani-new-mustache-movember",
+     "published": "2026-11-03T23:30:53.810Z"
+    },
+    {
+     "title": "Justice Department sends criminal target letters in Alaska probe to people aligned with Democratic party",
+     "brief": "The Justice Department sent target letters to more than a dozen people it believes helped recruit a Senate candidate with the same name as the Republican incumbent, in Alaska — an indication that the department is…",
+     "link": "https://www.cnn.com/2026/11/03/politics/justice-department-target-letters-dan-sullivan-alaska-democratic-party",
+     "published": "2026-11-03T23:29:53.748Z"
     }
    ]
   },
@@ -64,6 +58,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3EtbGxybWV1X29iX2dhQURmYjhzWXA0eWt3VjJYZmJrOFF2YWJ4T3JSUmZjTWlaTjhaWERua1JLZFBmdHAxM0ZWU0V5WmxlZ3k3SndPckRGSVdRYXc3RnZJeHdVOFVvUkpxT0ZfX0l0ZlRQX3BrOHBDamhvdlBJWW1peFVCR05RQzRnby1CVWc2eXM2NDBkY2xhV3h4bGpxTnBaS3RkUnN6REhNdXBvMEZsTFBodjFVc3BWZzZXQTBiR0dN?oc=5",
      "published": "2026-11-03T22:32:00.000Z"
+    },
+    {
+     "title": "Hong Leong’s RM100mil MTN hits maturity",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZyZU5BclJMb2NPRDBCeHF5YmJPREQ4V2pua2t4a3VPT3VLSGdPOG9RV3RCVkZsTDJsZVY0OW1VR3hQa0dFZDd5VmE3bTQwTjMzWXY0RzVocG1oY3J1eFRLSWZMRkFLVFA4MVNIRnJST0lVcWZPcndXaFVPWWUwMmwxU1oxekFPWXp6Z25QNGlCOHIxcXhxUDVPVm1BM05J?oc=5",
+     "published": "2026-11-03T21:56:15.000Z"
     },
     {
      "title": "Football: Soccer-Belozoglu named Fenerbahce head coach",
@@ -100,18 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclRweXFyalNUaWNRUEctN1h5OUhVcU4wYms2RUNtenBkMHpZRTJScjBkdjNtUWxHb0dMM3lvZ2FKY0ZmaHZqMWF0UmNZRGNuRWRlZmJmTVlpeGdmUGpDTUlGektLUnVXbldVSTF2YXEtaUlvWUNoemI2RUFpQk9ZVXZMbW9QSFQwd2x3WElSbUNvTDgxenpqWVBSR3dKaFFtRFg5cExpUXAwX0tUVVE4U25PQlpfUkxzcHVUa3ZkTndMb2dxYUZYVg?oc=5",
      "published": "2026-11-03T20:34:00.000Z"
-    },
-    {
-     "title": "Flash: Spanish transport minister says to step down:reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPc0F0VlFESVlZME9zNjFXbkpQLVFOb2pvaVExV3dISzdUcURTajRwY0NPcHV0Ni03Qy1OTEdzbG0wYS1MeDFuZlhtYjZjeUJMazUwQVpXNzhQc2xIZ3ByU0ZWeDREdGlkSkZyazU5M2ZGRl9OTmRxQkwyUzJPRnk2Y0QtY0VRb1NlOXAzOTlEU09xdlF3U25hRDM3RlExWXMyT0hxVUFsWTBRUQ?oc=5",
-     "published": "2026-11-03T20:22:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
