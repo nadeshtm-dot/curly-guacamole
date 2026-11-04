@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-04T20:48:45.159Z",
+ "updated": "2026-11-04T21:46:01.938Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Dow posts best post-midterm elections day in 44 years as Democrats take control of Congress",
+     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda…",
+     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
+     "published": "2026-11-04T21:46:02.188Z"
+    },
+    {
+     "title": "How Mississippi became an unlikely Senate battleground",
+     "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
+     "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
+     "published": "2026-11-04T21:45:02.215Z"
+    },
+    {
+     "title": "Suspect among two dead after shooting at Citibank Center near Tampa, sheriff says",
+     "brief": "A suspect who fatally shot another person upon entering the Citibank Center is dead after a security guard confronted the shooter in the facility’s cafeteria, Hillsborough County Sheriff’s Office Chief Deputy Frank…",
+     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
+     "published": "2026-11-04T21:44:02.230Z"
+    },
+    {
      "title": "Scientist who brought frog embryos to Boston for cancer research is cleared of smuggling charges",
      "brief": "US prosecutors have dropped all criminal charges against a Russian scientist who was tossed into an immigration jail last year after she landed at a Boston airport with frog embryos intended for her cancer research…",
      "link": "https://www.cnn.com/2026/11/04/us/us-frog-embryo-researcher",
-     "published": "2026-11-04T20:48:45.269Z"
+     "published": "2026-11-04T21:43:02.238Z"
     },
     {
      "title": "Republicans confront a game-changing possibility: They can no longer count on Texas",
      "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
      "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
-     "published": "2026-11-04T20:47:45.312Z"
+     "published": "2026-11-04T21:42:02.234Z"
     },
     {
      "title": "The biggest winners and losers of the 2026 midterm elections",
      "brief": "The results are still rolling in on the 2026 midterm elections.",
      "link": "https://www.cnn.com/2026/11/04/politics/midterms-trump-loss-democrats-win",
-     "published": "2026-11-04T20:46:45.350Z"
+     "published": "2026-11-04T21:41:02.169Z"
     },
     {
      "title": "A 3,200-pound NASA observatory plunged back to Earth. Here’s what to know",
      "brief": "NASA’s Neil Gehrels Swift Observatory met a fiery end on Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.",
      "link": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
-     "published": "2026-11-04T20:45:45.305Z"
-    },
-    {
-     "title": "Suspect among two dead after incident at Citibank Center near Tampa, sheriff says",
-     "brief": "A suspect and one other person are dead following an incident at the Citibank Center in Brandon, Florida, according to the Hillsborough County Sheriff’s Office.",
-     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T20:44:45.317Z"
+     "published": "2026-11-04T21:40:02.227Z"
     },
     {
      "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
      "brief": "One person was killed and two others injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing skids…",
      "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
-     "published": "2026-11-04T20:43:45.308Z"
-    },
-    {
-     "title": "Dow eyes best post-midterm elections day in 44 years as Democrats take control of Congress",
-     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda…",
-     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
-     "published": "2026-11-04T20:42:45.315Z"
-    },
-    {
-     "title": "Wars, executive actions, and a lot of construction: How Trump is expected to handle being a lame-duck president",
-     "brief": "President Donald Trump, resoundingly rejected by voters on Tuesday night, is entering the final phase of his elected career wounded but newly determined to retain an iron grip on power.",
-     "link": "https://www.cnn.com/2026/11/04/politics/trump-lame-duck-president-democrats",
-     "published": "2026-11-04T20:41:45.334Z"
+     "published": "2026-11-04T21:39:02.240Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "KEB IPO fully subscribed",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWWJ6RFlxdUxJX1VnbEd5UWltYjlkem1nd1hrU1Jwd0tlQ1JhR3g0NEFJOVB3dzhMT0FBQVhBSGlYWUJMSUgzanFjRVZONXU0MVhYSWppYk5JandUSjRYTHVFODNPYW5PQUR5Tk1tTEtweERfclhMSnNTdUxQdFY1TVpuU3A2ODM4aVBLc2lB?oc=5",
+     "published": "2026-11-04T21:06:34.000Z"
+    },
+    {
      "title": "RedPlanet unit bags RM7.09mil solar project",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWx1UnJHMHBIdk91aDMwZFRYS2Y1Tmo0SE90YmdyckVOZUFnS3lEdm56dmdLdWl5Vmk2YjNvSDluSGpPV0xjclJpVHRoQUlCQ3E1cDF6OVFCQmNoQzVNeGFIQzB0ZzRteFJJajk0dTJ6bzk5WGZDbVB6Um1TMERrbkRYbVpRSUNyLWVWX2xZbUhDVzdvUFAwRFJBY29tVDNEZWxlSnVR?oc=5",
-     "published": "2026-11-04T20:32:35.000Z"
-    },
-    {
-     "title": "Rugby-Australia say All Blacks lessons learned before England clash",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOblNkcGxlWC1CZHZ5TTV2ZzItd0RTODB4dGRXMW5TLVl0MkE4ejEwMDM1b19MdHg0RWxvTHZFS250WElNMFRsOHBxanNwR0pwUWhWdy1BSEEySkdTX2tabGlXRUd3SXpvaE1FdHpydVk3ZEJOX1R4RzJ6ZnlhcEExZkJzdUt4ckhCamh3ZjdCT3owX2FkdVd3RUdldHRjaUo3eHpfbmMwUl9pOUJZTk9WSTRqVnZiR2FY?oc=5",
-     "published": "2026-11-04T20:32:00.000Z"
+     "published": "2026-11-04T21:06:34.000Z"
     },
     {
      "title": "SunCon wins RM920.8mil Johor DC job",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFBIZE1nSTRsTDBwSmFfS1ZPeFpzUGRyRHBDRGVNSjJmNDFoa2d1SzVKM2pma2c4SXRVRUttdHZnVktuNjdVSC1kd1ZYY25NYUVob24xZ0lER2lpRTVpbkZpdVp5VVdwcFlRWi1WdndNcDRFbzQzOWVoTGMzajJoMEZIVkRRT1BHSVNhOU5hVW5fYmRMQnVXZ1VGRQ?oc=5",
-     "published": "2026-11-04T20:24:32.000Z"
+     "published": "2026-11-04T21:06:34.000Z"
+    },
+    {
+     "title": "Waja Konsortium wins RM190mil job",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlJlVXVibzJpTUF4QVN0cXY4d0dyS0ZvbUZ1Y1NIeUEwalViV2FTdm81TS1TekYzQ2Vfb3ZBRkRxTEJ6UkRZSlRxOGppS1FXM3puN0IwRTZZeVpmdjhVV0MzVWtMbUw0ZEh3UHVpU3hpMXdvTFBmdGhhV0k5OTlNQ3R4d3Q2ZFpRRzdWNWUtVWFQay1TajZuRF93?oc=5",
+     "published": "2026-11-04T21:06:29.000Z"
+    },
+    {
+     "title": "Golf: BC Partners abandons rescue plan for LIV Golf league, FT reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVQzUE9GcUhkMm5tTUZZd3dIOFBOelkzX0pxVUhMQmd6SmpBaWRNa1dsb2NpMFJCbk5KS1U1OUxLZzJMeVFmT28yQlhXVnhfNERDbXV1aTRSUFI5MGlIOWJfRU5JMkxhVXZPajNTb0NWUmxmNEtUazN6RWkyUjIwRXhrZ2pRM0lNYl9MQVJ0UWMzTHRaNkJid1pSVnFOY0N2MEFtUHFXMXNPOWxpNV9HY2Z3?oc=5",
+     "published": "2026-11-04T21:03:00.000Z"
     },
     {
      "title": "Binastra bags RM303.8mil Klang contract",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYldhUUdUaE5VenZMLWVVemZ4RXN5RFVkRl8tTTFDem5IZE5OLUNaUlh3QTVYTmdkRDZ2Smh3Vlc2NWhKZGhJSU8xaUNDai1ta2NiTmVIX2JQb3BlM0VjYk5EZnZaSWNaNTJnWGhURzFlYkI1bmphMEpBYzZvRUl6c2h0YUNsZEVrWjlKb25wT2xxT19vc0xSbS00UW1Od2Et?oc=5",
-     "published": "2026-11-04T20:24:32.000Z"
+     "published": "2026-11-04T21:00:00.000Z"
     },
     {
-     "title": "Serbia detains police officers over alleged use of force against protesters",
+     "title": "MyDCD IPO oversubscribed 36.46 times ahead of listing",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVFRBMkhvaUFsOW5rXzJEa2laaHk3Q1p0b1F3NEJ3MXgwdXF4VUxzNnFoOUtlTEhGdGdLSTZxUW9RSzFnMW03bmNlUWxhM0pJMEpBY1Fxb0NmemNYQWJxRUVtNUZzT0tUcHNNUjQ4VHhzbThfbDVsR0dzZ184Q1dOeEwzV1JtM3JPR3ZHNXFfdGNzekxKelhlaGZBbktCQjlSWG5vcm1vamZXRHByNlA0SXhzakFQY1dHVHZpU1FoMzlOZw?oc=5",
-     "published": "2026-11-04T20:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjlTUUtJNXkwS0N2MzJ0Z3dhQnRFMnRWbTN0QzhmOHVSWUVXQWpQSzNxQXdvTUJWaklWekVHY2dVYjE3SjFFSWs2QTNBX0dUOGNCbUtHZ2d1NXJmbG9DbTVwYWtXRlhtRGh0cTd1T1RfcnhBQWtydjQ5WEJLTWN1aW9aek82eXlZTHB4S0RwVXZuMHVPa3N5R29lU1hWeEs4ZzhPZHhfMFBMV1BaSXczbnhaQQ?oc=5",
+     "published": "2026-11-04T21:00:00.000Z"
     },
     {
-     "title": "Rugby-Coach Farrell urges Ireland's new picks to seize Argentina chance",
+     "title": "Ukrainian drone attack kills 3 in Russia's Belgorod region: official",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbW4zUmtybXRWaXRQaTBCNk9MSlFUeTFraElHRWNBUzV6Y2p2WUNnaFNkSm1LLXpfa3pWdUFNcmcwOS04eUJQUXNqRG5odE9pRXdOOVlVdWw5WlRIT2hyQTh4QkJ3WUJiR3ZsSUR6Z1dvNUY1VV9tODN4Y0oyQkNEalQ2dzlGc3FsTHJ5dExLR09mR0huSlAwVTRNZUE2d29CNWxrQmFSbTVKWFYtSHFwY1ZKSVlVaW1xN3gwUGZFd24?oc=5",
-     "published": "2026-11-04T20:11:00.000Z"
-    },
-    {
-     "title": "Other Sports: NFL-Lions linebacker Campbell has full movement in lower body after injury",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDFBU0ROQXU4ZlR1bzFNbVIzSDY2US1kWlZ6WDQ2UVBNRjJVUlVsbWxpTk1heHpPdEN4VGltN2tkTC0tWTFmRmhQNmg1NXNscDgwdjlLQkhsVGszaUhpX2MzaU9MS2o0eDRuejctb2pRaUdoa2FySTVHQmRxaWJ2aXZFTnBwWGJLZE1lT1JCWEhIbGVYOGxIYTlHQXdoeTlwZlpWX0V2STI3SlpaTjZwTHFGNXJxZHlzM1lDelV5YTRBa0E?oc=5",
-     "published": "2026-11-04T20:10:00.000Z"
-    },
-    {
-     "title": "Human capital to play key role in Europe's future prosperity: V4 central banks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQjE1SUgzMV9zU3ZlX2hFRVVNSHkzTXVYell2ZHRzUHZRTndSTWNCNl9Ja0xxMHBIYU1GSG83SW5ZbVh3ZVNuWmpIcWZGU29MR3ZDWE9pUnBWWk9abkNsWUdIc0NWS2diLVRZdHZqRldyZmRINWlYeTZoWW8tTktsSXVzbXZxcHktUXVfZFphOU0tMjRkWG1TUEkxdVU4UGx4dGsyVFJFWFhrRFhmc0tPdE9hSl9NUEhtRS16dzdzTVloeURGejdV?oc=5",
-     "published": "2026-11-04T20:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2UtOS1GOVJXWmtYcHlUSTdGZmNLR2ZFNTZGUGhlaGltVHNDdHgxd2h2S29GWGhERnlybWdJZ2tqME1ON1M4Y0JYWGRHamZMdTNWM3A3SEJhT2RCb0ZjWDhXU3N6dC04akkxY2JJVUZRMy15NUt4R09Hb2xQQ284cGtoNXMxT28wVHdNeEJxZjVwemRUamg1S3ZlMUZQYXAxODl2ZGd4RHVVNm9fbi1CcXFaWnZyS0E0Zmc?oc=5",
+     "published": "2026-11-04T20:42:00.000Z"
     }
    ]
   }
