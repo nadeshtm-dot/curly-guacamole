@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-04T01:54:55.359Z",
+ "updated": "2026-11-04T02:45:55.850Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says",
+     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
+     "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+     "published": "2026-11-03T12:00:00.000Z"
+    },
     {
      "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
      "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
@@ -30,84 +36,30 @@
      "published": "2026-11-03T12:00:00.000Z"
     },
     {
-     "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
-     "brief": "President Donald Trump is arguably the most pro-Israel president of modern times.",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-election-day-israel-aid",
-     "published": "2026-11-03T12:00:00.000Z"
+     "title": "An hour-by-hour guide to election night poll closings",
+     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
+     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
+     "published": "2026-11-02T12:00:00.000Z"
     },
     {
      "title": "Storm soaks central US on Election Day after causing deadly flooding, voting disruptions in Southwest",
      "brief": "Widespread rain draped across the central United States on Election Day from the same storm that caused deadly and historic flooding in the Southwest over the past few days.",
      "link": "https://www.cnn.com/2026/11/02/weather/storm-flooding-arizona-colorado-election-day-climate",
      "published": "2026-11-02T12:00:00.000Z"
-    },
-    {
-     "title": "An hour-by-hour guide to election night poll closings",
-     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
-     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Chris Pappas holds New Hampshire US Senate seat for Democrats",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX3NUblZOakVhNmZsdkhEX2dnYmZhYVFvMktRZzhFVk82RDl1eXZWbzd3WkNmZGZlMzMxOUpzVjY1eF9MYzRJZloxQXZCYm90T1lYYkQ3cWJtTnRjMkJTQS1YUmswRVNlZHJzMFU4V0dxWndHSmNXdERjbC1IaE5OdXdCZVpQZXhrei0xeDNzMEdjTnFWekRmLW9GWGJNVzZfOFBrTEZNbXA2TkNSZTlF?oc=5",
-     "published": "2026-11-04T01:34:00.000Z"
-    },
-    {
-     "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaV9MVEFmdzcwTGt2MFdzUWNiV0hxdjlMbTR6TTVvNnhOMjF5RlQ1Z2FMT0I4a2RiQUtEWklFNy1SR3dabU40Y1ctV2NheG92LVctUTFYR3lVN1pzMU9CVjlYc0oySERLWkZVM1RrY0xOUXlzY2dsTmJBR0gxdDV5RUpPU3BlWHJRZTVpNWFKdzR1M1RRdmttbUtDRXlBWG94YkxWOURQaHNwelh2SWhjQVpvb3Q3bk5WV3VJZmJyREJmMGM?oc=5",
-     "published": "2026-11-04T01:16:00.000Z"
-    },
-    {
-     "title": "Tennis-Rybakina, Gauff drawn together at WTA Finals, Sabalenka faces Andreeva",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX1JhT28wSE44UVZVX2RkaUNyTHhKeE9kY1JRT09UNFIxTHZFYXRYUmlwNy1jT3FqdFpnY1EwdTg1eU13a3FQSUpVc2h5MndObkVYclFIMW5Rd1VtM01QUGRYZk9zLV9rNHE2S0NRTjRwNkFCVFNnV01DNExoeG92Tk9DSGlCd3N2QTQxaVdjMi1NQU1NbThlUEdYblc2TjJqMGdmQUFrMDRDSUxPMXItWlNNeW5UVnB5S2JjSW9zWlJ2TE5p?oc=5",
-     "published": "2026-11-04T01:00:00.000Z"
-    },
-    {
-     "title": "Casino heiress Laurinda Ho, daughter of Stanley Ho, reportedly spent RM5K on meal for family",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOGtnOXlfbUJXc3dfdnBhMEV1dVVHQnBibVlKRF84RzF3UHNuYW5EMG5wWnpRY3JsSl8zQmhSOExVcXE4cmFESUdSS2dBRUpnaEJrZlg1TUNwQjRMQWtSVGFyWHB0WXRZMS0tcWI5VnVUUjRGT1RidFl4Q0xJLW1OaUJUSFhJTmpIRDVIbGlSb3IxRlNJa2Vuejh2Qm1FX3l2d3hqRzQxSjFMZllZaVdSeGhlT2NhMlR1SkctMW9fTmMwVUtQUU12cThtV2JRalUyX0pDNUtMQTZBSHpNYWlnN2RXSmZHUEE?oc=5",
-     "published": "2026-11-04T01:00:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQzhacmpEYUdiMFhESWVKc3ZETTYwLURRUHBsbFRBazRlZVVfc3dmSEFHYWlnWnREbFRSenlxRWExODl1aHRyRGI0all0eHFHQ2pOTHpFaEpNRklaUjExdGxwNU45S2VkSXUzeEdXMzJ6eGZHTkVxU0k1dlR3YVhWcmJXZHZYSWpLS0E?oc=5",
-     "published": "2026-11-04T00:29:32.000Z"
-    },
-    {
-     "title": "Skyworks tumbles as sluggish smartphone market weighs on forecast",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkJWZU83b1pHeFFhY1pWdEZYT2M1cVY2ZWRRVFFZS20zWHdrdXJYUElVWUpSRmlQUFdWekFrOUFJNWVQanJmMFhDWDdBdjVGS29KMjk0MjM5eS1XQjhNMTc3T3VZNjlRRXpuS0RXT1Z6X1ktYWE1Z3JzUnRsQW53ZGlnMk1RTUh4RXpXaDZtVGdwSDhEZlMyXzI2UE9kRTZ5aWhGYmFEcU05TDBvTmxtVHg2c1FvLWlyNXc?oc=5",
-     "published": "2026-11-04T00:20:00.000Z"
-    },
-    {
-     "title": "Foundation donates furniture to schools",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnlBVUg1bDA0TXFrUEZEM1prQ2dTTzd0N3EzZng4Qk1rbWxHLUt3aGJDZW9maXptUFlteXJYcDhVcmlMbFNYV0UxNHoxSEY3WTM4bnJLUk1qMG5udVo1bjcyRkJobnhybE5NX2tDODNWTFZORjhwMDdkLWs3VmNQbFZ5R09wRzhCcElOdkJ0LXM4bEk?oc=5",
-     "published": "2026-11-04T00:19:08.000Z"
-    },
-    {
-     "title": "Over 330 flood hotspots identified in Johor",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSHVZVUVBdjBxRms0UTZhZ2FmdnJqZl94S2xOWV9zc096VFp1TENpQnpBaUlOSTFfT0F1SjNYSEhPSTlJc0IycEN0bl9ZM1NqeU54U1dGQ1VXOWhxS3FvUzdndVltQlFpTDlzVkdhM1psVUlialFDUUp2WWtBand2aW4xVGl0SXltZEhpWFpXNmtSUElQU24tYg?oc=5",
-     "published": "2026-11-04T00:12:11.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
