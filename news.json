@@ -1,21 +1,39 @@
 {
- "updated": "2026-11-04T05:54:19.004Z",
+ "updated": "2026-11-04T07:03:49.760Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Trump reacts to Republican losses and declines to take blame",
+     "brief": "By the time the House and Senate had been called for Democrats on Tuesday, a consensus among members of both parties was forming: voters had rejected President Donald Trump’s record in office, and he would face a…",
+     "link": "https://www.cnn.com/2026/11/04/politics/trump-republican-reacts-midterm-losses",
+     "published": "2026-11-04T07:03:49.964Z"
+    },
+    {
+     "title": "Too big to rig? How Trump’s voter fraud crusade crashed into a Blue wave",
+     "brief": "The Trump administration’s unprecedented crusade to hunt for voter fraud spurred widespread fears of federal election interference but ultimately never materialized on Election Day – thanks to resistance from local…",
+     "link": "https://www.cnn.com/2026/11/04/politics/federal-election-interference-failed-to-materialize",
+     "published": "2026-11-04T07:02:49.955Z"
+    },
+    {
+     "title": "Former elementary school teacher becomes newest paper billionaire in China",
+     "brief": "A former elementary school teacher has been propelled into the ranks of paper billionaires in China after the stock debut of his company selling tape and other adhesive products to tech giants, according to Forbes.",
+     "link": "https://www.cnn.com/2026/11/04/china/china-new-billionaire-stock-debut-intl-hnk",
+     "published": "2026-11-04T07:01:50.086Z"
+    },
+    {
+     "title": "Trump blames Fox News while his MAGA media allies blame everything but him",
+     "brief": "President Donald Trump began election night by lashing out at Fox News.",
+     "link": "https://www.cnn.com/2026/11/04/media/trump-blames-fox-news-midterms-maga-media",
+     "published": "2026-11-04T07:00:49.972Z"
+    },
+    {
      "title": "The historic firsts of the 2026 election",
      "brief": "Winners up and down the 2026 ballot will make history this year, CNN’s Decision Desk projects, including the first Black woman governor and the first out gay male US senator.",
      "link": "https://www.cnn.com/2026/11/04/politics/historic-firsts-2026-election",
-     "published": "2026-11-04T05:54:19.173Z"
-    },
-    {
-     "title": "‘How did we get here?’: Inside a losing GOP campaign defined by Trump",
-     "brief": "President Donald Trump was in the midst of his fourth political rally in three days when he asked a close associate the question that had been troubling him for some time: How did the Republican Party get in this bad…",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-midterms-republican-losses",
-     "published": "2026-11-03T12:00:00.000Z"
+     "published": "2026-11-04T06:59:49.957Z"
     },
     {
      "title": "A 3,200-pound NASA observatory is careening back toward Earth. Here’s what to know",
@@ -34,24 +52,6 @@
      "brief": "The Democratic wave is here .",
      "link": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
      "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "Authorities capture escaped Tennessee inmate in Missouri after 9-day manhunt",
-     "brief": "A nine-day, three-state manhunt for a convicted murderer who fled both by foot and with two stolen vehicles came to an end Wednesday when the Tennessee prison escapee got stuck in the mud in Missouri and was captured.",
-     "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "Hakeem Jeffries is on track to make House speaker history. But major challenges lay ahead",
-     "brief": "Soon after Hakeem Jeffries arrived in the House in 2013, one of his earliest mentors approached a group of senior Black Democrats with a message.",
-     "link": "https://www.cnn.com/2026/11/03/politics/hakeem-jeffries-house-speaker-democrats",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "An hour-by-hour guide to election night poll closings",
-     "brief": "It’s Election Day, and the balance of power in Washington is at stake as Americans vote to determine control of the Senate and House of Representatives — plus, settle races for governor and decide many other key issues.",
-     "link": "https://www.cnn.com/2026/11/02/politics/election-night-poll-closings-vis",
-     "published": "2026-11-02T12:00:00.000Z"
     }
    ]
   },
@@ -60,40 +60,10 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Indonesia president sacks chief of staff over alleged wiretap",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONFpDS2p4dnh6bExtWlBFT2xyM0h0RWlLcWNVMTNDNk9QSEFVU19adnA1MWljMmZSZTJzN050akd4RlVNNmJ2MEZlOVBnZ3N2N2JienhGVDEwd0xfZ3Y1cnhOZ1M0TmVwMlcwaHZ6cFFhX3dDTjJYN2hZcm5GRE1VaHFCUTZLTXZIbGtUY2xwd3pOUkNYUU8zYVRjOWRvRWUwTWo4eUgyWE5rMkJxbzVZ?oc=5",
-     "published": "2026-11-04T05:38:00.000Z"
-    },
-    {
-     "title": "Rugby-Beale eyes home World Cup after surprise Wallabies call-up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFI5Q2swVFNlX0FpVVVMcE9LdHB4WTdvR3NXOFR3bVl0SUhESXhaZ3ZmSGltekFaMVp3c3JRaGNnRmduYmNRUVJVaUp4S0lLakZVeHdsT01faFVYNTRtNWlJaENndzFNZm1zTEdkdTZnNWQ2Uk1CSVRBbWlsa2VENDV1MWl6em5TWjhkaC1QU0ZpT1hkWVY3RjNqdXNNbnRCWU5LclMzallPYVNIY2JYTHhxLXg?oc=5",
-     "published": "2026-11-04T04:53:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Man City's Foden confident of return to top form after tough spell",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmpwLUJEcV9KT2hvWURTSm1menR4NlJBZ1JxSmZEaExxMFNqTy1CY3JlcjZOYU1HdFRnU3lxYldmV3hnSDVWOHREVEwyVFFVclVzQk9WUmN5dmNsYUhacEpkRU0ySkdrMm9WVEpqU0phOUdvR0ZTMlhuWktVb0dwQm54RVB6bnVldVhmdDE3N2t5RlFhdkZ3Y0FPRmFyZFRHdVFXdVBBLVE0VU5sa2JfdVh1ODJpNzIzeGhUdm1pcGdCcTNzRnlr?oc=5",
-     "published": "2026-11-04T04:39:00.000Z"
-    },
-    {
      "title": "Latest",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ25QM1FkTTlmOGFtdHA4M2dGT3RoSEN4dGxjbUFmY1hEZ3g4NURjSl9MSWdDZWswT1h4VkU1dkF2dTl6NmxMMnI0TFRaLXlzd0ljdzdPWklOVlV6cjJkYV9CcENjazRObzlKNmphb1FKM3huYVluVl92WkpMLTQ1ck9qcEE0Qkg5R0E?oc=5",
-     "published": "2026-11-04T04:03:30.000Z"
-    },
-    {
-     "title": "Brunei companies strengthen long-term partnership to boost urea export logistics",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkdtRE5tT1laZFpCcllQTEhfVURteW1TOXVTS29laE1pSXJlQkdyOTJ4LVk1c2lXUzk4NjFiQTdmUm1DTTRCZ2R4TkoxbTNkd1RzZ3U4WkI4STFPZTJkbko5cXVFR29fWk5BelNNQ0JEWGpBNENuWnpqLVBvdGF1QmJPUzgtd01oU0xCMHRFNHFBM1NPM25HamtBZ3VWWEZ5Vk1rbjhNaVpYQjNPTWV4NVZtUG12VmU2T0Z3MVZJREhkbFV4UU9Vb24zOVQ1dUVtR1pCX0YzQ2NQRGc?oc=5",
-     "published": "2026-11-04T03:56:00.000Z"
-    },
-    {
-     "title": "US democrats take early lead in house races as counting begins",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ3N2dFEwY1BOXzEwNHc3dGZxQ1NpbF95TUF6cFI1eHQwZGROejlFcDFHWm84YXJ2TXF1dnRHWnRMTDBKTlU0ZFFMdWJWT3dzWGtLMDczcVB2QjhWbVVkQUVaOS1keUpVQU1kR1Buano1ZzE0VlVNRkNrWWFyMnQ1RkhETHZOQzYwRURud2NUaXgzVmlWM3JMRGE2N3g3akhieEhhbjhja0JHc2JuYjNPTw?oc=5",
-     "published": "2026-11-04T02:55:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZGd3TUZFVi1mdkFJMS1jVy1naFNYX09HMGUxLXVtQVFmTXlocWZZLTRBNS1ELWE4SnkyYnlYUjBGQzNWZ2VlRFo5OEQtOEZybVNHTHp2WGhNajdOU3ZveA?oc=5",
+     "published": "2026-11-04T04:36:22.000Z"
     },
     {
      "title": "All SEA Games 2027 venue upgrades expected to be ready by Q1 2027",
@@ -106,6 +76,36 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlo0WllTVjJNc19PMjJ6QnM0RnczblB0SjBhb1ZhOEx2VXVjTlFSbFQtV2U1c3Q1SnlOaTVEU2lNbG1NOGpnVWxUb09HYVprYjdVaUd0RHkyZmxMWkhSMWRPcmRlVWtqUXh4NkVyZmNRdFpqcDFwQ1VaOVVndGNBOTlka0ZZenc0U0QzRHFYcjdZTm9VeHB1SnVvbHVMbUNKTHBiTVBGaVJwcmdpSk80SUFhM1BBb0x0cWtiZjduVXRsX1N5emN1RUdnVUVMZw?oc=5",
      "published": "2026-11-04T01:41:00.000Z"
+    },
+    {
+     "title": "Flash floods hit several areas in Shah Alam, disrupt morning traffic",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUtfTWdJTUd1dzlaaG1qcEZpRVBfZGZWNDFSWUVTeWRWeGpvakVjQV9qNFdNR09lN0JvSkdfM0xXcVRVRi13OEZJcGx0bkFEMk5GSXhCNDRUTmZ4bUoxU3c0blZXYmNtVF91dTZHRzlzNXNhTkQtSGw4QWRkUUZEelB2ZDhMZW9LbGFoQ2NYQXpaVkV3SFBpTnpXYXdsZlpNM2xOT2pXbjdIV1YyYlFiR2VhNE42SW5f?oc=5",
+     "published": "2026-11-04T01:29:00.000Z"
+    },
+    {
+     "title": "Columnists - Opinion",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBnc3lFT1MxcmlvTUoxckNPX25NNVFvT0QzZVlTMmF4YVJDdGs0LVFuQlRsbmZycFNZZmRjQk4yaDZyTHZrRHlrM1NoNlFXMVRRTHktREJ6SEotYlVLNldlQ3p2TVZiTTg0bXdJbjc3VU9XN19QbkV2enBiS3U2YjRQZmllbU04cGQ2ZGE2Qlg?oc=5",
+     "published": "2026-11-03T23:56:43.000Z"
+    },
+    {
+     "title": "Badminton: JHBA hail Zi Yu as ‘flower in full bloom’ as she earns another reward",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3pkM2tqVDZSUzBYQ2JmWXlKR0tCWmhnMkdGZjlDX3huSDhTZjBkYWNfNTZGMWVER3ROb09FbDVURkh0UXVGYkQzNEZMQUU0VTFIU3Z6UjlWaEVQQVlLMDB5cVJLUmg5VnNydmhLYzlURy1DVXFCRFRVbVdwNVZCZm85ZHRia1B3eXFlaEZzbzUtbDNYUC02NmVCRFROOWlLV3ZKOEdaMnljbFU1a251NUctbnVGdmV1cGdobQ?oc=5",
+     "published": "2026-11-03T23:34:18.000Z"
+    },
+    {
+     "title": "Badminton: Steely Lee won’t waver",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGVWdlU1R050ZURqaHVJaWV2bDV6c2VfaWVNUzU4ZUlmeFFuZEZQVWRyVXk0SThPcWV1cDlFOFk2R0Rrdjl1TVczTm1qR0dzQmZKYUgwb3lZb0dpTU5kdzlvWXpWNlBfNmsxV0VXN2VwTDBvWkpYYklTYklMd0NoMA?oc=5",
+     "published": "2026-11-03T23:34:18.000Z"
+    },
+    {
+     "title": "Badminton: Rosman hopes Pearly-Thinaah can keep up strong form until final stretch",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkxFNURMSWxMbnd4RFJoNUNQX1BlQXlwVmQ4R29vYzJwc0MyU0M0WERpdllqbkFTUnYtTklLY2pHUWdhYUJfbXpsZnFuLW92bFRJWVJlQkZKNWVNWE1uVXN6NDcxU01wRjFnbTJPcldYWVRxNnJzY0RuTUVtMlMxb0FldWhGaVVYSWxScEg2bWM5cWVfc09COHp3ejdzVWpkVDdMaUpCdkZaNVkyU0I2YXBVODFQbUJGUTI1UnhoUUdRMG8?oc=5",
+     "published": "2026-11-03T23:29:09.000Z"
     }
    ]
   }
