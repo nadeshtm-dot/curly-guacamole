@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-04T11:56:35.653Z",
+ "updated": "2026-11-04T12:55:12.671Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "The historic firsts of the 2026 election",
-     "brief": "Winners up and down the 2026 ballot will make history this year, CNN’s Decision Desk projects, including the first Black woman governor, the first Muslim elected to the US Senate and the first out gay male US senator.",
-     "link": "https://www.cnn.com/2026/11/04/politics/historic-firsts-2026-election",
-     "published": "2026-11-04T11:56:35.828Z"
-    },
-    {
      "title": "3 dead, including suspect, and 2 deputies critically injured in eastern Washington state",
      "brief": "A shooting and subsequent firefight with responding officers left three people dead, including the suspect, and two deputies critically wounded in eastern Washington state Tuesday.",
      "link": "https://www.cnn.com/2026/11/04/us/spokane-washington-deputies-injured-shooting-hnk",
-     "published": "2026-11-04T11:54:35.905Z"
+     "published": "2026-11-04T12:55:12.912Z"
+    },
+    {
+     "title": "A 3,200-pound NASA observatory is careening back toward Earth. Here’s what to know",
+     "brief": "NASA’s Neil Gehrels Swift Observatory is expected to meet a fiery end early Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.",
+     "link": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
+     "published": "2026-11-04T12:54:13.006Z"
+    },
+    {
+     "title": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take",
+     "brief": "Professional shapeshifter Alexis Stone loves conjuring celebrities from beyond the grave.",
+     "link": "https://www.cnn.com/2026/11/04/style/glenn-close-alexis-stone-lotw",
+     "published": "2026-11-04T12:52:12.980Z"
+    },
+    {
+     "title": "Why Nintendo is betting on a nearly 30-year-old game remake to win the holiday",
+     "brief": "“Saturday Night Live” poked fun at characters from two of the holiday season’s most anticipated video game releases last month: Link from the upcoming remake of “The Legend of Zelda: Ocarina of Time” and Jason from…",
+     "link": "https://www.cnn.com/2026/11/04/tech/nintendo-link-legend-of-zelda-ocarina-gta",
+     "published": "2026-11-04T12:51:12.973Z"
+    },
+    {
+     "title": "The historic firsts of the 2026 election",
+     "brief": "Winners up and down the 2026 ballot will make history this year, CNN’s Decision Desk projects, including the first Black woman governor, the first Muslim elected to the US Senate and the first out gay male US senator.",
+     "link": "https://www.cnn.com/2026/11/04/politics/historic-firsts-2026-election",
+     "published": "2026-11-04T12:50:13.016Z"
     },
     {
      "title": "Too big to rig? How Trump’s voter fraud crusade crashed into a blue wave",
      "brief": "The Trump administration’s unprecedented crusade to hunt for voter fraud spurred widespread fears of federal election interference but ultimately never materialized on Election Day – thanks to resistance from local…",
      "link": "https://www.cnn.com/2026/11/04/politics/federal-election-interference-failed-to-materialize",
-     "published": "2026-11-04T11:53:35.900Z"
+     "published": "2026-11-04T12:48:12.994Z"
     },
     {
-     "title": "Texas Democrats pull off the breakthrough they’ve chased for decades",
-     "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
-     "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
-     "published": "2026-11-04T11:52:35.892Z"
-    },
-    {
-     "title": "At $835 million, tonight’s Powerball is among the top 10 jackpots in the game’s history",
-     "brief": "A lucky player could win an estimated $835 million in Wednesday’s Powerball drawing and secure the game’s second largest prize of the year.",
-     "link": "https://www.cnn.com/2026/11/04/us/powerball-jackpot-lottery",
-     "published": "2026-11-04T11:50:35.897Z"
-    },
-    {
-     "title": "Trump reacts to Republican losses and declines to take blame",
-     "brief": "By the time the House and Senate had been called for Democrats on Tuesday, a consensus among members of both parties was forming: voters had rejected President Donald Trump’s record in office, and he would face a…",
-     "link": "https://www.cnn.com/2026/11/04/politics/trump-republican-reacts-midterm-losses",
-     "published": "2026-11-04T11:49:35.879Z"
+     "title": "Hakeem Jeffries, on track to make House speaker history, sees ‘mandate for dramatic change’",
+     "brief": "Soon after Hakeem Jeffries arrived in the House in 2013, one of his earliest mentors approached a group of senior Black Democrats with a message.",
+     "link": "https://www.cnn.com/2026/11/03/politics/hakeem-jeffries-house-speaker-democrats",
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says",
      "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
      "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "A historic blue wave, a stunning rejection of Trump and other takeaways from the midterms",
-     "brief": "A historic Democratic wave swept the party into power in Congress and in statehouses across the country on Tuesday, as voters rebuked President Donald Trump and rejected the candidates he’d propped up in key races.",
-     "link": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
      "published": "2026-11-03T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Nadal lined up to join Perez on Real Madrid board",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSEFTdGthcmU0a0JxUTFONTZJQ3JETk8tazBWMlFVYWlMWkFNYjNYVGx2aWw4dXp1SmhaYVBrOGFjSTJlMEd5QjJhNVVFbXNJenpoSE9XQy1TRkFnNU12bF9yclZrLVVvLTB4dW1COU1NQjlCZEtNbVY4MkJKbWFFYllJRE5kMjJ0UUFTM1BPNC1tcWhOVy1uMm5FTmpvWWhKbXFTdjBNcVM4YzFLSlE?oc=5",
+     "published": "2026-11-04T12:44:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Wilson and Rodon return to Wales squad for Nations League fixtures",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZFkzX2Mtem5mUXlHYTBSV2RkUzZkVE1TdTNfV1p2b0VrUjc2NlM0U2VlWnd0YzI0WlBrZUdKbzZJQndERTM5cHhOZV9ncWpHWjY1eUNRalgxeE5jU29jeHFQQlE3dDhtS2pjRkl0OVNqdEdVak5jM3hkUUtKbUJqenI4b3EtS1BDOVhveWFSSTZuclAxZUROblBILVFKcWN4Tnl3Nk9HM1RRb2pmMEdfV1RyYW96TGRJenFHM1hoZTZUOTNJ?oc=5",
+     "published": "2026-11-04T12:13:00.000Z"
+    },
+    {
+     "title": "Cricket-Kohli in the runs as India thrash New Zealand in first ODI",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDRIaW1BTzFDUDM1aUxTWGozQWxHZ05tMWQ4YXpKRGtCcGlWS01aaW5XMkp0Nlk1TEwyNHVCUERRU3RhbmwwRU5kOHBqS2VUbXJpc09MZ1M4Qi1FWEs4dnZ2NUVmblNfWGY4a1pZLWdqUXMtSm1zTzZzUG53TnVVT0MtcGc0MHdUXzRjT2J3d0Iwcnc1bTVoLV9vb0RWWGtHSWs2dnV5b1ZPSkNTMElZMTF4V0IxdDBtMXc?oc=5",
+     "published": "2026-11-04T12:12:00.000Z"
+    },
+    {
      "title": "(Podcast) Poll Position: What does OCR-VA mean for voters?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcWk0c2RKTzctaXJYdEU3dlYzZlBnTTU4TFAtbGp4SlRoUDlVb3haS1JvcU40YUVCVlJGTDdTMlR4b2YtRWxjN3VLbW5MSWp0Tm0xdDdsX1d5T3UyT0RvZkV4RUJyci1rOVFsNGJnRmU5cDBrUVBUcFpSNWkyMnFDUENzT19jM0NiemluLWlEVEl1SzZTWGJKWjZPdlRuZUFDMDIwNHF2NA?oc=5",
      "published": "2026-11-04T11:34:00.000Z"
     },
     {
-     "title": "Harry Styles complains about coffee prices in New York: 'It is a cappuccino. It can't be US$10'",
+     "title": "Football: Soccer-Andorra teammate defends Owono after collision with Tenerife player De Miguel",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxObnhUNEdKTjdtN2Z1ZnczN2lGdjlUZHZCTzhyNjhyRjZpQV90SEVSQ3BqN2FzTjFlNS00RzBqa0pRMThPWkdUeTgzRFhRcmhKRmRCYmZSSFBqazdDVFVpR0ZPM0lhQ2YtQU5TbWtUTi11U05VSDhQMzFrVVcteUNzZmlXS0RyMmExMDJWX0lSaU1jRVNGR1hXNUM5MEx1eG5BbGVxVTFUczdYdkJTbzhJTTdPUXRFY0l4N1IxSEVmdGVLVVBMdWVhYUtQTDFqYnZvU1docmEzV1RmLWR3Q09ubEMyaWVVSC02bnVKNWpOSzlRQQ?oc=5",
-     "published": "2026-11-04T10:18:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZ3U3S0p4M0dTTXN6bjFDckFYOXBxbHI0MU1rcmdxb3RYallNYWF1Ml9WUURGU0l4RFhGeVh1OGJNb3ZDdVREd1pRS3VFMEJRbXFNbHFBVnBzeXBmYzdGM2dxT0hOOGV1NExzZVV6b3pMNGRwWjFSVkVvVmRQWURBajUzYVl6ZWJYS2xCRnlySUpCVTBsb2VsU010TWpUaWQ2VVhBUWlic3NUcHNGcS1wQmpHQ3JpRkdHRThqcm5qcHBWRUdDbHBPczllZFVvRjFqejFn?oc=5",
+     "published": "2026-11-04T10:59:00.000Z"
     },
     {
-     "title": "Cricket-Australia's Starc displaces Jansen at top of ICC test bowling rankings",
+     "title": "Hungary opens communist-era informer files in belated reckoning with Cold War past",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd0RMeUlvS192bUZnaWd2SmpDRXoyazJId29BdU11bFpKNTJ2OGJUbmc1SUlNMmZEMWVCQjB1cEk3NWRxc0lMcHZCckI0U0lSV3JnczRrT1Q2SUVxSnNTNkhDLURFcnhmSjVaX0FTS2c3NDI4cXJjNWg2eG5oanU4VlhkR1pESE1oc0VqSW1IVTZsWk1QSUppRzZieEpWLUhfUVRkeVNSWXNNTGdSdjlIeHdzTkNDNTdiUl9vNlBJLWM1b05TNU8xNlFaT2k?oc=5",
-     "published": "2026-11-04T10:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeTg3NWt2TnpJNl9ISzJsYWlkdmM0cmFxNGo0T25TWWoyU1dJVXUxeDFVUFdVSHVkOWNPSXlNYjR2RGNrYnI5VFJ4WHF3QVNQeFBOUjIzWWFEc1U4TTN6V3FNalI0Y3JSbEVQSm5rVnRESnc3d3pOVDYyMUc2b3JZSVFLdVptcEpCdU1YZW5UQVNiUnBOOW02S2s2aUp3ZVV3cmw4X0NrUEJHd1UxbnVHbXdIYm5QQ21xTUhkUjRGdjJJLVFLZ1M0ZnJ5WQ?oc=5",
+     "published": "2026-11-04T10:58:00.000Z"
     },
     {
-     "title": "Labour of love",
+     "title": "Tencent rolls out AI model trained with limited cybersecurity data amid hacking fears",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWa0lheUdSblhhVXpxODJydHZFY19FcUZxaFRjRFA1bjRUbVcxVXRaYnZXNWhkNElwbnpxLWc0WVFWTlFFN3pTODNYTHp5bkNIc3c4cHAzanFGVDhxZzA4MjYycEJSMmNWSmc?oc=5",
-     "published": "2026-11-04T08:48:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXVSZU56cUIyMlR6QVBWNFN0VXg3VE8wWFVDNE9uc1JzSk9NeGdVN20zSFE3RVBQZ3d0SkRyTHRVQW5mQzR6dVZyckQ2aHFvSGhDTXE4M1diV1dWLU5GbWpIVFYtb3JTSWJEQVNuSFg4b21IRDdmOWFLekV3YTNjT0J1MlZIeG1qMUt2cHY3Q1pDOHhDZmZ1eS1DUTQwMnUxSEZjOW9ncDZGd2lxYXoxVHV3OG1fd2toeTB4S1Z1V3JmWk55STlTaWxTNElhUllzbXE3Mw?oc=5",
+     "published": "2026-11-04T10:49:00.000Z"
     },
     {
-     "title": "Nepal floods: Families of M'sian victims receive PERKESO benefits",
+     "title": "Kee Ming secures RM44.17mil data centre sub-contract",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZXRpRS11UlJBR2N2NmpseTBvRlNSaUVaZ2JMNWN6Nk5HN25Ob1lVNmJMQkdscEpIMzhxdzRLdkpkdllmTlZ5U0JZdE0yWVNvMU5CdmtoT3JONF9ndjhUZ1F0MFJmUEZNcllfZUtGbjhpN2lnR1dPMi1YWHVCWjd1dGJZamxnZHZsWW5yRE1QOEFLeFMwLVJFNTllWVFaSTFrbVFsYlBKY21QT1FELThNLXVvUVVtMGs?oc=5",
-     "published": "2026-11-04T08:42:00.000Z"
-    },
-    {
-     "title": "Nearly 900 VVIPs, including MPs, have not fulfilled PERKESO obligations for their domestic workers, says Ramanan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdVpCdlRwc29RbEJDcVlzd2NrSjBjYU40T0pXVXVVTTlIVGJSTVBDRncyTlQxc1hoS0ludzEtZTYtc1B1SWhvS05GWndUdDY2X3c4T2U3eGZnUDd4OUJqVi1iTUpSV2Zub0RJUHdtVV9EM1VkZ3JqdGc3RHF1REM5TVhWQnV5a0JoNXd2eTlvcnJxdzdsZTlLd01IUDhsMS0zaG5UbUw5dVc1aXhyWlhTempVb3lRQlVJVVo3c2tDbVVFUTR5dVBkeFZMUTBibTFodDlFQUxn?oc=5",
-     "published": "2026-11-04T08:40:00.000Z"
-    },
-    {
-     "title": "Prosecution gets more time to locate, serve appeal notice on Yusoff Rawther",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOU9ROVhzcEVBZWZCb08tRWxCSENyRjVRTlU5aFRtc09xVDhkeHpOZk1wS3gzb2w0cXhHU2ZMVVdvMmczLXhJTGRoYnVZQ1AwbHp0LUQzN0hlSzRMbXl3ZkJneWRaRU9IRzJfcVktRnR6ZkdwS21nbzRrNEJucXBVcFVjODg1NDA5U2Z3TjNNTlJESnZvMFV4dVV3al9Objc0bEtxTmxOaWJ2MFFXamFVWGZiMDh0eVg3WTFhbW9hRjBiUQ?oc=5",
-     "published": "2026-11-04T08:34:00.000Z"
-    },
-    {
-     "title": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJZa2gtSkxPZ1IyOXFVdmZCcHktRjd1MmdQZDVFd2Nwa1hSOTBBTEJtQUtOdjNEcF9WUzJKbmYyN3pzdS1hc3ZuVkhpMFdMa0ZidWlpWERTdlc0OU9tVzA2QUM5UXpENTdMMUZYUHhaNUZ3UTlfTnZwSVJnQzhiM2pLNW0tNTRkRFJDVHNjOTlMYWpBYy1POHFXVGtMTUdmVUF0ZU95X2xlc0k3REJmSlFUU0Z3OEc3VjRtV2VBMk8zd0h6bHczTy0zalVEQWxzWFZlelJHT0s?oc=5",
-     "published": "2026-11-04T08:03:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWTNhd0JWZS1lcVVKdGp5MHVISU53OWlkVXNuVXJxUWNOWG04RkFuTThXdHRwOE5MZ0ZxRXJjR2VBU2I3N2w1MmRkMDJ5bFVPRTFiYUN6UkZxQ0k5TlFteDg0dTZUeURKRXNkenUtZzVyMzBVX3duSkJwUGRxQkkwWGxUT3J0bkpTaXE0RzBqOW0zaXJGRExySXU4SjBPY3prQnFtWmRCWFoxU1FWRXR4QVlB?oc=5",
+     "published": "2026-11-04T10:20:00.000Z"
     }
    ]
   }
