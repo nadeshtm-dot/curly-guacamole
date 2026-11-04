@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-04T07:03:49.760Z",
+ "updated": "2026-11-04T08:19:01.474Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "At $835 million, tonight’s Powerball is among the top 10 jackpots in the game’s history",
+     "brief": "A lucky player could win an estimated $835 million in Wednesday’s Powerball drawing and secure the game’s second largest prize of the year.",
+     "link": "https://www.cnn.com/2026/11/04/us/powerball-jackpot-lottery",
+     "published": "2026-11-04T08:18:01.733Z"
+    },
+    {
      "title": "Trump reacts to Republican losses and declines to take blame",
      "brief": "By the time the House and Senate had been called for Democrats on Tuesday, a consensus among members of both parties was forming: voters had rejected President Donald Trump’s record in office, and he would face a…",
      "link": "https://www.cnn.com/2026/11/04/politics/trump-republican-reacts-midterm-losses",
-     "published": "2026-11-04T07:03:49.964Z"
+     "published": "2026-11-04T08:17:01.722Z"
     },
     {
      "title": "Too big to rig? How Trump’s voter fraud crusade crashed into a Blue wave",
      "brief": "The Trump administration’s unprecedented crusade to hunt for voter fraud spurred widespread fears of federal election interference but ultimately never materialized on Election Day – thanks to resistance from local…",
      "link": "https://www.cnn.com/2026/11/04/politics/federal-election-interference-failed-to-materialize",
-     "published": "2026-11-04T07:02:49.955Z"
+     "published": "2026-11-04T08:16:01.735Z"
     },
     {
      "title": "Former elementary school teacher becomes newest paper billionaire in China",
      "brief": "A former elementary school teacher has been propelled into the ranks of paper billionaires in China after the stock debut of his company selling tape and other adhesive products to tech giants, according to Forbes.",
      "link": "https://www.cnn.com/2026/11/04/china/china-new-billionaire-stock-debut-intl-hnk",
-     "published": "2026-11-04T07:01:50.086Z"
+     "published": "2026-11-04T08:15:01.729Z"
     },
     {
      "title": "Trump blames Fox News while his MAGA media allies blame everything but him",
      "brief": "President Donald Trump began election night by lashing out at Fox News.",
      "link": "https://www.cnn.com/2026/11/04/media/trump-blames-fox-news-midterms-maga-media",
-     "published": "2026-11-04T07:00:49.972Z"
+     "published": "2026-11-04T08:14:01.962Z"
     },
     {
      "title": "The historic firsts of the 2026 election",
      "brief": "Winners up and down the 2026 ballot will make history this year, CNN’s Decision Desk projects, including the first Black woman governor and the first out gay male US senator.",
      "link": "https://www.cnn.com/2026/11/04/politics/historic-firsts-2026-election",
-     "published": "2026-11-04T06:59:49.957Z"
+     "published": "2026-11-04T08:13:01.717Z"
+    },
+    {
+     "title": "A historic blue wave, a stunning rejection of Trump and other takeaways from the midterms",
+     "brief": "A historic Democratic wave swept the party into power in Congress and in statehouses across the country on Tuesday, as voters rebuked President Donald Trump and rejected the candidates he’d propped up in key races.",
+     "link": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "A 3,200-pound NASA observatory is careening back toward Earth. Here’s what to know",
      "brief": "NASA’s Neil Gehrels Swift Observatory is expected to meet a fiery end early Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.",
      "link": "https://www.cnn.com/2026/11/03/science/nasa-swift-observatory-reentry-deorbit",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "Trump’s personal push of Darline Graham in South Carolina comes back to bite his party",
-     "brief": "In a stunning upset in typically reliably Republican South Carolina, CNN’s Decision Desk is projecting that Democrat Annie Andrews will defeat President Donald Trump’s hand-picked candidate Sen.",
-     "link": "https://www.cnn.com/2026/11/03/politics/trump-darline-graham-loss",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "A blue wave, a rejection of Trump and other takeaways from the midterms",
-     "brief": "The Democratic wave is here .",
-     "link": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
      "published": "2026-11-03T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Latest",
+     "title": "Drones attack Iranian Kurdish opposition in Iraq's Sulaymaniyah and east Erbil, sources say",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZGd3TUZFVi1mdkFJMS1jVy1naFNYX09HMGUxLXVtQVFmTXlocWZZLTRBNS1ELWE4SnkyYnlYUjBGQzNWZ2VlRFo5OEQtOEZybVNHTHp2WGhNajdOU3ZveA?oc=5",
-     "published": "2026-11-04T04:36:22.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONXJZa2gtSkxPZ1IyOXFVdmZCcHktRjd1MmdQZDVFd2Nwa1hSOTBBTEJtQUtOdjNEcF9WUzJKbmYyN3pzdS1hc3ZuVkhpMFdMa0ZidWlpWERTdlc0OU9tVzA2QUM5UXpENTdMMUZYUHhaNUZ3UTlfTnZwSVJnQzhiM2pLNW0tNTRkRFJDVHNjOTlMYWpBYy1POHFXVGtMTUdmVUF0ZU95X2xlc0k3REJmSlFUU0Z3OEc3VjRtV2VBMk8zd0h6bHczTy0zalVEQWxzWFZlelJHT0s?oc=5",
+     "published": "2026-11-04T08:03:00.000Z"
     },
     {
-     "title": "All SEA Games 2027 venue upgrades expected to be ready by Q1 2027",
+     "title": "Infinix unveils Xpad 30 Pro tablet at RM1,199, featuring an 11in screen",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVzhtUHlSMzk0bU5IZ3prcEhOeU5XbndsV2l5bGpfbHNucUZCWGJYTm5iTWpWaG1uanE1Z0JMLTFmbVV2NllYbTlZSEZxUzRld1dUUWt2MU9tOWkwd2p6NWFYRmtjbnRMM0JTVEhIVFNEeGo2N2RLM3FOX3Y5NWstNzBYVHZIN3gxWWZOcVJEb1VJNE5ObWt6ekFYRkptVTE2eXZ6blJfRXFlTERUR0Ztc3lzRm5GQQ?oc=5",
-     "published": "2026-11-04T02:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRFhDYTExa19XcmJyOWoydzh5VFI5M1gyT05iNkJLelhidnFRR1ozM1NvLVpLcTYtMFFtS3BJRXVocXp2b0x0Yk10cjRuUFRHb2xVdnlQMUlSUlRSenQ1RV9Oc0lxUGVyTlhTSEUzM2JNdmlUdVplUFh1Rm50NGJmNW9RQ2dBVzNsNDBVTUhYZThJcVI3cVFYR2NyQlRyV3U1MEUyeEUwTXRHLURWbXBfM3RhTTRKV1liVXA1Q3BYdw?oc=5",
+     "published": "2026-11-04T07:17:00.000Z"
     },
     {
-     "title": "Singapore Airlines says 46,000 booking records affected by Amadeus breach",
+     "title": "Badminton: Pang Ron-Pei Jing keep the rhythm rolling as they enter Korean Open second round",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVlo0WllTVjJNc19PMjJ6QnM0RnczblB0SjBhb1ZhOEx2VXVjTlFSbFQtV2U1c3Q1SnlOaTVEU2lNbG1NOGpnVWxUb09HYVprYjdVaUd0RHkyZmxMWkhSMWRPcmRlVWtqUXh4NkVyZmNRdFpqcDFwQ1VaOVVndGNBOTlka0ZZenc0U0QzRHFYcjdZTm9VeHB1SnVvbHVMbUNKTHBiTVBGaVJwcmdpSk80SUFhM1BBb0x0cWtiZjduVXRsX1N5emN1RUdnVUVMZw?oc=5",
-     "published": "2026-11-04T01:41:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOHpJeE9LLU9sRlN3V2lJb3pQMXdXaXJyVTBfUUpoN2ZacDRNaVItZlFHemdXcXRGNmYwWkhzUVM3VXNGckxSaXlmMy14amxJdjRJanJrTUJfeTA4UmlmX1lxUy1TMS1TZnZIM1ZGSlRqcl9HYjNNcWIwR3ZrMUJvNm9DNmR0SXVGdkRmZGhVd3plQm5WZUFLSmZyb0dVR0gtWWNRVjFIY09MbzVCZkFKU3Z3QUx1OWxhSEt2ZzcwN2VWZEdSUkx1UnRIVTdYbG8?oc=5",
+     "published": "2026-11-04T07:02:00.000Z"
     },
     {
-     "title": "Flash floods hit several areas in Shah Alam, disrupt morning traffic",
+     "title": "CelcomDigi introduces 100GB roaming plan at RM100 for those performing umrah",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSUtfTWdJTUd1dzlaaG1qcEZpRVBfZGZWNDFSWUVTeWRWeGpvakVjQV9qNFdNR09lN0JvSkdfM0xXcVRVRi13OEZJcGx0bkFEMk5GSXhCNDRUTmZ4bUoxU3c0blZXYmNtVF91dTZHRzlzNXNhTkQtSGw4QWRkUUZEelB2ZDhMZW9LbGFoQ2NYQXpaVkV3SFBpTnpXYXdsZlpNM2xOT2pXbjdIV1YyYlFiR2VhNE42SW5f?oc=5",
-     "published": "2026-11-04T01:29:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX0NFdG9KOE1BdkJkc1JoWmtNRGVnM2MzS0dsWmdud0I0cVlhRktIbC03WVA1NGNYWTVONnBBU1FnRTd4eDRJVWdjTENMSDlnLU8xM1BkY09IMFMyajdla0dyYUFFdEZqeFNFZ0JtZHMzTWVaSVZvOGJDWFM0NVlBU3JCWm56NElaYW41YXdiM3VXMjY3elM4NjJBd2VrR2g5NW9JbkRBMlVBVy1nQjFXSWZ5dVJIZVBCY09QZFJmcVREY3JrLUw1aA?oc=5",
+     "published": "2026-11-04T06:47:00.000Z"
     },
     {
-     "title": "Columnists - Opinion",
+     "title": "Trump says willing to accept election results",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORVBnc3lFT1MxcmlvTUoxckNPX25NNVFvT0QzZVlTMmF4YVJDdGs0LVFuQlRsbmZycFNZZmRjQk4yaDZyTHZrRHlrM1NoNlFXMVRRTHktREJ6SEotYlVLNldlQ3p2TVZiTTg0bXdJbjc3VU9XN19QbkV2enBiS3U2YjRQZmllbU04cGQ2ZGE2Qlg?oc=5",
-     "published": "2026-11-03T23:56:43.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWFjREhLczJEZ3V3Wmhic3hBRVFMa1B1Q1R1eEJ1ZFZlUzdkSjhubm5acV9RZFl6MjhQRDNGM1haUG1fVDM1c1lOSHQyU3pibk9vTHFqWFFTV0owN0QwV3FxdjZ4WUIxX2hwbmp6QTJVU18tcUVQRGFJZHM0Ny1PVGZhRWtkQWNxYkFha2Q3dW5xMXlZRGFROUxn?oc=5",
+     "published": "2026-11-04T06:35:00.000Z"
     },
     {
-     "title": "Badminton: JHBA hail Zi Yu as ‘flower in full bloom’ as she earns another reward",
+     "title": "Russia hits power stations in Ukraine's regions of Kyiv, Zhytomyr",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS3pkM2tqVDZSUzBYQ2JmWXlKR0tCWmhnMkdGZjlDX3huSDhTZjBkYWNfNTZGMWVER3ROb09FbDVURkh0UXVGYkQzNEZMQUU0VTFIU3Z6UjlWaEVQQVlLMDB5cVJLUmg5VnNydmhLYzlURy1DVXFCRFRVbVdwNVZCZm85ZHRia1B3eXFlaEZzbzUtbDNYUC02NmVCRFROOWlLV3ZKOEdaMnljbFU1a251NUctbnVGdmV1cGdobQ?oc=5",
-     "published": "2026-11-03T23:34:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLWV4N2dMaTIzbUJyOHFUSWtxVzlkMnRGV2wwXzNBSnJFNmNIUU1QSTNDbGsxT3dTb2JCbjRXUXZQWldDT0czVFRpcTYyUXBjTF9taVZYd2RlRmpKaDRDaHI4ajJRT1U0cWFXVklhOC0yYXBSU1ozQkQ0dEcyUzNoT2lrQzV2WDQzVU80SHQ5MnIzX0VGelBoOEFuSUxVbUFNTXo3d1ZyUE9kN0tlRzV1ZXN6WjBKUQ?oc=5",
+     "published": "2026-11-04T06:08:00.000Z"
     },
     {
-     "title": "Badminton: Steely Lee won’t waver",
+     "title": "Martha Stewart apologises for homeless person Halloween costume",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdGVWdlU1R050ZURqaHVJaWV2bDV6c2VfaWVNUzU4ZUlmeFFuZEZQVWRyVXk0SThPcWV1cDlFOFk2R0Rrdjl1TVczTm1qR0dzQmZKYUgwb3lZb0dpTU5kdzlvWXpWNlBfNmsxV0VXN2VwTDBvWkpYYklTYklMd0NoMA?oc=5",
-     "published": "2026-11-03T23:34:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNlB3MVU3NVlwcDcwSmpfOGxzZnZCbml3UWZsRk5BVEo3d2d2YkYwd0cxSk9CNVJuZXdFdnRRRjZha0pZMTFsYkZxZUZ3WEg0S1UzUjNuYkJ1Q240Y2FzcDY5LS1nNDhNMDc5U0FkYkNFUDFXbEg4dng1eVNFaTBISHBPSTllV1NPdXFsWkxVbWlhSkpHUkQ5OHlEbHE2SkFYajJEX3R1R3Q0QjYtd0V4VFBncWp2OHFGTWlCR3ZEbGZsM1U?oc=5",
+     "published": "2026-11-04T06:00:00.000Z"
     },
     {
-     "title": "Badminton: Rosman hopes Pearly-Thinaah can keep up strong form until final stretch",
+     "title": "High Court sets Jan 26 decision on challenge over rejected Sabah 40% revenue motion",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSkxFNURMSWxMbnd4RFJoNUNQX1BlQXlwVmQ4R29vYzJwc0MyU0M0WERpdllqbkFTUnYtTklLY2pHUWdhYUJfbXpsZnFuLW92bFRJWVJlQkZKNWVNWE1uVXN6NDcxU01wRjFnbTJPcldYWVRxNnJzY0RuTUVtMlMxb0FldWhGaVVYSWxScEg2bWM5cWVfc09COHp3ejdzVWpkVDdMaUpCdkZaNVkyU0I2YXBVODFQbUJGUTI1UnhoUUdRMG8?oc=5",
-     "published": "2026-11-03T23:29:09.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMFQ2Umg5Nk9IdmZDUW9ORF9qZXU5UmdTcmZ5OGt0djh4anJEcU1vV1ZZUkZFSDlBV0xmaExhUHRGbEFfOElGajBqSHQtS0cybFRPREQ2bUotdzJxeWxsbWRtc1lSVWpDeDhkVEZrbkswVXR2LU5lV3lwdy13dndYNkJ6REVlbExJNG9nWXZHQlNqd2pYQmljMFBwR0IxYVNNNTVVbk40cFRFaVFrUEw1S2hIMVczR1hNb1RFdU5NNDNXSmxMMHAwWW9hdGk?oc=5",
+     "published": "2026-11-04T05:50:00.000Z"
     }
    ]
   }
