@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-03T23:36:53.542Z",
+ "updated": "2026-11-04T00:54:10.519Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
+     "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
+     "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
+     "published": "2026-11-03T12:00:00.000Z"
+    },
+    {
      "title": "Google will let schools turn off AI, but they may also lose Search",
      "brief": "Google is rolling out new controls for schools to limit students’ access to the company’s AI tools.",
      "link": "https://www.cnn.com/2026/11/03/tech/google-ai-search-policy",
-     "published": "2026-11-03T23:35:53.804Z"
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Convicted murderer who escaped through Tennessee prison fence is captured, officials say",
      "brief": "A convicted murderer who escaped a Tennessee jail was apprehended in Missouri and brought back into custody, officials said –– nine days after he breached the prison fence and drove off in a stolen truck.",
      "link": "https://www.cnn.com/2026/11/03/us/tennessee-escaped-murderer-captured",
-     "published": "2026-11-03T23:34:53.812Z"
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Spanish transport minister resigns after two deadly train crashes in one year",
      "brief": "Spain’s Minister of Transport Óscar Puente announced his resignation after two deadly train crashes occurred in a single year, including one last week that killed 69 people and injured more than 200.",
      "link": "https://www.cnn.com/2026/11/03/americas/spain-transport-minister-resigns-intl-latam",
-     "published": "2026-11-03T23:33:53.798Z"
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Trump’s Election Day bombshell on Israel points to historic shift in US politics",
      "brief": "President Donald Trump is arguably the most pro-Israel president of modern times.",
      "link": "https://www.cnn.com/2026/11/03/politics/trump-election-day-israel-aid",
-     "published": "2026-11-03T23:32:53.753Z"
-    },
-    {
-     "title": "‘Mayday, mayday.’ A flight from Texas to the Bahamas ended in tragedy. What investigators are examining",
-     "brief": "It took about 90 seconds for a routine report of ice and turbulence to be replaced by a desperate “Mayday, mayday!” and then silence, as a private jet plunged more than 27,000 feet over the course of one minute…",
-     "link": "https://www.cnn.com/2026/11/03/us/florida-plane-crash-learjet",
-     "published": "2026-11-03T23:31:53.751Z"
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Zohran Mamdani has the most famous mustache in politics — for now",
      "brief": "New York City Mayor Zohran Mamdani knows the power of maintaining a signature look in politics.",
      "link": "https://www.cnn.com/2026/11/03/style/mayor-zohran-mamdani-new-mustache-movember",
-     "published": "2026-11-03T23:30:53.810Z"
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
      "title": "Justice Department sends criminal target letters in Alaska probe to people aligned with Democratic party",
      "brief": "The Justice Department sent target letters to more than a dozen people it believes helped recruit a Senate candidate with the same name as the Republican incumbent, in Alaska — an indication that the department is…",
      "link": "https://www.cnn.com/2026/11/03/politics/justice-department-target-letters-dan-sullivan-alaska-democratic-party",
-     "published": "2026-11-03T23:29:53.748Z"
+     "published": "2026-11-03T12:00:00.000Z"
     }
    ]
   },
@@ -54,16 +54,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-PSG hit Villarreal for six as Bayern win and Man United fight back",
+     "title": "Skyworks tumbles as sluggish smartphone market weighs on forecast",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOd3EtbGxybWV1X29iX2dhQURmYjhzWXA0eWt3VjJYZmJrOFF2YWJ4T3JSUmZjTWlaTjhaWERua1JLZFBmdHAxM0ZWU0V5WmxlZ3k3SndPckRGSVdRYXc3RnZJeHdVOFVvUkpxT0ZfX0l0ZlRQX3BrOHBDamhvdlBJWW1peFVCR05RQzRnby1CVWc2eXM2NDBkY2xhV3h4bGpxTnBaS3RkUnN6REhNdXBvMEZsTFBodjFVc3BWZzZXQTBiR0dN?oc=5",
-     "published": "2026-11-03T22:32:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVkJWZU83b1pHeFFhY1pWdEZYT2M1cVY2ZWRRVFFZS20zWHdrdXJYUElVWUpSRmlQUFdWekFrOUFJNWVQanJmMFhDWDdBdjVGS29KMjk0MjM5eS1XQjhNMTc3T3VZNjlRRXpuS0RXT1Z6X1ktYWE1Z3JzUnRsQW53ZGlnMk1RTUh4RXpXaDZtVGdwSDhEZlMyXzI2UE9kRTZ5aWhGYmFEcU05TDBvTmxtVHg2c1FvLWlyNXc?oc=5",
+     "published": "2026-11-04T00:20:00.000Z"
     },
     {
-     "title": "Hong Leong’s RM100mil MTN hits maturity",
+     "title": "US has no immediate plan to strike Iran, Trump tells FT",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZyZU5BclJMb2NPRDBCeHF5YmJPREQ4V2pua2t4a3VPT3VLSGdPOG9RV3RCVkZsTDJsZVY0OW1VR3hQa0dFZDd5VmE3bTQwTjMzWXY0RzVocG1oY3J1eFRLSWZMRkFLVFA4MVNIRnJST0lVcWZPcndXaFVPWWUwMmwxU1oxekFPWXp6Z25QNGlCOHIxcXhxUDVPVm1BM05J?oc=5",
-     "published": "2026-11-03T21:56:15.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNkZ2VHU3VW1ZYVpOQklQRDZkSUtvYjRMZ01MLV9UdmZBeEh4SWxScjh4MTRweUo1SGtLNXpEMG5JbW9yblVwTmZjUGI0ajVMUjgyRGZlTU9DUDJyclhOVzVfd0F6cGF1NmppNzRWbW1tN1JXTFJKNFZiS3g0X19mTUxpa0hhSjZrenVxUWxJbHpDVy0yYXkwOW1LSFBVQnlnQk01a3pn?oc=5",
+     "published": "2026-11-04T00:03:00.000Z"
+    },
+    {
+     "title": "Over 1,700 factory workers switch jobs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUkNGNzNILWgtdWdDSzV0aFI0OWt3OXBHWTEwSWhVM3BFd0w4STlvUUNKVDBSbDRSQWN1M1dzLUx6d1BjajdtbU9OM1hkUWNYQ2tsSnlVNERjVHFBUGx4YldKSHFGYVA4dE1NVEx0OVVXSlVCVlBBVUN4UVB4SG1MS2Q5WVUyWTN1b2t0YldmTXM?oc=5",
+     "published": "2026-11-04T00:00:00.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzBzVjI1WFdMZ3UwY3o4MnNJcGwxeVZYX1o2czJncWVOVTk1WTBscUEtWXhCS0FhdzJrZy03ZFgzajZJaUl3RVNNalpkdm1UanFVcE5KdlJXblZLQzRUekptdGpPeXMtYS1mX2lQd1RLQ0ZJQ3BKSzdiemcyWmdKLS11V2NQb1dQWThINUZTa3NiUQ?oc=5",
+     "published": "2026-11-03T23:01:58.000Z"
     },
     {
      "title": "Football: Soccer-Belozoglu named Fenerbahce head coach",
@@ -84,22 +96,10 @@
      "published": "2026-11-03T21:12:00.000Z"
     },
     {
-     "title": "Football: Soccer-Watkins double earns Al-Hilal Asian Champions League victory",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDE3RjhvLUpMcmpic3RGZmdaNFRfTy1CcHRVcWNYckdZd3NFUzJOOElULUVaNG15aGJmV0MxZDlzbWRLaTFneVEyRGVLbmY0Vm9teXRwUFVsZmFMeTZWQXNfeDR3cFI5T0E3OTNWNWRpMC1jckxoaUtlYktLLXN1R2EyN2R1cGo3STdiMmJ0Y1JsQ1lockZnMV8yMTJNdy1kenduY2U2dDNXZ2JuRGV4MVI2OWJaZjk4UUNSTQ?oc=5",
-     "published": "2026-11-03T21:04:00.000Z"
-    },
-    {
      "title": "Brazil, Venezuela foreign ministers discuss trade, Amazon cooperation",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNci1RWGZJbjV6dnFQUFg0UmYxWTBvejlDWjFtMXZOWk45WGFwdEtZNHRXaTMtd3FiSVdqVHRiX1FrbUVLaWItdU1aR3NhYTNnU0RsNERyUkxhbFo4UHN1WHB4MmFPSXRldlYtdy1TZ2c4T2ZnY0VhV2FZRGl6TGhGc01PdEJNdk1HTWV4ZTBKRS0tRWlOeHRFUHBNWmEyd29ha05tNVdZam5aRlllRkZlcEpjMEoxMWc?oc=5",
      "published": "2026-11-03T20:52:00.000Z"
-    },
-    {
-     "title": "Spain's transport minister says he will resign after latest deadly train crash",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQclRweXFyalNUaWNRUEctN1h5OUhVcU4wYms2RUNtenBkMHpZRTJScjBkdjNtUWxHb0dMM3lvZ2FKY0ZmaHZqMWF0UmNZRGNuRWRlZmJmTVlpeGdmUGpDTUlGektLUnVXbldVSTF2YXEtaUlvWUNoemI2RUFpQk9ZVXZMbW9QSFQwd2x3WElSbUNvTDgxenpqWVBSR3dKaFFtRFg5cExpUXAwX0tUVVE4U25PQlpfUkxzcHVUa3ZkTndMb2dxYUZYVg?oc=5",
-     "published": "2026-11-03T20:34:00.000Z"
     }
    ]
   }
