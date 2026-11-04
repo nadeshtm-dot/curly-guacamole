@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-04T15:51:49.097Z",
+ "updated": "2026-11-04T16:52:26.375Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Former federal prosecutor to lead Cornell sex assault investigation",
-     "brief": "The New York attorney general’s office tapped a former federal prosecutor experienced in sex crime cases to lead the criminal investigation into allegations of sexual assault at Cornell University .",
-     "link": "https://www.cnn.com/2026/11/04/us/cornell-assault-investigation-jacqueline-kelly",
-     "published": "2026-11-04T15:51:49.293Z"
-    },
-    {
      "title": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire",
      "brief": "CVS Health said Wednesday it is splitting into two companies, marking one of the largest shakeups in the healthcare industry.",
      "link": "https://www.cnn.com/2026/11/04/business/cvs-to-split-into-two-companies",
-     "published": "2026-11-04T15:50:49.377Z"
+     "published": "2026-11-04T16:52:26.600Z"
+    },
+    {
+     "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+     "brief": "The US midterm elections could have consequences far beyond the country’s borders.",
+     "link": "https://www.cnn.com/2026/11/04/world/how-iran-israel-and-ukraine-see-the-us-midterm-results",
+     "published": "2026-11-04T16:51:26.649Z"
+    },
+    {
+     "title": "Dow jumps by 1,200 points as Democrats take control of Congress",
+     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for President Donald Trump’s policy agenda as well as the AI trade.",
+     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
+     "published": "2026-11-04T16:49:26.669Z"
+    },
+    {
+     "title": "Do you use AI agents to run your daily life? We want to hear about it",
+     "brief": "Tech giants are betting that AI agents will play a key role in how people get things done in the future – from shopping for groceries to returning packages and planning vacations.",
+     "link": "https://www.cnn.com/2026/11/04/tech/how-people-use-ai-agents-callout",
+     "published": "2026-11-04T16:48:26.667Z"
+    },
+    {
+     "title": "Former federal prosecutor to lead Cornell sex assault investigation",
+     "brief": "The New York attorney general’s office tapped a former federal prosecutor experienced in sex crime cases to lead the criminal investigation into allegations of sexual assault at Cornell University .",
+     "link": "https://www.cnn.com/2026/11/04/us/cornell-assault-investigation-jacqueline-kelly",
+     "published": "2026-11-04T16:46:26.662Z"
     },
     {
      "title": "Look of the Week: Glenn Close and her six-foot impersonator demand a double take",
      "brief": "Professional shapeshifter Alexis Stone loves conjuring celebrities from beyond the grave.",
      "link": "https://www.cnn.com/2026/11/04/style/glenn-close-alexis-stone-lotw",
-     "published": "2026-11-04T15:49:49.370Z"
+     "published": "2026-11-04T16:45:26.657Z"
     },
     {
-     "title": "Dow jumps by 1,000 points as Democrats take control of Congress",
-     "brief": "US stocks opened higher Wednesday morning as Wall Street digested results from the midterm elections and mulled what a Democrat-controlled Congress will mean for President Donald Trump’s fiscal agenda as well as the…",
-     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
-     "published": "2026-11-04T15:47:49.379Z"
+     "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
+     "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
+     "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
+     "published": "2026-11-03T12:00:00.000Z"
     },
     {
-     "title": "The historic firsts of the 2026 election",
-     "brief": "Winners up and down the 2026 ballot will make history this year, CNN’s Decision Desk projects, including the first Black woman governor, the first Muslim elected to the US Senate and the first out gay male US senator.",
-     "link": "https://www.cnn.com/2026/11/04/politics/historic-firsts-2026-election",
-     "published": "2026-11-04T15:46:49.347Z"
-    },
-    {
-     "title": "Texas Democrats pull off the breakthrough they’ve chased for decades",
-     "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
-     "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
-     "published": "2026-11-04T15:45:49.367Z"
-    },
-    {
-     "title": "A 24-year-old running the NYC marathon collapsed 2 miles from the finish line and died",
-     "brief": "A 24-year-old woman from Lewisberry, Pennsylvania, collapsed during the New York City Marathon on Sunday and later died at a hospital, New York police say.",
-     "link": "https://www.cnn.com/2026/11/04/health/rhabdomyolysis-rachel-apa-nyc-marathon-death",
-     "published": "2026-11-04T15:44:49.374Z"
-    },
-    {
-     "title": "Russian bombing of Ukrainian aid center is one of the war’s ‘deadliest attacks,’ Zelensky says",
-     "brief": "Dozens of people were killed when Russia dropped at least nine bombs on a school building in southeastern Ukraine where they had taken shelter, President Volodymyr Zelensky said Tuesday, describing it as “one of the…",
-     "link": "https://www.cnn.com/2026/11/03/europe/ukraine-russia-zaporiszhzha-school-strike-intl",
+     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
+     "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
+     "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
      "published": "2026-11-03T12:00:00.000Z"
     }
    ]
@@ -60,16 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Canada says midterms won't change trade stance, sees talks with US officials",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWk9zNVN6QV8zMXZMZ2tTUENqNUFLMEludjhJY2ExQlVTaUVPSy1FUmRwNVVkc1ZBVk9YTi13M2c0ekpqTm9hdm5GTVZDd0ctU3lNdmZVdldSVWptU2tkdHB6NDNWaHduUUdvU0VEb2JsSTl2TEFfd3RyY0JqN0Fjc04xbVBUZ0dlcGJwWmJYQlFpYzZ3N3hLQkhoZ1g0QWJBMEFCc3RmaEtrbW9sMXlyZEhBbVhkVzhxakEta1VEc0tMNDA1?oc=5",
+     "published": "2026-11-04T16:44:00.000Z"
+    },
+    {
+     "title": "British healthcare worker with Ebola to be evacuated from Congo to UK, document shows",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1dyOWZxS0ExRWRuOTJ6ZGkxQTdKbXZUNEJWUXphUW52Ny1UZklaVG9FaFExcXZhS3hES3BpeWZtZGNwbm9leGI1TVU2ZlZwY09TRnhSTFprS0p2b09oZU03TlhuOWxjUk9hb0VERUk4bUNVWlltUjB2Z1AyZHRNaE81ZURQUTFGUlFZdGRIRDJmQzdkVHhiMFFJZFZqR3hVTEc4TnJvOTYzRGJRdTduXzlPTGo4c2dzY3UtTEtYR1drRFo0cDF4bndURm0wUQ?oc=5",
+     "published": "2026-11-04T16:30:00.000Z"
+    },
+    {
+     "title": "Cyclone Murasu kills two, damages 312 houses in India's Andhra Pradesh",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOaDEyanBGZXlWTTZka1JHeHZ2T1J3LUYyNDhYa3g3X2RDc2UxR0swaXhoVDRJZ0kzbzc4by1NOGF3OTNSejAtaU5hVEhCQkRkdWVncUdFdmZKdVUweTRGZ1VJVjUzLWdKNDhKMjJzNGN3dWMwVzQ3UXBZMXZ1VVNBNmJGYlEyanJPendSbHdFeG1wM2ZwcXN4WUNTcHdfaHJDYzBVQzBwOUJ0amoyS3IyVFlZRGhPWkQ5YzExQ2ZwMWt4UnVhb2NzRU0zUDlpb2M?oc=5",
+     "published": "2026-11-04T15:48:00.000Z"
+    },
+    {
      "title": "Mother of Ghanaian teen killed in New York heads to US funeral after Trump grants visa",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPanZETVlPVHdFTVUzNkNHTllhclZKRDBjejdQU2FCazh4bW9TeEphNTIzLTFnUEJRdGdYYXQtTDZZYlZpMmZEdDdFYkhKdE9LZ3FkSEhRU2pTYnNiTzQyNmdIaW1HV05SeTJWSUtkZHRydGt4NDFSS1VIc3VzcUtyTUJSUTg1dmppX251NzVIcnYyY3RxVkRKLTh1NEptalZnSlhqZ29yUmhLdm1melFWc0ZIeFo2UF92NWFMaURPTkg2Q3N1OEdMQ2IyX1lxUzEy?oc=5",
      "published": "2026-11-04T15:37:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Buriram United end Kashima's perfect start to Asian Champions League",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2dTYnB3TEc4QjRSOGpxNmNJSzZ6dlc5a1RMaWpxUHRaeF9hS3hvaDFyai1EWXBnTFlZR3ZpMlRLX1lFZmlMa0pvSjdQVEx0MG5JTlJfWWg5ellFSjRXbEpNN2V0UzYwSUpUQmh4bW5keHc2X0JqamFZNjJjQmRLaWVKSGZXTGFNRGVocW5ld0gtc3FrM0trdFYza0xoZm1ZbExveG0xNjRTYlFsQk1Yd2FQTmhhOVM5THN3OUN6b2pwX2VKdDd3SHJn?oc=5",
-     "published": "2026-11-04T15:29:00.000Z"
     },
     {
      "title": "Tennis-Sublime Musetti stuns world number one Zverev at Paris Masters",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGJjMDdQU1llUkxYMjcyelgyQUNoZUhpQW5UUi12blVSdDhScVRuNUJUTGNjTHlmWkN3UHkzTW1FWm5aR0U1SWNCMmVCS3l5am1vb3NsSkFteDdNQzFVanlaZVhkdTJySGR1ZVMtU3VKQ2hMdERrS190aDZULUlMMVlZa05lN2FqNVg0eFRqbVZHNExZTnlGRWdmZy1wam5mV1QwTHM0UTk4ZnJzd1Rka3dHVQ?oc=5",
      "published": "2026-11-04T14:48:00.000Z"
-    },
-    {
-     "title": "Tennis-Frenchman Fils reaches ATP Finals for first time",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZVNESm9TT3VQT1VmQ3NkWjFxekVnSUZDbjVpam9JZm9CdjhjYWtkdnp4MlBIcWUzN0FtSHdCZlRDQTlVR1RqUFBtTnU2UTFnWm0tNUZxdGpOZlY5Wmt4NG9ibjJicm9lSmtLN3JSSGtLaDNubWduQVZpa3MzOF82R3h5U0dSSkEyVm5nVXhSTHZKeDM3clplaDlTeVY1VThkQmNJbXVjSjU1dw?oc=5",
-     "published": "2026-11-04T13:51:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Coach Schmidt to leave Heidenheim after record 20 years in charge",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNby15YnNra0dtT2JBaEVnR0w2SVJoUDMtVkJUSDNWUlRkUE5vZFdXdEIxOS1GMjhDeUs4MURpS1BHZVZvZEJNZVg0bnRGT3Zia1NPRW9MZHZ6Qno2Z0pMS1FkWlFFZDVsaGRsdVNIS1A0T1VPdDcyZV9nOE80NXFlcjRXM0o0OEg1Yy1uYTg0WDRERHdHQUUwamN6d0ZtbGtHOXhiTzBaNDBrRU5XVEVwbnRsSlR3T3pqVXRQbzFlQjB6WGc?oc=5",
-     "published": "2026-11-04T13:09:00.000Z"
     }
    ]
   }
