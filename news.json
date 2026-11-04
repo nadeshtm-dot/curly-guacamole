@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-04T21:46:01.938Z",
+ "updated": "2026-11-04T22:44:37.051Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Dow posts best post-midterm elections day in 44 years as Democrats take control of Congress",
-     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda…",
-     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
-     "published": "2026-11-04T21:46:02.188Z"
+     "title": "Vance tosses Trump under the bus in a bid to keep 2028 hope alive",
+     "brief": "Vice President JD Vance on Wednesday surveyed the wreckage of the MAGA coalition and spilled his thoughts in an extraordinary social media post that launched the 2028 presidential campaign.",
+     "link": "https://www.cnn.com/2026/11/04/politics/jd-vance-trump-2028-campaign",
+     "published": "2026-11-04T22:44:37.199Z"
     },
     {
-     "title": "How Mississippi became an unlikely Senate battleground",
-     "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
-     "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
-     "published": "2026-11-04T21:45:02.215Z"
+     "title": "The Southern Taurid meteor shower will bring rare fireballs tonight",
+     "brief": "Night owls have the chance to spot a few dazzling fireballs as the Southern Taurid meteor shower hits peak activity.",
+     "link": "https://www.cnn.com/2026/11/04/science/southern-taurids-meteor-shower",
+     "published": "2026-11-04T22:43:37.258Z"
     },
     {
-     "title": "Suspect among two dead after shooting at Citibank Center near Tampa, sheriff says",
-     "brief": "A suspect who fatally shot another person upon entering the Citibank Center is dead after a security guard confronted the shooter in the facility’s cafeteria, Hillsborough County Sheriff’s Office Chief Deputy Frank…",
-     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T21:44:02.230Z"
-    },
-    {
-     "title": "Scientist who brought frog embryos to Boston for cancer research is cleared of smuggling charges",
-     "brief": "US prosecutors have dropped all criminal charges against a Russian scientist who was tossed into an immigration jail last year after she landed at a Boston airport with frog embryos intended for her cancer research…",
-     "link": "https://www.cnn.com/2026/11/04/us/us-frog-embryo-researcher",
-     "published": "2026-11-04T21:43:02.238Z"
-    },
-    {
-     "title": "Republicans confront a game-changing possibility: They can no longer count on Texas",
-     "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
-     "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
-     "published": "2026-11-04T21:42:02.234Z"
-    },
-    {
-     "title": "The biggest winners and losers of the 2026 midterm elections",
-     "brief": "The results are still rolling in on the 2026 midterm elections.",
-     "link": "https://www.cnn.com/2026/11/04/politics/midterms-trump-loss-democrats-win",
-     "published": "2026-11-04T21:41:02.169Z"
-    },
-    {
-     "title": "A 3,200-pound NASA observatory plunged back to Earth. Here’s what to know",
-     "brief": "NASA’s Neil Gehrels Swift Observatory met a fiery end on Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.",
-     "link": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
-     "published": "2026-11-04T21:40:02.227Z"
+     "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
+     "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
+     "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
+     "published": "2026-11-04T22:42:37.257Z"
     },
     {
      "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
      "brief": "One person was killed and two others injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing skids…",
      "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
-     "published": "2026-11-04T21:39:02.240Z"
+     "published": "2026-11-04T22:41:37.260Z"
+    },
+    {
+     "title": "Security guard stops gunman who drove into Tampa-area Citibank Center and opened fire, killing a woman",
+     "brief": "A security guard stopped a gunman in an exchange of gunfire after the shooter crashed a car into an outdoor area at the Citibank Center complex outside of Tampa and fatally shot a woman, Hillsborough County Sheriff’s…",
+     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
+     "published": "2026-11-04T22:40:37.243Z"
+    },
+    {
+     "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
+     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda…",
+     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
+     "published": "2026-11-04T22:39:37.253Z"
+    },
+    {
+     "title": "How Mississippi became an unlikely Senate battleground",
+     "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
+     "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
+     "published": "2026-11-04T22:38:37.256Z"
+    },
+    {
+     "title": "Scientist who brought frog embryos to Boston for cancer research is cleared of smuggling charges",
+     "brief": "US prosecutors have dropped all criminal charges against a Russian scientist who was tossed into an immigration jail last year after she landed at a Boston airport with frog embryos intended for her cancer research…",
+     "link": "https://www.cnn.com/2026/11/04/us/us-frog-embryo-researcher",
+     "published": "2026-11-04T22:37:37.262Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "EU hosts talks on Ukraine's post-war reconstruction",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkt0MVZuMzRmb0ZfYWRsU1hvLVE1dFNuY0Y0c0I1SGF6OE5LbUt0aHBIRTFac3FoWUl2REZFWG5Hc3RJbDdzQmhfVDd3SGVYb1RoVVZXRjVJOXF6RzAtNzVZNmNkWVVWZmRvTWNNQTBZVl9sUl9EMTdRalFWZEZVdFVoV0ROYkVnbWJ6TXlpVGIwcks2WXpUWFRaUk9rbnNFZDhLZA?oc=5",
+     "published": "2026-11-04T21:54:00.000Z"
+    },
+    {
+     "title": "U.S. stocks close higher",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tQk43ckljYlZDallHZm1FbXJlNzQ0T0lMOUpaVVB0alNnSEQ5ZmQwQlZwbmpJNW5vX19xY0lLbnFkaElYZk90UlVkaTA1eHhMTWphc21qejdnVG11VmJNLWp3MWVJYVJ2Vk5lR3hPUGVnR3c5R09kelF1VQ?oc=5",
+     "published": "2026-11-04T21:15:00.000Z"
+    },
     {
      "title": "KEB IPO fully subscribed",
      "brief": "",
@@ -72,40 +84,28 @@
      "published": "2026-11-04T21:06:34.000Z"
     },
     {
+     "title": "Binastra bags RM303.8mil Klang contract",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYldhUUdUaE5VenZMLWVVemZ4RXN5RFVkRl8tTTFDem5IZE5OLUNaUlh3QTVYTmdkRDZ2Smh3Vlc2NWhKZGhJSU8xaUNDai1ta2NiTmVIX2JQb3BlM0VjYk5EZnZaSWNaNTJnWGhURzFlYkI1bmphMEpBYzZvRUl6c2h0YUNsZEVrWjlKb25wT2xxT19vc0xSbS00UW1Od2Et?oc=5",
+     "published": "2026-11-04T21:06:34.000Z"
+    },
+    {
      "title": "SunCon wins RM920.8mil Johor DC job",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRFBIZE1nSTRsTDBwSmFfS1ZPeFpzUGRyRHBDRGVNSjJmNDFoa2d1SzVKM2pma2c4SXRVRUttdHZnVktuNjdVSC1kd1ZYY25NYUVob24xZ0lER2lpRTVpbkZpdVp5VVdwcFlRWi1WdndNcDRFbzQzOWVoTGMzajJoMEZIVkRRT1BHSVNhOU5hVW5fYmRMQnVXZ1VGRQ?oc=5",
      "published": "2026-11-04T21:06:34.000Z"
     },
     {
-     "title": "Waja Konsortium wins RM190mil job",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlJlVXVibzJpTUF4QVN0cXY4d0dyS0ZvbUZ1Y1NIeUEwalViV2FTdm81TS1TekYzQ2Vfb3ZBRkRxTEJ6UkRZSlRxOGppS1FXM3puN0IwRTZZeVpmdjhVV0MzVWtMbUw0ZEh3UHVpU3hpMXdvTFBmdGhhV0k5OTlNQ3R4d3Q2ZFpRRzdWNWUtVWFQay1TajZuRF93?oc=5",
-     "published": "2026-11-04T21:06:29.000Z"
-    },
-    {
-     "title": "Golf: BC Partners abandons rescue plan for LIV Golf league, FT reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSVQzUE9GcUhkMm5tTUZZd3dIOFBOelkzX0pxVUhMQmd6SmpBaWRNa1dsb2NpMFJCbk5KS1U1OUxLZzJMeVFmT28yQlhXVnhfNERDbXV1aTRSUFI5MGlIOWJfRU5JMkxhVXZPajNTb0NWUmxmNEtUazN6RWkyUjIwRXhrZ2pRM0lNYl9MQVJ0UWMzTHRaNkJid1pSVnFOY0N2MEFtUHFXMXNPOWxpNV9HY2Z3?oc=5",
-     "published": "2026-11-04T21:03:00.000Z"
-    },
-    {
-     "title": "Binastra bags RM303.8mil Klang contract",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYldhUUdUaE5VenZMLWVVemZ4RXN5RFVkRl8tTTFDem5IZE5OLUNaUlh3QTVYTmdkRDZ2Smh3Vlc2NWhKZGhJSU8xaUNDai1ta2NiTmVIX2JQb3BlM0VjYk5EZnZaSWNaNTJnWGhURzFlYkI1bmphMEpBYzZvRUl6c2h0YUNsZEVrWjlKb25wT2xxT19vc0xSbS00UW1Od2Et?oc=5",
-     "published": "2026-11-04T21:00:00.000Z"
-    },
-    {
      "title": "MyDCD IPO oversubscribed 36.46 times ahead of listing",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjlTUUtJNXkwS0N2MzJ0Z3dhQnRFMnRWbTN0QzhmOHVSWUVXQWpQSzNxQXdvTUJWaklWekVHY2dVYjE3SjFFSWs2QTNBX0dUOGNCbUtHZ2d1NXJmbG9DbTVwYWtXRlhtRGh0cTd1T1RfcnhBQWtydjQ5WEJLTWN1aW9aek82eXlZTHB4S0RwVXZuMHVPa3N5R29lU1hWeEs4ZzhPZHhfMFBMV1BaSXczbnhaQQ?oc=5",
-     "published": "2026-11-04T21:00:00.000Z"
+     "published": "2026-11-04T21:06:34.000Z"
     },
     {
-     "title": "Ukrainian drone attack kills 3 in Russia's Belgorod region: official",
+     "title": "Waja Konsortium wins RM190mil job",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX2UtOS1GOVJXWmtYcHlUSTdGZmNLR2ZFNTZGUGhlaGltVHNDdHgxd2h2S29GWGhERnlybWdJZ2tqME1ON1M4Y0JYWGRHamZMdTNWM3A3SEJhT2RCb0ZjWDhXU3N6dC04akkxY2JJVUZRMy15NUt4R09Hb2xQQ284cGtoNXMxT28wVHdNeEJxZjVwemRUamg1S3ZlMUZQYXAxODl2ZGd4RHVVNm9fbi1CcXFaWnZyS0E0Zmc?oc=5",
-     "published": "2026-11-04T20:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMlJlVXVibzJpTUF4QVN0cXY4d0dyS0ZvbUZ1Y1NIeUEwalViV2FTdm81TS1TekYzQ2Vfb3ZBRkRxTEJ6UkRZSlRxOGppS1FXM3puN0IwRTZZeVpmdjhVV0MzVWtMbUw0ZEh3UHVpU3hpMXdvTFBmdGhhV0k5OTlNQ3R4d3Q2ZFpRRzdWNWUtVWFQay1TajZuRF93?oc=5",
+     "published": "2026-11-04T21:06:34.000Z"
     }
    ]
   }
