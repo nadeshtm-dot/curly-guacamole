@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-04T17:49:59.428Z",
+ "updated": "2026-11-04T18:51:54.014Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Texas Democrats pull off the breakthrough they’ve chased for decades, reshaping national politics",
-     "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
-     "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
-     "published": "2026-11-04T17:49:59.720Z"
+     "title": "Small helicopter with 3 aboard crashes off Miami, officials say",
+     "brief": "A small helicopter carrying three people crashed late Wednesday morning off Key Biscayne, Florida, the Federal Aviation Administration said, leaving the aircraft upside down with just its landing skids visible in the…",
+     "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
+     "published": "2026-11-04T18:51:54.138Z"
     },
     {
-     "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
-     "brief": "The US midterm elections could have consequences far beyond the country’s borders.",
-     "link": "https://www.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl",
-     "published": "2026-11-04T17:48:59.711Z"
+     "title": "Wars, executive actions, and a lot of construction: How Trump is expected to handle being a lame-duck president",
+     "brief": "President Donald Trump, resoundingly rejected by voters on Tuesday night, is entering the final phase of his elected career wounded but newly determined to retain an iron grip on power.",
+     "link": "https://www.cnn.com/2026/11/04/politics/trump-lame-duck-president-democrats",
+     "published": "2026-11-04T18:50:54.167Z"
+    },
+    {
+     "title": "Bob the poet, meet Bob the priest: Pope Leo receives Bob Dylan at the Vatican",
+     "brief": "They are two of the world’s best-known Bobs from the US Midwest.",
+     "link": "https://www.cnn.com/2026/11/04/europe/pope-leo-bob-dylan-meeting-latam-intl",
+     "published": "2026-11-04T18:49:54.177Z"
+    },
+    {
+     "title": "A 3,200-pound NASA observatory came careening back toward Earth. Here’s what to know",
+     "brief": "NASA’s Neil Gehrels Swift Observatory was expected to meet a fiery end early Wednesday morning, nearly 22 years after it launched to study the most powerful explosions in the universe.",
+     "link": "https://www.cnn.com/2026/11/04/science/nasa-swift-observatory-reentry-deorbit",
+     "published": "2026-11-04T18:48:54.170Z"
     },
     {
      "title": "CVS to split into two companies, in major breakup of its $117 billion healthcare empire",
      "brief": "CVS Health said Wednesday it is splitting into two companies, marking one of the largest shakeups in the healthcare industry.",
      "link": "https://www.cnn.com/2026/11/04/business/cvs-to-split-into-two-companies",
-     "published": "2026-11-04T17:47:59.714Z"
+     "published": "2026-11-04T18:47:54.175Z"
     },
     {
-     "title": "Dow jumps by 1,200 points as Democrats take control of Congress",
-     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for President Donald Trump’s policy agenda as well as the AI trade.",
-     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
-     "published": "2026-11-04T17:45:59.763Z"
+     "title": "Texas Democrats pull off the breakthrough they’ve chased for decades, reshaping national politics",
+     "brief": "For decades, Texas Democrats have dreamt of turning the state blue, rallying around exciting candidates who drew big crowds and big money but could not ultimately overcome the state’s stubborn conservative majority.",
+     "link": "https://www.cnn.com/2026/11/04/politics/texas-democrats-win-breakthrough-chased-for-decades",
+     "published": "2026-11-04T18:46:54.180Z"
     },
     {
-     "title": "Do you use AI agents to run your daily life? We want to hear about it",
-     "brief": "Tech giants are betting that AI agents will play a key role in how people get things done in the future – from shopping for groceries to returning packages and planning vacations.",
-     "link": "https://www.cnn.com/2026/11/04/tech/how-people-use-ai-agents-callout",
-     "published": "2026-11-04T17:44:59.767Z"
-    },
-    {
-     "title": "Former federal prosecutor to lead Cornell sex assault investigation",
-     "brief": "The New York attorney general’s office tapped a former federal prosecutor experienced in sex crime cases to lead the criminal investigation into allegations of sexual assault at Cornell University .",
-     "link": "https://www.cnn.com/2026/11/04/us/cornell-assault-investigation-jacqueline-kelly",
-     "published": "2026-11-04T17:42:59.707Z"
+     "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+     "brief": "The US midterm elections could have consequences far beyond the country’s borders.",
+     "link": "https://www.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl",
+     "published": "2026-11-04T18:45:54.153Z"
     },
     {
      "title": "Spanish soccer player Jesús de Miguel dies after on-pitch collision",
      "brief": "Soccer player Jesús de Miguel has died after an on-field collision during a Spanish second-division match on Monday, his club CD Tenerife has said.",
      "link": "https://www.cnn.com/2026/11/03/sport/jesus-de-miguel-spain-dies-after-on-pitch-collision",
-     "published": "2026-11-03T12:00:00.000Z"
-    },
-    {
-     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
-     "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
-     "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
      "published": "2026-11-03T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Trump says Iran war has been worth it despite election losses",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlIOEtnV2lDSXZ1SjNkZDJkOXo0UzZXcURsNWxQWHNRUURaLUxsZ05YejV2bVZnUFBlc19XVVpIcGdmTTU3WGdxN0ZlaXZLMzBGb040ZzQwVFNjQ0twdlRtVzNFZDN6STJjZ1JtYmltMlk3Rl9PVmMxNE15U0FudHFQWTFLVmZaajNrNDhGMWJacUt2clEzZFdMd2VITE0xS2xCWmU2Y1Mzd0JCX2Vz?oc=5",
+     "published": "2026-11-04T18:25:00.000Z"
+    },
+    {
+     "title": "German EV registrations surge in October while auto production falls",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZlhkTTVQbnprVm9SdldlSENUTG9zTFFwa2c5dFBEa2NpdktSUkt2NTJlZ1Qwa3hTMFJSWWV6dHR4ckU1QlU1Wm5KMEs4bm1VWFU3dlVuQWYyMjdQUDRqb3JTWVFVMjd2Wmt0bXNQaE9Fd1ZQMndsRFdtdmt3Q1kxNzVCNEZjYTI5aks3ZlUydU0xZlRsQmZsamVubGpGalI5bDRJNjhBVmhVOUxRczFDeFRIYUlrOU9X?oc=5",
+     "published": "2026-11-04T17:33:00.000Z"
+    },
     {
      "title": "Football: Soccer-Pulisic, Balogun back in US squad for CONCACAF Nations League quarters",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM1dyOWZxS0ExRWRuOTJ6ZGkxQTdKbXZUNEJWUXphUW52Ny1UZklaVG9FaFExcXZhS3hES3BpeWZtZGNwbm9leGI1TVU2ZlZwY09TRnhSTFprS0p2b09oZU03TlhuOWxjUk9hb0VERUk4bUNVWlltUjB2Z1AyZHRNaE81ZURQUTFGUlFZdGRIRDJmQzdkVHhiMFFJZFZqR3hVTEc4TnJvOTYzRGJRdTduXzlPTGo4c2dzY3UtTEtYR1drRFo0cDF4bndURm0wUQ?oc=5",
      "published": "2026-11-04T16:30:00.000Z"
-    },
-    {
-     "title": "Mother of Ghanaian teen killed in New York heads to US funeral after Trump grants visa",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPanZETVlPVHdFTVUzNkNHTllhclZKRDBjejdQU2FCazh4bW9TeEphNTIzLTFnUEJRdGdYYXQtTDZZYlZpMmZEdDdFYkhKdE9LZ3FkSEhRU2pTYnNiTzQyNmdIaW1HV05SeTJWSUtkZHRydGt4NDFSS1VIc3VzcUtyTUJSUTg1dmppX251NzVIcnYyY3RxVkRKLTh1NEptalZnSlhqZ29yUmhLdm1melFWc0ZIeFo2UF92NWFMaURPTkg2Q3N1OEdMQ2IyX1lxUzEy?oc=5",
-     "published": "2026-11-04T15:37:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Buriram United end Kashima's perfect start to Asian Champions League",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNb2dTYnB3TEc4QjRSOGpxNmNJSzZ6dlc5a1RMaWpxUHRaeF9hS3hvaDFyai1EWXBnTFlZR3ZpMlRLX1lFZmlMa0pvSjdQVEx0MG5JTlJfWWg5ellFSjRXbEpNN2V0UzYwSUpUQmh4bW5keHc2X0JqamFZNjJjQmRLaWVKSGZXTGFNRGVocW5ld0gtc3FrM0trdFYza0xoZm1ZbExveG0xNjRTYlFsQk1Yd2FQTmhhOVM5THN3OUN6b2pwX2VKdDd3SHJn?oc=5",
-     "published": "2026-11-04T15:29:00.000Z"
     }
    ]
   }
