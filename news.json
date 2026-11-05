@@ -1,51 +1,57 @@
 {
- "updated": "2026-11-05T15:54:49.140Z",
+ "updated": "2026-11-05T17:04:49.622Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "President of Paraguay resigns amid crisis over collapse of digital bank",
+     "brief": "Paraguayan President Santiago Peña resigned from office this Thursday after Ueno Bank was shut down in the middle of the night due to a solvency crisis, leaving customers unable to access their money and triggering a…",
+     "link": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl",
+     "published": "2026-11-05T17:04:49.891Z"
+    },
+    {
+     "title": "3 hospitalized and suspect in custody after shooting at Des Moines post office, police say",
+     "brief": "Three people were hospitalized and a suspect is in custody after a shooting at a post office Thursday morning near downtown Des Moines, Iowa, police said.",
+     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
+     "published": "2026-11-05T17:03:49.983Z"
+    },
+    {
+     "title": "An American man with shifting identities and grandiose movie plans is convicted of murdering his girlfriend and child in Rome",
+     "brief": "“My name is Rexal Ford,” the man born under the name Charles Francis Kaufmann told an Italian courtroom, in English, at the start of his double-murder trial in February.",
+     "link": "https://www.cnn.com/2026/11/05/europe/rexal-ford-trial-rome-verdict-intl-cec",
+     "published": "2026-11-05T17:02:49.972Z"
+    },
+    {
+     "title": "The MAGA coalition is beginning to fracture, data shows",
+     "brief": "The coalition that helped return Donald Trump to the presidency two years ago is beginning to fracture, CNN Voter Poll data shows, with Democratic Senate candidates peeling away voters to win seats in deeply…",
+     "link": "https://www.cnn.com/2026/11/05/politics/trump-voters-2026-midterms-poll",
+     "published": "2026-11-05T17:01:49.967Z"
+    },
+    {
+     "title": "Thicker bacon and ditching breakfast. Wendy’s hopes a menu shakeup can revive sales",
+     "brief": "Wendy’s reported its seventh consecutive quarter of declining sales, prompting the company to reveal a turnaround plan while rejecting a massive takeover offer.",
+     "link": "https://www.cnn.com/2026/11/05/business/wendys-third-quarter-earnings-turnaround-plan",
+     "published": "2026-11-05T17:00:49.938Z"
+    },
+    {
+     "title": "The Great Pacific Garbage Patch may now have so much plastic, it’s changing the color of the ocean",
+     "brief": "Far out in the Pacific Ocean, between Hawaii and California, a wide patch of water has been changing color over the past two decades, becoming significantly bluer and greener.",
+     "link": "https://www.cnn.com/2026/11/05/climate/great-pacific-garbage-patch-changing-color-microplastics-pollution",
+     "published": "2026-11-05T16:59:49.951Z"
+    },
+    {
      "title": "Water rescues, evacuations underway as ‘catastrophic flood event’ hits North Georgia and southern Tennessee",
      "brief": "Homes and businesses are flooded, and water rescues and evacuations are in progress, as historic flooding impacts North Georgia and southern Tennessee.",
      "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T15:54:49.337Z"
+     "published": "2026-11-05T16:58:49.978Z"
     },
     {
-     "title": "Nasdaq plunges into correction territory as midterm results raise fresh questions about AI boom",
+     "title": "Stocks plunge as midterm results send AI trade into a tailspin",
      "brief": "The tech-heavy Nasdaq Composite plunged by as much as 5.5% Thursday as investors weighed whether Democrats’ gains in the midterm elections could lead to a slowdown in the massive data center buildout.",
      "link": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges",
-     "published": "2026-11-05T15:53:49.378Z"
-    },
-    {
-     "title": "The Met Gala plays it safe with new exhibition theme",
-     "brief": "Two months after causing public outcry for planning a 2027 Met Gala exhibit centered on John Galliano , the Metropolitan Museum of Art has announced a new theme: Dressing down.",
-     "link": "https://www.cnn.com/2026/11/05/style/met-gala-2027-new-theme-announcement",
-     "published": "2026-11-05T15:52:49.397Z"
-    },
-    {
-     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
-     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
-     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
-     "published": "2026-11-05T15:51:49.373Z"
-    },
-    {
-     "title": "CNN Voter Poll: Democrats’ Senate sweep shows a fracturing MAGA movement",
-     "brief": "The coalition that helped return Donald Trump to the presidency two years ago is beginning to fracture, CNN Voter Poll data shows, with Democratic Senate candidates peeling away voters to win seats in deeply…",
-     "link": "https://www.cnn.com/2026/11/05/politics/trump-voters-2026-midterms-poll",
-     "published": "2026-11-05T15:50:49.358Z"
-    },
-    {
-     "title": "MAGA media is grappling with GOP’s crushing defeat — and tiptoeing around Trump",
-     "brief": "On President Donald Trump’s favorite TV shows, there is none of the election denialism that characterized his 2020 loss.",
-     "link": "https://www.cnn.com/2026/11/05/media/maga-media-trump-midterms-fox-news-hannity-shapiro",
-     "published": "2026-11-05T15:48:49.350Z"
-    },
-    {
-     "title": "Security guard stops gunman who drove into Tampa-area Citibank Center and opened fire, killing an employee",
-     "brief": "A security guard stopped a gunman in an exchange of fire after the shooter crashed a car at the Citibank Center complex near Tampa and fatally shot a woman, later identified by the company as an employee, law…",
-     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T12:00:00.000Z"
+     "published": "2026-11-05T16:57:49.987Z"
     }
    ]
   },
@@ -54,16 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Renewed refinery attacks deplete Russian diesel supply as US deal in focus",
+     "title": "Cricket-India-Sri Lanka ODI moved from Delhi to Visakhapatnam",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa29RMlBnSm5xS2JaM2VVMlgxazRka3JzdGN2VzBZWjBEak1OdzQtQ3RuaTJFZGlBdzE5Y3ZBeEs2OTR4bUpqOUNGUllHZVhNNmJpcFFMQkxBMlhWWnF0VXI4RENnVWVjdVZJVGtQTHJlVDJtV0FlS2YtaUNKUnZnR25CbS1Xb3FnSk55anZTY0ExemJ0TEVxMXk2Z0lqNnhfcU04VE8wQVFHRkU4T04tRHNYckhndV9pX29rYm5RLXg?oc=5",
-     "published": "2026-11-05T15:47:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0hiRjlBRUlmUUhUcUpEakdpczhPNTdNdFNWMU1sY2dvamdkTDdzT251SXB1dUVFY0NXeHYyTVIwSFkydzN0MUE4Rm9TRnNrSW5nUmV0SW1yYTd1aWw4T3paZFRKTElmMUhkWUUyWl95M1N6R1FENUF3X2ZCYU1DVXNWZlgwcWROMTVSdUo1Z1gtbkRNcVpfM09UY2FiaTZKWUlpRWppZ3ZzWmI3a3N1aUw2aw?oc=5",
+     "published": "2026-11-05T15:54:00.000Z"
     },
     {
      "title": "Nasdaq set for correction as investors reassess AI spending boom",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVd3R0ZiYk5VaVc1c2k2LWk2M0x6VGFIeGp1YzRUOFhyZk9tNmVENmhiSlNkLTNZMjNXWFB1MWZPWXd1cGk1VGxsZ2pMbUx3YXJIMG1QNnloZmJlbmJ5bHBZZVVUZWN3b3J4TlpjLWJ3S1VqUGNfVGZLU1JFeWhhOHBPSWpESF9tYXdMbHB3N2Z5RHVHZ0R4M0t5N3p4OE9hdTYzcEdmSXBMUFY3S1JDaHJvZDZyM3RN?oc=5",
      "published": "2026-11-05T15:28:00.000Z"
+    },
+    {
+     "title": "Traffic smooth on all major highways tonight, says LLM",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMUxpYjc1UGdIWTg4czJod3g4OGZrd3ZlR2ZHN1RubVRJNkRqNHFkOVZWb3JkeWtjSWxyemtseXZYSWI0clVyTEV5NjA1UlJiamFYUV9uN2JUczRDNm9GSVVLX0VfT2FQRXVuS1AwWHhOaHJqRjNfRmExeU9sQ196X251NWNXd2tOZWZEdFk4X053VG1LemdWcUFPb25nLVBHQnVHUE9n?oc=5",
+     "published": "2026-11-05T15:26:00.000Z"
     },
     {
      "title": "Putin met Iranian security council chief Rezaei in Moscow",
@@ -84,28 +96,22 @@
      "published": "2026-11-05T15:04:00.000Z"
     },
     {
+     "title": "Use Deepavali celebration to foster peace, harmony, Anwar urges Malaysians",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdmlGTUlLZDd3Wl95WDR1YUR1YTI1TnpxbXAyWHkyRlZLTzRwNy1URTFGR3FXZ1BhckVPOUFqTTFKZ2s2UTVXVG5IU25NVjlNcjdyZnl1dm9QaEN2a3hoMFU1N1hhV0FwLVFIbE9yOExwcUljMGY4dE1HalRvb29hVzZOLU1yZFdGMUVuZDZhdEFLVTNCdFR0TDJpeUQwNlJqa24xY29oMnY2a2NaS3ZCVWlZa3RMZXhoOHBESktCOA?oc=5",
+     "published": "2026-11-05T14:54:00.000Z"
+    },
+    {
      "title": "Rugby-Scotland at full strength for clash with All Blacks",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbm90N1pGZWxnUmZ5THBnenNXSGE3NlphZFRvMF9XZTJkc0F1QVF2Rk9PcXd6bVgyYXFGako3ZFJsaWZZQjB4dGhLQWVDR0ZBYmVXaU81RElOcXdrLTFpUW9SY013R2JOWk5NaG1vUGlwTERtdVFNMWdXM2lQX2lDRnJmVGNUUFFOUTVueUlwb21OX2VXY3lObFM4Q1puUXowcGJaRnA5LWVoZ3M?oc=5",
      "published": "2026-11-05T14:30:00.000Z"
-    },
-    {
-     "title": "Comedian Russell Brand found guilty by UK court of rape and sexual assaults",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkV1MTdoQXN5bHh6VjFhT0dybE9jcE5Fdk4tU0wtSExoUm9EQjZiVGtyam5WQVI3T3g5RG4xeDh6aE1TZ2RKaWdyYm5hREtqY0RuRzNIRmJUMkpZdXRobndybkJMazY2UE5TQzBtNEh0MXZiZ21FSjFxUWQ1Y3JfRm9zTjAzU2dIalhZU2R2WWVkVkRMSEN3S1IyS3ZnbThkeVFlRzBuSWM0ZUhxUEppZXdPVl9NVFNEM0RhVXR3MTJjZw?oc=5",
-     "published": "2026-11-05T14:25:00.000Z"
-    },
-    {
-     "title": "Paraguay Congress begins session to debate President Peña's impeachment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ2xIak9QZVotNFcyOU1RQy1XQklNVTRGTGIxWGk5b2Y1aGJiOE5yWWVJZ2NLNkIwQzNtRTFBajM2SVE1bnZDTncyWnpJYTl1UnotWUVSZXJoLWJVbFJGQ0lQUENST3FTZVVWU2phU1hudENXWU11ZkRRSjRXcWlCTVBjUHBxeFYyQmJpVkp0ZXhKdXZYLUxmd0xaMXk0NTRjMnFka1dVQWx1aXRYcVlCUWFDanhfVUtQXzIwbFB3?oc=5",
-     "published": "2026-11-05T14:24:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
