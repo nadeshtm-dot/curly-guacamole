@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-05T02:54:30.637Z",
+ "updated": "2026-11-05T03:51:18.497Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail",
+     "brief": "Hong Kong pro-democracy campaigner Joshua Wong’s time in prison has been extended after a court Thursday meted out a 10-year sentence over a second national security conviction.",
+     "link": "https://www.cnn.com/2026/11/04/china/hong-kong-china-joshua-wong-sentence-hnk-intl",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
     {
      "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
      "brief": "One person was killed and two others were injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing…",
@@ -42,12 +48,6 @@
      "published": "2026-11-04T12:00:00.000Z"
     },
     {
-     "title": "Vance tosses Trump under the bus in a bid to keep 2028 hope alive",
-     "brief": "Vice President JD Vance on Wednesday surveyed the wreckage of the MAGA coalition and spilled his thoughts in an extraordinary social media post that launched the 2028 presidential campaign.",
-     "link": "https://www.cnn.com/2026/11/04/politics/jd-vance-trump-2028-campaign",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
      "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
      "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
      "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
@@ -60,10 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Squash: Sivasangari's US Open run ends with q-final loss to world champ",
+     "title": "Football: Soccer-Kuyt beats former club Liverpool to deliver 'miracle' for Fenerbahce",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdG94QXU2ZTlXdzEyd1pfTFFoUHJZTmJSMlhpZlJjclVPc0NHUGs4WDU0U1FnSmRXMGo2QlQ3V0RZc0NtN2R6d3puSTNqWmRtVXp3YXF1ckdtOXZNdlRfQTA5OVhOX053bXIzX0RWTkdVZjR6X21xV3U3Y19POV9pNVFnTUhJc0tjVW5SempHM3lKNW56RmVjc1BkQUQ3SEZqcDhIaVlwTndsU3lGWDNvVUFKd2swY2s?oc=5",
-     "published": "2026-11-05T02:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHBJN1R2emw4eXg1ZXZzMlp3djFTeXFPWXVEZVJ5cXUzMlBnZnVoajVDYVVaV2ZrczB4UG1YVlB0eG9wdUxCVTdxZmkxMnFGazdSbDgxZW0wTDA5U2JPUklQYU1RdHNWazBodTJEcVhpZk9SdVR5Um1FM0NJT2NzRmh3UjJjbVJxZ2M4TVB4UlN1UVhMNm10eTZFRmlfbTdWM2lva2dSWlVaR3FRalFiVVBxeWJmdGM4bVdtWHgySjFaOVpjeUZFc2JJMTc?oc=5",
+     "published": "2026-11-05T03:28:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Australian F1 world champion Alan Jones dies aged 80",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSHYwSFRzekZRUlUwLWJldFNobEQ0TkZNVFk2eGw2b0xrbkc5bGVwX2tYdlZweFBPMHQwMUJHSXNuWXY5cE9rTGo1Q3ExUllHek51WFpGdENfQ0VzTFZFaUVKdEhaeUREOEsxUUE5clhkdmFZMmJEMUlFclJKeUdZRS1yaGMyOGJOVU9BNFh3ZWtGX1BvbkVxR2stM1dqZnVGMjc5TjE3dWJzSWN5MWEydXRTNUV3d1BMNlNCVA?oc=5",
+     "published": "2026-11-05T03:19:00.000Z"
+    },
+    {
+     "title": "50% toll discount on Nov 6 and 7 in conjunction with Deepavali, says Nanta",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmJ5c0hzLVVWLVpQQVcwMDFFNGY0WUp0VjZJTFV4aW0ya1Bhem5wcUR3MzV5d0dtdGNqdnB2RlVUeDlqU0VNNFN2aVRVNDNncTc0WlBod21pUmpJYVVYUVVmN0lUNUVPRzNlM0JhQTdJV29MOE91R2RhTGwza3lyb2FHZ0VHVU5sdnJmWVN4cUVVc1NXRFdsV3NucXpIa1dmem1wY0Q4bUtKdU1WT2F6RFl4S0VyeXlMbV92T3ZmYw?oc=5",
+     "published": "2026-11-05T02:49:00.000Z"
     },
     {
      "title": "M'sians can ride Penang ferry for free on Deepavali",
@@ -84,28 +96,16 @@
      "published": "2026-11-05T02:00:00.000Z"
     },
     {
+     "title": "Indonesia stock market to publish more details on company shareholding",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWN4ZFRkMV9MdXRIeHRVWGxYQTdHYUxqTnJrSUEzaDFoNGR2dlFfOXBSTWJXQnJXd0FLTmF5UFMycFI2OXh3SFlNSnZ4MkpOY3NXbE9yOGhCZGVCWlptTDRUaFI2SEdUTTM2N2c1RVNuMlBUNWNBTU83WlpRbVhRMEVrUmJYQ1h6d0dsN25paDYxNFN0TGZVeVlvX3ZhTnBGU1R0WjRFQ1VvUVRsQS1jMVloZzRMaU9ERGhqdWFOR3YwaEdpclliQ18yOUY?oc=5",
+     "published": "2026-11-05T01:49:00.000Z"
+    },
+    {
      "title": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb1Q5NmJjTXJ0VE16Nm5zdUpRcnAtMGMzaWxNNDhzMGhoZklHZ1p6bmIwOUNkcmQtVjRjby1uTmJ1RmpSdy12TEJucGJKZmtpNG10a3NwaFJQcDhob09nLTBfTUNKRmJtbnNLVi1sRUhjSHNRUWVJVENvdFloRzlXTGpGQ2dQLUYxTHl0cnFKX3VtdmdBOHczQ0o5aUNZNkZYTGxoWWwwblQ4S1VGVXhGNnpKYVhVeTZwd2g1NFdIVW05b3VqcHVSekxZSkxCZGthdXVFVGsxeHlnZ2tGa0hv?oc=5",
      "published": "2026-11-05T01:09:00.000Z"
-    },
-    {
-     "title": "Beijing says UK cybersecurity report 'smears' China",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmpyX25EdWlnLVZOMC1QUUQ3emE5Y2RNMS0tUDJOSG9kZFZ4TWc3cTJ0UG5hQVRTdlhfTHdoeEwwQUxKQ243SDIwSVNfNFhCNFRVNjFlWk1EeTdVT2g1NWktbmZhRnZJS3BFUGlTc0VXVHo0SmZSd3g0SjFQLTZ1cldEMnBmLXJYbG5hNEUxaHhHd0dYeWlZODlOdVUwTS1pU3VuSnkzYlg2eUVJ?oc=5",
-     "published": "2026-11-05T01:00:00.000Z"
-    },
-    {
-     "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSll0d1duM0VBRnhFNnRVN2ZEYVpLXzM1bTQ5bU02enExVnY4NVBCdTd2Q2lrTWw3VWg3NFk0OWpfclZCZG96TTRDNjhyVFI5dWJpWGQ0b1NyWm1scy1qVlBjTkVMUWVnaEpCZVdpNXJEcU8xZ1FHQUY0a29USUc4cUlYMDZQLUludG1mWGk3U0dWQW9kTTJ0Vll5U1VwMTRtbHRCNDcyV0xNczh0b0lWVXBLSVQ4Mnl4SkJ6Vm53OU9oNUxld202TzZKN1dVOTl1OXAw?oc=5",
-     "published": "2026-11-05T00:12:00.000Z"
-    },
-    {
-     "title": "Autistic boy killed in village fire",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW10MVZ0WDZxdlFRUTdHUUx2aC1fRWkzTjEtOXBrcERmVF9nYUZjZ084X2JWUEw2bzkwcl90M3RjcWdUYVVwOUJyS29sQ19Iem5UeWpJc0J1dFpjbXYteEJZaGtBRFJEcmNRd2hYeS1zRjBhOGNnbGdfQm9URWx5eUtTMEdSdUpEdksydzZR?oc=5",
-     "published": "2026-11-05T00:10:02.000Z"
     }
    ]
   }
