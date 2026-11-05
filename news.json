@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-05T02:04:28.000Z",
+ "updated": "2026-11-05T02:54:30.637Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
+     "brief": "One person was killed and two others were injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing…",
+     "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
     {
      "title": "Deputy dies and another not expected to survive after firefight with suspect at Washington home where 2 others were killed",
      "brief": "One of two sheriff’s deputies wounded in a firefight with a suspect in Washington state has died, and the other is not expected to survive, authorities said Wednesday.",
@@ -21,12 +27,6 @@
      "title": "Mississippi Senate race turns into a nail-biter",
      "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
      "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
-     "brief": "One person was killed and two others injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing skids…",
-     "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
      "published": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -60,10 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Squash: Sivasangari's US Open run ends with q-final loss to world champ",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdG94QXU2ZTlXdzEyd1pfTFFoUHJZTmJSMlhpZlJjclVPc0NHUGs4WDU0U1FnSmRXMGo2QlQ3V0RZc0NtN2R6d3puSTNqWmRtVXp3YXF1ckdtOXZNdlRfQTA5OVhOX053bXIzX0RWTkdVZjR6X21xV3U3Y19POV9pNVFnTUhJc0tjVW5SempHM3lKNW56RmVjc1BkQUQ3SEZqcDhIaVlwTndsU3lGWDNvVUFKd2swY2s?oc=5",
+     "published": "2026-11-05T02:45:00.000Z"
+    },
+    {
+     "title": "M'sians can ride Penang ferry for free on Deepavali",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0V0WUJHcURTbWFpcUI3VU9xY0xPV1dDcW5MQnlCNFdaZkFhVUsxSFRIekpfX2pwR2Z5VmpfZllvWWU5bDdUY2szb0VCTFlaSzdOZldGOGVCNmYwS3dtcUx3ZjFNXzdFbURWTldmdk1ZMDcxcGt5SDFTMVRwMF9IdUdQeTJoRzhFTk1mbUgyS0oxQTNteHlhMnRSWHlwNXpOQzJiOExR?oc=5",
+     "published": "2026-11-05T02:42:00.000Z"
+    },
+    {
+     "title": "OpenAI, ready to IPO in 2027, now counts majority of sales from enterprises, Brockman says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNUludTlkQ21qMnJMTV9mMjlZR3A5c19lVkNxaDFpNk9mZUlLZmJYZllnM2RCYmpEMWhXLV95dzAzWklaQUhQYUZpVjBMSE9VVWZYRHltNHVlWEp6WTB4MXZWcy1kYXBMNUxCSmNQZTNkYjFsVGN5MEh6SDZvcEFhTkM0NkU3M1VHckdfMFFiZy0xeE9wUk1NOVpramo2amtYaUdVQVNxdmd4U1ozdUlocmdtc1BzeHk5dlVmazBCMkxtdEllWjA0cGZwbkJNODdjVlVpMTkzQQ?oc=5",
+     "published": "2026-11-05T02:17:00.000Z"
+    },
+    {
+     "title": "Ocean liner to be sunk off Florida coast to create reef, dive site",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTd3bE1SaUt5VnY4TWwzRGJ1Mkh4R09aT045a0lkUmZUSDBlb05pUXlsb0N0ZnhzU1k1eERIVHQ0RTNlTE5ZNFpFQzlIbEdNRDlEbGp2UkhxN0xHbzlPamNCUnZQWmpBeVljQ0VfMnZHY245SEVYUG1ncnlMU1hremhXTHlYcE1UaFF6c21LU2c4MGhsZ2VGM2ZvWWQxVVVISVFacjloUU1UZjAxbGtTaUs3SXlvNEd5bFVZRQ?oc=5",
+     "published": "2026-11-05T02:00:00.000Z"
+    },
+    {
      "title": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb1Q5NmJjTXJ0VE16Nm5zdUpRcnAtMGMzaWxNNDhzMGhoZklHZ1p6bmIwOUNkcmQtVjRjby1uTmJ1RmpSdy12TEJucGJKZmtpNG10a3NwaFJQcDhob09nLTBfTUNKRmJtbnNLVi1sRUhjSHNRUWVJVENvdFloRzlXTGpGQ2dQLUYxTHl0cnFKX3VtdmdBOHczQ0o5aUNZNkZYTGxoWWwwblQ4S1VGVXhGNnpKYVhVeTZwd2g1NFdIVW05b3VqcHVSekxZSkxCZGthdXVFVGsxeHlnZ2tGa0hv?oc=5",
      "published": "2026-11-05T01:09:00.000Z"
+    },
+    {
+     "title": "Beijing says UK cybersecurity report 'smears' China",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdmpyX25EdWlnLVZOMC1QUUQ3emE5Y2RNMS0tUDJOSG9kZFZ4TWc3cTJ0UG5hQVRTdlhfTHdoeEwwQUxKQ243SDIwSVNfNFhCNFRVNjFlWk1EeTdVT2g1NWktbmZhRnZJS3BFUGlTc0VXVHo0SmZSd3g0SjFQLTZ1cldEMnBmLXJYbG5hNEUxaHhHd0dYeWlZODlOdVUwTS1pU3VuSnkzYlg2eUVJ?oc=5",
+     "published": "2026-11-05T01:00:00.000Z"
     },
     {
      "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW10MVZ0WDZxdlFRUTdHUUx2aC1fRWkzTjEtOXBrcERmVF9nYUZjZ084X2JWUEw2bzkwcl90M3RjcWdUYVVwOUJyS29sQ19Iem5UeWpJc0J1dFpjbXYteEJZaGtBRFJEcmNRd2hYeS1zRjBhOGNnbGdfQm9URWx5eUtTMEdSdUpEdksydzZR?oc=5",
      "published": "2026-11-05T00:10:02.000Z"
-    },
-    {
-     "title": "Final price must come first",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNLXZNbXV1R3lxaUJ2UHFGTHdVY2VIaHRJb2dIcE9sYVdoTC1vVDRnOWVuMjBFX0xTVnlLbjlVOHJXMUVzRVVFNEltU1A0MDVuQk9vNlBfZjU2c2RQb2UxUVphUWpuMTZuM29FRDhMUEdGeGp4cFA0WUhPLTdQN0N5eGtKSQ?oc=5",
-     "published": "2026-11-05T00:06:05.000Z"
-    },
-    {
-     "title": "QuickCheck: Is it cheaper to leave the air-conditioner on all day?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRIV3lqYUtFSEwwbV94SU9EX1h5ejNZZVVsS2hTUlRCLWZZT0J0Rjh5WkYyNXdBTFFjYnlhWnFrSjlyYUhmR2duRzZBOEVRb21oUGsyQ1h4WHZKUm81b3JqQVdKVnRvNkJoX1h6cUEwdTBHQ25xRXE1bFc5blh6c21vbzYxajNIdmNrSklxV3FBZld3SDYzNktBYnlzMVY4ZFJIcFRBWlQ0RmhRZmpOQzhkWm42Z2tkQ25B?oc=5",
-     "published": "2026-11-05T00:00:00.000Z"
-    },
-    {
-     "title": "Non-critical cases crowd Penang Hospital’s trauma unit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW5tV2lQU2o5ekMxZnNJbWFCVmJfVG4yU2hTckdodU4xcVlsRE1aZ1NWRkNYakxXMko0OTY5Nk1BOTVYQkhLZC1HbFRHRHZiUzBObTJLOVRFWG9kQ1hkQmYwNWsxNW9tLWpBaVJJeGVGY2ROcFFvVV80UHJ1cEFkdzd4QWk0NmRfODFGeG0tclJXLTJwQ2JNYXFROF9VaEpxcTA2NEhR?oc=5",
-     "published": "2026-11-04T23:59:35.000Z"
-    },
-    {
-     "title": "TNB recognised as Brand of the Year at the World Branding Awards 2026-2027",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOWU4bFo3RUlJTGRuY2lnMENCdzlLSC10bzFWSmx1aE5jTmVreTRpVFp1OGdRbnA0S0RXXzJMN1ZIdFJsb2stalZnMzZfZnFkSDg4bTZtWEZETWNxdl9RbEhoeVczaUswYlg5Vm01ZGRiLXlkNzlOa1RSU1QzR1d6QzM1dXRxcGNJYWh0WVdxcGU0T1hxM0RvZGpNTGJJSVd1b0IwVVhsdmFaeFN4enU1R0QyQnhiS0JLUHhnQnhscw?oc=5",
-     "published": "2026-11-04T23:57:00.000Z"
-    },
-    {
-     "title": "Cycling: Legacy fuels his fire",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5uR09taVNhUVZaUUJTWFdfbE1VVDRHVFFSTmRJOHhjNlNHYkktSkVDOHJPVkVXaE0wNDI1UnVpVFRfSlBoV2hIcDNCLWlpQVBKRTdfOWZZV3JrYWppOUVhdlN5M3FfdlVrMmFHOXQ4VjJxazhVSlF5SGNGeEU2QQ?oc=5",
-     "published": "2026-11-04T23:55:50.000Z"
     }
    ]
   }
