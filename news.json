@@ -1,21 +1,27 @@
 {
- "updated": "2026-11-05T08:54:50.363Z",
+ "updated": "2026-11-05T09:57:07.889Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Arvid Lindblad: The rookie teen sensation shaped by India who’s chasing his F1 dream",
+     "brief": "Arvid Lindblad smiles as he studies his racing helmet.",
+     "link": "https://www.cnn.com/2026/11/05/sport/arvid-lindblad-profile-india-sweden-f1",
+     "published": "2026-11-05T09:57:08.054Z"
+    },
+    {
      "title": "John Frieda, celebrity hairstylist and haircare mogul, dead at 75",
      "brief": "John Frieda, the celebrity hairstylist whose eponymous product range — its beloved Frizz Ease serum, especially — proved a commercial sensation, has died aged 75.",
      "link": "https://www.cnn.com/2026/11/05/style/john-frieda-celebrity-hairstylist-dies",
-     "published": "2026-11-05T08:53:50.626Z"
+     "published": "2026-11-05T09:55:08.302Z"
     },
     {
      "title": "Trump said he’d accept the election results. Netanyahu is challenging the outcome of his.",
      "brief": "As Republican losses in the US midterm elections came into focus, President Donald Trump said he would accept the results.",
      "link": "https://www.cnn.com/2026/11/05/middleeast/netanyahu-israel-constitutional-crisis-intl",
-     "published": "2026-11-05T08:50:50.640Z"
+     "published": "2026-11-05T09:52:08.433Z"
     },
     {
      "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
@@ -46,12 +52,6 @@
      "brief": "A security guard stopped a gunman in an exchange of fire after the shooter crashed a car at the Citibank Center complex near Tampa and fatally shot a woman, later identified by the company as an employee, law…",
      "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
      "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
-     "brief": "One person was killed and two others were injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing…",
-     "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
-     "published": "2026-11-04T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Rugby-Springboks Libbok, Marx returning home from Japan club rugby",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaGlldVh3cm92djdTVFFoYmNkTEVKNFl6UUE3V1JDSW52ZnFnYVpQZ1I1bzRDZmpBZWFDYndZclhnV0d5OVNvVi1aTjhlYW5HV05ZTGpUeV82UmdPWmNUSi1tUU5ORkwwVEVfQXBJMUtLeVpHUnJKZWgzeW9qWXZULVhqX3I4RW5nU0xLZnJDRThQWi1Xc2Nsd3Q4ZWFkcWxCUVVlYnV0Zk8zTndmTy1vOEtHM2FfQQ?oc=5",
+     "published": "2026-11-05T09:35:00.000Z"
+    },
     {
      "title": "Political stability drew Google to Malaysia, says Anwar",
      "brief": "",
@@ -78,6 +84,12 @@
      "published": "2026-11-05T08:03:00.000Z"
     },
     {
+     "title": "Canva announces layoffs, job changes for more than one-fifth of workforce",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNWNYeVZPNkZZZGFsdzZfWDhaNUtNWHMzcU5SQ2I1SU83QWJDNmh0eTJsN0lZVnRMb2Fqd09FSFluOHYwT3MzM2lVbVV3NWJ4Yi1RZkhxbHNSeElWWFdERm9lby0xV2FDaXFlVlFkMGU0bzBFZlpvRzV0d2JCd2M1bEd0REtubnRBNUlSVWpvTXZoTWVxemNsLWFVSW9NUmQ4MndwLUg5RnUzQy1VX2pZcUNDaFFibmZCZzJVdnM1WFdKYk0?oc=5",
+     "published": "2026-11-05T08:00:00.000Z"
+    },
+    {
      "title": "Subang Jaya cops seek public's help to locate missing man",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW50eXMxQ3BSY3FfS04yTFN5U2NmTnI5M21iSHFVM2RjR0VqTHBjQXdVWlA0dS1tOGM2aTNRYUpfRzE1T1UwaVhIOXVIVFplekxZbEhZWUxDYnhRR0x0eEZYSDVBM1VKdGdpeU43ZHpfblhfTWJ6Z01IZXExN0dGWkxCcWN3VFQ4TDFvdExFdlBKX083SkxnX29nM2RycWJ4WW5FV1MyZDU1NmU5N3c?oc=5",
@@ -90,22 +102,10 @@
      "published": "2026-11-05T07:44:00.000Z"
     },
     {
-     "title": "26 taken to hospital after three-vehicle accident in Singapore's Tuas",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDlxVXRQT0VUbG9qcDBNa3Q4bHBNeWVwN2tGMUZ6QWlOUzJhNUNlWWZ3Z3BwWVdQcUJYWDJ4YWJqMFphVGpIM0tQZm1xeVBiOTFHSmcwYXIzcjRhN09NaFdRUjVnaS1BMUVCSFZvMjMxWkdSbjcxME9GNGh1SG93bDIwR0lnTnRWUHYzRXZqM2Z6ajJCVXhtMWJfLTYxUGJObi1DMEwySGVUNzlMTHFRcFlLNFo1OWlhRDZObDliQlV2a1FrYUpvd2dMZlVCdzg?oc=5",
-     "published": "2026-11-05T07:40:00.000Z"
-    },
-    {
      "title": "Retiree loses RM342,000 in online casino investment scam",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0tZWplVURrM0o4OFlSdF9QWGVWUkNxSFNTNjhXMnB0Wml0NjRLRFR5X0FNZWNzSy1TZHJKV1lwZlItQUh1Z0ZWeGt6Q0pqNE9Bcm1tci1fSi1XaG1BNVJCbXFDVVF1WXpEOWhrd2p0QVBnU2k5UDNzSDFFU0pZR1psb3VKTEwyMm04ZG5tMEdkenFEaE5wdDRfUVNsTjdVemhZeVJjY2s?oc=5",
      "published": "2026-11-05T07:29:00.000Z"
-    },
-    {
-     "title": "Prioritise tourist safety ahead of Visit Sabah 2027, urges state secretary",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmhuZVg4XzlvQVk0T1VkTk10UDd2TTYzOU9GbjY5WU9OOHU1dGoySlI0TkE5WV9GTW5obnhrZVRuQ05FaEhjaHZUTVlaN3g0UHp4QkdKWDV0cWdCbXdQZGc4WUJLVW1DdTVoYTFiNjV6Vlo1NzAxN1N1Ty1CWXhfZG1rcjFCQVdsY2hXbFEtT1JYdXZNMXhQcnhjWGhSczhOamExczA4R3EwZWpaVzJxakNwWkRRenZwSlhxT0w2ZW8?oc=5",
-     "published": "2026-11-05T07:24:00.000Z"
     }
    ]
   }
