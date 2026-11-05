@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-05T21:43:19.528Z",
+ "updated": "2026-11-05T22:44:43.571Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "President of Paraguay faces criminal investigation and impeachment after bank collapse",
+     "brief": "Paraguayan President Santiago Peña is facing a criminal investigation and impeachment proceedings following the collapse of a major bank.",
+     "link": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl",
+     "published": "2026-11-05T22:43:43.914Z"
+    },
+    {
+     "title": "Mexican judge arrested and accused in US with taking bribes in international drug trafficking case",
+     "brief": "A Mexican judge is accused of taking a $2 million bribe in exchange for releasing a suspected Canadian drug trafficker from custody in an investigation into a billion-dollar drug trafficking ring, U.S.",
+     "link": "https://www.cnn.com/2026/11/05/us/mexican-judge-bribe-drug-trafficking",
+     "published": "2026-11-05T22:42:43.917Z"
+    },
+    {
+     "title": "Trump’s arch poised for final approval two days after the president’s election drubbing",
+     "brief": "A final vote to approve President Donald Trump’s proposed triumphal arch on Thursday is poised to kick off a fresh round of legal wrangling as efforts to stop its construction intensify through the courts .",
+     "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
+     "published": "2026-11-05T22:41:43.894Z"
+    },
+    {
      "title": "‘Catastrophic’ flooding sets off 100+ rescues, inundates homes and businesses in North Georgia and southern Tennessee",
      "brief": "Historic flooding inundated homes and businesses in North Georgia and southern Tennessee, leading to dozens of water rescues and evacuations.",
      "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T21:42:19.747Z"
+     "published": "2026-11-05T22:40:43.912Z"
     },
     {
-     "title": "‘Like a bolt from the blue’: Israel’s president shocked by Trump announcing end of aid",
-     "brief": "Israeli President Isaac Herzog said it was “like a bolt from the blue” when President Donald Trump announced on Tuesday, the day of the midterm elections , that he would end US aid to Israel.",
-     "link": "https://www.cnn.com/2026/11/05/middleeast/israel-trump-aid-election-latam-intl",
-     "published": "2026-11-05T21:41:19.772Z"
+     "title": "Trump says he’s declaring Oval Office and Cabinet Room national landmarks to prevent future changes",
+     "brief": "President Donald Trump signed a proclamation on Thursday that he said would designate the White House’s Oval Office and Cabinet Room as national landmarks — a move he said would protect the two West Wing spaces from…",
+     "link": "https://www.cnn.com/2026/11/05/politics/trump-oval-office-cabinet-room-landmarks",
+     "published": "2026-11-05T22:39:43.918Z"
     },
     {
-     "title": "Hundreds of thousands march in France’s biggest day of protests in years. Here’s what we know",
-     "brief": "About 575,000 protesters participated in demonstrations across France on Thursday, according to government estimates, marking the biggest single day of protests since a wave of unrest began in September to coincide…",
-     "link": "https://www.cnn.com/2026/11/05/europe/french-protest-demonstration-latam-intl",
-     "published": "2026-11-05T21:40:19.777Z"
+     "title": "A moderate millennial newcomer could decide knife-edge New Zealand election",
+     "brief": "New Zealand is set for one of its tightest elections in years, with the incumbent conservative coalition facing an uncertain path to power and polls pointing to a millennial newcomer becoming the kingmaker.",
+     "link": "https://www.cnn.com/2026/11/05/world/new-zealand-election-qiulae-wong-new-party-intl-hnk",
+     "published": "2026-11-05T22:38:43.909Z"
     },
     {
-     "title": "Stocks plunge as midterm results send AI trade into a tailspin",
-     "brief": "A punishing sell-off rippled through markets Thursday as investors dumped anything related to AI, wiping out roughly $2.5 trillion in market value from the Nasdaq Composite.",
-     "link": "https://www.cnn.com/2026/11/05/investing/tech-heavy-nasdaq-plunges",
-     "published": "2026-11-05T21:39:19.774Z"
-    },
-    {
-     "title": "Judges appear open to Trump’s push to overturn hush money conviction",
-     "brief": "Two years into his second term, President Donald Trump is still trying to wipe his 2024 felony conviction from the books.",
-     "link": "https://www.cnn.com/2026/11/05/politics/trump-hush-money-conviction-appeal",
-     "published": "2026-11-05T21:38:19.766Z"
-    },
-    {
-     "title": "Trump’s arch is poised for final approval two days after the president’s election drubbing",
-     "brief": "A final vote to approve President Donald Trump’s proposed triumphal arch on Thursday is poised to kick off a fresh round of legal wrangling as efforts to stop its construction intensify through the courts .",
-     "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
-     "published": "2026-11-05T21:37:19.763Z"
+     "title": "FBI agent hit man with car, moved him to a bench and left without calling for help, DOJ says",
+     "brief": "An FBI agent hit a pedestrian with their agency car in New York early one morning in February, before moving the man to a nearby bench and speeding away, according to a federal indictment handed up this week.",
+     "link": "https://www.cnn.com/2026/11/05/politics/fbi-agent-struck-man-car-doj-charges",
+     "published": "2026-11-05T22:37:43.921Z"
     },
     {
      "title": "Man who owed Citibank $2,500 carried out fatal shooting at bank complex near Tampa, authorities say",
      "brief": "A man who owed $2,500 to Citibank crashed a car into the bank complex near Tampa on Wednesday and fatally shot the first employee he saw, before being stopped by a security guard in an exchange of gunfire, law…",
      "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
-     "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
-     "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
      "published": "2026-11-04T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Motorsport: Motor racing-Russell 'exhausted' from constantly picking himself back up",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVVh3LVV5ZXBqWW5CREdXLXFoNVpnbEttZHFFaC0tbndxZ3pLUlhGZGFkcjE5aEpDYzA2cG12TlNpOWdNdnlOODE3TVE1SnVWVUNheFZJUmxxRTlUdmNrVk9jNkU4SVZSMnNCOXNQbFlnWlRTSkYzUDItMTZJSXV4bTJRZEJlbnlrT3hNMkJ1dXVla1ZLdWJqcGNaUDZBMHJVd1hwSHJTMEhwbmhZV09Wbkg3S2M5LU0zVmk4dFRSVElQaEJZdGoteW9IOA?oc=5",
+     "published": "2026-11-05T22:30:00.000Z"
+    },
+    {
+     "title": "Trump says he met Putin envoy Dmitriev",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWkFmTlZtTlNjcUR4VFJfb1dFMEFCaHZ0QkpMZkJ5ckdtaC1vLXZfU25mbmNuYXZBUmtTM00xcWxqOGNIR2RwQ0ZKbDN3dEdHWlUtRF9Ec0dGOWlxdU1iMW1jNHB1aHM0UFNTNWV4T0FaUG9IbVFGTEpvM1o1T3FPaG5wX3psNUdzRkVzREdtMFg?oc=5",
+     "published": "2026-11-05T22:00:00.000Z"
+    },
+    {
+     "title": "Seoul’s current account surplus hits a new high",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUE9HLWRpZmxJR05sRGkwSjg5YUNQV25iWUtoWWxSOUl0bGVCU0ZTRkNPWlo2dTM2UmFPeVhsVTBDZjFCWEpTa3NOZkI4MWZGOXVBeEIzVWpvR0xlSklCYlRYanFqeUNmT1dPS2NDRlQ2clUwMXU5NmJZQWZhS3c3VldHNjFEQ3pXdlBCMWlBNkVuX0VpNVZ5R2RKNVVzcFRxV3hCa01NOGN4QQ?oc=5",
+     "published": "2026-11-05T21:56:15.000Z"
+    },
+    {
+     "title": "Rugby-Italy must be unpredictable against Erasmus’s Springboks, says Quesada",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3dPbkNyNzV6anRaZzctSHZHN1h3akF5R3lVWFc4TDlhSmZEWEc1Q1V1MFc4Zlgwa0JjQ1ZtVFNZZkJDTU92aHlqUXp2Y0tPMXZwVHU0dzQwMlpuSEJtRUFwOVJMV2lQMWRBa095LXVpeENlS2JkbnBNSk1TWTVjQTgweXlIbV93dVI1dy1FR3VCeWpySDFiUDcxb0M1bml3Z1Vycmh0MW92X29NejhvNjRjOE5KSU05Vi01RFhNS00yZw?oc=5",
+     "published": "2026-11-05T21:53:00.000Z"
+    },
     {
      "title": "U.S. stocks close lower",
      "brief": "",
@@ -72,12 +96,6 @@
      "published": "2026-11-05T21:02:00.000Z"
     },
     {
-     "title": "Seoul’s current account surplus hits a new high",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUE9HLWRpZmxJR05sRGkwSjg5YUNQV25iWUtoWWxSOUl0bGVCU0ZTRkNPWlo2dTM2UmFPeVhsVTBDZjFCWEpTa3NOZkI4MWZGOXVBeEIzVWpvR0xlSklCYlRYanFqeUNmT1dPS2NDRlQ2clUwMXU5NmJZQWZhS3c3VldHNjFEQ3pXdlBCMWlBNkVuX0VpNVZ5R2RKNVVzcFRxV3hCa01NOGN4QQ?oc=5",
-     "published": "2026-11-05T20:45:45.000Z"
-    },
-    {
      "title": "Norway's central bank holds policy rate at 4.5 pct",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVYzY0dHb1VISXplbjE1QzZCRllZVEU5OGItN29Mc2NveFV5cG9Dak9hTzRsejQzWVVYeWsxR1dDcXBmVXNwVEg0VVNxOF85Qi1vUXFxcFRaMzBvbHNWbkREUnp3WHdYTmtJVHBPTWhEVXRqNFhUTVlkeG56eVA4OVVuM0dhT0RybThGdWRCX2xrZjA3anhycjdHUGVnem1GZHc?oc=5",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0VVZUhKVFVHQ2piMUxLQWVOYVgyeWNieGQtbGlCZ3lNZDdZbW5NNmdaTUtzbXBWVWtfN2FMOGlhOUhmcXhVTF9MSEh6R1JsSzJmSFRBcWVtQzFaVVc2dE9IaU5Gc0U5bUNhM1U4dXhoTlJSU2FIT0ktc3JtR2pGWWZkcU12UFJfTHV5b1otdFI4N3pUZ3RCU0FTYjFmLUF5NWstNXRhcUNFN0g0TkRPRERiMFRPdFZZYkRn?oc=5",
      "published": "2026-11-05T20:18:00.000Z"
-    },
-    {
-     "title": "Tanco JV wins RM700mil warehouse job",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWswVjBfb0JZTE5KQ0lnZWw3NGt1Yl9SbWtkb0J1eE0za1VtNkVZMFpWSDhCcWdxdlRheXh6OWtnUV8yUGhZN2plaDl6d1o5Z1I4OGpXSWc1S0tPMjlsWGFWWFpaeVIybjBPTjR5R1pfWWRwMzAzQm5kX0ZpT0Y5VmtKMDVQYmZwOVNDRnhKdVJZaUprNm1SczRJTExudw?oc=5",
-     "published": "2026-11-05T20:17:39.000Z"
-    },
-    {
-     "title": "UK doctor with Ebola evacuated from Congo to London for treatment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2VFOW0tVmYzczhQOUFYRDdpRktWZzRwazhJVjdselVaWkJzVENGSzRVcVhfSmtPZVJaZFBqaVpjRHVrcFd6elAwS2JSUExucHFveXZvM2g3NHd5YmdUYlBZa0dBV3N3VFhibnNabnpVZHZfRHhEOTM1eW1EV2VDQ3hLcjQ0TDFidWQ5OXZfVlRnSzNFNHpQVW1zQkxna2ZweDIxbk9IUmtGMk5EVW1IVXVkYjE?oc=5",
-     "published": "2026-11-05T20:13:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks down",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weGVYMjdmaWduaTVPdEN1eVNDbG5fSE52QVNzbFFvbU9pdWtGVjR0YWV6bzZJcjJGeHRHbjBjOVQ1X3lPSVhGSlp6ZDJ2Yzh6R2o3UWFZQWZCV0g5cUpCRjBMUDNwdFJ1dzJrVFM4Ym83ZGFzLTdMTg?oc=5",
-     "published": "2026-11-05T20:08:00.000Z"
     }
    ]
   }
