@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-05T19:50:29.512Z",
+ "updated": "2026-11-05T20:45:37.365Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘Like a bolt from the blue’: Israel’s president shocked by Trump announcing end of aid",
+     "brief": "Israeli President Isaac Herzog said it was “like a bolt from the blue” when President Donald Trump announced he would end US aid to Israel on Tuesday, the day of the midterm elections.",
+     "link": "https://www.cnn.com/2026/11/05/middleeast/israel-trump-aid-election-latam-intl",
+     "published": "2026-11-05T20:45:37.590Z"
+    },
+    {
+     "title": "Wisconsin infant is US’ third measles-related death this week",
+     "brief": "An infant in Wisconsin has died in connection with an large, ongoing measles outbreak, the state health department said Thursday.",
+     "link": "https://www.cnn.com/2026/11/05/health/measles-death-wisconsin-infant",
+     "published": "2026-11-05T20:44:37.673Z"
+    },
+    {
      "title": "Newsom commutes sentences of all California death row prisoners",
      "brief": "California Gov. Gavin Newsom announced Thursday he is commuting every death sentence in his state to a sentence of life in prison without parole.",
      "link": "https://www.cnn.com/2026/11/05/us/california-death-row-commutation",
-     "published": "2026-11-05T19:49:29.877Z"
+     "published": "2026-11-05T20:43:37.679Z"
     },
     {
-     "title": "‘Like a bolt from the blue’: Israel’s president shocked by Trump announcing end of aid",
-     "brief": "Israeli President Isaac Herzog described President Donald Trump’s midterm Election Day announcement that he would end US military aid to Israel as “a bolt from the blue.”",
-     "link": "https://www.cnn.com/2026/11/05/middleeast/israel-trump-aid-election-latam-intl",
-     "published": "2026-11-05T19:48:29.882Z"
+     "title": "‘Catastrophic’ flooding sets off dozens of rescues, inundates homes and businesses in North Georgia and southern Tennessee",
+     "brief": "Historic flooding inundated homes and businesses in North Georgia and southern Tennessee, leading to dozens of water rescues and evacuations.",
+     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+     "published": "2026-11-05T20:42:37.663Z"
     },
     {
      "title": "Postal worker accused of shooting 2 co-workers at Des Moines post office, police say",
      "brief": "A US Postal Service employee is in custody on suspicion of shooting two of her co-workers at a large post office near downtown Des Moines, Iowa, on Thursday morning, police said.",
      "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T19:47:29.879Z"
+     "published": "2026-11-05T20:40:37.668Z"
     },
     {
      "title": "President of Paraguay resigns amid crisis over bank collapse that left millions unable to access their money",
      "brief": "Paraguayan President Santiago Peña resigned from office this Thursday after Ueno Bank was shut down in the middle of the night due to a solvency crisis, leaving millions of customers unable to access their money and…",
      "link": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl",
-     "published": "2026-11-05T19:45:29.847Z"
-    },
-    {
-     "title": "Earliest evidence of cannabis use found in ancient Siberian tomb",
-     "brief": "Archaeologists have found the earliest evidence of people consuming cannabis for psychoactive purposes in a tomb dating back almost 3,000 years, according to a new study.",
-     "link": "https://www.cnn.com/2026/11/05/science/ancient-cannabis-siberia-scli-intl",
-     "published": "2026-11-05T19:44:29.870Z"
-    },
-    {
-     "title": "Melania Trump touts her diplomatic role as Russia-Ukraine peace eludes her husband",
-     "brief": "First lady Melania Trump hosted representatives from the highest levels of Russia’s and Ukraine’s governments at the White House on Thursday to celebrate the conclusion of a localized ceasefire — a humanitarian…",
-     "link": "https://www.cnn.com/2026/11/05/politics/melania-trump-russia-ukraine-ceasefire-white-house",
-     "published": "2026-11-05T19:43:29.865Z"
+     "published": "2026-11-05T20:38:37.676Z"
     },
     {
      "title": "Winning ticket drawn in New Jersey for $847 million Powerball jackpot",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Lotte Chemical net loss widens in third quarter",
+     "title": "Football: Soccer-CONCACAF introduces new Gold Cup format for 2027 tournament",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUkU2bDRFb0pwMm9zVHBfNlJYcTJVRmlzV0RYVjNmOVMzcVVyM195bnJEQkVHbElVTEJpNmsycFdDRzZLSEEzOF9MSDdWeGs0b0JvWDBLS3I4QjdhVkQ2d0N3QnBZLWZvTDA3bWVua3p5NEU1NjJUSzRGdDNKLXhfejE3dDRGMnJVcWtxM2NTTFg5RzJMYUpHU2lmRFc4Y1hPWTVXdHNTUHBEbl9L?oc=5",
-     "published": "2026-11-05T19:47:33.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN0VVZUhKVFVHQ2piMUxLQWVOYVgyeWNieGQtbGlCZ3lNZDdZbW5NNmdaTUtzbXBWVWtfN2FMOGlhOUhmcXhVTF9MSEh6R1JsSzJmSFRBcWVtQzFaVVc2dE9IaU5Gc0U5bUNhM1U4dXhoTlJSU2FIT0ktc3JtR2pGWWZkcU12UFJfTHV5b1otdFI4N3pUZ3RCU0FTYjFmLUF5NWstNXRhcUNFN0g0TkRPRERiMFRPdFZZYkRn?oc=5",
+     "published": "2026-11-05T20:18:00.000Z"
     },
     {
-     "title": "Pentamaster’s 3Q profit up to RM20.44mil",
+     "title": "UK doctor with Ebola evacuated from Congo to London for treatment",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtoaGRGckV0MVJDeVB3UnNic2pkZ3p5NlZfODBQc1d5alV1NFVkLTA5Vkhuc1dka2tKNFVDYlAwS3VvZ2QzX3FjQ1VybWlyd2E0YW5JdnFVdS1fbXl3MHdfNFpSVC1SekUtUkNrN1p3QldTMFE4T2NHLUlvM0JRcDNNd3F6Qzgxc3BMdGRoMzhRVW1nNUk3NnJSUExnTUxa?oc=5",
-     "published": "2026-11-05T19:47:33.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM2VFOW0tVmYzczhQOUFYRDdpRktWZzRwazhJVjdselVaWkJzVENGSzRVcVhfSmtPZVJaZFBqaVpjRHVrcFd6elAwS2JSUExucHFveXZvM2g3NHd5YmdUYlBZa0dBV3N3VFhibnNabnpVZHZfRHhEOTM1eW1EV2VDQ3hLcjQ0TDFidWQ5OXZfVlRnSzNFNHpQVW1zQkxna2ZweDIxbk9IUmtGMk5EVW1IVXVkYjE?oc=5",
+     "published": "2026-11-05T20:13:00.000Z"
+    },
+    {
+     "title": "U.S. dollar ticks down",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1weGVYMjdmaWduaTVPdEN1eVNDbG5fSE52QVNzbFFvbU9pdWtGVjR0YWV6bzZJcjJGeHRHbjBjOVQ1X3lPSVhGSlp6ZDJ2Yzh6R2o3UWFZQWZCV0g5cUpCRjBMUDNwdFJ1dzJrVFM4Ym83ZGFzLTdMTg?oc=5",
+     "published": "2026-11-05T20:08:00.000Z"
     },
     {
      "title": "MARC Ratings upgrades Johor Port to AAIS",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZHU4ajZUTjhmTnp5NFNaUVM1N3EtUFZaUGI5NnQ1U3k3a2dyYi1ZZVFIUkVVNXhXdTAyN3lUd2dxamxhM2duN1VzbXVLYjItQjJ5eUNKOFdHRzlhd0VuV0daZk5neVUteGtSOVE3RXotWkZwWV9WQTFEZWkwdG1lcG1XR0drT0MtWHVWd1BUWGJCcW5mT1JIWWdFWnJVRjQtaFM0?oc=5",
-     "published": "2026-11-05T19:47:33.000Z"
+     "published": "2026-11-05T20:03:45.000Z"
     },
     {
-     "title": "Costa Rica's Grynspan extends lead in informal UN chief poll, sources say",
+     "title": "Pentamaster’s 3Q profit up to RM20.44mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX3o4QlYwb2xXb1RSUUtmczBHYW5CbHpWWnMzcDdOQkdfQjB2alp1S1BLZmNzd3drdkxMUzVEbU1iZHExOWJ4SVFVbHVSdm12N1V6VTFPRTJibzBxeEJ1Nm9WWUR6X2VUZFlEZGlxSWNKMmtqbWVVNXdvbEZBTHNmV3JHMDBKRldLa0FqazJ0dXdHbUhYeUt6OVVqSXZTaTREdUlZdzd1MEV6cDNfb3V5dDZyZ3VFSXpjNHJ3dEswckU?oc=5",
-     "published": "2026-11-05T19:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNmtoaGRGckV0MVJDeVB3UnNic2pkZ3p5NlZfODBQc1d5alV1NFVkLTA5Vkhuc1dka2tKNFVDYlAwS3VvZ2QzX3FjQ1VybWlyd2E0YW5JdnFVdS1fbXl3MHdfNFpSVC1SekUtUkNrN1p3QldTMFE4T2NHLUlvM0JRcDNNd3F6Qzgxc3BMdGRoMzhRVW1nNUk3NnJSUExnTUxa?oc=5",
+     "published": "2026-11-05T20:03:45.000Z"
     },
     {
-     "title": "Rugby-Scotland can test New Zealand, says coach Townsend",
+     "title": "Sentral-REIT’s quarterly results improve",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRzRSeVRyZWlzOGljVHdfYmwxMjFNcFcyNS1qSTlIdVNoazZScVFvU0NINzJQMTFneUdqOVptaDhLOTdpRnVuVFJlVENPN2hNVnNLQ3ZYT2YyNDhGMVdIUjA2c1RwN0ZxdG1maGk3NDNhcnFRMlliNm5mUGxleVBiRV8zMG1fWmJ4S1dIdHlkMDk4c2ZzNTJwdVIzajlxVUVZQXI4MjBjX3M?oc=5",
-     "published": "2026-11-05T18:50:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWtET0pJVW8tUHNKT0JmM0FZX1NydXI2NGwyWTNNRFVuU1VLNURDcl84YzNrenFvaWhBUVFObEh6MzhqWUtHZmhQR1JoN3NaWlFxV3Y2TjNiWWxucHQ1WHJ2YU0wbDhELXU2anc4OTJmb2ZxZGNBOWxLZ3hQUVVRa21mZ0JKNUdfcTlWM2F1QUZQZFJSTkY2Z1BBNWk1UDU0cWc?oc=5",
+     "published": "2026-11-05T20:03:45.000Z"
     },
     {
-     "title": "Ghana demands justice after 2 citizens killed in New York",
+     "title": "Search underway for 59 missing after migrant boat sinks off Crete, Greece",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTnJ6eXFSTUpLZXdLRl91am1FVHlvN21wYk5RVWxxVEJDaWY4S2NjaFZXWlpLYlhmbUFsWDdzZ1hrMm1hSXpFelp0bEZCQ05ZYkZMWTItbWRlM2MtU1JhelJWY2xMRlhZV1dLNHJ1Si11Um1mOGdOVWl2bWdOS1dCS2dTanJERVFOdWRHUEdHbXJjZnBjTzZFZGd1TWx0b25ZSU1tWFNJY3Q4dw?oc=5",
-     "published": "2026-11-05T18:46:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX202UEhmT2k4QnFoMW5fWnJwWjl3aTFQbUFtYUN2bEhFVFhyekk4ZjB1MW5zc2FBRngzQ0U2clBzVlZwVlNaSG1FNzgxZ3NUU2NPNFIwY0xsdHptMXo5Y183Sy15bTE0TXJZVms1eGQ5YjZBenJZUGFHTXBsUnAzTkxpZ3JEc20zcnROcDlqeDBrMDRUX2c2UUo5QXdiNzJMUkhsTmZzT3Bac2FhVVk3MzFNdmxCU0NOdS1KY1Fn?oc=5",
+     "published": "2026-11-05T20:03:00.000Z"
     },
     {
-     "title": "South Sudan launches first cancer registry",
+     "title": "ViTrox’s 3Q26 profit more than triples",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHprSEUxRjY2eWpWYW9MdlpyNFRkT0dhTGdpNnlnWmpCUVZEQ2VOZk0zVjJmdW9SYzJ3YWxtaHJNTWFIUDBMTjVjX0xPZTRTMWlmNFhvTFB0cmdPNXdJT2xDQ3lHTkg5bHByQ205LXBuLTZwMUVXU1hFUXlrSDl5dnFYdnFjS2JEdHc3bWFOTmlUTXhrb3c?oc=5",
-     "published": "2026-11-05T18:41:00.000Z"
-    },
-    {
-     "title": "Chinese-made tunnel boring machine arrives for Belgrade metro project",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMnF1dFNCa3NRWmE3dTFoMnN5Z0Y4ZzltUlpRcUpmRnRSalBpVDdkNWduS2VaQkp6X1Z6YVVMRW9FU2NLUjhGN2lqejVWY2plWldYd0I0YUJYLUp5SmpsVWNaYWlnNjFjS19BQTFjNlpveVBIUXRKUjBCWGQxVmZid2F3NDU3WGxkYjNneU9hanVqMExpbC1hSE5iM2M0ZWR2dkFhN2hUcmdrUHBmaEVKYTJ0dGtMaFlqeUE?oc=5",
-     "published": "2026-11-05T18:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdnVjQmNUUGRPNTFQN3gxSm5UMTFsY1NfRXpseGdVUU1sNGR5eW9MUHFvMkcyUzNYZTJoUFVrN0d2TVNONk9MLWJpYWRIQmczUi1wR0dqb1F0anlvRFRLNHlXb2VfZzc3X005MVlEUWVtY2Y4Ykhtc3hoZTJGVkxqRkRqRWxGUDdheFNMRlRhWDlVMWZDcEtRRXd1bXlGSUk?oc=5",
+     "published": "2026-11-05T19:47:32.000Z"
     }
    ]
   }
