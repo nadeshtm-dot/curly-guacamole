@@ -1,15 +1,27 @@
 {
- "updated": "2026-11-05T07:08:17.554Z",
+ "updated": "2026-11-05T08:54:50.363Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "John Frieda, celebrity hairstylist and haircare mogul, dead at 75",
+     "brief": "John Frieda, the celebrity hairstylist whose eponymous product range — its beloved Frizz Ease serum, especially — proved a commercial sensation, has died aged 75.",
+     "link": "https://www.cnn.com/2026/11/05/style/john-frieda-celebrity-hairstylist-dies",
+     "published": "2026-11-05T08:53:50.626Z"
+    },
+    {
      "title": "Trump said he’d accept the election results. Netanyahu is challenging the outcome of his.",
      "brief": "As Republican losses in the US midterm elections came into focus, President Donald Trump said he would accept the results.",
      "link": "https://www.cnn.com/2026/11/05/middleeast/netanyahu-israel-constitutional-crisis-intl",
-     "published": "2026-11-05T07:06:17.887Z"
+     "published": "2026-11-05T08:50:50.640Z"
+    },
+    {
+     "title": "What Trump’s midterms setback could mean for Iran, Israel and Ukraine",
+     "brief": "The US midterm elections could have consequences far beyond the country’s borders.",
+     "link": "https://www.cnn.com/2026/11/04/world/iran-israel-ukraine-midterm-impact-intl",
+     "published": "2026-11-04T12:00:00.000Z"
     },
     {
      "title": "Winning ticket drawn in New Jersey for $847 million Powerball jackpot",
@@ -40,18 +52,6 @@
      "brief": "One person was killed and two others were injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing…",
      "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
      "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Deputy dies and another not expected to survive after firefight with suspect at Washington home where 2 others were killed",
-     "brief": "One of two sheriff’s deputies wounded in a firefight with a suspect in Washington state has died, and the other is not expected to survive, authorities said Wednesday.",
-     "link": "https://www.cnn.com/2026/11/04/us/spokane-washington-deputies-injured-shooting-hnk",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Democratic wave prompts GOP anxiety over Samuel Alito and future of Supreme Court",
-     "brief": "The Democratic rout in Tuesday’s midterm elections sparked an immediate sense of unease on the right about the future of the Supreme Court and a new round of Republican anxiety over decisions by Justices Samuel Alito…",
-     "link": "https://www.cnn.com/2026/11/04/politics/alito-thomas-supreme-court-republican-anxiety",
-     "published": "2026-11-04T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Sony posts 45% Q2 profit rise on movies, games boost",
+     "title": "Political stability drew Google to Malaysia, says Anwar",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTDZ6VzA3blpDd0tDQ0hNV3oyN3MyVjNEWFFHMlZ0UG9DRnBmTUVTdUxhcWtXOTFxamRyNGNBSllVcE1PWV9QZ25TdzNtNFFfN1ZTTXlWdmJoZV9LeUllZ3Y2N3pqamxiQ1RyZzlDSElTeVVDcFpWM0xQTWpUV29tdTJkbTFZSHBuNUp0UjJ2aUx1TW1LX2l2YUFuNnhqUEZtSnlWLVhB?oc=5",
-     "published": "2026-11-05T06:47:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcmZTSllhelo5WllPZDRpYlkyeW1TWFVlaVBzYjVlTDF0dUR5QzNnb1pQdlM1Tk40SE14U3YzRHBvUXh5U2lEaDJLbnFvWi1EMDBLSVo1ZkZVNTFTdXZ5ckxNb1pLcTMwS2NIX0JneDd0RVM3VWpqR0Y1WGNjb1ZkTUtPYXdxMVNtSmY1cUN5aFRHenNsNmNTU0NVWHVtTUdHYjJ1MkFrRQ?oc=5",
+     "published": "2026-11-05T08:22:00.000Z"
     },
     {
-     "title": "Nicolas Cage says he's 'a little bit homeless' as he battles massive sinkhole at his Malibu home",
+     "title": "\"Sister Brother Manhole Cover\" wins top prize at Tokyo International Film Festival",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWmdtTVEzb3AyMXh2X0VtZ3IyZENsdThDcHh3S1owN1M4Z25WTlFMWmN5aU1HYjRaSW9wRHhJYloyaE05M1FmLVVkYkFpV2FaWlBWV3RTWk9GVGFxZEYzSy1vLVZfYk9nWFJXbWxZd3hvS2Jyc2J3RWtPaTMzUm9ta2hGMkluTzRlOWZPTFgtcFdRekcxZ09NQk9ELUEyazJoWDN2OV91LTl0QnlIc29ubnBRdWJsUklSTnBOckRvNUVtWjhYR29iS2hHRFJzQm8yZ3U2T3ZKenRNN0M1UFNDUFh4OXNaa3hZWWVLZzBLcmVLTHEycE44?oc=5",
-     "published": "2026-11-05T06:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPa1BhMEQxdWRWMnc1TEdjdnJvUi10WXN6Tjg2VVNGTFpMeTJWay10X2xTVnhDbENUV1E3SDdnUExJNnBVVjJraWp0NkFwQmFjVHdHY1I4UjAxN1pkaWlIZjJRa2FSSlJLb1RIOU9hQkczakdpd1VLX1pTdmdmZ21HNHpqenc2SHFseGU4OUk5cTliSFdQallibzlnUkpkcE9rRDdJZ3V6bl9HZlg1ZVBsWUZuVWZhWVJ3R1FZNDBGdTJFWFdXZk1wNFRXQWJRYnNzU3E2X3lyTkktdUU?oc=5",
+     "published": "2026-11-05T08:14:00.000Z"
     },
     {
-     "title": "New Zealand leaders make final appeals as election remains tight",
+     "title": "Cops seize RM70,000 in untaxed alcohol, arrest man in Slim River raid",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdEN5ZXRVcW1uSElpOTVWMUJXbW5xT0hrOVdmTGYtQk56Z0FHTkxWNjJmZnlqVDJIWVpOODlxcW5vVUhtVG5XSlRfV2plSHRUa19DTUstTUFNUEh3enRWRjNWVHRzYXF0NTlocENxcVZPeFc5RzIycmlTZUxUTjdhRFltUm5uS05jc0twam9rZEliaEotcThvc19weHNkOUZ5YnFnM1FoWU9yMGROYm9UMHJwaw?oc=5",
-     "published": "2026-11-05T05:56:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJYRWJ5ZmpZZ2xCOHd3M1ZEM1pqVTdqa2NMSFE3YjdvVVF4RWdTNmhrTnpwRzRiQUlROVl2bVNLTDlubDNIak9tU1VTbDJiQzZIUEFRUnpkVU03TnduMWdLS3lUVkgtdl90VnJDeVc2QTNkc01VNW9MNDZOOWFibWEtSlZBSzcxTk1sU2lKU1padVUxVDBweTctemVmRHZraXoxTXVCdU9pdFJEeng2UGVJS0JncHNM?oc=5",
+     "published": "2026-11-05T08:03:00.000Z"
     },
     {
-     "title": "Boy, 6, found drowned in retention pond near Johor home",
+     "title": "Subang Jaya cops seek public's help to locate missing man",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVXRDTkhWNkJNZzRydU5fcTV5elFuaHlxME9sUGctQ245NWxSelhhakdyUVA4R3F6aWtQQkpZaGhpN0dFcWxZWmdPZUFKX0JYY3VmUkpPZ2pxLThNYTFUZFRhSHlIR04tU0JJV29fbGdRZm55SnJmc2xBbk91Z1VGY2s2ekJQZVVjbkRlLVN2XzJQbTJZTzU0SWE4Vk56NDJPNXUwUGF3?oc=5",
-     "published": "2026-11-05T04:37:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdW50eXMxQ3BSY3FfS04yTFN5U2NmTnI5M21iSHFVM2RjR0VqTHBjQXdVWlA0dS1tOGM2aTNRYUpfRzE1T1UwaVhIOXVIVFplekxZbEhZWUxDYnhRR0x0eEZYSDVBM1VKdGdpeU43ZHpfblhfTWJ6Z01IZXExN0dGWkxCcWN3VFQ4TDFvdExFdlBKX083SkxnX29nM2RycWJ4WW5FV1MyZDU1NmU5N3c?oc=5",
+     "published": "2026-11-05T07:56:00.000Z"
     },
     {
-     "title": "Football: Soccer-Kuyt beats former club Liverpool to deliver 'miracle' for Fenerbahce",
+     "title": "Football: Soccer-Owono out of Cup of Nations qualifiers",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOMHBJN1R2emw4eXg1ZXZzMlp3djFTeXFPWXVEZVJ5cXUzMlBnZnVoajVDYVVaV2ZrczB4UG1YVlB0eG9wdUxCVTdxZmkxMnFGazdSbDgxZW0wTDA5U2JPUklQYU1RdHNWazBodTJEcVhpZk9SdVR5Um1FM0NJT2NzRmh3UjJjbVJxZ2M4TVB4UlN1UVhMNm10eTZFRmlfbTdWM2lva2dSWlVaR3FRalFiVVBxeWJmdGM4bVdtWHgySjFaOVpjeUZFc2JJMTc?oc=5",
-     "published": "2026-11-05T03:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbmRQLTBxdmxZcm03U2RIYkJndGNEU0p6S1A3dGJmYU1ZRDNKaUdkSHZIX1ZPX2R6Yk56S082ZmJpVGJaTlJodEI4OGUzMzM4cWtvTWx0NlFCa2tVMzZpdW9iaDJnLUs2UVVFMGc4WnZqVzJ1UVdFRXBha3lEM1V5eFNnSnJyQ0hDR2dORWRVY2p3bEVYVXNmd09HNjdyNHc?oc=5",
+     "published": "2026-11-05T07:44:00.000Z"
     },
     {
-     "title": "50% toll discount on Nov 6 and 7 in conjunction with Deepavali, says Nanta",
+     "title": "26 taken to hospital after three-vehicle accident in Singapore's Tuas",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQmJ5c0hzLVVWLVpQQVcwMDFFNGY0WUp0VjZJTFV4aW0ya1Bhem5wcUR3MzV5d0dtdGNqdnB2RlVUeDlqU0VNNFN2aVRVNDNncTc0WlBod21pUmpJYVVYUVVmN0lUNUVPRzNlM0JhQTdJV29MOE91R2RhTGwza3lyb2FHZ0VHVU5sdnJmWVN4cUVVc1NXRFdsV3NucXpIa1dmem1wY0Q4bUtKdU1WT2F6RFl4S0VyeXlMbV92T3ZmYw?oc=5",
-     "published": "2026-11-05T02:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdDlxVXRQT0VUbG9qcDBNa3Q4bHBNeWVwN2tGMUZ6QWlOUzJhNUNlWWZ3Z3BwWVdQcUJYWDJ4YWJqMFphVGpIM0tQZm1xeVBiOTFHSmcwYXIzcjRhN09NaFdRUjVnaS1BMUVCSFZvMjMxWkdSbjcxME9GNGh1SG93bDIwR0lnTnRWUHYzRXZqM2Z6ajJCVXhtMWJfLTYxUGJObi1DMEwySGVUNzlMTHFRcFlLNFo1OWlhRDZObDliQlV2a1FrYUpvd2dMZlVCdzg?oc=5",
+     "published": "2026-11-05T07:40:00.000Z"
     },
     {
-     "title": "Squash: Sivasangari's US Open run ends with q-final loss to world champ",
+     "title": "Retiree loses RM342,000 in online casino investment scam",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdG94QXU2ZTlXdzEyd1pfTFFoUHJZTmJSMlhpZlJjclVPc0NHUGs4WDU0U1FnSmRXMGo2QlQ3V0RZc0NtN2R6d3puSTNqWmRtVXp3YXF1ckdtOXZNdlRfQTA5OVhOX053bXIzX0RWTkdVZjR6X21xV3U3Y19POV9pNVFnTUhJc0tjVW5SempHM3lKNW56RmVjc1BkQUQ3SEZqcDhIaVlwTndsU3lGWDNvVUFKd2swY2s?oc=5",
-     "published": "2026-11-05T02:43:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMC0tZWplVURrM0o4OFlSdF9QWGVWUkNxSFNTNjhXMnB0Wml0NjRLRFR5X0FNZWNzSy1TZHJKV1lwZlItQUh1Z0ZWeGt6Q0pqNE9Bcm1tci1fSi1XaG1BNVJCbXFDVVF1WXpEOWhrd2p0QVBnU2k5UDNzSDFFU0pZR1psb3VKTEwyMm04ZG5tMEdkenFEaE5wdDRfUVNsTjdVemhZeVJjY2s?oc=5",
+     "published": "2026-11-05T07:29:00.000Z"
     },
     {
-     "title": "M'sians can ride Penang ferry for free on Deepavali",
+     "title": "Prioritise tourist safety ahead of Visit Sabah 2027, urges state secretary",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0V0WUJHcURTbWFpcUI3VU9xY0xPV1dDcW5MQnlCNFdaZkFhVUsxSFRIekpfX2pwR2Z5VmpfZllvWWU5bDdUY2szb0VCTFlaSzdOZldGOGVCNmYwS3dtcUx3ZjFNXzdFbURWTldmdk1ZMDcxcGt5SDFTMVRwMF9IdUdQeTJoRzhFTk1mbUgyS0oxQTNteHlhMnRSWHlwNXpOQzJiOExR?oc=5",
-     "published": "2026-11-05T02:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVmhuZVg4XzlvQVk0T1VkTk10UDd2TTYzOU9GbjY5WU9OOHU1dGoySlI0TkE5WV9GTW5obnhrZVRuQ05FaEhjaHZUTVlaN3g0UHp4QkdKWDV0cWdCbXdQZGc4WUJLVW1DdTVoYTFiNjV6Vlo1NzAxN1N1Ty1CWXhfZG1rcjFCQVdsY2hXbFEtT1JYdXZNMXhQcnhjWGhSczhOamExczA4R3EwZWpaVzJxakNwWkRRenZwSlhxT0w2ZW8?oc=5",
+     "published": "2026-11-05T07:24:00.000Z"
     }
    ]
   }
