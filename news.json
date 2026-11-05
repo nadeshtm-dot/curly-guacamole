@@ -1,14 +1,32 @@
 {
- "updated": "2026-11-05T03:51:18.497Z",
+ "updated": "2026-11-05T04:54:37.377Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Multiple grizzlies may have attacked mother and daughter found dead, Canadian authorities say",
+     "brief": "More than one grizzly may have been involved in a bear attack that relatives say left a mother and daughter dead in Bella Coola along the province’s central coast, the Conservation Officer Service in British Columbia…",
+     "link": "https://www.cnn.com/2026/11/04/americas/grizzly-bear-suspected-mother-daughter-attack-hnk",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
+     "title": "Winning numbers drawn for $835 million Powerball, among the top 10 jackpots in the game’s history",
+     "brief": "A lucky player could win an estimated $835 million in Wednesday’s Powerball drawing and secure the game’s second largest prize of the year.",
+     "link": "https://www.cnn.com/2026/11/04/us/powerball-jackpot-lottery",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
      "title": "Hong Kong democracy campaigner Joshua Wong handed another 10 years in jail",
-     "brief": "Hong Kong pro-democracy campaigner Joshua Wong’s time in prison has been extended after a court Thursday meted out a 10-year sentence over a second national security conviction.",
+     "brief": "Joshua Wong, once a teenage figurehead of Hong Kong’s democracy movement, faces the prospect of entering middle age in prison, after a court Thursday meted out a 10-year sentence over a second national security…",
      "link": "https://www.cnn.com/2026/11/04/china/hong-kong-china-joshua-wong-sentence-hnk-intl",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
+     "title": "Security guard stops gunman who drove into Tampa-area Citibank Center and opened fire, killing an employee",
+     "brief": "A security guard stopped a gunman in an exchange of fire after the shooter crashed a car at the Citibank Center complex near Tampa and fatally shot a woman, later identified by the company as an employee, law…",
+     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
      "published": "2026-11-04T12:00:00.000Z"
     },
     {
@@ -34,24 +52,6 @@
      "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
      "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
      "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Security guard stops gunman who drove into Tampa-area Citibank Center and opened fire, killing a woman",
-     "brief": "A security guard stopped a gunman in an exchange of gunfire after the shooter crashed a car into an outdoor area at the Citibank Center complex outside of Tampa and fatally shot a woman, law enforcement said Wednesday.",
-     "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Mamdani’s tax on high-end second homes survives legal challenge for now",
-     "brief": "New York Mayor Zohran Mamdani secured a significant win Wednesday after a panel of Brooklyn appellate judges ruled his administration can resume plans to collect a new tax on high-end second homes.",
-     "link": "https://www.cnn.com/2026/11/04/us/mamdani-new-york-second-home-tax-lawsuit",
-     "published": "2026-11-04T12:00:00.000Z"
-    },
-    {
-     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
-     "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
-     "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
-     "published": "2026-11-03T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "ANC narrowly leads DA in early South Africa municipal election results",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdFJCOHpRekd0WnU0ZFBKY3E0Q0RzR1l0OUVyRS1XMGhlYUE3dUZpemwteEY3RXFtdF9ZYTRzTERLSjgzbS1QbTFKUDVtSlh1MkJYZ3o0U1VCbHBELWEtU0xWUDM4OEdXZTFKWS1oVDNfaFNkWFNlN1ZCaDZuUjducFM5UFZ6NXdIQkI0R3pDU05seVFnd1FPN0JkWmhOM05XWnc2d1B1STJaM3hXc3lRcnVMY3J4VDFFWC1R?oc=5",
+     "published": "2026-11-05T04:22:00.000Z"
+    },
     {
      "title": "Football: Soccer-Kuyt beats former club Liverpool to deliver 'miracle' for Fenerbahce",
      "brief": "",
@@ -90,16 +96,10 @@
      "published": "2026-11-05T02:17:00.000Z"
     },
     {
-     "title": "Ocean liner to be sunk off Florida coast to create reef, dive site",
+     "title": "Bursa Malaysia rallies as oil prices fall after US midterms",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdTd3bE1SaUt5VnY4TWwzRGJ1Mkh4R09aT045a0lkUmZUSDBlb05pUXlsb0N0ZnhzU1k1eERIVHQ0RTNlTE5ZNFpFQzlIbEdNRDlEbGp2UkhxN0xHbzlPamNCUnZQWmpBeVljQ0VfMnZHY245SEVYUG1ncnlMU1hremhXTHlYcE1UaFF6c21LU2c4MGhsZ2VGM2ZvWWQxVVVISVFacjloUU1UZjAxbGtTaUs3SXlvNEd5bFVZRQ?oc=5",
-     "published": "2026-11-05T02:00:00.000Z"
-    },
-    {
-     "title": "Indonesia stock market to publish more details on company shareholding",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeWN4ZFRkMV9MdXRIeHRVWGxYQTdHYUxqTnJrSUEzaDFoNGR2dlFfOXBSTWJXQnJXd0FLTmF5UFMycFI2OXh3SFlNSnZ4MkpOY3NXbE9yOGhCZGVCWlptTDRUaFI2SEdUTTM2N2c1RVNuMlBUNWNBTU83WlpRbVhRMEVrUmJYQ1h6d0dsN25paDYxNFN0TGZVeVlvX3ZhTnBGU1R0WjRFQ1VvUVRsQS1jMVloZzRMaU9ERGhqdWFOR3YwaEdpclliQ18yOUY?oc=5",
-     "published": "2026-11-05T01:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSjlKMnlMM3FkM2c5a0g0WExOMjY0aU9pUUhZdXcxaDdZb09xcE51MGpvU0JUaC1wUDNJcDVON3JfaWNiSXlXa0dFZURKUDlYOUx0SzE0UmR2XzFvQkZTNFBkYUJGTTlYdVlwN3Z6cWhpREZuVEpyLXFSZHlWU1JhWXVZNUMxZUtlZTlySGdGaVVGWEdfbnlHVmJ4RUQxaVFseF95RmNsRGM2UGtDTWpfQTkzN1dRcFNxdkNhVA?oc=5",
+     "published": "2026-11-05T01:21:00.000Z"
     },
     {
      "title": "Pentagon chief tech officer says government will detail laws that apply to AI labs this month",
