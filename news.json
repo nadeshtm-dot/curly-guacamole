@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-04T23:39:25.322Z",
+ "updated": "2026-11-05T00:55:27.986Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Mamdani’s tax on high-end second homes survives legal challenge for now",
-     "brief": "New York Mayor Zohran Mamdani secured a significant win Wednesday after a panel of Brooklyn appellate judges ruled his administration can resume plans to collect a new tax on high-end second homes.",
-     "link": "https://www.cnn.com/2026/11/04/us/mamdani-new-york-second-home-tax-lawsuit",
-     "published": "2026-11-04T23:39:25.478Z"
-    },
-    {
-     "title": "Vance tosses Trump under the bus in a bid to keep 2028 hope alive",
-     "brief": "Vice President JD Vance on Wednesday surveyed the wreckage of the MAGA coalition and spilled his thoughts in an extraordinary social media post that launched the 2028 presidential campaign.",
-     "link": "https://www.cnn.com/2026/11/04/politics/jd-vance-trump-2028-campaign",
-     "published": "2026-11-04T23:38:25.535Z"
-    },
-    {
-     "title": "The Southern Taurid meteor shower will bring rare fireballs tonight",
-     "brief": "Night owls have the chance to spot a few dazzling fireballs as the Southern Taurid meteor shower hits peak activity.",
-     "link": "https://www.cnn.com/2026/11/04/science/southern-taurids-meteor-shower",
-     "published": "2026-11-04T23:37:25.531Z"
-    },
-    {
-     "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
-     "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
-     "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
-     "published": "2026-11-04T23:36:25.516Z"
+     "title": "Mississippi Senate race turns into a nail-biter",
+     "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
+     "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
+     "published": "2026-11-04T12:00:00.000Z"
     },
     {
      "title": "1 killed and 2 hurt in small helicopter crash off Miami, officials say",
      "brief": "One person was killed and two others injured when a small helicopter crashed late Wednesday morning off Key Biscayne, Florida, the US Coast Guard said, leaving the aircraft upside down with just its landing skids…",
      "link": "https://www.cnn.com/2026/11/04/us/helicopter-crash-key-biscayne-florida",
-     "published": "2026-11-04T23:35:25.533Z"
+     "published": "2026-11-04T12:00:00.000Z"
     },
     {
      "title": "Security guard stops gunman who drove into Tampa-area Citibank Center and opened fire, killing a woman",
-     "brief": "A security guard stopped a gunman in an exchange of gunfire after the shooter crashed a car into an outdoor area at the Citibank Center complex outside of Tampa and fatally shot a woman, Hillsborough County Sheriff’s…",
+     "brief": "A security guard stopped a gunman in an exchange of gunfire after the shooter crashed a car into an outdoor area at the Citibank Center complex outside of Tampa and fatally shot a woman, law enforcement said Wednesday.",
      "link": "https://www.cnn.com/2026/11/04/us/florida-citibank-center-tampa-area",
-     "published": "2026-11-04T23:34:25.538Z"
+     "published": "2026-11-04T12:00:00.000Z"
     },
     {
-     "title": "Dow has best post-midterm elections day in 44 years as Democrats take control of Congress",
-     "brief": "US stocks soared Wednesday as Wall Street digested the resounding Democrat sweep in the midterm elections and mulled what a divided government will mean for the war with Iran, President Donald Trump’s policy agenda…",
-     "link": "https://www.cnn.com/2026/11/04/investing/us-markets-midterm-elections",
-     "published": "2026-11-04T23:33:25.537Z"
+     "title": "Mamdani’s tax on high-end second homes survives legal challenge for now",
+     "brief": "New York Mayor Zohran Mamdani secured a significant win Wednesday after a panel of Brooklyn appellate judges ruled his administration can resume plans to collect a new tax on high-end second homes.",
+     "link": "https://www.cnn.com/2026/11/04/us/mamdani-new-york-second-home-tax-lawsuit",
+     "published": "2026-11-04T12:00:00.000Z"
     },
     {
-     "title": "How Mississippi became an unlikely Senate battleground",
-     "brief": "An unpopular president , a charismatic Democratic candidate and an incumbent who has underperformed other Republicans in recent elections have turned a US Senate race in Mississippi into the nail-biter of the midterms.",
-     "link": "https://www.cnn.com/2026/11/04/politics/how-mississippi-became-a-senate-battleground-colom-hyde-smith",
-     "published": "2026-11-04T23:32:25.527Z"
+     "title": "Vance tosses Trump under the bus in a bid to keep 2028 hope alive",
+     "brief": "Vice President JD Vance on Wednesday surveyed the wreckage of the MAGA coalition and spilled his thoughts in an extraordinary social media post that launched the 2028 presidential campaign.",
+     "link": "https://www.cnn.com/2026/11/04/politics/jd-vance-trump-2028-campaign",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
+     "title": "The Southern Taurid meteor shower will bring rare fireballs tonight",
+     "brief": "Night owls have the chance to spot a few dazzling fireballs as the Southern Taurid meteor shower hits peak activity.",
+     "link": "https://www.cnn.com/2026/11/04/science/southern-taurids-meteor-shower",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
+     "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
+     "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
+     "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
+     "published": "2026-11-04T12:00:00.000Z"
+    },
+    {
+     "title": "Melania Trump to bring Russian and Ukrainian representatives to White House this week",
+     "brief": "First lady Melania Trump will bring representatives from Russia and Ukraine to the White House on Thursday, after announcing a ceasefire in the city of Oleshky last month.",
+     "link": "https://www.cnn.com/2026/11/03/politics/melania-trump-russia-ukraine",
+     "published": "2026-11-03T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Tai and his daughter in mid-air scare",
+     "title": "Goldman, Apollo seek buyers for $40 billion SpaceX AI chip deal, Bloomberg News reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQnBYWFE2TUhCUWZ1M2RseDJRNDBhWHpBTE9HbGYzR2tYNHRrRUszaHhrbWtuVkY4eWJ6UlpDUGVrQ1V0SlBUamZMUU9iLXc3dEczNkhINXhicTF3QXotMFJWc3o1dVdvYkVaRDNDR3ZxcjU4cEhoUVd2a0VGc3VpN2l6QkNFX2twOFFXZ2xpRjI?oc=5",
-     "published": "2026-11-04T23:35:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSll0d1duM0VBRnhFNnRVN2ZEYVpLXzM1bTQ5bU02enExVnY4NVBCdTd2Q2lrTWw3VWg3NFk0OWpfclZCZG96TTRDNjhyVFI5dWJpWGQ0b1NyWm1scy1qVlBjTkVMUWVnaEpCZVdpNXJEcU8xZ1FHQUY0a29USUc4cUlYMDZQLUludG1mWGk3U0dWQW9kTTJ0Vll5U1VwMTRtbHRCNDcyV0xNczh0b0lWVXBLSVQ4Mnl4SkJ6Vm53OU9oNUxld202TzZKN1dVOTl1OXAw?oc=5",
+     "published": "2026-11-05T00:12:00.000Z"
     },
     {
-     "title": "Masjid India keeps Deepavali tradition alive",
+     "title": "Autistic boy killed in village fire",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQTlyOFZIUG85UlpSalYteEhncXktOTlLem5pMHYxNnlUT3p1X2laVnJnNUEtMEFYZVUxVzR3ODZvTzJaelh2MDF5aWJzd1NIenpqTGZPSzMzWV9WeUNmUVhrQVh5a2xrOUlhTmViNFVFcFpodWlXTFREUmo2aFlkSDFUM1pyWUVvbnRJLTZuLWw2NGxId1h5NGt3?oc=5",
-     "published": "2026-11-04T23:34:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeW10MVZ0WDZxdlFRUTdHUUx2aC1fRWkzTjEtOXBrcERmVF9nYUZjZ084X2JWUEw2bzkwcl90M3RjcWdUYVVwOUJyS29sQ19Iem5UeWpJc0J1dFpjbXYteEJZaGtBRFJEcmNRd2hYeS1zRjBhOGNnbGdfQm9URWx5eUtTMEdSdUpEdksydzZR?oc=5",
+     "published": "2026-11-05T00:10:02.000Z"
     },
     {
-     "title": "Football: Soccer-Como equal Champions League record with stunning 9-1 win at Lens",
+     "title": "QuickCheck: Is it cheaper to leave the air-conditioner on all day?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSnl5NmlNNXoxdHBteXVJcXNUbS1EclpyVXA2MmM3QWliNDNEdzJYOHg3WjhQcE03UjBlb0VhY3ZGS0RwX01DY3U0S01oN2FKR3FxU1lKSExIVXpHZDRsNnNIbTQySzVONkRKRDlVZXJqaVItYzVkTjJQWktkb0N0LVVpWnF1MTQ0Tzk2UldZY2F5OUN5R3dvbGZSWGREVFBCdUxlTGV3dy1EMHdJVmF4MHVLUThhVnl1eXVXWER4YWdlUQ?oc=5",
-     "published": "2026-11-04T23:25:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSFRIV3lqYUtFSEwwbV94SU9EX1h5ejNZZVVsS2hTUlRCLWZZT0J0Rjh5WkYyNXdBTFFjYnlhWnFrSjlyYUhmR2duRzZBOEVRb21oUGsyQ1h4WHZKUm81b3JqQVdKVnRvNkJoX1h6cUEwdTBHQ25xRXE1bFc5blh6c21vbzYxajNIdmNrSklxV3FBZld3SDYzNktBYnlzMVY4ZFJIcFRBWlQ0RmhRZmpOQzhkWm42Z2tkQ25B?oc=5",
+     "published": "2026-11-05T00:00:00.000Z"
     },
     {
-     "title": "Temasek’s Mapletree picks banks for Singapore IPO",
+     "title": "Test failures delay confirmation of 1,799 teachers",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTzFTZVd0STQycmtYYlhuQ2QxUG9DY1k3ZDY5cko5QUZwaUYwaEd5TFBMVzhzX3lFYzNVZmZLaHU2d3l3bHhFaDBMZG1hWldoYk5lMGFnUUV2WDc3dXBFZkYtN0o0OEl6X3RJcTdDalZCX1d4ZGNEank0RWlKVEVHb1IwZjBaMkpnNGN3dmM2N3prVEx6aGk4SEJ5Tm9QeXV2azltNXpOb2VRYXdfVmc?oc=5",
-     "published": "2026-11-04T23:04:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdXRHZTNLcVItbHprVHRrZ044QUdKejJUMVgxVWp1ZTRISndOcWhadWhSVFoyTFM1NUtfZVM0UjVmczdkQWY3RHYxQUFxNkNRbTZrNlAtUmJwQkI3ak43NzZxX3BPeXJPUUVXaV9IUTJLd21ZWU52WnRhbThOcEg5THZqcVZ0X2huVXhwVHo0QWpONG9lZGZXclhPS2wwOG5I?oc=5",
+     "published": "2026-11-04T23:59:39.000Z"
     },
     {
-     "title": "Britain's October services PMI up to 8-month high",
+     "title": "Non-critical cases crowd Penang Hospital’s trauma unit",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV3hSY0J6UE5UTW9BQkZkdkJfVVFNMjd0U1ZjSktvTTlDWXJ0UjZrdjNPdDZ6RDhMclpkamNRcnk3UTZKejM2WkRXd19TWHZFMnNKTlB2LWo1S0xNNjZOLW51M2N3QlNhRnhodVI5OG9mcmJkMXllWGREY0t3RnFVNlBtVWdEQW4zZFBTWWpyQlhYdVByQ2NjWnFFWDZKYTVJb1E?oc=5",
-     "published": "2026-11-04T23:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVW5tV2lQU2o5ekMxZnNJbWFCVmJfVG4yU2hTckdodU4xcVlsRE1aZ1NWRkNYakxXMko0OTY5Nk1BOTVYQkhLZC1HbFRHRHZiUzBObTJLOVRFWG9kQ1hkQmYwNWsxNW9tLWpBaVJJeGVGY2ROcFFvVV80UHJ1cEFkdzd4QWk0NmRfODFGeG0tclJXLTJwQ2JNYXFROF9VaEpxcTA2NEhR?oc=5",
+     "published": "2026-11-04T23:59:35.000Z"
     },
     {
-     "title": "Canada's trade surplus widens in September",
+     "title": "PM: M’sia pushing to boost local currency use with BRICS",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVHNFWmM5VjBJMEJkRmNJOGNzYTRLcWk5TnI5UFBYQmQ2am4zTXVUN3RLeGVIRklfWUdnZHVTend4NHFvQ1loSzF5bl9Ua0JHZl9BbENUNXBETmdqdGcxR1FWNzdUamFNeVlrbk5mNHVPSUppWjB2RXo0VjVfYUlkZDFzSF9lMm40STJldjNtQ3BJUlloZzNaTw?oc=5",
-     "published": "2026-11-04T22:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdlYyYVIzZ2c0WkNTb19MdmpMZVN3WWhJbUtPSjkwcERoR1QwNUpCb2dwVWo1UktNR1hYeldQV2NaRVFRbnpFM2theDQxbVFoeUFXaTBodmxIZDlMczVXbTJDbUxiTTFyX01pbFdWby03dElIU2NDTktMcTU2SVFkMWlSOFVuZFAzRW5yN0l5bjJZLWtIazVWTVhvOGNqZ0lNN2NycjBUNA?oc=5",
+     "published": "2026-11-04T23:54:35.000Z"
     },
     {
-     "title": "North Korea says it tested air-defence missile, staged cruise missile drill",
+     "title": "Apple cuts employee AI budgets in cost-control push, Bloomberg News reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU1QTU11U1doM2IwSUo0eUp5eDU2ZzYybVBHdnNWTkVsYUlubkFtd2Z5aEVSaHFuMGxJSkFvTlRtRkQ4cmZEVXZKYmotWkNmU3NyRE5XUHVVdUg1NzFLeUo3Qm55TXVnc3FXT2JGS0pCbWlXcWEwWlFXRHRZTXlxM2lvdHFEYnJ1YTN0MHNJNmdRNkwwbHdWdm1HYTVqY25yMHlxcllheFZHOFFpUHp6ZXNhS0NBR0ZKaFZXX21Wbm0?oc=5",
-     "published": "2026-11-04T22:08:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTlhzQnJ6YjlnWVpqY2JDQVdlSElmV0FQZG1PRTJYMEExUlVnbDRjMzR2ZUtMSHVhVlJjc2FhdDlJa2ppMUd1WEhwY09DeE9OSzFQV3VsOUotbmw4TzB3aThWYkZaVzhBczBTTzBiSVJvVVYxSU14N2NyRVUwY2JKOFlFem44OHB5VXRLQ1oyWnloc2N5MlNuaXVnbXhFSTcwUWtJOXlDeFB2d2JrQzYwdXRmNkdNNHpQbDVqLXdIV0xud3BPVmc?oc=5",
+     "published": "2026-11-04T23:53:00.000Z"
     },
     {
-     "title": "EU hosts talks on Ukraine's post-war reconstruction",
+     "title": "M’sia acts on AI election threat",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkt0MVZuMzRmb0ZfYWRsU1hvLVE1dFNuY0Y0c0I1SGF6OE5LbUt0aHBIRTFac3FoWUl2REZFWG5Hc3RJbDdzQmhfVDd3SGVYb1RoVVZXRjVJOXF6RzAtNzVZNmNkWVVWZmRvTWNNQTBZVl9sUl9EMTdRalFWZEZVdFVoV0ROYkVnbWJ6TXlpVGIwcks2WXpUWFRaUk9rbnNFZDhLZA?oc=5",
-     "published": "2026-11-04T21:54:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMFhvSjRPdVh3TVlwa19wSFpGSmtCbDlyazZtMjNGendjOEFvQjRNV3RIcGN6WnBSYldMSUhoQ0FXalNVcDN2elptM0lhcm5mU2IwR1VzelBURmFLXzNpQ2JzOEpNVTI3cGRmLVB1ZnJOeGdtQ2ZvNWV5Z1dsNG9KUGF0MDEyNWpN?oc=5",
+     "published": "2026-11-04T23:48:35.000Z"
     }
    ]
   }
