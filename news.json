@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T07:06:19.762Z",
+ "updated": "2026-11-06T08:19:02.271Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,18 +9,24 @@
      "title": "Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames",
      "brief": "In seeking to fend off impeachment, Defense Secretary Pete Hegseth may have strengthened his critics’ case for it.",
      "link": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms",
-     "published": "2026-11-06T07:03:20.047Z"
-    },
-    {
-     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
-     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
-     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
-     "published": "2026-11-05T12:00:00.000Z"
+     "published": "2026-11-06T08:15:02.541Z"
     },
     {
      "title": "Asian markets follow US rout as AI investment jitters spread in wake of Democrat blue wave",
      "brief": "Stock markets in Asia plunged Friday, following a tech-led sell-off in the US on anticipation that newly elected Democratic officials could stymie an AI investment boom that’s driven global stocks to record highs.",
      "link": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
+     "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
+     "link": "https://www.cnn.com/2026/11/05/us/caprice-williams-foster-mother-murder-charge",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
+     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
+     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
@@ -42,12 +48,6 @@
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
-     "brief": "The foster mother of a 10-year-old girl whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later has been charged with murder, Philadelphia officials said Thursday.",
-     "link": "https://www.cnn.com/2026/11/05/us/caprice-williams-foster-mother-murder-charge",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
      "title": "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day",
      "brief": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
      "link": "https://www.cnn.com/2026/11/05/us/executions-indiana-florida-alabama",
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Insurers settle 12 policies for Malaysians missing in Nepal flash floods",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEUwNTQxOHpqTjcxSVZpRGFISzhBVnFfZmEzQ2RWZzJndDh0dFFFbWlZVVU2Z1FfTm5wQk9xTS1PczBFY2ZoTFdUYVQteUJ3amFPVG1YTkdEQ2NnaUpmcWhiUlU5UEN6dUZaZlg3R3pMMUdnd3ZtUlFXeHRGTGZBSDFlcXEwQnQ4c29DbWFZTXZpVWZqWFZHd1dhSm44LTJoeFVVRGltcURwdkZSbC1yUElDVEhYaTBxOFVfSHo1UQ?oc=5",
+     "published": "2026-11-06T07:35:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Jordan's friendly with Indonesia cancelled over security fears",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUtfekFmdW00eWlwQ2hOdUp0d1RBcDByU0FFN2g2WHkwWUZldjhKazUxbU4zQjJ5S0tKelZkMk1GaXBlTzI4NjNaRkk5Ykk4U3Y5RE4xMGcwZXZFT0taeDJCRnFRZEZJYUdvUDNPWVpsLTduM3dtaUp2VzR1MFNvbzRkZjFjRzhJWHpfZ0FaX1dOa0FsR0FvZGNEdUhNeW9Lb1NmV3E2bHl4cWlndTl1UkFmbF9temZWQnVNbGVuV3J3QQ?oc=5",
+     "published": "2026-11-06T07:22:00.000Z"
+    },
+    {
+     "title": "Tesla to wind down Cybertruck production at Texas gigafactory next year, Musk says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTHRILTQ4T0w1dEw4Q3p4M3JIRTZmV2UwUkdzcWhHNTNGZ2Q5ZjZWMTN1MnhvQzJwYTFOZ0JqTVdXSGxMYy1PalRMTDJRTTNZMkNmUmxIclNkS0cyNDhad21SNm1rbkdKOXE0a2JGTGxjQ2lzdmJ2ck1rTXMxNkNUUUE5N0hWUkpwOEdGWi1fY1dTSnY0eWg4WmVsZXFxTzloeUNaaldzQkg1WjlpNl9BVkcyaEpWejlwbGVxb3l2VUJHa21kSk9qMGM2THBlaHc?oc=5",
+     "published": "2026-11-06T07:13:00.000Z"
+    },
+    {
+     "title": "Najib leaves Kajang Prison",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3IwNFNZSVBlRjY4SGhwanphWllaQ1Z5RV9nQ3FQVTFERUx5ZjJ1Z0ZjR2xVUV9rOXVRT2F6cW9KOWRsOUdHYmVDbzl6eEljcVpqOWNWR3VkVEZncGlhczBkTFJpZ1ZrTWhCRFJCNWNtSTR1alNjNWVndk5Ia1o5UDlR?oc=5",
+     "published": "2026-11-06T07:05:00.000Z"
+    },
+    {
+     "title": "South Africa's ANC on track for big drop in voter support in municipal vote",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSldjY0dIc0NNMERaZkh6bFZwUTNFcEYzaEhzZ0I3TWZjb1FuWDdmd3cwcmk1NFMza09WN2dQTWJpM0NNVEJUaXBzb0V1UURIdUNWV2V3RjN4UElNR2JUUFc3N2xXXzI4a2JlUk5FdDI4V1Zrcmp6dTFvSlFLeWtTOEZaaHVhWGV3NTVjVWU4Q3ZUeDFISm51c0tKWXFLZDlMWEpFYjUyNlNEc3cybi1qcy1KYkM4NFc5VTY5NWdzbXNEZExi?oc=5",
+     "published": "2026-11-06T06:49:00.000Z"
+    },
     {
      "title": "Latest",
      "brief": "",
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVUc5Q3Q0NFR5QUlocEpKaFA3dUdLS0lBVVdfMzNpb2RzZXk4dlJpWlZxTl9OcWlraE1kQkVCbG5FdlN0ZzVUa0lxZGFWSFRfUHQwSENIaHZDRGRXbVBtU2hFbTdJUWhOVFpQMFpPRlZBS002aEd2cGN0eTRyT3V6WDQwcXNoZ3paTDBQUGFFQ0lVR21rTi1kdDJBbEZNVmNqQThYQ0Jyb2plMXh0ZFpQbXIzZk9yY2ViWVVneDJkRmRGZDBBcjFjYTNn?oc=5",
      "published": "2026-11-06T06:27:00.000Z"
-    },
-    {
-     "title": "Kyivstar lifts yearly revenue guidance as Q3 revenue rises",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUzhMU2F5Si1SNnVLY0lCMEhRVi1yRGFZNkxGN3NFS0VubFFVYkt0azRRSVMtMnFSa3NCZng3alV4el9iOXFmdmxXMGttanN5dFlieVVRcmJwRHZBNWhGTEN5UjI0UG8wOGFTcTBxTUhrb3hSMjNkLWZnOHh0bkNYZWtXcFBNa0k3STZuLU5sY0RVaXd2Yll4cFZfTXNQVkpkaFVfTkhXaWhCRGdSUzVMMw?oc=5",
-     "published": "2026-11-06T06:02:00.000Z"
-    },
-    {
-     "title": "Meghan Markle’s brother is ‘person of interest’ in dad’s sex offense probe",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPd2pHNjJxY2xqd2pUczJOVFZITXhUNHo4dm9yNlAtYTFhZktIOFhfQ3lLaU4wdUt5UnYzZWJqLVFUVlpxdFBYR0RHMGJjU2hHUm9mSVdrdXZBcHZ3OHRlRGtOOUZTUFpJaXdieFdxckIzdTJ5NjlGWk4tSXJfTUROODEtcjFITmt1SE1LOGlHYlZfVElwaGs2QXZhLUYzdG4xZ2szVXlsUkFTWFcxek03RDZCc3R5dWU1X0gwVGktcmE3Q1EtNnNTc3lTcHo?oc=5",
-     "published": "2026-11-06T06:00:00.000Z"
-    },
-    {
-     "title": "X says takedown notices targeting Indian free-speech groups were fake",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOThkRDBveFpZY3dTdTdyUWpUbmkzT1J3WDRiN1VFY0NFdEhUb0QyNU9Tck5HLU5wVDhTMjFEYUc0M1JhOThjUVoxNWtWdzJTYWttWkM1SFI4SmJtZzZ2eW5iOXVjcThZdnFqNUt0ZzAzQTlLQTRNOFoyRXd2OW44ZlhBbW5DcXU0cUtrdldkb0JmYW9zM0NzckU2NmJCaElJMEVZVkQzeFFNbmxjQzREcVo2Q3Z6M3hZdWxTUkptcw?oc=5",
-     "published": "2026-11-06T05:54:00.000Z"
-    },
-    {
-     "title": "Cricket-Australia turn to Hussey ahead of Ashes after batting slump",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1RiSEFna0UzMlhNMjB1Q3VOSnRLUUlCbGoySWNKaHV4TXFZUWh0SU01cDVLaV8zMDgxUUh2eFByMDlrZmhrSWFpcmpGRkgwclNyOGIwc0t4V21XdFA5NXpOaEtZbFJaZURibktVc0ZDNG04cEV6bTgyMm9XZkNNVm1MbE5FQ1ZkLUVIREcxZnNCMEZOLUQtUm9hNWNUMjhNVEM3al9YUlFVcE1DblpDX2xkOFhaczJzcHhz?oc=5",
-     "published": "2026-11-06T05:30:00.000Z"
-    },
-    {
-     "title": "Police presence heavy outside Najib's residence amid talk of RM50mil fine payment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFlrM1NsckdlOFRtUXFQLWp6aTdpcHZ5SUFQOXZTQW8yRW1KaWVXLTI4aTFENkRSR2hGa3duY3VYQzI1azN0amdxQWd1NFB5ZU94WWxWelotek0wNXRkdnEzR1RiWE9kM24wMlhpSm1nSDFLRGY0THJjSkF0NHIwZFFQQnNJdTZXWU81OUtBQ0xjbXdybnlEVG11UDBKTlBnd1cybERlZnlicW8zV3haejR6MDFobXprUEx5aExiZVJZTmZIVkVwUUVranhYdw?oc=5",
-     "published": "2026-11-06T04:59:00.000Z"
     }
    ]
   }
