@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-06T02:53:18.968Z",
+ "updated": "2026-11-06T03:49:39.273Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Trump’s 250-foot arch gets final approval to begin construction two days after president’s election drubbing",
+     "brief": "A final vote approving President Donald Trump’s proposed triumphal arch passed late Thursday after a marathon public hearing of citizens voicing fierce opposition to the president’s pet project.",
+     "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
+     "brief": "The foster mother of a 10-year-old girl whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later has been charged with murder, Philadelphia officials said Thursday.",
+     "link": "https://www.cnn.com/2026/11/05/us/caprice-williams-foster-mother-murder-charge",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
     {
      "title": "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day",
      "brief": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
@@ -36,18 +48,6 @@
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
-     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
-     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Surprise twist ricochets through Supreme Court case on AR-15 ban",
-     "brief": "A blockbuster Supreme Court appeal challenging a ban on AR-15-style semi-automatic rifles may be thrown into disarray by a mysterious request to remove the lead plaintiff from the case, a puzzling twist that prompted…",
-     "link": "https://www.cnn.com/2026/11/05/politics/surprise-twist-supreme-court-case-ar-15-ban",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
      "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
      "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
      "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
@@ -60,22 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzdoZHBvRHJTcVBuY0t2czk0bWc1XzkyRVdZTUN1aTlxaE05YUtPRGlRNWlQNEdmLWJTTHI4QUNyYlFzM24wMS1Kb0xkdThzVHhLckVORERZRnN4cTQxWm1INV9VRmdOWDk4WklXOGtNMEtwUkhqZGk2NzVBZ2dFa2NMRDZSQWMyUGdKUlRoNVNfc1k1UVZFSUlpcW1rbUV6V1ZiZmpvWW1BVmZja09BVGU2SFJtU3JfWGc?oc=5",
+     "published": "2026-11-06T03:25:00.000Z"
+    },
+    {
      "title": "Trump-backed World Liberty Financial launches WLFI token buyback program",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0I4ZVVxYUloaERHYzIzdWZvSzZYWTJMcHpLRFViNzlqU2xkbFBlLTZoc3l5bUlZeHhkeTJIMzRyek9XSTNpOGh4WWY0LWV0Skt4YW5Ia2d4MFVvVWllOXpUZHFIcnc0bk1SLU9WX1ZDaXFXLU5EamxGcGRpZ25wVWlxeVZiTGFEY3YtR25xMHlhR1p1VXRQMDRxQThaa0xDNkN3OG1zZG1YLUNUanlMVDZRNXp3QlJ1MjRpbzBVSVYwZU0?oc=5",
      "published": "2026-11-06T02:44:00.000Z"
-    },
-    {
-     "title": "Sea otter dies at Mie Prefecture aquarium; only one left in Japan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcTBTUS1oV25kZ3dUZExsZG94YzNGZk9vV2lrN1Q3Zi1EZnl4Y1ZaNWtaSnhpQmxnaWxLNWJsLUNocWktQVRfd2lRRVY2TFFKejZkTm53NWpfWnZhWDNNQU9Va1Y1Snp3LW9OTTR3VWkwSXhyLUlwQWhFdHJWQlpQbUFVWUZYNUczQU1pTmxZUzd4c18ycnBqaS1hRGVvZEk5VFpyZl9JM0pSMm4xVktJZTlaZ2xmcThjeUxjVjA5TkVRdE9DU3c?oc=5",
-     "published": "2026-11-06T02:26:00.000Z"
-    },
-    {
-     "title": "Myanmar sets April 4, 2027, date for by-elections",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1NtR1M3bW9kaGpMdXhGdGFuc1FoaVFXc01VVFY5amNwSTNoOE9yWlRWU1JQN2dmdG8yb0hQVEF6aHZBc0dBWXBDQ3NyYmFsUU5qY01PdXRyOFdKaDRXUmVNMUNBZGFlcExlam81RWVZUDYwelg1WlJpT0MxcU83TkVPLXZNRTVoa3kwX1FvR2FQZGV2WnVDRmFrVlVCanlpMFdHYllTMDFlamlSSEo0?oc=5",
-     "published": "2026-11-06T02:18:00.000Z"
     },
     {
      "title": "Latest",
@@ -90,22 +84,28 @@
      "published": "2026-11-06T02:00:00.000Z"
     },
     {
-     "title": "Thunderstorm warning in five states until noon",
+     "title": "US$1.5bil energy storage expansion plan launched",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTQ4V3NkNm1SQjZiaWVOcTRWekZseVpyVlhsTFJES0o2bzRId3NEVXk5TTUzN2pWaTN2b2ZleGRfdjd4ZEg5MWhIM3NaUDAtTFNOdDM2TmYwVVpKYzVvNFMteEJJNkNQdVZBX2xvSmhUd3I1Z1Frb3BrWWlFd0JJMm5mVjY4bi1qNHJ4cm5UWTlrSGludU9PX25SU3A?oc=5",
-     "published": "2026-11-06T01:39:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEZTZmFUWmx4VmsyUEtTbHNTb2VKVTUyMjZUSTVoVmNxM1NyUDN5SDZBZTdaNXNyMnNadGxZYVFJZkJyV3hhNzB2bXJPRllRR2VydWtsMzNBZll5azhMWE94ZEUxQlNQLUJ2QTNBbzVQRldTVDZreHJRbUhfRU5TN29OVTgyLXpRT3JxcVZ4a3E3ZkczVmJ0VzE1MA?oc=5",
+     "published": "2026-11-06T00:39:05.000Z"
     },
     {
-     "title": "Sabah’s sustainable forestry plan lays roots for the future",
+     "title": "Military mission underway to help keep Hormuz open",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTNhVkhsZmdoUTBwWmNFa2RsR2I4Z2pBdEJvNzQ5ZlN1aHpudlZRbHlNMWlEckl5dGxsLU8wcGp2b2ctdEVtT2MwM0RPTjdVRmpnamlDWGFqZVozMmZ1endtdHVPdDJCM29zSmxXb2RXcVJEWFdFR0ROcGtkSkNmMkpvQnloU0NHQ2FOOHU3WS1uT0VLWFR6RG0tSnVFWFVlQkg5dHZUeFB5bXNu?oc=5",
-     "published": "2026-11-06T00:55:40.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
+     "published": "2026-11-06T00:39:05.000Z"
     },
     {
-     "title": "Opposition seeks more details of CSA signed on Oct 31",
+     "title": "Fossilised teeth used to identify prehistoric ‘giant rat’",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelJ2VWVSSURXSEw3dUNxemliSlIteWtxNTFqeE5Od3V5M1BCY195V3QtMklMdDVBZm5kNWY5NGk5bkRReEh3TXcwcDJrVWNIRlgxRUdkZTJwREJtVmt2N2hwVkwyQkJmNENUZi1jOE9rbXRwSm5FSlBPQWRYM3pBam1NZkJubWVzb3duQTdrek1jVVdRcFlTb256WDZleGRpMHdhMw?oc=5",
-     "published": "2026-11-06T00:54:06.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVJSVzcwWmRJQzBGdE9wNElpcXZRdFlTREpRdFdHNWRiczVaOHhVRndoSEZ5ZzJxZUxwczJ0M0xIM2JpYkl5c1NiUzdENHVXZWFObF9hZ1BYUUoyUS12NGl2U2x5ejNkallUTFZ6RE5XV1Foa3o1NVpjX2t1RkowVE9XekRlQjkzeGJYVlV1WGg1YzFTUGVaZEUzMUlnODdFem1pc0gxaw?oc=5",
+     "published": "2026-11-06T00:37:05.000Z"
+    },
+    {
+     "title": "Critical textbook banned",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTjRRVDZmcmtLOW1JeGVpSG43dTNUOUZfeWczQVRwejctcEF2U2dqNWtiUkRBSnR2bTdjMnpGTGNqUlUtOXNRTEY2M0tOZEVkY2lGSndSRWZlTndsaEpoY0FaZndQZXk2QTN3VWFSdVBLQURNU1JUY3MzRTFaUQ?oc=5",
+     "published": "2026-11-06T00:37:05.000Z"
     }
    ]
   }
