@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-06T18:47:35.618Z",
+ "updated": "2026-11-06T19:48:32.929Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Trump tapes ‘60 Minutes’ interview after GOP midterm rout",
-     "brief": "President Donald Trump will appear on Sunday’s “60 Minutes” for his first in-depth interview since the Republican Party’s sweeping midterm losses.",
-     "link": "https://www.cnn.com/2026/11/06/media/trump-60-minutes-interview-midterms-ross-douthat",
-     "published": "2026-11-06T18:47:35.810Z"
+     "title": "Thomas Markle, father of Meghan, arrested after feds find photos of him sexually abusing minors, DOJ says",
+     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was arrested by federal agents in Florida on Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
+     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
+     "published": "2026-11-06T19:48:33.205Z"
     },
     {
-     "title": "White House won’t comment on where Trump’s many midterm promises stand — including those $5k checks",
-     "brief": "President Donald Trump dangled the promise of $5,000 checks to every American adult before the midterm elections, with a key stipulation: Republicans had to win.",
-     "link": "https://www.cnn.com/2026/11/06/politics/trump-5000-checks-midterm-promises",
-     "published": "2026-11-06T18:46:35.852Z"
+     "title": "Stephen Miller replacing Susie Wiles as chief of staff, Trump announces",
+     "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses.",
+     "link": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
+     "published": "2026-11-06T19:47:33.257Z"
+    },
+    {
+     "title": "Pope Leo ‘proud to be an American’ and vote in US midterms",
+     "brief": "Pope Leo XIV has said he was proud to exercise his right to vote as an American in the recent US midterm elections .",
+     "link": "https://www.cnn.com/2026/11/06/americas/pope-leo-midterms-latam-intl",
+     "published": "2026-11-06T19:46:33.270Z"
     },
     {
      "title": "Trump’s latest Ukraine offer may only tempt Putin to step up his war",
      "brief": "The ‘Shell Bay format’ is an unlikely phrase for history to digest.",
      "link": "https://www.cnn.com/2026/11/06/europe/trump-ukraine-grand-bargain-risks-intl",
-     "published": "2026-11-06T18:44:35.873Z"
+     "published": "2026-11-06T19:45:33.260Z"
     },
     {
-     "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy",
-     "brief": "US President Donald Trump has promised a new security deal for Ukraine that “might involve all of Europe,” after meeting a top Russian envoy on Thursday – but the proposal has few details and left European capitals…",
-     "link": "https://www.cnn.com/2026/11/06/politics/trump-ukraine-europe-deal-putin-envoy-intl",
-     "published": "2026-11-06T18:43:35.884Z"
+     "title": "Trump tapes ‘60 Minutes’ interview after GOP midterm rout",
+     "brief": "President Donald Trump will appear on Sunday’s “60 Minutes” for his first in-depth interview since the Republican Party’s sweeping midterm losses.",
+     "link": "https://www.cnn.com/2026/11/06/media/trump-60-minutes-interview-midterms-ross-douthat",
+     "published": "2026-11-06T19:44:33.267Z"
     },
     {
-     "title": "Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses",
-     "brief": "Three high-profile officials have resigned from the Justice Department in the days since the midterms, including Jason Reding Quiñones, the senior federal prosecutor who led a sprawling investigation into President…",
-     "link": "https://www.cnn.com/2026/11/06/politics/jason-reding-quinones-resigns-doj-grand-conspiracy-florida",
-     "published": "2026-11-06T18:42:35.864Z"
+     "title": "The fight is growing over ballot counting in Mississippi’s tight Senate race",
+     "brief": "National party operatives, lawyers, grassroots activists and content creators are descending on Mississippi to observe the vetting of thousands of provisional ballots in the coming days and to gear up for possible…",
+     "link": "https://www.cnn.com/2026/11/06/politics/mississippi-senate-vote-count-results-scott-colom-cindy-hyde-smith",
+     "published": "2026-11-06T19:43:33.251Z"
     },
     {
-     "title": "Thomas Markle, father of Meghan, arrested after feds find photos of him sexually abusing minors, DOJ says",
-     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was arrested Friday by federal agents in Florida on charges related to child sexual abuse material, the Department of Justice announced Friday.",
-     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
-     "published": "2026-11-06T18:40:35.879Z"
+     "title": "White House won’t comment on where Trump’s many midterm promises stand — including those $5k checks",
+     "brief": "President Donald Trump dangled the promise of $5,000 checks to every American adult before the midterm elections, with a key stipulation: Republicans had to win.",
+     "link": "https://www.cnn.com/2026/11/06/politics/trump-5000-checks-midterm-promises",
+     "published": "2026-11-06T19:42:33.247Z"
     },
     {
      "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
      "brief": "Investigators are still searching for a motive after a US Postal Service employee was charged with attempted murder in the shooting of two of her coworkers Thursday at a large post office near downtown Des Moines,…",
      "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
-     "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
-     "link": "https://www.cnn.com/2026/11/05/us/carprice-williams-foster-mother-murder-charge",
      "published": "2026-11-05T12:00:00.000Z"
     }
    ]
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Rubio to travel to Paris to meet G7 foreign ministers next week",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNld1QmdHdGNsTHpWTVduRTRLSWhTYlZTeEhETENaNFp4ZV91X0p1UDkzSFJ4aDBmNU50UlU3THRNb0VJb3BsbTc1VVpoYWF5MWNJMjlvbDRkRWktNjZVemdlbE9QTVY0RkN0TEtHcXRMbXBsa0FhcFB3SnZwblREX0h3ZjNsY1djbmJ1Z3JaSXdGZ1F4UUlramJiM0tvVHREWHFjZGpwT3ZsdlhyR3k1VEFn?oc=5",
+     "published": "2026-11-06T19:15:00.000Z"
+    },
+    {
+     "title": "Trump promotes Stephen Miller to post of chief of staff",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV3RoaXhXNU5relVCa0s3bHdaZTVBUkd1a3ZtaWNBT1JSOElHbDhjMzRHZTl4d05BZ3JDVll5UEFmTDVGZ0h0cUdyQ2VpSWw1N1ZQNmdZSVNLRE9jcVhvcFE5Qk1tajlXSmJTeGpkVzNsVUtUNHlBMmljNmJlOWk5WWFCeWZrRTV0LXBaMWVYWWNYLWdyVGxTeUVhQ2pDMTMyQzZsNkRNMA?oc=5",
+     "published": "2026-11-06T19:07:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Zidane gives Pagis first France call-up",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdTF2N09xQ3FRSC1VbUdoazdaWTJFdktIbmZsODF6OTF5ejBacFZIWEVtSktSUGl3R0FpdnphNTlIOE82ZjRhQk1uaW5RM0o1blpSemZDNS1XWU9FZUdfNU45ZVFSN01fdmlLU2pkUVg4dWdwa3FSaWRJQXNTUFliZlZNbWxkcnBwQk9VdXpiNkdOTWtZYnR0VGpNNGRCMXk4?oc=5",
+     "published": "2026-11-06T18:55:00.000Z"
+    },
+    {
      "title": "New Zealanders vote in general election",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV3pmOWgza183SWZGUWNKbjF2Ym1pQ3M1X0dIN1pkOWhnYUNzaFNkYkJ4elZUdDBrZEpZbng3Z0ZkekRja0dWVDU2UC1BanRITzBXYXlWUV9zaFFORkkzZzhCUURFRUNVWDRXc2NSVG1pYnc4UEt3bWZxeUhLUzFQSXNEUUk1Qm1vWGtTOFk2WEF5dw?oc=5",
      "published": "2026-11-06T18:24:00.000Z"
+    },
+    {
+     "title": "Death toll from collapsed building in Kenya reaches 8",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ1ZyZ05QVXNlQU9xWHF3QmNocDAzTU5KdWdaeGtBZGhqV3hVZDlPQk1KY2VraGhjRVVzT2ZlYi1yRTdfdVhLMi04UmJBZXVWdWZscXQ0NXl2OEpwMmtRSjA0S3BoN25Sc041eFZWTTFIMm53dVNqMGdwR09MMzUwYXRsenVIXzZFRHIzWXk0d1NSM002aHdyS3pELS1WQmhHS1ZYdQ?oc=5",
+     "published": "2026-11-06T18:14:00.000Z"
     },
     {
      "title": "Over 400,000 German industrial workers join wage protests: union",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONlc0bkE5OTVGMlFudjJlLU4zYUdkUUJRemhNWGhDYkprdnd6YkFHejFJb09sWlVJbzRaSDdaOU9tUVJWSUNqbnhadjdoaVpkMXlOVVZ0c3lMU2h2YlFENlN0MWVIb2p1clFrV2JBeTZ0WWRSVURzYTRIaDc1cGl4NVlKcFhldDZ3bzVDUGtaR2M4WlBTV3FyYy1rQm9xOEtyWGdlbWxSQmJ1UU0yTDhabw?oc=5",
      "published": "2026-11-06T17:42:00.000Z"
-    },
-    {
-     "title": "Merz's party backs former minister Ilse Aigner for German president, media reports say",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUWxmM19EdmxHZEUtZWswVEswRTlVbllxM1pmemhuaVo4TkhpVXVvazFwUk5WeHdUdERkQ2d4SjliMlpoVEszcWxmbGx2MWctemY5aFY2b1VzNkJITnZVVXlfa2F2a2txbkE3aVhaQVkzemJOLWVhRGdvcy15TnNMSG04SDNyXzRERl9JTUpyLWNqN1JiczBfNXJKMkVlRmh3aXJ5ZkF6WEZVLU05dWtXaS1XTHBDLUJQQXRtU0hKY3FseHlfcXFfZXpHNGR2RTl5anc?oc=5",
-     "published": "2026-11-06T17:33:00.000Z"
-    },
-    {
-     "title": "Rwanda's economy maintains strong momentum in 2025/2026: central bank",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYWhucG1XUk14VFVSQl9EX1Q3b05mUm5CbHJ3aU54YVZLbmhZZTY4TE04M1BDS1pQUG92cUlmV25YbjJPUFpJTi02UzBFTUd0STVhYWs0bXRxX1BraXRPRGZZSWNSaWw1d3RmVEJMZDJ1NDJDbUJLYkllaWRoWHNpYlE4TFBjWnpSY2IxSllmSXg0YWtYY00wM19tQjREdnNIakk0dDk2Z01jUzYyWmpJSDZkSl9tUEtUaGc?oc=5",
-     "published": "2026-11-06T17:29:00.000Z"
-    },
-    {
-     "title": "German industrial output up in September as economists warn of fragile recovery",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeG9kZHVlalUxbGNENEZXYVN2WVE3VHVOT2YxaHdDNnA5NlhrTXVSZDAzUTcwZGlVSi1aSlVMMjFwbzR4MHVockR4cDZiWDB4SEFma29KZjBDbTBKdkYwV0pJSENjYld6WFQ0TDFxUHZQc1U2WVJlUTNYOXBwTld0WWtBd0NMb2FudXk5MGdRVmtVcFZLTXZmbHc2QUFUS0x6RVRnbGhadFlWdndoYVlUNHdFdTFDdm9rdGlFMTctM014SkxKa1Rz?oc=5",
-     "published": "2026-11-06T17:21:00.000Z"
-    },
-    {
-     "title": "Other Sports: Sailing-France's Dorange withdraws from Route du Rhum after collision damage",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVdsc3BxQWRMMm1xOUhFZ3g3eHN4Xzc3RlhDanZLZWRIM1VfMjUzaDFtVklIc3B1TGhZODdsaU9OLXNUdGF4dlJHMm8tTVdZaW11bzBpcG1vUkZZdklJU01jUk5FdUU0bGo4YXBXTWg0bFIxR3p2b0J4T3lLWE1CbEV6R2ZRMEdBNlRPanczTnVUWUF1RWM3WFg4RzhWT3F4YUVFMlBQaElTZWZWd2FDQnFJeWVEdHhjcV9zazFEVWF4akpOQ1NhRA?oc=5",
-     "published": "2026-11-06T16:32:00.000Z"
     }
    ]
   }
