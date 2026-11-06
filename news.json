@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-06T02:05:19.881Z",
+ "updated": "2026-11-06T02:53:18.968Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Florida carries out its 19th execution of year as 3 states administer the death penalty in a day",
+     "brief": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
+     "link": "https://www.cnn.com/2026/11/05/us/executions-indiana-florida-alabama",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
     {
      "title": "Asian markets follow US rout as AI investment jitters spread",
      "brief": "Stock markets in Asia plunged Friday, following a tech-led sell-off in the US on anticipation that newly elected Democratic officials could stymie an AI investment boom that’s driven global stocks to record highs.",
@@ -42,12 +48,6 @@
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "Meet the unexpected winners of this year’s midterms",
-     "brief": "While Democratic victories in marquee national contests took the spotlight this week, with the party securing at least 250 seats in the House and winning back the Senate, several candidates in down-ballot races…",
-     "link": "https://www.cnn.com/2026/11/05/politics/2026-midterms-surprise-winners-democrats",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
      "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
      "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
      "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Trump-backed World Liberty Financial launches WLFI token buyback program",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0I4ZVVxYUloaERHYzIzdWZvSzZYWTJMcHpLRFViNzlqU2xkbFBlLTZoc3l5bUlZeHhkeTJIMzRyek9XSTNpOGh4WWY0LWV0Skt4YW5Ia2d4MFVvVWllOXpUZHFIcnc0bk1SLU9WX1ZDaXFXLU5EamxGcGRpZ25wVWlxeVZiTGFEY3YtR25xMHlhR1p1VXRQMDRxQThaa0xDNkN3OG1zZG1YLUNUanlMVDZRNXp3QlJ1MjRpbzBVSVYwZU0?oc=5",
+     "published": "2026-11-06T02:44:00.000Z"
+    },
+    {
+     "title": "Sea otter dies at Mie Prefecture aquarium; only one left in Japan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcTBTUS1oV25kZ3dUZExsZG94YzNGZk9vV2lrN1Q3Zi1EZnl4Y1ZaNWtaSnhpQmxnaWxLNWJsLUNocWktQVRfd2lRRVY2TFFKejZkTm53NWpfWnZhWDNNQU9Va1Y1Snp3LW9OTTR3VWkwSXhyLUlwQWhFdHJWQlpQbUFVWUZYNUczQU1pTmxZUzd4c18ycnBqaS1hRGVvZEk5VFpyZl9JM0pSMm4xVktJZTlaZ2xmcThjeUxjVjA5TkVRdE9DU3c?oc=5",
+     "published": "2026-11-06T02:26:00.000Z"
+    },
+    {
+     "title": "Myanmar sets April 4, 2027, date for by-elections",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ1NtR1M3bW9kaGpMdXhGdGFuc1FoaVFXc01VVFY5amNwSTNoOE9yWlRWU1JQN2dmdG8yb0hQVEF6aHZBc0dBWXBDQ3NyYmFsUU5qY01PdXRyOFdKaDRXUmVNMUNBZGFlcExlam81RWVZUDYwelg1WlJpT0MxcU83TkVPLXZNRTVoa3kwX1FvR2FQZGV2WnVDRmFrVlVCanlpMFdHYllTMDFlamlSSEo0?oc=5",
+     "published": "2026-11-06T02:18:00.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wWlFiY1A4YjlIeVl5a1JqQ2pxaWRudjhLejNrSEpyZ3pXWjlma3ItRDEzNlMzRUhnZVdiYmR4MUxXUDktanliWEhyVmpFWDJ2Z2dmZFN1dmNaLVVGYUFMZ2QyMEQ4MncyTmUxWDlfZw?oc=5",
+     "published": "2026-11-06T02:14:46.000Z"
+    },
+    {
      "title": "Got the shin splints?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlNRUHZsbkZudjdZTW00UTI1SXI2ZF9kb2dIX1FUdENMQmp6cnZQakVFbkFEeTV3eUowcHlOQ3o3Ul9ueVQyUXNiTWtaamg4UWlCRGNCUXpvUzE4NUZ2aGxJbU1YM3ktWmFYR1NreU5SQnRrRmlKdUNZQ3JUVWNhNXp2OFBpTHctaUk0?oc=5",
      "published": "2026-11-06T02:00:00.000Z"
     },
     {
-     "title": "Exclusive-AI backlash could threaten Anthropic IPO timing, potential investors say",
+     "title": "Thunderstorm warning in five states until noon",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON29jMnNQNU9vejdhNnhHd1VSQUUyd1JfRTd2UXQweGlBQzlkZmNQVGZHUVROV0oyWldoQkRyYVRUU1lmWkc3NExLZ0VMNEsxb3pqWXhUZ1FZelllalM0X1R6U3g1REoyeGVJM0lYOUJzcVJCTE12OEQ5cVdyM21qTC00V2YtYm9BclVTdWI4aUpKRWFXV29xRjBBSElYdkxhZmxpdlUwSXpEZlZQR0FDWkxBMTFJNExuN0pFQjluc1VQUDFmbzhJTU04aGVDY2M?oc=5",
-     "published": "2026-11-06T00:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLTQ4V3NkNm1SQjZiaWVOcTRWekZseVpyVlhsTFJES0o2bzRId3NEVXk5TTUzN2pWaTN2b2ZleGRfdjd4ZEg5MWhIM3NaUDAtTFNOdDM2TmYwVVpKYzVvNFMteEJJNkNQdVZBX2xvSmhUd3I1Z1Frb3BrWWlFd0JJMm5mVjY4bi1qNHJ4cm5UWTlrSGludU9PX25SU3A?oc=5",
+     "published": "2026-11-06T01:39:00.000Z"
     },
     {
-     "title": "Military mission underway to help keep Hormuz open",
+     "title": "Sabah’s sustainable forestry plan lays roots for the future",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
-     "published": "2026-11-06T00:39:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaTNhVkhsZmdoUTBwWmNFa2RsR2I4Z2pBdEJvNzQ5ZlN1aHpudlZRbHlNMWlEckl5dGxsLU8wcGp2b2ctdEVtT2MwM0RPTjdVRmpnamlDWGFqZVozMmZ1endtdHVPdDJCM29zSmxXb2RXcVJEWFdFR0ROcGtkSkNmMkpvQnloU0NHQ2FOOHU3WS1uT0VLWFR6RG0tSnVFWFVlQkg5dHZUeFB5bXNu?oc=5",
+     "published": "2026-11-06T00:55:40.000Z"
     },
     {
-     "title": "US$1.5bil energy storage expansion plan launched",
+     "title": "Opposition seeks more details of CSA signed on Oct 31",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEZTZmFUWmx4VmsyUEtTbHNTb2VKVTUyMjZUSTVoVmNxM1NyUDN5SDZBZTdaNXNyMnNadGxZYVFJZkJyV3hhNzB2bXJPRllRR2VydWtsMzNBZll5azhMWE94ZEUxQlNQLUJ2QTNBbzVQRldTVDZreHJRbUhfRU5TN29OVTgyLXpRT3JxcVZ4a3E3ZkczVmJ0VzE1MA?oc=5",
-     "published": "2026-11-06T00:39:05.000Z"
-    },
-    {
-     "title": "Critical textbook banned",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTjRRVDZmcmtLOW1JeGVpSG43dTNUOUZfeWczQVRwejctcEF2U2dqNWtiUkRBSnR2bTdjMnpGTGNqUlUtOXNRTEY2M0tOZEVkY2lGSndSRWZlTndsaEpoY0FaZndQZXk2QTN3VWFSdVBLQURNU1JUY3MzRTFaUQ?oc=5",
-     "published": "2026-11-06T00:37:05.000Z"
-    },
-    {
-     "title": "Fossilised teeth used to identify prehistoric ‘giant rat’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVJSVzcwWmRJQzBGdE9wNElpcXZRdFlTREpRdFdHNWRiczVaOHhVRndoSEZ5ZzJxZUxwczJ0M0xIM2JpYkl5c1NiUzdENHVXZWFObF9hZ1BYUUoyUS12NGl2U2x5ejNkallUTFZ6RE5XV1Foa3o1NVpjX2t1RkowVE9XekRlQjkzeGJYVlV1WGg1YzFTUGVaZEUzMUlnODdFem1pc0gxaw?oc=5",
-     "published": "2026-11-06T00:37:05.000Z"
-    },
-    {
-     "title": "QuickCheck: Is it bad to lie down straight after eating?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjJHYkI2VVROcXhrSVBDUlJmc3QtU1dDc1N4TXd6YXRhcEUyR1NORHJHb1ltOW0tN3lEOG1VV1RqQjUzRFU3bVFjMDkzWUFDQVJBamI5UGE5dEJ2Rm94Umd3Vzk0enZLVS1oNW9BRmxMTnNKek15MXBVZmN6VW4zZkF6dmZVclVxTFVpTFNiaVNUMUFEQjVUZENqS2JhUWotS25XdVZ4MDJlVFFhWFE?oc=5",
-     "published": "2026-11-06T00:33:00.000Z"
-    },
-    {
-     "title": "EU told to ‘mind your own business’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHJuT1lQZFVPV2FfNWhFSDJFSW5IRzh6QW9IcVhJam9DM01NTWdxTnU0WnphSmpBVWU2dkJsaFR0bHIxLVNfWlRTSGlRdDEyemZLb0VFYmVlTjlSSU13Tl9ZR3h1UEhOREdhZXN2Yk9xX01wcmJpaS1keGpBbEItUlNXSGdjTktSNzQxRnB3ZzNhMmRmUXZUQUlHVTA?oc=5",
-     "published": "2026-11-06T00:26:50.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelJ2VWVSSURXSEw3dUNxemliSlIteWtxNTFqeE5Od3V5M1BCY195V3QtMklMdDVBZm5kNWY5NGk5bkRReEh3TXcwcDJrVWNIRlgxRUdkZTJwREJtVmt2N2hwVkwyQkJmNENUZi1jOE9rbXRwSm5FSlBPQWRYM3pBam1NZkJubWVzb3duQTdrek1jVVdRcFlTb256WDZleGRpMHdhMw?oc=5",
+     "published": "2026-11-06T00:54:06.000Z"
     }
    ]
   }
