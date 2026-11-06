@@ -1,13 +1,19 @@
 {
- "updated": "2026-11-06T04:53:46.757Z",
+ "updated": "2026-11-06T05:54:45.380Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Trump’s 250-foot arch gets final approval to begin construction two days after president’s election drubbing",
-     "brief": "A final vote approving President Donald Trump’s proposed triumphal arch passed late Thursday after a marathon public hearing of citizens voicing fierce opposition to the president’s pet project.",
+     "title": "Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames",
+     "brief": "In seeking to fend off impeachment, Defense Secretary Pete Hegseth may have strengthened his critics’ case for it.",
+     "link": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms",
+     "published": "2026-11-06T05:53:45.698Z"
+    },
+    {
+     "title": "Judge blocks construction of Trump’s arch within an hour of its final approval",
+     "brief": "A federal judge has blocked construction of President Donald Trump’s arch for 14 days after a final vote approving the structure passed late Thursday despite fierce opposition from citizens who voiced concern during…",
      "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
      "published": "2026-11-05T12:00:00.000Z"
     },
@@ -42,12 +48,6 @@
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
-     "brief": "A US Postal Service employee has been charged with attempted murder after police say she shot two of her coworkers at a large post office near downtown Des Moines, Iowa, on Thursday morning, and investigators are…",
-     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
      "title": "Republicans quickly turn against Pete Hegseth after midterms rout",
      "brief": "President Donald Trump may have made the decision to launch the war that tanked voters’ support for the GOP and dealt them a midterm shellacking.",
      "link": "https://www.cnn.com/2026/11/04/politics/pete-hegseth-impeachment-trump",
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "High Court issues order of house arrest for Najib after RM50mil fine settled",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdmRCc3dDR3dZYkVfeTJQemM4bFdyRjJGNUhuZEc1NTVJNmtPa2VRZ2stc0k2Sl94WmZTeURVei1EcjJOVWw0TjFtTE9DaFI0NHh5U0tRTGhjRUt5TXVQSktYSkpQTDQ0cEp2VmdwdjFZYm9EaVpEbkhRYm1ncGZ4eDYzNFAtazFFbnZ0QjNjYVJKN3ZUUGVROGp6Tkx3VmNuanVsS2UxUm9oa3BUVklrS21UTGdaa0J0bDFjR0ZrbnU5RHBv?oc=5",
+     "published": "2026-11-06T05:46:00.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GU2dMdEFTZWU5ZXYwQ2hxWEpXWE9XYUFhWWduQzVpb2s1RG5tbG1yN0JvazMtaDluZUZiNlFOTC1ZZmJQNDRjQm8yTGsyVFdrNWpLdVpqZVlka0p1R0gxTmt1Y3BmajhTbkI2TVB5dGxmSl81?oc=5",
+     "published": "2026-11-06T05:33:09.000Z"
+    },
+    {
+     "title": "Cricket-Australia turn to Hussey ahead of Ashes after batting slump",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQN1RiSEFna0UzMlhNMjB1Q3VOSnRLUUlCbGoySWNKaHV4TXFZUWh0SU01cDVLaV8zMDgxUUh2eFByMDlrZmhrSWFpcmpGRkgwclNyOGIwc0t4V21XdFA5NXpOaEtZbFJaZURibktVc0ZDNG04cEV6bTgyMm9XZkNNVm1MbE5FQ1ZkLUVIREcxZnNCMEZOLUQtUm9hNWNUMjhNVEM3al9YUlFVcE1DblpDX2xkOFhaczJzcHhz?oc=5",
+     "published": "2026-11-06T05:30:00.000Z"
+    },
+    {
+     "title": "Police presence heavy outside Najib's residence amid talk of RM50mil fine payment",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObFlrM1NsckdlOFRtUXFQLWp6aTdpcHZ5SUFQOXZTQW8yRW1KaWVXLTI4aTFENkRSR2hGa3duY3VYQzI1azN0amdxQWd1NFB5ZU94WWxWelotek0wNXRkdnEzR1RiWE9kM24wMlhpSm1nSDFLRGY0THJjSkF0NHIwZFFQQnNJdTZXWU81OUtBQ0xjbXdybnlEVG11UDBKTlBnd1cybERlZnlicW8zV3haejR6MDFobXprUEx5aExiZVJZTmZIVkVwUUVranhYdw?oc=5",
+     "published": "2026-11-06T04:59:00.000Z"
+    },
+    {
+     "title": "QuickCheck: Is Tabung Haji advertising job vacancies on social media?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWZnMUNjOU1wNmd3dVJjWjd5RjNySEp1VGdLdUJ4bDAtQmVPTnYyQ0JWc0V4V2RYTThza20yeDdkVkMtdE0tZUNkTUI1eGJveDBTcWJoSFNpdDNMRzdqOFc4RUdmUWNhd0FQVGc0QmdkQVlGYWZvTnlQa1NLYUFpa2FkUmVRaW5QRmdCQ3hlUHFEckdnSkR4TG1VbmxKX1BfNl9PeVJnZERsdk9SRE1zckt4R3NKR1Znb25mdHdaMA?oc=5",
+     "published": "2026-11-06T04:37:00.000Z"
+    },
     {
      "title": "Cricket-Australian batter Lynn completes ban after testing positive for cocaine",
      "brief": "",
@@ -72,40 +102,10 @@
      "published": "2026-11-06T04:03:00.000Z"
     },
     {
-     "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
+     "title": "Anwar, Rubio discuss stronger US-Malaysia economic ties",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzdoZHBvRHJTcVBuY0t2czk0bWc1XzkyRVdZTUN1aTlxaE05YUtPRGlRNWlQNEdmLWJTTHI4QUNyYlFzM24wMS1Kb0xkdThzVHhLckVORERZRnN4cTQxWm1INV9VRmdOWDk4WklXOGtNMEtwUkhqZGk2NzVBZ2dFa2NMRDZSQWMyUGdKUlRoNVNfc1k1UVZFSUlpcW1rbUV6V1ZiZmpvWW1BVmZja09BVGU2SFJtU3JfWGc?oc=5",
-     "published": "2026-11-06T03:25:00.000Z"
-    },
-    {
-     "title": "Trump-backed World Liberty Financial launches WLFI token buyback program",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOR0I4ZVVxYUloaERHYzIzdWZvSzZYWTJMcHpLRFViNzlqU2xkbFBlLTZoc3l5bUlZeHhkeTJIMzRyek9XSTNpOGh4WWY0LWV0Skt4YW5Ia2d4MFVvVWllOXpUZHFIcnc0bk1SLU9WX1ZDaXFXLU5EamxGcGRpZ25wVWlxeVZiTGFEY3YtR25xMHlhR1p1VXRQMDRxQThaa0xDNkN3OG1zZG1YLUNUanlMVDZRNXp3QlJ1MjRpbzBVSVYwZU0?oc=5",
-     "published": "2026-11-06T02:44:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wWlFiY1A4YjlIeVl5a1JqQ2pxaWRudjhLejNrSEpyZ3pXWjlma3ItRDEzNlMzRUhnZVdiYmR4MUxXUDktanliWEhyVmpFWDJ2Z2dmZFN1dmNaLVVGYUFMZ2QyMEQ4MncyTmUxWDlfZw?oc=5",
-     "published": "2026-11-06T02:14:46.000Z"
-    },
-    {
-     "title": "Got the shin splints?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlNRUHZsbkZudjdZTW00UTI1SXI2ZF9kb2dIX1FUdENMQmp6cnZQakVFbkFEeTV3eUowcHlOQ3o3Ul9ueVQyUXNiTWtaamg4UWlCRGNCUXpvUzE4NUZ2aGxJbU1YM3ktWmFYR1NreU5SQnRrRmlKdUNZQ3JUVWNhNXp2OFBpTHctaUk0?oc=5",
-     "published": "2026-11-06T02:00:00.000Z"
-    },
-    {
-     "title": "US$1.5bil energy storage expansion plan launched",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEZTZmFUWmx4VmsyUEtTbHNTb2VKVTUyMjZUSTVoVmNxM1NyUDN5SDZBZTdaNXNyMnNadGxZYVFJZkJyV3hhNzB2bXJPRllRR2VydWtsMzNBZll5azhMWE94ZEUxQlNQLUJ2QTNBbzVQRldTVDZreHJRbUhfRU5TN29OVTgyLXpRT3JxcVZ4a3E3ZkczVmJ0VzE1MA?oc=5",
-     "published": "2026-11-06T00:39:05.000Z"
-    },
-    {
-     "title": "Military mission underway to help keep Hormuz open",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
-     "published": "2026-11-06T00:39:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQblU3WkZDdWRGVEMzWHBzRWlGTGgxU05abEZQckd1X005MHVDYVRDbjk0NFNfU0NVZEdTdWlUVnpiTGRoRmVtS0c5VjBKZGhHRjhmVHhHbV83VmszdHhlX3RnTHVneFZ0VFdOQzlnQ2R6WWp1MUVBTE1Fb3BfMnkxaTFNa3k2Y0l6a0JHS3JWbXFWVHVmZl9tdW1lV1ZUbWI3RkNCQjVDUQ?oc=5",
+     "published": "2026-11-06T03:34:00.000Z"
     }
    ]
   }
