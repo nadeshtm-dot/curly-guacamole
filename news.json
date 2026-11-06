@@ -1,10 +1,40 @@
 {
- "updated": "2026-11-06T00:56:53.463Z",
+ "updated": "2026-11-06T02:05:19.881Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Asian markets follow US rout as AI investment jitters spread",
+     "brief": "Stock markets in Asia plunged Friday, following a tech-led sell-off in the US on anticipation that newly elected Democratic officials could stymie an AI investment boom that’s driven global stocks to record highs.",
+     "link": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "‘Catastrophic’ flooding sets off 100+ rescues, inundates homes and businesses in North Georgia and southern Tennessee",
+     "brief": "Historic flooding inundated homes and businesses in North Georgia and southern Tennessee, leading to dozens of water rescues and evacuations.",
+     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
+     "brief": "A US Postal Service employee has been charged with attempted murder after police say she shot two of her coworkers at a large post office near downtown Des Moines, Iowa, on Thursday morning, and investigators are…",
+     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Head of Japanese Football Association to run against Gianni Infantino for FIFA presidency",
+     "brief": "Japan Football Association Honorary President Kozo Tashima announced on Thursday that he intended to run for the FIFA presidency in next March’s election, becoming the first Japanese candidate to seek world…",
+     "link": "https://www.cnn.com/2026/11/05/sport/soccer-fifa-kozo-tashima-infantino-intl-hnk",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
+     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
+     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
     {
      "title": "Surprise twist ricochets through Supreme Court case on AR-15 ban",
      "brief": "A blockbuster Supreme Court appeal challenging a ban on AR-15-style semi-automatic rifles may be thrown into disarray by a mysterious request to remove the lead plaintiff from the case, a puzzling twist that prompted…",
@@ -15,36 +45,6 @@
      "title": "Meet the unexpected winners of this year’s midterms",
      "brief": "While Democratic victories in marquee national contests took the spotlight this week, with the party securing at least 250 seats in the House and winning back the Senate, several candidates in down-ballot races…",
      "link": "https://www.cnn.com/2026/11/05/politics/2026-midterms-surprise-winners-democrats",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Alabama executes man for 1991 double murder in last of 3 executions carried out the same day in US",
-     "brief": "Florida carried out a record-tying 19th execution of the year in an unusual instance of three states administering the death penalty on the same day.",
-     "link": "https://www.cnn.com/2026/11/05/us/executions-indiana-florida-alabama",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
-     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
-     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "The Great Pacific Garbage Patch may now have so much plastic, it’s changing the color of the ocean",
-     "brief": "Far out in the Pacific Ocean, between Hawaii and California, a wide patch of water has been changing color over the past two decades, becoming significantly bluer and greener.",
-     "link": "https://www.cnn.com/2026/11/05/climate/great-pacific-garbage-patch-changing-color-microplastics-pollution",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
-     "brief": "A US Postal Service employee has been charged with attempted murder after police say she shot two of her coworkers at a large post office near downtown Des Moines, Iowa, on Thursday morning, and investigators are…",
-     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Wisconsin infant is US’ third measles-related death this week",
-     "brief": "An infant in Wisconsin has died in connection with an large, ongoing measles outbreak, the state health department said Thursday.",
-     "link": "https://www.cnn.com/2026/11/05/health/measles-death-wisconsin-infant",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Got the shin splints?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTlNRUHZsbkZudjdZTW00UTI1SXI2ZF9kb2dIX1FUdENMQmp6cnZQakVFbkFEeTV3eUowcHlOQ3o3Ul9ueVQyUXNiTWtaamg4UWlCRGNCUXpvUzE4NUZ2aGxJbU1YM3ktWmFYR1NreU5SQnRrRmlKdUNZQ3JUVWNhNXp2OFBpTHctaUk0?oc=5",
+     "published": "2026-11-06T02:00:00.000Z"
+    },
+    {
      "title": "Exclusive-AI backlash could threaten Anthropic IPO timing, potential investors say",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON29jMnNQNU9vejdhNnhHd1VSQUUyd1JfRTd2UXQweGlBQzlkZmNQVGZHUVROV0oyWldoQkRyYVRUU1lmWkc3NExLZ0VMNEsxb3pqWXhUZ1FZelllalM0X1R6U3g1REoyeGVJM0lYOUJzcVJCTE12OEQ5cVdyM21qTC00V2YtYm9BclVTdWI4aUpKRWFXV29xRjBBSElYdkxhZmxpdlUwSXpEZlZQR0FDWkxBMTFJNExuN0pFQjluc1VQUDFmbzhJTU04aGVDY2M?oc=5",
      "published": "2026-11-06T00:42:00.000Z"
+    },
+    {
+     "title": "Military mission underway to help keep Hormuz open",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
+     "published": "2026-11-06T00:39:05.000Z"
+    },
+    {
+     "title": "US$1.5bil energy storage expansion plan launched",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEZTZmFUWmx4VmsyUEtTbHNTb2VKVTUyMjZUSTVoVmNxM1NyUDN5SDZBZTdaNXNyMnNadGxZYVFJZkJyV3hhNzB2bXJPRllRR2VydWtsMzNBZll5azhMWE94ZEUxQlNQLUJ2QTNBbzVQRldTVDZreHJRbUhfRU5TN29OVTgyLXpRT3JxcVZ4a3E3ZkczVmJ0VzE1MA?oc=5",
+     "published": "2026-11-06T00:39:05.000Z"
+    },
+    {
+     "title": "Critical textbook banned",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTjRRVDZmcmtLOW1JeGVpSG43dTNUOUZfeWczQVRwejctcEF2U2dqNWtiUkRBSnR2bTdjMnpGTGNqUlUtOXNRTEY2M0tOZEVkY2lGSndSRWZlTndsaEpoY0FaZndQZXk2QTN3VWFSdVBLQURNU1JUY3MzRTFaUQ?oc=5",
+     "published": "2026-11-06T00:37:05.000Z"
     },
     {
      "title": "Fossilised teeth used to identify prehistoric ‘giant rat’",
@@ -72,40 +96,16 @@
      "published": "2026-11-06T00:37:05.000Z"
     },
     {
-     "title": "Military mission underway to help keep Hormuz open",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
-     "published": "2026-11-06T00:33:45.000Z"
-    },
-    {
-     "title": "Critical textbook banned",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTjRRVDZmcmtLOW1JeGVpSG43dTNUOUZfeWczQVRwejctcEF2U2dqNWtiUkRBSnR2bTdjMnpGTGNqUlUtOXNRTEY2M0tOZEVkY2lGSndSRWZlTndsaEpoY0FaZndQZXk2QTN3VWFSdVBLQURNU1JUY3MzRTFaUQ?oc=5",
-     "published": "2026-11-06T00:33:45.000Z"
-    },
-    {
      "title": "QuickCheck: Is it bad to lie down straight after eating?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjJHYkI2VVROcXhrSVBDUlJmc3QtU1dDc1N4TXd6YXRhcEUyR1NORHJHb1ltOW0tN3lEOG1VV1RqQjUzRFU3bVFjMDkzWUFDQVJBamI5UGE5dEJ2Rm94Umd3Vzk0enZLVS1oNW9BRmxMTnNKek15MXBVZmN6VW4zZkF6dmZVclVxTFVpTFNiaVNUMUFEQjVUZENqS2JhUWotS25XdVZ4MDJlVFFhWFE?oc=5",
      "published": "2026-11-06T00:33:00.000Z"
     },
     {
-     "title": "US$1.5bil energy storage expansion plan launched",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcEZTZmFUWmx4VmsyUEtTbHNTb2VKVTUyMjZUSTVoVmNxM1NyUDN5SDZBZTdaNXNyMnNadGxZYVFJZkJyV3hhNzB2bXJPRllRR2VydWtsMzNBZll5azhMWE94ZEUxQlNQLUJ2QTNBbzVQRldTVDZreHJRbUhfRU5TN29OVTgyLXpRT3JxcVZ4a3E3ZkczVmJ0VzE1MA?oc=5",
-     "published": "2026-11-06T00:25:35.000Z"
-    },
-    {
      "title": "EU told to ‘mind your own business’",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRHJuT1lQZFVPV2FfNWhFSDJFSW5IRzh6QW9IcVhJam9DM01NTWdxTnU0WnphSmpBVWU2dkJsaFR0bHIxLVNfWlRTSGlRdDEyemZLb0VFYmVlTjlSSU13Tl9ZR3h1UEhOREdhZXN2Yk9xX01wcmJpaS1keGpBbEItUlNXSGdjTktSNzQxRnB3ZzNhMmRmUXZUQUlHVTA?oc=5",
-     "published": "2026-11-06T00:22:30.000Z"
-    },
-    {
-     "title": "Activist sentenced to 10 more years behind bars",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeEFpZHh3cTFDcTBMYXhFVE5LTUtWUE9yN1VZWEVHM0pvdVk2LU1oUGVockRZQlM4TllxXzNWOTNPM0U4dFc5X3MybURPeXAwcEFabld1NC1xZUpndFBCbkdoNnlpN2JaVk5vSXNYY0tFdF9OWG13RlJfajM0eWYwaUhJY0xoLTd5Z0FDUkg4Wk1Ub3hMLUlDUmRJTDU4alJTOUZ2THRGbDdMaEU0WTZz?oc=5",
-     "published": "2026-11-06T00:21:39.000Z"
+     "published": "2026-11-06T00:26:50.000Z"
     }
    ]
   }
