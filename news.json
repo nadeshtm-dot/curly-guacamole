@@ -1,56 +1,50 @@
 {
- "updated": "2026-11-06T09:57:20.329Z",
+ "updated": "2026-11-06T10:57:01.833Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Pope Leo’s Latin America trip will take him above 11,000 feet, weeks after lung cancer surgery",
+     "brief": "Just over three weeks ago, the most significant visit of Pope Leo’s pontificate looked to be in doubt.",
+     "link": "https://www.cnn.com/2026/11/06/americas/pope-leo-lung-cancer-latin-america-trip-intl",
+     "published": "2026-11-06T10:52:02.207Z"
+    },
+    {
+     "title": "What sparked Wall Street’s crazy sell-off?",
+     "brief": "A stunning $2.5 trillion was wiped off the value of the tech-heavy Nasdaq on Thursday as investors rushed to dump tech stocks, rattled by fears that Democrats’ midterm victories could slow the AI buildout.",
+     "link": "https://www.cnn.com/2026/11/06/investing/tech-selloff-explainer",
+     "published": "2026-11-06T10:51:02.212Z"
+    },
+    {
      "title": "The fight is growing over ballot counting in Mississippi’s tight Senate race",
      "brief": "National party operatives, lawyers, grassroots activists and content creators are descending on Mississippi to observe the vetting of thousands of provisional ballots in the coming days and to gear up for possible…",
      "link": "https://www.cnn.com/2026/11/06/politics/mississippi-senate-vote-count-results-scott-colom-cindy-hyde-smith",
-     "published": "2026-11-06T09:57:20.509Z"
+     "published": "2026-11-06T10:50:02.200Z"
     },
     {
-     "title": "Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames",
-     "brief": "In seeking to fend off impeachment, Defense Secretary Pete Hegseth may have strengthened his critics’ case for it.",
-     "link": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms",
-     "published": "2026-11-06T09:52:20.561Z"
+     "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
+     "brief": "A US Postal Service employee has been charged with attempted murder after police say she shot two of her coworkers at a large post office near downtown Des Moines, Iowa, on Thursday morning, and investigators are…",
+     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
+     "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "Asian markets follow US rout as AI investment jitters spread in wake of Democrat blue wave",
-     "brief": "Stock markets in Asia plunged Friday, following a tech-led sell-off in the US on anticipation that newly elected Democratic officials could stymie an AI investment boom that’s driven global stocks to record highs.",
+     "title": "Bomb threats have disrupted more than 20 flights across Europe this week. Here’s what we know",
+     "brief": "European air traffic was affected by a third day of hoax bomb threats Friday, which have disrupted more than 20 flights across the continent and in some cases forced countries to scramble fighter jets.",
+     "link": "https://www.cnn.com/2026/11/05/europe/europe-bomb-threat-intl",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Global stocks reel after $2.5 trillion wiped off US markets over AI fears",
+     "brief": "A tech-driven market selloff rippled across global markets Friday, sending Asian and European stocks falling amid ongoing worries that a Democrat-controlled Congress could stymie the AI investment boom.",
      "link": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
-     "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
-     "link": "https://www.cnn.com/2026/11/05/us/caprice-williams-foster-mother-murder-charge",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Actor and comedian Russell Brand found guilty of rape and sexual assault",
-     "brief": "British actor, comedian and media personality Russell Brand faces a lengthy prison sentence after he was found guilty in a London court on Thursday of raping a young fan and sexually assaulting three women.",
-     "link": "https://www.cnn.com/2026/11/05/uk/russell-brand-trial-verdict-uk-intl",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Judge blocks construction of Trump’s arch within an hour of its final approval",
-     "brief": "A federal judge has blocked construction of President Donald Trump’s arch for 14 days after a final vote approving the structure passed late Thursday despite fierce opposition from citizens who voiced concern during…",
-     "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
      "title": "‘Catastrophic’ flooding sets off 100+ rescues, inundates homes and businesses in North Georgia and southern Tennessee",
      "brief": "More than 100 people had to be rescued as historic flooding overwhelmed homes and businesses in two mountain communities on the Georgia-Tennessee border Thursday, after overnight downpours swelled their shared river…",
      "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Japan’s former soccer chief aims to run against Gianni Infantino for FIFA presidency",
-     "brief": "Japan Football Association Honorary President Kozo Tashima announced on Thursday that he intended to run for the FIFA presidency in next March’s election, becoming the first Japanese candidate to seek world…",
-     "link": "https://www.cnn.com/2026/11/05/sport/soccer-fifa-kozo-tashima-infantino-intl-hnk",
      "published": "2026-11-05T12:00:00.000Z"
     }
    ]
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "India's Coforge joins SpaceX partner network to deploy Grok AI tools for enterprises",
+     "title": "Danish police investigate renewed threats at Copenhagen airport",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMFZDMEJMV1F1QVgwcFphWXFIX244ZlFOQjNyNzFxSm9QdzFZNlIxaDN5eDhLMjhET2ExcFFaYllSaFdRSjlfcTJISk42N1hsWG1GbzJJNEYzNVV2cHF6akhLa2RXRk1rZFlhUTQ5bXRtZnVsamZQRnUxQ3lpN0tPWkxiQldDdmpiSlM5TGI1YzcxbTZwWHlSem4tc084NC1HVl93UzRFS0tYeXFDTi1UUkdTQWpQTUMyYWxkT2FEME90TG9rS0tRYmxVdzNneU02T09sdk5n?oc=5",
-     "published": "2026-11-06T08:03:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGFFYks5WV9jN0dQN0hwdmJNdmdfSXFsSW4zZGZSc1VjNzNHR3lsdndnaUwtTFV6czl6c0dQNjR3eXBOZmZaT1c3YUtuR2xKUDRDWTNOd1ZfMkIzUUpEaGd1UFlNNW11X0xKVlBqVjZueUFDUFNTcVhGX09oZ3NENzF6MHpIenI3MjF6UFhSb3djQUtfSER1VGdwQmhja3Fka1lVYXhVZkJMS01ocWd3YzZn?oc=5",
+     "published": "2026-11-06T10:44:00.000Z"
     },
     {
-     "title": "QuickCheck: Did a woman die after being electrocuted by a massage chair at a Kajang mall?",
+     "title": "Offices of Irish media groups evacuated due to bomb threats, one deemed a hoax",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSnJZaFB3bThfYWI4b0tldnZlOVF3SmMxbUtmYk5vbzNjOGNFYnlTT1Y2TFRWSVg5SjRsbXBpaHpkeHlITFdibE9ZU3hFcVU1emZnRl9JWHJ0a0kwSElFajgxbFBEYUNKZWZ6TUVCYVcyam1ZVXZTU2JwWGtTLThoNnJXLWs0MkVNN1gwMWdOY0lmMlRncnJBd096cWdTZGdHUmFwa2w4UGxrWFpVQWJOeTlPVzN3YVhKcmxFS2hiNkVudXRfdDF3dzF5OE1rNGtPVVpXOTVsNUEwUQ?oc=5",
-     "published": "2026-11-06T07:46:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd2VwUDUyaXA5VFBpdXdxd1VfU0xZMG5wWXd2U2NFOGZDV2gyTWlleUZXc2dOUXpOVFZQNEVhRzdhUC1hRHczVHAyS0wyQjRQZHJrSEpKdm5oSEY0dm8xeG9ZakhreEpYcWE0U3ZCYk5pc19LV21KUFBLWmFaeGRhRVRHMUhUdUloZWZicjdqanZ1Z3JLS0xOVEVWMmtOUEZsR3FYNFo5MTl0Ul83aDNVQVk2eTYxXzl6Zm8xMmo5NWpBYzM2?oc=5",
+     "published": "2026-11-06T10:43:00.000Z"
     },
     {
-     "title": "Insurers settle 12 policies for Malaysians missing in Nepal flash floods",
+     "title": "Meta pauses planned terms updates, keeps existing rules in place",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEUwNTQxOHpqTjcxSVZpRGFISzhBVnFfZmEzQ2RWZzJndDh0dFFFbWlZVVU2Z1FfTm5wQk9xTS1PczBFY2ZoTFdUYVQteUJ3amFPVG1YTkdEQ2NnaUpmcWhiUlU5UEN6dUZaZlg3R3pMMUdnd3ZtUlFXeHRGTGZBSDFlcXEwQnQ4c29DbWFZTXZpVWZqWFZHd1dhSm44LTJoeFVVRGltcURwdkZSbC1yUElDVEhYaTBxOFVfSHo1UQ?oc=5",
-     "published": "2026-11-06T07:35:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa21pVk5kcDl6dzhBTmVlQTNDS1RBbzQwTW9pSFhaSTFZbHliY2V1TFA5NHcycDkzZEVoc3hsVUYzNm1pSHM0TnpVTlphRXNBLTYyMTc3ckp5djAzYTU0R1lxWkJBMjYxaW9saUhGZU1nRm5zVWxHbU1fX2ZMS2R5MFhWMWg5WmxrNGNUV3BnZkY2bENEVDh4ZGpMNDl0YlR6R01xb29tQkpKYVozRWp6YzNsVThBTzQ?oc=5",
+     "published": "2026-11-06T10:37:00.000Z"
     },
     {
-     "title": "Football: Soccer-Jordan's friendly with Indonesia cancelled over security fears",
+     "title": "Seremban Engineering unit inks cross-border supply deal worth RM18mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcUtfekFmdW00eWlwQ2hOdUp0d1RBcDByU0FFN2g2WHkwWUZldjhKazUxbU4zQjJ5S0tKelZkMk1GaXBlTzI4NjNaRkk5Ykk4U3Y5RE4xMGcwZXZFT0taeDJCRnFRZEZJYUdvUDNPWVpsLTduM3dtaUp2VzR1MFNvbzRkZjFjRzhJWHpfZ0FaX1dOa0FsR0FvZGNEdUhNeW9Lb1NmV3E2bHl4cWlndTl1UkFmbF9temZWQnVNbGVuV3J3QQ?oc=5",
-     "published": "2026-11-06T07:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZFBJYmR5NjlGV2V5a1k2ZEpPV2FoSUpIV1BIbmNqaHZKTDBSZ25pdGVpajdZQkFGdTVZZkhZeVpjc2Jwc3EzZ2VaMHYwR2tTZ20zYVdJWkFyR0ZJY2JGdXV1R0Y0NUJPaU85c2dLa1d5OVAwRUhEenNNcWNIOTMtVDBwM3E5ckhnXzN0ZzktejVrdU9UdFhrRlp5TkdtZC0xNkRkOHMzWW9yczNZT1g0MUx6N3hzaWZ1aW0xMnFTZkp1QzBBQUdiVjln?oc=5",
+     "published": "2026-11-06T10:15:00.000Z"
     },
     {
-     "title": "Najib leaves Kajang Prison",
+     "title": "Najib's house arrest on hold, says AGC",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX3IwNFNZSVBlRjY4SGhwanphWllaQ1Z5RV9nQ3FQVTFERUx5ZjJ1Z0ZjR2xVUV9rOXVRT2F6cW9KOWRsOUdHYmVDbzl6eEljcVpqOWNWR3VkVEZncGlhczBkTFJpZ1ZrTWhCRFJCNWNtSTR1alNjNWVndk5Ia1o5UDlR?oc=5",
-     "published": "2026-11-06T07:05:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVE5rejZwZ1Uzckx1M0ttRFdsUVFaR2pzd3Q0cE5TYkViTml4d2hvN3ExOVE4TXhMcGJYeDdCdkNBMjdja0tOUzZlaVdNb3hKaWtGZVpoUjV4UGF4NWdEZ1JWLWxtOE5wcGxQOTNZd1FEXzNaWXZZWXhVOE1jbVZUczY5SmhNaVpKTTJPa3NYX0pJQVE?oc=5",
+     "published": "2026-11-06T10:00:00.000Z"
     },
     {
-     "title": "South Africa's ANC on track for big drop in voter support in municipal vote",
+     "title": "Heart And Soul: A piece of heritage evokes fond memories of Deepavali",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSldjY0dIc0NNMERaZkh6bFZwUTNFcEYzaEhzZ0I3TWZjb1FuWDdmd3cwcmk1NFMza09WN2dQTWJpM0NNVEJUaXBzb0V1UURIdUNWV2V3RjN4UElNR2JUUFc3N2xXXzI4a2JlUk5FdDI4V1Zrcmp6dTFvSlFLeWtTOEZaaHVhWGV3NTVjVWU4Q3ZUeDFISm51c0tKWXFLZDlMWEpFYjUyNlNEc3cybi1qcy1KYkM4NFc5VTY5NWdzbXNEZExi?oc=5",
-     "published": "2026-11-06T06:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkRBaXU4NFBQVXZKZG84VjlMYjJldlNTc05obkQzalhjSms4MnFrMmZYYzZqTlItZmg2WWwwQ1BaTWF2WndLRkd6aFFtRm56MEFranBTOUthRVJWMW1FdndyemVsNXFBaktUcFY2WlFsbllRTGp0VUNHZGQ1T1pXQWQzX2t2QmptUFNoOWluQ3pKQmtOeHBwTDFzYUZhb1dMS3NFTzBZV0Njd25aTklWYXptcnhvRmdNbzJUcVdZV1Y?oc=5",
+     "published": "2026-11-06T10:00:00.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Badminton: Wei Chong-Kai Wun survive stern test in Yeosu",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rT3lOeWFXd2t5b3VNMWJ6dU9TQWdvQXV5Qk53dTBGOVNMLWVRelhud3JfUkd3Y284c2NmTTQtcUI3elZSUVZub2VGcVI4M3VUZTM1QnBjOUFYcnJadmw2d1hxSm05aXFHd2pkemIwUQ?oc=5",
-     "published": "2026-11-06T06:43:31.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjduNy02QmxGNEtJanl4SXpRRzQ0NDB2LUFsMDFScWNSWi1uaklIZkFnUVNBeUJIZWlFbkdpUDEzLWxhRE5sWjR4dEJhMlJYQ2NWWkg2akVRSnNjbndGSnExSk92WlFqd1o1WGVvLWE5MjhIX3RuczdHWkFlMnF2ejUxNTQ5czQ1NFlKLXFNV1FpSGRscXpkRFZKN1pOdm9o?oc=5",
+     "published": "2026-11-06T09:55:00.000Z"
     },
     {
-     "title": "Kremlin denies Russia role in fridge cyber attacks",
+     "title": "UPA proposes diversification into property development",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXFJSmZ3TldrcDRDWURqTEg4RXR5ZVljRnBsRmRXUlBMUWlCbWpyQ2N3dXNabWVvQ1ZXYm82NzY5NTFlTExVam1Wc29ubEswLVIxczJudlg4cDBZeHlNR0hrbk1FMHp0YUh6d3I3eEVJVEdOYjJWVFEtOE13LUlXSjlTQVM3bHNMLWw5RC1XeG9xTmJzX2NfaEFLMDVLdDdzUXlEOVNB?oc=5",
-     "published": "2026-11-06T06:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTVObzlHUElzN2cwdjRkY2E5YXNUcERmVWtWYWV5SUhBTGJ2NmwxdnlIQmd1cHNFeEdmeThmNjNSRU1JeFRTUkRTQmlXZ3NDYUhxeDduemlPMkoyZFgxbzJ4SmhIX3ZMU1JIYUxQbmhtUDNYclAxVkJ1dTV3UWRVeDdKRmF1OWsyZGNOeUhydXdKRzhEb2tCOHVDdGRteURKUUZObWRlM0luZHd1NU9qUHJQNHF0Zw?oc=5",
+     "published": "2026-11-06T09:41:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
