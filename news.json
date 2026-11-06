@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-06T22:36:56.234Z",
+ "updated": "2026-11-06T23:33:47.788Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy",
-     "brief": "US President Donald Trump has promised a new security deal for Ukraine that “might involve all of Europe” after meeting a top Russian envoy on Thursday, but the proposal offers few details and has left European…",
-     "link": "https://www.cnn.com/2026/11/06/politics/trump-ukraine-europe-deal-putin-envoy-intl",
-     "published": "2026-11-06T22:36:56.443Z"
+     "title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
+     "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses in a seismic staff shakeup at the White House.",
+     "link": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
+     "published": "2026-11-06T23:33:48.028Z"
     },
     {
      "title": "Cornell Faculty Senate approves no-confidence resolution over university’s handling of sexual assault crisis",
      "brief": "Cornell University’s Faculty Senate approved a resolution Friday expressing no confidence in the university’s central administration and in its president Michael Kotlikoff over the school’s handling of alleged sexual…",
      "link": "https://www.cnn.com/2026/11/06/us/cornell-no-confidence-vote-administration",
-     "published": "2026-11-06T22:35:56.473Z"
-    },
-    {
-     "title": "Pope Leo ‘proud to be an American’ and vote in US midterms",
-     "brief": "Pope Leo XIV has said he was proud to exercise his right to vote as an American in the recent US midterm elections .",
-     "link": "https://www.cnn.com/2026/11/06/americas/pope-leo-midterms-latam-intl",
-     "published": "2026-11-06T22:34:56.465Z"
-    },
-    {
-     "title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
-     "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses in a seismic staff shakeup at the White House.",
-     "link": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
-     "published": "2026-11-06T22:33:56.474Z"
+     "published": "2026-11-06T23:27:48.069Z"
     },
     {
      "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
      "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was placed on house arrest Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
      "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
-     "published": "2026-11-06T22:32:56.476Z"
+     "published": "2026-11-06T23:26:48.074Z"
     },
     {
-     "title": "Could the ‘blue tsunami’ jolt the US job market back to life?",
-     "brief": "The US labor market has been amazingly resilient in the face of a barrage of economic shocks.",
-     "link": "https://www.cnn.com/2026/11/06/economy/job-market-midterms",
-     "published": "2026-11-06T22:31:56.468Z"
-    },
-    {
-     "title": "AI stocks bounce back after $2.5 trillion wipeout, but questions remain",
-     "brief": "An AI-driven stock sell-off that wiped roughly $2.5 trillion in market value off Wall Street eased on Friday, but only after hitting Asian and European markets hard.",
-     "link": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+     "title": "Officials condemn planned Philadelphia boycott of Jewish-owned businesses as antisemitic",
+     "brief": "State and local leaders have strongly condemned a protest planned for this weekend in Philadelphia that targets Jewish-owned businesses, calling it antisemitic and unacceptable.",
+     "link": "https://www.cnn.com/2026/11/05/us/philadelphia-boycott-ride-jewish-businesses",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
      "title": "Philadelphia foster mother charged with murder in death of 10-year-old girl whose body was found in a trunk",
      "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
      "link": "https://www.cnn.com/2026/11/05/us/carprice-williams-foster-mother-murder-charge",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Paraguay president impeached following bank collapse scandal",
+     "brief": "Paraguay’s senate has voted to impeach President Santiago Peña, who is facing a criminal investigation following the collapse of a major bank he had business links to.",
+     "link": "https://www.cnn.com/2026/11/05/americas/president-paraguay-resigns-latam-intl",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Storm drenching East Coast after causing deadly, catastrophic flooding in Georgia and Tennessee",
+     "brief": "The first significant rainfall in weeks is falling along parts of the Northeast coast on Friday from the same storm that produced historic and catastrophic flooding on the Georgia and Tennessee border Wednesday into…",
+     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Postal worker charged with attempted murder after shooting 2 co-workers at Des Moines post office, police say",
+     "brief": "Investigators are still searching for a motive after a US Postal Service employee was charged with attempted murder in the shooting of two of her co-workers Thursday at a large post office near downtown Des Moines,…",
+     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
      "published": "2026-11-05T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Microsoft is winding down Oracle deal to rent AI cloud capacity, Bloomberg News reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPenZwaVE0VVFCMURhcGdVZDcyQXdpeGhIeGt3NVFpb1RKSnVnX1BSdTNFSHhZdXB0SXJsMVBTSjlhWTQxM25EQXRkLUpkX0xxR2Y0OS1pTTlTUTBoUDBaei03NTZKRGc5Nkd1RmY1eUY0OHZXdVhwWnFPcTNueFliV2pSVkJZTjVrcXRXZzItM0E2MVVZMWo4dlFpWTgtcTY4N0hyaW05OFItcFZRcU9vRVl5NTlPaXNBam5UalFkUUFXdW9nV0JNYUxuRUpEZWtRaU1zdjZR?oc=5",
+     "published": "2026-11-06T23:26:00.000Z"
+    },
+    {
+     "title": "Paraguay's Alliana sworn in as president after Peña impeachment",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVVZQOFl5SnN0RldqYVN2S01hTFkyaW9QS1ZNSHU3QU5OdWxDQzJ6b0NOU0hRWG92SlBiT0hYMzRmTXRJaXBtdEtJUWFBTjhoanRaa19kbmsyb0xOZFF4UVlIUkpvRFluMHdpbzZfcDh2TFp3U3JrTWU4YURZamZpZHR0TWV6ak01YmQ4NVVPd21ZLUxlZFpvM0VaYzVSWG5Xb1VncGZTQjlRdVRmbDQ5YktfVQ?oc=5",
+     "published": "2026-11-06T23:13:00.000Z"
+    },
+    {
+     "title": "Paraguay authorities order ex-president's arrest after impeachment",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxON1FnMl84VnJtZW8yVUhINHdDdFpEYUlQN1JyX1JVT2FpMWQ1N3ctaE9ESl9wN2t1d1pLeXhpSmZtcTRRRjBpbWNvU1pHc1RFM21STThDMGVORG9IQkxzangteUVQUm1jR2JkS1REWVlxcU9wOExyTEcyUlhMOG5odFFPSko5d3hxbGR1NVp1RF9hMEt6aGRHRW5kb1V3RzRQa2I5amZCTjQ5cEJPSHdvMzMwWkhXdmQx?oc=5",
+     "published": "2026-11-06T23:01:00.000Z"
+    },
     {
      "title": "US approves potential $1.08 billion Black Hawk helicopter sale to Mexico",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GZWZKTFF5aUk0X3RlZ1FvNk5rUXNGWXVFLThjdXZXQXFBWW0xY0thdEp3eElNUUN2VjNTUGVuM01Gam1ETGlGRkpGLXJNOXJlX0hSVWU0WTlPenAxV0tXaEJDTEx2OWZ0bEV2ajdhMGFDbjB5aEE?oc=5",
      "published": "2026-11-06T20:40:06.000Z"
-    },
-    {
-     "title": "Crude futures settle higher",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONnpmR3ZKSm1iVU84bmJ1c1Y4M1FnSjJKTXhpZkF2S0RpSlB6bk1HdkotbjdBOG1TLUZQdW1TTU9vTHV3SkZCOG1kRlE2ZEtpbHlqSW16Q2FiZll6NEt3cVFLQlB5aHdPRnZoWnBPTTRLRl9tSWlaT2Fndy1kRzRtWFpB?oc=5",
-     "published": "2026-11-06T20:23:00.000Z"
-    },
-    {
-     "title": "Nearly 30 pct of Canadians face household financial hardship",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc3UxZm1rbXdqNGhnNGdNNEUwWTliR2RSWklHWm1DQ25ldkhFbEV4V3NhSjRNUWdoRmZjY2JyMy16OFpHSUxRQVVPQy1oOTBSYUN6M2R6Vjl2TTRpVW02OHhBazR4YW05WmhVZm03c1NkUUVoOXVQQWJxQVFVV1FUY1lfNjFzbE9BUXFZUXk2eDMtQTVUc2RHOU5uUWh1QU9WUThnNnlXRUN1R2s2Nmc?oc=5",
-     "published": "2026-11-06T20:05:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xSmJuVEI3Rko1X0ZnSzJGaTYyMU9iZGkzVWZZNjhBODhGbWdnSlg2V0lmOVpmY2QwZU91cTBIQTdtaFlaWVBXTHdRY3ZkQ3RfS1UxUkNSdmxsTjM2eUxsRXlDS3BfZVdmZ29UaXJMcWozUXV2cHc?oc=5",
-     "published": "2026-11-06T20:02:00.000Z"
     }
    ]
   }
