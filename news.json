@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-06T21:37:02.198Z",
+ "updated": "2026-11-06T22:36:56.234Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy",
+     "brief": "US President Donald Trump has promised a new security deal for Ukraine that “might involve all of Europe” after meeting a top Russian envoy on Thursday, but the proposal offers few details and has left European…",
+     "link": "https://www.cnn.com/2026/11/06/politics/trump-ukraine-europe-deal-putin-envoy-intl",
+     "published": "2026-11-06T22:36:56.443Z"
+    },
+    {
      "title": "Cornell Faculty Senate approves no-confidence resolution over university’s handling of sexual assault crisis",
      "brief": "Cornell University’s Faculty Senate approved a resolution Friday expressing no confidence in the university’s central administration and in its president Michael Kotlikoff over the school’s handling of alleged sexual…",
      "link": "https://www.cnn.com/2026/11/06/us/cornell-no-confidence-vote-administration",
-     "published": "2026-11-06T21:37:02.429Z"
+     "published": "2026-11-06T22:35:56.473Z"
     },
     {
-     "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
-     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was placed on house arrest Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
-     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
-     "published": "2026-11-06T21:36:02.472Z"
-    },
-    {
-     "title": "Could the ‘blue tsunami’ jolt the US job market back to life?",
-     "brief": "The US labor market has been amazingly resilient in the face of a barrage of economic shocks.",
-     "link": "https://www.cnn.com/2026/11/06/economy/job-market-midterms",
-     "published": "2026-11-06T21:35:02.464Z"
+     "title": "Pope Leo ‘proud to be an American’ and vote in US midterms",
+     "brief": "Pope Leo XIV has said he was proud to exercise his right to vote as an American in the recent US midterm elections .",
+     "link": "https://www.cnn.com/2026/11/06/americas/pope-leo-midterms-latam-intl",
+     "published": "2026-11-06T22:34:56.465Z"
     },
     {
      "title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
      "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses in a seismic staff shakeup at the White House.",
      "link": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
-     "published": "2026-11-06T21:33:02.461Z"
+     "published": "2026-11-06T22:33:56.474Z"
     },
     {
-     "title": "Trump teases ‘big, beautiful’ European security deal after meeting Putin envoy",
-     "brief": "US President Donald Trump has promised a new security deal for Ukraine that “might involve all of Europe,” after meeting a top Russian envoy on Thursday – but the proposal has few details and left European capitals…",
-     "link": "https://www.cnn.com/2026/11/06/politics/trump-ukraine-europe-deal-putin-envoy-intl",
-     "published": "2026-11-06T21:32:02.421Z"
+     "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
+     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was placed on house arrest Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
+     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
+     "published": "2026-11-06T22:32:56.476Z"
+    },
+    {
+     "title": "Could the ‘blue tsunami’ jolt the US job market back to life?",
+     "brief": "The US labor market has been amazingly resilient in the face of a barrage of economic shocks.",
+     "link": "https://www.cnn.com/2026/11/06/economy/job-market-midterms",
+     "published": "2026-11-06T22:31:56.468Z"
     },
     {
      "title": "AI stocks bounce back after $2.5 trillion wipeout, but questions remain",
@@ -46,12 +52,6 @@
      "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
      "link": "https://www.cnn.com/2026/11/05/us/carprice-williams-foster-mother-murder-charge",
      "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Storm drenching East Coast after causing deadly, catastrophic flooding in Georgia and Tennessee",
-     "brief": "The first significant rainfall in weeks is falling along parts of the Northeast coast on Friday from the same storm that produced historic and catastrophic flooding on the Georgia and Tennessee border Wednesday into…",
-     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "US approves potential $1.08 billion Black Hawk helicopter sale to Mexico",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOENnUW55aG1TQUZ1a05XYzlJUnQ5dEF0aVRhMGt5TXNHWHIxbmxUcFN3N0UwUFVkQjlrQkhuSnNtcDlTVVFpZDFqREVEZFgwQWRjMzh5OHlGbW1kcnFIZ2FfSnl3eURMTkFnbE1Ha1FtbUU4S054RV9jOGpxTmJHSWhjNUdLa2J1M0RfVE0yZ1d5OUE2WTMwYWN0MnJsa1dzWXhBc0RhRjlKQ1gxaE5jdFMtd2NtdEFUVV9N?oc=5",
+     "published": "2026-11-06T21:33:00.000Z"
+    },
+    {
+     "title": "U.S. stocks close mixed",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JLThPMEpjR3EtNWUzRHNHZ1N3MnBuSW5PQXBneDlxd2hTd2M5TDdLZHBVbWhxQV96RUZJcjFGYkFrRFhQRUZNd0hCSm5GeE5TZDdnbFJDZHBmcTdQMGVMb0tybVVfNU9UUDFMRmJHUXVqZklDTUZ4TktB?oc=5",
+     "published": "2026-11-06T21:20:00.000Z"
+    },
     {
      "title": "Ecuador allocates over 200 million USD to tackle El Nino-related rains",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xSmJuVEI3Rko1X0ZnSzJGaTYyMU9iZGkzVWZZNjhBODhGbWdnSlg2V0lmOVpmY2QwZU91cTBIQTdtaFlaWVBXTHdRY3ZkQ3RfS1UxUkNSdmxsTjM2eUxsRXlDS3BfZVdmZ29UaXJMcWozUXV2cHc?oc=5",
      "published": "2026-11-06T20:02:00.000Z"
-    },
-    {
-     "title": "Spanish hospital to develop human digital twins to predict disease progression",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ2s4bHZmQTFzYVFpUXUyTXR0b2tzZERwUVI1NlI1M1Z5M3FzaE5TM3FfYkRkdW1FSE94YlhXclBPZXdINklBcVVFQWl0YzlYVF9hMFhPaDlWNVJSTTZpZlpFNXptRVEyaHJEXzJ4Nkg1UllVYXoxZDRUWUlManFzTHMyaC0tREVhbUgwQy1EYXFFQ0lpcy1ISDBWeDN3YWVSLU5mTzAtX29penp0amJLZVNiWS1BMG5aOElod0JDRFFDblRHalE?oc=5",
-     "published": "2026-11-06T19:55:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-Wolff says Russell must keep 'mentality of a fighter' despite frustrations",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPS21UM2Y1OHFYOUp0dlRDTWdFOUdQenltbnZPQW9KRDMxTGV2MmFkV2U0MGkxbllEZkFUX2RiQThTLUtLTEFRYkhqN0FDdVZJNG9PamFMVXV3bjdSLVhoRThEM3E2Q0JyXzJRVWhOZGZWMEpqV185cTFnSjlvZmVmQlJ0ZjhRbnVXenVuVFcwZTRpS0Zsd00yYWI3UmV3UXBocFR3eHNiWWptUXFDSE9veE9IQnUwS3R1aGg5YjdvVlRFSlJXLXU5Q2lOeG9hS0h3MEtWcDI3Tm1KZlctUnZR?oc=5",
-     "published": "2026-11-06T19:55:00.000Z"
     }
    ]
   }
