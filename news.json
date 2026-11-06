@@ -1,50 +1,56 @@
 {
- "updated": "2026-11-06T15:45:14.522Z",
+ "updated": "2026-11-06T16:48:15.754Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Thomas Markle, father of Meghan, arrested on charges related to child sexual abuse material, AP sources say",
-     "brief": "Thomas Markle , the father of Prince Harry’s wife Meghan , was arrested Friday morning by federal agents in Florida on charges related to child sexual abuse material, people familiar with the matter told The…",
+     "title": "Thomas Markle, father of Meghan, arrested after feds find sexually explicit photos of him with minors, DOJ says",
+     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was arrested Friday morning by federal agents in Florida on charges related to child sexual abuse material, the Department of Justice announced Friday.",
      "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
-     "published": "2026-11-06T15:45:14.735Z"
+     "published": "2026-11-06T16:47:16.057Z"
     },
     {
-     "title": "The US economy added 165,000 jobs in October and the unemployment rate fell",
-     "brief": "Job growth surpassed expectations in October, new data showed Friday, with the US economy adding 165,000 jobs.",
-     "link": "https://www.cnn.com/2026/11/06/economy/us-jobs-report-october",
-     "published": "2026-11-06T15:44:14.738Z"
-    },
-    {
-     "title": "US attorney overseeing Trump’s ‘grand conspiracy’ probe into foes resigns",
+     "title": "Three Justice Department officials, including man behind Trump’s ‘grand conspiracy’ probe, resign since brutal midterm losses",
      "brief": "Jason Reding Quiñones, the senior federal prosecutor who led a sprawling investigation into President Donald Trump’s political foes, has resigned from the Justice Department.",
      "link": "https://www.cnn.com/2026/11/06/politics/jason-reding-quinones-resigns-doj-grand-conspiracy-florida",
-     "published": "2026-11-06T15:43:14.730Z"
+     "published": "2026-11-06T16:45:16.026Z"
     },
     {
-     "title": "The fight is growing over ballot counting in Mississippi’s tight Senate race",
-     "brief": "National party operatives, lawyers, grassroots activists and content creators are descending on Mississippi to observe the vetting of thousands of provisional ballots in the coming days and to gear up for possible…",
-     "link": "https://www.cnn.com/2026/11/06/politics/mississippi-senate-vote-count-results-scott-colom-cindy-hyde-smith",
-     "published": "2026-11-06T15:42:14.715Z"
+     "title": "Jay Rockefeller, former West Virginia governor and US senator who was part of a dynasty, dies at 89",
+     "brief": "Jay Rockefeller, the last member of his family’s political dynasty — and the only Democrat — who served as West Virginia’s governor and later a longtime US senator, has died.",
+     "link": "https://www.cnn.com/2026/11/06/politics/jay-rockefeller-former-west-virginia-senator",
+     "published": "2026-11-06T16:44:16.041Z"
     },
     {
-     "title": "Kenyan cult leader sentenced to 200 years in prison over the deaths of 190 children",
-     "brief": "A Kenyan cult leader has been sentenced to 200 years in prison for the murder of 191 people , all but one of them children, in a campaign of abuse and forced fasting.",
-     "link": "https://www.cnn.com/2026/11/06/africa/kenyan-cult-leader-sentenced-intl",
-     "published": "2026-11-06T15:41:14.866Z"
+     "title": "Market turmoil saps enthusiasm for the buzziest IPO of the year",
+     "brief": "Anthropic couldn’t have picked a worse time to pull off the biggest IPO the world has ever seen.",
+     "link": "https://www.cnn.com/2026/11/06/investing/wall-street-mayhem-complicates-anthropics-already-complicated-ipo",
+     "published": "2026-11-06T16:43:16.035Z"
     },
     {
      "title": "Tesla set to wind down production of Cybertruck",
      "brief": "It looks like the end of the road for the Cybertruck.",
      "link": "https://www.cnn.com/2026/11/06/business/tesla-winding-down-production-of-cybertruck",
-     "published": "2026-11-06T15:38:14.741Z"
+     "published": "2026-11-06T16:42:16.045Z"
     },
     {
-     "title": "AI stocks set for rebound after $2.5 trillion wipe out",
-     "brief": "An AI-driven stock sell-off that wiped roughly $2.5 trillion in market value off Wall Street appeared to be easing on Friday, but only after hitting Asian and European markets hard.",
+     "title": "The US economy added 165,000 jobs in October and the unemployment rate fell",
+     "brief": "Job growth surpassed expectations in October, new data showed Friday, with the US economy adding 165,000 jobs.",
+     "link": "https://www.cnn.com/2026/11/06/economy/us-jobs-report-october",
+     "published": "2026-11-06T16:41:16.032Z"
+    },
+    {
+     "title": "AI stocks bounce back after $2.5 trillion wipe out",
+     "brief": "An AI-driven stock sell-off that wiped roughly $2.5 trillion in market value off Wall Street eased on Friday, but only after hitting Asian and European markets hard.",
      "link": "https://www.cnn.com/2026/11/05/markets/asian-markets-us-rout-ai-investment-intl-hnk",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Storm drenching East Coast after causing deadly, catastrophic flooding in Georgia and Tennessee",
+     "brief": "The first significant rainfall in weeks is falling along parts of the Northeast coast on Friday from the same storm that produced historic and catastrophic flooding on the Georgia and Tennessee border Wednesday into…",
+     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
      "published": "2026-11-05T12:00:00.000Z"
     }
    ]
@@ -53,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Other Sports: Sailing-France's Dorange withdraws from Route du Rhum after collision damage",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYVdsc3BxQWRMMm1xOUhFZ3g3eHN4Xzc3RlhDanZLZWRIM1VfMjUzaDFtVklIc3B1TGhZODdsaU9OLXNUdGF4dlJHMm8tTVdZaW11bzBpcG1vUkZZdklJU01jUk5FdUU0bGo4YXBXTWg0bFIxR3p2b0J4T3lLWE1CbEV6R2ZRMEdBNlRPanczTnVUWUF1RWM3WFg4RzhWT3F4YUVFMlBQaElTZWZWd2FDQnFJeWVEdHhjcV9zazFEVWF4akpOQ1NhRA?oc=5",
+     "published": "2026-11-06T16:32:00.000Z"
+    },
+    {
+     "title": "FBI arrests Thomas Markle, father of Meghan, source says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDk4WHp5dHI5aUxnYnNZX3gzQS1YWHd3Q1hjNFlOSFpFZFNmRGdVb1J1VG9qdkxjRGZ4ME51eUsyMXlDWXQwNHVsT3ZQSjNRZnk0eEVWT1ZTQUhQYXhKWG9NX2p3TzBrTkZpRHBHbkNqd2JTV1IzdFBVdUp1NXpsUDN1WHF1ZVRjNDcyZmM4WlhUS3dwTDBrSHZVNDRGNGZDTC1SNHFn?oc=5",
+     "published": "2026-11-06T15:55:00.000Z"
+    },
+    {
+     "title": "Tennis-Third seed Shelton edges past Paul to reach Paris last four",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWjhvRE00X21Sbm5zdFp0LWwtZFY2SDFoZFRpb1hrSmVTNWlUT29hcWlsRkhWLTgzZ1BucERKSWF6SWotN3FvSk53dDBXcUhtdzVKVWhodkxiOFZaZTdzcGFUWW1ZRFZTczlSN3Bid1FKaWdHNDQyQTBvTzRnM0h3Sjh4N2tjelR5b1YwOWZScG9qMUFRQWVuUENpeWQ0c0NrYXI5SlRoaHc1QW9ockRlWjZmYWp0aDdp?oc=5",
+     "published": "2026-11-06T15:36:00.000Z"
+    },
     {
      "title": "Rugby-Ikitau returns as Australia move Suaalii to wing",
      "brief": "",
@@ -82,30 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUTVWQWZ1WmdtUjVVZTZQM0xGUUNlbGlRZ1M4UTZEQ3pLOHVzWGtxSkZUUVhvd2VhbnBpNlk4MWFUMDJ4MGtRd3JHUEYyZ0M5dU44cXlSaFBLRUdjUjljR2gzeUxHcTZfRTA1dFNVVXo3X09oNGZvcTJsMi1oSURyNkhLTUlhaVFfaE56alBJRGNNUlJ2bDdFdWNvZV9BdXZtUGZ5cUN3WUxKYnFPMlBhWEhtcWdKc3g5bXJBcTln?oc=5",
      "published": "2026-11-06T14:37:00.000Z"
-    },
-    {
-     "title": "Amazon rolls out text-based shopping through Alexa",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPU3MyS19mQWgwU3pUNjRVVzJqM1hCVWtqdG5qSEdybXRZNG0yOUpYNlJ6Z2YzQ29iYXNCRl9CMExhZ0VhNzBaVFBHVFRwZk96VGF2WVRRcjNJTDhNc0JDRnJqeWRHSGVsN0pPay1IYzFFNUFvb28yMUxEMDNkcUt5ZHd3LVBkdWRJTmVKN1V4MlJVMTNScEo0R1JLQ1piV0JQWmdtZDJ3?oc=5",
-     "published": "2026-11-06T14:27:00.000Z"
-    },
-    {
-     "title": "Rugby-Springbok stalwart Du Toit to leave Japanese club with immediate effect",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOG1sNXlVY3ZSV3VJbFZtZVhsVU41SGIxcnZMRTRDbmJPSFF3WFo1eUQ0dW5Na2VLbUF0cGhhYUQybThRQTRsODZJLV85d1dDQU5qNloxU0lJRlRkb0ZvT0VGZ2xmVzdXSXlnaTdnY3JVdlo2cW40ZGVjUlI0d1JVS3VVb19IeEFLdlhod3lmQ01tRDVQQkpTRldrT3BoSmUwSENMR3had2owQzcwSGdGRXEzYXhhLVU1VjVIZnh1SFMzRmxxR0E?oc=5",
-     "published": "2026-11-06T14:23:00.000Z"
-    },
-    {
-     "title": "Cricket-'Clicky Ponting' handed two-year suspension for finger-clicking deception",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFVyOWFRN3lWVGNYSmJyNnJTVnJyWTBkMHJQYXBwREVrc3V3WEMxNXFXSjJLck1hc1hHS3hkODFFQXpkV1ZBaUU5LUd6R0N4ODhRekNZbm1MQndhUWluZC1tUjBiYWpjMTctaXEzT3VtWl9aRE1yVHc0dkY4MjFWcFYzNTNNZDN6czVKZktDRzJCNzRqWHhHbFp4cDlIVTlMMDZVR0cxVnVod0RDRngxaHh5VTBtTVYwZUtPb29IclIzM2ZheG4tanFsWFV3WW1WOTdj?oc=5",
-     "published": "2026-11-06T13:47:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
