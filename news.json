@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T03:49:39.273Z",
+ "updated": "2026-11-06T04:53:46.757Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,6 +9,18 @@
      "title": "Trump’s 250-foot arch gets final approval to begin construction two days after president’s election drubbing",
      "brief": "A final vote approving President Donald Trump’s proposed triumphal arch passed late Thursday after a marathon public hearing of citizens voicing fierce opposition to the president’s pet project.",
      "link": "https://www.cnn.com/2026/11/05/politics/trump-arch-ncpc-final-approval",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "‘Catastrophic’ flooding sets off 100+ rescues, inundates homes and businesses in North Georgia and southern Tennessee",
+     "brief": "More than 100 people had to be rescued as historic flooding overwhelmed homes and businesses in two mountain communities on the Georgia-Tennessee border Thursday, after overnight downpours swelled their shared river…",
+     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
+     "published": "2026-11-05T12:00:00.000Z"
+    },
+    {
+     "title": "Japan’s former soccer chief aims to run against Gianni Infantino for FIFA presidency",
+     "brief": "Japan Football Association Honorary President Kozo Tashima announced on Thursday that he intended to run for the FIFA presidency in next March’s election, becoming the first Japanese candidate to seek world…",
+     "link": "https://www.cnn.com/2026/11/05/sport/soccer-fifa-kozo-tashima-infantino-intl-hnk",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
@@ -30,21 +42,9 @@
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
-     "title": "‘Catastrophic’ flooding sets off 100+ rescues, inundates homes and businesses in North Georgia and southern Tennessee",
-     "brief": "Historic flooding inundated homes and businesses in North Georgia and southern Tennessee, leading to dozens of water rescues and evacuations.",
-     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
      "title": "Postal worker charged with attempted murder after shooting 2 coworkers at Des Moines post office, police say",
      "brief": "A US Postal Service employee has been charged with attempted murder after police say she shot two of her coworkers at a large post office near downtown Des Moines, Iowa, on Thursday morning, and investigators are…",
      "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Head of Japanese Football Association to run against Gianni Infantino for FIFA presidency",
-     "brief": "Japan Football Association Honorary President Kozo Tashima announced on Thursday that he intended to run for the FIFA presidency in next March’s election, becoming the first Japanese candidate to seek world…",
-     "link": "https://www.cnn.com/2026/11/05/sport/soccer-fifa-kozo-tashima-infantino-intl-hnk",
      "published": "2026-11-05T12:00:00.000Z"
     },
     {
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cricket-Australian batter Lynn completes ban after testing positive for cocaine",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVlJWWF9ydWxZd1k5OHIxYnRhOTVZb1RqWkZYeUo0OWd1ZG5tX2JIeVduRlFDYUctaERVMHJrTE9wVDhqZG1WTFRBQVRZbW9oVmxSQmNyRno1eVd5eXctcWFpeGN3SVhaNmJxQ3ozcTBIOXIycW8yRU9fSF81SnZ2NjZkQldRRXMxVWkzSDBOUFZwZ0pDZFRhRlEzdWdxcERTT1htYmdmMHFObDUtMnpiazRuMTY4UW1naEdBNG52WGJMNEJaTHF2T3RKdw?oc=5",
+     "published": "2026-11-06T04:26:00.000Z"
+    },
+    {
+     "title": "Cricket-NZ opener Conway ruled out of remainder of India ODI series",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQk9RRmhZbkdfWTZjZDFpa29rNmFtOG8xXzJJQy1lUjBqTHJxaFlaUlRRa0s2VFVUa2t6Q2Zpb2tUV1ZUNGZRb3c3RV9PcjhFeGtPaHQ1QVoySHF6Y1ZNYWpQVVpJazJLZG1ESWh5ZlprcTRDZFRfal9JcjFqM2I2LUtUTjd2ZllaekFfeFpCSXFNYTR5ZGpkSXlFTjdwSEFuendjenJ1LW9wS1JLaXQyTk9fbTAyVWdNVGtv?oc=5",
+     "published": "2026-11-06T04:03:00.000Z"
+    },
     {
      "title": "SoftBank credit risk jumps to 4-year high as AI fears roil market",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT3V0ZHpROEMwUlozQTVtLWFPTGJaREZYWkxGREVLZWp4T240X1FGMHNBcm9xRXdvSnJ2WUtQMkhvQWZBMXhPUUIwZmpQUEJyQ0ZjdFJHdVRaeTRlSFcxU01VWGdtU0djTGhzRFNabUtGNzcxbUxzb3M0SzhCb3pVRTdud0trS3owZHBaWDdIU2k4OUhuQ1h2ZHdYYnVFeTgw?oc=5",
      "published": "2026-11-06T00:39:05.000Z"
-    },
-    {
-     "title": "Fossilised teeth used to identify prehistoric ‘giant rat’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSVJSVzcwWmRJQzBGdE9wNElpcXZRdFlTREpRdFdHNWRiczVaOHhVRndoSEZ5ZzJxZUxwczJ0M0xIM2JpYkl5c1NiUzdENHVXZWFObF9hZ1BYUUoyUS12NGl2U2x5ejNkallUTFZ6RE5XV1Foa3o1NVpjX2t1RkowVE9XekRlQjkzeGJYVlV1WGg1YzFTUGVaZEUzMUlnODdFem1pc0gxaw?oc=5",
-     "published": "2026-11-06T00:37:05.000Z"
-    },
-    {
-     "title": "Critical textbook banned",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VTjRRVDZmcmtLOW1JeGVpSG43dTNUOUZfeWczQVRwejctcEF2U2dqNWtiUkRBSnR2bTdjMnpGTGNqUlUtOXNRTEY2M0tOZEVkY2lGSndSRWZlTndsaEpoY0FaZndQZXk2QTN3VWFSdVBLQURNU1JUY3MzRTFaUQ?oc=5",
-     "published": "2026-11-06T00:37:05.000Z"
     }
    ]
   }
