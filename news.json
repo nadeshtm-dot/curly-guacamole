@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-07T20:33:07.959Z",
+ "updated": "2026-11-07T21:32:48.413Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "At least 6 dead in shooting in the main market square of Kraków, Poland, police say",
+     "title": "Trump says he’s asked Dana White to serve as press secretary",
+     "brief": "President Donald Trump said Saturday he asked Ultimate Fighting Championship CEO Dana White to be his next press secretary.",
+     "link": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
+     "published": "2026-11-07T21:32:48.560Z"
+    },
+    {
+     "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
+     "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
+     "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
+     "published": "2026-11-07T21:31:48.621Z"
+    },
+    {
+     "title": "Gunman who killed 6 in Kraków attack held far-right views, Polish minister says",
      "brief": "At least six people have been killed and 15 more wounded when a gunman opened fire from his car in the southern Polish city of Kraków on Saturday, according to authorities.",
      "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T20:33:08.203Z"
+     "published": "2026-11-07T21:30:48.610Z"
     },
     {
      "title": "In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated",
      "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival will be tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
      "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
-     "published": "2026-11-07T20:32:08.412Z"
+     "published": "2026-11-07T21:29:48.604Z"
     },
     {
      "title": "Judge expected to tap former US attorney to investigate possible ‘ethical violations’ by Trump admin lawyers in case",
      "brief": "A federal judge on Saturday said she intends to appoint a former US attorney to investigate whether government lawyers committed “ethical violations” in the heated, protracted legal case surrounding President Donald…",
      "link": "https://www.cnn.com/2026/11/07/politics/golf-course-judge-investigate-violations",
-     "published": "2026-11-07T20:31:08.233Z"
+     "published": "2026-11-07T21:28:48.623Z"
     },
     {
      "title": "1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say",
      "brief": "At least one person is dead and 22 others were injured when an elderly driver struck a group of cyclists in Wake County, North Carolina, shortly after 9:30 a.m.",
      "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
-     "published": "2026-11-07T20:30:08.245Z"
+     "published": "2026-11-07T21:27:48.617Z"
     },
     {
      "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
      "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
      "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T20:29:08.251Z"
+     "published": "2026-11-07T21:26:48.619Z"
     },
     {
      "title": "Supreme Court’s trend on church and state is a reminder conservatives have a steady grip on the nation’s laws",
      "brief": "The Supreme Court first agreed to hear the case that launched the justices’ current trajectory protecting the free exercise of religion in January 2016.",
      "link": "https://www.cnn.com/2026/11/07/politics/supreme-court-john-roberts-church-state-trend",
-     "published": "2026-11-07T20:28:08.241Z"
-    },
-    {
-     "title": "AI nerves reinforce age-old investing lesson: Get diversified",
-     "brief": "A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we’ve all become on the success of the artificial intelligence buildout.",
-     "link": "https://www.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
-     "published": "2026-11-07T20:27:08.219Z"
-    },
-    {
-     "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
-     "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
-     "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
-     "published": "2026-11-07T20:26:08.237Z"
+     "published": "2026-11-07T21:25:48.615Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Motorsport: Motor racing-Norris on pole in rain-hit Brazil for third year in a row",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcmFEbGRfSldUWVY1SWhNUUhKOG4wVjhrZkwtblVabUJsejd6X3hDMHgybkozX3MzVTk3ZWNGcTUyekRxNFd6cUJhVWVEcXJQZjVqazJIMk1Fb3pUSnlFLUpUQkF2Q2oxNm5qdEZvc2s4V0VSRGJGU0VLWVlOaTNjNTJYWlNJVTRyR0hfc0g5UHBxbEszbU5uSklrOEdzQ21NdTltMVdPbXFoTDVsYnRLSWJrMk0xRUxWTDJIUFhoWTFGcFE?oc=5",
+     "published": "2026-11-07T20:44:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Lacklustre Man City felled by Forest as title challenge stutters",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2V2VzBHc2lmRzhYUWFfbFUtZ1llUkRTUWdnQ3BCTEJaNFBpNmczeEVtcHA1ODJDMmhWaFluS0tRWVlMSVA2YVZWcy1ONkV0Vl9oWmFDT0JCdlh4eFoyQnJRMVpTZUxvbjh5RmZzX1FoRDNIeHA5SDdHREhFUGxhR0RNbksxWWNTSDh6YXhDRGFUY0UxM0F6UzVkTkhxOGxUTlpiMS1Jb0YyV0JLbzdyZHltbnJSLUxXRnZaZUoxMlBPQQ?oc=5",
+     "published": "2026-11-07T20:36:00.000Z"
+    },
     {
      "title": "Football: Soccer-Tenerife bid tearful farewell to De Miguel",
      "brief": "",
@@ -90,22 +102,10 @@
      "published": "2026-11-07T19:39:00.000Z"
     },
     {
-     "title": "Other Sports: Trump offers UFC chief Dana White top communications job",
+     "title": "Other Sports: Trump says he wants UFC chief Dana White for White House press secretary",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3RhOUxneHJEUDFhdDllNWZVTndNQTNqRG1fVEU1TFBPU1YwTkxEZ0pCei1WUENDWElPc1RzNUtETnB1YXFST3NhWVdFd25SOGZqRWh5bnhhNVllWlZTSGhFRWE2WlBwZVVlWmJKcjJrU0NabEJFMVBEZlM5aHVaSVJnUDhNTmZ2Nkh4bTJyV1FUeUVIZjFOZFNiaVZoX0RKWm9aeVhIOXVJTTQ?oc=5",
      "published": "2026-11-07T19:27:00.000Z"
-    },
-    {
-     "title": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmRtVFpaS2JmQTM3WlhzUW1HbF9tckJCNHNtYXRzOGM1OWduMS15ZG5FeGYyR24ycnJuRkN4NFhVY2RPN1VyNkF4QklfSmJZM1IzOEI3TWZrR3p6amEwRXlGTFZkVE9CTENMb25BR2F6Q1NyQ3BmTERMS2RveVVFc1ZaWnhRQ1Q5bHhUbE5TaDZaT1plRUJPZzJHb0s1QkZxYWRhdnlBYWktQWhmOXg0aUpqQnVCbWthd2NvWWpKc2pwVENhVVIwdHhsTGtCTldEUzNtdUlrel9KOVMx?oc=5",
-     "published": "2026-11-07T19:25:00.000Z"
-    },
-    {
-     "title": "Tanzania, UNDP commit 2 mln USD to environmental projects",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblpBRHUxUGJ2Y2RkejdTRU95SjBLZ0Iyb0laN0RxQ05iWlY3SDU5a2dDS3dXNUpEQi1CbU12MTVQNXduTnk4NEtFbDE2Znk2TC1wRTNRcHZrZEt5V0lOQ09SSU91OFlIREh3S2pSZ2lETF9nZlNTOEJIT2thWV8xUjVPbEVEY0l0bWZuRTBjYVR1ZWViYUlEd3BRYWJqTFJZckZNQ0s0a2I?oc=5",
-     "published": "2026-11-07T18:58:00.000Z"
     }
    ]
   }
