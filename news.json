@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-07T11:32:49.771Z",
+ "updated": "2026-11-07T12:43:35.988Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "He left NYC after 9/11 for a new life in South America",
+     "brief": "In our roundup of travel stories this week: The Englishman who walked around the world, why Norway is making toilets “great again,” plus a New Yorker driven to start life over in Argentina in the wake of 9/11.",
+     "link": "https://www.cnn.com/2026/11/07/travel/leaving-nyc-after-9-11-for-south-america",
+     "published": "2026-11-07T12:43:36.200Z"
+    },
+    {
+     "title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores",
+     "brief": "When Russia invaded Ukraine in February 2022, the response from the United States and its allies was swift and brutal.",
+     "link": "https://www.cnn.com/2026/11/07/business/russian-diesel-us-sanctions-trump-intl",
+     "published": "2026-11-07T12:42:36.266Z"
+    },
+    {
+     "title": "A fan fiction site got hacked. Its users are panicking",
+     "brief": "On October 29, the fan fiction site Archive of Our Own, more commonly known as AO3, unexpectedly went offline.",
+     "link": "https://www.cnn.com/2026/11/07/entertainment/ao3-hack-shutdown-cec",
+     "published": "2026-11-07T12:41:36.282Z"
+    },
+    {
+     "title": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
+     "brief": "President Donald Trump responded to this week’s GOP drubbing by initially suggesting that he might soften his approach, expressing openness to collaborating with Democrats.",
+     "link": "https://www.cnn.com/2026/11/07/politics/stephen-miller-trump-chief-of-staff",
+     "published": "2026-11-07T12:40:36.279Z"
+    },
+    {
      "title": "How Yoshitomo Nara’s ‘big-headed girls’ took over the world",
      "brief": "The big-headed, wide-eyed girls that made Yoshitomo Nara one of the most beloved Japanese artists of the 21st century are everywhere — if you know where to look.",
      "link": "https://www.cnn.com/2026/11/07/style/yoshitomo-nara-nyc-show",
-     "published": "2026-11-07T11:32:49.934Z"
+     "published": "2026-11-07T12:39:36.294Z"
     },
     {
      "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
      "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
      "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T11:31:49.946Z"
+     "published": "2026-11-07T12:38:36.275Z"
     },
     {
      "title": "Iran’s hardliners see a weakened Trump – and want more to end the war",
      "brief": "Iranian hardliners who believe Tehran has already emerged victorious in its war with the United States are seizing on President Donald Trump’s midterm losses to demand that he pay a steeper price for an exit from the…",
      "link": "https://www.cnn.com/2026/11/07/middleeast/iran-trump-war-hardliners-intl",
-     "published": "2026-11-07T11:30:49.955Z"
+     "published": "2026-11-07T12:37:36.258Z"
     },
     {
      "title": "Inside the Democratic effort to turn outrage over data centers against Ken Paxton and other Republicans",
      "brief": "As the dust settled on Election Night, Democratic operatives working to elect James Talarico were surprised by the breadth of his victory across Texas’ 254 counties.",
      "link": "https://www.cnn.com/2026/11/07/politics/democrats-midterms-data-centers-ken-paxton-james-talarico",
-     "published": "2026-11-07T11:29:49.963Z"
-    },
-    {
-     "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
-     "brief": "A group of American diplomats was riding in an Israeli helicopter in early 1960 when one of them spotted a construction site rising out of the Negev desert about 20 miles west of the Dead Sea.",
-     "link": "https://www.cnn.com/2026/11/07/politics/israels-nuclear-weapons-program",
-     "published": "2026-11-07T11:28:49.958Z"
-    },
-    {
-     "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
-     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was placed on house arrest Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
-     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
-     "published": "2026-11-06T12:00:00.000Z"
-    },
-    {
-     "title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
-     "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses in a seismic staff shakeup at the White House.",
-     "link": "https://www.cnn.com/2026/11/06/politics/stephen-miller-trump-susie-wiles",
-     "published": "2026-11-06T12:00:00.000Z"
-    },
-    {
-     "title": "Flooding spreads up East Coast from same storm that inundated Georgia and Tennessee",
-     "brief": "The first significant rainfall in weeks is falling along parts of the Northeast coast on Friday from the same storm that produced historic and catastrophic flooding on the Georgia and Tennessee border Wednesday into…",
-     "link": "https://www.cnn.com/2026/11/05/weather/flooding-georgia-tennessee-mccaysville-copperhill-climate",
-     "published": "2026-11-05T12:00:00.000Z"
+     "published": "2026-11-07T12:36:36.291Z"
     }
    ]
   },
@@ -59,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "High tide phenomenon: Selangor residents in low-lying, coastal areas urged to be vigilant",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbEk1TVBHSzdPdVRZMFE1bF9vVzJockt3Zml4M0dOWUoteHpaLVVlRDhtb2NiTjByb3VKU0NyV1pIMmVTWlBSdXprUmM4a0xiV2pPNUY5cDM1ZzZIWHVvTkJzWElPUjVmS3RXbnVfTXQwSXB4aFJ3aUVxZ185QTdkb3g2YVo3MDlucGM4dXNNelBLREgydHgzVVp6OGRCX2t1SXd2S0J4WjQwSjRmOFRZNk9Lb0g5VmpNYkVLeVgzbzNyQTBGcUVxN0RFeXM0MVJDVUNN?oc=5",
+     "published": "2026-11-07T12:29:00.000Z"
+    },
+    {
+     "title": "Tennis-Monfils to captain France at Davis Cup",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWc1UnRocFlkSUsxNFNrT1pDbGEtUU1yNmF3MG1fUk5lZldmU2pIX012OE5KU3o2amxiRldiYXpEbmlaUWVhUENfRFlsdlJBc2tnTVR3UkZZb2F4d3A3amltcFRtYWEwMm5NT3Q2UEhkU3p2TkJEbnRQWktBT2N0NDc0WW5vekxwWGdHOGUxdkRaTWVVZlNEdUtVRjA?oc=5",
+     "published": "2026-11-07T12:04:00.000Z"
+    },
+    {
+     "title": "Cricket-Pakistan give maiden test call-ups to Tayyab, Shabbir and Saqib for Sri Lanka series",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRUxyY0FGdC1mc3YzUGZSOU9oOS0zZFUwNlNNWFlXZ1NQcGNkLUw5V18tZl84LUsxaGpmNUNxdlB0cnpHaGl6WXpFZjRWUkhoTkhjREx5Q2xieDJzbkpMcGxiMEpkLUZsdmhDXy0tdTI4SU55S3VWU1JtOWN4S0ZlU3NmN3pnTnpxSlktV0JGTjRvMXpmZm1VMlVQQTlDZnRzaWFpYVVFa1ZtV1NyZEV5QlFsemY3cThUNUIxVDJrTmxSUG5GejlIcm53czZRelh1bmx5NG9pZjNwa2M?oc=5",
+     "published": "2026-11-07T11:48:00.000Z"
+    },
+    {
+     "title": "Nacsa says it is aware of cyber incidents involving financial institutions, currently monitoring developments",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTGxwYVhfdUpGbnlfWDJrY3lsWktGRXcyLW5QdWdsc0NXeTRxeG0xSWJfOXMxdWtxTmducUlnLXg0LUZmVG56d09lMFNQNUUwcGgtZUlYZ0lSSVJCVWhCNjMxcG9mVHREWGQtNF9NUTB3NUdhQWRQRmJxR2txT19KTWpTeVBhNXdCc091QjhBTXhwT19JemhEV3VXMGU0cWxTNVFRNVIzbW5xVXFzVGpjVUY1OTNoQU84aVVfLUptWU9hMEJZUTR2QUVSbnppekY1WXc0c0Q5bExDVEp5WlVtc3l3d2FaQ2gyREtBQW5OVUY4cHc?oc=5",
+     "published": "2026-11-07T11:45:00.000Z"
+    },
     {
      "title": "Anwar extends Deepavali greetings to Malaysians celebrating Festival of Lights",
      "brief": "",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZi1oRE1fUnVzd3d3bDRzbmV6UjRuWk5DUl9XVTJuN2JpdVFjVnRheDlmSVpmWU83SVQtRHRTaGFqTEYtUzY5OWhueTlCVmpOb1lrWjlxRFdxMGhEcHdCbWlxUW5VaUJROU1scUtpQ1EtNjRMcWl4cnYtMWc2WWZKcXhKWDF5WERFNUNEZ1FlRno?oc=5",
      "published": "2026-11-07T10:00:00.000Z"
-    },
-    {
-     "title": "Indonesian workers rally for Prabowo as women march against president",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS3RzUlVackRieU01R0k5ZU5lMlQ5RG9Nd2xXVUlPc0ZtMWJ2TVBxMklPUk5qQllJTG1xSURidHVscHJMWUZ4RGNjN3o2Nl8wZ3A2U3pXaHdHeGNZV3A2NUowWW1yU2lyX0FTejB3enQ4VV9SVklTcDNQV1gwbTBPWGtOaDlpaFlILWtDRHM1U1ZoejU0Zmg4UWFDMnB4Qk54UVZqT05FaW1aYTU4NFJENnJTc1pnQ2NyUGc?oc=5",
-     "published": "2026-11-07T09:45:00.000Z"
-    },
-    {
-     "title": "Nippon Paper to halt production at earthquake-damaged Kumamoto plant",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONnZoU0swUHYwdG9OY1RBUUk5aEJuS3BqZ1F3RnctUDhWdTREdzdFMHZxbVA0Q21DeFA2YUtQR1BjbVhmTE00dk1OOGU0NUYzNHR2dzNUUW92cG43dzY0YnhqU3pGeTJqU3hXcFppU01mOThOT3dyQXFfazVQQ2RGTWdNc3NJd3pmS0VaNE1SZVNWOFgwOWU1NmFicFBVYUhYYjVCSVNaakZJM09acjJXTWRNc0lGNjBDNmV5bHJ1elVld2VaalA4bm5sVQ?oc=5",
-     "published": "2026-11-07T09:29:00.000Z"
-    },
-    {
-     "title": "Iran executes Baluch militant over armed attack on police station",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVXBjMnVLMzBITnNKN2tpMEN0SDN5LS05dk5OLXUwQl9EMEV2MnZjeW9MdHNUX0s3SW01bFA5bW9qOFkzTVNYQUY2anlYdkJmbWJtcVpuQm8zdnpDSjMxOVhpWWU2bEpDTmtjcVFFaHVSUFhxNEhxZEdRQXo0VlBoTTdtRkY5emZxM3Qzc25rOHRzeFViMFpUeF9VaTk0N2VyeEpPZjB2R2Q5LVRQbnkyel9SZUo?oc=5",
-     "published": "2026-11-07T08:50:00.000Z"
-    },
-    {
-     "title": "China launches 43rd Antarctic scientific expedition",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXNTa0U4NlRRRnptQS02Y2FITHhmd2JvR3FaQnY4eTFWXy1IdXZhRWhhWTZaQlNaN3dYclVSLVQ3cWxRaHRlU3dteUVNX1hrSXFjSlk2UF8tRmRxNXM2ZWNjWFVmbFdtTjZPTlB0UHR1TjRFLVJKSjNsV3hXODBLeTNMblk0V2FJcllvSUNidTlWcS1DV2s1d2tVeWk3anhKMXZrc1Z6bXpPSDV3QWxWVzhCOEM?oc=5",
-     "published": "2026-11-07T08:50:00.000Z"
     }
    ]
   }
