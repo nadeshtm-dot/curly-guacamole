@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-07T17:30:53.279Z",
+ "updated": "2026-11-07T18:37:40.667Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "1 killed, 22 injured after driver strikes cyclists in North Carolina, fire chief says",
+     "brief": "At least one person is dead and 22 others injured when a driver struck a group of cyclists in Wake County, North Carolina at around 9:35 a.m.",
+     "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
+     "published": "2026-11-07T18:37:40.867Z"
+    },
+    {
+     "title": "At least 6 dead in shooting in the main market square of Krakow, Poland, police say",
+     "brief": "At least six people have been killed and about a dozen more injured in a shooting in the main market square of Krakow, Poland, on Saturday afternoon, according to Polish police.",
+     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
+     "published": "2026-11-07T18:36:40.905Z"
+    },
+    {
      "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
      "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
      "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T17:30:53.618Z"
+     "published": "2026-11-07T18:35:40.887Z"
     },
     {
      "title": "Supreme Court’s trend on church and state is a reminder conservatives have a steady grip on the nation’s laws",
      "brief": "The Supreme Court first agreed to hear the case that launched the justices’ current trajectory protecting the free exercise of religion in January 2016.",
      "link": "https://www.cnn.com/2026/11/07/politics/supreme-court-john-roberts-church-state-trend",
-     "published": "2026-11-07T17:29:53.614Z"
+     "published": "2026-11-07T18:34:40.903Z"
     },
     {
      "title": "AI nerves reinforce age-old investing lesson: Get diversified",
      "brief": "A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we’ve all become on the success of the artificial intelligence buildout.",
      "link": "https://www.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
-     "published": "2026-11-07T17:28:53.623Z"
+     "published": "2026-11-07T18:33:40.907Z"
     },
     {
      "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
      "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
      "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
-     "published": "2026-11-07T17:27:53.602Z"
+     "published": "2026-11-07T18:32:40.891Z"
     },
     {
      "title": "What Trump shares with Truman after a midterm shellacking",
      "brief": "Shortly after World War II, as the United States faced a rising Soviet Union, a devastated Europe, and the dawn of a Cold War, President Harry S.",
      "link": "https://www.cnn.com/2026/11/07/politics/mcgurk-trumps-truman-moment",
-     "published": "2026-11-07T17:26:53.626Z"
-    },
-    {
-     "title": "At least five dead in shooting in the main market square of Krakow, Poland, police say",
-     "brief": "At least six people have been killed and about a dozen more injured in a shooting in the main market square of Krakow, Poland, on Saturday afternoon, according to Polish police.",
-     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T17:25:53.630Z"
-    },
-    {
-     "title": "New Zealand in political limbo after knife-edge election",
-     "brief": "New Zealand voters face weeks of political limbo after a knife-edge election left the country’s conservative coalition government at risk of losing its majority following just a single term in office.",
-     "link": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk",
-     "published": "2026-11-07T17:23:53.607Z"
+     "published": "2026-11-07T18:31:40.900Z"
     }
    ]
   },
@@ -53,6 +53,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "2nd LD Writethru: 6 killed, 15 injured in Krakow shooting",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUzFENGtJLUVwVjZSVG1FdEZnN295TDJrVHd6NTQtdlh1WTdHSlZOTG9oNTZ5azVPaDZIRDViMUlvMkstYXYwZkRFbkd2UlRuYno4LV9LLUVPWndPYnNwR1FxNzA3UGhqcjhCOHFxS1hfTDNtc2k4WTB1OHlnbV9Xd3BkZ0tQck5lTzR6WHRIY3pZQXk3WmVUUVhfVUEwQUkwVXFPWkg0Yw?oc=5",
+     "published": "2026-11-07T17:29:00.000Z"
+    },
+    {
+     "title": "12 killed, 15 injured in road crash in central Chile",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWk81WjdUX181MEM2aC0xaVhJekhNR2VTMFYwaFoxUmxrMlJreHJscWdYTHpmSTdKV0ZJV29lTUsyYUJ1YnRaZHhNcWVaT3NPdWpzT2FXUElGSFFHRDdSNTRZNHByeVNtdkRkcFMtN2pHMGRia2pkbUI4Si1UU0VkUlVULVRkRlBram43SVhMUVNLTE9xMklGbm1lX3pwWEJxS1E?oc=5",
+     "published": "2026-11-07T17:22:00.000Z"
+    },
+    {
+     "title": "Paraguay pledges pension payments after Ueno Bank collapse",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5VcU45TDZ6S0tmYVpBNlY2VUROOVh6c2RJV1FNWERGdUFHTkFHOTdBMFIwZXE0T1FnWF9ScmpabmYtd1FrbjQ5OTlYdEdvb3JWSVQ0SmF4SzZpeE1mbXJJazUtQTlMTGZQXzZjd3dUSGhNSTN2blZtWnNjM2VKamEzcGtnbERscEw3eVl3Zk9fTU1Db08zdVV4TmdvbVpjTklKNHg3S1p0YWs?oc=5",
+     "published": "2026-11-07T17:13:00.000Z"
+    },
     {
      "title": "Football: Soccer-Neuer’s record-breaking day turns sour after error and injury",
      "brief": "",
@@ -82,24 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUpVZ1F5cTZ5eFBzRHNfV2M0Y2JSdjlOUG9MZlJCalRWRWFZdGtKZTZyYXdEUE8yZEQyOFNHakdtTjg2SXNxUFhQU2lxdVR4MmhqS2RSZWQ1VUtkdlV6X2t0Z3lOZzRQamlLaXAxQ3U4VFc1OVZ6S1dqSEpuSC1xamxLaDZBUGw4NlJzb0dKTjllb1hrc3BIdFRnUzhoa2h1SEo5NHJsemJkT3hfWnZxZjUxYUV3ZWxzYmR2U1ZadFJCOGFydU95ZmVETUJFeFU?oc=5",
      "published": "2026-11-07T16:14:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-De Zerbi declines to blame VAR as Tottenham lose to Leeds",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRElIUjdOZGtmSnl5Zng2MHpFZXBUYnROTmU3Q3VvOUgyT0w3QXd2bXRwZnZIWmxFRmdDYzQxa3Y0UTN3ZVB0MWVzMGlXckNYYk1SR18zdWtMM0dpbEg2VkFqUGRYRmJzOE84NFhNN19UN2FoLUtaY2NiZXpYSEJQU0JldE1QV25Yb3ZKd29WM0pQY1I5R3l6d0FydlpCVE5nUUlUYUQwdUR1ZFJoU0ZMa3VKaXNZQ2dw?oc=5",
-     "published": "2026-11-07T16:08:00.000Z"
-    },
-    {
-     "title": "Zelenskiy criticises Ukraine's SBU security service over corruption scandal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSWt2UFdxWjlhU2FHV0pwTGlHWmNJRE9XcVBIZjRCU0hYYUw4S0d6MUNzaW5LOHFvbzBudTJOZlJCUXYyX2JNRzlvb01WZ2xQVWZuN1h3LWlfWFBLT2t1U3FzOThIemJibVZxNDFLOGJvMl9XZTNIZW5ScktQaHpuLVdiWFhnOUh2THVyR2xsQ3REbFVIV0hjLTdIQVpaNTZ5S1ptS1NpcHFtaHJMMkZGTDhFdzVEc2thc1puQ3BYdG5rbGxV?oc=5",
-     "published": "2026-11-07T16:03:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Japan great 'King Kazu' Miura sets oldest appearance record at 59",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWNGMThFazdkc1Z3Y2NrSUx6QkliSW5GQlJyOUsxaVNwUmw5dDNTT0UxbFJBeGJndDB4dURFOVBMUl83b3c4NUZCZWlNTVVGcnI0SkpCOXlhZi1FcWtfNzFFOWFRR1EtR2JENkEwUzgxMEwtcS1UY01DdzFwLUtQLXVhd1ppU3NTVGltNjBvTUlNOW0tcGRqTFdsOEpIZkZTQS1KcjJWUVJFeTNMd0o5ZDJrUVk1eGJBYkp5Z1Z0MC1MUE9CdEt4Rw?oc=5",
-     "published": "2026-11-07T15:36:00.000Z"
     }
    ]
   }
