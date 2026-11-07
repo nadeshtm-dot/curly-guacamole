@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T05:44:09.280Z",
+ "updated": "2026-11-07T06:50:44.496Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,13 +9,13 @@
      "title": "Iran’s hardliners see a weakened Trump – and want more to end the war",
      "brief": "Iranian hardliners who believe Tehran has already emerged victorious in its war with the United States are seizing on President Donald Trump’s midterm losses to demand that he pay a steeper price for an exit from the…",
      "link": "https://www.cnn.com/2026/11/07/middleeast/iran-trump-war-hardliners-intl",
-     "published": "2026-11-07T05:44:09.483Z"
+     "published": "2026-11-07T06:50:44.971Z"
     },
     {
      "title": "60 years of denial about Israel’s nuclear weapons program confronts a new reality",
      "brief": "A group of American diplomats was riding in an Israeli helicopter in early 1960 when one of them spotted a construction site rising out of the Negev desert about 20 miles west of the Dead Sea.",
      "link": "https://www.cnn.com/2026/11/07/politics/israels-nuclear-weapons-program",
-     "published": "2026-11-07T05:43:09.532Z"
+     "published": "2026-11-07T06:49:44.982Z"
     },
     {
      "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
@@ -54,10 +54,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Food personality Sapna Nair shares two recipes for garam masala this Deepavali",
+     "title": "Penang's DCM II hosts Deepavali do at his Batu Feringghi house",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRkJSUnhXX2NtTGtvazN0b3lyU0d2YUU1QU51M1FVMS0xN1BaUXR0QW5hd2xzSGROSXc4eEV6Mjg3QzREbTltUWFKclFHYmVKLXdoNTUwY1ZxTXk5MTljSFpyU3VyWnNvcjlSVjNabVpxUXJOWXlHODJUcXBKU1l6cW84WDltLTVSamNZbjZFMXJMWndDRFltRUNLaGxFS09NQ0IwVHZJTFlWT2dNSWFPVDV1OEpsYlM1eTVreFYtWTBZRTFoMDl6RlpGNFhEdw?oc=5",
-     "published": "2026-11-07T05:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZ1Rja2cyVkFTRmpXZUswenZZVERnM0IwVld1azFPbUp4QlRwbDBNZkNUeENka0J4V1RMVmVfaFRaNkNQR1Q0S28xX1piNGJjcWVPM3VSU1ZaYmlqcG5MS2NFaE9FNGhadGZSQ3FIVmZsV1U2MnN5WTZycWNxU2JSbjNkTzl4amhkdXZ3dmotWTFkN0R5ZjhDa01GRVJmVlVYRFgxOUZjT0J3UGFSbVZjTEFYVGY?oc=5",
+     "published": "2026-11-07T06:39:00.000Z"
+    },
+    {
+     "title": "Domestic helper arrested after five-month-old baby found unconscious at Yuen Long home",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNi1nb3NIVll0d29vOE52WVpFWnNEcmJnZzJtWWgzYkYwbnZ5LUpJRF9iZ3JOWHVwYXM0anY3TXNxUFUxQjNuR1FwcGNFRHY2S1VnWXJzcXZtRDFUeHlBdXlQSTdTYk1IdlNhSlh1QW15dVZOSzZvNXZtWXhjc21McVZLTlMzQVJFNlNVZTBwZXVrSXFRVnZZeFlUZlZiX3FtcExwdjJhWUtYV1ByUHgtTTJfYlZBdk5lUGN6c0sxMS1UM0R2UWtJbzc1N29OSVUyaHQxanR5bHZpUjV1QVJfc0tpNA?oc=5",
+     "published": "2026-11-07T06:35:00.000Z"
+    },
+    {
+     "title": "Thunderstorms predicted to hit four states until 4pm",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ1oxRmhpZUU3b1pGNXd2RGQ4enVhV2I4R3F3QlRjMDRndEd3d01ZMU0wa0JyM3c4SWZYQkxoblVJdkpfclJEMXFUVWJXWF9IRGVVVTFjbDd1aDQwQ25va3VldzJVYW4wV2I5MFptN25LVWk0YjRrUUYyU2N2eXMwN19nWDR3ZHBIeVlfczN1R0pLeUlxSFI3ZUIxS0pfckRSZEYxdw?oc=5",
+     "published": "2026-11-07T06:24:00.000Z"
+    },
+    {
+     "title": "Pakistani astronaut to join China space station's Shenzhou-24 mission",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVExnQ05xZ183aEQ5N2xFVVJkeXoxZHlVTlN6ZUZhREtGMENGNHdJcVVKUk5JWllGaFFKeEsyYlJ3S0Y0MnlHVlVBeDIxdGowamRPRmF6eWw4YVU5Skg5eDZqdEc0UVUzMkN3Y2Q3RlFqU2wxa2JsMlRoOUVGeEctV0RMZ2ZvOUE0NmZBWlBGYlREZXloSmdWV1pLQ05mV2haamRMRUN2UXRUcWNoWDI2U0dkLWpCQWM0Y3hPZEMtZUZSekMyWjlPTHdwRlV6OGs?oc=5",
+     "published": "2026-11-07T06:24:00.000Z"
     },
     {
      "title": "Toyama Bay snow crab season opens with smaller catch, higher prices",
@@ -82,24 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQk1hTk9KSUlUZkJSc0NOT2lSd0VGLWdzS0k5MGJJOHZHTllKdkwwZkFpcUp6clUtOFQ1MFRfVXZkYzZ4dkJoTTdvS1RYRGwtZ212VzY2RzZINWR6cnRxa3MzTG45d3FSVE0yQWJ3Y2FaNmxidENURVNUR1pQdi1wUVJzSXpjck8xeVpacHl0Q3VzQUI5LVh1NFpDNUt3bnliM1p6c3VXYm1lZk02bkQ3SVhidlZwWTduRV9SdUtwLUhmS2Jid2JQTG9lN1VFeTExRXl6UQ?oc=5",
      "published": "2026-11-07T03:11:00.000Z"
-    },
-    {
-     "title": "N. Sembilan Deepavali open house on Nov 14 targets 7,000 visitors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmNiR3MwQ1lDeUYweE9zRDJmZElfdDlVd2RscHkyZ0FiY0NuaURqNjdiMHNOdVVoODFZTmJxLVFYY3lZTGJUYThGaUgtR0FqTm1iQkhUcTc2T2UwV1BrOWw3cjVZTlpWUHFxVWNCYW5XTzREVENQOUEwY1ZiREFiSE52SG9OTlZlSlltcVIycW1zaFBxOWRmQVRPQzBCeFVFRk1aNXZJQ2NTc2VIeFhVSmlQOA?oc=5",
-     "published": "2026-11-07T02:14:00.000Z"
-    },
-    {
-     "title": "Eight common myths about children’s teeth",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTE5bEtFUkpqZDRnNUdMb2ZBZHVPS2lZSjdrOFlLODFHOFprMjZlV04tS3lfUXlNallDRWpJS0tzOW9VRGRXN2YyOGtKRld6RHdrb3ZZNW1NYUFabnA5VHlzV2xndHRzZGpWVzdPVHhjTTJMMlBmcEE0amZBYXVLb1NWTFFNUnlpem5tOEV5N3FtQ2lENDlVdEIwcw?oc=5",
-     "published": "2026-11-07T02:00:00.000Z"
-    },
-    {
-     "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQME9BSDZneUQxVjY1cDRUalFQTXJKaE1zd201Umo3bzBRU1BGbTR6RHo2eGdFdjhCd2tBeW5hOWZnWG5FenM1Z21OWm4wanJXUVdMM1dGMkFVdmpNcHVoOG04aGczMmM0M1BKcy1RVWwyMmU1amhUZXZqaGNvYmRaTUsxeXhheUNxUThPdTcwOFN1TDRuSTlYMGNkeE1zLVZvdmhDVUJUVzlKc19lNFM5bDgtbXdPZ25CMVlROWFDcw?oc=5",
-     "published": "2026-11-07T01:27:00.000Z"
     }
    ]
   }
