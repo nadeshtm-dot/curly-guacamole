@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-07T16:35:51.816Z",
+ "updated": "2026-11-07T17:30:53.279Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
+     "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
+     "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
+     "published": "2026-11-07T17:30:53.618Z"
+    },
+    {
+     "title": "Supreme Court’s trend on church and state is a reminder conservatives have a steady grip on the nation’s laws",
+     "brief": "The Supreme Court first agreed to hear the case that launched the justices’ current trajectory protecting the free exercise of religion in January 2016.",
+     "link": "https://www.cnn.com/2026/11/07/politics/supreme-court-john-roberts-church-state-trend",
+     "published": "2026-11-07T17:29:53.614Z"
+    },
+    {
+     "title": "AI nerves reinforce age-old investing lesson: Get diversified",
+     "brief": "A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we’ve all become on the success of the artificial intelligence buildout.",
+     "link": "https://www.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
+     "published": "2026-11-07T17:28:53.623Z"
+    },
+    {
+     "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
+     "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
+     "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
+     "published": "2026-11-07T17:27:53.602Z"
+    },
+    {
+     "title": "What Trump shares with Truman after a midterm shellacking",
+     "brief": "Shortly after World War II, as the United States faced a rising Soviet Union, a devastated Europe, and the dawn of a Cold War, President Harry S.",
+     "link": "https://www.cnn.com/2026/11/07/politics/mcgurk-trumps-truman-moment",
+     "published": "2026-11-07T17:26:53.626Z"
+    },
+    {
      "title": "At least five dead in shooting in the main market square of Krakow, Poland, police say",
-     "brief": "At least five people have been killed and about a dozen more injured in a shooting incident in the main market square of Krakow, Poland, on Saturday afternoon, according to Polish police.",
+     "brief": "At least six people have been killed and about a dozen more injured in a shooting in the main market square of Krakow, Poland, on Saturday afternoon, according to Polish police.",
      "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T16:35:52.072Z"
+     "published": "2026-11-07T17:25:53.630Z"
     },
     {
      "title": "New Zealand in political limbo after knife-edge election",
      "brief": "New Zealand voters face weeks of political limbo after a knife-edge election left the country’s conservative coalition government at risk of losing its majority following just a single term in office.",
      "link": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk",
-     "published": "2026-11-07T16:34:52.079Z"
-    },
-    {
-     "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
-     "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
-     "published": "2026-11-07T16:33:52.074Z"
-    },
-    {
-     "title": "A promising drug for an inherited heart risk flops, stunning doctors",
-     "brief": "In the course of scientific discovery, there are triumphant moments when researchers present their findings to a rapt audience that jumps to its feet for a standing ovation.",
-     "link": "https://www.cnn.com/2026/11/07/health/novartis-pelacarsen-heart-drug-trial",
-     "published": "2026-11-07T16:32:52.053Z"
-    },
-    {
-     "title": "2 skydivers die after colliding midair in California and their parachutes become entangled",
-     "brief": "Two skydivers who were taking part in an organized skydiving event in California were killed after colliding midair and plummeting to the ground.",
-     "link": "https://www.cnn.com/2026/11/07/us/california-skydiving-accident",
-     "published": "2026-11-07T16:30:52.077Z"
-    },
-    {
-     "title": "He left NYC after 9/11 for a new life in South America",
-     "brief": "In our roundup of travel stories this week: The Englishman who walked around the world, why Norway is making toilets “great again,” plus a New Yorker driven to start life over in Argentina in the wake of 9/11.",
-     "link": "https://www.cnn.com/2026/11/07/travel/leaving-nyc-after-9-11-for-south-america",
-     "published": "2026-11-07T16:29:52.058Z"
-    },
-    {
-     "title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores",
-     "brief": "When Russia invaded Ukraine in February 2022, the response from the United States and its allies was swift and brutal.",
-     "link": "https://www.cnn.com/2026/11/07/business/russian-diesel-us-sanctions-trump-intl",
-     "published": "2026-11-07T16:28:52.066Z"
+     "published": "2026-11-07T17:23:53.607Z"
     }
    ]
   },
@@ -54,10 +54,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Neuer’s record-breaking day turns sour after error and injury",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmZNbElEc3o2bnJ1N1FRaWQ1REZzOHBFbkRfQzRoTnJYNU9vYXB0elpjZDdhLVA0amxRQlhJclFUNzFlT2g0ekxyVklSZ2xEck9mTFFIMW55b2VUbU1Lcmp0clBXVFBfTWJDTk1UcWUtTWlPMGttOTNyUVc2dmRvbGNfMXl4WWNyZTdsU1lLRXBDd09aQ01mRmgxNlJKVkdlVTdYTnhvQjZ2ODliY2t0dGVQNkxwaC1BbkFjUQ?oc=5",
+     "published": "2026-11-07T17:01:00.000Z"
+    },
+    {
+     "title": "1st LD: 5 killed, about a dozen injured in Krakow shooting: Polish police",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1NzWm1hMGs2VEhKbzUzRW5tUzJZUVFENXhuVmdWTC1IakE0MVkwUlVVemdDLWlWVUtYY0JpQThuMFdJMlNzMWtUbWNnbXRKMndYNFVVd2J5QVZCRTNfOTVPbjJQbE9aVTJwS0hrcG1CdUNmVkt6VnFYT1dKMGtqRmRXMU9HY1Bra0dtT3ptNDBmRUx5b3dhQUhMTDJKNm90SzNyS1RNdU8zWG42ZnJQb1l3M1R5UWFRSkJF?oc=5",
+     "published": "2026-11-07T16:36:00.000Z"
+    },
+    {
      "title": "Tennis-Shelton outwits hometown hope Van Assche to reach Paris Masters final",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZW1NT1BKWGEwZkcyREYxNEhkNGlDU1VXOUNyajRKTlRCMDlUUkRxYVVHLVNNMmpTUWd4OGFUbnFXamVEUmxkM1hBQldjc0dLc0lYMDNXaDJPR0dkVEg5NHF0SEQxNDJBUEVvRDZiSUxkOFJ2X2dxMkwyY2I4QW5UM29pVjBTRnlKa0FvRW1rdTJSSkE5YTJsZk03clpaXzVob2JIdUpfcUluel9CT0FHUlY4bU0zak93TVBHTzVkSjdabVFQLWc?oc=5",
      "published": "2026-11-07T16:23:00.000Z"
+    },
+    {
+     "title": "5.7-magnitude earthquake hits Japan's Shizuoka Prefecture: JMA",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXYxdHRnMnFnM2I1YlNiWldhVlltOGhsYnJ0enc3aVV4emp0YmtxNVVveXlRMVhpQmZnUlhQWnAxN0Z2d2JhQkJtbFdnV29EckQyWXktNnlia2lGdHZZNVdBNFJLRENzcnQ3X3VMemlrcF9UVmN4bzgwVHhMSFdUQmd6WFVPcl9mTVVZOHFSeXgtSUNXcWw5dlpoOHhvdzFMTDVJNFk4Y1J6MVpNZGUwRg?oc=5",
+     "published": "2026-11-07T16:19:00.000Z"
     },
     {
      "title": "Motorsport: Motor racing-Verstappen quickest in final Sao Paulo practice ahead of Antonelli",
@@ -78,28 +96,10 @@
      "published": "2026-11-07T16:03:00.000Z"
     },
     {
-     "title": "Building a great nation begins with happy families, says Anwar",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb244WUNVdzNhS3JNN3dkMVBxdFhtVDZ0WWpxRTM1ZmJvT2NZci0xc1MxNlZjS3NLWnJDdlUxRXdFWEc0dkozcTduRmdUa1VPWW41V0d3TlhUREZUd0Jod0dNYmpvQll0dzFIV0VJSWliSDc3RGRKZUwwb1lXSlZxSUtTOTAta0xIaG5uR05ncjdGTW52LWdQNlZsNnk5OE1QUnVSTlpfbEIxS0dEU2Z4eQ?oc=5",
-     "published": "2026-11-07T15:43:00.000Z"
-    },
-    {
      "title": "Football: Soccer-Japan great 'King Kazu' Miura sets oldest appearance record at 59",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLWNGMThFazdkc1Z3Y2NrSUx6QkliSW5GQlJyOUsxaVNwUmw5dDNTT0UxbFJBeGJndDB4dURFOVBMUl83b3c4NUZCZWlNTVVGcnI0SkpCOXlhZi1FcWtfNzFFOWFRR1EtR2JENkEwUzgxMEwtcS1UY01DdzFwLUtQLXVhd1ppU3NTVGltNjBvTUlNOW0tcGRqTFdsOEpIZkZTQS1KcjJWUVJFeTNMd0o5ZDJrUVk1eGJBYkp5Z1Z0MC1MUE9CdEt4Rw?oc=5",
      "published": "2026-11-07T15:36:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Manchester City go top of WSL as Chelsea stumble against Everton",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTUh5eEpzTjVZbjlsdnBvYkVYdkcyTmZEbEU2MXFiUC1pc3I2Yk5IR0Jpb2lEU1Qybk9TWW50OXY2Qk5qV0R0TVc3WmlXN3N2TXZuMERISUhRWlRxOEFweEhYWXJKd1hodkg1M0k4bjM4RjdWVVppVTk3a3l6cUl4bWFUaWxxNTQ2REVuZzlUbmdFemZYQU1XRFlJeWdiUWdwX21wVGtHajlRN0N4Y3Z2ZnIxaXB5dTBQdWk3SjB5d28tUQ?oc=5",
-     "published": "2026-11-07T15:22:00.000Z"
-    },
-    {
-     "title": "Paraguay's ex-President Peña faces prosecutors after impeachment, house arrest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcWh0NU1QblRSYXNucTJsN2xxaUxDejBCc1ZPYUlJallWU0JYbmV2cVFRNkYzOTBKUDhjNUowNGFmdFZMUFd1Nzl1UmtrZTE0aUxpMEJwQzZ0d0xNYktUMG16ekRXaDcxY3RkSlpXZGNmMlNQMkVTVEhzNjI1d25zbkVnekF5aldrMkR3R3QzNTdyYS1xTjltLVN1REtqSHFPeUJFc0lYdFhlRm5uODNfREFVeW1RcjJaZl8tTWhYajE2X0NHZ3c?oc=5",
-     "published": "2026-11-07T15:13:00.000Z"
     }
    ]
   }
