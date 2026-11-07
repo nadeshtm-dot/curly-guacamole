@@ -1,57 +1,51 @@
 {
- "updated": "2026-11-07T13:46:24.494Z",
+ "updated": "2026-11-07T14:37:59.300Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "2 skydivers die after colliding midair in California and their parachutes become entangled",
+     "brief": "Two skydivers who were taking part in an organized skydiving event in California were killed after colliding midair and plummeting to the ground.",
+     "link": "https://www.cnn.com/2026/11/07/us/california-skydiving-accident",
+     "published": "2026-11-07T14:36:59.505Z"
+    },
+    {
      "title": "New Zealand in political limbo after knife-edge election",
      "brief": "New Zealand voters face weeks of political limbo after a knife-edge election left the country’s conservative coalition government at risk of losing its majority following just a single term in office.",
      "link": "https://www.cnn.com/2026/11/07/world/new-zealand-election-result-uncertain-intl-hnk",
-     "published": "2026-11-07T13:46:24.731Z"
+     "published": "2026-11-07T14:35:59.499Z"
     },
     {
      "title": "He left NYC after 9/11 for a new life in South America",
      "brief": "In our roundup of travel stories this week: The Englishman who walked around the world, why Norway is making toilets “great again,” plus a New Yorker driven to start life over in Argentina in the wake of 9/11.",
      "link": "https://www.cnn.com/2026/11/07/travel/leaving-nyc-after-9-11-for-south-america",
-     "published": "2026-11-07T13:45:24.789Z"
+     "published": "2026-11-07T14:34:59.497Z"
     },
     {
      "title": "Washington made Moscow a pariah. Now a tanker of Russian diesel is headed for US shores",
      "brief": "When Russia invaded Ukraine in February 2022, the response from the United States and its allies was swift and brutal.",
      "link": "https://www.cnn.com/2026/11/07/business/russian-diesel-us-sanctions-trump-intl",
-     "published": "2026-11-07T13:44:24.774Z"
+     "published": "2026-11-07T14:33:59.501Z"
     },
     {
      "title": "A fan fiction site got hacked. Its users are panicking",
      "brief": "On October 29, the fan fiction site Archive of Our Own, more commonly known as AO3, unexpectedly went offline.",
      "link": "https://www.cnn.com/2026/11/07/entertainment/ao3-hack-shutdown-cec",
-     "published": "2026-11-07T13:43:24.771Z"
+     "published": "2026-11-07T14:32:59.481Z"
     },
     {
      "title": "How one of Trump’s most controversial advisers rose to chief of staff – and what it means",
      "brief": "President Donald Trump responded to this week’s GOP drubbing by initially suggesting that he might soften his approach, expressing openness to collaborating with Democrats.",
      "link": "https://www.cnn.com/2026/11/07/politics/stephen-miller-trump-chief-of-staff",
-     "published": "2026-11-07T13:42:24.768Z"
+     "published": "2026-11-07T14:31:59.491Z"
     },
     {
      "title": "How Yoshitomo Nara’s ‘big-headed girls’ took over the world",
      "brief": "The big-headed, wide-eyed girls that made Yoshitomo Nara one of the most beloved Japanese artists of the 21st century are everywhere — if you know where to look.",
      "link": "https://www.cnn.com/2026/11/07/style/yoshitomo-nara-nyc-show",
-     "published": "2026-11-07T13:41:24.756Z"
-    },
-    {
-     "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
-     "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
-     "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T13:40:24.830Z"
-    },
-    {
-     "title": "Iran’s hardliners see a weakened Trump – and want more to end the war",
-     "brief": "Iranian hardliners who believe Tehran has already emerged victorious in its war with the United States are seizing on President Donald Trump’s midterm losses to demand that he pay a steeper price for an exit from the…",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/iran-trump-war-hardliners-intl",
-     "published": "2026-11-07T13:39:24.761Z"
+     "published": "2026-11-07T14:30:59.477Z"
     }
    ]
   },
@@ -59,6 +53,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Pope Leo urges South America to bridge divides on Uruguay-Argentina border",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYk5ud1hQX09iQ0JmY2pvX1BnMEJqSnZ1YVI2aWhwaFpHOWtuLTIwOGNjY3FQVHp1TEt5TjBoRjdoTDY5dHo4Y1R5ZXctVHNKSlkwUXQxRXA4dWVWSlJRUUFocWRrVXdUWlkyRE5pbnpDcWY3NXljTm1vdnE3cko0ZW5NbzA0TjZPX2lPN2J1RkstWTd4Q1ItQjJySWc4Y3ZfVU9DZ1dhb0lGdWNrUUpSQmp5UmE0YkFpMzhwZVVybXQ?oc=5",
+     "published": "2026-11-07T14:06:00.000Z"
+    },
+    {
+     "title": "Exclusive-Expanding on naval blockade, US military looks to restrict Iranian land commerce",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVFzSFFXdU9UaTFENExhNjZsTlRLV2hDcWt3SlBRMURxMEpfVWF2NDRyYnBVNUV2QlpscFhoMDMwNVNpLWlBMXRjeDZsbnpHdU9KazRySWVTWHJpRTZJUzg1RTJkUU85UTd2cDU5N0l2bEI1UWg5WkZvRWtYLU1XZm00U2l2QUwzYW5DVGhPdzRlY3lWV0x5OHZCNE5icXRHajZuU2xyLXhuZUhLaWNrc085a3p2clN3bkZMNXpXTF9QSTN2aDVFX3VoZHAtY3VuU0E2dg?oc=5",
+     "published": "2026-11-07T14:05:00.000Z"
+    },
+    {
+     "title": "Rugby-South Africa thump Italy to stay perfect in Nations Championship",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZHV4QXhyZ190dEJLUkVJcVNkaVB5aFpldk1DNF9YV19nSmQ1RDkyOURmT3BkYkx2bTZ5RWZTb0xCMVViYjU4aHB1TTNvTmE3SXAtR2NlZm1BSlA2NUZRSE5QaFM2YU9jWUFWcjhQeW5sVE9GdF9YbTlILXpRbUV6RXJLWnVKMXM0SEhnd3hiOTN6RURyUV80QUYweTRLUWlfQTk3Y3JvQzdZWTVxNjI5aWdZUUphQ2p1WTk1cA?oc=5",
+     "published": "2026-11-07T13:58:00.000Z"
+    },
+    {
+     "title": "National cybersecurity situation under control, threat level moderate, says MKN",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObE1teDN6dERKQ3I5Z3pFQWoxS0FaWnhGU2Z5WmNaNVJzTmRtR09KN01UbjNRNnZZTHZlVk9Oa082Q0RWa0RDcDVLbGtvb3p2TzljaUtiRmVOY21xY2xKSWV0UF8tdUowWGZsMHZMUHAySWE4M0oxTVNQUThoUldHVFJCLUJ4M2lMTDZ6cXJQS0dZUm44U1JrNEpUaE1NVXlEcks2QzJDWUViX1dVYm5iQTMtaU5CMW94VzNUeUx2VHRGY0p3RXc?oc=5",
+     "published": "2026-11-07T13:57:00.000Z"
+    },
     {
      "title": "Fire at India oil facility kills three, injures four",
      "brief": "",
@@ -82,36 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWc1UnRocFlkSUsxNFNrT1pDbGEtUU1yNmF3MG1fUk5lZldmU2pIX012OE5KU3o2amxiRldiYXpEbmlaUWVhUENfRFlsdlJBc2tnTVR3UkZZb2F4d3A3amltcFRtYWEwMm5NT3Q2UEhkU3p2TkJEbnRQWktBT2N0NDc0WW5vekxwWGdHOGUxdkRaTWVVZlNEdUtVRjA?oc=5",
      "published": "2026-11-07T12:04:00.000Z"
-    },
-    {
-     "title": "Cambodia raids 972 scam sites, deports 23,760 foreigners",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQclM1UVJJY0hKRFlyaEpqNVY1MXMzZk9ZekZ3YTFEcHlIWEZramluV2FWYVQ5aTdHZkNwd1FyRFlybVJHbmk2aW9nZ1lQcTQ3RFhBbmV3QVU3SXNhY04tRFJEWFhWREFMbU80OVlTOU9UYkZzTDBLNjJ2YkJUTlZSaWNDSXVlV1VZNGZtMThGX1o1WF9PRWpfbnF1SXZNb3BHY1VTbUZKQXhKRW5BelFHN2F6YzFkZkFl?oc=5",
-     "published": "2026-11-07T11:58:00.000Z"
-    },
-    {
-     "title": "Cricket-Pakistan give maiden test call-ups to Tayyab, Shabbir and Saqib for Sri Lanka series",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRUxyY0FGdC1mc3YzUGZSOU9oOS0zZFUwNlNNWFlXZ1NQcGNkLUw5V18tZl84LUsxaGpmNUNxdlB0cnpHaGl6WXpFZjRWUkhoTkhjREx5Q2xieDJzbkpMcGxiMEpkLUZsdmhDXy0tdTI4SU55S3VWU1JtOWN4S0ZlU3NmN3pnTnpxSlktV0JGTjRvMXpmZm1VMlVQQTlDZnRzaWFpYVVFa1ZtV1NyZEV5QlFsemY3cThUNUIxVDJrTmxSUG5GejlIcm53czZRelh1bmx5NG9pZjNwa2M?oc=5",
-     "published": "2026-11-07T11:48:00.000Z"
-    },
-    {
-     "title": "Nacsa says it is aware of cyber incidents involving financial institutions, currently monitoring developments",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPTGxwYVhfdUpGbnlfWDJrY3lsWktGRXcyLW5QdWdsc0NXeTRxeG0xSWJfOXMxdWtxTmducUlnLXg0LUZmVG56d09lMFNQNUUwcGgtZUlYZ0lSSVJCVWhCNjMxcG9mVHREWGQtNF9NUTB3NUdhQWRQRmJxR2txT19KTWpTeVBhNXdCc091QjhBTXhwT19JemhEV3VXMGU0cWxTNVFRNVIzbW5xVXFzVGpjVUY1OTNoQU84aVVfLUptWU9hMEJZUTR2QUVSbnppekY1WXc0c0Q5bExDVEp5WlVtc3l3d2FaQ2gyREtBQW5OVUY4cHc?oc=5",
-     "published": "2026-11-07T11:45:00.000Z"
-    },
-    {
-     "title": "Seven Bangladeshis killed, 15 hurt in road accident in Saudi Arabia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd0ttWUlDdDN5eWg3bzk5bVo5aWk2cHJMRHEzU19ZVlZOTi14MW9DeDZHajhkU0RZTkV6MWF5QWN0b0Z6T3BCQTd4ZDVzUEE5UnVaRXI5OTlTQ1V1ajliVkt6c094Y2Y2YTlLTmQ0MEZ4MGNlbFVhN3hSQ3NDVWNmbUhWS3dVcnFMZ2hBZHlseWxZendZRFVsN0xWU3BIQ1BXVzFRQ0NVWkZHbGJLZDdOd2pMRnVXdTVPcnptMmszclB0VkNpSF9wdQ?oc=5",
-     "published": "2026-11-07T11:09:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
