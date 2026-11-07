@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-07T18:37:40.667Z",
+ "updated": "2026-11-07T19:38:02.795Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "1 killed, 22 injured after driver strikes cyclists in North Carolina, fire chief says",
-     "brief": "At least one person is dead and 22 others injured when a driver struck a group of cyclists in Wake County, North Carolina at around 9:35 a.m.",
+     "title": "1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say",
+     "brief": "At least one person is dead and 22 others were injured when an elderly driver struck a group of cyclists in Wake County, North Carolina, shortly after 9:30 a.m.",
      "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
-     "published": "2026-11-07T18:37:40.867Z"
+     "published": "2026-11-07T19:38:03.003Z"
     },
     {
      "title": "At least 6 dead in shooting in the main market square of Krakow, Poland, police say",
-     "brief": "At least six people have been killed and about a dozen more injured in a shooting in the main market square of Krakow, Poland, on Saturday afternoon, according to Polish police.",
+     "brief": "At least six people have been killed and 15 more wounded when a gunman opened fire from his car in the southern Polish city of Krakow on Saturday, according to authorities.",
      "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T18:36:40.905Z"
+     "published": "2026-11-07T19:37:02.996Z"
     },
     {
      "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
      "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
      "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T18:35:40.887Z"
+     "published": "2026-11-07T19:36:02.981Z"
     },
     {
      "title": "Supreme Court’s trend on church and state is a reminder conservatives have a steady grip on the nation’s laws",
      "brief": "The Supreme Court first agreed to hear the case that launched the justices’ current trajectory protecting the free exercise of religion in January 2016.",
      "link": "https://www.cnn.com/2026/11/07/politics/supreme-court-john-roberts-church-state-trend",
-     "published": "2026-11-07T18:34:40.903Z"
+     "published": "2026-11-07T19:35:02.998Z"
     },
     {
      "title": "AI nerves reinforce age-old investing lesson: Get diversified",
      "brief": "A $2.5 trillion wipeout for the Nasdaq Composite this week is reminding even the smallest investors just how reliant we’ve all become on the success of the artificial intelligence buildout.",
      "link": "https://www.cnn.com/2026/11/07/investing/ai-nerves-diversify-portfolio",
-     "published": "2026-11-07T18:33:40.907Z"
+     "published": "2026-11-07T19:34:02.985Z"
     },
     {
      "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
      "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
      "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
-     "published": "2026-11-07T18:32:40.891Z"
+     "published": "2026-11-07T19:33:02.994Z"
     },
     {
      "title": "What Trump shares with Truman after a midterm shellacking",
      "brief": "Shortly after World War II, as the United States faced a rising Soviet Union, a devastated Europe, and the dawn of a Cold War, President Harry S.",
      "link": "https://www.cnn.com/2026/11/07/politics/mcgurk-trumps-truman-moment",
-     "published": "2026-11-07T18:31:40.900Z"
+     "published": "2026-11-07T19:32:03.000Z"
     }
    ]
   },
@@ -53,6 +53,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Other Sports: Trump offers UFC chief Dana White top communications job",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ3RhOUxneHJEUDFhdDllNWZVTndNQTNqRG1fVEU1TFBPU1YwTkxEZ0pCei1WUENDWElPc1RzNUtETnB1YXFST3NhWVdFd25SOGZqRWh5bnhhNVllWlZTSGhFRWE2WlBwZVVlWmJKcjJrU0NabEJFMVBEZlM5aHVaSVJnUDhNTmZ2Nkh4bTJyV1FUeUVIZjFOZFNiaVZoX0RKWm9aeVhIOXVJTTQ?oc=5",
+     "published": "2026-11-07T19:27:00.000Z"
+    },
+    {
+     "title": "Houthi-run health ministry says airstrikes it blames on Saudi Arabia kill 27 near Yemen capital",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVmRtVFpaS2JmQTM3WlhzUW1HbF9tckJCNHNtYXRzOGM1OWduMS15ZG5FeGYyR24ycnJuRkN4NFhVY2RPN1VyNkF4QklfSmJZM1IzOEI3TWZrR3p6amEwRXlGTFZkVE9CTENMb25BR2F6Q1NyQ3BmTERMS2RveVVFc1ZaWnhRQ1Q5bHhUbE5TaDZaT1plRUJPZzJHb0s1QkZxYWRhdnlBYWktQWhmOXg0aUpqQnVCbWthd2NvWWpKc2pwVENhVVIwdHhsTGtCTldEUzNtdUlrel9KOVMx?oc=5",
+     "published": "2026-11-07T19:25:00.000Z"
+    },
+    {
+     "title": "Tanzania, UNDP commit 2 mln USD to environmental projects",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQblpBRHUxUGJ2Y2RkejdTRU95SjBLZ0Iyb0laN0RxQ05iWlY3SDU5a2dDS3dXNUpEQi1CbU12MTVQNXduTnk4NEtFbDE2Znk2TC1wRTNRcHZrZEt5V0lOQ09SSU91OFlIREh3S2pSZ2lETF9nZlNTOEJIT2thWV8xUjVPbEVEY0l0bWZuRTBjYVR1ZWViYUlEd3BRYWJqTFJZckZNQ0s0a2I?oc=5",
+     "published": "2026-11-07T18:58:00.000Z"
+    },
+    {
+     "title": "Talent show showcases charm of Chinese culture in Botswana",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUGRHbENtbTZDemNBNHZDLWljUzVPV28wZjBtdWdiNENueHAwQ2dRWGRQUE5tYjNZZUJXVFBYQnBfcEZMeXB2NkJMMFZUTUE2UksyNVRNQXlPZXBLeWZIblhlcmNJeHNtcWE4VGZ1TlZYTVlySHpLTms5Z0pUSy12NC1uZkxXRHVtWFVkUnZRWlg3eTFZUWZaWEwyczdPUUdnUEgyeGJGcUt5VWM?oc=5",
+     "published": "2026-11-07T18:51:00.000Z"
+    },
+    {
+     "title": "Rugby-Adams double lifts lacklustre Wales to 28-21 win over Japan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOXzQ1VHhnd2pzN1F0T2FWb3Y3S3YwZ1d3MUhHNnRoMTVud2V6dk1sMXpaOG54SU5zMlJDSnFhR3JRQ0thdWFYUnV0UVYxT0o4TnhzZmlJUS1YSDBwZkVUMmJIX3dRMjVza3dvY3BGc1QtUk1hSjVabDY3YjVjQWJHWVZhekV1aVpWRk9mZ2puQVJlZU1CRGdZNHYtcDJUc3BDSEdWQ2JpcTlXS2pnR2poVkd2TzJGUQ?oc=5",
+     "published": "2026-11-07T18:41:00.000Z"
+    },
     {
      "title": "2nd LD Writethru: 6 killed, 15 injured in Krakow shooting",
      "brief": "",
@@ -70,36 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVW5VcU45TDZ6S0tmYVpBNlY2VUROOVh6c2RJV1FNWERGdUFHTkFHOTdBMFIwZXE0T1FnWF9ScmpabmYtd1FrbjQ5OTlYdEdvb3JWSVQ0SmF4SzZpeE1mbXJJazUtQTlMTGZQXzZjd3dUSGhNSTN2blZtWnNjM2VKamEzcGtnbERscEw3eVl3Zk9fTU1Db08zdVV4TmdvbVpjTklKNHg3S1p0YWs?oc=5",
      "published": "2026-11-07T17:13:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Neuer’s record-breaking day turns sour after error and injury",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTmZNbElEc3o2bnJ1N1FRaWQ1REZzOHBFbkRfQzRoTnJYNU9vYXB0elpjZDdhLVA0amxRQlhJclFUNzFlT2g0ekxyVklSZ2xEck9mTFFIMW55b2VUbU1Lcmp0clBXVFBfTWJDTk1UcWUtTWlPMGttOTNyUVc2dmRvbGNfMXl4WWNyZTdsU1lLRXBDd09aQ01mRmgxNlJKVkdlVTdYTnhvQjZ2ODliY2t0dGVQNkxwaC1BbkFjUQ?oc=5",
-     "published": "2026-11-07T17:01:00.000Z"
-    },
-    {
-     "title": "1st LD: 5 killed, about a dozen injured in Krakow shooting: Polish police",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPd1NzWm1hMGs2VEhKbzUzRW5tUzJZUVFENXhuVmdWTC1IakE0MVkwUlVVemdDLWlWVUtYY0JpQThuMFdJMlNzMWtUbWNnbXRKMndYNFVVd2J5QVZCRTNfOTVPbjJQbE9aVTJwS0hrcG1CdUNmVkt6VnFYT1dKMGtqRmRXMU9HY1Bra0dtT3ptNDBmRUx5b3dhQUhMTDJKNm90SzNyS1RNdU8zWG42ZnJQb1l3M1R5UWFRSkJF?oc=5",
-     "published": "2026-11-07T16:36:00.000Z"
-    },
-    {
-     "title": "Tennis-Shelton outwits hometown hope Van Assche to reach Paris Masters final",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZW1NT1BKWGEwZkcyREYxNEhkNGlDU1VXOUNyajRKTlRCMDlUUkRxYVVHLVNNMmpTUWd4OGFUbnFXamVEUmxkM1hBQldjc0dLc0lYMDNXaDJPR0dkVEg5NHF0SEQxNDJBUEVvRDZiSUxkOFJ2X2dxMkwyY2I4QW5UM29pVjBTRnlKa0FvRW1rdTJSSkE5YTJsZk03clpaXzVob2JIdUpfcUluel9CT0FHUlY4bU0zak93TVBHTzVkSjdabVFQLWc?oc=5",
-     "published": "2026-11-07T16:23:00.000Z"
-    },
-    {
-     "title": "5.7-magnitude earthquake hits Japan's Shizuoka Prefecture: JMA",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVXYxdHRnMnFnM2I1YlNiWldhVlltOGhsYnJ0enc3aVV4emp0YmtxNVVveXlRMVhpQmZnUlhQWnAxN0Z2d2JhQkJtbFdnV29EckQyWXktNnlia2lGdHZZNVdBNFJLRENzcnQ3X3VMemlrcF9UVmN4bzgwVHhMSFdUQmd6WFVPcl9mTVVZOHFSeXgtSUNXcWw5dlpoOHhvdzFMTDVJNFk4Y1J6MVpNZGUwRg?oc=5",
-     "published": "2026-11-07T16:19:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-Verstappen quickest in final Sao Paulo practice ahead of Antonelli",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZUpVZ1F5cTZ5eFBzRHNfV2M0Y2JSdjlOUG9MZlJCalRWRWFZdGtKZTZyYXdEUE8yZEQyOFNHakdtTjg2SXNxUFhQU2lxdVR4MmhqS2RSZWQ1VUtkdlV6X2t0Z3lOZzRQamlLaXAxQ3U4VFc1OVZ6S1dqSEpuSC1xamxLaDZBUGw4NlJzb0dKTjllb1hrc3BIdFRnUzhoa2h1SEo5NHJsemJkT3hfWnZxZjUxYUV3ZWxzYmR2U1ZadFJCOGFydU95ZmVETUJFeFU?oc=5",
-     "published": "2026-11-07T16:14:00.000Z"
     }
    ]
   }
