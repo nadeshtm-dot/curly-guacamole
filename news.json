@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T03:45:29.057Z",
+ "updated": "2026-11-07T04:48:05.016Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -54,6 +54,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Twelve globally threatened bird species arrive at Myanmar wetland sanctuary",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUzNuX1hSeHV3ZkVRUldZOXUyazNQMDFNbWV3SVRXX3lNQmlPT3BBWG9GVWZfM3l0TVlWZS1VT3dEdmJualNUd3Vrd1VZczRCOVlmUjd4anhCWUNUQ19zME8xM2Vaa3JrNVJReHVZazNteERqR0daVGNUZUZXTXRYal9HbTkyY1BiTEx6UnFYVjRiUUV2X3UwTVlpY0p5Nnd5UVVVeTByQWltMWtpZkFKSHBwdGxzQlBBYXc0ZXZXSU41djRsYXRzQ01GY3YzNjhxMWJUQw?oc=5",
+     "published": "2026-11-07T03:59:00.000Z"
+    },
+    {
+     "title": "Jalan Batu Arang-Ijok closed in both directions following landslide",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNYWhmelZoNWdaWkFUYzJ6LWhrOFUzaGxTZGVLa0c0RF9zZGNqbGNVLURDbDd4V0RVOUxOdGQ4aHF4RHB6cEQ1cWJwckJ1aU5GRnJZc3kyb1NDWTdQS1hSME1VWHNpQmY5clNaS2xvckE3djFiM1hSVXdqaTBObk9pbVBBVzJFcVZKQ1VuMFI0MHN4SlRjWjRWRnpCdE5RNDhKOE9KV0JVZFhxS1BBMEppQWJ4b28tSDhK?oc=5",
+     "published": "2026-11-07T03:31:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Everton's Dewsbury-Hall does his talking on the pitch after England omission",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQk1hTk9KSUlUZkJSc0NOT2lSd0VGLWdzS0k5MGJJOHZHTllKdkwwZkFpcUp6clUtOFQ1MFRfVXZkYzZ4dkJoTTdvS1RYRGwtZ212VzY2RzZINWR6cnRxa3MzTG45d3FSVE0yQWJ3Y2FaNmxidENURVNUR1pQdi1wUVJzSXpjck8xeVpacHl0Q3VzQUI5LVh1NFpDNUt3bnliM1p6c3VXYm1lZk02bkQ3SVhidlZwWTduRV9SdUtwLUhmS2Jid2JQTG9lN1VFeTExRXl6UQ?oc=5",
@@ -72,12 +84,6 @@
      "published": "2026-11-07T02:00:00.000Z"
     },
     {
-     "title": "Car owner arrested over fatal NSE highway crash that killed retired cop, wife",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQ2dieEljZXkxWnVIanN3LWh5YXVHNmFZWDBXVFp4aUEtNlR4UWlYdEtZR3JIZjRCSG40S3BHS2ptVm9pVGJ0bkttaFRzU2FsRjRZS0RndDh4QVNuSXhRUDBvbWtfci15ZzF0VmRCWmI1MVZXN0g3TFFmMlMxdnpxODAxVG9TV2ZiczJjTFJWSFNuZkFGVWItbnlmUHNPV0J6aVVBYlo4NW9McXRlc0pZQnpFam40RlRIUWZ6UUxIaG9uSHZZ?oc=5",
-     "published": "2026-11-07T01:51:00.000Z"
-    },
-    {
      "title": "Russian forces launch missile attack on Ukrainian capital Kyiv, mayor says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQME9BSDZneUQxVjY1cDRUalFQTXJKaE1zd201Umo3bzBRU1BGbTR6RHo2eGdFdjhCd2tBeW5hOWZnWG5FenM1Z21OWm4wanJXUVdMM1dGMkFVdmpNcHVoOG04aGczMmM0M1BKcy1RVWwyMmU1amhUZXZqaGNvYmRaTUsxeXhheUNxUThPdTcwOFN1TDRuSTlYMGNkeE1zLVZvdmhDVUJUVzlKc19lNFM5bDgtbXdPZ25CMVlROWFDcw?oc=5",
@@ -94,12 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMElRSWc1S24tb3Z5LWVLZVV2U3RfX1BZQ0pEeE9CbHdyMnhRb3pSWmczS3RkdVo1QlduUmxaWGJtOThMZldCaUpKZkNZdUVMNk5uYVExNy1RVjVVVGwxVGVJS25HN1RrbmFzOFNPMGJUS2dRTTFnT1RLM1ZBaXJabER2Rl84OWlyZ3lSTFlqWGVoV3gtYWZuTkhOSQ?oc=5",
      "published": "2026-11-07T00:54:00.000Z"
-    },
-    {
-     "title": "Teen repays paralysed mum’s love",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcW1vMGZsaGFLQjFLaVNWeUlHVExwdHdsM1JXd0YyY1RvOFNCRE8weHdGZkxhSXcwMTFXTFF4Ql9jSVZNSk9IcFdjZ3oxNjBkeURBTWdNald0dm9NSUw4RGRrWFdacHFhcWJLeGdGOEJIdVdVWURnelFMMjNRUmE4MVctT2xzQVl6?oc=5",
-     "published": "2026-11-07T00:20:10.000Z"
     }
    ]
   }
