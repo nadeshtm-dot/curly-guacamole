@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-07T02:45:05.506Z",
+ "updated": "2026-11-07T03:45:29.057Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Judge places Thomas Markle, father of Meghan, on house arrest after feds find photos of him sexually abusing minors, DOJ says",
+     "brief": "Thomas Markle , the father of Meghan, Duchess of Sussex , was placed on house arrest Friday and faces a charge of possession of child pornography, the Department of Justice announced.",
+     "link": "https://www.cnn.com/2026/11/06/us/thomas-markle-arrest",
+     "published": "2026-11-06T12:00:00.000Z"
+    },
     {
      "title": "Stephen Miller replacing Susie Wiles as chief of staff as Trump grows furious with midterm results, sources say",
      "brief": "Susie Wiles, the White House chief of staff, is departing her role days after catastrophic Republican midterm losses in a seismic staff shakeup at the White House.",
@@ -40,12 +46,6 @@
      "brief": "The foster mother of a 10-year-old girl, whose disappearance sparked a massive search before her body was found across state lines nearly two weeks later, has been charged with murder, Philadelphia officials said…",
      "link": "https://www.cnn.com/2026/11/05/us/carprice-williams-foster-mother-murder-charge",
      "published": "2026-11-05T12:00:00.000Z"
-    },
-    {
-     "title": "Postal worker charged with attempted murder after shooting 2 co-workers at Des Moines post office, police say",
-     "brief": "Investigators are still searching for a motive after a US Postal Service employee was charged with attempted murder in the shooting of two of her co-workers Thursday at a large post office near downtown Des Moines,…",
-     "link": "https://www.cnn.com/2026/11/05/us/des-moines-iowa-post-office-shooting",
-     "published": "2026-11-05T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +53,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Everton's Dewsbury-Hall does his talking on the pitch after England omission",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQk1hTk9KSUlUZkJSc0NOT2lSd0VGLWdzS0k5MGJJOHZHTllKdkwwZkFpcUp6clUtOFQ1MFRfVXZkYzZ4dkJoTTdvS1RYRGwtZ212VzY2RzZINWR6cnRxa3MzTG45d3FSVE0yQWJ3Y2FaNmxidENURVNUR1pQdi1wUVJzSXpjck8xeVpacHl0Q3VzQUI5LVh1NFpDNUt3bnliM1p6c3VXYm1lZk02bkQ3SVhidlZwWTduRV9SdUtwLUhmS2Jid2JQTG9lN1VFeTExRXl6UQ?oc=5",
+     "published": "2026-11-07T03:11:00.000Z"
+    },
     {
      "title": "Google executive Donald Harrison resigns from SpaceX board",
      "brief": "",
@@ -94,12 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcW1vMGZsaGFLQjFLaVNWeUlHVExwdHdsM1JXd0YyY1RvOFNCRE8weHdGZkxhSXcwMTFXTFF4Ql9jSVZNSk9IcFdjZ3oxNjBkeURBTWdNald0dm9NSUw4RGRrWFdacHFhcWJLeGdGOEJIdVdVWURnelFMMjNRUmE4MVctT2xzQVl6?oc=5",
      "published": "2026-11-07T00:20:10.000Z"
-    },
-    {
-     "title": "Four-story building collapses in Sao Paulo, four injured",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0hEblFXSm9xdTlyMlN2R0JPdDJNeDBTaW14Q2RtY3ZSVjYxdElES1hUVHhDVmIzdnBQMEdrUHQxVlNxRVYzSFloWEtid29ma1VGQmxfVHpnZkMzMjNMVHVEbmg3LUJIMFpfa3BLZmpuTVhUdVpLTTNzMHVsR05WWVd2QTlpUXRuOXJvMXNmQ0lGWXU3WGJhM20wbTRabVQyU1plaXNkRQ?oc=5",
-     "published": "2026-11-07T00:17:00.000Z"
     }
    ]
   }
