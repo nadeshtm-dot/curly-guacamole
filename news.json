@@ -1,15 +1,21 @@
 {
- "updated": "2026-11-08T08:47:00.082Z",
+ "updated": "2026-11-08T09:43:05.314Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Missile strikes multi-story Aramco building in Riyadh’s financial district, witnesses say",
+     "brief": "A missile struck a multi-story building owned by oil giant Aramco in the financial district of the Saudi capital Riyadh on Sunday, according to multiple witnesses and geolocated video.",
+     "link": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl",
+     "published": "2026-11-08T09:43:05.790Z"
+    },
+    {
      "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy",
      "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
      "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
-     "published": "2026-11-08T08:47:00.218Z"
+     "published": "2026-11-08T09:42:05.687Z"
     },
     {
      "title": "2 skydivers die after colliding midair in California and their parachutes become entangled",
@@ -46,12 +52,6 @@
      "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
      "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
      "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
-     "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
-     "published": "2026-11-07T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Tennis-Former world number three Ferrer to join Ruud's coaching set-up",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1ZrS0prNFdVR2xNT2VkNS1CX0d2eUQ5OFlQeGhkOWdtMjN0V3lPN2pMeGdfX0JsY1phWDJRSG1Kb1llNDd5X2FGMDdQb1I3WnhhN0FkWno2aVE5VEg2NnBQTXBFNzBSZjJmQUZPeVU5M1liV0JjdnJpa0JKcEVXdHpjTnNhTUVwYnNTR01SUmlYdFRTXzBqWFp0YzhhWVp2MklLMUs5SFl0RGcwTkxGN1BvNWJtUENESlhCX3Bpd2E?oc=5",
+     "published": "2026-11-08T09:37:00.000Z"
+    },
+    {
+     "title": "Malaysian travellers delighted to finally see and visit the 'real' London",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN19CUElPNnZtM1QzQlN2cjNFRk9CVGczWS1GaS1MWEgzRkJGRFFjcWF5bnpMeXZMYjFsWG1MVmRpM25Wb2VpeGRDSkdENTItUDd4aFBRVzlvZ2Q2OWFwUlN4SGN2bmZwcXhZUUdQZEI0Y2hxYjlxY1k4dk5CQkd2cGZhN041TC1wNVdmeEpibnZaWkotRHJGVmxYYXI3Y1lIdjBFSFZ1MC1YV2V5S1MyZHFpOWJzUDgwYlVMbDJvUmpiY3pnMmNXd2hhUk8?oc=5",
+     "published": "2026-11-08T09:00:00.000Z"
+    },
+    {
+     "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVBmRWZuZ01WTWI4bWlrSFRqbWNiNlFHTkxsanN0X3lNS2xkRWZmaE02a2VFQ3YzMXJTTVh1LWdLdDdxQVRPX0ZFQTBRZkZYZ19BUEFUTjVoMTJlVUhfNGpmWHRHaEhwdVpfcG5LSV91OUY3cXdGcWZFRjc3MFREc1RkblNGdWdmckdpSHo3RVBwOWtYdWdsUGdpVFdoSTFzYXBfb241SkZtY3E1Q21zdFVFRDRwbXh5ekNrRGlLYkVhOXdPWXM1RTg0b2ZaclpXTGhR?oc=5",
+     "published": "2026-11-08T08:59:00.000Z"
+    },
+    {
+     "title": "Negri govt to ensure state assembly will not be dissolved, says MB",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTExsaWZBZGU3a0FZUlEwMG01dEdXLThTZXc3U1c2VF9pS0xsTmdGSS1uOV9vUkhiU08xTWsteVRuODJheVNibTF4eng1UkZ5d3g2Rzk4MjY5Nm52bG10S2Q5Uk5CRkx5TXpiNWpOTnduUXhPcUVIbHliN3dvbmFqcHJNOTNqdGNSODhLdkZ1NUVsZ29PYUstRVlLS0hSZXFDOE9NOWprdEpuVW5GcjlPQmh6alVEdw?oc=5",
+     "published": "2026-11-08T08:57:00.000Z"
+    },
+    {
+     "title": "Cops raid illegal Dang Wangi nightclub, investigate 196 clubgoers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0g5NlhkXzlwc2J1eXpvbV85SWxReXdMZ0dkbTNlbmlRbldrN0RNRTBmQk91MzZwTGtfc3FFODg2ZXNMcGdjWHRmeHAyeTlVOHFicU8wa0tfV05NOGtGbWVHbWpPNG5tODA3WkcwQWY0RXNuRXVHbW5VZ3YxMTBuM1otaUZ0MmRvNkFXeVBxYm8tdnkzZVpCTU5ncDhQeWs5djJWRENXeXBCZHlaT3czckFjWXA?oc=5",
+     "published": "2026-11-08T08:53:00.000Z"
+    },
+    {
+     "title": "South Africa's ANC battered by local election losses ahead of coalition talks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWVF3TG15d1gtRllZWUVjejZXa3UyaXoxSE1mdWlUSE8yalFpYnVHdU1tdnNKZjhFX1pnc3BDcTNnYWxXMTRUZ1ZiRzFmUWVxZW5JNjNyZXJaTThkNTBJTmJzRXB3bkNhNVplTmNiS2hGWllKUWU5bGhxOFJ4ZllVRDN2djg2dWpYMHkzQUUtWEdCVHE2YnhPLUZWR3hjU2hmeHY2emR4RWZPWU5LSkE2T3VNTzg3UlVSd3J2OEVtN0EtU2xpYy0w?oc=5",
+     "published": "2026-11-08T08:50:00.000Z"
+    },
+    {
+     "title": "Cops tracking down men who set off firecrackers on main road in Skudai",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHVsODNucTRFT2hGTUkwYzJBMWFNOWRGMTlTOGNXQ0wtanpsV3dWSExlSVJ5cjZnTENTRkh6VGx2RGxBVWhtNGFSMElUcjBDNzdmeXZLZTg4YWJ2RmlzdkJ5LVpMb0h0ZEZRV2dxaTlpQVJRWExidzVGYVRPUUZzOEtBNExPc0o4a05rRXh5Y2pnZGdBMzV2WE1QTTdUWkI3cjJKOWpJbUFmSjhkS3JuN0FQWFl2TzgyV0ZwRQ?oc=5",
+     "published": "2026-11-08T07:49:00.000Z"
+    },
+    {
      "title": "Anwar condemns Poland shooting, calls for action against right-wing extremism",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTIyRWktb1hLZHR1ME9FaEUyS0RlaVNESmhCb29uU1dSSTYwM1ViQTdTckFRUVRaOVJuYk44TWtyS1lCYXhnNVVHRjktRWQwdFo4NnBOZC1LY2NxdldDMGRBTVFwSE1GRTV2TlBJRDJhM3JmZ3FrdGl0MklvemhiTnkyYmVUWlBjZzFWZ1BIMnJxLUszRVU1UVFkYnpvNlFjSzhWMDdyajFsXzhWWmpzYmZiRUZndktuSlEtdVZSc3Etb29K?oc=5",
      "published": "2026-11-08T07:35:00.000Z"
-    },
-    {
-     "title": "Japan to use digital forensics to crack down on illegal foreign workers and employers",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPNGRyNWpxdGFHRGh5b3RvaEIxWENmV1NhcldMYThaWmg0RHRRakYwUmExYzVXWWpES2xmODRpbzNwYm1Dc21lZnZmRmhwT2pWdnZZeS1lU1VNWmFwaVNPcFNwTXczU3ZaWDBKQVFMazRUVGNxTEhXUlBiLW42eDhXSC1SMGRGLVBZY2NWM20wV25UOXZtS1BkV09NOTBhc1VMdkNQWk0wUFJaMmNTZTdqOGhWcmZZSThhMDhiTXR2M1VZcjhZTmpaaGtUMkpwSzZRSzFCVFdZclE0RnZWenVVTW1B?oc=5",
-     "published": "2026-11-08T07:29:00.000Z"
-    },
-    {
-     "title": "Seoul records first snowfall 26 days earlier than last year",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONno4WnhNbG84TjdobzRkeEpNNmhxckNZN1dFTVFrekZ0WDJCalhCRzBwbVlxbUZLVEFXWkRvbXVDdTR3VjRlaWtlMUJicXF2dkVpSjNqdFd2a3FWR3daR0g2NDNHYkljMW5jQUYzVWRNU3pxb0E2ZlQyUkxhN212VmpzOWJ1S3AtaldNZE5SQ19OVTZIbHR3Q3QtOTJjU0RDZmxkVU5OcGVHYlcxVWhQbjVtQTY4MGw5WXBIeWZ5NA?oc=5",
-     "published": "2026-11-08T07:19:00.000Z"
-    },
-    {
-     "title": "Upcoming Sabah budget will be a 'good one' for the people, says Hajiji",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTkI4aUgwcFpkS3M0WkR0VG1lS2sxS3hkUGQ2R2xGTDFuVklEd1RyRHdYRVVzRzNJTk1NaUpyWTBONnR1QXVmSWNtdUNkV0J2UlAtQjlvcEZPVmViU1pFX0dYc0xRREJvWTRjd1J4MWVKVGZzSWF2SFpIdVF4aWdLLXpxcFpBVW5qZGM3UTdmZV9XY0EyeEQ4OU12dW5aV3B5Z0NVYWlhUjRBRk9ENHpHNGkyOENrY2Z2MUtyZW5CQlA?oc=5",
-     "published": "2026-11-08T06:54:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9XWGdBU1dsUHRNU0daZ1BCMWlqOUV5ZFpiUThDTjhYM1NjLTlNYzVwM1dzV1Q2RG5RVUxIekxtYkJNQWRxWHl3cjItRHFxeTRZUmxBeEh1dzVIZC14UE9TRmlENjY2R0xiMm5hNFZ5WQ?oc=5",
-     "published": "2026-11-08T06:38:10.000Z"
-    },
-    {
-     "title": "Tennis-Van Assche's Paris run comes to an end, but Frenchman leaves with bolstered belief",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVTVweFlCSjR5ckNoSzJfU1E3M3BUUWl2aE1EWHFGS0QxbGFoYllKUFE1SDFQaEZKRGJnNUo1MnF1R0ZSakVVZlBfa0ZLVk5mYVNTRllGWnpnVFZmSlFneGhMcE9Ec2VIQTYzT3QxOTlXbUhoN2ktbHVCbHhWeHBZSTlQQUVpQWFmXzhVQzBlNlFsLVNmN0VWMHVEazl4QjRhNVNYUWJOTDZ0SmxJU2xMdHVlWTY5Wk56ZGJXZFo2WlNrVUZXbFUtQnpqVDY1dWFwVEt5Y05IeXY?oc=5",
-     "published": "2026-11-08T06:38:00.000Z"
-    },
-    {
-     "title": "No announcement on Philippines' Pax Silica economic security zone during Asean Summit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYV9VU1BmbFhlY3pYaTctUEV5Vnc3OEx2LWJDSWIxendROGZXY3ROc09rWkU2QTJ2ZWJndmlqNEhIc1VROHVoWXF5VnlpZ1U0VnhKcFIxVTRpaHdxQXozRkV0Z01SZzlwUVZCRUNBNUlNdllXQm1Ec3plNDc4aTVfMEstTE1QOWRBcXdqRGdLT2xrNTVxTzNZc2U4YnBWbU5Ea29uR1lrZVpXX3g2dDdHSU4yY3hVcGRFR3pLSmpVeko5RHBwanBiMmp0bVpSblNicTF3dTFLcHg1S2FyYndKY2ZXajE?oc=5",
-     "published": "2026-11-08T06:38:00.000Z"
-    },
-    {
-     "title": "Rugby-France call up seven for Springboks clash as Ntamack ruled out",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc3dEYnJlWHA1dE5qUVRJSnFYODUzUzVBWnAwQ010cFNvUnp5b25NSzVRM1RwWHd2QTlFeUpBeVJtQVdFOEc5YkdCZF96Tkkwa1ZibHlqY3JGclM1NTBMbVp4OWoxcmFlR1U5cFZnaEZUbnBmZWw1U092RHgxRlpJUWlBUUYxdkgxQjcydUNCeUhxSFN3eVl3V1lYQVI3M1JNU1BhUldsY2pUUVJfdUVSbTUtRi00dTdEdVE?oc=5",
-     "published": "2026-11-08T06:07:00.000Z"
     }
    ]
   }
