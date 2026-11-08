@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-08T04:48:50.407Z",
+ "updated": "2026-11-08T05:45:23.278Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy",
+     "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
+     "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
+     "published": "2026-11-08T05:45:23.451Z"
+    },
     {
      "title": "2 skydivers die after colliding midair in California and their parachutes become entangled",
      "brief": "Two experienced skydivers who were taking part in an organized skydiving event in Southern California were killed after colliding midair and plummeting to the ground.",
@@ -46,12 +52,6 @@
      "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
      "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
      "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "Schumer faces skepticism among some Democrats over majority leader role",
-     "brief": "Chuck Schumer is confident he’ll continue leading Senate Democrats after they captured the chamber’s majority in dramatic fashion on Tuesday .",
-     "link": "https://www.cnn.com/2026/11/07/politics/senate-democrats-new-majority-leader",
-     "published": "2026-11-07T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "China shifts former provincial leaders to legislature in 'soft retirement'",
+     "title": "Loud booms heard in Saudi capital Riyadh after early warning alert issued",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOE9ZOFRyMzRhMmMwXzYyU1E4WVNQQ1dTTktlT3VjZUFXWmllUlB4dEp5TnY0amkydXdzMTVDZHZuZVFWSGd5WV9LSFJ3dFFCWVZoM0psMzFfX0RJM1JlYnJFOVJRcVlxVmdxV21GUnRreHRDbWp6NExLTl9HRm5OQ2Z0UWdNb3FvZkJ1cHVjQ0JJVEk4TXdQRFBOQ2NNU2VkZENFRWtsNHc0bFdhWHljRDBWYnAyQmdNOWVSUnBGX25iMXVJdUNWWjVlYUduNU5jbHpJcUVvTFY?oc=5",
-     "published": "2026-11-08T04:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQk5PVEgtMG15VXVTZlUwaUI4VVF5aUNjOVR1ckJTam9iRkJscks0MUlOcnR3dDNvS2M5Rk9wT2t6cW9tLVN4WjhGYmVJWHJGenpac3VzdnJiUTRTMDFQTTZBMEpiN2VwNU0wVWlvaUo4aDJyMjU0X2k4cVFpQUIxQ1JWRTZfdnotMnpFNUNyd1I1dEtIckFBbUdrblN4Sm94dU0xNGlFYkF2Ylk2QUtWSGl5WmUtLUdVSDl5UzE4RQ?oc=5",
+     "published": "2026-11-08T05:27:00.000Z"
     },
     {
-     "title": "Other Sports: Sailing-France's Laperche wins Route du Rhum Ultim in record time",
+     "title": "Heavy rain, strong winds cause ceiling leaks at Seberang Jaya hospital",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXUtSDNYZ1NNOTRuZ2s2aHhBZkUyUWJDMkdlWTNCMEFHLTBFM1RJaFVieXJXN3dsVFFTOER1eUY2UXJrajYtRDJYWmVrRmdBRFFJd2RNZ01SQ0J6aHdrYi01SlhFLVE1S1BoYWJ0aUxfZlZkOG94Qnc3bThZOWhBdk1VSEl4NUlvREdfUTRKYm90b1BLZ1JlQnpna1ZWalY2MUlzRFJnQXBvdUhuTHU0TmVmX0lhY1NmNFE?oc=5",
-     "published": "2026-11-08T03:55:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZVpJZlhHMVQ1OUx3ZEpmcEk5R2xoNHltcnV6WF9xMzl3bnd5dl9RSnRJb1ZZVkstT1BnNDR1NGFOVU1ObnJSdElPYjNfLXpsclpjUy1RcFlUU21sRFVBaEVkbGx6OFFwdk1FTXlqTU9yT2Vwd3BmWGJtWnNqbUx4Z19DczdOa3Q0TG8ycVlCaXAzbU45SlRrMzZmR2Q4Tk9RVTVGV1ZaNUxxc05LRGNza0RUaHZVa0Q4S293?oc=5",
+     "published": "2026-11-08T05:18:00.000Z"
     },
     {
-     "title": "Malaysia Film Week opens in Phnom Penh with sports movie 'Terbang'",
+     "title": "Thunderstorms and heavy rain forecast for five states until 3pm",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUkFXb0FhN1JJeDVmR3Z2Q3dFSExKM1o5SWVoWTBuOGs1OGxDalZkdkU3UGlKa2dabmJoRUtKcGpHbFhtLVQ4aVljNU02UGtRYmc5LTFsZnlnU01DMklyR1JtMmFtQXVWdF9VcHdLT25idVlyd1RYeTY4eVZ1NTJfYnM1akN3eHloM3MwdkNmdVhUdms5bmJ4alA1bnE0VjhWUVZUcVRxZFJlcXhZNThhWUt2NExjXzJiU0xwTjBTU3UyaFU5MWdpdkdxSEM2dw?oc=5",
-     "published": "2026-11-08T03:47:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaFBiZGRDRFZNUGx2MFhlekY4dmNlTzNZeFBXSzBWVUJpaE5MMUhwM0xDaS1EM3JBOGFXdmdDRjR0NDRFVFgtYnFKLWNma0c2cEJJWldSUHRIaUxDMjNlNm15aFZmbmtXb2NxcmVNUVUyS1ludFhJSWtmT0FyRHoyT2dvOXNYX2Z2SXhuZVZDVy0tOVlhdXFfQlZXbzhzcDFFTlV1T1EyZTRUSlVSdmlHS0VYNA?oc=5",
+     "published": "2026-11-08T05:17:00.000Z"
     },
     {
-     "title": "Basketball-Jokic wins over Mexico City as Nuggets hold off Pacers",
+     "title": "Perhilitan to set tiger trap in Gerik following viral sighting",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVVNzUGV1dmN5VzNJZUZCTC1pOU5RSFhna3JDcGlhMHpSblo0QmgwUDA0b214LTMxVjNtMk1tUTRFN3NmeGl5Zy1KZHhUbF9nMXFPY0d3Y0Yya2lfa29mX1MxOHpCUUI2RFhFZ1Mzd0d1RVZRNTZZQnR6V1AyMXFiUV9qTHRFMmhTNUctUktlMDZqcVc1SWh4YV9NenBobzVJME1KTVlLREUtQkZnWnpoLU5ibmpwNEhPR0ItLQ?oc=5",
-     "published": "2026-11-08T03:38:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSkRVRTc4TngtdFZTTUFpWUhfQ0UwWFJrTDh6TVdVYlhxYjZKTkdyR3hhX0QtREwyTlpzUTktbjBLUG9mZjNjNG5ZWkhLbl92TW11aGFUZTRaWEh1WGt2SkVDWk9XZWtEOG5oUVpsUVBXcWJxYmNFM3dnQjgxNDh2aWU4dHpMX0NwTjhSM2RIOHhjTVc3SzZESVZkUGFiRTU5UGFSRTItWFdPdW5DYm9yUm9B?oc=5",
+     "published": "2026-11-08T05:15:00.000Z"
     },
     {
-     "title": "Football: Soccer-Messi becomes first to win MLS Golden Boot in consecutive seasons",
+     "title": "Cricket-Khawaja denies throwing 'anyone under the bus' with comments about ball-tampering scandal",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXRRVnN6VmNQNlVITDhPUGp6REJFenJrWkh3YTNqN3RZaFVFal9kWDBkU3R5ODVrcVd2RmpucDZjSnpEMGFCZUlDZDdGUFl3NUV4aDU0XzFCS3NNQ1M3RHVqSVg3bHozekM3eVhEUl90MTJrYy16VjRwV3JvdnY0bmR0b1pyWDY0VUtLd0VMaWk3cmIzODZ0Q1NLMlpGYnduS1QtZ2ZpZXNFS09KUWZDYldIZTFyME1EdEI1M09ZR1REb2s?oc=5",
-     "published": "2026-11-08T03:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUnlaZ0NMNldCV3U4b2R6VFc1VURVUnBqb09BZ05HUE10eHhBUzR6ZXFKZHpKMnl4S0xUaUxVTG5rekRRVTFZNHhmRTlVeUZZdTZZQ3lJQ2F5dW53TFpySnF5c1lCcjJpOE1CdW81bmVvS2czTEZpZVY3QzBMVWtpMkZ6QmY4Yk1fc3M2M1ZLelV4R1BrSEc0bk5ra2Npek5XMnNmN2ZvZ19kcVVyaGhjcFVIMTNZZDVkaXVNWnI1MFhHa0lCTHhvMHRnN19ER3hKQ0FiUG4xNFAyWXNyVV80S25EOVlDN2Rh?oc=5",
+     "published": "2026-11-08T05:05:00.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Filipino seafarer killed in suspected drone attack on Persian Gulf tanker",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wQmROb0hnOFFUUmNmU0VpTkM4M2FvU0pwdWxuZFRfYVRLRzlBQ3FnbVBlYXVhZVBQLXZ4dWRRQ2x2a3c0dVFtOGNwQWVGRWhYaWtpOVhuZEQtZjBDcC10RXE0TER5Mm1vQUE?oc=5",
-     "published": "2026-11-08T03:13:39.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOUxaczJpTFBEN3U4ODI4RnpqQjdsRjRKY2NaZFdrQXl5V0NUckh0d25oMm9LNDdfME5BaHE4OGl0RjI5bnhmUDA0SG82SV9CSzZOQldoQVQ2S3FxTDNXVUNFbUY2WHBsYmMwREdndlFUOGxCVFZYRFE0NlUxb2dxU1Q4RGItSmxybHc4UzBDaGFwWElBbUVEbzc0YUhNMWNQWlVLUEljNUdSVzdrQWw2VFgtSWZJYWxON0pxdVBPNkozWF90MnhLdjQxMUUtRi1aQmc?oc=5",
+     "published": "2026-11-08T05:02:00.000Z"
     },
     {
-     "title": "Opinion: Can you really fight spam?",
+     "title": "Rugby-New Zealand pair could miss Wales clash after injuries",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOXoxblRfVEppcXZDaHNzajJfYThRZTg2UG1oSWo4VV9iMGFQVTRXbDY4YVR3c3dpWUhub3Ixb2xGU3BGX3ZwTlpMaUxvbW9tY0gxc3gxRnZNc2xDOEdDMVBqV0daei1ua1EwRUpCdVZ2bmdkVDFMOWptZVlpdWtLeVo2U0V6UHlseERyZmlVUQ?oc=5",
-     "published": "2026-11-08T03:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMlZiSktMd210eTVDbVNfTWd1STdKXzlOaHhaVlc0VDA0c1o0MDNSQ094QkJXWHAyOWdTSFBCdXJpbVRMSWdTRXkwXzdvNzdWczlHZWV3djBIaHRMM1V0THlLcW1BMGpiMHljZDhXQnVQMkt4N21YNUp0RE5COHpJdzV5ZmIzMkV0UHJiTzJvRlA0QUZsZ2dJcTViNWNtYUxGRG5UaFZCUVVlMFFvOTIw?oc=5",
+     "published": "2026-11-08T04:51:00.000Z"
     },
     {
-     "title": "Thunderstorms and heavy rain forecast for four states until noon",
+     "title": "Anwar graces joint MIC, MIED Deepavali open house in Shah Alam",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaHdZNWQ2Q2I0QjlWYUMyTGZ6d1lTeUU4cXUwU1JtejlXc0NMNW5ONWZVTVdENkJlLWUzandReDlmUHlxcXBKcmJBWlF2bUNwQzA4SklmQXBzQjZtalk3ci1LdHdYam44MFZZdFRoN242OE5WYVduNlBnT2FZQ0lWanhPbzk2RDNhUVJTbHRBV0l6N2luV3ZjbzQ0MEljS1RkSW13cVk4SExUR0JGaExOLThMNEY?oc=5",
-     "published": "2026-11-08T02:37:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ29ScjNvblpaaTVGa2pwMHBsck9WWC14ZFY4VlI5ak1VaGZWOXZLVG56eHF6NWNpUHRCXzB4S3QzQzZoTDhpNGpoZXJfQTNLc05PNnBHeHhGMFZMc29XTE5CM3NMa0NLSDdnQUN0Z0RqQzM1MnJ4TmtHTGU1NHV3WWpJQnFhb2tScTVrUTdoTTM2QmdwSXdIY1lpWHFpSTd2ZHFtTnZmMVo4bTQyYVRhempqVHd1SW8?oc=5",
+     "published": "2026-11-08T04:15:00.000Z"
     }
    ]
   }
