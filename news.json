@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T00:54:40.894Z",
+ "updated": "2026-11-08T01:57:55.383Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -54,10 +54,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Who is Qiulae Wong, the outsider who could decide New Zealand's next government?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOS2R6Ynh6NDR1bjd4azZ5WWRkeldNV1Nmc1VKUEFYdDU3Y3U1VnREbV9MQzlVYlZKQkd2UFFSWWwzWDI1eVljdUVZdkVOTzhVQzJjdkFZMDlaQ1FaZl82ZEVZSnJQOTZGZDdYd0xyOWRJWk95b3pDR0dpOEMta2U4NHZQZ0NUZFBFLWlNR0F3aTlvcHJGZGo2WHBRbldqT2tuODVpSFk0QWpSQkdqTkZIR2poaGhjR2NiZTVEN2tNSDlrZG1UU0xIcg?oc=5",
+     "published": "2026-11-08T01:30:00.000Z"
+    },
+    {
      "title": "Boxing: Boxing-Britain's Hutchinson beats Buatsi to take vacant WBC light-heavyweight title",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2lNR3A3X2ZlbDRfSldJNXJzajNOSHZtemNUX0VCRC12OHpLNjRjZWUzYmYtempyUjNYaGI2NXhpbG5qd2tWRDhXR2pIelBKSTNBVEVCYTlKSm5GczZzOUg5ZlRoQ2JsbGVmY24wbUt5RVZzNkdEaTR1ZElpRmtueUJ4SFA3MTQ2dG9iWVdKRXdEaHVqdEYwMlVyVGhlNzRzUWRRRTJVQ2JCVlFzb3R1SS0wM1h3X0F3X01NeE1CdEpMRDZMSzZXX1RhdFM5VXUtb0E?oc=5",
      "published": "2026-11-08T00:39:00.000Z"
+    },
+    {
+     "title": "Tennis-Rybakina withdrawal a blow but WTA Finals field remains strong, says Muguruza",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSEtqcGJJZnloX0haTTg1aVhTOHJrNDVDd2p2VWNzT3ltUEJfNWs2YjJRODFUWnN4dmRKRXY3Q2VtM1I3Q3hDLWZPUXRuVHVHa2pmZU1RQjduX1N0aUp4MFJJOVdYakZ0OS1HYWxHeTgyOWNKSFZxMnNYck5Jek9qMnFRaHJULXQ4dU1TcEJtZEJ0UjhwS3FmeVNHQmpENHgtam9oWWdRZWgyamRVaHVYeTAtQ2VqaHlOYWNkNC1oZnNyS29DZ2tvVlNvM2lJODQ?oc=5",
+     "published": "2026-11-08T00:38:00.000Z"
     },
     {
      "title": "Motorsport: Motor racing-Ferrari drivers say Mexico row settled after talks",
@@ -78,28 +90,16 @@
      "published": "2026-11-07T23:05:00.000Z"
     },
     {
+     "title": "New Zealand preliminary vote leaves unclear who will govern",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa1J5Znl2RS1DTEEzR2VtRHVKVlhFcFpOQVpCMXNoNzNjNkVyd2t1R3FzRXFUbGs5bVNsdUhhclh6SFdxVjdxYWNGeHRpa0ctbENKMnM4eE1TRjl2T3UtYWJFa3hxZUVTWml0UDczX1dFNWZEOGt5TG1sRDRDeE9BT005Q1IxTzVIbC0zQXJIakMydXRYYlRyN2tubnNodTJ4VjNTdmFIamkxMF9y?oc=5",
+     "published": "2026-11-07T23:02:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Real Madrid sweep aside Valencia to move level with Barcelona",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVWFiVzVCRnpHT0NNRjdzMTJqTy1mSUFRSUVnTUFKcEE4WjJZZ2VTUGZyS1VVbGhWV2NZWGpkWDFoTVF5aE5FT2JCRloyQ0l4WjBLcTdRYkFXLWRqTk1UUFRsVGFWSnBySHFVSDk5d0tHZEFqX0s2NGIzc3R5Zk9XRVRUc3V3cjBoSGtVX0p6UEFUekVmOUk3Ynp0WmxZVzlZb3Y5TEpicFpfSm9wTFl3Q0drWGp4WWNfRkx4MFFn?oc=5",
      "published": "2026-11-07T22:13:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZ25QM1FkTTlmOGFtdHA4M2dGT3RoSEN4dGxjbUFmY1hEZ3g4NURjSl9MSWdDZWswT1h4VkU1dkF2dTl6NmxMMnI0TFRaLXlzd0ljdzdPWklOVlV6cjJkYV9CcENjazRObzlKNmphb1FKM3huYVluVl92WkpMLTQ1ck9qcEE0Qkg5R0E?oc=5",
-     "published": "2026-11-07T20:56:48.000Z"
-    },
-    {
-     "title": "Football: Soccer-Lacklustre Man City felled by Forest as title challenge stutters",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNS2V2VzBHc2lmRzhYUWFfbFUtZ1llUkRTUWdnQ3BCTEJaNFBpNmczeEVtcHA1ODJDMmhWaFluS0tRWVlMSVA2YVZWcy1ONkV0Vl9oWmFDT0JCdlh4eFoyQnJRMVpTZUxvbjh5RmZzX1FoRDNIeHA5SDdHREhFUGxhR0RNbksxWWNTSDh6YXhDRGFUY0UxM0F6UzVkTkhxOGxUTlpiMS1Jb0YyV0JLbzdyZHltbnJSLUxXRnZaZUoxMlBPQQ?oc=5",
-     "published": "2026-11-07T20:36:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Tenerife bid tearful farewell to De Miguel",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUhwd0VTcjk4bnNUclNXZGNUQ29YRWNTWVdHOUZudDJBQ2RvVFdrZmMyZlF2TzN3bEtOaGxNTmdzN3NyRkRjVHN2dmJ5V2RqNVdDbFNuOTRLRHo1SHJYdlNsdG1Td1ZqeVZ5MmJEdGJoMmc2ZWdFTWhhWVRyelRJcGFIRFlKdVdjdU9McEctTkFsOF9RUWhjSXNUeXRaLXlIZXhBSg?oc=5",
-     "published": "2026-11-07T20:28:00.000Z"
     }
    ]
   }
