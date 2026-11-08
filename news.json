@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-07T23:31:28.368Z",
+ "updated": "2026-11-08T00:54:40.894Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
-     "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
-     "published": "2026-11-07T23:31:28.531Z"
-    },
-    {
      "title": "After Kraków rampage leaves 6 dead, 3 more bodies found at suspect’s home",
-     "brief": "At least six people have been killed and 15 more wounded when a gunman opened fire from his car in the southern Polish city of Kraków, officials said on Saturday, adding that three more people were found dead at his…",
+     "brief": "At least six people have been killed and 16 more wounded when a gunman opened fire from his car in the southern Polish city of Kraków, officials said on Saturday, adding that three more people were found dead at his…",
      "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T23:30:28.550Z"
+     "published": "2026-11-07T12:00:00.000Z"
     },
     {
-     "title": "Schumer faces skepticism among some Democrats over majority leader role",
-     "brief": "Chuck Schumer is confident he’ll continue leading Senate Democrats after they captured the chamber’s majority in dramatic fashion on Tuesday .",
-     "link": "https://www.cnn.com/2026/11/07/politics/senate-democrats-new-majority-leader",
-     "published": "2026-11-07T23:29:28.546Z"
-    },
-    {
-     "title": "1 killed, 22 injured after elderly driver suspected to be impaired strikes cyclists in North Carolina, officials say",
-     "brief": "At least one person is dead and 22 others were injured when an elderly driver struck a group of cyclists in Wake County, North Carolina, shortly after 9:30 a.m.",
+     "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
+     "brief": "A group of cyclists was winding its way through a wooded, two-lane road outside of Raleigh on Saturday morning when a car crossed the center line and plowed into them, killing one and injuring nearly two dozen, the…",
      "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
-     "published": "2026-11-07T23:28:28.565Z"
-    },
-    {
-     "title": "Despite warnings from Trump admin, after the ‘Blue Wave’ many migrants bound for the US are hopeful",
-     "brief": "Two days after Democrats routed Republicans in the US midterm elections, the American Embassy in El Salvador posted a stern reminder on social media.",
-     "link": "https://www.cnn.com/2026/11/07/americas/migrant-caravan-midterms-latam-intl",
-     "published": "2026-11-07T23:27:28.559Z"
+     "published": "2026-11-07T12:00:00.000Z"
     },
     {
      "title": "UFC CEO Dana White declines Trump’s offer to become press secretary, source says",
      "brief": "President Donald Trump said Saturday that he offered the White House press secretary job to Dana White, but a source familiar with the matter says the Ultimate Fighting Championship CEO declined the unorthodox idea.",
      "link": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
-     "published": "2026-11-07T23:25:28.562Z"
+     "published": "2026-11-07T12:00:00.000Z"
     },
     {
-     "title": "In setback to Netanyahu, rival Eisenkot to be tasked with forming next Israeli government. But the path remains complicated",
-     "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival will be tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
-     "published": "2026-11-07T23:24:28.554Z"
+     "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
+     "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
+     "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
+     "published": "2026-11-07T12:00:00.000Z"
+    },
+    {
+     "title": "US offers millions for information on Iran’s nuclear program despite Trump’s claims of obliteration",
+     "brief": "The United States is offering a reward of up to $20 million for information about Iran’s nuclear program, despite US President Donald Trump’s repeated claims to have obliterated Tehran’s capabilities.",
+     "link": "https://www.cnn.com/2026/11/07/middleeast/trump-reward-intelligence-iran-nuclear-program-intl",
+     "published": "2026-11-07T12:00:00.000Z"
+    },
+    {
+     "title": "Schumer faces skepticism among some Democrats over majority leader role",
+     "brief": "Chuck Schumer is confident he’ll continue leading Senate Democrats after they captured the chamber’s majority in dramatic fashion on Tuesday .",
+     "link": "https://www.cnn.com/2026/11/07/politics/senate-democrats-new-majority-leader",
+     "published": "2026-11-07T12:00:00.000Z"
+    },
+    {
+     "title": "Despite warnings from Trump admin, after the ‘Blue Wave’ many migrants bound for the US are hopeful",
+     "brief": "Two days after Democrats routed Republicans in the US midterm elections, the American Embassy in El Salvador posted a stern reminder on social media.",
+     "link": "https://www.cnn.com/2026/11/07/americas/migrant-caravan-midterms-latam-intl",
+     "published": "2026-11-07T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +53,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Boxing: Boxing-Britain's Hutchinson beats Buatsi to take vacant WBC light-heavyweight title",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPU2lNR3A3X2ZlbDRfSldJNXJzajNOSHZtemNUX0VCRC12OHpLNjRjZWUzYmYtempyUjNYaGI2NXhpbG5qd2tWRDhXR2pIelBKSTNBVEVCYTlKSm5GczZzOUg5ZlRoQ2JsbGVmY24wbUt5RVZzNkdEaTR1ZElpRmtueUJ4SFA3MTQ2dG9iWVdKRXdEaHVqdEYwMlVyVGhlNzRzUWRRRTJVQ2JCVlFzb3R1SS0wM1h3X0F3X01NeE1CdEpMRDZMSzZXX1RhdFM5VXUtb0E?oc=5",
+     "published": "2026-11-08T00:39:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Ferrari drivers say Mexico row settled after talks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzI3bThWU0tsTFM0c3R1ZjBvN3VFbXF4Ul9JSkpZcXExUWEwaXU3XzB4MEtrMnlwaVJ6MFpiczZGaW9KLWtxcklLcHZQY0xMSU96WnlhQ2xlQkIzWHZOeXVWV1VPcEYxUExESDRfTVJNQldfVjNGU2xWLXhhSU9pUmlONFd5THV3WU4zLXBqYWNLS053b3E2TDZYS3lrY0VERHN0VjdXaEtzTUhsOW1UN2lzRjdDYU14c2c?oc=5",
+     "published": "2026-11-08T00:36:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Brazil home duo suffer setbacks in wet Sao Paulo qualifying",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUGNpTXg0cEU0M3JQS2UxeGFPUFFTZGlNb1d0akFHZnFiQV8wckhfZGdZVWRVV195VzFoYjhZQXpxcGpEcjhhZzRCRFBad3o2OW1TOXVmZjNsdDBoRjlQMEIzNFRsOEh0SmlOdFZwTkZUak9pRzAxelFUVTEtQmszUGdtN2h2b0V4dS1KWG9yX0NvTllBTl9UQ1NQUFlrWjhDMThlRVp5WkFpSndzY0FiR1lKakx1SklvcVMwVk1wc0d5c2xIdWc?oc=5",
+     "published": "2026-11-08T00:17:00.000Z"
+    },
     {
      "title": "Binance CFO Kaiser Ng steps down, Justin Yek named new finance chief",
      "brief": "",
@@ -82,24 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUhwd0VTcjk4bnNUclNXZGNUQ29YRWNTWVdHOUZudDJBQ2RvVFdrZmMyZlF2TzN3bEtOaGxNTmdzN3NyRkRjVHN2dmJ5V2RqNVdDbFNuOTRLRHo1SHJYdlNsdG1Td1ZqeVZ5MmJEdGJoMmc2ZWdFTWhhWVRyelRJcGFIRFlKdVdjdU9McEctTkFsOF9RUWhjSXNUeXRaLXlIZXhBSg?oc=5",
      "published": "2026-11-07T20:28:00.000Z"
-    },
-    {
-     "title": "Tennis-Rybakina pulls out of WTA Finals due to fitness concerns",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLTQ4VVVFNm1GSUM0QV91Nm9WMnZScUhTaVRTcW9XYWdTRkpudUZid2h6ZkJNdzREQTFkMGdjdDVoZEc4MmtpSmhhdTRRSThXR2M0MFh4WUE5LS12c19nRjZTajJHQ3FsZXRuUTdoSlFDVU9iczlDVWVROV9SZ05IVE9CZDhoMTNpekxNRmdwdVNXckxrT0lWclRrS1dSamZ0YnpIWFFvNXVlQVFMZzBhVHlhSWY?oc=5",
-     "published": "2026-11-07T20:13:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Egypt part ways with coach Hassan, Maher to replace him",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGFPdmNyV3luTlV2T1Q3eG16SmQ3OWRuUTNQNXEtZEdTaXk5VlIxSW91b1hLOER6QWFLY3BCbWMxS0Vlc1hqajZjd0tiNXZlZFhJVlZxdHpBOUtRZ3RIcGFaZGVxVC1oaWZ6Tk9lZUVTZWticURzSjY1Q2x6N0ZmYTZkWFFpeWczOGRGdE5fZzdYNVBMRjRVeG9ITmhZbGJFa1d1TmVTelRzYldzQWxtdnBJNHI?oc=5",
-     "published": "2026-11-07T20:04:00.000Z"
-    },
-    {
-     "title": "9 killed in highway collision in E. Türkiye near Iran border",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMERNdklfQnV1aGFrcWxpamU1eVdLcGpJTmJnSVlRbFBrR2dJM0tuTXlBbzU5UndrcnRBTjlFb2pGMzhUZzNNLUxSMldmT2YzZDdHZG1Nbkc3NDQ3TzFhc1ZyeDdET2FabVRWSE5HcFQ5WXBvYWpOUVFKUXVwU1F1cGZSUnlHa09qQXpET0cxLXRqR0NmZVNxNklhbWhfTlZLYUJheU9jUGVVQzQ?oc=5",
-     "published": "2026-11-07T20:02:00.000Z"
     }
    ]
   }
