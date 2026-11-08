@@ -1,55 +1,55 @@
 {
- "updated": "2026-11-08T14:36:47.270Z",
+ "updated": "2026-11-08T15:30:39.168Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Two trains collide in Egypt, killing four people and injuring scores more, authorities say",
+     "brief": "At least four people have been killed and nearly 90 injured after two trains collided in Egypt, the health ministry says.",
+     "link": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
+     "published": "2026-11-08T15:30:39.375Z"
+    },
+    {
      "title": "CNN analysis uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
      "brief": "The day after massive dual earthquakes shattered Venezuela, Ailin Quiroz made her way toward the coast to search for her sister.",
      "link": "https://www.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam",
-     "published": "2026-11-08T14:36:47.496Z"
+     "published": "2026-11-08T15:28:39.371Z"
     },
     {
      "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
      "brief": "A building belonging to Saudi oil giant Aramco in the financial district of the capital Riyadh has been damaged in a missile attack.",
      "link": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl",
-     "published": "2026-11-08T14:35:47.499Z"
+     "published": "2026-11-08T15:27:39.387Z"
     },
     {
      "title": "As fresh talks near, Putin appears set on wrecking Ukraine’s economy, leaving Kyiv facing the toughest winter yet",
      "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
      "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
-     "published": "2026-11-08T14:34:47.493Z"
+     "published": "2026-11-08T15:26:39.368Z"
     },
     {
      "title": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
      "brief": "The judge presiding over Russell Brand’s criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan and sexually…",
      "link": "https://www.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl",
-     "published": "2026-11-08T14:32:47.489Z"
+     "published": "2026-11-08T15:25:39.364Z"
     },
     {
      "title": "The vanity economy is taking over America’s downtowns",
      "brief": "QQ Nails opened its first salon in New York City twenty years ago.",
      "link": "https://www.cnn.com/2026/11/08/business/cities-retail-vanity-economy",
-     "published": "2026-11-08T14:31:47.485Z"
+     "published": "2026-11-08T15:24:39.378Z"
     },
     {
      "title": "Two young women were strangled outside of Pittsburgh 50 years ago. Now police say a serial killer was responsible",
      "brief": "For decades, two families in Washington County, Pennsylvania, mourned their daughters while the answer to who killed them remained a mystery.",
      "link": "https://www.cnn.com/2026/11/08/us/pennsylvania-cold-case-serial-killer",
-     "published": "2026-11-08T14:30:47.504Z"
-    },
-    {
-     "title": "How Democrats reshaped the Senate, in charts and maps",
-     "brief": "Two years after President Donald Trump carried much of the country’s political map, voters in some of his strongest states delivered a dramatic reversal Tuesday.",
-     "link": "https://www.cnn.com/2026/11/08/politics/trump-senate-flip-democrats-map-vis",
-     "published": "2026-11-08T14:29:47.514Z"
+     "published": "2026-11-08T15:23:39.353Z"
     },
     {
      "title": "Poland stunned as suspect with far-right views kills 6 in Kraków mass shooting",
-     "brief": "Communities in Poland are shocked and saddened after a rare mass shooting in the country’s south – prompting several days of national mourning and heightened security, as authorities say the attack was likely driven…",
+     "brief": "Poland has been left shocked after a rare mass shooting in the country’s south – prompting national mourning and heightened security, as authorities say the attack was likely driven by far-right ideology.",
      "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
      "published": "2026-11-07T12:00:00.000Z"
     }
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Train collision in Egypt’s Giza province kills 4 and injures 88, health ministry says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbTdQWWJ0V3BXOXJtRUF0ak41NXZDVXFIU1NuaWJDUkoyM0JvRVJJOWo1aDZEenBKTFhmS29BQTRSZTlfVVdFUWJhaDZrb2lnSHhCd1R4cUVEalZJN3JYUDlSaWxOM2pKb1dsVHNucUNPN1Z4ZXU4Y3pGa0M2dWhuRmpGZHRGb3dtVC1odGZBTHdfZUk4TUY2SERfM240NGJkRVFZd1dxMGpMTWk2bTdZNVQyUlYtTDhJNzJoNW8tZlMyMW83WnJrY21FWks?oc=5",
+     "published": "2026-11-08T15:15:00.000Z"
+    },
+    {
+     "title": "Dogs take part in demonstration during Kukur Tihar in Kathmandu",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRmRId3lmdGZuWWRJeG45cDVBRU9EY1oxbGxDQVRWS1ZmYU9uVWluR2FXc2pFS0ppS0tKMTVaMXdMSlNhazdrSlZPeS1FdlZoRXZsbkp0UEwtUTIwWnhkNXVDUGN3alZNQjJwZXB3RGI5UHppcVRsNHZ5V0p5UENtSGZPQ2lvdzBtejRqY3R4SmFfMlRZX1FyV3Q4VDUtdjBBOEMzblYwTE1JTENOOXVrWm5ZZ3pQXzdWV0gwa1FWWjQ0WnB6?oc=5",
+     "published": "2026-11-08T14:41:00.000Z"
+    },
     {
      "title": "Top Entertainment stories of the week",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTJCZS0tS0FzcF9XbFJwVkxfdkNJaGtHNFdzdUY0cVpnellRZ1BMV2JoRnhMcE9TVUt1RHNkNHhyTlN5X3g0UUYybm1MaTYwREgwTmd6Q1d4NWV2ZDVORXF3WlZIdlU5dzBHQnlDZzREdV9YVVM5TEpaN2ZPQlYyMlF2QmpkU2c4VzUtUnllaXJ0cDlaRzd6M2R0X3YxdUdDTnN4bmlmR1cxNlAyOXBESE9sZFc?oc=5",
      "published": "2026-11-08T12:47:00.000Z"
-    },
-    {
-     "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFhXV0N1WXp4WTFtUkw0UWFLOGJVYUVSalBZRzRWZ2RiYXBRbVJ3MGlIRWZNaDVHUkNLWlF6a1ZKQ2R1N1I4eFJ1a3RtdW43eERXS0MyOFRZeEZ3cXVtdXR1aV9PdjRtcWdYT1hKcTRiNWgxZDFfUlN2S2NXX21VMk9FMkNUOS1xcUJqTEV3TTlzMGlIVHJpMVhEaWU5OFQ1cjZOWVhTeDVBT2JUNTUwQWl3aXpIczRVbDNHWUw1TzNGQQ?oc=5",
-     "published": "2026-11-08T12:33:00.000Z"
-    },
-    {
-     "title": "Man dies in suspected fall from Bayan Lepas hotel balcony",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFo1dHJRSkhXbFBWcFNGWnVncHNGWldIQzRmUk11WG5QMXFOVG5nLWRhVnhCTDRlUTV3RHVHMlg3MGs5UDBrbXVxc3IxN0hwVGlGWGppLVNnTlhOT2VZRnZoeWsxT0ZYLUR2T0h2QWdjWjVTUnVTc1lVVXAtNG1TaVBiNU9EMW9rbzNmOTEzOXAwUGNMaHFZUksydTJER0VvNDhNWkNZbjlKRTA?oc=5",
-     "published": "2026-11-08T12:32:00.000Z"
     }
    ]
   }
