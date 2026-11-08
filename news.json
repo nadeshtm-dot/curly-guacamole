@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-08T12:42:29.829Z",
+ "updated": "2026-11-08T13:45:46.457Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "As fresh talks near, Putin appears set on wrecking Ukraine’s economy, leaving Kyiv facing the toughest winter yet",
+     "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
+     "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
+     "published": "2026-11-08T13:45:46.656Z"
+    },
+    {
      "title": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
      "brief": "The judge presiding over Russell Brand’s criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan and sexually…",
      "link": "https://www.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl",
-     "published": "2026-11-08T12:41:30.053Z"
+     "published": "2026-11-08T13:43:46.683Z"
     },
     {
      "title": "The vanity economy is taking over America’s downtowns",
      "brief": "QQ Nails opened its first salon in New York City twenty years ago.",
      "link": "https://www.cnn.com/2026/11/08/business/cities-retail-vanity-economy",
-     "published": "2026-11-08T12:40:30.049Z"
+     "published": "2026-11-08T13:42:46.685Z"
     },
     {
      "title": "CNN investigation uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
      "brief": "The day after massive dual earthquakes shattered Venezuela, Ailin Quiroz made her way toward the coast to search for her sister.",
      "link": "https://www.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam",
-     "published": "2026-11-08T12:39:30.071Z"
+     "published": "2026-11-08T13:41:46.704Z"
     },
     {
      "title": "Two young women were strangled outside of Pittsburgh 50 years ago. Now police say a serial killer was responsible",
      "brief": "For decades, two families in Washington County, Pennsylvania, mourned their daughters while the answer to who killed them remained a mystery.",
      "link": "https://www.cnn.com/2026/11/08/us/pennsylvania-cold-case-serial-killer",
-     "published": "2026-11-08T12:38:30.064Z"
+     "published": "2026-11-08T13:40:46.670Z"
     },
     {
      "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
      "brief": "A building belonging to Saudi oil giant Aramco in the financial district in the capital Riyadh has been damaged in a missile attack.",
      "link": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl",
-     "published": "2026-11-08T12:37:30.068Z"
+     "published": "2026-11-08T13:39:46.702Z"
     },
     {
      "title": "How Democrats reshaped the Senate, in charts and maps",
      "brief": "Two years after President Donald Trump carried much of the country’s political map, voters in some of his strongest states delivered a dramatic reversal Tuesday.",
      "link": "https://www.cnn.com/2026/11/08/politics/trump-senate-flip-democrats-map-vis",
-     "published": "2026-11-08T12:36:30.066Z"
-    },
-    {
-     "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy",
-     "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
-     "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
-     "published": "2026-11-08T12:35:30.073Z"
+     "published": "2026-11-08T13:38:46.676Z"
     },
     {
      "title": "Poland stunned as suspect with far-right views kills 6 in Kraków mass shooting",
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Pakistan police bomb disposal officer killed in IED blast",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc3Y2Nm1ONEpVUjJETzN1aUVwTE02QU5RRi03WDJ4c0tZMDVwVjBjc2xTTGFVS3hhQW5HekJGREh2YVlIek9iZWd0WEhNbTBBcng0NXk4V3hoNl9jOUxGbmZwdlY4SXhHZ0QyWU9KRUdrczRqYWhmSWpXQVotMkJyeHJlRzZuWDFuNWs2VXE5NXZ1YWhPMjZsVzhWQVpOQzlYU2hFT0tUc3RsR2dlS2dqWjBwRHJwQTdnbzVSNA?oc=5",
+     "published": "2026-11-08T13:06:00.000Z"
+    },
+    {
+     "title": "Holistic approach needed as long-term solution to recurrent floods in Selangor",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTVBuLTB3LWZHVEJwcjN2MFRQcHlIU1M4Q1JhQ2tNNm5PZHhDQjJ0YURTTzdrd2FIUXJYUHpPZE16eXRIVFUwVDlJSFhHamNKWnRHSzN2QUNCekdtWDFBRGZyU1Z4WHNTaTdWV2ltZl9QVXU5cFY3RDVJc01UR2w2Q3g4aTBkTExJVmR1bnhVQ2E3cGFfVWlucVVzaF8zYk5DUmVWcDl1Tzh3YjlpNzFtUHZRMEdYczNHWUFoTmVUc2psMTh2X0FN?oc=5",
+     "published": "2026-11-08T13:00:00.000Z"
+    },
+    {
+     "title": "Hunt on for two who escaped KL cops on foot after abandoning car",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRTJCZS0tS0FzcF9XbFJwVkxfdkNJaGtHNFdzdUY0cVpnellRZ1BMV2JoRnhMcE9TVUt1RHNkNHhyTlN5X3g0UUYybm1MaTYwREgwTmd6Q1d4NWV2ZDVORXF3WlZIdlU5dzBHQnlDZzREdV9YVVM5TEpaN2ZPQlYyMlF2QmpkU2c4VzUtUnllaXJ0cDlaRzd6M2R0X3YxdUdDTnN4bmlmR1cxNlAyOXBESE9sZFc?oc=5",
+     "published": "2026-11-08T12:47:00.000Z"
+    },
+    {
      "title": "At least 21 dead after migrant boat sinks off Senegal coast, government says",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdFhXV0N1WXp4WTFtUkw0UWFLOGJVYUVSalBZRzRWZ2RiYXBRbVJ3MGlIRWZNaDVHUkNLWlF6a1ZKQ2R1N1I4eFJ1a3RtdW43eERXS0MyOFRZeEZ3cXVtdXR1aV9PdjRtcWdYT1hKcTRiNWgxZDFfUlN2S2NXX21VMk9FMkNUOS1xcUJqTEV3TTlzMGlIVHJpMVhEaWU5OFQ1cjZOWVhTeDVBT2JUNTUwQWl3aXpIczRVbDNHWUw1TzNGQQ?oc=5",
      "published": "2026-11-08T12:33:00.000Z"
+    },
+    {
+     "title": "Man dies in suspected fall from Bayan Lepas hotel balcony",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcFo1dHJRSkhXbFBWcFNGWnVncHNGWldIQzRmUk11WG5QMXFOVG5nLWRhVnhCTDRlUTV3RHVHMlg3MGs5UDBrbXVxc3IxN0hwVGlGWGppLVNnTlhOT2VZRnZoeWsxT0ZYLUR2T0h2QWdjWjVTUnVTc1lVVXAtNG1TaVBiNU9EMW9rbzNmOTEzOXAwUGNMaHFZUksydTJER0VvNDhNWkNZbjlKRTA?oc=5",
+     "published": "2026-11-08T12:32:00.000Z"
     },
     {
      "title": "Europeans will join Ukraine talks in Abu Dhabi, French foreign minister says",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUjBFTjBFd1g2Z2k2LWtKUjQwMEtHbjZHdjdEZkhJSmlQcWp2YVVGU1FFUk40emNERERQUFEySG9od1N3SW1DcFZjTV9wNF92S3RQbVN4alFEU3l1aHFWbmJfN1ROSGtOQ0xIaC1BeVJsU1pfWk9SbVdLWlNaUTVIM1JzVUZ1elBaMk5lRVJrTDhEUDBEX0ZpWDlMNmFDLXUxZThNcWdGalh3dmRqNGZUUmp0MFVTUjVaTDQ3NWtsVQ?oc=5",
      "published": "2026-11-08T11:40:00.000Z"
-    },
-    {
-     "title": "Nine remanded in fatal Sibu brawl case",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdnpYV3ZtcHhsaDdVZ2Vrem5CeVBWQzgwMk9LVzNHdTV0ZWwzeGM1VWtPOFVjLV9jTDNIZGhXdm9jMG1CR3ZodVNGMjJhOV9yYVM2VHczZnBaOHFqNGZPQmxrUy13UEQ5blMyaGRwdUNQeXJEd2tQODlRWHlUN25qcndlWEtaN016YlMyd0VjTk8wZw?oc=5",
-     "published": "2026-11-08T11:37:00.000Z"
-    },
-    {
-     "title": "Man drowns at Taman Suria Waterfall in Taiping",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHpCckluOE5lcGg5Qi1wdE1yelpWTTR0MUxwTlJabWJ0UnhNRzd1cnhNN0FJQkFubkUyMFR4MmRtV1FXb2VZTjhlTmFPWU5xQVBKNmthWmJmRmJQRjJMaTItenlzeHdzTDB0UXUyc2dfNGdjc05hRktPXzRGbDdTZ3F1dll5dUtYaC1UeTVYaGY2bGdRRE1LcTQyYms?oc=5",
-     "published": "2026-11-08T10:56:00.000Z"
-    },
-    {
-     "title": "Japan man with 'grudge against society' stabs bookshop worker: police",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUWdmSEhqVHV6YWRWUndDOUtDbUl1a2pIcFNoSFVLWWxqYXRnYWhHR0xnQXVNZzNnQWx5eVpkdUpINzVtU3l0U01tU3FYMGVIWEFVTE1nTVYtRXBSYlR2bGRWUFhfRlhhTVVkU2ZCYXQ5SE5CWV85QS0yUTZ5Umh0R1BGQzNaZXBhLUM0VFdPUFlGcGE5ZzZoQmVjLTQ2YU9mNlB0S3hmM0JHMXF4NHNIY3dWeUpCQ1ctNm5aX2M0OG10bHNIazBWZGVSVmFxdl9V?oc=5",
-     "published": "2026-11-08T10:47:00.000Z"
-    },
-    {
-     "title": "AADK needs more volunteers to fight drug abuse",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLVVGZ1lHVVNuc0xYZ095MUE1cEVIbzFFUzZDWTNqSWpXamg1bkZVQlB5NGFYSUpjT0twZHNGMDRIdEZObGU3N3J2ZVcwcFk1cnJuWTFBWmNmTnItNFhTNlFZQlhEckxZOHVIbko3MnRqbkZQUDJLWVFqdEpETE5SU1Yxek9PUTh4aFBaeUZhYWNZVS1fRnllZjRQVGk?oc=5",
-     "published": "2026-11-08T10:38:00.000Z"
     }
    ]
   }
