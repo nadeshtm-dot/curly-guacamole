@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-08T17:30:32.929Z",
+ "updated": "2026-11-08T18:38:00.697Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "CNN analysis uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
+     "brief": "The day after massive dual earthquakes shattered Venezuela, Ailin Quiroz made her way toward the coast to search for her sister.",
+     "link": "https://www.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam",
+     "published": "2026-11-08T18:38:00.848Z"
+    },
+    {
+     "title": "Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say",
+     "brief": "At least seven people were killed and 112 people injured after two trains collided in Egypt on Sunday, the country’s health ministry said.",
+     "link": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
+     "published": "2026-11-08T18:37:00.900Z"
+    },
+    {
+     "title": "Bicycle ‘boycott ride’ targeting Jewish-owned businesses in Philadelphia draws hundreds of counterprotesters",
+     "brief": "A bicycle “boycott ride” targeting several Jewish-owned businesses in Philadelphia got underway Sunday amid a large police presence and crowds of counterprotesters lining both sides of the street for blocks.",
+     "link": "https://www.cnn.com/2026/11/08/us/philadelphia-boycott-ride-jewish-businesses",
+     "published": "2026-11-08T18:36:00.903Z"
+    },
+    {
+     "title": "Trump says renewed attacks on Iran ‘highly unlikely’ if talks show progress",
+     "brief": "President Donald Trump said on Sunday that it is “highly unlikely” he will need to order the US back to war with Iran as long as there is progress in negotiations over Tehran’s nuclear program and reopening the…",
+     "link": "https://www.cnn.com/2026/11/08/politics/trump-interview-on-iran",
+     "published": "2026-11-08T18:35:00.907Z"
+    },
+    {
      "title": "MAHA makes its case to Democrats as blue wave crashes GOP alliance and threatens RFK Jr.",
      "brief": "One day after the blue wave that swept away dozens of Republican seats, the mood among Make America Healthy Again activists was palpably glum.",
      "link": "https://www.cnn.com/2026/11/08/politics/maha-democrats-rfk-midterms",
-     "published": "2026-11-08T17:30:33.124Z"
+     "published": "2026-11-08T18:34:00.895Z"
     },
     {
      "title": "2 shootings at Winston-Salem State during homecoming weekend leave 1 dead and 3 others injured, police say",
      "brief": "Two separate shootings during homecoming weekend at a historically Black college in North Carolina have left one person dead and three injured, police said Sunday.",
      "link": "https://www.cnn.com/2026/11/08/us/winston-salem-state-homecoming-shootings",
-     "published": "2026-11-08T17:29:33.161Z"
-    },
-    {
-     "title": "Two trains collide in Egypt, killing four people and injuring dozens more, authorities say",
-     "brief": "At least four people have been killed and nearly 90 injured after two trains collided in Egypt, the health ministry says.",
-     "link": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
-     "published": "2026-11-08T17:27:33.173Z"
-    },
-    {
-     "title": "CNN analysis uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
-     "brief": "The day after massive dual earthquakes shattered Venezuela, Ailin Quiroz made her way toward the coast to search for her sister.",
-     "link": "https://www.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam",
-     "published": "2026-11-08T17:24:33.186Z"
-    },
-    {
-     "title": "Building owned by Saudi oil giant damaged in missile attack on Riyadh’s financial district",
-     "brief": "A building belonging to Saudi oil giant Aramco in the financial district of the capital Riyadh has been damaged in a missile attack.",
-     "link": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl",
-     "published": "2026-11-08T17:23:33.191Z"
+     "published": "2026-11-08T18:33:00.905Z"
     },
     {
      "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
@@ -46,12 +52,6 @@
      "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival has been tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
      "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
      "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "Poland stunned as suspect with far-right views kills 6 in Kraków mass shooting",
-     "brief": "Poland has been left shocked after a rare mass shooting in the country’s south – prompting national mourning and heightened security, as authorities say the attack was likely driven by far-right ideology.",
-     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
-     "published": "2026-11-07T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Gross plays down Brighton's title credentials despite move to second",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbGpfaWU3djFfenRBNnU2ekRWZHlXSVBNemcyb01FcGJHLVVBNDFndkZRei1tZHNKQ19Dd2RPUnNwSFEwUVVMSDF3akFNUXRkTU16V2JiUDN0Z2hLZWtBMmJ2TjR4QlRhT25TZXROZ0s1N3hVSndWM1pZbGJndDBhYWp4R1lLOG5NZm9MNEw2YS1jOFYycW1GV1Q3ZFJ6MzBERm1XWmhFMEltbFM4WXlyb0hVNTZaTDhYMVBYQnZjWWYyT3FxT3lGOEt3?oc=5",
+     "published": "2026-11-08T18:12:00.000Z"
+    },
+    {
+     "title": "GCC states sign general agreement for Gulf railway project",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb0FZdVhObkM0VXZJZGtwOVhyVzF5RXIxb2hFYVdnS0FycDdfdVBuOWlpbWdoSkJiMFZjbk1SRTIxVTNFblNFbWx3b0RSd2twZUhQSnNSZUYtb2Q1bEs5allYUjgzam9HU3dOVXd3ek03V2RmenllSDB6dFEwT0dlM09Da1REN2dhcGRzTWNaWnBiUldFV3Q0UGVEQ1dtS1I0Vk8yRDE0RHVqVk0?oc=5",
+     "published": "2026-11-08T17:59:00.000Z"
+    },
+    {
+     "title": "Tajikistan's agricultural output up 8.5 pct in first 3 quarters",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOHpUWHFjZFNlZmJiZHM5ZU01STlGdFdLaTlpZzZQVjljTnV3eWJTUFZsSGtBV0EyVjhsTDBibVNoTmo3Z3JPMzMwZF9hem9zQW9CRjF2aWZSc2lrU1dIN19IMENNUkZVUUhPOExfeWVVWUg4anM2bXFnTHVQQmwxLXFWS0ZrTTZpWjRacFZzN3A1bFZXalBzTVBvcFU2aV9udnRDRVR0bFNFNXJMZExTT1BTaw?oc=5",
+     "published": "2026-11-08T17:54:00.000Z"
+    },
+    {
+     "title": "Roundup: Chinese automakers in Africa: shaping future of automotive industry",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLTgtRUFKYWZRSFFWZ3JhdHZmV2d4MkI4N0ZWdzd2TnpwbjIxaWQxR3g0aEw2OTVsWlBNWFk3NzBiY3I4Tm02Z0laUG41enZ6NXBTLTlwX0dqSWRWaGJSQ1V1T1huVTVJUlJYMVlpMWhYM1FkVUVZMUw1NGFMNndkTFQ4dHpSajBkcm1BTGx4MGtDZWRoSE5YQzJ5Z21QeDE2ZDM1Nk55M0kyQnNSWlg5WlVYZHRCbFg3VTVLakZYVTg?oc=5",
+     "published": "2026-11-08T17:53:00.000Z"
+    },
     {
      "title": "Rugby-Pollock double as England outclass Australia with record win",
      "brief": "",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdHRsTlB0SXRJNVZxcDRsX0VLTHNlZUJQMXYteV80YnRvTE1sX3dBNWE3UEZFT3lKMEYtRWN4S0kwM29PeTZZbnVhSE9FUk1HUmdtV3NyR3NlYzQybUhMRHdBUVdIOU42Nkg3TXhfNVZHc3Bnbjhzc2ZXQ1l0MFgzOTRBUU5HTU1IWWlXMTRDTGhjRHRxLUVRWWxCal9BU0dmcUl5Q01RQ0JjSnlqbVJCbDBucC02T2wwTVZDNDlITmxZcXds?oc=5",
      "published": "2026-11-08T17:08:00.000Z"
-    },
-    {
-     "title": "Motorcycling-Bezzecchi dominates Qatar Grand Prix as Marquez made to wait for MotoGP crown",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaFRBZ0x4MDd2U0NsM21IRG1WWXhpYlk0TEEza1h1d1ZmbEM4RmxTSjVyeEhGTlB2Ujl0VWYyeFdBeUdWaGNpWFZOMDBCdFo1QzBtMXp0VnFIall0M2c3QTZYU3VXWDMtcHhSQ3hPcGhiNHdWV010a0pWRUxma1E2eHN6U2hJQjE5ekt4RW5vek1mMXNRT1pnRXN5QmpMb19RQVlCT2oyUTdqbmJBdmpRak9nY3NON2dLeHpLVThST1d6M1VKanNDMzJHQjFucktzemFlOU5lYlZkUQ?oc=5",
-     "published": "2026-11-08T16:59:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Russo fires Arsenal to WSL win over Liverpool, London City thrash Birmingham",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUjg4LTVrcW5Md1ZDV2tvSlI3VWtoUkVaUGpWZlpURm93R2VPWklnLTQ0djAyQ1dWX1FGTF9iSl81VDlVWlIzUFlhenA4S194Zm5QUVN5SFlfSlVPeTBZOC1wZmIwajFZWkJzS3FocV93WU1VNEt6RUhZUm9wdGlHWWlnYV9zWE53aVdqQnZoNWVKUDNRaFBIb3doS3ZGdHA2YWF6SzNnNkt1T0hsdTZEQlFrSlNQWUx4a0R5ZldwRFFuaEUyN2dlX1pzRVA0bEcz?oc=5",
-     "published": "2026-11-08T16:59:00.000Z"
-    },
-    {
-     "title": "10 killed after car plunges into lake in Brazil",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUG1RWlBYelV1Wk15ZEF0M0d2SHZRWFVVOHJwR3VXcV8zX3Jfd0RRQmRsckRoamdKV0F2Z3o4U19HcndoUzl5VFc4bUM1VlplTzVpbkhYUWc2cGt4SHpEdy1OZmk3MmNjTURLclpidUdRdEJyNUJwSjEtX2lEeTVNblJoTUdmQi1LNjI2cFhQUF9hSTBTMnMzOGozLWk?oc=5",
-     "published": "2026-11-08T16:51:00.000Z"
-    },
-    {
-     "title": "Tennis-Alcaraz beats error-prone Shelton to win Paris Masters",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGhBbkk2X2txR0lNcGxYSmxpMEFjaVUxMnJSVVJJd0VkalBhQ2lrZ2ZIdTl2UlpLbWlMNFExRU1PSXFVOXdsdlY5Mm1scGEzVVQtbG1ITjNzaHBnZlFhLThDSTAwVkpFbi13OG9HeEItcFBhVW1oV2ZDVGlXRWthY0lRa0FfTE1kVFpqRGpiT1lKWlZZcEtrT2tPZWdYRTFFRWNMbkplT1hFeVFZRWRORUFR?oc=5",
-     "published": "2026-11-08T16:28:00.000Z"
     }
    ]
   }
