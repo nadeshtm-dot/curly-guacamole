@@ -1,32 +1,38 @@
 {
- "updated": "2026-11-08T09:43:05.314Z",
+ "updated": "2026-11-08T10:38:56.153Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "How Democrats reshaped the Senate, in charts and maps",
+     "brief": "Two years after President Donald Trump carried much of the country’s political map, voters in some of his strongest states delivered a dramatic reversal Tuesday.",
+     "link": "https://www.cnn.com/2026/11/08/politics/trump-senate-flip-democrats-map-vis",
+     "published": "2026-11-08T10:38:56.376Z"
+    },
+    {
      "title": "Missile strikes multi-story Aramco building in Riyadh’s financial district, witnesses say",
-     "brief": "A missile struck a multi-story building owned by oil giant Aramco in the financial district of the Saudi capital Riyadh on Sunday, according to multiple witnesses and geolocated video.",
+     "brief": "A building belonging to Saudi oil giant Aramco in the financial district in the capital Riyadh has been damaged in a missile attack.",
      "link": "https://www.cnn.com/2026/11/08/middleeast/saudi-arabia-riyadh-missile-financial-intl",
-     "published": "2026-11-08T09:43:05.790Z"
+     "published": "2026-11-08T10:36:56.438Z"
     },
     {
      "title": "As fresh peace talks loom, Putin is escalating his efforts to shatter Ukraine’s economy",
      "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
      "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
-     "published": "2026-11-08T09:42:05.687Z"
+     "published": "2026-11-08T10:35:56.427Z"
+    },
+    {
+     "title": "Gunman kills 6 in rare mass shooting in Poland as 3 family members found dead at suspect’s home",
+     "brief": "At least six people were killed and 16 more wounded after a gunman authorities say holds far-right views opened fire in Kraków, southern Poland, a rare mass shooting that stunned the country.",
+     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
+     "published": "2026-11-07T12:00:00.000Z"
     },
     {
      "title": "2 skydivers die after colliding midair in California and their parachutes become entangled",
      "brief": "Two experienced skydivers who were taking part in an organized skydiving event in Southern California were killed after colliding midair and plummeting to the ground.",
      "link": "https://www.cnn.com/2026/11/07/us/california-skydiving-accident",
-     "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "After Kraków rampage leaves 6 dead, 3 more bodies found at suspect’s home",
-     "brief": "At least six people have been killed and 16 more wounded when a gunman opened fire from his car in the southern Polish city of Kraków, officials said on Saturday, adding that three more people were found dead at his…",
-     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
      "published": "2026-11-07T12:00:00.000Z"
     },
     {
@@ -46,74 +52,20 @@
      "brief": "President Donald Trump said Saturday that he offered the White House press secretary job to Dana White, but a source familiar with the matter says the Ultimate Fighting Championship CEO declined the unorthodox idea.",
      "link": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
      "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "His daughter was abducted during a sleepover and killed. He is among families grappling with Newsom’s death row commutation",
-     "brief": "On a summer day in 1996, Marc Klaas sat in a San Jose courtroom and clutched the hands of his family as a clerk read aloud the guilty verdict that would eventually place his 12-year-old daughter Polly’s killer on…",
-     "link": "https://www.cnn.com/2026/11/07/us/california-death-penalty-newsom-polly-klaas",
-     "published": "2026-11-07T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Tennis-Former world number three Ferrer to join Ruud's coaching set-up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1ZrS0prNFdVR2xNT2VkNS1CX0d2eUQ5OFlQeGhkOWdtMjN0V3lPN2pMeGdfX0JsY1phWDJRSG1Kb1llNDd5X2FGMDdQb1I3WnhhN0FkWno2aVE5VEg2NnBQTXBFNzBSZjJmQUZPeVU5M1liV0JjdnJpa0JKcEVXdHpjTnNhTUVwYnNTR01SUmlYdFRTXzBqWFp0YzhhWVp2MklLMUs5SFl0RGcwTkxGN1BvNWJtUENESlhCX3Bpd2E?oc=5",
-     "published": "2026-11-08T09:37:00.000Z"
-    },
-    {
-     "title": "Malaysian travellers delighted to finally see and visit the 'real' London",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQN19CUElPNnZtM1QzQlN2cjNFRk9CVGczWS1GaS1MWEgzRkJGRFFjcWF5bnpMeXZMYjFsWG1MVmRpM25Wb2VpeGRDSkdENTItUDd4aFBRVzlvZ2Q2OWFwUlN4SGN2bmZwcXhZUUdQZEI0Y2hxYjlxY1k4dk5CQkd2cGZhN041TC1wNVdmeEpibnZaWkotRHJGVmxYYXI3Y1lIdjBFSFZ1MC1YV2V5S1MyZHFpOWJzUDgwYlVMbDJvUmpiY3pnMmNXd2hhUk8?oc=5",
-     "published": "2026-11-08T09:00:00.000Z"
-    },
-    {
-     "title": "Zaporizhzhia nuclear plant loses external power supply, Russian-installed management says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQVBmRWZuZ01WTWI4bWlrSFRqbWNiNlFHTkxsanN0X3lNS2xkRWZmaE02a2VFQ3YzMXJTTVh1LWdLdDdxQVRPX0ZFQTBRZkZYZ19BUEFUTjVoMTJlVUhfNGpmWHRHaEhwdVpfcG5LSV91OUY3cXdGcWZFRjc3MFREc1RkblNGdWdmckdpSHo3RVBwOWtYdWdsUGdpVFdoSTFzYXBfb241SkZtY3E1Q21zdFVFRDRwbXh5ekNrRGlLYkVhOXdPWXM1RTg0b2ZaclpXTGhR?oc=5",
-     "published": "2026-11-08T08:59:00.000Z"
-    },
-    {
-     "title": "Negri govt to ensure state assembly will not be dissolved, says MB",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTExsaWZBZGU3a0FZUlEwMG01dEdXLThTZXc3U1c2VF9pS0xsTmdGSS1uOV9vUkhiU08xTWsteVRuODJheVNibTF4eng1UkZ5d3g2Rzk4MjY5Nm52bG10S2Q5Uk5CRkx5TXpiNWpOTnduUXhPcUVIbHliN3dvbmFqcHJNOTNqdGNSODhLdkZ1NUVsZ29PYUstRVlLS0hSZXFDOE9NOWprdEpuVW5GcjlPQmh6alVEdw?oc=5",
-     "published": "2026-11-08T08:57:00.000Z"
-    },
-    {
-     "title": "Cops raid illegal Dang Wangi nightclub, investigate 196 clubgoers",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc0g5NlhkXzlwc2J1eXpvbV85SWxReXdMZ0dkbTNlbmlRbldrN0RNRTBmQk91MzZwTGtfc3FFODg2ZXNMcGdjWHRmeHAyeTlVOHFicU8wa0tfV05NOGtGbWVHbWpPNG5tODA3WkcwQWY0RXNuRXVHbW5VZ3YxMTBuM1otaUZ0MmRvNkFXeVBxYm8tdnkzZVpCTU5ncDhQeWs5djJWRENXeXBCZHlaT3czckFjWXA?oc=5",
-     "published": "2026-11-08T08:53:00.000Z"
-    },
-    {
-     "title": "South Africa's ANC battered by local election losses ahead of coalition talks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWVF3TG15d1gtRllZWUVjejZXa3UyaXoxSE1mdWlUSE8yalFpYnVHdU1tdnNKZjhFX1pnc3BDcTNnYWxXMTRUZ1ZiRzFmUWVxZW5JNjNyZXJaTThkNTBJTmJzRXB3bkNhNVplTmNiS2hGWllKUWU5bGhxOFJ4ZllVRDN2djg2dWpYMHkzQUUtWEdCVHE2YnhPLUZWR3hjU2hmeHY2emR4RWZPWU5LSkE2T3VNTzg3UlVSd3J2OEVtN0EtU2xpYy0w?oc=5",
-     "published": "2026-11-08T08:50:00.000Z"
-    },
-    {
-     "title": "Cops tracking down men who set off firecrackers on main road in Skudai",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTHVsODNucTRFT2hGTUkwYzJBMWFNOWRGMTlTOGNXQ0wtanpsV3dWSExlSVJ5cjZnTENTRkh6VGx2RGxBVWhtNGFSMElUcjBDNzdmeXZLZTg4YWJ2RmlzdkJ5LVpMb0h0ZEZRV2dxaTlpQVJRWExidzVGYVRPUUZzOEtBNExPc0o4a05rRXh5Y2pnZGdBMzV2WE1QTTdUWkI3cjJKOWpJbUFmSjhkS3JuN0FQWFl2TzgyV0ZwRQ?oc=5",
-     "published": "2026-11-08T07:49:00.000Z"
-    },
-    {
-     "title": "Anwar condemns Poland shooting, calls for action against right-wing extremism",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTTIyRWktb1hLZHR1ME9FaEUyS0RlaVNESmhCb29uU1dSSTYwM1ViQTdTckFRUVRaOVJuYk44TWtyS1lCYXhnNVVHRjktRWQwdFo4NnBOZC1LY2NxdldDMGRBTVFwSE1GRTV2TlBJRDJhM3JmZ3FrdGl0MklvemhiTnkyYmVUWlBjZzFWZ1BIMnJxLUszRVU1UVFkYnpvNlFjSzhWMDdyajFsXzhWWmpzYmZiRUZndktuSlEtdVZSc3Etb29K?oc=5",
-     "published": "2026-11-08T07:35:00.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
