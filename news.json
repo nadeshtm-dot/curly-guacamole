@@ -1,10 +1,34 @@
 {
- "updated": "2026-11-09T02:03:39.591Z",
+ "updated": "2026-11-09T02:51:16.168Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
+     "brief": "Nvidia chief Jensen Huang has admitted to having an extramarital affair as his company announced it will investigate concerns he was the “target of a foreign intelligence effort” by China.",
+     "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
+     "published": "2026-11-08T12:00:00.000Z"
+    },
+    {
+     "title": "As fresh talks near, Putin appears set on wrecking Ukraine’s economy, leaving Kyiv facing the toughest winter yet",
+     "brief": "As Russia struggles to advance on the ground in eastern Ukraine, it is pouring more resources into the war in the skies.",
+     "link": "https://www.cnn.com/2026/11/08/europe/ukraine-russia-attacks-energy-infrastructure-economy-intl",
+     "published": "2026-11-08T12:00:00.000Z"
+    },
+    {
+     "title": "Former NYPD officer and teacher’s aide arrested in fatal stabbing of New York City jogger",
+     "brief": "A teacher’s aide who briefly worked as a New York City police officer has been charged with murder in connection with the fatal stabbing of a jogger, according to court documents.",
+     "link": "https://www.cnn.com/2026/11/08/us/new-york-jogger-fatal-stabbing-arrest",
+     "published": "2026-11-08T12:00:00.000Z"
+    },
+    {
+     "title": "Trump’s regrets on immigration enforcement, and other takeaways from his ‘60 Minutes’ interview",
+     "brief": "President Donald Trump offered his most extensive assessment yet of historic Republican losses in an interview with “60 Minutes” that aired Sunday evening, appearing to extend an invitation to Democrats to work…",
+     "link": "https://www.cnn.com/2026/11/08/politics/trumps-regrets-immigration-enforcement-60-minutes-interview",
+     "published": "2026-11-08T12:00:00.000Z"
+    },
     {
      "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
      "brief": "Former President Joe Biden announced Sunday that he “won’t be able to do as many conversations” about his upcoming presidential memoir due to his fight with prostate cancer .",
@@ -18,39 +42,15 @@
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Nvidia launches investigation into CEO Jensen Huang over foreign intelligence concerns",
-     "brief": "Nvidia announced Sunday it is launching an independent investigation into its chief executive and founder, Jensen Huang, over concerns he was the “target of a foreign intelligence effort.”",
-     "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "Hundreds of counterprotesters overwhelm ‘boycott ride’ targeting businesses believed to be pro-Israel in Philadelphia",
-     "brief": "Massive crowds of counterprotesters waving Israeli flags and holding signs condemning antisemitism responded Sunday morning to a bicycle “boycott ride” targeting Philadelphia businesses that organizers said were…",
-     "link": "https://www.cnn.com/2026/11/08/us/philadelphia-boycott-ride-jewish-businesses",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "NASCAR phenom Kyle Larson wins 2nd consecutive Cup Series title",
-     "brief": "Kyle Larson is now a three-time NASCAR champion.",
-     "link": "https://www.cnn.com/2026/11/08/sport/kyle-larson-second-consecutive-nascar-cup-series-title",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "Two trains collide in Egypt, killing 7 people and injuring more than 100, authorities say",
-     "brief": "At least seven people were killed and 112 people injured after two trains collided in Egypt on Sunday, the country’s health ministry said.",
-     "link": "https://www.cnn.com/2026/11/08/africa/egypt-train-collision-deaths-intl",
-     "published": "2026-11-08T12:00:00.000Z"
+     "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
+     "brief": "A group of cyclists was winding its way through a wooded, two-lane road outside of Raleigh on Saturday morning when a car crossed the center line and plowed into them, killing one and injuring nearly two dozen,…",
+     "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
+     "published": "2026-11-07T12:00:00.000Z"
     },
     {
      "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
      "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
      "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
-     "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "Netanyahu rival tasked with forming next Israeli government. But the path remains complicated",
-     "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival has been tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
      "published": "2026-11-07T12:00:00.000Z"
     }
    ]
@@ -60,16 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Traffic smooth on most major highways as of 8am",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0R6blF0aFc5YThaVmFFQVBhVDFyazlOeWlHRE4zYktnYUozMTg2MWh6MHBXQ2lFRWhHejJ0bGVHM2JpWlZJQTFZQW4tdHhvZDdfWDk5V1JjVHFHcU1iMjlwdzdxVXFUUEpLd3hCM2RFUTZGUFEzMzJuUzR0cms5T1JkN0RyYWY1SnJUazUxUGQtX3RaeUFHa2p0TW80dw?oc=5",
+     "published": "2026-11-09T02:34:00.000Z"
+    },
+    {
      "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUxQYVRyM0NGVll1aDEyOGpuSjZ6YlJrZlI3M0dIeXZVX3UtbDZISUJWaWl3S3VZR05kMjd3Mk1fRWJWeVc3QVBndnIwRVJaOXpUV0VTZXg2cnUxc2FFUnRyanliLTJQLWUyejZ3cWhHTk1iN0l3ZjJOWmVTMmtsV1Z1bFk4MW1pdGZmbU9uR0RianFvb2QzQ2tUR2kwT0p3Uk01YndOT0hmdEFpZFJOWmFDWlhIQmtWOE4w?oc=5",
      "published": "2026-11-09T01:55:00.000Z"
     },
     {
-     "title": "Japan's Nikkei rebounds 2% after tech-led rout",
+     "title": "Malaysian Embassy monitoring Poland situation after Kraków shooting",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHdrX3VFTUpCWGRENm1oNU95elhOMTFhX2lTeWJ1MHZKai1CZGtWRC1qdmhucnlnQlV0Z2JsTGtOX3pFWUl3SGxVMDhhVkRKb2dTcXVEdk8wNk8xQTQ1V25TUGxaNVBTVnpTYnNLR3V1SDgzTktsblZwYTFfTUxGV3NzTy1qLUpWdlltT055QmJBN2RCQVo4ZGl0QkI0XzBCa1lrdVlwdEljSzk0?oc=5",
-     "published": "2026-11-09T01:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOektZNUdtc1VZSzh4bC1FX3Q4bnFkSkdqMjNDanhnUTN6MTNZMko5RjBiQUdlN2VYUWJkZFlZVm4zbmFJdVNZMk5RRl9fVEo5dlFHUG5INmJsemk4Z3NxYkhmRkhpYjVpSmR1RFM2RTd3Q2VuY2c2TVNqbDY3Y0k1NkNaVEhfZkF2SjAtelBoeS1zcTZNQXZkS3FoVVZTTTRoVzREdEVid1h0amF6RzJ0Y0J4OHJaNTQ?oc=5",
+     "published": "2026-11-09T01:53:00.000Z"
     },
     {
      "title": "Malaysian tech champ is fast, furious and micro-precise",
@@ -78,22 +84,16 @@
      "published": "2026-11-09T01:23:12.000Z"
     },
     {
-     "title": "Tennis-Gauff bests Pegula in thrilling clash, Noskova beats Kostyuk in WTA Finals",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXNMVjhJblU2WUx5dkpobmZHbWtwakpMTFRoLUhKWVc3dmxHaXlwU2I1UEt1UTFqX3cyY0tmMXdGeWdwaTNvWlNIVEU4VHR3SzZicGpycFhlQlM2R2Z1cUtpd29hanNPMVo5U0Z5OGRDSTN2aFpDVE9VbWhPd0poNnJ0RnlLS0tEaDN4OURtR29relRFa3JLMmViWjJnb1oyT3BoVUI4eS1RTWFtN2JhMDJGRGFEaHpaZnBGbTh4YlhOSWVRV1J4bzlZTQ?oc=5",
-     "published": "2026-11-09T01:19:00.000Z"
-    },
-    {
      "title": "Australian shares slip below 9,000 level as banks overshadow miners' gains",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcG1kQWJPbG5mM0E0MnZab3dxY2E3MkJvdkV4T2k5Um5Ubk12d1gwWk9KNkdhcmJHZkkza2FIcGRYWmR0ZXZjM3c2TF9oaUQ3anBNUGU5My15QlplSDctZS12cnQtWWsyTE1ySV9XUmhLU29VTnppS0dPOWtlUlVwLUhSNkVrRHNreldtT1lIRy1NTDd4NG1mS09jQUVzX0VKeExFRDVFQzBVZHR5a0JLQ2M2LXotTFFsR0t0bXpLU2hCbEc1X0daV2VTbkNrRGFXRmc?oc=5",
      "published": "2026-11-09T01:15:00.000Z"
     },
     {
-     "title": "Britain expected to cut 2030 EV sales target to 60%",
+     "title": "Gunung Rapat returns with safety in mind",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFjSml1MHppNmNFYVpManBBS29VVnFrc21tcEpwRUZ5NUdrcGZqUTZJZThGSzhoVnNCbE5MX2pvQzk0YVhSdHNqMF9MeFJEdWhubl9seTdzYmVyaEQ5YU5jM3BuZ1JySHVrQ2l0TXhBRWhWQ1dxYXdCVXdaeUxCbWdBTWdBazZsT1k5emNiR2Ytb2tpTlhaOW9jV2tmalpSZWJPTzdzN0VpOEJaWFY4WQ?oc=5",
-     "published": "2026-11-09T00:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1NIX3ItQmV4ZWFUSU4wSTQ0SFBzZEFINkpSY1REQXdkSE0wTGdQN0dJT1NRX0J5LWJyZ09ic0dQSWk0M05uUkxlQlR1YVliVEdRemhRNnVCQXlQQ25wNk1iUlFlQVpXOTFnQ051ZExaNHRPU0prZnhLcnBkbllGMnJpM3FJN2EzTkF3ekUwRkJEMzR6?oc=5",
+     "published": "2026-11-09T01:02:55.000Z"
     },
     {
      "title": "Ringgit likely to trade with a slight positive bias against US dollar",
