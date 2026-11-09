@@ -1,20 +1,26 @@
 {
- "updated": "2026-11-09T03:53:07.568Z",
+ "updated": "2026-11-09T04:59:19.670Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Former NYPD officer and teacher’s aide arrested in fatal stabbing of New York City jogger",
-     "brief": "A teacher’s aide who briefly worked as a New York City police officer has been charged with murder in connection with the fatal stabbing of a jogger, according to court documents.",
-     "link": "https://www.cnn.com/2026/11/08/us/new-york-jogger-fatal-stabbing-arrest",
+     "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
+     "brief": "Nvidia chief Jensen Huang has admitted to having an extramarital affair as his company announced it will investigate reports he was the “target of a foreign intelligence effort.”",
+     "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
-     "brief": "Nvidia chief Jensen Huang has admitted to having an extramarital affair as his company announced it will investigate concerns he was the “target of a foreign intelligence effort” by China.",
-     "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
+     "title": "CNN analysis uncovers construction flaws in public housing towers that collapsed during Venezuela quakes",
+     "brief": "The day after massive dual earthquakes shattered Venezuela, Ailin Quiroz made her way toward the coast to search for her sister.",
+     "link": "https://www.cnn.com/2026/11/08/americas/construction-flaws-venezuela-quakes-investigation-intl-latam",
+     "published": "2026-11-08T12:00:00.000Z"
+    },
+    {
+     "title": "Former NYPD officer and teacher’s aide arrested in fatal stabbing of New York City jogger",
+     "brief": "A teacher’s aide who briefly worked as a New York City police officer has been charged with murder in connection with the fatal stabbing of a jogger, according to court documents.",
+     "link": "https://www.cnn.com/2026/11/08/us/new-york-jogger-fatal-stabbing-arrest",
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -36,12 +42,6 @@
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
-     "brief": "Pope Leo XIV has called on Argentine President Javier Milei and the country’s political leaders to “safeguard democracy” and demonstrate a “careful use of words” during his first speech in Buenos Aires.",
-     "link": "https://www.cnn.com/2026/11/08/americas/pope-visit-argentina-latam-intl",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
      "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
      "brief": "A group of cyclists was winding its way through a wooded, two-lane road outside of Raleigh on Saturday morning when a car crossed the center line and plowed into them, killing one and injuring nearly two dozen,…",
      "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
@@ -60,6 +60,24 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Tennis-After winning Paris Masters, Alcaraz high on confidence ahead of ATP Finals",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNjR4Q1RnZ2ZRdjVuN1dxUTRqb3otUXZldmFPVUEzUUZBRkdFUTFnVGFIVWotSWphZ2dtLWllQm5fWGlESmZBaDFQNTJzdFZUMml1RFNsZFg1RVBkaGl0S0tuWFN5c2J3bE15eWJfTHZCMmdoUUxZN21nRm9wR25NQjljdlZWT0tmT0k4aGFpS0hvdGVIa05DV0ZfNnVwZ1Vna3JnMjFia2VPbUQ2aXFYZGY0OFo2MmNFVEV5Tm5jdm1FVHhwendqVzdHMHA?oc=5",
+     "published": "2026-11-09T04:08:00.000Z"
+    },
+    {
+     "title": "Brunei women gather for social drive",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOb0hvdzZyNTJJSEs5R1BJdzlNeUl0VnZiQU4xdk5ONk1MOGJoY2FqLU13SlVKdnlmWGllekNSczVvVmlid3E4SmZ4Vm1MSTFvQ1p3UFRaNmlJWS1pVDkxMnVUdWVZUFpNd2VLWlVGZUhBX3NlZTlwVjhHdi1hcGpDeFVfRXRXc3cwdG1hV0dlQ0N3QktRdV9qUERJeGlMd1BM?oc=5",
+     "published": "2026-11-09T04:02:00.000Z"
+    },
+    {
+     "title": "Cambodia marks National Independence Day",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDdCcDRxY2hfcG95V0ljTU9GX2E4SkxRQ2RWbnd2ZHJMTmVpQ2VSaTlfcHdHY3FBNHY4a0JtOThVcmlObnVQcnU5OERzeEs2N2E0b3Z1OWJqOFJOTWVnNU5iQ0phYkNQckV2LWxFc1l6dWxlM1dod0FON1Y2YWRmbU96NUpQcm5ZNjY4OU5TY0tpN3hCbS14UkxBT1ZQeW9GOUVMRGtB?oc=5",
+     "published": "2026-11-09T03:45:00.000Z"
+    },
+    {
      "title": "South Korea fines Coupang $220 million for abusing dominance in food delivery market",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVpjZzVrRkd1Q0NZd1VWZm5wbndfdVlpVHdWOVBPS3VBSm1VbkRXRnM0LU0yQVhaaHViNmVQVVJRMHRUMG5VZERuQnZBNDN2a2VEeENsamhLZkM3eWtKd2ZvWUJYZklvcUV4Xy1NNnFBWmhWQVY1MUtTWDJJbEdUdERKelVlUVlKZUpxSVZGSE9jMGIweTNPVW13Yy1tVENwR0JrWGVzUHZYUWxBbDhMdHItVHFJT0ljTTRSLXJOdTJtckMtZG1VLTIydzBCeTRXMnc?oc=5",
@@ -72,40 +90,22 @@
      "published": "2026-11-09T03:35:00.000Z"
     },
     {
+     "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0dVeUJyVlVOaGVMckJPaVk3b1NNX3NqSVRBbUl3d2VyQWtibWsydEQ0cmRHOWt0YW1YV2FsS0lUdVFONkRTcGZtYkxkZ203X2lYazFZZGdLVzFtOUttMVlNM29COUYzUkFlUkxYZHgwSFVXTERYa3I0YkV5bk5DMUhoM2h4RmhwMXMxd3l2VFoxVHMtS1FnRGhQVGxUTmRkU1had09vcWlncFlac3JrNlh0QnRWQXFmU1B3?oc=5",
+     "published": "2026-11-09T03:27:00.000Z"
+    },
+    {
      "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHlpdXJfREJyczd0Z1lrdU5Ld3ZLVkNMU01yYUxseTRkcTdoZlg4UDM1NFRmTE02TjI0M2pDRTA1NVZjeG5SRmNMZ2p0SE1mYUxlSTlJRnUwc2FNMUdVZWkybDFWand6bGJYSFpsRjFlZ1lsbHEtelhzNFQxZjNfYUQxbUNDX0NyMFk4UnpvMlNOYVJUcjdKZGJTbEhZMGpfaE1TWk1YRG52eUpJa1NwbUJxMEVEdk0?oc=5",
      "published": "2026-11-09T03:09:00.000Z"
     },
     {
-     "title": "Mitsui Chemicals and DBJ to buy JSR for $11.6 billion, filing shows",
+     "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOc2RiVU5GRU1iTDE1cThrY0VMOHdWaXR6LTdmTWltSXRxblNJdUtldFBpVFdxMUdqUmFnMHFSZFJ3WUR2MHFLcUFhM08xa2dFSUJiM1NSVmtENDdYS2hPQkFkYkx2RVNBU2VuUWNYZ2ZVOXVTU3gtNHdjcTZzUDU4QzdfbW1rTEtQT2U1TVVqQzZteUtEam1lODRtZ3JYaFNHNkRRb0E2X1pTbXU2Nk1PejFqd1hwWHpZ?oc=5",
-     "published": "2026-11-09T03:00:00.000Z"
-    },
-    {
-     "title": "Traffic smooth on most major highways as of 8am",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd0R6blF0aFc5YThaVmFFQVBhVDFyazlOeWlHRE4zYktnYUozMTg2MWh6MHBXQ2lFRWhHejJ0bGVHM2JpWlZJQTFZQW4tdHhvZDdfWDk5V1JjVHFHcU1iMjlwdzdxVXFUUEpLd3hCM2RFUTZGUFEzMzJuUzR0cms5T1JkN0RyYWY1SnJUazUxUGQtX3RaeUFHa2p0TW80dw?oc=5",
-     "published": "2026-11-09T02:34:00.000Z"
-    },
-    {
-     "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUxQYVRyM0NGVll1aDEyOGpuSjZ6YlJrZlI3M0dIeXZVX3UtbDZISUJWaWl3S3VZR05kMjd3Mk1fRWJWeVc3QVBndnIwRVJaOXpUV0VTZXg2cnUxc2FFUnRyanliLTJQLWUyejZ3cWhHTk1iN0l3ZjJOWmVTMmtsV1Z1bFk4MW1pdGZmbU9uR0RianFvb2QzQ2tUR2kwT0p3Uk01YndOT0hmdEFpZFJOWmFDWlhIQmtWOE4w?oc=5",
-     "published": "2026-11-09T01:55:00.000Z"
-    },
-    {
-     "title": "Malaysian Embassy monitoring Poland situation after Kraków shooting",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOektZNUdtc1VZSzh4bC1FX3Q4bnFkSkdqMjNDanhnUTN6MTNZMko5RjBiQUdlN2VYUWJkZFlZVm4zbmFJdVNZMk5RRl9fVEo5dlFHUG5INmJsemk4Z3NxYkhmRkhpYjVpSmR1RFM2RTd3Q2VuY2c2TVNqbDY3Y0k1NkNaVEhfZkF2SjAtelBoeS1zcTZNQXZkS3FoVVZTTTRoVzREdEVid1h0amF6RzJ0Y0J4OHJaNTQ?oc=5",
-     "published": "2026-11-09T01:53:00.000Z"
-    },
-    {
-     "title": "Malaysian tech champ is fast, furious and micro-precise",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3FCd3lsNGFINmQ4Q3F4M1RNU1JSRTUtV3ZlbzZwVG02Uzc2Ym8zci0zVFZxWDhFc2h0dUp1RGU5RldBd3J3YndBWFlWNWh6alJjZHprb3hGRDNiT3ZFdVZSdHVkQXhjWks4RHhtaTZuMFN6RXNKdmZsMUYxZnpOdUowNGV2andLcjZQNVN3NlpKNUlFUDZsRnBHNk5QdXBiX21sMGx6bw?oc=5",
-     "published": "2026-11-09T01:23:12.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazdKYkYwUEpnNlF6QWZBUWFneDlyLWRrQlFEOXVnYTRhaU40b1k1b1dsMk55bnpyVVpVSGQ4d0V6eFhJRnFGMk1zazRwTjZQY213c0hxcmI3UThkSkVwWDZLQS14c1RUUHREUVpqOW92V1YzSWtDelpUS2YzWDk3N2JRNk5WakY3Zkh0UnJ1QXlSQjFNRUJOVk9iVFYzRU1lal9wcnN0NHFMWGE1SXpFc016SFliLXVPOFA0QUppcw?oc=5",
+     "published": "2026-11-09T03:01:00.000Z"
     }
    ]
   }
