@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-09T10:53:27.788Z",
+ "updated": "2026-11-09T11:52:20.169Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘I’m not the man I was’: Johnny Depp is back with his biggest role since his highly publicized legal battles",
+     "brief": "The trailer for “Ebenezer,” Paramount Pictures’ newest entry into the “A Christmas Carol” lore, is more like a promo video for star Johnny Depp himself.",
+     "link": "https://www.cnn.com/2026/11/09/entertainment/johnny-depp-ebenezer",
+     "published": "2026-11-09T11:52:20.303Z"
+    },
+    {
+     "title": "‘Where is Cindy Hyde-Smith?’: In a nail-biter Senate race, the incumbent stays out of view in Mississippi",
+     "brief": "As the Mississippi Senate race still remains too close to call, Democrat Scott Colom and GOP Sen.",
+     "link": "https://www.cnn.com/2026/11/09/politics/mississippi-senate-hyde-smith-colom-campaign",
+     "published": "2026-11-09T11:51:20.401Z"
+    },
+    {
      "title": "Luxury brands try to entice younger consumers with new experience",
      "brief": "On a recent afternoon in New York City, a small group watched as craftspeople in lab coats cleaned and carved small silver pieces under microscopes.",
      "link": "https://www.cnn.com/2026/11/09/business/luxury-brands-exhibits-lvmh",
-     "published": "2026-11-09T10:51:28.000Z"
+     "published": "2026-11-09T11:48:20.410Z"
     },
     {
      "title": "Centrist Democrats warn party leaders not to ‘go too far’ after midterm wins",
      "brief": "Democrats just won what could be their largest House majority in decades but some battle-tested centrists are already warning their party not to lose it in 2028.",
      "link": "https://www.cnn.com/2026/11/09/politics/democrats-impeachment-affordability-midterms",
-     "published": "2026-11-09T10:50:27.998Z"
+     "published": "2026-11-09T11:47:20.403Z"
     },
     {
      "title": "A record number of women will serve in the next Congress",
      "brief": "After this year’s historic blue wave, more women than ever before are set to serve in the next Congress.",
      "link": "https://www.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
-     "published": "2026-11-09T10:49:28.296Z"
+     "published": "2026-11-09T11:46:20.405Z"
     },
     {
      "title": "Texas was a loyal partner in Trump’s immigration machine. Now, it faces a new test",
      "brief": "Republican Gov. Greg Abbott placed Texas at the center of the immigration debate for years, launching aggressive state-led efforts to clamp down on border crossings and antagonizing Democrats by busing thousands of…",
      "link": "https://www.cnn.com/2026/11/09/politics/what-does-a-blue-texas-mean-for-trumps-immigration-machine",
-     "published": "2026-11-09T10:48:28.220Z"
-    },
-    {
-     "title": "Gunman who killed at least 6 in Kraków mass shooting has died in hospital",
-     "brief": "A gunman who killed at least six people during a deadly rampage in the Polish city of Kraków on Saturday has died in hospital, Reuters news agency reported on Monday, citing police.",
-     "link": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk",
-     "published": "2026-11-09T10:46:27.995Z"
+     "published": "2026-11-09T11:45:20.412Z"
     },
     {
      "title": "Former NYPD officer and teacher’s aide arrested in fatal stabbing of New York City jogger",
@@ -46,12 +52,6 @@
      "brief": "The judge presiding over Russell Brand’s criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan and sexually…",
      "link": "https://www.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl",
      "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
-     "brief": "Nvidia chief Jensen Huang has admitted to having an extramarital affair as his company announced it will investigate reports he was the “target of a foreign intelligence effort.”",
-     "link": "https://www.cnn.com/2026/11/08/business/nvidia-investigation-ceo-jensen-huang",
-     "published": "2026-11-08T12:00:00.000Z"
     }
    ]
   },
@@ -60,15 +60,33 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Japan Tobacco hit by second day of limit-down losses after Russia seizes units",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdm9hbGFlNTBXei1uZHNiNVlFY1NudkQ3ZFNuXzBnNXlOYlJCRHU5Z0h5alc0QnFULUF0elRjRHRZUlA5TGxGeFFJTlAtbU92YWVzSTVacXo5WTFJbUhZckxtQ09BbzB6dlZIbkZHMkJ3RmJfYnJ0Mmpmd29RN01Xd1FhSkFhbDRQYWh5aDNnLUJqZUVHbTYtdGJTQjV0NmxpeXNtQWlPb3BoNXJSUzdnX01aeVVJN0k0d1M2R0JfNFpZR3ItQ2hiWkdiN1owUkRHRzdkZkhn?oc=5",
+     "published": "2026-11-09T11:36:00.000Z"
+    },
+    {
+     "title": "Young trekker found dead after going missing near Nepal's Badimalika temple",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSEphWW9tNUZIRnBmU00xdVVIbmpLODR3RXRvc2M0M1Eta05QMm56YTJBdnhEcTQxdmttYzNIS2JiMDFuYnBDVDhabkxaNzVZbVlvNFc5dUtXemlpWTVxb3l3S3czNTY5OWdOOVZybXIzVHFJd2hZRHc1OUNtVnFhU2dOV0p1SHd6d1VwWnlxbm9yS1ZWWERjLXlCckUwazhjMk90cG9xZnRMSW9ManRuQVVacVNjU0RMRUJYYkZlOTF3N0dnc25PdFFrY0R4ZDZBcjh2S2ZnOA?oc=5",
+     "published": "2026-11-09T11:33:00.000Z"
+    },
+    {
+     "title": "US opens probe into 2,895 Waymo vehicles over school bus safety violations",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOGlhODhHLVFMWVVIYV9SbmNMWUFRWWhsV0ZDb2lCdmgtV21CNGU0WXd2YVRsci03UjNsbEw4VlZrVm1JaGd0T0dkbjVSN19GMUlCWV9rQ1RQaklWZmZUUkJ3aVVDb3JHaTVlbzB6Z296bHRWQTVPN3ZzSHFJTDZXMGQySzQzUlRNUGVRWEh4cjM3WFpTLU1DY1RsVjJCdmxleVdxOF9Fendla3BIZXp3ZlljeERKTDRsS2U4clBRS1lPRU9C?oc=5",
+     "published": "2026-11-09T11:03:00.000Z"
+    },
+    {
+     "title": "Motorsport: Motor racing-Piastri and Webber part ways in mutual split",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOURoWWJpUkQwb0hfNlotdnpqdGNMZy1Dc2h2ai14eXM0cThQdHZZd1g3ZTZYYnphMXRDa19lZlQ1QXNiMzNNa0g1MVB6ckdJY0kzd1ByakdaZ2p1dlhUV0FVT25ZZ2VpYkxwaDJneE53SHhDOHN4WUR3UTc5amRuWEpHQ19La2E2cDlnOTdZYjdVVkdXc0FVZDFVTEhKTFRHQ0d3Nk5MOEZldnhUajRVa01n?oc=5",
+     "published": "2026-11-09T11:00:00.000Z"
+    },
+    {
      "title": "Action to be taken over any breaches at The Weeknd’s concert, says Zulkifli",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOThOM2RCTWU0UzFnNEtsMmhzZndzeUhWZlo5dzVpWHZiaGx2VUxYLWphUUZpbWVZLXdib3RjUFR1LVEyZUR0dnQ1OGlHWENTZ1pmZVRBODZ6andoNm5mNm9nV0FuUUNRbFBtMkZnUXVGdkdSclQ4YXVBeldjeDNpdGFVbFEteVBjems4QmhPV29jNzJPd29nWm56eU5ScjNJZmo1aHA1Qno2b0k5UjZ5ZEdRc1FsVW1zSWctMF9aVkU?oc=5",
-     "published": "2026-11-09T10:34:00.000Z"
-    },
-    {
-     "title": "Twin giant pandas Jian Jian and Kang Kang arrive in Chengdu from Macau",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1Z5VVRvQ2ZOVjhnZm5pS1Z0bkZSQlBaWU92a2Rra1ZFRnZFMmRzV2UtS2FfeVVlWFpyU3FDZE00LVpYa0xkTkNwSElQRV9iZXFzYWVkV2tkOE9pSFY4dXVNQ3h3OUdrT0JOMFdOdmRubTZubkFSSEF6R2NiM1RZYmoySmNfNV9aU1RQSUNFOHItTzZRTWRlN1FQOUhYdzB0WGV5cVBYMl9HQ21RdThSM05KWmtjZHBQaTdJWTYxd1F4eUxQU0JTdFhkTEp2UQ?oc=5",
      "published": "2026-11-09T10:34:00.000Z"
     },
     {
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdG80WFB6cU1SUjZVT1VUemVLd2xyUm9oYklIcDFwYm1MZ0pBOTZWMExNVTRNSTVPNU1RNDk0bm02cFlUM1NJME41cnV3U1ZzVU9vRVFZRGF1M0FrcTNsWTVlRnBVOEZVaW1DaVAwYlc4V3paRVBLbDNyN2JqNWhTc1F0dU1uazd6bnJGZHVmTWJYc2NrQm9mdjF0X2staXJTSXBpcVJFTGxtcU5BQmZwem5CTUNKSUw4b1Bj?oc=5",
      "published": "2026-11-09T10:14:00.000Z"
-    },
-    {
-     "title": "French PM Lecornu holds talks over protesters' cost-of-living concerns",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDM2ZThkZTVibWRjdGtBZURSbDdIcXo4UWJCSENGTWZ6Q2MxZFduRHR6dkRJYXdYMEVFYk80YTNCNkhlRWFhNUxtNERpUEhNX0dyUWU1ZkQ0WDRNUDZSNldKSEFuX3FFaW5EWnBBNUhTanV5WkJMdGpqbVlsSmdYTktwSnZvUTZoMG1nOGhmTVV2LWxUZk9mdVkzSDRxTjhRSzg0U3NHUnViSm1mbWNhSTFYSnRONDcyNGVDS3FB?oc=5",
-     "published": "2026-11-09T10:13:00.000Z"
-    },
-    {
-     "title": "Eligible households affected by floods in Selangor to receive RM2,500, says PMO",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWx1bDA0UWZ5cnJRVEtLektJUHM2dHpTSllWLTBhdHJTMEI1cUdPaWF5cFc5V0l1Nm1KMmJBc3hQQ2Q0OE1PNTUzU3QwMWhrSVhuR2hnVEF1NzRubDItN0s5bVpSV0xsVm9pYy1aZHlrRG5pNWNDMlZyNEI0TkhNUVY1NHRFRzg1aFB1WVQtSEZ5QnB4cFlsSHIxMEg4VnpBY2dGVUtZeWRramNPdnZQYmRHR0t4U0JOcEdYTHVuTU9NMzBzcWc?oc=5",
-     "published": "2026-11-09T10:07:00.000Z"
-    },
-    {
-     "title": "UK's Russell Brand due in court for rape and sexual assault sentencing",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmlSOFJ6OFV0b010RHJKMUlKY3VZeFY3VWFfR0g4el9nUkFQeDJIdUduQk5aSHgxNVNhTWtnYmhsVjFPZ2loUFhEWXVqUWVmRUpOc3dVYnhiX3FjMUhBUVMtZWhPRlNqTnhDWHdlRkJycXpmXzZfOXRGdVcwYXRGNmt2ZVZDSDZfMmpoM2x4aEt5cHdfZVZ6RUwwakJCTTFaeExGQnRrREduWlV0VFNjdmRnQUViSGtWWUZlNnV3?oc=5",
-     "published": "2026-11-09T10:06:00.000Z"
     }
    ]
   }
