@@ -1,57 +1,51 @@
 {
- "updated": "2026-11-09T22:41:52.734Z",
+ "updated": "2026-11-09T23:36:34.286Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Nvidia stock falls after investigation into CEO, bucking market rally",
-     "brief": "Wall Street rallied sharply on Monday, despite a 4% decline in Nvidia shares, as markets continued to rebound from last week’s steep sell-off .",
-     "link": "https://www.cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation",
-     "published": "2026-11-09T22:41:52.973Z"
-    },
-    {
-     "title": "Judge denies Lindsay Clancy’s motion to dismiss murder charges, paving the way for potential retrial",
-     "brief": "A judge in Massachusetts denied Lindsay Clancy’s motion to dismiss her murder charges, clearing the way for her to face a second trial for allegedly killing her three children.",
-     "link": "https://www.cnn.com/2026/11/09/us/lindsay-clancy-motion-denied-retrial",
-     "published": "2026-11-09T22:40:53.005Z"
+     "title": "Investigators recover cockpit voice recorder from fatal Learjet crash site",
+     "brief": "Investigators from the National Transportation Safety Board have recovered a cockpit voice recorder from the primary crash site where a Learjet collided with a busy roadway in South Florida last week and killed all…",
+     "link": "https://www.cnn.com/2026/11/09/us/florida-learjet-crash-voice-recorder",
+     "published": "2026-11-09T23:36:34.692Z"
     },
     {
      "title": "Skydance plans to bundle HBO Max and Paramount+ next year",
      "brief": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company said Monday.",
      "link": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
-     "published": "2026-11-09T22:39:52.989Z"
+     "published": "2026-11-09T23:35:34.543Z"
+    },
+    {
+     "title": "For 2 years a Virginia man said he didn’t know what happened to his missing wife. Now he says he dismembered her body",
+     "brief": "For more than two years, Naresh Bhatt said he didn’t know what happened to his missing wife.",
+     "link": "https://www.cnn.com/2026/11/09/us/naresh-bhatt-trial-virginia",
+     "published": "2026-11-09T23:34:34.581Z"
+    },
+    {
+     "title": "FBI is investigating a possible killing aboard a cruise ship out of Texas",
+     "brief": "The FBI is investigating a “suspected homicide” aboard a cruise ship that returned to port after departing from Galveston, Texas, the agency said in a statement Monday.",
+     "link": "https://www.cnn.com/2026/11/09/us/suspected-cruise-ship-killing",
+     "published": "2026-11-09T23:33:34.584Z"
+    },
+    {
+     "title": "France blames Iran for ‘unprecedented’ supermarket fridge cyberattack",
+     "brief": "France is blaming Iran for last month’s supermarket refrigerator cyberattack , which spoiled produce at around 700 retailers, and is vowing to slap sanctions on Tehran in response.",
+     "link": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack-intl",
+     "published": "2026-11-09T23:32:34.575Z"
+    },
+    {
+     "title": "Nvidia is in peril. Can it survive without Jensen Huang?",
+     "brief": "Nvidia CEO Jensen Huang says he wants to die at his desk.",
+     "link": "https://www.cnn.com/2026/11/09/business/nvidia-survive-without-jensen-huang",
+     "published": "2026-11-09T23:31:34.579Z"
     },
     {
      "title": "Trump says he spoke with Huang, who denied knowledge of alleged Chinese spy",
      "brief": "President Donald Trump said that he spoke Monday with Jensen Huang — the Nvidia CEO who has admitted having an extramarital affair with a woman reported to be a Chinese intelligence operative — and Huang denied…",
      "link": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy",
-     "published": "2026-11-09T22:38:52.995Z"
-    },
-    {
-     "title": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028",
-     "brief": "Tyler Robinson, the man accused of shooting and killing Charlie Kirk during a Turning Point USA event on a Utah university campus, is scheduled to stand trial for the conservative activist’s murder in the summer of…",
-     "link": "https://www.cnn.com/2026/11/09/us/tyler-robinson-charlie-kirk-trial",
-     "published": "2026-11-09T22:37:53.001Z"
-    },
-    {
-     "title": "Trump isn’t done alienating his base — this time on ‘amnesty’",
-     "brief": "It remains unlikely that President Donald Trump would ever sign off on giving millions of undocumented immigrants a path to legal status.",
-     "link": "https://www.cnn.com/2026/11/09/politics/trump-maga-backlash-amnesty-immigration",
-     "published": "2026-11-09T22:36:52.981Z"
-    },
-    {
-     "title": "Plane rolls over after being hit by blast from jet engines",
-     "brief": "The blast from the jet engines of a Boeing 737 sent a small plane with two people inside rolling onto its roof this weekend, the Federal Aviation Administration said in a statement.",
-     "link": "https://www.cnn.com/2026/11/09/us/plane-rolls-over-jet-blast",
-     "published": "2026-11-09T22:35:52.991Z"
-    },
-    {
-     "title": "81-year-old sci-fi author M. John Harrison wins the 2026 Booker Prize",
-     "brief": "The British author M.",
-     "link": "https://www.cnn.com/2026/11/09/style/booker-prize-winner-2026-m-john-harrison",
-     "published": "2026-11-09T22:34:53.003Z"
+     "published": "2026-11-09T23:30:34.555Z"
     }
    ]
   },
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Motorsport: Qabil riding high with double podium finish to seal fourth place",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWVBYdDhYYkdrRmRNdl9raDNVMGp6d2VuQnNXdGNsTlU5b24tTXZlQlB4WVU0WVZBVmo2amxGREZrVl9NeV8zZWpyRnpRcGRpY1piSEtLanJrdVh1UFpGaUpFQ0IxQ1dUMFJ2Y0tHb3M1TFNIWlRSZ3pSUlRvTDFuQjlyQTcwWVQ3ZTh0ZDVfcUh2WXVnOU1BR2NQdmhha3Q5cWh6eWVOa244OFBJWFJYUTlNN1NtZkV6LTJZ?oc=5",
+     "published": "2026-11-09T23:34:28.000Z"
+    },
+    {
+     "title": "Decision soon on athlete reward rates",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSHhnMndIOVFIRWVFNUpMUEt4SXNzTHJIaUdxeFNKemhmakJFQmxESWdubC1HQlZKUThLOU9DOU5sSVdFQnVsZDVRd0QyRHg2RmpiYll4RWZnNUhXbWtTQXFDWGFOMFJnbzJJQzY4OEd2bG11eERiM1p4RkdqbmJ5bnYyZDIxTjhXNW1NaVJyd2h5aFZVTHc?oc=5",
+     "published": "2026-11-09T23:23:57.000Z"
+    },
+    {
+     "title": "Football: Soccer-Brady ends three-year spell as Birmingham City investor",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZF9tcDlBUlQ1WnFnY01jQXJWUVZpRVJwNVk3bWltTGd3OUU2UE5JM3VfRkRPdjhCNHFQb2tFNFRZdE9KWENHQmxLMEtDREVOZzJTQ1RhR1JjdHViUi1VUm9iVlBQbV9ZWVZ1R3psUTFLb05aZi1XTTd0bkFJM05IQ045eXJNWmdYUWpKTzdLQURfbndEVlZRX0N6RTl1RmlSTnVBU19ZS21ldkFYRFVDUFRfU1d5UQ?oc=5",
+     "published": "2026-11-09T23:06:00.000Z"
+    },
+    {
+     "title": "Web Summit 2026 opens in Lisbon with record Chinese tech presence",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSUtmWTI0bUhSaFdLcnhJQzA4TlY4YzI0U2Q4R2FPSXkzX3dBUXpMTGxvUXU5OXZoV2sxaUxtSFVWZElhbkR5dkR0NU1LZW5iTE15UTBvQ0pQcERWaWJEUDlPb0VOV1E1YmpzZlpHaUNvYWhEU3dGLTVKcGRQUVYzeklqR1B0YXZMUldfcWdnM0ZWV20zQ0NjeGdCMmp6b0lOY3NKMFZyLUs0SXlyVzREWmpxUWM?oc=5",
+     "published": "2026-11-09T23:03:00.000Z"
+    },
+    {
+     "title": "British science fiction writer M. John Harrison wins 2026 Booker Prize",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM0NPZk9WbWU2eFBwcFlpemwxOGh6NXRjZnk2M1FEYlQtdlNYdVlYM1BNTlFsYWJKUGFhc3pVUTRXVjgtRzd2d01YSEQ3RGxQbm9SZk11cjJ2cGQxeG5FMlJHSzNNX2lxMDkyNnBBcHZUYUViNVV3WXdWRF96UFI3LS1vVlh5VHpUTUwxX0VVeEFOc3gyNmFLLTVZeWlmdG50cV9RcVFJOENRaTVtMEIwa0dRRzlCb1Jvamc?oc=5",
+     "published": "2026-11-09T22:30:00.000Z"
+    },
+    {
      "title": "Trump says US military action against Iran not necessary 'at this point'",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzV1dGFMVU1maG9zVEx5amdzXzdRN2Z1VFNmdW51aGhGWldORV9fTWdwUnY1VjVvcnZJSkMyV2NkNENwYkdDc3pJSGUtU1pBYnRlRlNhLVljWVdvZ0JwbmR5Rm53THp4elBNVGtaVDlCUUVTbmRYWmRCU1o5UWdWRWREa2NkRGF0TnBIVTJ0bm9aaE5lclhiLVBzdWhkSnNoMVQycVg5d0NDOUVMRG12ak9DTjZSbjlOek1iWXE5bHJhY0U?oc=5",
      "published": "2026-11-09T22:24:00.000Z"
     },
     {
+     "title": "Roundup: Eurogroup discusses filling 3 top ECB posts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORFpNY2lVbnI1a21sZXNxYTdJQ2oydW1wdG5Db21KSWdLYk9ZR3NVY1Q2YlFlcHlaZ05Sd3JKOTJSZ0liNGxhVWtUQktham9PUHJyX2hhcHVGa09uSFUzVmdESmhhT3lSeDBVbllrWkNYMFlIbE9GRURoMXBYdTBYTk1GZUxWRE95cGx1NXFLOWtJWHlKTEd5SXdJUVFTclc5ZGc?oc=5",
+     "published": "2026-11-09T22:21:00.000Z"
+    },
+    {
      "title": "Football: Soccer-Xhaka out of Swiss Nations League squad due to calf injury",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGRQSk9XT01VSUo1NW1wXzRDSEpWcWhYbTBaWHhPUFJvaDh5QTFJNzZXZUUyc0RKNDdTd05zRXVicVNGMUloZ3NtYlhTYUltRlVYZVBxX3JMUERLY0Z6MnRoNHF4ZmV2amJYU3ljRmtHenNxLXVjYTNtNlFncElvcU9WNm41eno4R1JXdUwydWc0dDNGOF9UajVjRU8yWURCWnNBOG9vZHN6WVBBZVYtZkZQZm9HQ05QOEE?oc=5",
      "published": "2026-11-09T21:49:00.000Z"
-    },
-    {
-     "title": "U.S. stocks close higher",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iZlQzVnZ2YlJvN01DWmdGeDdmRXNRblZacnBLVGVJdXlWME1aUXVFZlNBdktMSWVwTkFSOVdxWXdpc3oyTTdkakRIa2JsT2ZwVWxwNWlYX1d3RkZVZHFLSjZWLURwc3RLS2tOdDY5aEtGVl81Y21fdkotZw?oc=5",
-     "published": "2026-11-09T21:13:00.000Z"
-    },
-    {
-     "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQdDJLai1Eci1uRnBxbGxYdEhPWThYWWlrX3RPOThqenRkTV9sMzRTcVlSd3EyRXZrZVpqZEFsWmxoUUhZR0ZuazRreDBlUENYQWFDOVdXb2dNMXY0LXB4ZkRwcWNOeG1ITjhsRzNnTFYwd3NIcEtuekc3MWEwdi1WZGF6RVlYNEdXY2RvLWtwX29LcGJlY0JPaGItZ0kwRzVkZEQwaHJYMXNZYTZuQ3ZaZFFsNWZwWGQ0ZFlvNjhySmZBbDgyMEY5U1dpRnVyRkN4YWJfN1hoeVJ6Y1l4dnVmcHNpWDZQTjlCczVIUHhTbmxFVUx6bjdWOFJR?oc=5",
-     "published": "2026-11-09T20:40:00.000Z"
-    },
-    {
-     "title": "Crude futures settle lower",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd3plOG1nNS1SNGc3S2xLRzZTei05dzh2TUhUMzhmcmtpVklPQ04ySnFYUzhxR0dtbmlIc0taSTZHRTR6Z0xXT3NaSkMtWlBGOGdteC1wQzZUaTM4OFh5WW5EZDBXeTNIbTdMVTZsOXM4QjJYV2h4Y2V6YWZzdzgwQQ?oc=5",
-     "published": "2026-11-09T20:15:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks down",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mS1ltcU5nZHRzM19GU1ZIb2IyenYyTENhRXc1ZTlfYkJwVldleFFXMTRJRU5IcnVqb3ZEUkJaV2pWLXI2UzRGNUQ0NG0wVEowWGFkSzFsam1Zb29ZRmRVakVQb3phZ1dWZkdOT1hFSnAzVjVTSXJUaQ?oc=5",
-     "published": "2026-11-09T20:09:00.000Z"
-    },
-    {
-     "title": "Pope Leo meets Argentine clergy abuse survivors as Church faces calls for tougher action",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVA3QTdmaTdsTU1BZmRSajVLdklCY0VHMDdqdXNIWmVpQW5ub2F0TUxmR3lfWDlmcFFQRjhVU3dvaTNzdVhIc2xzN3BNRzRiODZ5bXNCbkQxM2lCUnQzaXJvaVVlUjQ0RFJ1U2xGRDdDREFMMU9PR2RaWjFkVk1nLS15NU1CSk1WaTZkTHFIUkdVRndXNXVUMnJnWmFOT1RZR2RFOWVB?oc=5",
-     "published": "2026-11-09T19:32:00.000Z"
-    },
-    {
-     "title": "Rugby-Injury-ridden England make six changes in training squad",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXpvaDhEWG1zckFpbFVqNGtzdXFwai1lZ0RkRlcxMHVEa0p2X0FLQTRVZk1vWGFDM1VfazhNUHB4QXkyTEFjbGVmT3pEYnd3ME45MndrNjJiTFM0dGhvbVVQTGxOT3hQdmwzQnVsYTk3U0p0U2NaZWpyYlhfWDJabDAyWUFJU1pla2V1WkpIemlyVmk2UGxHXzJ4VTBLaXRRVG9BVUVHbFBMRHVaZUpEVXpn?oc=5",
-     "published": "2026-11-09T19:17:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
