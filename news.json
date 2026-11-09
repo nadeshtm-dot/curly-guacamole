@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-09T00:56:52.353Z",
+ "updated": "2026-11-09T02:03:39.591Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
-     "brief": "Pope Leo XIV has called on Argentine President Javier Milei and the country’s political leaders to “safeguard democracy” and demonstrate a “careful use of words” during his first speech in Buenos Aires.",
-     "link": "https://www.cnn.com/2026/11/08/americas/pope-visit-argentina-latam-intl",
+     "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
+     "brief": "Former President Joe Biden announced Sunday that he “won’t be able to do as many conversations” about his upcoming presidential memoir due to his fight with prostate cancer .",
+     "link": "https://www.cnn.com/2026/11/08/politics/biden-cancer-promoting-memoir",
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
-     "brief": "Former President Joe Biden announced Sunday that he “won’t be able to do as many conversations” about his upcoming presidential memoir due to his cancer.",
-     "link": "https://www.cnn.com/2026/11/08/politics/biden-cancer-promoting-memoir",
+     "title": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
+     "brief": "Pope Leo XIV has called on Argentine President Javier Milei and the country’s political leaders to “safeguard democracy” and demonstrate a “careful use of words” during his first speech in Buenos Aires.",
+     "link": "https://www.cnn.com/2026/11/08/americas/pope-visit-argentina-latam-intl",
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
@@ -42,15 +42,15 @@
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Netanyahu rival tasked with forming next Israeli government. But the path remains complicated",
-     "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival has been tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
-     "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
+     "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
+     "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
+     "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
      "published": "2026-11-07T12:00:00.000Z"
     },
     {
-     "title": "Poland stunned as suspect with far-right views kills 6 in Kraków mass shooting",
-     "brief": "Poland has been left shocked after a rare mass shooting in the country’s south — prompting national mourning and heightened security, as authorities say the attack was likely driven by far-right ideology.",
-     "link": "https://www.cnn.com/2026/11/07/europe/krakow-shooting-poland-killed-intl",
+     "title": "Netanyahu rival tasked with forming next Israeli government. But the path remains complicated",
+     "brief": "In a setback to Prime Minister Benjamin Netanyahu , his main rival has been tasked with forming the next Israeli government, placing him one step closer to ousting Israel’s longest-serving leader, even as the path…",
+     "link": "https://www.cnn.com/2026/11/07/middleeast/eisenkot-israel-government-latam-intl",
      "published": "2026-11-07T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,42 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Trump to meet Qatar's prime minister as Iran diplomacy faces hurdles",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLUxQYVRyM0NGVll1aDEyOGpuSjZ6YlJrZlI3M0dIeXZVX3UtbDZISUJWaWl3S3VZR05kMjd3Mk1fRWJWeVc3QVBndnIwRVJaOXpUV0VTZXg2cnUxc2FFUnRyanliLTJQLWUyejZ3cWhHTk1iN0l3ZjJOWmVTMmtsV1Z1bFk4MW1pdGZmbU9uR0RianFvb2QzQ2tUR2kwT0p3Uk01YndOT0hmdEFpZFJOWmFDWlhIQmtWOE4w?oc=5",
+     "published": "2026-11-09T01:55:00.000Z"
+    },
+    {
+     "title": "Japan's Nikkei rebounds 2% after tech-led rout",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOHdrX3VFTUpCWGRENm1oNU95elhOMTFhX2lTeWJ1MHZKai1CZGtWRC1qdmhucnlnQlV0Z2JsTGtOX3pFWUl3SGxVMDhhVkRKb2dTcXVEdk8wNk8xQTQ1V25TUGxaNVBTVnpTYnNLR3V1SDgzTktsblZwYTFfTUxGV3NzTy1qLUpWdlltT055QmJBN2RCQVo4ZGl0QkI0XzBCa1lrdVlwdEljSzk0?oc=5",
+     "published": "2026-11-09T01:45:00.000Z"
+    },
+    {
+     "title": "Malaysian tech champ is fast, furious and micro-precise",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3FCd3lsNGFINmQ4Q3F4M1RNU1JSRTUtV3ZlbzZwVG02Uzc2Ym8zci0zVFZxWDhFc2h0dUp1RGU5RldBd3J3YndBWFlWNWh6alJjZHprb3hGRDNiT3ZFdVZSdHVkQXhjWks4RHhtaTZuMFN6RXNKdmZsMUYxZnpOdUowNGV2andLcjZQNVN3NlpKNUlFUDZsRnBHNk5QdXBiX21sMGx6bw?oc=5",
+     "published": "2026-11-09T01:23:12.000Z"
+    },
+    {
+     "title": "Tennis-Gauff bests Pegula in thrilling clash, Noskova beats Kostyuk in WTA Finals",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXNMVjhJblU2WUx5dkpobmZHbWtwakpMTFRoLUhKWVc3dmxHaXlwU2I1UEt1UTFqX3cyY0tmMXdGeWdwaTNvWlNIVEU4VHR3SzZicGpycFhlQlM2R2Z1cUtpd29hanNPMVo5U0Z5OGRDSTN2aFpDVE9VbWhPd0poNnJ0RnlLS0tEaDN4OURtR29relRFa3JLMmViWjJnb1oyT3BoVUI4eS1RTWFtN2JhMDJGRGFEaHpaZnBGbTh4YlhOSWVRV1J4bzlZTQ?oc=5",
+     "published": "2026-11-09T01:19:00.000Z"
+    },
+    {
+     "title": "Australian shares slip below 9,000 level as banks overshadow miners' gains",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcG1kQWJPbG5mM0E0MnZab3dxY2E3MkJvdkV4T2k5Um5Ubk12d1gwWk9KNkdhcmJHZkkza2FIcGRYWmR0ZXZjM3c2TF9oaUQ3anBNUGU5My15QlplSDctZS12cnQtWWsyTE1ySV9XUmhLU29VTnppS0dPOWtlUlVwLUhSNkVrRHNreldtT1lIRy1NTDd4NG1mS09jQUVzX0VKeExFRDVFQzBVZHR5a0JLQ2M2LXotTFFsR0t0bXpLU2hCbEc1X0daV2VTbkNrRGFXRmc?oc=5",
+     "published": "2026-11-09T01:15:00.000Z"
+    },
+    {
+     "title": "Britain expected to cut 2030 EV sales target to 60%",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQenFjSml1MHppNmNFYVpManBBS29VVnFrc21tcEpwRUZ5NUdrcGZqUTZJZThGSzhoVnNCbE5MX2pvQzk0YVhSdHNqMF9MeFJEdWhubl9seTdzYmVyaEQ5YU5jM3BuZ1JySHVrQ2l0TXhBRWhWQ1dxYXdCVXdaeUxCbWdBTWdBazZsT1k5emNiR2Ytb2tpTlhaOW9jV2tmalpSZWJPTzdzN0VpOEJaWFY4WQ?oc=5",
+     "published": "2026-11-09T00:58:00.000Z"
+    },
     {
      "title": "Ringgit likely to trade with a slight positive bias against US dollar",
      "brief": "",
@@ -70,42 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLXlzUjJxM1RrSFh1S0taZHVoUU9mcFRKcXZzR29MSWhuY2x2WHJsOXN0aV9sb1J0M2FfbjRlT0Itek5VVjc4Y2dKR2hMT2JUU0ZCV3kwNTl4WFpWTTc5MWVvOE1WYjVWb0lQdTRPdXlyMlBJR2E0TnI5Vk5SN1YtREtlRjhYTjJsTk05MV9zNE1oNW9YNTByYUNMa2VLU0pnV25MYzlVclJ3VDNWZUZQQmkzdTdZMWR4MmpyUUFYelA1NmtJ?oc=5",
      "published": "2026-11-09T00:30:00.000Z"
-    },
-    {
-     "title": "Malaysian tech champ is fast, furious and micro-precise",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3FCd3lsNGFINmQ4Q3F4M1RNU1JSRTUtV3ZlbzZwVG02Uzc2Ym8zci0zVFZxWDhFc2h0dUp1RGU5RldBd3J3YndBWFlWNWh6alJjZHprb3hGRDNiT3ZFdVZSdHVkQXhjWks4RHhtaTZuMFN6RXNKdmZsMUYxZnpOdUowNGV2andLcjZQNVN3NlpKNUlFUDZsRnBHNk5QdXBiX21sMGx6bw?oc=5",
-     "published": "2026-11-09T00:15:38.000Z"
-    },
-    {
-     "title": "Malaysia reaffirms stand on extremism after Poland shooting",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTy1GbWRrUGhtS01XMThmOFVpZTFPcmxRYnJZVXZUR1EwUF9tV3Y2RW9Hckx2V0dlSWJMaHpud21ldDlsREJoZ1p4RU9MdllfU094cHFoN0tVWkRhbE02WnZ5UXNyc3JiOTNJcDNfX0R6c1FCT1BkVEtjbEQzTHBjMk5vakRYVW5QOWhmMWJsY3MzbGpjVndsUnd2bXZkSF9mbUFyb1RRUUNUNkJnLXc?oc=5",
-     "published": "2026-11-09T00:04:50.000Z"
-    },
-    {
-     "title": "Senate energy fast-track bill faces showdown",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdTluWUJ5Y1BQZ3BOMEZ5OVBaTzBwR2dORUROZFFXNXFtX2Jpank4ejJKeXZlbmFESUZFcnVzTzRwaWV6SWtRMXljUHBFVThoZmlOZUZPRGNleG45XzczQWJMTDVlajdZa0xaM3NGYlRqTnJ1M3FUODBDTTFGNnFrZFc5WHFrWUtJSTZmZndaRV9hTlcydzM3UXFrMXB4dDBDaE9QeFhmOFQ?oc=5",
-     "published": "2026-11-09T00:04:22.000Z"
-    },
-    {
-     "title": "RBA's Hunter says AI has yet to deliver productivity boost, trigger job losses",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMjJzOXoyTW5PZkFBWHlhck1URi1QdzJwdXphdFhic2FUOUpTRzBidDBIay1SRWZBc01xSGhSNnB3cVdDXzF0bllrczJYb0F3dUJGUXVGdExkWkFvNm5odlhxNTdfdk9GM3lCM0V3ZWE1aUpqVEV6TFhRY3hTdV96cnJrUl9pMUZ3UXVqZ0UzTmV1QlBMMnhBckhxakZ1S04wbXpqUEk0cFJ4UzZNSEZFa2EzY0d2dGpHTERhZGdaSGxTZGs0MDJGZUk3RmQ?oc=5",
-     "published": "2026-11-08T23:57:00.000Z"
-    },
-    {
-     "title": "Trump calls Nvidia's Huang 'honorable,' says he has not discussed allegations with him",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZUdzcjF5THpHdy1oeWVaLTh2LVE2TG44RWtsMy1xWlVaQTFzV2VpU1hleHFRZnBZTnRjMlAxaURlWDNwc1h0bXJCSkJ1WHUzem1yOERpc2JnV3dFS1ZoWXlZWnBrUWVIdVpRb3JYNWNMMWZSSVJIZk1TV0FKQmRmOWFjNVVfSFhCRlJpM2lEVExYUXRKdTBQVHRYOTd1NHV1VzlvOXY4RFJHWU5VS3l1WDI3N00yTmQtanVQNWw0TzUtZW9NNTh3dWhjLU1kenA0endKcWZxZGNWUmpM?oc=5",
-     "published": "2026-11-08T23:56:00.000Z"
-    },
-    {
-     "title": "Anti-dumping duties on flat-rolled imports from Taiwan, China, Vietnam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbVRQSnIxVFd4RG50X3FnbVpfaXhMTDlLQjV2X1o1TkMwOXRSdmtUd2k0bFQxUGRSU2VmWGM0NXZjZ1NaZ2ZxaG42cW4xaENXT1NhWmt2WTV0Zk9qRzdJMDh5aVloV2FmY19BR1drdFgxM2lKY2FXZ0IzZHBLaEVHT2FiNUNieVVsdHdDNnVDaEgzU3lweGpfZ1M0SkVvdXduYzFjN1RrWXF3cnBQR185MmY4YzRtNGFDdmUwbGxBTG5yeTFxWG9adA?oc=5",
-     "published": "2026-11-08T23:54:23.000Z"
     }
    ]
   }
