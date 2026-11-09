@@ -1,56 +1,50 @@
 {
- "updated": "2026-11-09T13:01:53.509Z",
+ "updated": "2026-11-09T14:16:25.706Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Trump says ‘great dislike of Israel’ contributed to Republican midterm losses",
-     "brief": "President Donald Trump said a “great dislike for Israel” was one of the reasons the Republicans lost in the midterm elections, along with the Iran war and the subsequent rise in gasoline prices.",
+     "title": "Trump says ‘great dislike’ for Israel contributed to Republican midterm losses",
+     "brief": "President Donald Trump said a “great dislike” for Israel was one of the reasons the Republicans lost in the midterm elections, along with the Iran war and the subsequent rise in gasoline prices.",
      "link": "https://www.cnn.com/2026/11/09/middleeast/trump-dislike-of-israel-contributed-to-republican-losses-intl",
-     "published": "2026-11-09T13:01:53.730Z"
+     "published": "2026-11-09T14:16:25.958Z"
     },
     {
-     "title": "Texas was a loyal partner in Trump’s immigration machine. Now, it faces a new test",
-     "brief": "Republican Gov. Greg Abbott placed Texas at the center of the immigration debate for years, launching aggressive state-led efforts to clamp down on border crossings and antagonizing Democrats by busing thousands of…",
-     "link": "https://www.cnn.com/2026/11/09/politics/what-does-a-blue-texas-mean-for-trumps-immigration-machine",
-     "published": "2026-11-09T12:59:53.808Z"
+     "title": "Gas is about to drop below $4 for the first time since July",
+     "brief": "Here’s a sight for voters’ sore eyes: nearly $4 gas.",
+     "link": "https://www.cnn.com/2026/11/09/energy/gas-prices-drop-driving-season",
+     "published": "2026-11-09T14:15:26.020Z"
     },
     {
-     "title": "‘I’m not the man I was’: Johnny Depp is back with his biggest role since his highly publicized legal battles",
-     "brief": "The trailer for “Ebenezer,” Paramount Pictures’ newest entry into the “A Christmas Carol” lore, is more like a promo video for star Johnny Depp himself.",
-     "link": "https://www.cnn.com/2026/11/09/entertainment/johnny-depp-ebenezer",
-     "published": "2026-11-09T12:57:53.795Z"
-    },
-    {
-     "title": "‘Where is Cindy Hyde-Smith?’: In a nail-biter Senate race, the incumbent stays out of view in Mississippi",
-     "brief": "As the Mississippi Senate race still remains too close to call, Democrat Scott Colom and GOP Sen.",
-     "link": "https://www.cnn.com/2026/11/09/politics/mississippi-senate-hyde-smith-colom-campaign",
-     "published": "2026-11-09T12:56:53.785Z"
-    },
-    {
-     "title": "Luxury brands try to entice younger consumers with new experience",
+     "title": "Luxury brands try to entice younger consumers with new experiences",
      "brief": "On a recent afternoon in New York City, a small group watched as craftspeople in lab coats cleaned and carved small silver pieces under microscopes.",
      "link": "https://www.cnn.com/2026/11/09/business/luxury-brands-exhibits-lvmh",
-     "published": "2026-11-09T12:54:53.812Z"
+     "published": "2026-11-09T14:14:26.049Z"
+    },
+    {
+     "title": "US and Iran are quietly negotiating as Middle East remains on edge. Here’s what to know",
+     "brief": "US President Donald Trump has offered his clearest indication yet that intensified diplomacy could avert another major round of fighting with Iran, in the wake of his party’s disastrous midterm election results.",
+     "link": "https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl",
+     "published": "2026-11-09T14:13:26.055Z"
+    },
+    {
+     "title": "Gunman who killed at least 6 in Kraków mass shooting has died in hospital",
+     "brief": "A gunman who killed at least six people during a deadly rampage in the Polish city of Kraków on Saturday has died in hospital, police said on Monday.",
+     "link": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk",
+     "published": "2026-11-09T14:11:26.059Z"
+    },
+    {
+     "title": "Male donkey is a bull’s willing partner in rare interspecies affair",
+     "brief": "Out on the plateaus of the Ethiopian Highlands, a team of biologists set out to study high-altitude gelada baboons , a type of grazing monkey.",
+     "link": "https://www.cnn.com/2026/11/09/science/donkey-bull-interspecies-mating-behavior",
+     "published": "2026-11-09T14:10:26.039Z"
     },
     {
      "title": "Former NYPD officer and teacher’s aide arrested in fatal stabbing of New York City jogger",
      "brief": "A teacher’s aide who briefly worked as a New York City police officer has been charged with murder in connection with the fatal stabbing of a jogger, according to court documents.",
      "link": "https://www.cnn.com/2026/11/08/us/new-york-jogger-fatal-stabbing-arrest",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
-     "brief": "Former President Joe Biden announced Sunday that he “won’t be able to do as many conversations” about his upcoming presidential memoir due to his fight with prostate cancer .",
-     "link": "https://www.cnn.com/2026/11/08/politics/biden-cancer-promoting-memoir",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
-     "title": "Hiding in plain sight? Russell Brand’s conviction poses tough questions for UK entertainment industry",
-     "brief": "The judge presiding over Russell Brand’s criminal court case says the comedian will be handed down a lengthy prison sentence Monday after he was found guilty in a London court of raping a young fan and sexually…",
-     "link": "https://www.cnn.com/2026/11/08/uk/russell-brand-conviction-reaction-intl",
      "published": "2026-11-08T12:00:00.000Z"
     }
    ]
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Kumbedi gets first France call up to replace injured Kalulu",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdWtSQk1UdUdZRnZCMVZCcm5kRmkwMlVKZy1HTXlRWFNzOXJULXNFczJTUDdhdmZHUzJLMnZsaEpSYWRWMXVLQ3dGclhyZC1MT3o2UndzaUgtbXNZX1V6YjlfNGVLZFQ0UlB6dnhyWlVxVDJRWWtBYlREaW1BRFBzUFhkTjR1a2FUQVhVSHFBUExQZEotY0pYYVByME4wMFRQOVR4elluOXJmck5UWmJGdWxVNUZJak1UTFI4?oc=5",
+     "published": "2026-11-09T13:50:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Former Real Madrid striker Raul takes first senior management job at Real Oviedo",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFAzY3UtV0d5TWh3aERUNWhtR3B1Q0R2YUhsRFEtVW1iWWY0WUdHckZpWVVBcFFCTUZBX0hKYWNnNHNnZjNjSkRHNmFFeG1PVFZlbklDdXVXUnFtVHVrY3FJMnpfRjcxV2dXWTFIWHh3TEp3ZnBnX3hkV3VXNEUxaXd1Q2MzQ2xFS0tubTRSaHJsQWYyUVp5TDZ1ZWxUQk5hczVidkR2ZnlqUUFCUXIzY0xrMElna1ExLWVfNmE4bWZqdU0tUXhQWDhnUDh5Z2dCaUtjZ2M4cw?oc=5",
+     "published": "2026-11-09T13:39:00.000Z"
+    },
+    {
+     "title": "Golf: Golf-British Open to return to Carnoustie in 2029",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjg0SkhMNTZmeDFuclA0WWIzUEVQSjQzNTR1YjRkc0VBa2NaOGdqUFhIODFnWHp3dGFpQzh3MkNHbXBzRFNIODRrNjVRT20wTS1oUGNmQWxxQUpDRmh3Rm1Ua2ZUQjdOR1E5VkFMS0RuSlVJZlZiMFZOT2Ftd01Pc0dxX2RNaG9iMVdEQ3U5ajhoWlM5TEl1TWhEcTh1blE?oc=5",
+     "published": "2026-11-09T13:39:00.000Z"
+    },
+    {
+     "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb3h4dHVPR0ZXMmRJcXF6WWtTMnp2cmxYQTF0N2gxS2stYmUzY0ZPM0V5ejFIZWZtZFNuOXR4ZTdVeEVLcUkxV25NdTdmZ3Z5TE05dGpCRjdrVVVfdnhUQ1RGUXZvWmg4Rjh4dGhKVWRyZFp6SmhldDVXTGYtTWxYLXc4YW1zX1hGOF9sbzZndVBCTVNNRjRJdEEzbWVwbnRHbzNfaHQ2cU1uWXppcEtVSi1kbERSZGc1?oc=5",
+     "published": "2026-11-09T13:27:00.000Z"
+    },
+    {
+     "title": "Pahang Sultan opens Malaysia Pavilion at COP31 in Turkiye",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeXBjTkl1SFJyTlVlX2RDaHBfTk9qbmFPLTNXb3hlbjR0RFpKWEZfTWc2ZG1TTHduckVFOU85OVZOcWNsZ3Q0ZjhLSVNJN1UyYm5xM1lwRG9kblFvanlwdHVUV0lYQ1ptOHR4TjQ1dF9hVmZMMEhkTjRPVE9ralJOVFoxZGYwOEFMRTI4ZjZKb0hlZF9MdWtqYkZ2U3hYNnpYbGduU2lMWkdqWEk?oc=5",
+     "published": "2026-11-09T13:19:00.000Z"
+    },
+    {
+     "title": "Cricket-Carse gets England Lions call-up for South Africa tour",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2pURE1zZE5tZTBlRU1wS2duRkdvTDZ6TVhPa1JoV1gzY2hxck5sX284VExidHNfaUVCRElnWlNWbWdjRGNmWnFYVUNFVUlJVTMyRFpIYjVKNWw5T0JSSndzcjZYQkF5cldNeWxIRnJickVmbE01NXFMdi1pT2xmLXh6X2xDdjBjbEhfSWd3N2JEOEc3c19YbUNxMGRkekt1a2R6OERaVDhyeER6NVBNajlOb1g?oc=5",
+     "published": "2026-11-09T13:12:00.000Z"
+    },
+    {
+     "title": "Cyberattack puts 37.62 million Nitori customer records at risk",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU1czWlNGMENiY2VkSVN5V1Z2MzZIWTB5djFCNnpsaHdiWU0wb1dHV1cxaVl6NFA5bUh5aG1nTC1JZERtYVFSb2NDaE14a0lQMHN5Ml8yS25ZMHFtU0VINWxXYjhBOHJPalp6aVVEaFNacUFGYzZYeTJhRm9aLU1mOE5jZXE0RWFNdnBzR2JwdEdCblZkeWJ1a1hEMDk3NHVHdTlRQVcxU1o0U2FiVkhPR2hnZWM0ZTBGbXNFcXY3VFRBZw?oc=5",
+     "published": "2026-11-09T13:10:00.000Z"
+    },
+    {
      "title": "Spain's right well ahead in polls for November 29 election",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVG5DV0EyTnBtbUhpWWhGYW9zZ0RwOFNLVTAxeUZTYTh6ZjdGWGJPNzVQaTJwaHpIZlREeXFPSllHcF9JZEVZN0hsb0tCSll0VWZ2bFhfVXNWeldia3JvOFVVWWlMYXJ6ZUs4c05ZOUZYVERYczhmMEdlMk8zLTgwWkdOckFpSnQ1UzVwR3ppYTlaYVAyYkJQTm4wMkRsc29MVmpzWS1WcVQ5SGdyTlE?oc=5",
      "published": "2026-11-09T12:55:00.000Z"
-    },
-    {
-     "title": "Google to introduce two variants of its in-house chips, Bloomberg News reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWWVNMVZiOERqRWJMODdjMDIwMmQyYTQzMVVoLTM0MUs2Q2lBMlYwTFVUcl9iQWZ0Vi1JYmdCZ0tUNUJkbWhxQk40VWQtaHJOV0Y5Q09UZWZKaFJSczFCMkZTbG1uTUJXZ3dEYW1FZEthcVpDdUtrVFNGMEU2MDV2LXBNLUtHX241RUdxenF0TFpDOHFQbkFvX0oyeWFhQjhLMll2eEZoMHFJcEdSSHVuQ3dJSWVoaGtlYUJNX3JDY241Q0pzQlJ6WFpn?oc=5",
-     "published": "2026-11-09T12:47:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-England call up Burn in place of injured Guehi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMmJEWFZsQTFuX2swelctb1BIV0lHUU40RzhOalMyZm1YTnpIckw1R213YzhTYS0xaWF0dVQyeFJTOEZyLXhlekVYN2RYWFl0ZUc1OEtIZk0wSWhnQ2JvSG02bG45SHFGdnc1aGhLZUNNY3JzVVRfZ1U4NXNZRjV5dU91czNWVVVPNno2RUdiLUcyMXoxaVFQa0hIVHpVNzRqSlZhNk1PX1NaZw?oc=5",
-     "published": "2026-11-09T12:46:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Lamine and Oyarzabal to miss Spain's Nations League game v Czech Republic",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1R0emVRN2Uzb2R1Ql85bVhGNi1nUXlxTFEyZ0NjQ1VMc3U4eGpqQkw1NXFJSVFYRHQxUGN6UXNrbFJsWTJZTWF2V3drdVY2UGVhYTVjVFFWQXZObXhGaWNOS2VUcDZTZnNqa3hEbGtrenZnMFVweTNfTmhFUmNJN2IwQ3g5WDYzZGZqZkd2NUNycUFmN2M1YkRTakpGWm9kSjBHVC1JX2lKT0w3NWVCMW1vUkRISjFSNy1XU092WWJrdHhwbVJpNGlreFl4OWtF?oc=5",
-     "published": "2026-11-09T12:45:00.000Z"
-    },
-    {
-     "title": "Rugby-Ireland captain Sheehan ruled out of Fiji test",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ0RiNlB2c01KQVlETWVSZlBmMlN0UV9rcHlKYmt5QXdaZTBHRmVuS3RyaUpOX0lVcUV6VEN0R3Z3ajU0cnNGMER6TmhjeFVFdEhxUDF1RU82YzE1b2Y3Zy04bUlCRmxfZnFNVHR6eVVxQktJNG1fQlF1aUFaek40VDYtS1dNY3JtRXozWVBvelkzbU9YMjZ6ZDExWnd6RDJYTXlTRA?oc=5",
-     "published": "2026-11-09T12:45:00.000Z"
-    },
-    {
-     "title": "Boxing: Boxing-Ramla Ali wins first world title at 37 in Texas",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQXI3bXpHdG5zWnl4QWpSOXUyeWVkR0FldDBwUGZhQmdTWUE3RG9IRWJYOXBSYWJzRDlEeDB4ZEpUR3I5d2VMNFVrc3dWS29Gcl9DTGxjb2dNSno4STlOcmhrNEVfbDhGWi16UjBYZGpmZ0YxSDZtWlo4alhXMFBoaUJNRnFoTUNnOG1GQXlwSzZCNWt5N0FBOTFfSDNoS2FTOFgycTZoR24?oc=5",
-     "published": "2026-11-09T12:33:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-De Jong return lifts Dutch Nations League hopes, says Xavi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOem55WHdQMnRjWGt3MkdEcFdIYmtGMFRCcWtPYzRZeWtfTkRicFZkTVhtcmdOVGxna1hkTUtLcUJtWE95OVhBUGtOZGNBWXVheWNqOHgxeGlmbTROWm85TkVWbkVmOE5OTFdSclhncnBnTG4yLW8weDVXNmZFd1A2TDQ1bE1hWnZqNGgxb2g1UkhkSDJzZFVJZ1BaOEVJWG1rOEtGTnBpeENkQTlWM1NianRiNEtCZlhV?oc=5",
-     "published": "2026-11-09T12:32:00.000Z"
-    },
-    {
-     "title": "Canada announces fresh Russia-related sanctions",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUm8xSWRFV01iZ1JzZFh1ZThXMUNfRXdjbDhmYnJJcHoyM1dZMHRveEhfcDRJbWJkZWI5WUpOd1l5a3YwanlVei1wNl9FMFd6Q1N1MVNKWVpQeV9WRVRPTmJfNjZwajZNaENXWUFEVV9oUkNHaFU3R2RFRllfS0lVamxWU3c3ZHZPOG91bVV2cExCOWxfLUlGemdJcng?oc=5",
-     "published": "2026-11-09T12:30:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
