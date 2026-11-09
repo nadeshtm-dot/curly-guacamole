@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-09T21:45:34.430Z",
+ "updated": "2026-11-09T22:41:52.734Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Judge denies Lindsay Clancy’s motion to dismiss case, paving the way for potential retrial",
-     "brief": "A judge in Massachusetts denied Lindsay Clancy’s motion to dismiss her murder case, clearing the way for her to face a second trial for allegedly killing her three children.",
-     "link": "https://www.cnn.com/2026/11/09/us/lindsay-clancy-motion-denied-retrial",
-     "published": "2026-11-09T21:45:34.584Z"
-    },
-    {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys.",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T21:44:34.628Z"
-    },
-    {
      "title": "Nvidia stock falls after investigation into CEO, bucking market rally",
-     "brief": "Wall Street rallied sharply on Monday, despite a 4% decline in Nvidia shares, as markets continued to rebound from last week’s sharp sell-off .",
+     "brief": "Wall Street rallied sharply on Monday, despite a 4% decline in Nvidia shares, as markets continued to rebound from last week’s steep sell-off .",
      "link": "https://www.cnn.com/2026/11/09/investing/nvidia-stock-huang-investigation",
-     "published": "2026-11-09T21:43:34.633Z"
+     "published": "2026-11-09T22:41:52.973Z"
     },
     {
-     "title": "Trump isn’t done alienating his base — this time on ‘amnesty’",
-     "brief": "It remains unlikely that President Donald Trump would ever sign off on giving millions of undocumented immigrants a path to legal status.",
-     "link": "https://www.cnn.com/2026/11/09/politics/trump-maga-backlash-amnesty-immigration",
-     "published": "2026-11-09T21:42:34.636Z"
+     "title": "Judge denies Lindsay Clancy’s motion to dismiss murder charges, paving the way for potential retrial",
+     "brief": "A judge in Massachusetts denied Lindsay Clancy’s motion to dismiss her murder charges, clearing the way for her to face a second trial for allegedly killing her three children.",
+     "link": "https://www.cnn.com/2026/11/09/us/lindsay-clancy-motion-denied-retrial",
+     "published": "2026-11-09T22:40:53.005Z"
     },
     {
-     "title": "A record number of women will serve in the next Congress",
-     "brief": "After this year’s historic blue wave, more women than ever before are set to serve in the next Congress.",
-     "link": "https://www.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
-     "published": "2026-11-09T21:41:34.623Z"
+     "title": "Skydance plans to bundle HBO Max and Paramount+ next year",
+     "brief": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company said Monday.",
+     "link": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
+     "published": "2026-11-09T22:39:52.989Z"
+    },
+    {
+     "title": "Trump says he spoke with Huang, who denied knowledge of alleged Chinese spy",
+     "brief": "President Donald Trump said that he spoke Monday with Jensen Huang — the Nvidia CEO who has admitted having an extramarital affair with a woman reported to be a Chinese intelligence operative — and Huang denied…",
+     "link": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy",
+     "published": "2026-11-09T22:38:52.995Z"
     },
     {
      "title": "Judge sets trial date for Charlie Kirk’s accused killer for summer 2028",
      "brief": "Tyler Robinson, the man accused of shooting and killing Charlie Kirk during a Turning Point USA event on a Utah university campus, is scheduled to stand trial for the conservative activist’s murder in the summer of…",
      "link": "https://www.cnn.com/2026/11/09/us/tyler-robinson-charlie-kirk-trial",
-     "published": "2026-11-09T21:40:34.632Z"
+     "published": "2026-11-09T22:37:53.001Z"
     },
     {
-     "title": "The fierce battle for James Bond is playing out in public",
-     "brief": "It’s been five years since Daniel Craig bid farewell to the role of 007 in “No Time to Die,” which ended with a closing credit promise that “James Bond will return.” And while corporate machinations have slowed the…",
-     "link": "https://www.cnn.com/2026/11/09/entertainment/james-bond-casting",
-     "published": "2026-11-09T21:39:34.630Z"
+     "title": "Trump isn’t done alienating his base — this time on ‘amnesty’",
+     "brief": "It remains unlikely that President Donald Trump would ever sign off on giving millions of undocumented immigrants a path to legal status.",
+     "link": "https://www.cnn.com/2026/11/09/politics/trump-maga-backlash-amnesty-immigration",
+     "published": "2026-11-09T22:36:52.981Z"
     },
     {
-     "title": "Gunman who killed at least 6 in Kraków mass shooting dies in hospital",
-     "brief": "A gunman who killed at least six people during a deadly rampage in the Polish city of Kraków on Saturday has died in a hospital, police said Monday.",
-     "link": "https://www.cnn.com/2026/11/09/europe/krakow-shooting-poland-gunman-dead-intl-hnk",
-     "published": "2026-11-09T21:38:34.619Z"
+     "title": "Plane rolls over after being hit by blast from jet engines",
+     "brief": "The blast from the jet engines of a Boeing 737 sent a small plane with two people inside rolling onto its roof this weekend, the Federal Aviation Administration said in a statement.",
+     "link": "https://www.cnn.com/2026/11/09/us/plane-rolls-over-jet-blast",
+     "published": "2026-11-09T22:35:52.991Z"
+    },
+    {
+     "title": "81-year-old sci-fi author M. John Harrison wins the 2026 Booker Prize",
+     "brief": "The British author M.",
+     "link": "https://www.cnn.com/2026/11/09/style/booker-prize-winner-2026-m-john-harrison",
+     "published": "2026-11-09T22:34:53.003Z"
     }
    ]
   },
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Trump says US military action against Iran not necessary 'at this point'",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMzV1dGFMVU1maG9zVEx5amdzXzdRN2Z1VFNmdW51aGhGWldORV9fTWdwUnY1VjVvcnZJSkMyV2NkNENwYkdDc3pJSGUtU1pBYnRlRlNhLVljWVdvZ0JwbmR5Rm53THp4elBNVGtaVDlCUUVTbmRYWmRCU1o5UWdWRWREa2NkRGF0TnBIVTJ0bm9aaE5lclhiLVBzdWhkSnNoMVQycVg5d0NDOUVMRG12ak9DTjZSbjlOek1iWXE5bHJhY0U?oc=5",
+     "published": "2026-11-09T22:24:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Xhaka out of Swiss Nations League squad due to calf injury",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcGRQSk9XT01VSUo1NW1wXzRDSEpWcWhYbTBaWHhPUFJvaDh5QTFJNzZXZUUyc0RKNDdTd05zRXVicVNGMUloZ3NtYlhTYUltRlVYZVBxX3JMUERLY0Z6MnRoNHF4ZmV2amJYU3ljRmtHenNxLXVjYTNtNlFncElvcU9WNm41eno4R1JXdUwydWc0dDNGOF9UajVjRU8yWURCWnNBOG9vZHN6WVBBZVYtZkZQZm9HQ05QOEE?oc=5",
+     "published": "2026-11-09T21:49:00.000Z"
+    },
+    {
+     "title": "U.S. stocks close higher",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iZlQzVnZ2YlJvN01DWmdGeDdmRXNRblZacnBLVGVJdXlWME1aUXVFZlNBdktMSWVwTkFSOVdxWXdpc3oyTTdkakRIa2JsT2ZwVWxwNWlYX1d3RkZVZHFLSjZWLURwc3RLS2tOdDY5aEtGVl81Y21fdkotZw?oc=5",
+     "published": "2026-11-09T21:13:00.000Z"
+    },
     {
      "title": "Trump tells Reuters that Qatar, Saudi Arabia want peaceful Iran deal, US ready for strikes if needed",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXpvaDhEWG1zckFpbFVqNGtzdXFwai1lZ0RkRlcxMHVEa0p2X0FLQTRVZk1vWGFDM1VfazhNUHB4QXkyTEFjbGVmT3pEYnd3ME45MndrNjJiTFM0dGhvbVVQTGxOT3hQdmwzQnVsYTk3U0p0U2NaZWpyYlhfWDJabDAyWUFJU1pla2V1WkpIemlyVmk2UGxHXzJ4VTBLaXRRVG9BVUVHbFBMRHVaZUpEVXpn?oc=5",
      "published": "2026-11-09T19:17:00.000Z"
-    },
-    {
-     "title": "Libyan coast guard rescues 151 migrants off libya coast",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVsNV9WS1djQ216NTRzNzNybWp2WFJyeE54OGxzSFM1Q1Y0MFpIcXBpTEZ5bEJIMzllZGZQMGJDQ0t2TnVpMTcxaXROSjhfRW5vTGtFWDVUM2FGSXFFb1J5UDRGS05PZXZJTWtWUFJnVUFPWkN1N2lZa1J4NG93dU9rV19nZnY2bWNleklocDdxek50SDJVcG9TNzdUUVd3ZkFJdXFOMA?oc=5",
-     "published": "2026-11-09T19:01:00.000Z"
-    },
-    {
-     "title": "UN climate change expert praises China's Greater Bay Area for green innovation",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUdCbFJnQmQ0cHZNUndYTDJneWdLYlUzOUVZaEVKRnpmaUNPU0hpOG82bjQ5RlpyN0ZRUF94WnlRMzRxMUlkMWJjNVVTRjAwakZOamVWR2dzRHJFZUUwUTJzSFVCR05LWVBERUEzM19VNXF1QndqOUZtbE9MSzVnUU1nemhOb1BNc1Bqb1J1cS1INXVUTS1JbGV6c1p6NUNJV1J0NVpWYVhfQURBMm5XTnl5STJwV1lmOGM0THFYZS1MOTB5MTZpMQ?oc=5",
-     "published": "2026-11-09T18:57:00.000Z"
-    },
-    {
-     "title": "Paraguay names Schreiner as central bank chief following Ueno collapse",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbFFaX0kzX0ppM2lZd1VkazdxNldxaloyY1FUREM2TWhCQXpWRjBRcE5ZdTdIZG5OcmdfaDl3YllIQmJaSVdrOGN5ZFRFVkJPWmpEeU5CMEUzS29QcnRobXNmRTlScUk5eUJ4c1BETy1jOWd0aU9IZi1udk96NG9zQV9sS1BiNkd3S0ZNTmdfdENlV09QeXVvSXBMRHRBZl81REtvNmRTVy1vUVZzTXBSUVVVU3FOLV9meEZB?oc=5",
-     "published": "2026-11-09T18:20:00.000Z"
     }
    ]
   }
