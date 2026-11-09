@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-09T04:59:19.670Z",
+ "updated": "2026-11-09T05:58:56.774Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "US and Iran are quietly negotiating as Middle East remains on edge. Here’s what to know",
+     "brief": "US President Donald Trump has offered his clearest indication yet that intensified diplomacy could avert another major round of fighting with Iran, in the wake of his party’s disastrous midterm election results.",
+     "link": "https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl",
+     "published": "2026-11-09T05:58:56.922Z"
+    },
+    {
+     "title": "Trump team interprets midterms debacle as a cue to go harder, further, faster",
+     "brief": "The Trump administration is heading into this week’s impeachment showdown over Defense Secretary Pete Hegseth — the first major test of the president’s power after his election debacle — with a clear warning that it…",
+     "link": "https://www.cnn.com/2026/11/09/politics/trump-midterms-hegseth-impeachment",
+     "published": "2026-11-09T05:57:56.976Z"
+    },
     {
      "title": "Nvidia CEO Jensen Huang admits affair as company launches investigation into foreign spy claims",
      "brief": "Nvidia chief Jensen Huang has admitted to having an extramarital affair as his company announced it will investigate reports he was the “target of a foreign intelligence effort.”",
@@ -36,21 +48,9 @@
      "published": "2026-11-08T12:00:00.000Z"
     },
     {
-     "title": "Joe Biden says cancer will limit him from promoting his upcoming memoir",
-     "brief": "Former President Joe Biden announced Sunday that he “won’t be able to do as many conversations” about his upcoming presidential memoir due to his fight with prostate cancer .",
-     "link": "https://www.cnn.com/2026/11/08/politics/biden-cancer-promoting-memoir",
-     "published": "2026-11-08T12:00:00.000Z"
-    },
-    {
      "title": "1 killed, 22 injured after impaired driver strikes bicyclists in North Carolina, officials say",
      "brief": "A group of cyclists was winding its way through a wooded, two-lane road outside of Raleigh on Saturday morning when a car crossed the center line and plowed into them, killing one and injuring nearly two dozen,…",
      "link": "https://www.cnn.com/2026/11/07/us/north-carolina-cyclists-crash-wake-county",
-     "published": "2026-11-07T12:00:00.000Z"
-    },
-    {
-     "title": "A father who taught his daughter to love flying is mourning after her Learjet crashed in Florida",
-     "brief": "Nathalia Gadelha Filgueiras was 12 when she started going up in planes while her father was at the controls, watching the ground fall away beneath them.",
-     "link": "https://www.cnn.com/2026/11/07/us/learjet-crash-copilot-father-nathalia-filgueiras",
      "published": "2026-11-07T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Fire in China apartment building kills 14: state media",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQWphV0xocUx0SWVOSmk2cTM5TjRaU0dabzI4eGk1RHhld2pCMGpibzdfMEtQSjZUbXhaQVdZeTFPRVltVUd2cVd0anhmUktjeElJb3dmSkFsM1JocE1NUW1aWVU1ajNQcEdiRU82em40TFlveHpscGptZkdYb19EZUU0MEh3MTZOQXpodGk3eHVybjRKTXdvWmpyZFJ3amNrUWlzekdObnczNmNCcmVNUVJ1eTB4ZlE?oc=5",
+     "published": "2026-11-09T05:45:00.000Z"
+    },
+    {
+     "title": "Penang Sentral waiting area not for overnight stays, travellers told",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS3U4UXlvdmg3cC01TVczX1FFdjVSakd4UkJvNDVKeEFxQWY1eXR1SjFPTklNZXROT1VmcHpuRVdlclZ3RmFqLUZoZmpPU3JZN0lQMVpvZGpfZG9PTWVGQWRLbGdaLTc1azJEbTZGemNEd2dRSzItNE96WlhtMXJPUVVHRXpmbUtWbWFQZUEwY1JGVXpWWk9sUzJoNFdkbDlTa0Z4Sk1mcHczNmc3MjAxcEVBUHNxaDZk?oc=5",
+     "published": "2026-11-09T05:20:00.000Z"
+    },
+    {
+     "title": "Macklemore says US venues rejected his Free Palestine tour",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbHFLT2ZhTkJfZlBza3dTa0Y1NDdHZGh3WG9vejR0eUhuM3Z3dHhqRWlHejFZSlktcUk0ZzBHYlRmUVVTVl9MMzRqV1E0dFNpRGJLMjZHZDhkWVQ1S19jNWxuSTNnYjRJQ1djd0RJZE1LTHhPVzdWWThLcUVwc0RkdlVtQ2F5VFpGVjliQjFackw2YnJPQVVUNmVvMzhEYk5MNFc5WnJuSjRvZS13dmFtZWJsT0xaRDlJUGd6TQ?oc=5",
+     "published": "2026-11-09T05:16:00.000Z"
+    },
+    {
+     "title": "Cops nab 34 in raid on migrant smuggling trail in Kelantan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVmNOdGdjd05ObnpMbUNBYUJIQTBXX1lKbmtiSlc2akxTUl9qUmRnc0lXRFU4X0FwMGdMT3k0TzdtTzlRSWh2djdSZlFDaElJZkF3dFBNRzYyaGFoTnhtdUh6ZGZLXzdKVmk1bGdKa3ZQclJEa0dxTUdsdnR1YzV6QjJ6RlZMdDBjN0JZR2k0dW9FX2txQWY5QnNnanU2YXp2QlBDbWdSZG10bFVl?oc=5",
+     "published": "2026-11-09T04:35:00.000Z"
+    },
+    {
+     "title": "Brasa Steakhouse showcases the Argentinian way of cooking meat over fire",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE1yY1FMQ242RzZqX0ZRekFiSGh5Z1JrM2puLW85QW5QVTZrLVlaYXVlZ0h0Z2tFNFAtblA5TDhIT2xRMzdrWml1NUdWaDU2Qjc2Z3FESnFvTlJUNkdfMzVfLWh3T19oX0lNYlg4cW85XzF5TVd0MHBtQVE4clNvdWVkSl93UnpJbjE1QkNvMUlsNlBiSGZjTVJVaERMSVlsX1BqOTQ5UWdFTmlqT0x6MFRBaUxhZDloZ1Q4Y1dzOWxHbTdtWFE?oc=5",
+     "published": "2026-11-09T04:25:00.000Z"
+    },
     {
      "title": "Tennis-After winning Paris Masters, Alcaraz high on confidence ahead of ATP Finals",
      "brief": "",
@@ -72,40 +102,10 @@
      "published": "2026-11-09T04:02:00.000Z"
     },
     {
-     "title": "Cambodia marks National Independence Day",
+     "title": "Motorcyclist killed after crashing into drain in Penampang",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDdCcDRxY2hfcG95V0ljTU9GX2E4SkxRQ2RWbnd2ZHJMTmVpQ2VSaTlfcHdHY3FBNHY4a0JtOThVcmlObnVQcnU5OERzeEs2N2E0b3Z1OWJqOFJOTWVnNU5iQ0phYkNQckV2LWxFc1l6dWxlM1dod0FON1Y2YWRmbU96NUpQcm5ZNjY4OU5TY0tpN3hCbS14UkxBT1ZQeW9GOUVMRGtB?oc=5",
-     "published": "2026-11-09T03:45:00.000Z"
-    },
-    {
-     "title": "South Korea fines Coupang $220 million for abusing dominance in food delivery market",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdVpjZzVrRkd1Q0NZd1VWZm5wbndfdVlpVHdWOVBPS3VBSm1VbkRXRnM0LU0yQVhaaHViNmVQVVJRMHRUMG5VZERuQnZBNDN2a2VEeENsamhLZkM3eWtKd2ZvWUJYZklvcUV4Xy1NNnFBWmhWQVY1MUtTWDJJbEdUdERKelVlUVlKZUpxSVZGSE9jMGIweTNPVW13Yy1tVENwR0JrWGVzUHZYUWxBbDhMdHItVHFJT0ljTTRSLXJOdTJtckMtZG1VLTIydzBCeTRXMnc?oc=5",
-     "published": "2026-11-09T03:41:00.000Z"
-    },
-    {
-     "title": "Exclusive-Hasina seeks new passport in clearest sign of Bangladesh return",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0sxM0x6YTJOZjRybDA2clhhQWZYTWl4WTdmUkpSaHpVczdmQ2RDM2p4U0x1d2VVMExnUElEcGdNNmhhcGNOblZELVl5LXE0WFk1cWdmRjFQeXo3ZFd3UzBrMG9sWGpHUU5Zd0JrZWptdk0yVGc5djdLckdIdkFuVHU1M29wRmdfWUlnVFNaWW5maXRiS0M1cmZsTmNWX0MzWWV4M2t6eDVZcktEV1JYWGhoV1VvVjd4dk03S0ZtVQ?oc=5",
-     "published": "2026-11-09T03:35:00.000Z"
-    },
-    {
-     "title": "G7 allies to assess impact of Trump's midterm setback at Paris talks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd0dVeUJyVlVOaGVMckJPaVk3b1NNX3NqSVRBbUl3d2VyQWtibWsydEQ0cmRHOWt0YW1YV2FsS0lUdVFONkRTcGZtYkxkZ203X2lYazFZZGdLVzFtOUttMVlNM29COUYzUkFlUkxYZHgwSFVXTERYa3I0YkV5bk5DMUhoM2h4RmhwMXMxd3l2VFoxVHMtS1FnRGhQVGxUTmRkU1had09vcWlncFlac3JrNlh0QnRWQXFmU1B3?oc=5",
-     "published": "2026-11-09T03:27:00.000Z"
-    },
-    {
-     "title": "Nvidia falls about 3% in after-hours and perpetual futures trade",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOHlpdXJfREJyczd0Z1lrdU5Ld3ZLVkNMU01yYUxseTRkcTdoZlg4UDM1NFRmTE02TjI0M2pDRTA1NVZjeG5SRmNMZ2p0SE1mYUxlSTlJRnUwc2FNMUdVZWkybDFWand6bGJYSFpsRjFlZ1lsbHEtelhzNFQxZjNfYUQxbUNDX0NyMFk4UnpvMlNOYVJUcjdKZGJTbEhZMGpfaE1TWk1YRG52eUpJa1NwbUJxMEVEdk0?oc=5",
-     "published": "2026-11-09T03:09:00.000Z"
-    },
-    {
-     "title": "South Korea says Nvidia issues won't affect contracted GPU supplies",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOazdKYkYwUEpnNlF6QWZBUWFneDlyLWRrQlFEOXVnYTRhaU40b1k1b1dsMk55bnpyVVpVSGQ4d0V6eFhJRnFGMk1zazRwTjZQY213c0hxcmI3UThkSkVwWDZLQS14c1RUUHREUVpqOW92V1YzSWtDelpUS2YzWDk3N2JRNk5WakY3Zkh0UnJ1QXlSQjFNRUJOVk9iVFYzRU1lal9wcnN0NHFMWGE1SXpFc016SFliLXVPOFA0QUppcw?oc=5",
-     "published": "2026-11-09T03:01:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQemFYMDBvMzhVX0NHdEplVEMwalFJaTNzTFNGTEQyZnpYN3NoWjZoQXE2LXZoYXNVWjVUT19nb0YzcnVBUVBVNElsWVhKam9LT0lQTTR1dGlDX252RzFlYlNTOHZCdGRkNW1RM1V3SWdxMmF3U2lVV2tzTXA0NGZyb3BZVGpzUERFX3lsUURHY3cyclNKVlN3MDBmS25KWTJ1aGE1NnR1Wmx0VDZV?oc=5",
+     "published": "2026-11-09T03:46:00.000Z"
     }
    ]
   }
