@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-09T18:51:23.257Z",
+ "updated": "2026-11-09T19:52:37.239Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Ukraine peace talks to restart after 9 months. What makes them different this time?",
+     "brief": "A fresh round of peace talks between the US, Ukraine and Russia are set to begin Tuesday in Abu Dhabi, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
+     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
+     "published": "2026-11-09T19:51:37.496Z"
+    },
+    {
+     "title": "Joe Rogan helped Trump win the White House. Now his show is exposing divisions inside it",
+     "brief": "In 2024, Joe Rogan’s podcast was a platform for President Donald Trump, helping him win reelection.",
+     "link": "https://www.cnn.com/2026/11/09/media/joe-rogan-calley-means-trump-wiles-rfk-maha",
+     "published": "2026-11-09T19:50:37.462Z"
+    },
+    {
+     "title": "The thorny politics of impeaching Pete Hegseth",
+     "brief": "Congress is already set for its first big legislative clash after Democrats’ historic win in last week’s elections: the potential impeachment of Defense Secretary Pete Hegseth.",
+     "link": "https://www.cnn.com/2026/11/09/politics/pete-hegseth-impeachment-democrats-republicans",
+     "published": "2026-11-09T19:49:37.477Z"
+    },
+    {
+     "title": "US and Iran are quietly negotiating as Middle East remains on edge. Here’s what to know",
+     "brief": "US President Donald Trump has offered his clearest indication yet that intensified diplomacy could avert another major round of fighting with Iran, in the wake of his party’s disastrous midterm election results.",
+     "link": "https://www.cnn.com/2026/11/09/middleeast/iran-us-talks-explainer-intl",
+     "published": "2026-11-09T19:48:37.472Z"
+    },
+    {
      "title": "Michael Sanft, lawyer for man convicted of Tupac Shakur’s murder, dies at 55",
      "brief": "Michael Sanft, the lawyer who defended Duane “Keffe D” Davis in the Tupac Shakur murder trial in August, has died, according to the coroner’s office in Clark County, Nevada.",
      "link": "https://www.cnn.com/2026/11/09/us/michael-sanft-duane-davis-lawyer-death",
-     "published": "2026-11-09T18:50:23.466Z"
+     "published": "2026-11-09T19:47:37.479Z"
     },
     {
      "title": "Jensen Huang is living proof that AI’s rockstar CEOs are also a hidden risk",
      "brief": "Jensen Huang is not just the face of Nvidia.",
      "link": "https://www.cnn.com/2026/11/09/tech/nvidia-jensen-huang-ai-ceos-risks",
-     "published": "2026-11-09T18:48:23.477Z"
-    },
-    {
-     "title": "Steel plant blast kills 16 in western Turkey",
-     "brief": "A blast at a steel and iron manufacturing plant in western Turkey on Monday killed 16 people, President Recep Tayyip Erdogan said after a cabinet meeting.",
-     "link": "https://www.cnn.com/2026/11/09/world/deadly-steel-plant-blast-turkey-latam-intl",
-     "published": "2026-11-09T18:47:23.475Z"
-    },
-    {
-     "title": "France blames Iran for ‘unprecedented’ supermarket fridge cyberattack",
-     "brief": "France is blaming Iran for last month’s supermarket refrigerator cyberattack .",
-     "link": "https://www.cnn.com/2026/11/09/europe/france-accuses-iran-of-fridge-cyberattack-intl",
-     "published": "2026-11-09T18:46:23.482Z"
-    },
-    {
-     "title": "Nvidia is in peril. Can it survive without Jensen Huang?",
-     "brief": "Nvidia CEO Jensen Huang says he wants to die at his desk.",
-     "link": "https://www.cnn.com/2026/11/09/business/nvidia-survive-without-jensen-huang",
-     "published": "2026-11-09T18:45:23.469Z"
+     "published": "2026-11-09T19:45:37.457Z"
     },
     {
      "title": "Pope Leo urges President Milei, a Trump ally, to ‘safeguard democracy’ on arrival in Argentina",
@@ -53,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Pope Leo meets victims of abuse by clergy in Argentina",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMVA3QTdmaTdsTU1BZmRSajVLdklCY0VHMDdqdXNIWmVpQW5ub2F0TUxmR3lfWDlmcFFQRjhVU3dvaTNzdVhIc2xzN3BNRzRiODZ5bXNCbkQxM2lCUnQzaXJvaVVlUjQ0RFJ1U2xGRDdDREFMMU9PR2RaWjFkVk1nLS15NU1CSk1WaTZkTHFIUkdVRndXNXVUMnJnWmFOT1RZR2RFOWVB?oc=5",
+     "published": "2026-11-09T19:32:00.000Z"
+    },
+    {
+     "title": "Rugby-Injury-ridden England make six changes in training squad",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORXpvaDhEWG1zckFpbFVqNGtzdXFwai1lZ0RkRlcxMHVEa0p2X0FLQTRVZk1vWGFDM1VfazhNUHB4QXkyTEFjbGVmT3pEYnd3ME45MndrNjJiTFM0dGhvbVVQTGxOT3hQdmwzQnVsYTk3U0p0U2NaZWpyYlhfWDJabDAyWUFJU1pla2V1WkpIemlyVmk2UGxHXzJ4VTBLaXRRVG9BVUVHbFBMRHVaZUpEVXpn?oc=5",
+     "published": "2026-11-09T19:17:00.000Z"
+    },
+    {
+     "title": "Libyan coast guard rescues 151 migrants off libya coast",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQODVsNV9WS1djQ216NTRzNzNybWp2WFJyeE54OGxzSFM1Q1Y0MFpIcXBpTEZ5bEJIMzllZGZQMGJDQ0t2TnVpMTcxaXROSjhfRW5vTGtFWDVUM2FGSXFFb1J5UDRGS05PZXZJTWtWUFJnVUFPWkN1N2lZa1J4NG93dU9rV19nZnY2bWNleklocDdxek50SDJVcG9TNzdUUVd3ZkFJdXFOMA?oc=5",
+     "published": "2026-11-09T19:01:00.000Z"
+    },
+    {
+     "title": "UN climate change expert praises China's Greater Bay Area for green innovation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaUdCbFJnQmQ0cHZNUndYTDJneWdLYlUzOUVZaEVKRnpmaUNPU0hpOG82bjQ5RlpyN0ZRUF94WnlRMzRxMUlkMWJjNVVTRjAwakZOamVWR2dzRHJFZUUwUTJzSFVCR05LWVBERUEzM19VNXF1QndqOUZtbE9MSzVnUU1nemhOb1BNc1Bqb1J1cS1INXVUTS1JbGV6c1p6NUNJV1J0NVpWYVhfQURBMm5XTnl5STJwV1lmOGM0THFYZS1MOTB5MTZpMQ?oc=5",
+     "published": "2026-11-09T18:57:00.000Z"
+    },
     {
      "title": "Paraguay names Schreiner as central bank chief following Ueno collapse",
      "brief": "",
@@ -76,36 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMGttejJhU2o0cmJRbjZBOWpKVnUwMDEwSGdLMWNKTlBraUp3U1RjYUwyR1FrdDB4VF9TV2RJT1hBcFdCbEZkb3VZV0xUb1lnckUxWnBITXpjYmlJc2xQUENpMGpOUVJaWWs3ai1DMTJETGt3X3RKTWJNbFJ6VmNpNkJNUS1aaThhQWE5YkJORi05RFF5Vnk4VnNVSVdHWlZDV3FV?oc=5",
      "published": "2026-11-09T17:39:00.000Z"
-    },
-    {
-     "title": "Death toll rises to 16 in Turkish steel plant explosion",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMTZuV0Z5OXJWVTd3Mm4zamlQNE9ERzBYSzJJb1kzb3h0amZ5ZnJ1X1lWclRCdjBmT0o5aFNKVW9XOHhCQ2I1NFN3RUN3Z0JaRWl5Tk1DQTBvb3ZsRmM4dkRvSUV3eTgwcEZaajhFMy05WGZGX2FwMWJsSENxc21tdlRUWmxNc21GeWhyZGVxVEN0TENfQS1zem1vSk8xYm5pNmd6SDlDWQ?oc=5",
-     "published": "2026-11-09T17:15:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Arnault appointed Paris FC president as Ferracci resigns after 14 years",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcmpEYmFYQ3pjUnloZ01ialBVMGEwVXVlTUplNlFaOUl5MTBBZmZ6YVk0Wnp3LU8tdktURmRNVXIyYmdpMGJQMVh2TXpxOGxnTF9mSktBR2N4dXBXMVd1ZjVGTmdvSmZLOGVUNG4tVURldjlaSmhtZFFjLVE3OC1nX0VEeHF6OGlkVDZNWEdEN0JkYWNyTTltUy1hZlpqZUFucDlMVVRoakRQQUxwVXpVWVJRNHNKenVGOGs5VUdBZTU5TjVxVDZUQlBsdw?oc=5",
-     "published": "2026-11-09T17:09:00.000Z"
-    },
-    {
-     "title": "Lebanon, Syria reopen border crossing to boost trade, mobility",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQU1BpSURsMjZkX0ZYcmh0SEd4eDNLaE9obEhuS0FhNGowTnpDZTdKbURaNlZyLWpqQXYwOVlOcnZpR0ZKcG1lQW1ham5zZ09GZUhHTTB5ZE9fZkhuTDZlREdROFl5N2F5b0tXMFp4V0NwU3BFUmwyTTZRMXBXVWgzTGtubjQ5bTJaVEtxVFdpTmFaVUlfYTFwNFdjSzlQS29COUtaWjVoa0sxTjVYc0E?oc=5",
-     "published": "2026-11-09T17:06:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Struggling Sassuolo fire manager Aquilani",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbHlUWFU5ZF82R01scWhwZ0dWclZzOVZ6dEdPNGYyTVJIa3Noemt2WjlTNTFXbDJTUjZ6eEhQUG5CcG1CXzR5R1gyaXhmTnR1dmNmQWFnZW0xUVV6X1VWMUJQTzZLUHJMdmc1VU1vWVdZTTVfb1doQkw5dEJyUzNyZUVYMTRKSDhFLXlncm1zdDhyLTJESjNYU2QtYVFfa0dwYjFv?oc=5",
-     "published": "2026-11-09T16:29:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
