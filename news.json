@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-10T12:56:07.207Z",
+ "updated": "2026-11-10T14:06:44.840Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Anthropic To Seek $1.4 Trillion Valuation in Blockbuster IPO",
-     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
-     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
-     "published": "2026-11-10T12:56:07.303Z"
+     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
+     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
+     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
+     "published": "2026-11-10T14:06:44.965Z"
     },
     {
-     "title": "California voters reject one-time wealth tax on billionaires",
-     "brief": "Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with a net worth of over $1 billion.",
-     "link": "https://www.cnn.com/2026/11/10/politics/california-voters-wealth-tax-billionaires",
-     "published": "2026-11-10T12:55:07.335Z"
-    },
-    {
-     "title": "Thousands of voters in Mississippi Senate race are trying to make their ballots count after state’s voter roll changes",
-     "brief": "Andrew Couch had voted at the same polling location in the last two elections.",
-     "link": "https://www.cnn.com/2026/11/10/politics/mississippi-senate-voter-rolls-provisional-ballots",
-     "published": "2026-11-10T12:54:07.327Z"
-    },
-    {
-     "title": "Dave Chappelle is testing the right with jokes about Charlie Kirk",
-     "brief": "No one was supposed to see the videos of the comedian Dave Chappelle appearing to joke about the death of Charlie Kirk.",
-     "link": "https://www.cnn.com/2026/11/10/entertainment/dave-chappelle-charlie-kirk-erika",
-     "published": "2026-11-10T12:52:07.331Z"
-    },
-    {
-     "title": "First on CNN: Whistleblowers tell Democrats documents linked to Trump’s construction projects are being destroyed",
-     "brief": "House Democrats are demanding that the Interior department retain documents related to President Donald Trump’s construction projects around Washington after whistleblowers warned that key paperwork has already been…",
-     "link": "https://www.cnn.com/2026/11/10/politics/trump-building-investigation-democrats-house-natural-resources",
-     "published": "2026-11-10T12:50:07.321Z"
+     "title": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician",
+     "brief": "Paul McCartney reached the realm of billionaire status Monday after Forbes valued his net worth at a colossal $1.4 billion – making him the world’s third-richest musician.",
+     "link": "https://www.cnn.com/2026/11/10/entertainment/paul-mccartney-billionaire-forbes-scli-intl",
+     "published": "2026-11-10T14:05:45.001Z"
     },
     {
      "title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports",
      "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran, according to The Wall Street Journal , which cited sources familiar with the matter.",
      "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
-     "published": "2026-11-10T12:49:07.333Z"
+     "published": "2026-11-10T14:04:45.002Z"
     },
     {
-     "title": "Investigators recover cockpit voice recorder from fatal Learjet crash site",
-     "brief": "Investigators from the National Transportation Safety Board have recovered a cockpit voice recorder from the primary crash site where a Learjet collided with a busy roadway in South Florida last week, killing all…",
-     "link": "https://www.cnn.com/2026/11/09/us/florida-learjet-crash-voice-recorder",
+     "title": "Inflation rose 0.4% last month, more than expected",
+     "brief": "The cost of everyday necessities continued to climb in October, putting more pressure on Americans already struggling to keep up with grocery bills, housing costs and other household expenses.",
+     "link": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
+     "published": "2026-11-10T14:03:45.004Z"
+    },
+    {
+     "title": "British court to rule on Trinidad and Tobago’s colonial-era gay sex law. Here’s why other ex-colonies could be impacted",
+     "brief": "A court in England is expected to issue a ruling today on a law prohibiting gay sexual acts in Trinidad and Tobago that dates back over 100 years to the British colonial era in the twin-island Caribbean nation.",
+     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
+     "published": "2026-11-10T14:00:44.998Z"
+    },
+    {
+     "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
+     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
+     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
+     "published": "2026-11-10T13:59:44.988Z"
+    },
+    {
+     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
+     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys in an incident…",
+     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
      "published": "2026-11-09T12:00:00.000Z"
     },
     {
-     "title": "Suspect in custody as FBI investigates a possible killing aboard a cruise ship out of Texas",
-     "brief": "The FBI is investigating a suspected homicide aboard a cruise ship that returned to port after departing from Texas, and a suspect is in custody, the agency said Monday.",
-     "link": "https://www.cnn.com/2026/11/09/us/suspected-cruise-ship-killing",
+     "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
+     "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
+     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
      "published": "2026-11-09T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Mental health patient found dead at Sungai Petani treatment centre, fellow patient held",
+     "title": "KKB water surge: SAR teams focus on Sungai Selangor Dam, three still missing",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVlBSR1FKYUU1RjQ2OHRUc3ByblZvZGFhZW81RGtubU8zMG1vdFQ0NG9ORmNHejVrTVJTbW14LW44Yy13bGNQRUk0Z2k5Q0lYMmxPTDFyeDF4YUhQM1VpQUQxQkZSOEVkeTdLeEI4aEV2MEVWMUE0MmZkeW1yeFBoM1hBclJDLU55YmpQdmNIQUNDb3hNYnVWZDNObTNlTXRHbzdWTUFLRmdzSnEyR3d6aWxRNnM0N2hCdTE1TnVkNUpJeGY5TWdZNEo2WTQtYWthN1E?oc=5",
-     "published": "2026-11-10T12:50:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTA4Yl9iSHZXazNSMzgzWDhpLTg2cFlUb0puN1FVZmEtV0E4blVwaEVnOURHa25zYUxKSUpRejM0Q01rMXU5a24xUUFMeDluaGIwTF9mRE8yb0RLSzhDYjB5QllQZnFRNE5lOU9CZFB4cWg3OXlweklrQ1FCdHhfUk1YV2M1SFhhdWJfRV9iRUV3YlN6MFVSUEMxa3BaazRMSTJjSml2VW1hTHE2eWppZmZ2Z3JCQk5sQUpMWXVLS29GZw?oc=5",
+     "published": "2026-11-10T14:02:00.000Z"
     },
     {
-     "title": "Biker killed in crash involving two tanker lorries in Nilai",
+     "title": "Football: Soccer-Brentford’s Van den Berg gets first Dutch call-up",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMW0yTUowMXkxSmhiNzNQVE1NdjdwSDdhazBBYVBfdDlkNjhCVlJnUUFya2pzc2E3SW1rcUc5MXloNTZsVi1hQ19JNTN2S2xDM0xVbVVyTWFJMWp3Qnk3OUM4Z0NqWG44U2wzbVlXSzBsRmdzaUpteGRXVTNnelpORldldU5UQ1pRYXpVVk9yX21BNHRsU25IRW8xaUhadml3M0pxbVNZYlhhM2lkZVE?oc=5",
-     "published": "2026-11-10T12:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFpNajhEanVzcmJPdTJSQXp5dG9JTHkzQ2pMSVAtWm1pYVdEdEVvc2M5ZTBTT3lHTUQ3UTA2ZGN3X1gwX3dBTGN6M0lmZllXelFIQmhUSTBNOG0taTl2dGtaY3FRQzVaakxpNDVGVmtpeXo0TWZ3SGEyUnV4Y2oxVkdLa29sSmRrWjlLU1h1SGRfWU9MOF9namVySVlnTWJQbGlCVVB3RkQ2bUUy?oc=5",
+     "published": "2026-11-10T13:38:00.000Z"
     },
     {
-     "title": "Kyrgyz strongman Japarov bids for second term as president",
+     "title": "France summons Iran envoy over supermarket fridge hack, warns of response",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNT3dGM1c4WVV6aEg1N0xNRnhVWGkzdUNkaW1PVDlfcFBIcTRLdUYzYkNmUTVOQ3RnZTFEZG5GSnU2Z1UwTUlJUVdqeF9FU1lURmdIcEFjdVZLQUF3SVpkeVQ0QWJOeE1BRUw1bGhTTHE4Y3dLdHFWNVphUDhlcFNOT2xNZkxuTUdDWEF6LTdOU09TeWNUYWJwZHRsWWxicDMyc09sWkFQaVIzWm8?oc=5",
-     "published": "2026-11-10T12:37:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNHluQmU3UU1nZGFFcU9oT3M2Ri1xc0JVZXQ1NnFFUk96aDNZUFhkdGNLbnhIeGltdUw4Z3RRQm5UenBPeFpBSmMzeF9XQTBYUGE4MTRScUJlN0NJaTBjV0Z0emtEbjNIdGRtRVlmYTFjdk9lbFZRc3BpVlZ1VGhoSEtnMEQ1MTRDZXJoaHZ2WWZfaEFEa0ZhUWIxS3lXMlFzdjI3VTFyMXV1dVVIZlZvelZEMldoMWQtV09aQ2t3?oc=5",
+     "published": "2026-11-10T13:33:00.000Z"
     },
     {
-     "title": "Rugby-Scotland have yet to prove they are a top team, says centre Jones",
+     "title": "Football: Soccer-Kompany returns to Bayern training ground, German media reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMG1odW5TODlnWjhTV0hrUkMzVG9mcUNxU0wwUWZnM1ctWThuT0stazFmMHVzNUcyNVNVX0tFX21TYXJUcjJmN3hxT0JTRDZ4STFaLThDc0huMHNsWnFOM0dKaDF4eTZJMGs5M2llSW50b0N6UVdIWGxlUGx2YkdkTkhmUFdzTnNHbFdqcldOZE5ZYkNPNjZsWlM3bTcwakpybnlnXzNLSFhIUmo0ODc3a3hKcUJaZ29ONFZQTg?oc=5",
-     "published": "2026-11-10T12:13:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVl6M1VyTkF0NGFhZm9RT28xODhWQmVPS0R6eEJqY0hTYVZMTGxLUVJreDRCb1RkSFFNOFZ6T0hPV1NVWnBhb0t1STQ5cmlINnAxTHk0aENPNUw2UW5wemdTeUk2cTFTSXNrc0pkMGM3ZnByTWluclZwLTNSZVBUdUpSR1YxT1cxaTBDZGlpRDJJM0M4cDNLa19PenpZMWU1ajROc3hidWU1ZGRGYzZBeFBDZ2xYdXIybzluTm9pMA?oc=5",
+     "published": "2026-11-10T13:23:00.000Z"
     },
     {
-     "title": "British police say assessing further reports about Russell Brand",
+     "title": "Pentagon chief Hegseth calls moves to impeach him a farce that will fail",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWnJkNlpLYk1nVmZYcmZrWkVDeWxjRS1PNG4tOWhFWXZrcnBXXzUxQ21qdXJXNFJvOERWM0R3OHdVamt6TXNpemFmZFUxc0Y5SzVGOGRLV1YwaHJpcnNiUkRrSXdyNnRsLTVUTndaN0VGN0liTUhHUXdLY2dZRU5BRElSN3ZfUXFTMGVzc2N6VlBVRDN3WkRqLW41c2w2TEFTUzlEd29ReW05Q05GVXZIcjhpZw?oc=5",
-     "published": "2026-11-10T11:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSS0yejl1bW1nWDVmdmtBbjBCWlQxVTNhTlMzZFRQbVZwQkp3QWwyX29lb1AzTnBpVXhQU2pYOG9ReGNIN0lZS2Fvb2JmN2lNdGFMcFExclVHSmkwcU01enFZTzM1bTltdzBtNW5KaV80aE9ROG54ZU1hR2ZQeUcyS3R2VW5HVldxNXltQXpSR3FlM1RhOUdVeXNsRUEtSGFLcHkwSElmWFJta09mbFllcnpwbGJNQWdkVG9jUHNR?oc=5",
+     "published": "2026-11-10T13:20:00.000Z"
     },
     {
-     "title": "Train drivers strike in Spain after two deadly crashes in a year",
+     "title": "Golf: Golf-DeChambeau has few options after LIV collapse says McIlroy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXhZTVlVMlBZZXpVYnlRNFhGWW5ZSkFoM3hjVzlQcl9BR1U4RnJ5SmVJT25aSFFGUzJJbjZRa2xzTFBXczBUZ3ZUdUxBVWFibkhaX1FIT2VadWVVX25WNndmWWMySUlVMEc1NlFxNkVXN2V4NUpxaDQ1c2d4U1B0Rk05d20wMHROVUw4S1ZiUlp4OW4ySzFyTnhtOXZ6Wi0yZ3NDMm0wNllmZ2o0bFR1ZkduMA?oc=5",
-     "published": "2026-11-10T11:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVoxNFJnWnJ0eGozelFsZUcxQ0xlSWYxQ01OTnA3dlEzMFRtX1Y5MWw0TmlpbzJuVU9NYzZ4WHlNdkQ5S3lOdEdfaVY0QW5aOXlyTEUyQk4tUTZXUFBzMC1VVXZGZUhJZlF1cGhuUms1ekNfX2FpcVZRQTRZWmdnZXZpMGdyRVZ3Mm1IOGVFX2drVkp2bGE4c3FVUHI4T0tQeHpuZ3h1U3RZeEh3bHdSSDBn?oc=5",
+     "published": "2026-11-10T12:59:00.000Z"
     },
     {
-     "title": "Floods: Selangor sees increase in evacuees, Perak records decline as at 4pm",
+     "title": "Anwar wishes Aina Abdul success at Eurovision Song Contest Asia 2026",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVhLN3YxV1RPbGM0aElzcDhqSm9RTGNYTW5qeGRRLUE3X2FfX1B0SW5QWUVjTHlCUVNYUVpCNnRBLWphNzFiajZPQlhPV2ZqWGNoc1RxcHloR19GU1dNTkg0eVotRTV2OFZGSjlRUUphVU9GdnJuSXBWcm85eURQZ3YxY2VoZl83MDNxUVVXTnJMNGUyc2dSdDhpWV9vVE9HUE15bVZPazZ2aGdOVWJpbXFKcDBoZlhZWFlobVNscEo?oc=5",
-     "published": "2026-11-10T10:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVp6NGw5N3I1azktcVZsbVFCeVd3LVNOUXZzd3Fjd3ZmNllPcnZaRWMzcG1TM2hqQ3VlMkdPTUs1ajZyMkliX2FSaWZudk1LT2dxWktRVkxOUlhUWHFVZHNacUp3QWdVckZrektZMEM1RWhqSzhyb21tVF9KZ29lajNZeEMtV3hPN2Y4SWxVcG51b2ZQNEtKbkpWUzlOeGhTeF80WU5LVUJtV0pZMERPZWV3WnoyVV8wN1E?oc=5",
+     "published": "2026-11-10T12:58:00.000Z"
     },
     {
-     "title": "Jati Tinggi unit lands RM33.1mil job for Negeri Sembilan data centre",
+     "title": "Philippines says reported plane crash was a false alarm",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV1o1c3pETjFLLVY0QlhiVnpDR2lySE94Qk5QVnh4OFZmNXRjclliaDNsYmtpV0xqRkVfaFpUWXdwUTg1WmplV296YXNrcmlBTko0WGVrTkZzM3I2alNjOG1nZ2R5UzRHZmR5Umg0M2c4a3pIS253aDVVY3huSE55V0Q4eDRfd2FHcHhfcFJFU2F1cUdRTDdlWlVhZl92elptRDEteHBNVm5UZlZhTWttb19wZXZENml4S0cyNXZkWEZ1U1U3U3pN?oc=5",
-     "published": "2026-11-10T10:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFpTc0p5X0FsbG1INDZJdTZ0Q25mMnlOYUxTTHI2dnpHRWxMcDNPR2RiV2FhMnRoUHhKY3lGSEJXbmR1bktvNG02SXNqVnRydW5tMnBCa3NmMFRldU1WOWNLVFU3ZkVISUVMY1ZobFlZWUFyUlZkWGVvRDY5OTlWWlE2NnNXS0s4aGYxd3dwbG9nODNrdDVrTU5VSHA0VmVWNE5iT1dHMFJjOFlkRDFtYVE4OWpJMWlqb1E?oc=5",
+     "published": "2026-11-10T12:57:00.000Z"
     }
    ]
   }
