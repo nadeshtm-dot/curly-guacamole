@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-10T02:45:25.653Z",
+ "updated": "2026-11-10T03:47:00.323Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Investigators recover cockpit voice recorder from fatal Learjet crash site",
+     "brief": "Investigators from the National Transportation Safety Board have recovered a cockpit voice recorder from the primary crash site where a Learjet collided with a busy roadway in South Florida last week, killing all…",
+     "link": "https://www.cnn.com/2026/11/09/us/florida-learjet-crash-voice-recorder",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
+     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys.",
+     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Pilots describe being inside plane as it is rolled over by blast from jet engines",
+     "brief": "The blast from the jet engines of a Boeing 737 sent a small plane with a flight instructor and student inside rolling onto its roof this weekend, according to the National Transportation Safety Board.",
+     "link": "https://www.cnn.com/2026/11/09/us/plane-rolls-over-jet-blast",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
     {
      "title": "Close call at LAX airport as plane turns in front of another aircraft taking off",
      "brief": "An Air France plane taking off from Los Angeles International Airport made a wrong turn early Saturday morning, putting it in the path of an American Airlines jet, according to the Federal Aviation Administration.",
@@ -24,12 +42,6 @@
      "published": "2026-11-09T12:00:00.000Z"
     },
     {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys.",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
      "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects",
      "brief": "Retired Rear Adm. Eileen Laubacher, a Democrat, will flip Colorado’s 4th District, CNN’s Decision Desk projects, ending conservative firebrand Rep.",
      "link": "https://www.cnn.com/2026/11/09/politics/lauren-boebert-lose-reelection-eileen-laubacher",
@@ -40,18 +52,6 @@
      "brief": "President Donald Trump downplayed revelations that close ally and Nvidia CEO Jensen Huang had an affair with a suspected Chinese spy, insisting Monday that he believed the tech billionaire’s assertion that he knew…",
      "link": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy",
      "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Investigators recover cockpit voice recorder from fatal Learjet crash site",
-     "brief": "Investigators from the National Transportation Safety Board have recovered a cockpit voice recorder from the primary crash site where a Learjet collided with a busy roadway in South Florida last week, killing all…",
-     "link": "https://www.cnn.com/2026/11/09/us/florida-learjet-crash-voice-recorder",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Trump ticks off MAGA with bizarre immigration comments",
-     "brief": "It remains unlikely that President Donald Trump would ever sign off on giving millions of undocumented immigrants a path to legal status.",
-     "link": "https://www.cnn.com/2026/11/09/politics/trump-maga-backlash-amnesty-immigration",
-     "published": "2026-11-09T12:00:00.000Z"
     }
    ]
   },
@@ -60,13 +60,43 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Toddler who fell into Gopeng river found drowned",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTNhM1dGR29sQTRIOGNqbUNfS2dBVDFvTXUyMjlFQmQtV200bzBrZTJGNkJSWFJmUmhacW0yai0xendOWllOMVZWbzlPX3k0ZW8zVDN0b3Y1N2ROMmlFazJvcVJSLWtjdV81aUlSSktDbXJZUFFYRk95cVU5Q0ZOdFBRWlpaOU5UNU1ndE1yMDRKUmRfLUZXcnFTdEFZTUk?oc=5",
+     "published": "2026-11-10T03:34:00.000Z"
+    },
+    {
+     "title": "Southern Myanmar region earns over US$52mil from fishery exports as airport expansion promises growth",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS2RjM0x3SW8yTV8wVzJ4bk42X1NaRUlqWENLRXJoa3VEZ09Ga19DY1lUbjE4Nmk4UldPWWYySldMcU51MFg2bnJhWE5kcGNzb3NLZGtEc3BuVkJ3QmJocEtoZDZNeGxiUUNKWk5feG1tclZBMGpxVE9HQUExXzNBbGlUNWJzeUlDNllzakZtb2lfV0NTMjlTRFZqb3pQc3Q3alljWjF3SXVTVUxjcEY0X1RwUllFWGpnNVQ2X0xKbkVIYWRtUWRCb19KTDRkbFRFSk9IalhtQ2htRFZRTEkxMlNrWDVXRlhlSjdXRlY5bVM1d2xCTHc?oc=5",
+     "published": "2026-11-10T03:26:00.000Z"
+    },
+    {
+     "title": "Ni Hsin has not identified any recent development that may have triggered unusual trading",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRUdiY0swbGdGRGJYNGRMcWNwbUpRbzNYWWVWUXBObGNqS0pIVWk3RmtkbmdZZVh2d3VUVjJVUFNoblU2N2V4alU5dE9oV2QzN29kaFdRV2JnUTk0YWtQRnR5c254NkQtaHB4YldsbDF6MnZKZHh0aFVEQ2hQbmxWaDhtemR0S1l3R2taZ0JYUkJkQkxBYTU3ckw0enVybEJYM2QyNGxELVE4cVE3UXp0dnBpQUJ4dEVtSGxOOWVtNk4xZlk5MnhxeDhoMWd6cm04aG9zZXpva2VHTHNiRFhmN3Fia2M?oc=5",
+     "published": "2026-11-10T03:17:00.000Z"
+    },
+    {
+     "title": "QuickCheck: Were fireworks set off next to traffic lights in Ipoh?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzN3T0xTaGluOUtKeDN6NjlKVmgxVXFEY0tzM2FtdjZOeE5VYkhCdWpMYWV2NHNjMHh4YURFemV6cjJBaE9fWldSdkF0ZXBrcTJiR3JVN3JMMWFhdzN3dUZpeXhuZzc4SUotdkhoanEzYmZDUGFuMjlpMldZZ3ZDTE9idm9aNlR5SHN5UFBXcm8xWVh4T3R3WFB2M2ltQnhQa0N0VHEyemRiWmc2OVUtN083TUFRRGFUOEdz?oc=5",
+     "published": "2026-11-10T03:14:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Coach Aloisi pays the price for Chengdu Rongcheng's incredible title choke",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeER3a3NpeDU1TlNhWjFnb3dYSTJNOUFBUlBJc19DMnZlZXVOQ3BKSzdjRGZqTmlrTXBJUTZNSlEwUm1Wd19wWGdCa0J3bzVGaFBFTDNnMGEyRGx6MlVLWV9oRWd3RnJnVTUyTnFmbEtFQWtlRXBRdndmTEp2TUVva0xuMDFlVGhNcTBsWmJQUkVXUGl5cW5DMDlNY0p0Q3huVTZSUjZWQmlZYkt5VjBKa1hhdVFic1dRUXZobC1kbVNhZ0VyWFR5cE1ZcWd4V2tsc3c?oc=5",
+     "published": "2026-11-10T03:01:00.000Z"
+    },
+    {
      "title": "Australia tightens AI oversight rules after OpenAI agent breached government website",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOb3BENi12QVJzZkFNaVZvX25ZeU9URlZNb1dtZ3dtaDg3em8yRWp0WXhqNlk3aFdYV0ZxOW9xcks3VmVSOWM4cmlQNWhfUDVvN2V3UmtqdjJGdFhVLVlxZ2drUFZrbzVERmppNWVfUjhGTXhkaFNlXzRBZ3VTYUhzNjRSdDdpNHI4bVA4WGdDZDY1T08tZl94MjVMTzNlUERxTGpiMDFPeWpHaGdaTHRYa2QwQkZHcklCWW5WSmppNEpnQ2l5a1hPdEFBNEdsVjJaUEww?oc=5",
      "published": "2026-11-10T01:47:00.000Z"
     },
     {
-     "title": "Exclusive-Anthropic aims to raise up to $69.3 billion in blockbuster IPO",
+     "title": "Exclusive-Anthropic sends out, then retracts details of IPO filing, emails show",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORnJqNzBSMEtWUHdmUkxBRXF2RHN3Qk5PYUdUQW4xR0tmU19pQXVZb1hyazJqeDZoU2lYcl9zbmFoZ0FIaVdWclpoSEUwZUxJb0VtbHpYNFpCRlc3dGVibG0zOGVrNi1JeEtCZ29UVzRlQTVsYzVJai1GUDNyaU1JSlZ3WXNQMVFTdWJXT1BSZ0lNLWs2YTlwTHZ2QUhjMWZlLVFySTY0RlVfNFFXVGV6Umlma1hQeExRWEJuRTMzQi0?oc=5",
      "published": "2026-11-10T01:28:00.000Z"
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYVRZU1RfYnROQ3JsZU1IZnNZZUNROVBJNWhOOFhGX3ZsQ0p3LWx5WEZzcE9KUDhNNGQxUFJ4VFFnSjNOR0tqRXFkOXkwRklEc2dMT3pTM0hPYmlaRElvV1Bldm1ZSFpmVG1yZlpsLUlHOFRyRXlPdVZORXNzNU9hMHl3ZjhSYWpfSE56NlRzdDVjLUIyV0NmYW50QWZ1UWtFZUtCX3NZZTJkVFlsY3kxa29rRk51OUJuZkw1azB2MUxjUFFoeW51aFZ2c25jUFhVYVc1eFRHeUhER1lUSzFrcGFwN19OWUp6eE5LSw?oc=5",
      "published": "2026-11-10T01:00:00.000Z"
-    },
-    {
-     "title": "Parade of colours, culture for S’wak governor’s day",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXQ3ZDJvT2lvdVdMSmVfVXE1el9aZnlvNXNrTW5DUllGV2tuT2lGdTlaQVAwbWJiZm9PQ3daQ1ZRU21mdUhScUlCUkJHQm9ja1BISFZTb3NibkJ4dnUxczZxSWU0UVkzdXp6Sl9McEFlQU1YV1htdFM1VmRQRmZqVUR4UnRSS3ctbWE4Y1ZFemNOS0pUcGdpZXN4alJnSVpLSnkxR0pR?oc=5",
-     "published": "2026-11-10T00:35:18.000Z"
-    },
-    {
-     "title": "34 nabbed for human trafficking",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkJaazlpV0NCdENBaEl4TDF2bmpiWkJmOWs0ZERrZzMzOHFOZVF3dG5Ea0VWZl82bktHeTA0WG91ZmFvdlBxbXU1LWE4VGZuSGJ6VUFOMzFxT0ZJckhuTjVFVmpmMThFVWFDc0NBd044NmZFSU1oSE1zanFSNTdQUG1LdzlHa1Nt?oc=5",
-     "published": "2026-11-10T00:13:05.000Z"
-    },
-    {
-     "title": "French president to pay landmark visit at royal invite",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDhsV2pqODdHemR5VmJYY1JiRk0wMHZSY3lwbU5neHFXbmRpYUlzMXRYeFNCb2U0SmRDdXh2OHJZZE1WUXJ3Y2VINUlBOXMwbzBMU181SUVYTE9Sa2tBTXhzWmVlLUpaY0R0R1lMZ1B1STlxdUhtWTd0bVNESTU3cVpGeFEtQWJBMFoyc3U3VVd2a3A3bFVpQXZQRWJSQzN0a0ZJSFVIOWZsR0xzTHFDNkRyWkdhSXNp?oc=5",
-     "published": "2026-11-10T00:00:20.000Z"
-    },
-    {
-     "title": "Attacker in bookshop arrested",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmdQUU14Si1iejZ1Q2EyWGJzYTMya0pUZGtGZDQ5NXVBZHR0MWNRdkY3SkV4RjA3M1YweUdkYWM3MV9mUThpZFRwYXpqNVhQTlphdHpSRDQ5VzAyREVqRDQ5eDhRT2hjTEJnQlhyZlAzUHJGb0VNMkVPTkg0cUg5ZmpSdTZnbTJvZnFGdmdhal9PelFhQkNr?oc=5",
-     "published": "2026-11-09T23:57:45.000Z"
-    },
-    {
-     "title": "Death toll from Taiyuan city apartment fire rises to 14",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalNJR3MwY3h4VDlDRThRWnZaT3d2ZlUwYm9tdUM3bU5iNEtxSU9KclpnXzNTbUVMRXZ2QXpPZkhlNmV6M2hsbjZNVE94OU5hNElkOUxoTC1JYUxPd1llSHNiZU5zUXNLVTlpSXNxWllxVnhkVTRsQlFGN3liVHQ2MG92QTcwekc5aDFjd3prTkV6QzVEY2wyeGg1VFprTElhb3RpTlZTWmdSWFpmaW1SMUs1Q3pndXR4Vnc?oc=5",
-     "published": "2026-11-09T23:57:45.000Z"
     }
    ]
   }
