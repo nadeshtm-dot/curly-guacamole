@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-10T14:56:26.345Z",
+ "updated": "2026-11-10T15:44:21.161Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Inside the ‘chaotic instability’ defining college basketball’s Wild, Wild West era",
+     "brief": "Mark Pope is not like most college basketball coaches.",
+     "link": "https://www.cnn.com/2026/11/10/sport/college-basketball-chaos",
+     "published": "2026-11-10T15:44:21.398Z"
+    },
+    {
+     "title": "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding",
+     "brief": "US President Donald Trump’s Board of Peace urged Israel to allow essential aid into Gaza, after calling its response to massive weekend flooding across the shattered enclave “insufficient.”",
+     "link": "https://www.cnn.com/2026/11/10/middleeast/trumps-board-of-peace-chides-israel-gaza-flooding-intl",
+     "published": "2026-11-10T15:43:21.467Z"
+    },
+    {
+     "title": "The surprising midterm winner who flipped a district Trump won by 17 points",
+     "brief": "J.D. Ford flipped a barn-red district in one of the nation’s most reliably Republican states.",
+     "link": "https://www.cnn.com/2026/11/10/politics/jd-ford-victoria-spartz-indiana-midterms",
+     "published": "2026-11-10T15:42:21.444Z"
+    },
+    {
      "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
      "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
      "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
-     "published": "2026-11-10T14:55:26.618Z"
+     "published": "2026-11-10T15:39:21.465Z"
     },
     {
      "title": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician",
      "brief": "Paul McCartney reached the realm of billionaire status Monday after Forbes valued his net worth at a colossal $1.4 billion – making him the world’s third-richest musician.",
      "link": "https://www.cnn.com/2026/11/10/entertainment/paul-mccartney-billionaire-forbes-scli-intl",
-     "published": "2026-11-10T14:53:26.631Z"
+     "published": "2026-11-10T15:37:21.456Z"
     },
     {
-     "title": "US inflation rose more than expected last month",
-     "brief": "The cost of everyday necessities continued to climb in October, putting more pressure on Americans already struggling to keep up with grocery bills, housing costs and other household expenses.",
-     "link": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
-     "published": "2026-11-10T14:52:26.643Z"
-    },
-    {
-     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
-     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
-     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
-     "published": "2026-11-10T14:51:26.634Z"
-    },
-    {
-     "title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports",
-     "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran, according to The Wall Street Journal , which cited sources familiar with the matter.",
-     "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
-     "published": "2026-11-10T14:50:26.637Z"
+     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
+     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were on fire, surrounded by a crowd of onlookers in university jerseys in an incident that…",
+     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
+     "published": "2026-11-09T12:00:00.000Z"
     },
     {
      "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
@@ -46,12 +52,6 @@
      "brief": "It’s been five years since Daniel Craig bid farewell to the role of 007 in “No Time to Die,” which ended with a closing credit promise that “James Bond will return.” And while corporate machinations have slowed the…",
      "link": "https://www.cnn.com/2026/11/09/entertainment/james-bond-casting",
      "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys in an incident…",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Mourinho sends Cucurella tattoo hint",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcXRqVXFQTnFuVGRUY0g4RllUWl9xSS1xZ19uenE2YmNvRkgtOTdQVkMycWN4bXN6bE51TzlMR0VBa2R1MUdDOFd0bnBueHh5QkRKWHBoRWRQbWM4V0RieHFGQ0VMRHJWSHpBXzhDWlFRTFFoZ2hMQ2JpZ3lpS3JlQVdMY0hwaTQzSXg5UVRKbm5aams5ZnMtNWlqWXE?oc=5",
+     "published": "2026-11-10T15:14:00.000Z"
+    },
     {
      "title": "Safety exercise to be held at KLIA on Thursday",
      "brief": "",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVoxNFJnWnJ0eGozelFsZUcxQ0xlSWYxQ01OTnA3dlEzMFRtX1Y5MWw0TmlpbzJuVU9NYzZ4WHlNdkQ5S3lOdEdfaVY0QW5aOXlyTEUyQk4tUTZXUFBzMC1VVXZGZUhJZlF1cGhuUms1ekNfX2FpcVZRQTRZWmdnZXZpMGdyRVZ3Mm1IOGVFX2drVkp2bGE4c3FVUHI4T0tQeHpuZ3h1U3RZeEh3bHdSSDBn?oc=5",
      "published": "2026-11-10T12:59:00.000Z"
-    },
-    {
-     "title": "Anwar wishes Aina Abdul success at Eurovision Song Contest Asia 2026",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVp6NGw5N3I1azktcVZsbVFCeVd3LVNOUXZzd3Fjd3ZmNllPcnZaRWMzcG1TM2hqQ3VlMkdPTUs1ajZyMkliX2FSaWZudk1LT2dxWktRVkxOUlhUWHFVZHNacUp3QWdVckZrektZMEM1RWhqSzhyb21tVF9KZ29lajNZeEMtV3hPN2Y4SWxVcG51b2ZQNEtKbkpWUzlOeGhTeF80WU5LVUJtV0pZMERPZWV3WnoyVV8wN1E?oc=5",
-     "published": "2026-11-10T12:58:00.000Z"
     }
    ]
   }
