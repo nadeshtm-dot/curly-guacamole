@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-10T18:44:24.151Z",
+ "updated": "2026-11-10T19:48:59.646Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
-     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
-     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
-     "published": "2026-11-10T18:44:24.401Z"
+     "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
+     "brief": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California,…",
+     "link": "https://www.cnn.com/2026/11/10/us/thomas-markle-ankle-monitor",
+     "published": "2026-11-10T19:48:59.824Z"
+    },
+    {
+     "title": "Iranian operative directed terror plot on UK Air Force base used by US from a NY jail, DOJ alleges",
+     "brief": "From a jail in New York, a commander of an Iranian terrorist proxy group helped direct a failed plot to attack a key UK air force base used by the US to execute the war with Iran , federal prosecutors allege in a new…",
+     "link": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest",
+     "published": "2026-11-10T19:47:59.877Z"
+    },
+    {
+     "title": "Ex-officer convicted of killing Sandra Birchmore to keep Massachusetts woman quiet about sex abuse",
+     "brief": "A former police detective was convicted Tuesday of murdering a pregnant Massachusetts woman, Sandra Birchmore, to keep her from revealing that he had sexually abused her when she was 15.",
+     "link": "https://www.cnn.com/2026/11/10/us/massachusetts-ex-officer-birchmore-verdict",
+     "published": "2026-11-10T19:46:59.856Z"
+    },
+    {
+     "title": "US Army soldier arrested in UK on suspicion of espionage related to Russia",
+     "brief": "A 41-year-old United States Army soldier was arrested in the United Kingdom on Tuesday on suspicion of espionage related to Russia, according to London’s Metropolitan Police.",
+     "link": "https://www.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia",
+     "published": "2026-11-10T19:45:59.869Z"
     },
     {
      "title": "NYT: Trump wished Biden well in newly disclosed 2021 letter",
      "brief": "In his forthcoming book, former President Joe Biden discloses the contents of a 2021 letter written by President Donald Trump as he prepared to leave the White House after his first term, according to an excerpt of…",
      "link": "https://www.cnn.com/2026/11/10/politics/biden-trump-letter-2021",
-     "published": "2026-11-10T18:43:24.407Z"
+     "published": "2026-11-10T19:44:59.875Z"
     },
     {
      "title": "After blue wave, three-quarters of Americans will be governed by Democrats",
      "brief": "As soon as this year’s winners are sworn in, roughly 75% of all Americans will have Democratic governors — a shakeup that reflects the party’s dominance in the nation’s most populous states and could have a seismic…",
      "link": "https://www.cnn.com/2026/11/10/politics/democrats-win-governors-state-legislatures",
-     "published": "2026-11-10T18:42:24.409Z"
+     "published": "2026-11-10T19:43:59.850Z"
     },
     {
-     "title": "College basketball’s rules are being rewritten in real time. Coaches are scrambling to keep up",
-     "brief": "Mark Pope is not like most college basketball coaches.",
-     "link": "https://www.cnn.com/2026/11/10/sport/college-basketball-chaos",
-     "published": "2026-11-10T18:41:24.396Z"
+     "title": "A deep dive into Thomas Massie’s articles of impeachment against Pete Hegseth",
+     "brief": "Congress may be moving toward voting on Defense Secretary Pete Hegseth’s impeachment .",
+     "link": "https://www.cnn.com/2026/11/10/politics/thomas-massie-pete-hegseth-impeachment",
+     "published": "2026-11-10T19:42:59.864Z"
     },
     {
-     "title": "British celebrity David Walliams accused of sexual misconduct after losing legal battle to block reporting of claims",
-     "brief": "British comedian and children’s author David Walliams has been named by two British news outlets as the anonymous celebrity who tried to stop media outlets publishing claims against him related to alleged grooming…",
-     "link": "https://www.cnn.com/2026/11/10/entertainment/david-walliams-celebrity-injunction-sexual-misconduct-intl",
-     "published": "2026-11-10T18:39:24.387Z"
-    },
-    {
-     "title": "A gay sex ban is overturned in Trinidad and Tobago. What the ruling says about LGBTQ+ rights and post-colonial identity",
-     "brief": "A British court has overturned a law prohibiting gay sex in Trinidad and Tobago, marking a milestone for LGBTQ+ rights in the twin-island Caribbean nation and nullifying a colonial era law dating over a century.",
-     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
-     "published": "2026-11-10T18:37:24.392Z"
-    },
-    {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were on fire, surrounded by a crowd of onlookers in university jerseys in an incident that…",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
-     "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
-     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
-     "published": "2026-11-09T12:00:00.000Z"
+     "title": "Who is Jim Jordan? The GOP’s new leader has history as combative Trump defender",
+     "brief": "House Republicans are still reeling after the midterm elections decimated their ranks and set off a fight for the party’s future.",
+     "link": "https://www.cnn.com/2026/11/10/politics/jim-jordan-gop-minority-leader",
+     "published": "2026-11-10T19:41:59.871Z"
     }
    ]
   },
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "UK arrests US Army member suspected of helping Russia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbm1pZWdoeHQ1SEhoOEh2SWQ4YjA0bmhfeHhsRVpxeHFUWFBOR3M0OUV3N2hkdzJVWlZhZU5KOE5RdUtyRW9TRVNhMVVtUF85OEo1VVJQenc4TzlaTTZVbFFXUGRkZVVTOUdHTm9FMUtiR20xek5fcFJsc05VcmlpclN3cTg5VXBnN1RKMEhhbnEtcURjVWVUc3ZwZzVIelJhTXM2dw?oc=5",
+     "published": "2026-11-10T19:17:00.000Z"
+    },
+    {
+     "title": "Storm Charles causes flooding, power outages in Portugal",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObERzS0dkU05uWWVfTWlBS3c0WklNYWtvbkJjMmhNV2t0dk1rbXRUVHZ0NHp3bU9WMjlUbUd2aWRpRmUtaUJlRng1aHZZQmZCMnNDbzhYc3V1bWZfTXdyR1ZFVjJUbGpPSDlGN0FqR3FmWWZSTXZYY2c5cmN1WHoyamlnOU1QN2NpM0lncTh1YVJHWUZtQTBlSkRkVVVXVkdvb1RrQVZrVQ?oc=5",
+     "published": "2026-11-10T18:54:00.000Z"
+    },
+    {
+     "title": "Abbas says Palestinians facing war, destruction, displacement attempts",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjNPX05naGxlYXJpWlF2RzhsZjhvR3hodUV6ZDJpUGpXaV9NVHBmLW16cFIyLVJTSjNER01XY1JVMHNUWkxMcW9yaDRxWGRXZ2d6RW56akhkcF9nWC16RWJ5c1RPYnRqbXBOU21lUU9zT3o3VkQ1WWhnMThuYmdzZVFwbWRURXZOb1oxVk83RjNTOFVmc2JPU1ZHajVZanBhN2tYZ1ZISTN3UDBRdE4wTEhtUEJDaEZP?oc=5",
+     "published": "2026-11-10T18:41:00.000Z"
+    },
     {
      "title": "France searches Ritz, Villa Windsor in probe of the late Al Fayed",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSk92QTJmTDdKV2J0VnM2dXJzX2p6SEhHaXdhbzFxcTQ2QWxoSThzRGcxb21KMWlpMXAzZmFFT2VabVpVYTd6dWhVX0dzUy1pNUtMMF91bnNHNzdJU1NWeXZOLTRQSmlWSnYyQUJEMnlHNklkRWZ1TUVja0k1WlZkenJTMUEwd2ROLWZFb21RUzByTFFPVU5qNndCYVdmMlNKRjNkWXNMemNqTzlPM3hqeTV3TGJCUWV1XzFpZGJCUXVOMEZxMWc?oc=5",
      "published": "2026-11-10T16:54:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Kroupi earns first France call-up after Thuram injury",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeWs4Yl9pa0dMU2owNTBpVXYyNFZRcWZJMUhjLWhDMEo2cmxwR21qSFNpTDF2bHd5WEd2TFFzTUVaRmNLYkVvUEEtRllpVU52MTUxd3ZqdWlWQW02eURGU3MyYmluVWkwa2ktMko4M0E0MjE0TEhEUXBEdTdBVkJ2b2lOUDVOa2Zyb2JhVGVYeWNNc1gyZFBHY3Z3QXAySVJ2bXBSa1RwYXB1SzBFMkROdDR6QQ?oc=5",
-     "published": "2026-11-10T16:50:00.000Z"
-    },
-    {
-     "title": "Kazakhstan's economy grows 4.5 pct in first 10 months of 2026",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbFBMRXIxZ3J3ajhTS2NBdS13UmtOclY2WmJXN3dTU3dwUC10SjRBT0swUWk2Ykg1bWxyOXRwSkhUWkNBZXVicHhPUm1OV2loUmNELW8zZkFjV0xBcktBWWIxNGtCVks3R1hzN1pZaDIxX0MxZS1tUUtBUzdqdHVLTDZlNW4zdFlMUTlDWWRoRlRlMFZNdVIxMU9mb0ROb2tNckFGTFlkdjZ3cTBfQnFmUg?oc=5",
-     "published": "2026-11-10T16:45:00.000Z"
-    },
-    {
-     "title": "AI training startup Mercor valued at $20 billion in latest funding round",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1hvME52clBvRk9ILWppcmlMZzVIMXhEZU4wbUpCdUV0ekVmcXVKX0ZBRUFVSDFlQ0pqUnpUdEoxZ1VZdVZoVUJlamM2enlKNUttR2YweHFjdHQ1MGdwY25lVkpKV0dvMEVuZmYwLXZpZmRBYUJVLU0wdG1NNmlhTnpUak90ZWs5cnNsNTRObXk1UXcwNDJSQkVnanAweHZwOXhPN3pGWVREekxKeXA0RXh5OTVnVkc5QzNJVWVUSFUwdw?oc=5",
-     "published": "2026-11-10T16:35:00.000Z"
     }
    ]
   }
