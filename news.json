@@ -1,48 +1,54 @@
 {
- "updated": "2026-11-10T20:41:10.738Z",
+ "updated": "2026-11-10T21:37:43.532Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding",
-     "brief": "US President Donald Trump’s Board of Peace urged Israel to allow essential aid into Gaza, after calling its response to massive weekend flooding across the shattered enclave “insufficient.”",
-     "link": "https://www.cnn.com/2026/11/10/middleeast/trumps-board-of-peace-chides-israel-gaza-flooding-intl",
-     "published": "2026-11-10T20:40:10.966Z"
+     "title": "What could Hegseth be impeached for? The articles of impeachment, explained",
+     "brief": "Congress may be moving toward voting on Defense Secretary Pete Hegseth’s impeachment .",
+     "link": "https://www.cnn.com/2026/11/10/politics/thomas-massie-pete-hegseth-impeachment",
+     "published": "2026-11-10T21:36:43.820Z"
     },
     {
-     "title": "Ex-officer convicted of killing Sandra Birchmore to keep Massachusetts woman quiet about sex abuse",
-     "brief": "A former police detective was convicted Tuesday of murdering a pregnant Massachusetts woman, Sandra Birchmore, to keep her from revealing that he had sexually abused her when she was 15.",
-     "link": "https://www.cnn.com/2026/11/10/us/massachusetts-ex-officer-birchmore-verdict",
-     "published": "2026-11-10T20:39:10.986Z"
-    },
-    {
-     "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DOJ says",
-     "brief": "The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California,…",
-     "link": "https://www.cnn.com/2026/11/10/us/thomas-markle-ankle-monitor",
-     "published": "2026-11-10T20:37:10.974Z"
-    },
-    {
-     "title": "Iranian operative used coded messages on NY jail call to direct failed UK terror plot",
-     "brief": "From a jail in New York, a commander of an Iranian terrorist proxy group helped direct a failed plot to attack a key UK Air Force base used by the US to execute the war with Iran , federal prosecutors allege in a new…",
-     "link": "https://www.cnn.com/2026/11/10/politics/fairford-terror-plot-arrest",
-     "published": "2026-11-10T20:36:10.969Z"
+     "title": "What the House GOP’s Jim Jordan pick means for the direction of the party",
+     "brief": "House Republicans are still reeling after the midterm elections decimated their ranks and set off a fight for the party’s future.",
+     "link": "https://www.cnn.com/2026/11/10/politics/jim-jordan-gop-minority-leader",
+     "published": "2026-11-10T21:34:43.839Z"
     },
     {
      "title": "US Army soldier arrested in UK on suspicion of espionage related to Russia",
      "brief": "A 41-year-old United States Army soldier was arrested in the United Kingdom on Tuesday on suspicion of espionage related to Russia, according to London’s Metropolitan Police.",
      "link": "https://www.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia",
-     "published": "2026-11-10T20:35:10.978Z"
+     "published": "2026-11-10T21:32:43.833Z"
     },
     {
-     "title": "NYT: Trump wished Biden well in newly disclosed 2021 letter",
-     "brief": "In his forthcoming book, former President Joe Biden discloses the contents of a 2021 letter written by President Donald Trump as he prepared to leave the White House after his first term, according to an excerpt of…",
-     "link": "https://www.cnn.com/2026/11/10/politics/biden-trump-letter-2021",
-     "published": "2026-11-10T20:34:10.982Z"
+     "title": "US evacuates aircraft from British military base after threat from Iran",
+     "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran that was deemed credible, according to a person familiar with the intelligence that…",
+     "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
+     "published": "2026-11-10T21:31:43.836Z"
     },
     {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
+     "title": "A gay sex ban is overturned in Trinidad and Tobago. What the ruling says about LGBTQ+ rights and post-colonial identity",
+     "brief": "A British court has overturned a law prohibiting gay sex in Trinidad and Tobago, marking a milestone for LGBTQ+ rights in the twin-island Caribbean nation and nullifying a colonial-era law dating over a century.",
+     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
+     "published": "2026-11-10T21:30:43.830Z"
+    },
+    {
+     "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
+     "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
+     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Despite denial, Trump was briefed on spy concerns related to Nvidia CEO during trip to China, source says",
+     "brief": "Secretary of State Marco Rubio briefed President Donald Trump on intelligence that Nvidia CEO Jensen Huang was in a relationship with a potential Chinese spy as they traveled to China in May aboard Air Force One, a…",
+     "link": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Police investigate Ohio State fraternity for possible hazing after video shows two people on fire",
      "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were on fire as a crowd of onlookers in university jerseys watched, an incident police are…",
      "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
      "published": "2026-11-09T12:00:00.000Z"
@@ -54,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Advancecon bags RM41.5mil Johor contract",
+     "title": "1st LD Writethru: Tanker carrying 40,000 tons of Russian diesel stalls en route to U.S., says Kpler",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd1NXQ2RuNHhISGxSNkNVMzluUHdCaUxJMVc3bDBnV0szT0t2R3hseURqc1ZkWV95Zk5mVm0wTkJsbUkzRVdwMHUtVGVXLXdlR0U5eWZOT1JpMnZ6MnVUajI2WlFJVjhjV1hHN0lDeUJmMDdpdEFEMGxwMy1SZFBmOTBfZUlPYy1rSXJ2NWE0QU5sZFVZZzBiYU56c25KamRsLVE?oc=5",
-     "published": "2026-11-10T20:16:44.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW1PWnFHdHVUNUU3Zzk5VFIyNmRMWEJqdURnMC1QSTF0Y08zekVYRy10T1RyWDY2VXBaaVlaSmdiV25HR095SjYyaTl5N1lReUZtbV8xaktkSVlRanNuMnhxcjBDWURGSGgxaGZYdG9DNTJSUlpZZ3JuUW12Vl91SXdhVHU5N1R4Z1Foc21Eam5YNXJoRWJWWm1KbHUxZzdHdWFBcEFiMnQ1Ty1lVGp1VEl3NmlmcG1EbnM3azRmdHVaampoVEt2cFRndFpvWExvS3BULXU5aDNQVTA?oc=5",
+     "published": "2026-11-10T21:06:00.000Z"
+    },
+    {
+     "title": "Iran-backed militant helped plot attack on UK's Fairford base from US jail, Justice Department says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYmlSSUhkREk0Z2RfZkNHaGt1UUpxUE9EaWxSS2ljYXhNZjJlVmdYeDdrVzllTTZ4cncycml6Y0lQcjJsMFNDSEx5RW1hTmNFYXo4SkxzRGRHWmR3WWk4OGpuWlZ5WXpqWl9OREtJNjR3TEk1M0x4M3ZyNGN5ZUItR0ZVLWdlSm5MR0N1UTB3UXpUMlpMWGt0NFNhX2N1TW9BQUgtd1hueXpsWXBhS3ZWY3FVaF84UkdyVmJDYWFKZVRKdlJJRVpRWTZEMnY2MDJWS0c1NWIyOUQybzNlQXBXUFliNA?oc=5",
+     "published": "2026-11-10T21:04:00.000Z"
+    },
+    {
+     "title": "Egypt's remittances hits 13 billion USD in Q1 FY 2026/2027",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVjg3cW42TGdvUXZPX05teXppOXA1R05GUU42NUZQTHJFaWJiTkFkTmxHWUkyWjJ1ekRZNVRldTQ3NC11WkpsdlR3ZzZsT1dId01vSkh4N3Y5RERPd2U5bVdCZWl5bmRYbU1OQlM0NDR3UHA1dHh5c0h5djVqeWxxNUNuWEl1cUJRdVFFa3RIWmZ0eEVrZVBDcVR3eUM0SDN3SHdlOU9jSUdVbjdl?oc=5",
+     "published": "2026-11-10T20:33:00.000Z"
+    },
+    {
+     "title": "Latvia, Lithuania hold cross-border evacuation drill",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSlQzT3IwR3daLWRBVlJ2MXd6dFNkYXh1cTB3ZGwxZVV3ZnBVR3IyRnBfT2ozQ2MyclRSVHA2MlhuZWJoU2I3X1NtdS1YUmg2LWNHd3NXVnRGTE42S3RXSmtyVUpta1QzakRCNFRteW5lNlM2MW13bWIzak03WFptY3F4VTJyZWxrd1ZlZThsQkJQWmI2YU5vc2VvQWJHVEpUV3c?oc=5",
+     "published": "2026-11-10T20:20:00.000Z"
     },
     {
      "title": "Swimming-South Africa's most decorated Olympian Smith to compete for the Netherlands",
@@ -78,34 +102,16 @@
      "published": "2026-11-10T20:02:00.000Z"
     },
     {
-     "title": "UK arrests US Army member suspected of helping Russia",
+     "title": "US Army member arrested in UK for suspected 'espionage' for Russia",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbm1pZWdoeHQ1SEhoOEh2SWQ4YjA0bmhfeHhsRVpxeHFUWFBOR3M0OUV3N2hkdzJVWlZhZU5KOE5RdUtyRW9TRVNhMVVtUF85OEo1VVJQenc4TzlaTTZVbFFXUGRkZVVTOUdHTm9FMUtiR20xek5fcFJsc05VcmlpclN3cTg5VXBnN1RKMEhhbnEtcURjVWVUc3ZwZzVIelJhTXM2dw?oc=5",
      "published": "2026-11-10T19:17:00.000Z"
-    },
-    {
-     "title": "Storm Charles causes flooding, power outages in Portugal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObERzS0dkU05uWWVfTWlBS3c0WklNYWtvbkJjMmhNV2t0dk1rbXRUVHZ0NHp3bU9WMjlUbUd2aWRpRmUtaUJlRng1aHZZQmZCMnNDbzhYc3V1bWZfTXdyR1ZFVjJUbGpPSDlGN0FqR3FmWWZSTXZYY2c5cmN1WHoyamlnOU1QN2NpM0lncTh1YVJHWUZtQTBlSkRkVVVXVkdvb1RrQVZrVQ?oc=5",
-     "published": "2026-11-10T18:54:00.000Z"
-    },
-    {
-     "title": "Motorsport: Motor racing-F1 season to end in Middle East as scheduled",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3JEY2M3TTY4OWJLd0F2RTBGYk5yREV0RTFVT1RhRk5ueFdlbXBYRW5nUDhQTDkzNmdCSWlEaG95d2c3ajBoYVIySm5Ncy1kMWpnVWV3R3R3YnZqdE9jWm1nZnZTRUhzaUVGcXRZV3dZc09fN3NCOHIydGxNWHNJYTZodktYTl9PcllCM25ELVpqRlZvYWpNMGhfeDR4RTlVSzh6cG9qakY3bVJfRDZubkxR?oc=5",
-     "published": "2026-11-10T18:51:00.000Z"
-    },
-    {
-     "title": "Abbas says Palestinians facing war, destruction, displacement attempts",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbjNPX05naGxlYXJpWlF2RzhsZjhvR3hodUV6ZDJpUGpXaV9NVHBmLW16cFIyLVJTSjNER01XY1JVMHNUWkxMcW9yaDRxWGRXZ2d6RW56akhkcF9nWC16RWJ5c1RPYnRqbXBOU21lUU9zT3o3VkQ1WWhnMThuYmdzZVFwbWRURXZOb1oxVk83RjNTOFVmc2JPU1ZHajVZanBhN2tYZ1ZISTN3UDBRdE4wTEhtUEJDaEZP?oc=5",
-     "published": "2026-11-10T18:41:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
