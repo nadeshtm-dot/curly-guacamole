@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-10T01:58:19.505Z",
+ "updated": "2026-11-10T02:45:25.653Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Close call at LAX airport as plane turns in front of another aircraft taking off",
+     "brief": "An Air France plane taking off from Los Angeles International Airport made a wrong turn early Saturday morning, putting it in the path of an American Airlines jet, according to the Federal Aviation Administration.",
+     "link": "https://www.cnn.com/2026/11/09/us/lax-close-call-aircraft",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "FBI is investigating a possible killing aboard a cruise ship out of Texas",
+     "brief": "The FBI is investigating a “suspected homicide” aboard a cruise ship that returned to port after departing from Galveston, Texas, the agency said in a statement Monday.",
+     "link": "https://www.cnn.com/2026/11/09/us/suspected-cruise-ship-killing",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Judge orders psychiatric exam for Thomas Markle, father of Meghan, in child pornography case",
+     "brief": "A federal judge in Florida has ordered a psychiatric evaluation for Thomas ​Markle, the estranged father of Britain’s Duchess of Sussex, Meghan Markle, to determine if he ‌is mentally fit to answer to charges…",
+     "link": "https://www.cnn.com/2026/11/09/us/thomas-markle-psychiatric-exam-judge-order",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
     {
      "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
      "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys.",
@@ -34,24 +52,6 @@
      "brief": "It remains unlikely that President Donald Trump would ever sign off on giving millions of undocumented immigrants a path to legal status.",
      "link": "https://www.cnn.com/2026/11/09/politics/trump-maga-backlash-amnesty-immigration",
      "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "‘Where is Cindy Hyde-Smith?’: In a nail-biter Senate race, the incumbent stays out of view in Mississippi",
-     "brief": "As the Mississippi Senate race still remains too close to call, Democrat Scott Colom and GOP Sen.",
-     "link": "https://www.cnn.com/2026/11/09/politics/mississippi-senate-hyde-smith-colom-campaign",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Skydance plans to bundle HBO Max and Paramount+ next year",
-     "brief": "Skydance will start selling HBO Max and Paramount+ together in a streaming bundle early next year, the company said Monday.",
-     "link": "https://www.cnn.com/2026/11/09/media/skydance-hbo-max-paramount-plus-bundle",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "For 2 years a Virginia man said he didn’t know what happened to his missing wife. Now he says he dismembered her body",
-     "brief": "For more than two years, Naresh Bhatt said he didn’t know what happened to his missing wife.",
-     "link": "https://www.cnn.com/2026/11/09/us/naresh-bhatt-trial-virginia",
-     "published": "2026-11-09T12:00:00.000Z"
     }
    ]
   },
@@ -78,34 +78,34 @@
      "published": "2026-11-10T01:00:00.000Z"
     },
     {
-     "title": "Quantum leap for data protection",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNDAwYzBMQjR0NTRib1JSMGZ1OWNLbE14Z1NkZ0lhM2RMZ0UxVElHTUY5elhHSWdOUDFKTG1xR1pDdWtUa2JiN2p3SUZKN2p2ejZ1bmN0cEdSbjVKcTlhNXVWdWdfU0lkRXBhWWFFOUdVRGVyMHRoMmUwYXBBeTJfNjNzYTA5dm0zWGc?oc=5",
-     "published": "2026-11-10T00:38:05.000Z"
-    },
-    {
-     "title": "Nga: More efforts needed to tackle climate change",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEFDMTVkV3dqdldCdFZjeFlHTkEyRDJySnNYT3YyaHhjLUNWUjN4SlRnbUVsRXRfTWxsLXF0RGpfa1UzWlh0bTY3YUdxSE80b2FIWm5XcnJjSnRhNURWTVNoRUJvVHJKYUQ3MXFMOHdoeUZXTXFfZ3VaeFkzdXRNNFdrY3hweTFjZnJKT1hDVm1qNFdxdkdnVjRKZkVmZw?oc=5",
-     "published": "2026-11-10T00:38:05.000Z"
-    },
-    {
      "title": "Parade of colours, culture for S’wak governor’s day",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMXQ3ZDJvT2lvdVdMSmVfVXE1el9aZnlvNXNrTW5DUllGV2tuT2lGdTlaQVAwbWJiZm9PQ3daQ1ZRU21mdUhScUlCUkJHQm9ja1BISFZTb3NibkJ4dnUxczZxSWU0UVkzdXp6Sl9McEFlQU1YV1htdFM1VmRQRmZqVUR4UnRSS3ctbWE4Y1ZFemNOS0pUcGdpZXN4alJnSVpLSnkxR0pR?oc=5",
      "published": "2026-11-10T00:35:18.000Z"
     },
     {
-     "title": "Public cooperation key to easing fuel price pressures",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQ3A3MnJRaDN3VThoUmZDTnFZaVdKUmhHQkZtN0xuVUNKWEpsUDA0LXZGT0VYV3VndDVlay02YWJKaVdPLWVFUUhOTWxZNElpRExEZHRvNEpJOTloLTk0azNROXJoQldTTTVSRmxtRXlxczhtT2V6RlF2NVRTNER5RnlNWHg5dDN0RkVtNF9OM3FuYnF1dENGQ3dQSmYxSXhyQ09JbTYzNlc2QktkdVFhdnE0Qi0?oc=5",
-     "published": "2026-11-10T00:33:23.000Z"
-    },
-    {
      "title": "34 nabbed for human trafficking",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUkJaazlpV0NCdENBaEl4TDF2bmpiWkJmOWs0ZERrZzMzOHFOZVF3dG5Ea0VWZl82bktHeTA0WG91ZmFvdlBxbXU1LWE4VGZuSGJ6VUFOMzFxT0ZJckhuTjVFVmpmMThFVWFDc0NBd044NmZFSU1oSE1zanFSNTdQUG1LdzlHa1Nt?oc=5",
      "published": "2026-11-10T00:13:05.000Z"
+    },
+    {
+     "title": "French president to pay landmark visit at royal invite",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeDhsV2pqODdHemR5VmJYY1JiRk0wMHZSY3lwbU5neHFXbmRpYUlzMXRYeFNCb2U0SmRDdXh2OHJZZE1WUXJ3Y2VINUlBOXMwbzBMU181SUVYTE9Sa2tBTXhzWmVlLUpaY0R0R1lMZ1B1STlxdUhtWTd0bVNESTU3cVpGeFEtQWJBMFoyc3U3VVd2a3A3bFVpQXZQRWJSQzN0a0ZJSFVIOWZsR0xzTHFDNkRyWkdhSXNp?oc=5",
+     "published": "2026-11-10T00:00:20.000Z"
+    },
+    {
+     "title": "Attacker in bookshop arrested",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNmdQUU14Si1iejZ1Q2EyWGJzYTMya0pUZGtGZDQ5NXVBZHR0MWNRdkY3SkV4RjA3M1YweUdkYWM3MV9mUThpZFRwYXpqNVhQTlphdHpSRDQ5VzAyREVqRDQ5eDhRT2hjTEJnQlhyZlAzUHJGb0VNMkVPTkg0cUg5ZmpSdTZnbTJvZnFGdmdhal9PelFhQkNr?oc=5",
+     "published": "2026-11-09T23:57:45.000Z"
+    },
+    {
+     "title": "Death toll from Taiyuan city apartment fire rises to 14",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOalNJR3MwY3h4VDlDRThRWnZaT3d2ZlUwYm9tdUM3bU5iNEtxSU9KclpnXzNTbUVMRXZ2QXpPZkhlNmV6M2hsbjZNVE94OU5hNElkOUxoTC1JYUxPd1llSHNiZU5zUXNLVTlpSXNxWllxVnhkVTRsQlFGN3liVHQ2MG92QTcwekc5aDFjd3prTkV6QzVEY2wyeGg1VFprTElhb3RpTlZTWmdSWFpmaW1SMUs1Q3pndXR4Vnc?oc=5",
+     "published": "2026-11-09T23:57:45.000Z"
     }
    ]
   }
