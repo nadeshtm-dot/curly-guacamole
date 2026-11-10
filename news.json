@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-10T15:44:21.161Z",
+ "updated": "2026-11-10T16:47:23.202Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "These are some of the most notorious California death row inmates whose sentences could be commuted",
+     "brief": "California’s 548 death row prisoners could be spared execution under Gov.",
+     "link": "https://www.cnn.com/2026/11/10/us/california-death-row-inmates-commutation",
+     "published": "2026-11-10T16:47:23.378Z"
+    },
+    {
+     "title": "Colonial-era gay sex ban is overturned in Trinidad and Tobago. Why other ex-colonies could be impacted",
+     "brief": "A court in England has overturned a law prohibiting gay sexual acts in Trinidad and Tobago that dates back over 100 years to the British colonial era in the twin-island Caribbean nation.",
+     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
+     "published": "2026-11-10T16:46:23.443Z"
+    },
+    {
+     "title": "US evacuates aircraft from British military base after threat from Iran",
+     "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran that was deemed credible, according to a person familiar with the intelligence that…",
+     "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
+     "published": "2026-11-10T16:45:23.434Z"
+    },
+    {
+     "title": "First on CNN: Whistleblowers tell Democrats documents linked to Trump’s construction projects are being destroyed",
+     "brief": "House Democrats are demanding that the Interior department retain documents related to President Donald Trump’s construction projects around Washington after whistleblowers warned that key paperwork has already been…",
+     "link": "https://www.cnn.com/2026/11/10/politics/trump-building-investigation-democrats-house-natural-resources",
+     "published": "2026-11-10T16:43:23.438Z"
+    },
+    {
+     "title": "Helicopter pilot reports losing engine power and crash lands on pier outside New York City",
+     "brief": "The Federal Aviation Administration will investigate after a helicopter pilot reported losing engine power and made an emergency landing on a pier, just outside of New York City.",
+     "link": "https://www.cnn.com/2026/11/10/us/helicopter-crash-lands-bayonne",
+     "published": "2026-11-10T16:42:23.445Z"
+    },
+    {
      "title": "Inside the ‘chaotic instability’ defining college basketball’s Wild, Wild West era",
      "brief": "Mark Pope is not like most college basketball coaches.",
      "link": "https://www.cnn.com/2026/11/10/sport/college-basketball-chaos",
-     "published": "2026-11-10T15:44:21.398Z"
+     "published": "2026-11-10T16:41:23.416Z"
     },
     {
-     "title": "Trump’s Board of Peace chides Israel for ‘insufficient’ response to Gaza flooding",
-     "brief": "US President Donald Trump’s Board of Peace urged Israel to allow essential aid into Gaza, after calling its response to massive weekend flooding across the shattered enclave “insufficient.”",
-     "link": "https://www.cnn.com/2026/11/10/middleeast/trumps-board-of-peace-chides-israel-gaza-flooding-intl",
-     "published": "2026-11-10T15:43:21.467Z"
-    },
-    {
-     "title": "The surprising midterm winner who flipped a district Trump won by 17 points",
-     "brief": "J.D. Ford flipped a barn-red district in one of the nation’s most reliably Republican states.",
-     "link": "https://www.cnn.com/2026/11/10/politics/jd-ford-victoria-spartz-indiana-midterms",
-     "published": "2026-11-10T15:42:21.444Z"
-    },
-    {
-     "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
-     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
-     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
-     "published": "2026-11-10T15:39:21.465Z"
-    },
-    {
-     "title": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician",
-     "brief": "Paul McCartney reached the realm of billionaire status Monday after Forbes valued his net worth at a colossal $1.4 billion – making him the world’s third-richest musician.",
-     "link": "https://www.cnn.com/2026/11/10/entertainment/paul-mccartney-billionaire-forbes-scli-intl",
-     "published": "2026-11-10T15:37:21.456Z"
-    },
-    {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were on fire, surrounded by a crowd of onlookers in university jerseys in an incident that…",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T12:00:00.000Z"
+     "title": "US inflation rose more than expected last month",
+     "brief": "The cost of everyday necessities continued to climb in October, putting more pressure on Americans already struggling to keep up with grocery bills, housing costs and other household expenses.",
+     "link": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
+     "published": "2026-11-10T16:40:23.422Z"
     },
     {
      "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
      "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
      "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "The fierce battle for James Bond is playing out in public",
-     "brief": "It’s been five years since Daniel Craig bid farewell to the role of 007 in “No Time to Die,” which ended with a closing credit promise that “James Bond will return.” And while corporate machinations have slowed the…",
-     "link": "https://www.cnn.com/2026/11/09/entertainment/james-bond-casting",
      "published": "2026-11-09T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "AI training startup Mercor valued at $20 billion in latest funding round",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb1hvME52clBvRk9ILWppcmlMZzVIMXhEZU4wbUpCdUV0ekVmcXVKX0ZBRUFVSDFlQ0pqUnpUdEoxZ1VZdVZoVUJlamM2enlKNUttR2YweHFjdHQ1MGdwY25lVkpKV0dvMEVuZmYwLXZpZmRBYUJVLU0wdG1NNmlhTnpUak90ZWs5cnNsNTRObXk1UXcwNDJSQkVnanAweHZwOXhPN3pGWVREekxKeXA0RXh5OTVnVkc5QzNJVWVUSFUwdw?oc=5",
+     "published": "2026-11-10T16:35:00.000Z"
+    },
+    {
+     "title": "Other Sports: Horse racing-Australian jockey Neale dies after fall in race",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZ3hZNVNIaXRQYkJ5X0MtNUVLckdSSXRZNUNvdS1PSzVXdTdpZDFQZHRiNmQyYzZjSGFobFZudTlmNG02NUZXZVVUajdaWC1hNGVVN0tfTkE5REpxOVVYN0hmazU4RWFTSVZTU0Z5U19PT2VtV3prMHVpcTNyOHYteGxmWkJfR05BV1JOU3p5YUFsRkhUTVRoSkJPaW9INTBxWlJkSHZEdnk1cnZGNWFHLQ?oc=5",
+     "published": "2026-11-10T15:51:00.000Z"
+    },
     {
      "title": "Football: Soccer-Mourinho sends Cucurella tattoo hint",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVl6M1VyTkF0NGFhZm9RT28xODhWQmVPS0R6eEJqY0hTYVZMTGxLUVJreDRCb1RkSFFNOFZ6T0hPV1NVWnBhb0t1STQ5cmlINnAxTHk0aENPNUw2UW5wemdTeUk2cTFTSXNrc0pkMGM3ZnByTWluclZwLTNSZVBUdUpSR1YxT1cxaTBDZGlpRDJJM0M4cDNLa19PenpZMWU1ajROc3hidWU1ZGRGYzZBeFBDZ2xYdXIybzluTm9pMA?oc=5",
      "published": "2026-11-10T13:23:00.000Z"
-    },
-    {
-     "title": "Pentagon chief Hegseth calls moves to impeach him a farce and sabotage",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSS0yejl1bW1nWDVmdmtBbjBCWlQxVTNhTlMzZFRQbVZwQkp3QWwyX29lb1AzTnBpVXhQU2pYOG9ReGNIN0lZS2Fvb2JmN2lNdGFMcFExclVHSmkwcU01enFZTzM1bTltdzBtNW5KaV80aE9ROG54ZU1hR2ZQeUcyS3R2VW5HVldxNXltQXpSR3FlM1RhOUdVeXNsRUEtSGFLcHkwSElmWFJta09mbFllcnpwbGJNQWdkVG9jUHNR?oc=5",
-     "published": "2026-11-10T13:20:00.000Z"
-    },
-    {
-     "title": "Golf: Golf-DeChambeau has few options after LIV collapse says McIlroy",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVoxNFJnWnJ0eGozelFsZUcxQ0xlSWYxQ01OTnA3dlEzMFRtX1Y5MWw0TmlpbzJuVU9NYzZ4WHlNdkQ5S3lOdEdfaVY0QW5aOXlyTEUyQk4tUTZXUFBzMC1VVXZGZUhJZlF1cGhuUms1ekNfX2FpcVZRQTRZWmdnZXZpMGdyRVZ3Mm1IOGVFX2drVkp2bGE4c3FVUHI4T0tQeHpuZ3h1U3RZeEh3bHdSSDBn?oc=5",
-     "published": "2026-11-10T12:59:00.000Z"
     }
    ]
   }
