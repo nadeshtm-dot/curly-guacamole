@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-10T14:06:44.840Z",
+ "updated": "2026-11-10T14:56:26.345Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
-     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
-     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
-     "published": "2026-11-10T14:06:44.965Z"
+     "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
+     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
+     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
+     "published": "2026-11-10T14:55:26.618Z"
     },
     {
      "title": "Paul McCartney achieves billionaire status, becomes world’s third-richest musician",
      "brief": "Paul McCartney reached the realm of billionaire status Monday after Forbes valued his net worth at a colossal $1.4 billion – making him the world’s third-richest musician.",
      "link": "https://www.cnn.com/2026/11/10/entertainment/paul-mccartney-billionaire-forbes-scli-intl",
-     "published": "2026-11-10T14:05:45.001Z"
+     "published": "2026-11-10T14:53:26.631Z"
+    },
+    {
+     "title": "US inflation rose more than expected last month",
+     "brief": "The cost of everyday necessities continued to climb in October, putting more pressure on Americans already struggling to keep up with grocery bills, housing costs and other household expenses.",
+     "link": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
+     "published": "2026-11-10T14:52:26.643Z"
+    },
+    {
+     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
+     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
+     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
+     "published": "2026-11-10T14:51:26.634Z"
     },
     {
      "title": "US evacuates aircraft from British military base after threat from Iran, WSJ reports",
      "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran, according to The Wall Street Journal , which cited sources familiar with the matter.",
      "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
-     "published": "2026-11-10T14:04:45.002Z"
-    },
-    {
-     "title": "Inflation rose 0.4% last month, more than expected",
-     "brief": "The cost of everyday necessities continued to climb in October, putting more pressure on Americans already struggling to keep up with grocery bills, housing costs and other household expenses.",
-     "link": "https://www.cnn.com/2026/11/10/business/us-inflation-cpi-consumer-prices-october",
-     "published": "2026-11-10T14:03:45.004Z"
-    },
-    {
-     "title": "British court to rule on Trinidad and Tobago’s colonial-era gay sex law. Here’s why other ex-colonies could be impacted",
-     "brief": "A court in England is expected to issue a ruling today on a law prohibiting gay sexual acts in Trinidad and Tobago that dates back over 100 years to the British colonial era in the twin-island Caribbean nation.",
-     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
-     "published": "2026-11-10T14:00:44.998Z"
-    },
-    {
-     "title": "Anthropic to seek $1.4 trillion valuation in blockbuster IPO",
-     "brief": "Anthropic’s debut on public markets will be unlike any that’s come before it, in ways that amount to either a once-in-a-generation opportunity — or a massive financial gamble, depending on whom you ask.",
-     "link": "https://www.cnn.com/2026/11/10/investing/weve-never-seen-anything-like-anthropic-ipo",
-     "published": "2026-11-10T13:59:44.988Z"
-    },
-    {
-     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
-     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys in an incident…",
-     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
-     "published": "2026-11-09T12:00:00.000Z"
+     "published": "2026-11-10T14:50:26.637Z"
     },
     {
      "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
      "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
      "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "The fierce battle for James Bond is playing out in public",
+     "brief": "It’s been five years since Daniel Craig bid farewell to the role of 007 in “No Time to Die,” which ended with a closing credit promise that “James Bond will return.” And while corporate machinations have slowed the…",
+     "link": "https://www.cnn.com/2026/11/09/entertainment/james-bond-casting",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Ohio State fraternity placed on interim suspension after video shows two people on fire",
+     "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were engulfed in fire, surrounded by a crowd of onlookers in university jerseys in an incident…",
+     "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
      "published": "2026-11-09T12:00:00.000Z"
     }
    ]
@@ -60,10 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "KKB water surge: SAR teams focus on Sungai Selangor Dam, three still missing",
+     "title": "Safety exercise to be held at KLIA on Thursday",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaTA4Yl9iSHZXazNSMzgzWDhpLTg2cFlUb0puN1FVZmEtV0E4blVwaEVnOURHa25zYUxKSUpRejM0Q01rMXU5a24xUUFMeDluaGIwTF9mRE8yb0RLSzhDYjB5QllQZnFRNE5lOU9CZFB4cWg3OXlweklrQ1FCdHhfUk1YV2M1SFhhdWJfRV9iRUV3YlN6MFVSUEMxa3BaazRMSTJjSml2VW1hTHE2eWppZmZ2Z3JCQk5sQUpMWXVLS29GZw?oc=5",
-     "published": "2026-11-10T14:02:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNN3k4MjlUeko3RnJlckI1WWRBaUlJRkQ5ejFJZGxWUkZCYlpZeUZiQVF1NXZNOF9ySF9uNHVXN3RSR1dzdDV3QTdwSUlnVlhfdFlnVnh2M2NKRkt4TlptUmNGbm5aekxkQ3QzU0FuaHFpWVItX1lRckMzVkJWRzQwZFZvajZmWk9STTdhQXdNbjV3Zlp2RHZmaXVoR0Q?oc=5",
+     "published": "2026-11-10T14:50:00.000Z"
+    },
+    {
+     "title": "Amazon's Ring launches flying camera, autonomous security robot",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUzVYdnhrZXUzV0RVQkJhZjlvWTd6UXZGYWlQYnFWN01KZTRMSXQ3YnJXRU43Vm43WnFsOFppdzhYN2RCVV9RZUc5NWg3NTJCNE1ESk1qbEU3dUdta2NnS1JsbUMwMGY2QlFGdGx4TTNIbEEzWTBXN3BLdmdOcXlvdF91c05fREFpZlM3NnN6TmJTMXpZMUVJMXZFMkN5RklYUWdycmltNEFnR1hhdE5HUTZkSDRBVC1s?oc=5",
+     "published": "2026-11-10T14:29:00.000Z"
     },
     {
      "title": "Football: Soccer-Brentford’s Van den Berg gets first Dutch call-up",
@@ -78,13 +84,13 @@
      "published": "2026-11-10T13:33:00.000Z"
     },
     {
-     "title": "Football: Soccer-Kompany returns to Bayern training ground, German media reports",
+     "title": "Football: Soccer-Kompany returns to Bayern training ground",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVl6M1VyTkF0NGFhZm9RT28xODhWQmVPS0R6eEJqY0hTYVZMTGxLUVJreDRCb1RkSFFNOFZ6T0hPV1NVWnBhb0t1STQ5cmlINnAxTHk0aENPNUw2UW5wemdTeUk2cTFTSXNrc0pkMGM3ZnByTWluclZwLTNSZVBUdUpSR1YxT1cxaTBDZGlpRDJJM0M4cDNLa19PenpZMWU1ajROc3hidWU1ZGRGYzZBeFBDZ2xYdXIybzluTm9pMA?oc=5",
      "published": "2026-11-10T13:23:00.000Z"
     },
     {
-     "title": "Pentagon chief Hegseth calls moves to impeach him a farce that will fail",
+     "title": "Pentagon chief Hegseth calls moves to impeach him a farce and sabotage",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSS0yejl1bW1nWDVmdmtBbjBCWlQxVTNhTlMzZFRQbVZwQkp3QWwyX29lb1AzTnBpVXhQU2pYOG9ReGNIN0lZS2Fvb2JmN2lNdGFMcFExclVHSmkwcU01enFZTzM1bTltdzBtNW5KaV80aE9ROG54ZU1hR2ZQeUcyS3R2VW5HVldxNXltQXpSR3FlM1RhOUdVeXNsRUEtSGFLcHkwSElmWFJta09mbFllcnpwbGJNQWdkVG9jUHNR?oc=5",
      "published": "2026-11-10T13:20:00.000Z"
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQVp6NGw5N3I1azktcVZsbVFCeVd3LVNOUXZzd3Fjd3ZmNllPcnZaRWMzcG1TM2hqQ3VlMkdPTUs1ajZyMkliX2FSaWZudk1LT2dxWktRVkxOUlhUWHFVZHNacUp3QWdVckZrektZMEM1RWhqSzhyb21tVF9KZ29lajNZeEMtV3hPN2Y4SWxVcG51b2ZQNEtKbkpWUzlOeGhTeF80WU5LVUJtV0pZMERPZWV3WnoyVV8wN1E?oc=5",
      "published": "2026-11-10T12:58:00.000Z"
-    },
-    {
-     "title": "Philippines says reported plane crash was a false alarm",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOFpTc0p5X0FsbG1INDZJdTZ0Q25mMnlOYUxTTHI2dnpHRWxMcDNPR2RiV2FhMnRoUHhKY3lGSEJXbmR1bktvNG02SXNqVnRydW5tMnBCa3NmMFRldU1WOWNLVFU3ZkVISUVMY1ZobFlZWUFyUlZkWGVvRDY5OTlWWlE2NnNXS0s4aGYxd3dwbG9nODNrdDVrTU5VSHA0VmVWNE5iT1dHMFJjOFlkRDFtYVE4OWpJMWlqb1E?oc=5",
-     "published": "2026-11-10T12:57:00.000Z"
     }
    ]
   }
