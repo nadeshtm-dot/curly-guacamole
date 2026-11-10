@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-10T21:37:43.532Z",
+ "updated": "2026-11-10T22:38:14.948Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "What could Hegseth be impeached for? The articles of impeachment, explained",
-     "brief": "Congress may be moving toward voting on Defense Secretary Pete Hegseth’s impeachment .",
-     "link": "https://www.cnn.com/2026/11/10/politics/thomas-massie-pete-hegseth-impeachment",
-     "published": "2026-11-10T21:36:43.820Z"
+     "title": "Justice Department prosecutors in Washington can’t keep up with all the cases of immigrants suing for their release",
+     "brief": "Federal prosecutors in Seattle and surrounding areas of Washington state are forfeiting court fights over detained immigrants because they don’t have the resources to keep up with the flood of cases.",
+     "link": "https://www.cnn.com/2026/11/10/politics/justice-department-prosecutors-cant-keep-up-immigrants-habeas",
+     "published": "2026-11-10T22:38:15.177Z"
     },
     {
-     "title": "What the House GOP’s Jim Jordan pick means for the direction of the party",
-     "brief": "House Republicans are still reeling after the midterm elections decimated their ranks and set off a fight for the party’s future.",
-     "link": "https://www.cnn.com/2026/11/10/politics/jim-jordan-gop-minority-leader",
-     "published": "2026-11-10T21:34:43.839Z"
+     "title": "Virginia man who admitted to dismembering his wife in 2024 convicted of first-degree murder",
+     "brief": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.",
+     "link": "https://www.cnn.com/2026/11/10/us/naresh-bhatt-murder-trial-virginia",
+     "published": "2026-11-10T22:36:15.227Z"
     },
     {
-     "title": "US Army soldier arrested in UK on suspicion of espionage related to Russia",
-     "brief": "A 41-year-old United States Army soldier was arrested in the United Kingdom on Tuesday on suspicion of espionage related to Russia, according to London’s Metropolitan Police.",
-     "link": "https://www.cnn.com/2026/11/10/uk/us-army-soldier-arrested-uk-alleged-espionage-russia",
-     "published": "2026-11-10T21:32:43.833Z"
+     "title": "Bond yields surge most in 19 months as traders brace for Fed rate hikes",
+     "brief": "US Treasuries slumped, pushing yields sharply higher, after hotter-than-expected inflation data and comments from a key Federal Reserve official fueled bets that the central bank would need to deliver more aggressive…",
+     "link": "https://www.cnn.com/2026/11/10/investing/bond-yields-inflation-fed",
+     "published": "2026-11-10T22:35:15.218Z"
     },
     {
-     "title": "US evacuates aircraft from British military base after threat from Iran",
-     "brief": "The United States has evacuated American military aircraft from a military base in England on Monday following a threat from Iran that was deemed credible, according to a person familiar with the intelligence that…",
-     "link": "https://www.cnn.com/2026/11/10/world/us-moves-aircraft-british-military-base-intl",
-     "published": "2026-11-10T21:31:43.836Z"
+     "title": "CDC chief says agency will not change measles response if US loses elimination status",
+     "brief": "The US Centers for Disease Control and Prevention will not fundamentally change its response to measles outbreaks even if the US loses its measles elimination status this month, CDC Director Dr.",
+     "link": "https://www.cnn.com/2026/11/10/health/cdc-measles-elimination-response",
+     "published": "2026-11-10T22:33:15.234Z"
     },
     {
-     "title": "A gay sex ban is overturned in Trinidad and Tobago. What the ruling says about LGBTQ+ rights and post-colonial identity",
-     "brief": "A British court has overturned a law prohibiting gay sex in Trinidad and Tobago, marking a milestone for LGBTQ+ rights in the twin-island Caribbean nation and nullifying a colonial-era law dating over a century.",
-     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
-     "published": "2026-11-10T21:30:43.830Z"
+     "title": "How Paraguay’s banking crisis toppled a staunch Trump ally in Latin America",
+     "brief": "Paraguay’s ousted President Santiago Peña is facing up to 15 years in prison after the collapse of a major bank triggered the country’s biggest political crisis in years.",
+     "link": "https://www.cnn.com/2026/11/10/americas/paraguay-bank-collapse-latam-intl",
+     "published": "2026-11-10T22:32:15.221Z"
     },
     {
-     "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
-     "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
-     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
-     "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "Despite denial, Trump was briefed on spy concerns related to Nvidia CEO during trip to China, source says",
-     "brief": "Secretary of State Marco Rubio briefed President Donald Trump on intelligence that Nvidia CEO Jensen Huang was in a relationship with a potential Chinese spy as they traveled to China in May aboard Air Force One, a…",
-     "link": "https://www.cnn.com/2026/11/09/politics/trump-jensen-huang-spy",
+     "title": "Man arrested after woman found dead in her room aboard a cruise ship hours after departing Galveston",
+     "brief": "A Texas man has been arrested and is facing a federal murder charge after a woman was found dead in her room on a cruise ship “with multiple facial injuries,” according to the criminal complaint in the case.",
+     "link": "https://www.cnn.com/2026/11/09/us/suspected-cruise-ship-killing",
      "published": "2026-11-09T12:00:00.000Z"
     },
     {
      "title": "Police investigate Ohio State fraternity for possible hazing after video shows two people on fire",
      "brief": "An Ohio State fraternity has been temporarily suspended after a widely circulated video captured two people whose clothes were on fire as a crowd of onlookers in university jerseys watched, an incident police are…",
      "link": "https://www.cnn.com/2026/11/09/us/ohio-state-fraternity-sigma-alpha-epsilon-fire-fight",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
+    {
+     "title": "Ukraine peace talks restart after 9 months. What makes them different this time?",
+     "brief": "A fresh round of peace talks between the US, Ukraine and Russia is underway in Abu Dhabi this week, as the Trump administration renews its drive to end the nearly five-year conflict even after it announced…",
+     "link": "https://www.cnn.com/2026/11/09/europe/russia-ukraine-us-peace-talks-preview-intl",
      "published": "2026-11-09T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Latvia, Lithuania warn of threat in airspace near Belarus",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSDNFZXh4ZnViQTNZdkpOZWJGUDRSdHBsUEpZZ2V2Q3RTSnNCVXYwcmk4Y3o3Um9ubGphM0cwcE1HYjBXTXBmdDBtSTNJQXYtRjNXWG9IVXJHLUNWZ2VNY3huNG53M3hjNVhHUFpZU3p5N1RKS3FMSmtqdjdlZUpsYWppNHlIbld0SFJKeUQxN1c3eG4tTldxTHZQR0pTRGFmX014bzBoeXM?oc=5",
+     "published": "2026-11-10T22:18:00.000Z"
+    },
+    {
+     "title": "U.S. stocks close lower",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41dW1TMktrelVSVzgwT1ZrbTc2WHVJdTVNS2I1akk5NWh3UFVxTTY4ZEVXSjNRZnVWMjZ1Z3hVV0tneVpoeWk4LVUtdUIzcnZBWlZTeDJPZ0wxRnFSR0NJMHVPTnhTT21ObjVLNXl0YjAxRXhHMmhzSEh3?oc=5",
+     "published": "2026-11-10T21:21:00.000Z"
+    },
     {
      "title": "1st LD Writethru: Tanker carrying 40,000 tons of Russian diesel stalls en route to U.S., says Kpler",
      "brief": "",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5abzVJSTFGbVVtbmtvVXNkeHZKWEU1TUJNeXF2S3dTSGNkWGlhRG84V2FzRkFZUTlpUWhTVlBMMXlKdTU4Tm1oc0NLWG9LTnI0SllaejlSNkF0QUNnblVLdHMyOWtSNV9odl9KRTNqeWVxanZEQ0E?oc=5",
      "published": "2026-11-10T20:05:00.000Z"
-    },
-    {
-     "title": "Tanker carrying 40,000 tons of Russian diesel stalls en route to U.S., says Kipler",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOR0tHcWRhLVlCanJkWTVUOXppWVJ5X2FwdWl4NVZHTTBVZl9ydDNHVW1JaXpBNF9OR3lOWmtsWHhEd0JPenNmVUw0YVdtZlFIU29CdXFIblNyV3JFSFAwcWd5M3pkOUlsemJaYmNacHVvTUdwM2xhbmRTZzh4UlFGTGY3UVFvZ0pJMXl0ejZlZkhNVU1lZFljOEJpSFBkMzRYeFE0Z2FzcVNTMV9pQXJOSHAxcllBU3NleFZfYkhtWERmM1lObUE?oc=5",
-     "published": "2026-11-10T20:02:00.000Z"
-    },
-    {
-     "title": "US Army member arrested in UK for suspected 'espionage' for Russia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbm1pZWdoeHQ1SEhoOEh2SWQ4YjA0bmhfeHhsRVpxeHFUWFBOR3M0OUV3N2hkdzJVWlZhZU5KOE5RdUtyRW9TRVNhMVVtUF85OEo1VVJQenc4TzlaTTZVbFFXUGRkZVVTOUdHTm9FMUtiR20xek5fcFJsc05VcmlpclN3cTg5VXBnN1RKMEhhbnEtcURjVWVUc3ZwZzVIelJhTXM2dw?oc=5",
-     "published": "2026-11-10T19:17:00.000Z"
     }
    ]
   }
