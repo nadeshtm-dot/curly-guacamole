@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-10T04:48:34.937Z",
+ "updated": "2026-11-10T05:50:01.102Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "81-year-old sci-fi author M. John Harrison wins the 2026 Booker Prize",
+     "brief": "British author M. John Harrison’s novel “The End of Everything” has won the 2026 Booker Prize, considered one of the most prestigious literary awards for a work of fiction.",
+     "link": "https://www.cnn.com/2026/11/09/style/booker-prize-winner-2026-m-john-harrison",
+     "published": "2026-11-09T12:00:00.000Z"
+    },
     {
      "title": "China set for record trade surplus as AI boom pushes it past $1 trillion in just 10 months",
      "brief": "China’s trade surplus surged past $1 trillion in the first 10 months as a global race to build AI infrastructure buoyed sales of high-tech products and helped offset weak domestic demand, a dynamic likely to sharpen…",
@@ -46,12 +52,6 @@
      "brief": "A federal judge in Florida has ordered a psychiatric evaluation for Thomas ​Markle, the estranged father of Britain’s Duchess of Sussex, Meghan Markle, to determine if he ‌is mentally fit to answer to charges…",
      "link": "https://www.cnn.com/2026/11/09/us/thomas-markle-psychiatric-exam-judge-order",
      "published": "2026-11-09T12:00:00.000Z"
-    },
-    {
-     "title": "GOP Rep. Lauren Boebert will lose reelection to Democrat Eileen Laubacher in Colorado, CNN projects",
-     "brief": "Retired Rear Adm. Eileen Laubacher, a Democrat, will flip Colorado’s 4th District, CNN’s Decision Desk projects, ending conservative firebrand Rep.",
-     "link": "https://www.cnn.com/2026/11/09/politics/lauren-boebert-lose-reelection-eileen-laubacher",
-     "published": "2026-11-09T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "63 students hospitalised after fire at Bangladesh madrasa",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOHdOVHA4aEIwWS1NWXhpemdKZTA4QlZzcVJ2NkJXM1BlYkZ5R2h0cWNDREZLZDNYVjdHVmlsNDVOZXM0MFg4UzdQZVBMd0hWa2oyblNtWjc2NmI1NE1Wa0Z3aEplckVtRGNna0J5ZDNGaEVfdzhKWUlVSnRPdXE5STlhTUV2cmJyNWJhOFBHUTBqMGhzZXI3SUwzNE9xa0kzSnU0RjlWaGtVM01PejUyanN4UHQ1aFladDcxcg?oc=5",
+     "published": "2026-11-10T05:37:00.000Z"
+    },
+    {
+     "title": "Sara Duterte impeachment trial: Witnesses may face contempt over ‘mockery’",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSTRLYllhbnp6Vnp6ZHFILUVsZ05fU2hrOTRuRlhNRnJvVEV6al9lRXRiZ2pseFkxUkcyMHZ4bUZvU1ZxOVpPSTBTVHU2WE1uTjg4YW5OcFA2MV95TFl1czRKeldBM0RWeG1CYTllVmxXQ29PZzFQYlA4aldUN0FfS2NFaWhfVHF0bmpGRld2cVAxMEp2VEd6RWs3RXpUWFotb0NCMjBtZG5nMXRmOGMxNjhFWTZVNWJYaGhiaXk1MURCUUVVNE5vQ3VuSEwtWWs?oc=5",
+     "published": "2026-11-10T04:56:00.000Z"
+    },
     {
      "title": "EU plans crackdown on addictive social media and AI bot features",
      "brief": "",
@@ -78,15 +90,15 @@
      "published": "2026-11-10T04:05:00.000Z"
     },
     {
-     "title": "Power interruptions affect water supply in parts of Brunei",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWc2UGJOcnpTZmU4RHFUWXhfYXNLV1FxNHo5UkFieWctd2VrdHR2SkNxcm0wQ2gwR0RzR3NHNFV2ZTZFY2h6Wmc1TjJQYi14WE9OT25lNTlCaWFuMDNTaTd5XzI5UXRHSTMtOWRDM01lODJzcEI5RktyY0J1T3MzdjZUTDhkbDZBLUdPMjlwSTQ2cFdWZ1hZNjEtOWh1SjRDM21qaUhmYUE2bEU2MzByalhZYWJFR0ZXdlVfUUpB?oc=5",
-     "published": "2026-11-10T04:04:00.000Z"
-    },
-    {
      "title": "Badminton: Zii Jia crashes out in Japan Masters qualifying round",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0F4SDhveld5Y3dlR0g0SElZLVhXTFpYc0lITTdSUVFnSHdTTXVrVms0Qzdfd25LOW9FVUZMN2JLdG0xa1lyRlhUTFYzSkVpODNBWmhkakRWc2ZtdnNKdEZ4QnZhZThtNTdwVlBXM2JQSW9fT2xNajBwMDZfcktBdjFlN1l3bC13VV92dnRBRkIwbDZCZTJnMm9BMVlOQmRYdk1mamd0SUtYeDg?oc=5",
+     "published": "2026-11-10T04:04:00.000Z"
+    },
+    {
+     "title": "Power interruptions affect water supply in parts of Brunei",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWc2UGJOcnpTZmU4RHFUWXhfYXNLV1FxNHo5UkFieWctd2VrdHR2SkNxcm0wQ2gwR0RzR3NHNFV2ZTZFY2h6Wmc1TjJQYi14WE9OT25lNTlCaWFuMDNTaTd5XzI5UXRHSTMtOWRDM01lODJzcEI5RktyY0J1T3MzdjZUTDhkbDZBLUdPMjlwSTQ2cFdWZ1hZNjEtOWh1SjRDM21qaUhmYUE2bEU2MzByalhZYWJFR0ZXdlVfUUpB?oc=5",
      "published": "2026-11-10T04:04:00.000Z"
     },
     {
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOVVDUkU1eW1qa0g1aDlnSGpSM012ZnNFaF9aTXA5SlBjZEJDbFc1R2lZb2hGVDI4Y3lNMmY3aE92S1J3RmVMczFfUXhfMUkzOXNkV0JMZWpLOVVfZDVIblc3Wk0zWTRodFpkQktWZlB4ZXNKbWs3OWJOUXZHdDJiVlktbW9ReFZxdi1XNy1HdTFDMy1KWUd1ZWFB?oc=5",
      "published": "2026-11-10T04:01:00.000Z"
-    },
-    {
-     "title": "Toddler who fell into Gopeng river found drowned",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTNhM1dGR29sQTRIOGNqbUNfS2dBVDFvTXUyMjlFQmQtV200bzBrZTJGNkJSWFJmUmhacW0yai0xendOWllOMVZWbzlPX3k0ZW8zVDN0b3Y1N2ROMmlFazJvcVJSLWtjdV81aUlSSktDbXJZUFFYRk95cVU5Q0ZOdFBRWlpaOU5UNU1ndE1yMDRKUmRfLUZXcnFTdEFZTUk?oc=5",
-     "published": "2026-11-10T03:34:00.000Z"
-    },
-    {
-     "title": "Southern Myanmar region earns over US$52mil from fishery exports as airport expansion promises growth",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS2RjM0x3SW8yTV8wVzJ4bk42X1NaRUlqWENLRXJoa3VEZ09Ga19DY1lUbjE4Nmk4UldPWWYySldMcU51MFg2bnJhWE5kcGNzb3NLZGtEc3BuVkJ3QmJocEtoZDZNeGxiUUNKWk5feG1tclZBMGpxVE9HQUExXzNBbGlUNWJzeUlDNllzakZtb2lfV0NTMjlTRFZqb3pQc3Q3alljWjF3SXVTVUxjcEY0X1RwUllFWGpnNVQ2X0xKbkVIYWRtUWRCb19KTDRkbFRFSk9IalhtQ2htRFZRTEkxMlNrWDVXRlhlSjdXRlY5bVM1d2xCTHc?oc=5",
-     "published": "2026-11-10T03:26:00.000Z"
     }
    ]
   }
