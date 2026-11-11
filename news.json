@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-11T03:50:34.442Z",
+ "updated": "2026-11-11T04:54:35.828Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Tech consultant sentenced to 16 years to life in stabbing death of Cash App founder Bob Lee",
-     "brief": "The tech consultant convicted in the stabbing death of Cash App founder Bob Lee was sentenced in San Francisco on Tuesday to 16 years to life to prison.",
-     "link": "https://www.cnn.com/2026/11/10/us/nima-momeni-sentencing-cash-app-founder-death-hnk",
+     "title": "At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say",
+     "brief": "At least three people are dead and two others are injured after an SUV crashed into a group of street vendors and pedestrians near a Metro entrance in the North Hollywood neighborhood of Los Angeles, officials said…",
+     "link": "https://www.cnn.com/2026/11/10/us/north-hollywood-pedestrians-killed",
      "published": "2026-11-10T12:00:00.000Z"
     },
     {
-     "title": "At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say",
-     "brief": "At least three people are dead and two others are injured after an SUV crashed into a group of pedestrians near a Metro entrance in the North Hollywood neighborhood of Los Angeles, officials said Tuesday night.",
-     "link": "https://www.cnn.com/2026/11/10/us/north-hollywood-pedestrians-killed",
+     "title": "Tech consultant sentenced to 16 years to life in stabbing death of Cash App founder Bob Lee",
+     "brief": "The tech consultant convicted in the stabbing death of Cash App founder Bob Lee was sentenced in San Francisco on Tuesday to 16 years to life in prison.",
+     "link": "https://www.cnn.com/2026/11/10/us/nima-momeni-sentencing-cash-app-founder-death-hnk",
      "published": "2026-11-10T12:00:00.000Z"
     },
     {
@@ -60,10 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Philippine Coast Gurard suspends sea travel in Palawan due to rough seas",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMk82aEEyZUxWeWZYYmFGMDhnbDd6QTRUTGVVTnU1VV95cV95dVVpcEYtZ2k2RnM2TFU1NnEtajNxNXFOVi01NzlmN2J2SG90TUFwaFNzR0ZzZVhScnU1aHZNWDlISnNna3V0TkY0MXpGb0EwaUFWN25ITk54RmV6OWNqVTNHUDlvOUNmeno3M19FZ2VKWU0wSFp0Z2Q2MUIxbE0ydUpXSXZOYWtzUHZkWC0yMDJZd0YycDNWZEtnOFZGbHBjbWtkZGY4SlFHME5R?oc=5",
+     "published": "2026-11-11T04:30:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Ngumoha has Ballon d'Or in his sights after taking inspiration from Kane's triumph",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNamUxR2pSdEZRS2V5dUxIUFl3ZlExZE5MczBQazI3NWVCdUxPMUlOZUF3NldCekJyVG41NjBIWkU0dDNuWFQ3bkZUX25YeGJURm1fakpiVHlkbHI3QV8zNENzd0EyZWhhNnhrbk5pZm85cGRra2xnaG9nTFBLbWFDU3RuZkR3bDRqVzlxTHMwTVpQeXNVajFITTNWc2cyMlhGbEl2d19UTk5nUzRzdThUOWtGQlhuOWdDSU56V3N2X3VWMXBXOUxTbTUtdzhhcnpreDBLM19mbUktVHNwb0Yw?oc=5",
+     "published": "2026-11-11T04:12:00.000Z"
+    },
+    {
+     "title": "Brunei launches \"Measure Right, Fair Trade\" awareness campaign",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaEp5ZXB2NThld1dmeVpsTzJKa05LN01ETURNMWhHRHhYQ29YX1NOVnFPU3RtWk1VMFFwSkNNWE9wNEsxLXROYVJLZFFKTjFWcWxSRGRGVHNWZ1dkSEo5WFFRdENzX3pSeFpUX055elBLcnh2cmdYSTBQbFJNUV9xRy11OTBFNEZ0ZlYtRHYyLXVuNGN3QjFxLVVQZWpRSlZzcWNGMlQ0cWZqTXpKYjJMLW5IbzAyY3FQdjV6R1lqTQ?oc=5",
+     "published": "2026-11-11T03:43:00.000Z"
+    },
+    {
      "title": "Laos gears up for annual That Luang festival",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFh5LUZNZFR5NEV0VHV6QnJ3WGRzMVVDOW1fLWljSkVPUEFZTElwM2h1XzNaTWh5X3VQWlo5TE91VWZWRmJmSmd1YWd4VFpxdDY1ZENEQ0RuZmtsSEdYTGJwRVlyV250THk5cDdNRUV4X2t4N1JjbzBGSl95c3g4OTA0SkpfMHVfc2F2eTROY2RrR3RQblVfNzN0dV9HSHc0ZnBhcG0xX0JSUGc?oc=5",
      "published": "2026-11-11T03:18:00.000Z"
+    },
+    {
+     "title": "Indonesia's top Muslim clerical body declares e-cigarette use haram",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXY3elEza2tTZHVpcTJUUjZ1eVQ3VjhpUG1pRS02bUdRUjNKNGZ6MFJjdjA3dDZoOGNmYUg5MnVFTlRXZEo4VTRDOXU4WTctamkxX3VOczBhNVVVUDNrVG1KVmtodXpMRWlFTTVwMUFjNzRpNjVrSWl0WG1zTEphWVB0SVBLZ2FFaGhVeUROUVQ4R3F3a18ycDdlS1FxR0N4b0Rma3RWQ2UxRDcwcDBoV1lPUERCdXMyQkhnRGtVYXNOOEV5VTNwTE9RRjc?oc=5",
+     "published": "2026-11-11T02:33:00.000Z"
+    },
+    {
+     "title": "PlayStation cancels online shooting title ‘Fairgames’",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdUM1Mi1UN2JBd2F2eHlVRDZMbmY5QzV4ZnJtdm54Ul9YeTlQMEZOeDVIaGtMZzNPM0JmeFhTckM3X01FTVktVnBnZE1WcHZ2cndjVDRwU3BnWmhpMGN0cjJySFRMeGplak53OWNjb3JpNDRaS24zWC1jZDBDNFZkWEFERU1fNC1NQUlkUG9rSU9MRzZBVEVyV2c2SkRMUGh1eklkaUNsSQ?oc=5",
+     "published": "2026-11-11T02:00:00.000Z"
     },
     {
      "title": "Nine people seriously hurt in South Korea bus crash involving multiple vehicles",
@@ -76,36 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5iXzVfaHQ4d09EOVBsdXA5anh2NTZYWWJiSTEtNDFZNlpFMVJtVXpYSmY1Y3A0bDdkQkZUXy1wR0o3djJUVTl3LTFFV1pVODNGWVRfUXRrdkFiLWROWEZURjhHQmMzdkJrand5Z1Fid1dMNHdVVld1REFheXZKa0ZMcEZ3R1VuTEFpdU1zcWk5Ym9iMVQ2OGVyX0RnOTVHQmIzOVg1c0otUVU?oc=5",
      "published": "2026-11-11T01:42:00.000Z"
-    },
-    {
-     "title": "Govt sets noise, water use limits amid data centre boom",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdDhHM25DNEVXYnRsZjA5Nk8zWEx3dE55V05TRi0zVTd0aThzNDVUZXdONEFadVpnSmdJRlpCY2MxZkxJTFJ6VllIb0NnNUtxNFZHUV9neEFqNzBlTGdWTHJacklOLW5SeTJudGdfUkR2b0hsSWFEWnZOVFMwZmllU3Y4TUNIZW5aU1NEdEVxVlVzcG92TU9tOGFqckMyaTQ1dlRqalJ3VVZZNURLU1Q0RHB6U21RdEdM?oc=5",
-     "published": "2026-11-11T01:04:53.000Z"
-    },
-    {
-     "title": "OpenAI posts steep losses even as quarterly revenue rises to $10 billion, WSJ reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlJjRFpFVzhtMXdfS0NkSUZ6OTdldHlqT1NDcy1tYTVMbXMyTFlOMkdMZlRPUlJpcnJORDlVRnNXUGtEQjY3RHdjcFdnckx5bWdpVlc4bGRXOXp4UFBNRXZhRTZKbldUbmlKblg3Yl91ZFVJZjJodmc1SFd4TXQ2Vng3TzY5NWF4MEc0Z1BOSEhzMUdnMDlmM3ZJUWZidzZGdkVCaXg4S0ZST2RvODJrZzdHY3UzRFNqX3ZVdld4ZjBab3Uzd1U2UlUwaWc4TXRJTlE?oc=5",
-     "published": "2026-11-11T00:54:00.000Z"
-    },
-    {
-     "title": "Cricket-Conway, Ravindra in New Zealand squad for India test series",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVFsZDVwS1d4ekplc3ZqcWduY3V3QlJUeEtjR1dZTU92aW1ESTdLMUtxMmZBT0d2WS1aYTdSX192bHZnWTVBV3V0WFJzMUdOcHJHUmVvemx6VG91aFZMbHhEV0NCWUtsako3TU5KZjl0ODJwbWs5ci1NMW5FYzdRcWdaR0N4Z3dxNXRkY0NyVHh1OGhKUzVVeWNqck1CbV9TNEV2Z0tjU3luTktXWUxBdEt4OUVDU1I2M2c?oc=5",
-     "published": "2026-11-11T00:39:00.000Z"
-    },
-    {
-     "title": "Russia shoots down 92 drones over Leningrad region",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNjN5bkNqUkhsbkR1X1VmZ0ZXUS04TW1fQW45NTkxRHFZNGswdzZWT3lYaW1idnlyYXdkRVpOTGtRb211QWpYZXNObkFLWGZJemxTX0pEZ21EenlhOFdnSGJiR3NnaXZJNmJON2VaNU9jY0tyNExWRUxzNVd1TG1BN2tLQ05Jb2lyUVJsTFFzcVFDUDN1T3V0NEhJdmdGRkpL?oc=5",
-     "published": "2026-11-11T00:36:00.000Z"
-    },
-    {
-     "title": "Wall Street regulator poised to bring charges against Kalshi, Politico reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWR4ejJiOVFJMnhiQ2V2elhDTlJOUlRxZ1MxTkxWVVdSZnZfdE0yWjBEeTBPTk5oLW5nU1cxV0xRX2F3eFpVWUp3ZDItN3MyaFF1YW9zaGhUZFI1NXBMRnJkMEo2d2tnZTFUcjVWRXFmVWlZMnN4dncyR2JDSkQ5MVBNdEZpeFpva1BNaWJMbjJFeTMwOHJISGdYdEhIeHZYa25BR1pKU3VMN3JWanVMNnp3Z1hwcWdTamo2amx0U0tzX0VZWmdnY2ZB?oc=5",
-     "published": "2026-11-11T00:27:00.000Z"
     }
    ]
   }
