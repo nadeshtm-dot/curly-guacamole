@@ -1,51 +1,57 @@
 {
- "updated": "2026-11-11T21:29:39.113Z",
+ "updated": "2026-11-11T22:47:54.694Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Millions of Spaniards stage first general strike in 14 years as anger rages over housing",
-     "brief": "Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up picket lines in a protest against the country’s housing affordability crisis less than three…",
-     "link": "https://www.cnn.com/2026/11/11/europe/spain-strike-housing-latam-intl",
-     "published": "2026-11-11T21:29:39.603Z"
+     "title": "Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy",
+     "brief": "Riding on horseback to visit the most isolated Andean areas of his community, distributing food amid the Covid-19 pandemic, or wearing rubber boots in the water and mud of floods: this is how many Peruvians remember…",
+     "link": "https://www.cnn.com/2026/11/11/americas/pope-leo-peru-visit-latam-intl",
+     "published": "2026-11-11T22:47:54.930Z"
     },
     {
-     "title": "Clinging to life and crying, a baby was found buried alive a day after his father took him, investigators say",
-     "brief": "Trapped in a dog crate and entombed beneath a foot of dirt, a South Carolina infant miraculously survived 24 hours buried underground, authorities say.",
-     "link": "https://www.cnn.com/2026/11/11/us/south-carolina-boy-buried-alive-hnk",
-     "published": "2026-11-11T21:28:39.416Z"
+     "title": "At least 1 dead and 2 injured after 3-story Brooklyn building collapses, officials say",
+     "brief": "At least one person is dead and two others seriously injured after a three-story building in Brooklyn collapsed Wednesday afternoon, a fire department official said.",
+     "link": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse",
+     "published": "2026-11-11T22:46:54.920Z"
     },
     {
-     "title": "Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier",
-     "brief": "A US Army sentinel guarding the Tomb of the Unknown Soldier reprimanded Defense Secretary Pete Hegseth and a group of his senior advisers Wednesday after some in the group laughed and talked near the solemn memorial…",
-     "link": "https://www.cnn.com/2026/11/11/politics/hegseth-reprimanded-guard-tomb-unknown-soldier",
-     "published": "2026-11-11T21:27:39.421Z"
+     "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work",
+     "brief": "Nvidia CEO Jensen Huang has spent more than three decades building a company that has made him one of the most powerful figures in tech.",
+     "link": "https://www.cnn.com/2026/11/11/tech/jensen-huang-nvidia-affair-profile",
+     "published": "2026-11-11T22:45:54.917Z"
     },
     {
-     "title": "See which 11 Democrats missed the Pete Hegseth impeachment vote",
-     "brief": "The House of Representatives voted on Tuesday evening to send an effort to impeach Pete Hegseth to committee, effectively killing the movement to oust the defense secretary before the end of the year.",
-     "link": "https://www.cnn.com/2026/11/11/politics/pete-hegseth-impeachment-votes-vis",
-     "published": "2026-11-11T21:26:39.425Z"
+     "title": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
+     "brief": "After years of Republicans going to extraordinary lengths to politicize congressional oversight and target President Donald Trump’s enemies, his administration is now issuing stark warnings to Democrats to not…",
+     "link": "https://www.cnn.com/2026/11/11/politics/trump-democrats-investigations-robert-garcia",
+     "published": "2026-11-11T22:44:54.906Z"
     },
     {
-     "title": "Russian ambassador to US dies suddenly, foreign ministry says",
-     "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, the Russian Foreign Ministry said on Wednesday.",
-     "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-     "published": "2026-11-11T21:25:39.427Z"
+     "title": "How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat",
+     "brief": "Raphael Warnock wasn’t trying to make the crowd laugh.",
+     "link": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats",
+     "published": "2026-11-11T22:42:54.927Z"
     },
     {
-     "title": "Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
-     "brief": "Hundreds of schools across Italy were evacuated on Wednesday after bomb threats were sent to about 6,300 institutions, becoming the latest in a series of incidents targeting infrastructure across Europe.",
-     "link": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl",
-     "published": "2026-11-11T21:23:39.423Z"
+     "title": "House Republicans’ middle is disappearing",
+     "brief": "In the painful days after last week’s election disaster, Dave Joyce, a senior Republican from Ohio, delivered a warning to fellow Rep.",
+     "link": "https://www.cnn.com/2026/11/11/politics/house-republicans-maga-trump",
+     "published": "2026-11-11T22:41:54.922Z"
     },
     {
-     "title": "How the Jayson Tatum-Jaylen Brown beef turned a November game into an NBA Finals-esque atmosphere",
-     "brief": "It’s rare for a November game to feel like a Game 7 playoff tilt, but Tuesday night’s showdown in Philadelphia between the 76ers and Boston Celtics certainly delivered that kind of electric atmosphere in spades.",
-     "link": "https://www.cnn.com/2026/11/11/sport/jayson-tatum-jaylen-brown-showdown",
-     "published": "2026-11-11T21:22:39.408Z"
+     "title": "Irma P. Hall, ‘Soul Food’ and ‘The Ladykillers’ actor who found fame at 60, dies at 91",
+     "brief": "Irma P. Hall, the veteran actor who brought warmth and authority to matriarchal roles in “Soul Food” and “The Ladykillers,” and whose acting career took off after decades as a teacher, died Tuesday in Dallas.",
+     "link": "https://www.cnn.com/2026/11/11/entertainment/irma-p-hall-death",
+     "published": "2026-11-11T22:40:54.925Z"
+    },
+    {
+     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
+     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
+     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
+     "published": "2026-11-10T12:00:00.000Z"
     }
    ]
   },
@@ -54,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Chilean mother reunites with children taken under Pinochet dictatorship",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT2IwMThjT0tyNVp3TElEcFZ2eEkwVkZyRjdIUFU4aW4yNzlhSlJoa3MxWmRiSUpnTVFxbEl4SFhiaHdpMTJxU2N1aEVmM2JUNnBqdlk0N3lSRFZiWWgxelNDR3ZyTXRDMi1fR25qTExqV1Z1QWExdS1JOGxfSXBZVFVIVXI2XzlVZzNEc0ZsZ2lKQTFiWmI3WW1OUnBLZmVVU3Zqa2ZjMDRfSTdqV2dLcTdnT294eEpCTXRnbQ?oc=5",
+     "published": "2026-11-11T22:39:00.000Z"
+    },
+    {
+     "title": "MMAG says freeze on bank accounts lifted",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWVjWGtaV3JwSGJIa1hESm44REZiV3hCZDYycEdoVWwybzB5N2oxei1FeWtVV0xiT0xsU1FvMjlta0VOdXlWZlhqM2ZCZFZYLVlOWktQMG5EU3FzdmExUHFNVi10bGJtMmpRNndxWklDV2pHZTNRenRPUVJ4WWgxNGQwTXVLUUhWdlJpTGxWZV9ick55WHdNd2N0alljS1YxRUN3?oc=5",
+     "published": "2026-11-11T22:06:17.000Z"
+    },
+    {
+     "title": "Betamek’s net profit falls 32% to RM7.07mil",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOWE3Tm9NOFAwVmxIVVk4bVBLQ1RYaXI4azlxbGJ5MDJqbGF0WEx2Mk1WR3hHMDhEQmZWTDgzekh1SmpudUlYVUhmeGE0ZVRvd1I5bGY0OVUyYkJXemRjSzB1Q0lJZkRPWXVaRGtQcnlONzJEU1JzRFFvaVVYYk5vSGtwVHFIeUxnQ3pLZTU3RUgyWmFBN3g1TkxsLVJ3SFRUNWxV?oc=5",
+     "published": "2026-11-11T22:03:35.000Z"
+    },
+    {
+     "title": "FBM KLCI extends decline to close lower",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdDI0ckpqa1NYQ3I4Yjc3REUyenBuSFA2VmNnellubjNQSzJWMWtUMjRKWTFKSzRrd1NadjFJTUROeWpnN0NxN2ZKZVUwbEhtc25ZQllIV3YwR1hvTzhzazNWMWZ4SGhNV092WjlpeHFJcWFqZThwQ2YwZlBVUkhhMVFvNEoyYVBYcWJWVjVJMWtyaHFoU1djRm5GLU9fUEx1VFE?oc=5",
+     "published": "2026-11-11T22:02:43.000Z"
+    },
+    {
+     "title": "Swift Haulage quarterly earnings rise",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWGJ5b1B1T3RNdG9tMWJGNTJtN0c5SFRxeUg2bGJncHRHZUpvRmhQbW5tc0tPTjdBUnQwVEc3b3Z6WkFPRlFkYnp0dHpuR1NvSkR0Y2tlRWk3dWNqelkwTFNrWFpZNEpDOThNb3lDUm9ibW45ZV9USFVXc1o4Q2l1WGpicWJTY3V3SHY3d0FxQm14YUNaZTBHM2pnOVVzNE0?oc=5",
+     "published": "2026-11-11T21:56:15.000Z"
+    },
+    {
      "title": "More Chinese companies plan to invest in Germany, survey finds",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHJJTTdvcEJfYXYxUGVQZFd3bC1peThLaUw0YzlRcjdsbER4TDNUcW9TZlZvWUw1MEJCT0RGUXdEaUthcUV2TGZkcmotOGpTcV92UjBHV0NjM1JSSHAxMEkyWWFGbGhCYU5nQ2hqX1ZtTnhfSTY5RnNnZllqcThSckI0WmtUMjAtQTdyTVJkejVBeDdjanV3RzhpY2ZOZXNsTlhOMzF2QUlNNGJsVnJn?oc=5",
      "published": "2026-11-11T21:10:00.000Z"
-    },
-    {
-     "title": "Other Sports: Sailing-France's Barrier first woman to finish Route du Rhum in Ultim class",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVV9RUGxKRHJoWmIzbTQtUVZhUXdBWnNramRvV19OZGthRFNUYXk4MGtnSVNNZGVrZThiRGJDTW1NTmVLaGlhWW95SC1UZ2FzYnplSkMwQWRlbFhoelpubkV2ajFqdnljRDJhdGdJTHFFVEphM0I5S3FQRWVqcldpQWFwZjhoWW12N0xZcjJLQk5GRDdWdWtXSnB1Y19fcTdLQ095bF9FREZubW4zaHpmYlY0ZnBQZHVNMnlZQk5RTG5LNXFtUzhJ?oc=5",
-     "published": "2026-11-11T21:09:00.000Z"
     },
     {
      "title": "Ukraine's Zelenskiy says progress in peace talks hinges on US approach to Russia",
@@ -75,37 +105,13 @@
      "title": "Rivertree to buy Q Centre Management",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzdwRzhTNER2QnludEU5UC1KS096V1hkN2ZUcnFLeEZOZDVYRGNQTnhGQlo5QVhRUlRsWnZjRkJfSkRZc1NWZVk4Q21XS040QXNuMElVMXNxaUoyUHJRdXFvWW5XMzFhWmlaeDVyR0NvdzdFdVZ2SjJHUHJ2YkVmUjl0YnNtRzA3Y0hxWlYtTDVMbkphZi1Id21wMlFOQQ?oc=5",
-     "published": "2026-11-11T21:00:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Mbappe out for France's Nations League fixture",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ19VQXlncV9wbV96OVNycEdMb3doeDdZYTRDVHBJMHJtZnVRNU5idF91NDUxY2RpMnFZUkFaMXZDRFBJb0tKZ0FraXV5cF9XRFI2MEdUa3pESE11NnBZZmRIeVc0eGl1Q3hMdFNWNmR6Tlh3SjdBQWhUbTM3bUZ5TXJWVnBzeVZMR1RuUUtVZkFwTk5vVDdNYjBxTVVZUmNVRDNpdERUeXcyODk2?oc=5",
-     "published": "2026-11-11T20:56:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Belgium get Doku back but Lukaku out with hip problem",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3ZEXzNxR2RFc1h4QkVjOGk2RFBPYXRISW1zQzJyNkcyenZxUEdIMVQtX2N5SXFMXzJiR1RFWkp0T1FKaHNxVGt5N3JocDNLUTNYVWlRalU1TmpKbzNrY0xjVTl6S2NmbEh5UEMyV29MMzNhTDY4UVVnVi13Zy1MM1B6VGd6SUF4WUVzV2tFN3lSR212R0ZOcG9XamRvNXM2SGFEZXVSRVdVMzk4Q3BNT0lfZw?oc=5",
-     "published": "2026-11-11T20:16:00.000Z"
-    },
-    {
-     "title": "Guinea hosts mining summit for investment, economic diversification",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzVGTEhIa0ZNR09jVHN6YW1YVWZKLVhyVmY1bWM1emdPb1R1c1owLXp3V09QZFJBOVVZZTBzOXdNaEtvbEU5eG56NGlRYnVtZC1PSUg4N1UtOHIyem9ESVltd2JrNGc4aDlXQURNb1FJbWM3N19ScEJ6Zi1OdHhsZ0NTZmRlMkJnZDNOaXhuQk90dlFsOXA1cFZ1MnM1bF9ZT0lXQmRIOE81VEtuMUZleVFfN0pnQQ?oc=5",
-     "published": "2026-11-11T20:15:00.000Z"
-    },
-    {
-     "title": "Crude futures settle higher",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTRvOVhLM2J0QTZmODUxUmJ3dVVzTDYwNVRQalFvcnFDMmU4eE5BS3NhZEVJSmxaalQ1Q0EzNm5GbzlXcVptQ0JOTFR6N19pUkZ2ejl1UGttNUhrVmN2V1lCYlFCY1JIVEpRWGVKLTdRMmxvNWk0b1o4UUR5YnV1Q3VB?oc=5",
-     "published": "2026-11-11T20:13:00.000Z"
+     "published": "2026-11-11T21:01:34.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
