@@ -1,57 +1,51 @@
 {
- "updated": "2026-11-11T19:54:51.168Z",
+ "updated": "2026-11-11T21:29:39.113Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
-     "brief": "Hundreds of schools across Italy were evacuated on Wednesday after bomb threats were sent to about 6,300 institutions, becoming the latest in a series of incidents targeting infrastructure across Europe.",
-     "link": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl",
-     "published": "2026-11-11T19:54:51.308Z"
+     "title": "Millions of Spaniards stage first general strike in 14 years as anger rages over housing",
+     "brief": "Four million Spanish workers took part in a general strike on Wednesday, unions said, enduring stormy weather to set up picket lines in a protest against the country’s housing affordability crisis less than three…",
+     "link": "https://www.cnn.com/2026/11/11/europe/spain-strike-housing-latam-intl",
+     "published": "2026-11-11T21:29:39.603Z"
     },
     {
-     "title": "How the Jayson Tatum-Jaylen Brown beef turned a November game into an NBA Finals-esque atmosphere",
-     "brief": "It’s rare for a November game to feel like a Game 7 playoff tilt, but Tuesday night’s showdown in Philadelphia between the 76ers and Boston Celtics certainly delivered that kind of electric atmosphere in spades.",
-     "link": "https://www.cnn.com/2026/11/11/sport/jayson-tatum-jaylen-brown-showdown",
-     "published": "2026-11-11T19:53:51.361Z"
+     "title": "Clinging to life and crying, a baby was found buried alive a day after his father took him, investigators say",
+     "brief": "Trapped in a dog crate and entombed beneath a foot of dirt, a South Carolina infant miraculously survived 24 hours buried underground, authorities say.",
+     "link": "https://www.cnn.com/2026/11/11/us/south-carolina-boy-buried-alive-hnk",
+     "published": "2026-11-11T21:28:39.416Z"
     },
     {
-     "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+     "title": "Video shows soldier reprimanding Hegseth and advisers at Tomb of the Unknown Soldier",
      "brief": "A US Army sentinel guarding the Tomb of the Unknown Soldier reprimanded Defense Secretary Pete Hegseth and a group of his senior advisers Wednesday after some in the group laughed and talked near the solemn memorial…",
      "link": "https://www.cnn.com/2026/11/11/politics/hegseth-reprimanded-guard-tomb-unknown-soldier",
-     "published": "2026-11-11T19:52:51.371Z"
+     "published": "2026-11-11T21:27:39.421Z"
     },
     {
-     "title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say",
-     "brief": "Treasury Secretary Scott Bessent challenged Commerce Secretary Howard Lutnick over his department’s reluctance to label Nvidia customer Megaspeed a possible national security threat in a Situation Room confrontation…",
-     "link": "https://www.cnn.com/2026/11/11/politics/lutnick-bessent-confrontation-megaspeed-nvidia",
-     "published": "2026-11-11T19:51:51.369Z"
-    },
-    {
-     "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work.",
-     "brief": "Nvidia CEO Jensen Huang has spent more than three decades building a company that has made him one of the most powerful figures in tech.",
-     "link": "https://www.cnn.com/2026/11/11/tech/jensen-huang-nvidia-affair-profile",
-     "published": "2026-11-11T19:49:51.365Z"
+     "title": "See which 11 Democrats missed the Pete Hegseth impeachment vote",
+     "brief": "The House of Representatives voted on Tuesday evening to send an effort to impeach Pete Hegseth to committee, effectively killing the movement to oust the defense secretary before the end of the year.",
+     "link": "https://www.cnn.com/2026/11/11/politics/pete-hegseth-impeachment-votes-vis",
+     "published": "2026-11-11T21:26:39.425Z"
     },
     {
      "title": "Russian ambassador to US dies suddenly, foreign ministry says",
      "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, the Russian Foreign Ministry said on Wednesday.",
      "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-     "published": "2026-11-11T19:48:51.373Z"
+     "published": "2026-11-11T21:25:39.427Z"
     },
     {
-     "title": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
-     "brief": "After years of Republicans going to extraordinary lengths to politicize congressional oversight and target President Donald Trump’s enemies, his administration is now issuing stark warnings to Democrats to not…",
-     "link": "https://www.cnn.com/2026/11/11/politics/trump-democrats-investigations-robert-garcia",
-     "published": "2026-11-11T19:47:51.368Z"
+     "title": "Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
+     "brief": "Hundreds of schools across Italy were evacuated on Wednesday after bomb threats were sent to about 6,300 institutions, becoming the latest in a series of incidents targeting infrastructure across Europe.",
+     "link": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl",
+     "published": "2026-11-11T21:23:39.423Z"
     },
     {
-     "title": "Driver arrested on murder and DUI charges after 3 killed in North Hollywood crash",
-     "brief": "A minivan driver has been arrested on three counts of murder and driving under the influence after crashing into street vendors and pedestrians near a Metro entrance in Los Angeles’ North Hollywood neighborhood…",
-     "link": "https://www.cnn.com/2026/11/10/us/north-hollywood-pedestrians-killed",
-     "published": "2026-11-10T12:00:00.000Z"
+     "title": "How the Jayson Tatum-Jaylen Brown beef turned a November game into an NBA Finals-esque atmosphere",
+     "brief": "It’s rare for a November game to feel like a Game 7 playoff tilt, but Tuesday night’s showdown in Philadelphia between the 76ers and Boston Celtics certainly delivered that kind of electric atmosphere in spades.",
+     "link": "https://www.cnn.com/2026/11/11/sport/jayson-tatum-jaylen-brown-showdown",
+     "published": "2026-11-11T21:22:39.408Z"
     }
    ]
   },
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Italy raises 2026 growth forecast, lowers 2027 outlook",
+     "title": "More Chinese companies plan to invest in Germany, survey finds",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUdxRndpZmlqcnBIVnU4WVNjYkNLaHlOZzR1NGxFRHg1dGZNUnFnT2dPckc0LWVCOGZObU41N2xNbFJJa0JzZUY5eWFnQXk2Q0ZCQkswWDJyc01EYW5OZVJRZTNkTW9wOXZfVzFvUHFqVS03Z1VGdlMzWUNMSFNOVXU4c0R5RTgxeWtScmU1U2NVTFhVVlV3S2FhemN5akVucU9GRw?oc=5",
-     "published": "2026-11-11T18:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHJJTTdvcEJfYXYxUGVQZFd3bC1peThLaUw0YzlRcjdsbER4TDNUcW9TZlZvWUw1MEJCT0RGUXdEaUthcUV2TGZkcmotOGpTcV92UjBHV0NjM1JSSHAxMEkyWWFGbGhCYU5nQ2hqX1ZtTnhfSTY5RnNnZllqcThSckI0WmtUMjAtQTdyTVJkejVBeDdjanV3RzhpY2ZOZXNsTlhOMzF2QUlNNGJsVnJn?oc=5",
+     "published": "2026-11-11T21:10:00.000Z"
     },
     {
-     "title": "Pope-mania boosts Peru tourist industry as pilgrims fill hotels and shop for souvenirs",
+     "title": "Other Sports: Sailing-France's Barrier first woman to finish Route du Rhum in Ultim class",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSEZmWkJSTEVueU9kUmVkdUVUeFRvajdueGQxdUdMZWlpa1NKcGlSS184NXcyT29YUFpaZ3B2UnhIY19VeWNZRzR6SUZrNnR5UEdqQWczVFNjN25vMHdzMGlnUDZ4WDlQNnR5c2ZWWWlieDNVOGtwWjB3WkxnYW1TVUdIalhHN3V6S00wZFJyMW5HNlRSOG5SbGlnOUgzNUdMTi1uR1BZd090d2lxMUJNcDBEZXZzYTVpVncwYTNxMHpORk90eE9mUDdpRFBRLU1l?oc=5",
-     "published": "2026-11-11T17:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVV9RUGxKRHJoWmIzbTQtUVZhUXdBWnNramRvV19OZGthRFNUYXk4MGtnSVNNZGVrZThiRGJDTW1NTmVLaGlhWW95SC1UZ2FzYnplSkMwQWRlbFhoelpubkV2ajFqdnljRDJhdGdJTHFFVEphM0I5S3FQRWVqcldpQWFwZjhoWW12N0xZcjJLQk5GRDdWdWtXSnB1Y19fcTdLQ095bF9FREZubW4zaHpmYlY0ZnBQZHVNMnlZQk5RTG5LNXFtUzhJ?oc=5",
+     "published": "2026-11-11T21:09:00.000Z"
     },
     {
-     "title": "Man charged after protest against Biden's surprise visit to Dublin",
+     "title": "Ukraine's Zelenskiy says progress in peace talks hinges on US approach to Russia",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRFdpcXhLd0FGckRnb0pRYlBYeDRIbGVzcU1UWVdwUU5RMWk2TXBZbTlmaTliS3ZrRi03Vmt1Mk9SUWktXzh6dVhNa2twS25rR0NGbVRfdm9vMkNPbEhkRFgtUTB0TlNTT3lobTBXUE9qVkNoZXg2a1Y5QXlQOXZmWjA3YTVVbWs4RVh5cGdwZXphSWNFVVY2VFNybzRVb3RFY0k2WjJMSmplYU51TmR6NHItYmVUaE5a?oc=5",
-     "published": "2026-11-11T17:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRDU1dWxRdllFSkRVRDNMM01pUlp1YmlKVDFKdDJkSlJObWpURW1rMkxLSFBMTTg1QWN4X19aX2NtNHdkc2ZmYlgxV3JnaVdtV1hPWGhKV01GMkNWTnJDWFVLZS1mX3kzVkhOR2N6WHhleU1XeGlsZVQtZ1FPYWo4SEd4WjNlWFRJVnZTbkRNcG1KeHdWWDlJcmluS1c4clRNWmZsSEtxanVIZTZjTFpkU3g1dTJsYVVvWGEydmM5OXFubFY0TmNlWTFXMA?oc=5",
+     "published": "2026-11-11T21:05:00.000Z"
     },
     {
-     "title": "CIS education cooperation council holds meeting in Dushanbe",
+     "title": "Rivertree to buy Q Centre Management",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYlZxMk5tYlZjVWhlbEs4M3NCSmZsZjZOdDVyd3NCaGJzYzU3dEpsdTU5Y08zb0dDZndoMXBIcnVYVlNnb3k4ZEJzc19pUHVwSE9NTHNRZWtwSHVYRXNoSTdVZzY2V01jZlZpdkJQZnJaUmp2SjVIVjVQZFJXVk96dnRjMkp0QmgwTXB4Z3dPb0pDNmcydlRtajVVY0ZzQi0wXzdhQWZ5QUhIWWhM?oc=5",
-     "published": "2026-11-11T17:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOXzdwRzhTNER2QnludEU5UC1KS096V1hkN2ZUcnFLeEZOZDVYRGNQTnhGQlo5QVhRUlRsWnZjRkJfSkRZc1NWZVk4Q21XS040QXNuMElVMXNxaUoyUHJRdXFvWW5XMzFhWmlaeDVyR0NvdzdFdVZ2SjJHUHJ2YkVmUjl0YnNtRzA3Y0hxWlYtTDVMbkphZi1Id21wMlFOQQ?oc=5",
+     "published": "2026-11-11T21:00:00.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Football: Soccer-Mbappe out for France's Nations League fixture",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5icGxVNzMtMXFpTjZHdFVDSGhRNG5QNUZ0NE5IZ21pdktIVTJFRHRONVMyd2s5aUpQaWE2VEZ0UEY3djM4Njl6Y04zb2Vham5wMmVDbW9tSk9DTnd3cE1NU0pkWTlvU1dsWTZNcW5DaWJFbE9nSGVB?oc=5",
-     "published": "2026-11-11T15:55:48.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ19VQXlncV9wbV96OVNycEdMb3doeDdZYTRDVHBJMHJtZnVRNU5idF91NDUxY2RpMnFZUkFaMXZDRFBJb0tKZ0FraXV5cF9XRFI2MEdUa3pESE11NnBZZmRIeVc0eGl1Q3hMdFNWNmR6Tlh3SjdBQWhUbTM3bUZ5TXJWVnBzeVZMR1RuUUtVZkFwTk5vVDdNYjBxTVVZUmNVRDNpdERUeXcyODk2?oc=5",
+     "published": "2026-11-11T20:56:00.000Z"
     },
     {
-     "title": "Football: Soccer-Liverpool should have been given penalty against Arsenal, review panel says",
+     "title": "Football: Soccer-Belgium get Doku back but Lukaku out with hip problem",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQS3IwRDZUMmc3NXd2b1RXN0pQREFsRlJORkVzazVqdEREc2t6YWJpRnN3WlE1dTRCZy1SSWVERnRENWswU3d1TFF4UFZWLUc1VzFZaHVicUFvX3Nzb1lzZWg2UWRtQlM0LS1tOHpfT1NHSzVGZm1lOE1RWG9RX3hDODRPdVdLNmItSDNwbDNOU01aQkFIRnlMSG5mTXB0VE1OdzBLbWZBUXJoWDZyeUYwM0lIaEZna3pNMmU0TTEwYmFqU3ZWcEkzV0MxMnJhOHc?oc=5",
-     "published": "2026-11-11T15:54:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3ZEXzNxR2RFc1h4QkVjOGk2RFBPYXRISW1zQzJyNkcyenZxUEdIMVQtX2N5SXFMXzJiR1RFWkp0T1FKaHNxVGt5N3JocDNLUTNYVWlRalU1TmpKbzNrY0xjVTl6S2NmbEh5UEMyV29MMzNhTDY4UVVnVi13Zy1MM1B6VGd6SUF4WUVzV2tFN3lSR212R0ZOcG9XamRvNXM2SGFEZXVSRVdVMzk4Q3BNT0lfZw?oc=5",
+     "published": "2026-11-11T20:16:00.000Z"
     },
     {
-     "title": "Football: Soccer-PSG's Mayulu receives first senior France call-up",
+     "title": "Guinea hosts mining summit for investment, economic diversification",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNanFzTHJYa3JrSlEtZVVBbEowbEtMYzlQaEpKbVp1MXY4bWI0X01MMV9xSnlPUmhOdlNwcU5kVUh4bXpZQTBldUdVbEh5RTNXZUxoa1JNdUVMcjZ1Q01tRDI4NjZCTmF0bTVaODhhX00xb0RhclFRckJLZGlnZlpkdjFWSDM4cUE2MTkweWpzbVNWTmN2MF9TOTNVZDJtSzNsOGlnZkNfWFlNVEg1Rl9qZQ?oc=5",
-     "published": "2026-11-11T15:52:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTzVGTEhIa0ZNR09jVHN6YW1YVWZKLVhyVmY1bWM1emdPb1R1c1owLXp3V09QZFJBOVVZZTBzOXdNaEtvbEU5eG56NGlRYnVtZC1PSUg4N1UtOHIyem9ESVltd2JrNGc4aDlXQURNb1FJbWM3N19ScEJ6Zi1OdHhsZ0NTZmRlMkJnZDNOaXhuQk90dlFsOXA1cFZ1MnM1bF9ZT0lXQmRIOE81VEtuMUZleVFfN0pnQQ?oc=5",
+     "published": "2026-11-11T20:15:00.000Z"
     },
     {
-     "title": "Russia says military-to-military contacts with Britain are possible if London reaches out",
+     "title": "Crude futures settle higher",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2M1UE9TTzROX01YakI3dVpxLW9zLWtzUkpnY0pXR1dLblBMOHdVNDBQa1p2RGlyelZ4SzVJMmM5TmE3aXk1YmRubzlWNHRLNXY3b1hobFRMZEU4SUJZd2hmbE9NcnE4SXZTTDJCb3p6S0lNalB6SkpEYjdROUFXdU5sbkhVYUhjV241Yy1oYUh6QmV4S0I5ZEVOZVFLUHZfY2VvdjU3cmF4a0xVWVo5anpvMXBLUktDZU9NVkU3LXpKTmJtUnhiUkZsaGRldml4SEhldA?oc=5",
-     "published": "2026-11-11T15:03:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRTRvOVhLM2J0QTZmODUxUmJ3dVVzTDYwNVRQalFvcnFDMmU4eE5BS3NhZEVJSmxaalQ1Q0EzNm5GbzlXcVptQ0JOTFR6N19pUkZ2ejl1UGttNUhrVmN2V1lCYlFCY1JIVEpRWGVKLTdRMmxvNWk0b1o4UUR5YnV1Q3VB?oc=5",
+     "published": "2026-11-11T20:13:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
