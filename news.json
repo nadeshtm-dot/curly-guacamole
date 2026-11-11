@@ -1,50 +1,56 @@
 {
- "updated": "2026-11-11T18:51:28.180Z",
+ "updated": "2026-11-11T19:54:51.168Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "The hypocrisy of Trump’s team warning Democrats against politicized investigations",
-     "brief": "After years of Republicans going to extraordinary lengths to politicize congressional oversight and target President Donald Trump’s enemies, his administration is now issuing stark warnings to Democrats to not…",
-     "link": "https://www.cnn.com/2026/11/11/politics/trump-democrats-investigations-robert-garcia",
-     "published": "2026-11-11T18:50:28.399Z"
+     "title": "Bomb threat hoaxes prompt evacuation of Italian schools, alarm in UK and Ireland",
+     "brief": "Hundreds of schools across Italy were evacuated on Wednesday after bomb threats were sent to about 6,300 institutions, becoming the latest in a series of incidents targeting infrastructure across Europe.",
+     "link": "https://www.cnn.com/2026/11/11/europe/italy-europe-bomb-threat-intl",
+     "published": "2026-11-11T19:54:51.308Z"
     },
     {
-     "title": "Nvidia’s Jensen Huang believes suffering builds character. The spy scandal could test his philosophy",
+     "title": "How the Jayson Tatum-Jaylen Brown beef turned a November game into an NBA Finals-esque atmosphere",
+     "brief": "It’s rare for a November game to feel like a Game 7 playoff tilt, but Tuesday night’s showdown in Philadelphia between the 76ers and Boston Celtics certainly delivered that kind of electric atmosphere in spades.",
+     "link": "https://www.cnn.com/2026/11/11/sport/jayson-tatum-jaylen-brown-showdown",
+     "published": "2026-11-11T19:53:51.361Z"
+    },
+    {
+     "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+     "brief": "A US Army sentinel guarding the Tomb of the Unknown Soldier reprimanded Defense Secretary Pete Hegseth and a group of his senior advisers Wednesday after some in the group laughed and talked near the solemn memorial…",
+     "link": "https://www.cnn.com/2026/11/11/politics/hegseth-reprimanded-guard-tomb-unknown-soldier",
+     "published": "2026-11-11T19:52:51.371Z"
+    },
+    {
+     "title": "Bessent confronts Lutnick over not labeling Nvidia customer a national security threat, sources say",
+     "brief": "Treasury Secretary Scott Bessent challenged Commerce Secretary Howard Lutnick over his department’s reluctance to label Nvidia customer Megaspeed a possible national security threat in a Situation Room confrontation…",
+     "link": "https://www.cnn.com/2026/11/11/politics/lutnick-bessent-confrontation-megaspeed-nvidia",
+     "published": "2026-11-11T19:51:51.369Z"
+    },
+    {
+     "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work.",
      "brief": "Nvidia CEO Jensen Huang has spent more than three decades building a company that has made him one of the most powerful figures in tech.",
      "link": "https://www.cnn.com/2026/11/11/tech/jensen-huang-nvidia-affair-profile",
-     "published": "2026-11-11T18:49:28.397Z"
-    },
-    {
-     "title": "Clinging to life and crying, a baby was found buried alive a day after his father took him, investigators say",
-     "brief": "Trapped in a dog crate and entombed beneath a foot of dirt, a South Carolina infant miraculously survived 24 hours buried underground, authorities say.",
-     "link": "https://www.cnn.com/2026/11/11/us/south-carolina-boy-buried-alive-hnk",
-     "published": "2026-11-11T18:48:28.447Z"
+     "published": "2026-11-11T19:49:51.365Z"
     },
     {
      "title": "Russian ambassador to US dies suddenly, foreign ministry says",
-     "brief": "Russia’s ambassador to the United States, Alexander Darchiev, has died aged 66, the Russian Foreign Ministry said on Wednesday.",
+     "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, the Russian Foreign Ministry said on Wednesday.",
      "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-     "published": "2026-11-11T18:47:28.395Z"
+     "published": "2026-11-11T19:48:51.373Z"
     },
     {
-     "title": "Gavin Newsom won the argument on California’s proposed wealth tax. He could still face a fight over it",
-     "brief": "The downfall of a one-time wealth tax on billionaires in solidly Democratic California – during a blue wave election – is a sobering outcome for its advocates, including progressive leaders such as Sen.",
-     "link": "https://www.cnn.com/2026/11/11/politics/gavin-newsom-california-wealth-tax",
-     "published": "2026-11-11T18:44:28.453Z"
+     "title": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
+     "brief": "After years of Republicans going to extraordinary lengths to politicize congressional oversight and target President Donald Trump’s enemies, his administration is now issuing stark warnings to Democrats to not…",
+     "link": "https://www.cnn.com/2026/11/11/politics/trump-democrats-investigations-robert-garcia",
+     "published": "2026-11-11T19:47:51.368Z"
     },
     {
      "title": "Driver arrested on murder and DUI charges after 3 killed in North Hollywood crash",
      "brief": "A minivan driver has been arrested on three counts of murder and driving under the influence after crashing into street vendors and pedestrians near a Metro entrance in Los Angeles’ North Hollywood neighborhood…",
      "link": "https://www.cnn.com/2026/11/10/us/north-hollywood-pedestrians-killed",
-     "published": "2026-11-10T12:00:00.000Z"
-    },
-    {
-     "title": "A gay sex ban is overturned in Trinidad and Tobago. What the ruling says about LGBTQ+ rights and post-colonial identity",
-     "brief": "A British court has overturned a law prohibiting gay sex in Trinidad and Tobago, marking a milestone for LGBTQ+ rights in the twin-island Caribbean nation and nullifying a colonial-era law dating over a century.",
-     "link": "https://www.cnn.com/2026/11/10/americas/trinidad-tobago-gay-sex-law-latam-intl",
      "published": "2026-11-10T12:00:00.000Z"
     }
    ]
@@ -53,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Italy raises 2026 growth forecast, lowers 2027 outlook",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQUdxRndpZmlqcnBIVnU4WVNjYkNLaHlOZzR1NGxFRHg1dGZNUnFnT2dPckc0LWVCOGZObU41N2xNbFJJa0JzZUY5eWFnQXk2Q0ZCQkswWDJyc01EYW5OZVJRZTNkTW9wOXZfVzFvUHFqVS03Z1VGdlMzWUNMSFNOVXU4c0R5RTgxeWtScmU1U2NVTFhVVlV3S2FhemN5akVucU9GRw?oc=5",
+     "published": "2026-11-11T18:19:00.000Z"
+    },
     {
      "title": "Pope-mania boosts Peru tourist industry as pilgrims fill hotels and shop for souvenirs",
      "brief": "",
@@ -94,18 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU2M1UE9TTzROX01YakI3dVpxLW9zLWtzUkpnY0pXR1dLblBMOHdVNDBQa1p2RGlyelZ4SzVJMmM5TmE3aXk1YmRubzlWNHRLNXY3b1hobFRMZEU4SUJZd2hmbE9NcnE4SXZTTDJCb3p6S0lNalB6SkpEYjdROUFXdU5sbkhVYUhjV241Yy1oYUh6QmV4S0I5ZEVOZVFLUHZfY2VvdjU3cmF4a0xVWVo5anpvMXBLUktDZU9NVkU3LXpKTmJtUnhiUkZsaGRldml4SEhldA?oc=5",
      "published": "2026-11-11T15:03:00.000Z"
-    },
-    {
-     "title": "Romanian intelligence agency says it identified Russian-linked cyber attack",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFI5aFBfOGU5MnlTTTNLdUd3d0gwWDZ5UVhiUUtXLVY4TzNDTFVTQXpMQWJ2SDFJeUEwTFB2S0N1Ql9oNGhveWV2TV9sS2tiN2M5R2IwcVFhdmlXdDVMMGxVaFZOZDJ3LTZBX2hpamZVbmhQbDB1aUhYY2lXRVBEUzg0SlFTSUE3T0ROckRueko3OFprTGVWbHBhbkkzM2FpVmVoUVU3d1BGMFhYa0xoSWhKMlRSRUNicEh0RFhyYWNoNTBibHYw?oc=5",
-     "published": "2026-11-11T14:10:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
