@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-11T02:46:08.761Z",
+ "updated": "2026-11-11T03:50:34.442Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Tech consultant sentenced to 16 years to life in stabbing death of Cash App founder Bob Lee",
+     "brief": "The tech consultant convicted in the stabbing death of Cash App founder Bob Lee was sentenced in San Francisco on Tuesday to 16 years to life to prison.",
+     "link": "https://www.cnn.com/2026/11/10/us/nima-momeni-sentencing-cash-app-founder-death-hnk",
+     "published": "2026-11-10T12:00:00.000Z"
+    },
+    {
+     "title": "At least 3 people dead after vehicle strikes pedestrians in North Hollywood, officials say",
+     "brief": "At least three people are dead and two others are injured after an SUV crashed into a group of pedestrians near a Metro entrance in the North Hollywood neighborhood of Los Angeles, officials said Tuesday night.",
+     "link": "https://www.cnn.com/2026/11/10/us/north-hollywood-pedestrians-killed",
+     "published": "2026-11-10T12:00:00.000Z"
+    },
     {
      "title": "First snow, coldest air in months headed for eastern US in wake of storm",
      "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
@@ -40,18 +52,6 @@
      "brief": "A jury found Virginia man Naresh Bhatt guilty of first-degree murder Tuesday, rejecting his claim on the stand that his wife died by suicide.",
      "link": "https://www.cnn.com/2026/11/10/us/naresh-bhatt-murder-trial-virginia",
      "published": "2026-11-10T12:00:00.000Z"
-    },
-    {
-     "title": "Thomas Massie’s articles of impeachment against Pete Hegseth, explained",
-     "brief": "House GOP leadership on Tuesday killed, for now, an effort from within their ranks to impeach Defense Secretary Pete Hegseth .",
-     "link": "https://www.cnn.com/2026/11/10/politics/thomas-massie-pete-hegseth-impeachment",
-     "published": "2026-11-10T12:00:00.000Z"
-    },
-    {
-     "title": "Man arrested after woman found dead in her room aboard a cruise ship hours after departing Galveston",
-     "brief": "A Texas man has been arrested and is facing a federal murder charge after a woman was found dead in her room on a cruise ship “with multiple facial injuries,” according to the criminal complaint in the case.",
-     "link": "https://www.cnn.com/2026/11/09/us/suspected-cruise-ship-killing",
-     "published": "2026-11-09T12:00:00.000Z"
     }
    ]
   },
@@ -60,16 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Indonesia's top Muslim clerical body declares e-cigarette use haram",
+     "title": "Laos gears up for annual That Luang festival",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPaXY3elEza2tTZHVpcTJUUjZ1eVQ3VjhpUG1pRS02bUdRUjNKNGZ6MFJjdjA3dDZoOGNmYUg5MnVFTlRXZEo4VTRDOXU4WTctamkxX3VOczBhNVVVUDNrVG1KVmtodXpMRWlFTTVwMUFjNzRpNjVrSWl0WG1zTEphWVB0SVBLZ2FFaGhVeUROUVQ4R3F3a18ycDdlS1FxR0N4b0Rma3RWQ2UxRDcwcDBoV1lPUERCdXMyQkhnRGtVYXNOOEV5VTNwTE9RRjc?oc=5",
-     "published": "2026-11-11T02:33:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFh5LUZNZFR5NEV0VHV6QnJ3WGRzMVVDOW1fLWljSkVPUEFZTElwM2h1XzNaTWh5X3VQWlo5TE91VWZWRmJmSmd1YWd4VFpxdDY1ZENEQ0RuZmtsSEdYTGJwRVlyV250THk5cDdNRUV4X2t4N1JjbzBGSl95c3g4OTA0SkpfMHVfc2F2eTROY2RrR3RQblVfNzN0dV9HSHc0ZnBhcG0xX0JSUGc?oc=5",
+     "published": "2026-11-11T03:18:00.000Z"
     },
     {
      "title": "Nine people seriously hurt in South Korea bus crash involving multiple vehicles",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWdPSTFkNUxPVmRjYTFnOG1nSlluWGNQZE5nSGVKVjFydk9aSUdnQVA5cWlQajJ5M2VEdHdqSnV1eGJWRExlOE1OWHVQb0RVeVFCT0J3YU16QzNyTDBVckhmVjdndkdLQkwtQlJIMVRPN0FlNkFSMTZvaVN1amxQS0tfRm1lazJiRlRwbkZHcDlOSEJlcTlOandscl9GdlV3Qm1iUUhRNjhQU09EdU94RmZxMjdKUTV3MlFFSXBYNDNwLUpPOHlF?oc=5",
      "published": "2026-11-11T01:48:00.000Z"
+    },
+    {
+     "title": "Six injured in three-vehicle crash at Kampung Gajah, Perak",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOak5iXzVfaHQ4d09EOVBsdXA5anh2NTZYWWJiSTEtNDFZNlpFMVJtVXpYSmY1Y3A0bDdkQkZUXy1wR0o3djJUVTl3LTFFV1pVODNGWVRfUXRrdkFiLWROWEZURjhHQmMzdkJrand5Z1Fid1dMNHdVVld1REFheXZKa0ZMcEZ3R1VuTEFpdU1zcWk5Ym9iMVQ2OGVyX0RnOTVHQmIzOVg1c0otUVU?oc=5",
+     "published": "2026-11-11T01:42:00.000Z"
     },
     {
      "title": "Govt sets noise, water use limits amid data centre boom",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWR4ejJiOVFJMnhiQ2V2elhDTlJOUlRxZ1MxTkxWVVdSZnZfdE0yWjBEeTBPTk5oLW5nU1cxV0xRX2F3eFpVWUp3ZDItN3MyaFF1YW9zaGhUZFI1NXBMRnJkMEo2d2tnZTFUcjVWRXFmVWlZMnN4dncyR2JDSkQ5MVBNdEZpeFpva1BNaWJMbjJFeTMwOHJISGdYdEhIeHZYa25BR1pKU3VMN3JWanVMNnp3Z1hwcWdTamo2amx0U0tzX0VZWmdnY2ZB?oc=5",
      "published": "2026-11-11T00:27:00.000Z"
-    },
-    {
-     "title": "Missing toddler found about 8km downstream",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZDZlNaQ2JzeGViekhkQUN6RkJjTDZtWWxFMnVLaDRrUHdZa0FhRlZjSzlSTGdNRHpxOC1Gb0dCV21UVzIzY0ZCWkN0RXVGdWwxNU04eWxPTno1akNaMHQ0RFpLbWZab3hfcExvR0hQMTFWdUZwZERQaDJKRV9vUHlpcEFmOFBicTNhWUVoUTR1QnFPLXNJ?oc=5",
-     "published": "2026-11-11T00:23:58.000Z"
     }
    ]
   }
