@@ -1,27 +1,45 @@
 {
- "updated": "2026-11-12T09:56:01.556Z",
+ "updated": "2026-11-12T10:57:15.884Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Manchester United fires Michael Carrick as head coach",
+     "brief": "Manchester United has fired embattled head coach Michael Carrick after a dire start to the season that leaves the once-great club languishing in the Premier League relegation zone.",
+     "link": "https://www.cnn.com/2026/11/12/sport/michael-carrick-fired-manchester-united",
+     "published": "2026-11-12T10:57:16.102Z"
+    },
+    {
+     "title": "This winter, it’s polar vortex versus El Niño. Round one starts now",
+     "brief": "High in the atmosphere above the Arctic, something strange is happening: the polar vortex has broken down earlier than ever recorded, a phenomenon that can trigger a blast of cold weather in parts of the Northern…",
+     "link": "https://www.cnn.com/2026/11/12/weather/polar-vortex-stratospheric-warming-cold-el-nino",
+     "published": "2026-11-12T10:55:16.169Z"
+    },
+    {
      "title": "Witkoff and Kushner arrive in Moscow for Ukraine talks with Putin",
      "brief": "President Donald Trump’s son-in-law Jared Kushner and US envoy Steve Witkoff landed in Moscow on Thursday ahead of talks with Russian President Vladimir Putin aimed at ending the Ukraine war.",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T09:56:01.788Z"
+     "published": "2026-11-12T10:54:16.180Z"
     },
     {
      "title": "A father is charged with attempted murder after authorities found his son buried a foot underground. What we know",
      "brief": "The 11-month-old had been gone for 24 hours.",
      "link": "https://www.cnn.com/2026/11/12/us/south-carolina-baby-buried-alive",
-     "published": "2026-11-12T09:55:01.810Z"
+     "published": "2026-11-12T10:53:16.387Z"
     },
     {
      "title": "The danger for Democrats in investigating Trump",
      "brief": "First, the Trump administration’s threats to fight and possibly even prosecute Democrats for overzealously investigating the administration are probably posturing that matters little from a legal perspective.",
      "link": "https://www.cnn.com/2026/11/12/politics/democrats-trump-investigations",
-     "published": "2026-11-12T09:54:01.816Z"
+     "published": "2026-11-12T10:52:16.199Z"
+    },
+    {
+     "title": "Russian ambassador to US dies suddenly after suffering chronic illness, foreign ministry says",
+     "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, after struggling with a chronic illness, the Russian Foreign Ministry said on Wednesday.",
+     "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
      "title": "How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat",
@@ -34,24 +52,6 @@
      "brief": "Riding on horseback to visit the most isolated Andean areas of his community, distributing food amid the Covid-19 pandemic, or wearing rubber boots in the water and mud of floods: this is how many Peruvians remember…",
      "link": "https://www.cnn.com/2026/11/11/americas/pope-leo-peru-visit-latam-intl",
      "published": "2026-11-11T12:00:00.000Z"
-    },
-    {
-     "title": "Nvidia stock drops as board weighs Jensen Huang’s future",
-     "brief": "The Nvidia board is meeting to discuss the future of embattled CEO Jensen Huang, two sources familiar with the matter told CNN.",
-     "link": "https://www.cnn.com/2026/11/11/investing/nvidia-stock-jensen-huang",
-     "published": "2026-11-11T12:00:00.000Z"
-    },
-    {
-     "title": "Massive rescue effort underway after NYC building collapse leaves at least 1 dead, 12 injured, officials say",
-     "brief": "Several people are dead, including at least one child, after a mixed-use three-story building in New York City collapsed Wednesday afternoon, a city official said.",
-     "link": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse",
-     "published": "2026-11-11T12:00:00.000Z"
-    },
-    {
-     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
-     "brief": "Winter will make its first cameo in the eastern United States this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
-     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
-     "published": "2026-11-10T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,42 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Motorsport: Motor racing-Formula E reschedules Saudi Arabian opener",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdzZ1WXhNU2NtOGNsdC03WE1Gc0x0YUsyd0hPNXdRVllFdjF0SzN2RC16S1JueU0tMktwUjNUNHRNTmYzVnptSlF5b1pOaGZNQmhLVXZxRkVaUGRvaGM4NWxGbGhvMEZqNVBRZTJyOEFrNzVYOGtfZTR5NVN2LU5sMzFYVnRxTkdheHRjX3czWHpPVTZzN285RTlqX0VqWXRtY2duOF9wTFhBNVphcVlj?oc=5",
+     "published": "2026-11-12T10:50:00.000Z"
+    },
+    {
+     "title": "Nacsa maintains amber alert amid cyberattack, security breach claims",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ2UyS18xMjZJajQtN2p4VERhWVhqNXlXV1dyNmc2eTdUMG1uTGN4VElHUlJ2cXFqb2ktUFROS25SclFxcjl4dHRtUHlMZXcwV0FSNWxITTNwMEkxRXBPY0JRN0wyOGtSd3AwS2FwZVlvWURXZjJrc2NtZ3JiZXN2SVJTR2hicXRYOTBMcXlCZWozTlVWajlKWm1rSG8xVzZyWkNoZDdRVklvY1VTQkROSlJxbHBuSEJu?oc=5",
+     "published": "2026-11-12T10:40:00.000Z"
+    },
+    {
+     "title": "Soccer-Manchester United sack manager Carrick with club in relegation zone, say media reports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZGJkcHpPaWZWanE3SG91SHdGd3ZITlF6OE52MHBIMWFvVWFFX3VMbkpQMDc5NVZsVFFkYmNfMzNLWVJtUU85ZG0zTk9IdElFNkRobXp6WUlZcWExR2VHQXVRQ2JEWVpORldzZERIb0dTWlM4X3NKcjVYTzJFekFXaGZQOVhWajB0ZVRqMGdDMEdZbjlWLVl2Zm1SQnBpczdhSThIYmd2X084UG5VRVY0dk96ejV6Q2kya1dTVF9BVGVvbnBNTG04ZThXMThMUWdNZm1NUS0tR1I0T1ZSd2c?oc=5",
+     "published": "2026-11-12T10:39:00.000Z"
+    },
+    {
+     "title": "Pakistan ex-PM Imran Khan's sisters released from jail, local media report",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbGJNcTJiS25kS0xHb290WGtFSkR4SmxudDVSY2otVkM5aVMxUV9vQ3Bqak4zR2FzWnEwSGMxWHREX3l2RlVYbEZZaENNUnJfOEoydk1GX1diVmU4bVY3MTVScmNrd3RYU1ptWmJGN3hxNENSMkljT1luV0tlYjc0VFM5eVpSY21hbUgyYWxYVExuV19xV0tmNlNYUk1tQk4xVDktRnlkSGlBb1o3TllOamNjdkJVNElicXo3anZyQmlLZw?oc=5",
+     "published": "2026-11-12T10:20:00.000Z"
+    },
+    {
+     "title": "ECB economists turn to Reddit and AI to read investors' mood",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTi1RZVBydmVvM01yeG5GMjh3aUtTb0h3Z2NELWtHV1d5bUFxYjN0c3ktSm5uZl9XM1JUMXZBSWZ6dEdOM1NLZnVSb1RwUEQyRXF4VXNncTlaNGVxRGs4ak01WTk5dTl3dGZBMDVfelVXM2VaaTdsQjZhZ0JNY2t2QkR3Nk1MTnNwaDlLbGlwNlAzbFhOTEJ5c3duRm8za0xyakNGYk0yZkJTNWNEN0hORDNHY2ExQQ?oc=5",
+     "published": "2026-11-12T10:13:00.000Z"
+    },
+    {
+     "title": "Govt to streamline policies on aesthetics industry, Dewan Rakyat told",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZjdtaGc3X0ppdHEyLVBPcVllLW44RWphNXpyTDUtX0ZacTlnaG16YXo4M0FuX2RHUDZwZHBLcllGX1BXQ2dUT1JuVzVYOXJHQklkZXl5b2kwWFBZUFFaa25MZGhUcVJveHNHTWZReS11RjlpMVo0MThnZUwzNUVCQWFCeHU1V3RZWkc1RV9WX2d0elJNYUpLZ3I3R0o5TXlHenh4NFJfM0ZfM3JzZWRDc1hxMWMzOUZxcnc?oc=5",
+     "published": "2026-11-12T09:52:00.000Z"
+    },
     {
      "title": "Chicken retailers may have to disclose slaughterhouse, halal certification details",
      "brief": "",
@@ -70,42 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkpTY3o3dGVnU0k3UHJ3REY5aEFHUjQ4QlBUVWUtdmdaUDB4UmJBb3NNejVUS2ZaUW5LV2tLQTM5R2dOXzRpcWlGWkxicGhBR0NyenZqeFAtbGxqUnA5a2tIQmw2M2dfNy1PMFRITFJaUzVjLUZwNGlmaFFjMllMVl9jZ0ZzYXQ2bUtfSFowQ3BmaV9GbU5Hc2h2M09XUFBLVngzNkdHZzBhQWxDWFE?oc=5",
      "published": "2026-11-12T09:14:00.000Z"
-    },
-    {
-     "title": "Most large firms plan higher open-weight AI use to cap bills, study shows",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU0JCZHgtN1pzRVhMNEU1ZmpST3dWRjJQWF8za0xZaVBPaERrUFN2dTlYMnBVNkhxUVp5N1RQN2RZVmhsemwya01hVzBsNEJzNmZ0eklQd2ItaXJtRV9VQlI3MjZ2YTlUVGRIRkk1R0wtTGpRNjJRbGdJYXBEamx0Y3dwZXhkSVlTWGxTbUZFTFVxRFEwdXVRX0JqZUN5NUJjdWt1eDhWZ3hCeEN3WWE1VVFLUU1QRVBHMl9mV05mMjQyUDg?oc=5",
-     "published": "2026-11-12T09:07:00.000Z"
-    },
-    {
-     "title": "AI to stay dominant force behind US business investment in 2027, Goldman says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONFJ5eV9lcDJJbS10dlZuZkdQdHhybXlOOVhYRzFfWHJOd0lhMzg2ZDBwT2FMdkdTNGlkNm5ub0ZfSUNIc0xuZGVDazlTanRnOHlxMUY5UkdKQy0zbXNqaFdkNlQ2YnpqMWo2eUNBR1NBMHR4bTlDNV8wcEs2Rmd0SkVEMGhaREsybnJ6YW5jS2Q3VkhFZkIwdHM4dTNrX0R0RzVrLXZXMFRoZkJfVDR5Q3AtekRKRVVIUlRQQWpCOFNvczRXNkc0aA?oc=5",
-     "published": "2026-11-12T08:54:00.000Z"
-    },
-    {
-     "title": "Malaysia Air CEO warns new planes being delivered months late",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZHRYSTVfdnVDekxtQ2ZVQWxhY2poRExMZWFhb3c2dWFLSG44WktxRFh2THVOSW5RSmx0NXRBLXRNRUN6SGZPMnhRX0FzRWVUa0tSQU9RWFRMNFJBbnEyeWFqZWdHeGhCX1dGdGR4R1JfVTlXZGppRldtY2VOU3RENjZCYWVzRmxuZ1JnYlV1YnBwVEJsVXdqNTBVR0cydG5GOHlTcVNydC1DMG12QXNoSHF0SkNEVklhd01zSnJxZw?oc=5",
-     "published": "2026-11-12T08:45:00.000Z"
-    },
-    {
-     "title": "Dakar 2026: Mongolia's Anujin Erkhembaatar secures bronze in women’s beach wrestling",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUTc4ZWEtSFdxaHo0dVVkOVJJdDdUU0U4UWozQmpPMUZOWk1xdF82X2FuTHRqUVpvT1VjZGl1MWw3RDA1a2MxOXozNkZfMlNNbHFnUDdwejd5SkdLOG5JRno4bmJ5QjZ3WFRrQUpHS0JnREVrYUxvVU9QOC1YX2pIajZwZWVueWxTMkJ1RUhNMzlGNXJXX1VHVWJWeDYwaUY5b2tiWmJmUUNrNDdvZEVrVkNHamVCTkZHZUtCRXQtZmhnUkNvU0VSZmZEZkVOc1hNeGtKOW5GbUZ1M0dkM1BiNA?oc=5",
-     "published": "2026-11-12T08:23:00.000Z"
-    },
-    {
-     "title": "Better inter-agency coordination key to effective govt decision-making, says Azalina",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjVJVjg3Nmd5NG9ycGpxaGRBeG1aUFM2d3k2dG92dmxDTEFpc3NYeFVvRnlDS0hyRkxmeHpjUFN0MVpNMFFrNEtTd0JQc2Uzb0gtcE1ucjdIVUE0Mm5mcnBmMllNb2RlNWhvT3lzZFhVcU5mUWRrOXJyMk9ZMFkxZWhDcUFRVnByYUUtUnJiQW1wdTZNbmdTNWszYTQxb1RxZDJkQ0lnQWFoUDFvcm5ZcUgxeTVqWkhjblVjc3J4VVNLTHpW?oc=5",
-     "published": "2026-11-12T08:22:00.000Z"
-    },
-    {
-     "title": "India simplifies visa rules to draw more foreign visitors",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNN0l2em1BTTJFV3NuLUNUVS0wc2VabG5qTXM0TEV0VThQOEFQdzc0TklYelFmMFgwRFM3U0R2cnhYT2NISDRUb0RCUXBfS29EbFdKNlZfcHpyenplX3VKcGZVaFMyZlJTbXV2UENqSVNCM2xFeUFrTzdBNTBwdnZLd3g2dXJsNDI2MjJVd2pfejNCcVhhNi1RSDV3c3dSaUxkUEM2TmVhMGh1SUVvZTA4Wk83Y2FLYjVtWVJyLQ?oc=5",
-     "published": "2026-11-12T07:42:00.000Z"
     }
    ]
   }
