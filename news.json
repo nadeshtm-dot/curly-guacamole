@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-12T18:50:56.113Z",
+ "updated": "2026-11-12T19:51:32.336Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
+     "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
+     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T19:51:32.610Z"
+    },
+    {
      "title": "Turns out the AI king wasn’t untouchable",
      "brief": "Big Tech CEOs have an aura of invincibility.",
      "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-not-untouchable",
-     "published": "2026-11-12T18:50:56.361Z"
+     "published": "2026-11-12T19:50:32.592Z"
     },
     {
      "title": "Here’s how big Democrats won in the Senate in 2026",
      "brief": "Democrat Scott Colom’s win in the Mississippi Senate race means the 2026 battle for the Senate is nearing a conclusion — and similarly to the House wins , it’s looking like a historic finish for Democrats.",
      "link": "https://www.cnn.com/2026/11/12/politics/democrats-senate-wins-midterms",
-     "published": "2026-11-12T18:49:56.351Z"
+     "published": "2026-11-12T19:49:32.682Z"
     },
     {
      "title": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say",
      "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
      "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
-     "published": "2026-11-12T18:48:56.339Z"
-    },
-    {
-     "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
-     "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
-     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T18:47:56.381Z"
+     "published": "2026-11-12T19:48:32.686Z"
     },
     {
      "title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
      "brief": "Secretary of Defense Pete Hegseth awarded the soldier who reprimanded him and members of his staff at the Tomb of the Unknown Soldier a Joint Service Commendation Medal on Thursday.",
      "link": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
-     "published": "2026-11-12T18:46:56.386Z"
+     "published": "2026-11-12T19:47:32.671Z"
     },
     {
      "title": "Top Democrat will investigate whether RFK Jr. lied to Congress",
      "brief": "The top Democrat on the powerful Senate Finance Committee is launching an investigation into Health and Human Services Secretary Robert F.",
      "link": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
-     "published": "2026-11-12T18:45:56.394Z"
+     "published": "2026-11-12T19:46:32.678Z"
     },
     {
      "title": "Why are there so many security incidents linked to US military in Britain?",
      "brief": "A string of recent security incidents at UK military bases used by the United States have forced Washington to hastily relocate several of its aircraft and upgrade the threat level facing some of its troops.",
      "link": "https://www.cnn.com/2026/11/12/uk/us-military-bases-uk-security-incidents-intl",
-     "published": "2026-11-12T18:44:56.357Z"
+     "published": "2026-11-12T19:45:32.667Z"
     }
    ]
   },
@@ -53,6 +53,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Germany's Nmecha won't repeat controversial goal celebration, says Klopp",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZ1VXYVNvMlJvZjVUVUptUzluT0M1SUl3c0dZVW1nc0pfQ1NzV3hSM3UtenRqWDR0aFlqalNzTGM1ME5BdzA3X2N0bFJRby1nMk5xQXB6clZIZlRtaUowS0xQaTB2eFdwdnZSM0RPNWpKdWhnSHpyR0VfcUVmclFBQzJmY1BYbV9nRXFfa1pZb3RuMnJPT0RqTW0wanYwMlpKQzB0a3V0QUc5UngySFVSSVpFM2hyd2s5ZHNhUU9GWTJMSHg1djZiekZJR051a0s1?oc=5",
+     "published": "2026-11-12T19:38:00.000Z"
+    },
     {
      "title": "Football: Soccer-Lens dismiss coach Cahuzac after 9-1 Champions League humiliation",
      "brief": "",
@@ -64,6 +70,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG1LTXVCWlZEWm52Q1JINmRGTjJuU2sxU2hXc1RBa0RaZURaRU02UDRmbFJKdTRkVUdDOU9KSHg1cC1GZnk0aFlsYWFTdWpyLWxNeWJpZWpHOUR3MnIzUU0xNVRlQzkzeTEzelhnOWNIRlhPSUJPRVJmUWFpbmlaenJ0MWxQaHFETmJIN1VpR2hnRmdveGQ5N3pDYVVYVUJBWTh2QndZSmxHZWhUSmhvN1Vn?oc=5",
      "published": "2026-11-12T18:30:00.000Z"
+    },
+    {
+     "title": "Egypt's Arabian horse championship highlights breeding excellence, int'l reach",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUkl2ZzJHMmRKSUxjY2Q5WjZDUy1RbEE2OFF3NXczOGRfeml2eGo2bllPMVVmTjlRYy1WR2x1VUlBamJNSjJWY0xiV1EwdUVub2Zkak5CV19tQ2xsVlV4NWpsRDFuVTdKUGE1Tm9fbE9KT2IySy1xeW1aOW1GdDNHcEdpdjFBNUxMMUU5b1NadHoxa2QySk9rT2lwN1BFcHR6NnVIUnlwemp0NTFMUEJPNDRXOGNYQldDS2dtaDRncFFUTFhXbmpOVF9n?oc=5",
+     "published": "2026-11-12T18:21:00.000Z"
     },
     {
      "title": "V4 parliament leaders call for fairer EU policies of Central European interests",
@@ -84,22 +96,10 @@
      "published": "2026-11-12T17:49:00.000Z"
     },
     {
-     "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb0tHdC1aeDdkLUNpWnBDSmYzRFJUWTJrRThibEYxTkJoQlBHWUl4VUZjUUUwMVVvTjJmZnJMZkdPbE1RYzBRaUphbDVEZjVZREpFT00zd21ZVmZVdGptcjB2eE4yYzd3bkhvakUwRl9aaUMwOGNWNDFGMGN6NkxPMkJuVU5SWUtNVlY5T3Vqdm91T3NYZ3pQYTk4ZnBwMnhrZXBqYjQ1SlJyVmM4bkhwUVUwZlpsa21lZzIyU3FIaFdTNmpKUW1pRA?oc=5",
-     "published": "2026-11-12T16:42:00.000Z"
-    },
-    {
      "title": "Zimbabwe's medium-term economic prospects remain favorable: minister",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0pQVTBxS1ZhUnoxaElFVnF4UndGTV9JLXJMQ2xvRlZXWkgwRVRGU3dwOHk0WngtNFp6NDhUUnZLVjRwMEVhbHBpQ2RMaUVaSjd6VDZDcmQ3ZEt5REJKVmJzSlhuS09oai1ycWpIR2NRWlVhU1FkOE9lTWh1dDdCemp0MlRjR0d0SVQwTVNoSzUxWWV2R1lGRDY3ZkktUHB1SFdsVGZpallSOEF0WGpHdklNTkxIZThMSnc?oc=5",
      "published": "2026-11-12T16:37:00.000Z"
-    },
-    {
-     "title": "Belarus attracts 6.4 bln USD in foreign investment in Jan.-Sept.",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVZjYlB4cERabUc4dzA2VV84ckF4LVFtbnNDcVRpQk9iX2xYVXhFdjdHTVB0ZjBHMmJST2dKZ09yaUN2Zk5OSDk4QlhuYlcxWkdTOVE1WGFCSjB6WXRMMnVLRHNjVHBRSGpqam9YRkJyVWwtdUs3XzBIczFYX2psTUlPWEs3UGZIUzBCLWgwTmExOS1CdzRjSnpFSEFvaXZ5elMzMWtOT2I4MXJxNG9v?oc=5",
-     "published": "2026-11-12T16:27:00.000Z"
     }
    ]
   }
