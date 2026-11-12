@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-12T14:14:56.262Z",
+ "updated": "2026-11-12T15:56:02.769Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Witkoff and Kushner head to meet Zelensky in Dublin after meeting with Putin in Moscow",
+     "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
+     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T15:56:02.949Z"
+    },
+    {
+     "title": "Is it a ‘honeypot’ or a ‘honeytrap’?",
+     "brief": "Over the weekend, Nvidia CEO Jensen Huang acknowledged that he had an affair with a woman who US intelligence officials had separately suspected was a spy for the Chinese government, setting off an ongoing corporate…",
+     "link": "https://www.cnn.com/2026/11/12/business/jensen-huang-honeypot-honeytrap-word-of-week-cec",
+     "published": "2026-11-12T15:55:03.006Z"
+    },
+    {
+     "title": "Romanov sapphire bracelet smashes auction estimate, sells for $4.9 million",
+     "brief": "A bracelet containing a huge sapphire that used to be part of the Imperial Russian crown jewels has sold for almost $5 million, smashing its pre-auction estimate.",
+     "link": "https://www.cnn.com/2026/11/12/style/romanov-sapphire-bracelet-auction-scli-intl",
+     "published": "2026-11-12T15:54:03.003Z"
+    },
+    {
      "title": "Baghdad’s first Jewish museum draws crowds to rediscover Iraq’s Jewish past",
      "brief": "Dozens of Iraqis visit Baghdad’s first Jewish museum each day to view faded school certificates, handwritten documents and family photographs.",
      "link": "https://www.cnn.com/2026/11/12/middleeast/baghdads-first-jewish-museum-intl",
-     "published": "2026-11-12T14:14:56.473Z"
+     "published": "2026-11-12T15:53:02.980Z"
     },
     {
      "title": "Israeli strike on Gaza hospital kills at least six, including doctor and child, Palestinian officials say",
      "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
      "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
-     "published": "2026-11-12T14:13:56.539Z"
-    },
-    {
-     "title": "Nvidia CEO Jensen Huang resigns, CFO Colette Kress to serve as interim leader",
-     "brief": "Jensen Huang, the founder who propelled Nvidia to become one of the world’s most valuable companies, has resigned from his role as chief executive after 33 years.",
-     "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns",
-     "published": "2026-11-12T14:12:56.541Z"
+     "published": "2026-11-12T15:52:02.982Z"
     },
     {
      "title": "Yemen’s Houthis hold mass funeral as they call for action to protect civilians",
      "brief": "A mass funeral procession was held in the Yemeni capital Sanaa on Wednesday for at least 43 people allegedly killed in an airstrike by the Saudi-led coalition, according to Saba news agency, which is run by the…",
      "link": "https://www.cnn.com/2026/11/12/middleeast/yemen-houthis-hold-mass-funeral-civil-war-intl",
-     "published": "2026-11-12T14:11:56.531Z"
+     "published": "2026-11-12T15:51:02.986Z"
     },
     {
      "title": "Four shot in ‘active’ scene in DC’s Logan Circle neighborhood, police say",
      "brief": "At least four people were shot in what police are describing as an “active” scene in Washington, DC’s Logan Circle neighborhood, according to authorities.",
      "link": "https://www.cnn.com/2026/11/12/us/shooting-washington-police",
-     "published": "2026-11-12T14:10:56.516Z"
+     "published": "2026-11-12T15:50:02.989Z"
     },
     {
      "title": "Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it",
      "brief": "Google’s new smart glasses, like Meta’s, light up to show when they’re recording.",
      "link": "https://www.cnn.com/2026/11/12/tech/google-glasses-privacy-concerns",
-     "published": "2026-11-12T14:09:56.526Z"
-    },
-    {
-     "title": "Witkoff and Kushner in Moscow for Ukraine talks, as Zelensky says Starshield restricted again",
-     "brief": "Talks between President Donald Trump’s son-in-law Jared Kushner, US envoy Steve Witkoff and Russian President Vladimir Putin are underway in Moscow, after negotiations in Abu Dhabi aimed at ending the Ukraine war…",
-     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T14:08:56.543Z"
-    },
-    {
-     "title": "A ‘clear recommendation’ for men: Get screened for prostate cancer",
-     "brief": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.",
-     "link": "https://www.cnn.com/2026/11/12/health/new-prostate-cancer-screening-guideline-wellness",
-     "published": "2026-11-12T14:07:56.547Z"
+     "published": "2026-11-12T15:49:02.996Z"
     }
    ]
   },
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Romanian prosecutors indict former presidential frontrunner on fraud charges",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmNJWHhoSUdjY0xNdmFod1RkQVZPQm5pOWVNTXNhY1d5TGhNcmRRcVZqXzcwYW9TRVB1TDNSSklfdlFNQ19PWUFuVl85OHUzb2ZDdmZXeERwZDl0STdmTmlZUkdaTDU3d1ZmNkZBeWV2MlRadnE3NW84LWQ3ZF9kUEVKdHJ4VU5TYWJyMUdwWmxGYmFxYWVTc2RnSU1IUlFkak4tY1dQazZTSElVdTRRSi1GLUVEQ1l2bDZ6UlplZlptVWs?oc=5",
+     "published": "2026-11-12T14:59:00.000Z"
+    },
+    {
+     "title": "Police swarm Washington, DC, active shooter incident, one reported dead",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFU0MzJjVTFHLXJmZTh3X01UekdBWEhkdWNCcktMbzlzZGJTdjFlRkxMc3h5Q1JtTFJQLXQ1a3Nrajg0Tjc4TEpaUEtlM1NCekd2X2x5STNhSXItaGZqTFVhRUdJZExfanJjSEwwNVFOQTZ6N0NCZ29wenA4UmEzb1Q1YTVYanhNd0ltVnF4Y1dqOXpZV2RzNU95bXZ4MkJtMmdBTEpOWVFUOC1IT1FJdzRIOHV1aURUNXc?oc=5",
+     "published": "2026-11-12T14:47:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-FC Andorra keeper uncertain of return after De Miguel tragedy, says manager",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUN4M2V2QmVnU0Z5MmUwb0U5WjdBQ2RxM2o1TnZ2TElNYzdJcl9JRWdZdHZxSzJXUnkwdWlYMW9VTW5IdVlzdVVmVmFNdkhEb1drcEhqNGFjSXpXZk5Lazk3RTRaZ19yM1BuVFJZSkpQMkpmNnRTbHNEbHpyZEZvSW85WFNmd3dGd1gwS0s5N1JIVVNfd0xIMTNsTXZTaGNOQ1VXdFFBaXRjYk1BeDNLeTVHWXN3amlUaTlNU3F1WmhreWpvS2JGZVdRMkR4V3M?oc=5",
+     "published": "2026-11-12T14:35:00.000Z"
+    },
     {
      "title": "Football: Soccer-Manchester United supporters' trust criticises owners after Carrick sacking",
      "brief": "",
@@ -72,7 +90,7 @@
      "published": "2026-11-12T13:43:00.000Z"
     },
     {
-     "title": "Other Sports: Finland places restrictions on entry of Russian athletes",
+     "title": "Other Sports: Finland bans Russian athletes ahead of skiing World Cup opener",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazIxWFpQMUNoYk5kME5oZU1oa0VlX01TQVlSR0dMN2szcEZTWUhPZll0b3Rla0hZdlJWN3ZsWWwwZ251RG5OUUxmOXR0X0Y3b25OSzR4NGVKdGFqVWV1MG5hNU9Dc01rcGFqYXo1ZWY5X0l6bnpiM2xvSjZDdXdtVndRSjZsdW9CSmMzQkE2cjhnZXFsMElIemRyd3I3Y2pCSFc5Zk0xWG14NFE?oc=5",
      "published": "2026-11-12T13:29:00.000Z"
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3BrUVFaUmZrbFdhSFhuZ0xRRkhJVF84YzVHWUN6YmJjS0RtRVRnZUtQQ3BVTE12OUdBdTZ1NGhaVDhHa1VRUEtGNzhlX3J0YjJwZUs4VUhBalZKSlJpRkZwR3phb1ZSeUI2YnAxeDl4cE1jWTZQS0lnRFFaYzlpZVVWeE02ejBfaThRUGpRZV8yMmVUdFVpeHVsWF9nRXdidEE5al9CdU0wV0h3QVotZUVVU3VuWXNPUUVIMlZYX2drN1pBbHFhbk1CZTE?oc=5",
      "published": "2026-11-12T13:20:00.000Z"
-    },
-    {
-     "title": "AMD to invest in PsiQuantum to advance quantum computing infrastructure",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT01PbFBfSG9pcWFPbi1JX29ZQ2stTHlEeC1JZHUzMnVQSUYyeUhUSzd1ak95NkxNWS1CZFJ6QXlDbEFOdjZxdFh6bnVuUGNzYTdPVzI2RDQ1NHZ6cFcyS3FUOWFMSVk5WjlpemZLWHJMZnZHRmRpTzA3a19xUGZQNFlvNWcxeUc2MDJZd2s2ZTdrcDZ5Q1NfZFRIbmdXX1M1bHZkX3dMR0NhTXRZdTFnSkRqeUtCSDJST1lnd3Nzc3NGQQ?oc=5",
-     "published": "2026-11-12T13:10:00.000Z"
-    },
-    {
-     "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1RS1hJWHZZOGNDQ1dRT21KNWZMc1VDMW1jbVdKbG1KMV82RDZYYTV5dWwtN1EyaWh6TTNiVHZYNkRFTXczNVhMcm53azRnZlhUQWlmMUJfM3R2LUZkVmlicS1GRUtJSzJnSDdNYzlXRkRXMlYwSTE2QXBoTi1mTlBoZzZ6WHVPSThZMHhaWXlYUWJYNHFjU1JKQVp2a3BzLWtTVnNlYmRqTDNzamhZRFM5bkR5NmczU3NxWmIxV0tSanFDRmdJ?oc=5",
-     "published": "2026-11-12T13:08:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Palace manager Sage sacked with club bottom of Premier League",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm9rSGpTRzdKZE1sSExwdjZpTjRwLVg2ZU8zQTl5X3R1ZHVROWI4LW16ejd3RXUyTElyQVhtZFdjNDBPOUhnQWJDUUhJLS11RHVrNlhBREFwdDI2NlczVmYyQ1lpZUVVVWlwVVFtOVZlb1Q1a2hrbjZUcEdxZEZNZndKNG1PaWxMSmx2VVNZUlN6M0tlS09qSmJXVkhPVmxIal9vTW9VWG90eVQ3QmN1cG04RUkzTkxNNlNkdzFB?oc=5",
-     "published": "2026-11-12T12:57:00.000Z"
     }
    ]
   }
