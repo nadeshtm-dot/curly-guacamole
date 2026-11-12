@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-12T13:00:53.015Z",
+ "updated": "2026-11-12T14:14:56.262Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Witkoff and Kushner in Moscow for Ukraine talks, as Zelensky says Starshield restricted again",
-     "brief": "Talks between President Donald Trump’s son-in-law Jared Kushner, US envoy Steve Witkoff and Russian President Vladimir Putin are underway in Moscow, after negotiations in Abu Dhabi aimed at ending the Ukraine war…",
-     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T13:00:53.260Z"
+     "title": "Baghdad’s first Jewish museum draws crowds to rediscover Iraq’s Jewish past",
+     "brief": "Dozens of Iraqis visit Baghdad’s first Jewish museum each day to view faded school certificates, handwritten documents and family photographs.",
+     "link": "https://www.cnn.com/2026/11/12/middleeast/baghdads-first-jewish-museum-intl",
+     "published": "2026-11-12T14:14:56.473Z"
     },
     {
      "title": "Israeli strike on Gaza hospital kills at least six, including doctor and child, Palestinian officials say",
      "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
      "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
-     "published": "2026-11-12T12:59:53.312Z"
+     "published": "2026-11-12T14:13:56.539Z"
+    },
+    {
+     "title": "Nvidia CEO Jensen Huang resigns, CFO Colette Kress to serve as interim leader",
+     "brief": "Jensen Huang, the founder who propelled Nvidia to become one of the world’s most valuable companies, has resigned from his role as chief executive after 33 years.",
+     "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-nvidia-resigns",
+     "published": "2026-11-12T14:12:56.541Z"
+    },
+    {
+     "title": "Yemen’s Houthis hold mass funeral as they call for action to protect civilians",
+     "brief": "A mass funeral procession was held in the Yemeni capital Sanaa on Wednesday for at least 43 people allegedly killed in an airstrike by the Saudi-led coalition, according to Saba news agency, which is run by the…",
+     "link": "https://www.cnn.com/2026/11/12/middleeast/yemen-houthis-hold-mass-funeral-civil-war-intl",
+     "published": "2026-11-12T14:11:56.531Z"
+    },
+    {
+     "title": "Four shot in ‘active’ scene in DC’s Logan Circle neighborhood, police say",
+     "brief": "At least four people were shot in what police are describing as an “active” scene in Washington, DC’s Logan Circle neighborhood, according to authorities.",
+     "link": "https://www.cnn.com/2026/11/12/us/shooting-washington-police",
+     "published": "2026-11-12T14:10:56.516Z"
+    },
+    {
+     "title": "Google knows smart glasses have a privacy problem. Here’s how it’s trying to fix it",
+     "brief": "Google’s new smart glasses, like Meta’s, light up to show when they’re recording.",
+     "link": "https://www.cnn.com/2026/11/12/tech/google-glasses-privacy-concerns",
+     "published": "2026-11-12T14:09:56.526Z"
+    },
+    {
+     "title": "Witkoff and Kushner in Moscow for Ukraine talks, as Zelensky says Starshield restricted again",
+     "brief": "Talks between President Donald Trump’s son-in-law Jared Kushner, US envoy Steve Witkoff and Russian President Vladimir Putin are underway in Moscow, after negotiations in Abu Dhabi aimed at ending the Ukraine war…",
+     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T14:08:56.543Z"
     },
     {
      "title": "A ‘clear recommendation’ for men: Get screened for prostate cancer",
      "brief": "One of the leading cancer organizations in the United States is raising the alarm over prostate cancer and directly urging men to get screened.",
      "link": "https://www.cnn.com/2026/11/12/health/new-prostate-cancer-screening-guideline-wellness",
-     "published": "2026-11-12T12:58:53.317Z"
-    },
-    {
-     "title": "Manchester United fires Michael Carrick as head coach, lines up US coach Mauricio Pochettino",
-     "brief": "Manchester United has fired embattled head coach Michael Carrick after a dire start to the season that leaves the once-great club languishing in the Premier League relegation zone.",
-     "link": "https://www.cnn.com/2026/11/12/sport/michael-carrick-fired-manchester-united",
-     "published": "2026-11-12T12:57:53.510Z"
-    },
-    {
-     "title": "She survived the 9/11 attacks but died two months later in a plane crash. 25 years later, her family is telling her story",
-     "brief": "Hilda Mayol was working in the World Trade Center when terrorists struck on September 11, 2001.",
-     "link": "https://www.cnn.com/2026/11/12/us/25th-anniversary-flight-587",
-     "published": "2026-11-12T12:55:53.321Z"
-    },
-    {
-     "title": "Is it a ‘honeypot’ or a ‘honeytrap’?",
-     "brief": "Over the weekend, Nvidia CEO Jensen Huang acknowledged that he had an affair with a woman who US intelligence officials had separately suspected was a spy for the Chinese government, setting off an ongoing corporate…",
-     "link": "https://www.cnn.com/2026/11/12/business/jensen-huang-honeypot-honeytrap-word-of-week-cec",
-     "published": "2026-11-12T12:54:53.297Z"
-    },
-    {
-     "title": "Republicans’ lame-duck dash to confirm judges is already hitting speed bumps",
-     "brief": "The Democrats’ coming takeover of the Senate has kickstarted a scramble to confirm two dozen of President Donald Trump’s judicial nominees before Republicans turn over the gavel in January.",
-     "link": "https://www.cnn.com/2026/11/12/politics/senate-gop-push-to-get-trump-judges-confirmed",
-     "published": "2026-11-12T12:53:53.303Z"
-    },
-    {
-     "title": "Russian ambassador to US dies suddenly after suffering chronic illness, foreign ministry says",
-     "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, after struggling with a chronic illness, the Russian Foreign Ministry said on Wednesday.",
-     "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-     "published": "2026-11-11T12:00:00.000Z"
+     "published": "2026-11-12T14:07:56.547Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Identify floor-risk areas, clear clogged drains, Anwar tells Selangor agencies",
+     "title": "Football: Soccer-Manchester United supporters' trust criticises owners after Carrick sacking",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRWttd3NzYnlJV3FTbWpiRVRSQkhTZldhRy1ZTGJNRExYUjVWY0UxSjlaSVhZdFdzNE96TWloUkZOUnp1VkdFckkxZDY2WExJZkhUN0pkby1RUWQ1Y183VDlVX0JheXQ5dFhRM3lMVDJzUHhyWkd5MjBqOFBzUTNDZndpd3duN205Z0d1Q2ZBSTc2T0tKQlhfT1kzd0s1b2xyY1BsZkpKYTh3UWE4Snplai1DZjdDTGVEVEd0Z0pnNGdOSUIx?oc=5",
-     "published": "2026-11-12T12:31:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcnJtU3VYczdXQ0o4NTNnUjRmaVg3WWN3TjJPSnVVSGsyU2FHVG53YmZrV1JlSFN1dHlQWVZQY1gzZEtielNaaDkzXzMtdG8zVFdMOVdHcUNRY3lFT3hZdV9NWGhWd3l4UHVzU3N4RWgwbWF6aVhRY2NMODBIQmY0MElrVllMT0lYcTRWQVVBdWJwQW5rMWd5MDJTdnBGR25KNXhjZVN3NW1CdmV1ODkyTHViSFdlTmtOQlhRcVRjWGpSMUdjX0FnZ2lYeExTa1ZxUjVJ?oc=5",
+     "published": "2026-11-12T13:59:00.000Z"
     },
     {
-     "title": "IOIPG Malaysia REIT fixes IPO price at 91 sen per unit",
+     "title": "Cricket-India's Pant clears fitness test ahead of New Zealand tests",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSTZwYnVfYzZFT25BaF9DUEZ5T2wweE1aYTdVNUdqMzBuanJhczNxdnZ0V1JfQTEtQ3hrM09pNlZHZUR3ajloVEVGR2tDR055YjhKeERvYy1jRHljQnFIeVJ5b0ZoNHFUeFdzYmtoeklZMmFCeUJ0VG9jRm9mX0FqTkJLT3FqdXJVdFB4Mi1GTERER2xSTmhucGFCS0trNTdILXJKQmVCVVY0VWdsVU5RN0FmSm9SQQ?oc=5",
-     "published": "2026-11-12T12:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRUExRjUwOXdjdjQwRGpaQXQyU25qUnJOcjAtQXhhblA4X1hUQm0wbEJ3bGRjMzJNVTdIQTQzVnQxb0ZPRGJoN0pNc0Zoa2JhQW5zMERxdmdmTGs1SVZKTHNWeml3OC02TTZOQkJQRXJjZF9FOHdQWTFESFdIXzFGWDY2MEFPdWZJMTd4eGQzdVZPWkwyTDZVV3FYVm5wY3FGT3JpU3dPOE5GMXNBcV9BY3dfeEhjRWVfQnh3UEpB?oc=5",
+     "published": "2026-11-12T13:43:00.000Z"
     },
     {
-     "title": "PIE Industrial sharpens focus on cost and operational efficiency",
+     "title": "Other Sports: Finland places restrictions on entry of Russian athletes",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSlh1cnA2WEdVTXl3UFlRNndSSGJ1MTZlZjN1SXVucVdLVksxcjF4ODRkTlFXbnZBZk1fM0tXQTVUb0ZiUXJzMXJIbGwxY3JoajIzWnlnR3pDaEZCOTQtcFlmalBwbGJIVXdPMVRWYVJfdjA0SGFfcGwyTTUxVjhhNTJ6Rk5aX01hTC1BbXUwNDZjQTRFYUl3Y0pVeHRJS0wwUWFaQWtpU2hpMFA2TS1BcG5uNks0emVfVnlPdEF4c0Z0TFE?oc=5",
-     "published": "2026-11-12T12:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOazIxWFpQMUNoYk5kME5oZU1oa0VlX01TQVlSR0dMN2szcEZTWUhPZll0b3Rla0hZdlJWN3ZsWWwwZ251RG5OUUxmOXR0X0Y3b25OSzR4NGVKdGFqVWV1MG5hNU9Dc01rcGFqYXo1ZWY5X0l6bnpiM2xvSjZDdXdtVndRSjZsdW9CSmMzQkE2cjhnZXFsMElIemRyd3I3Y2pCSFc5Zk0xWG14NFE?oc=5",
+     "published": "2026-11-12T13:29:00.000Z"
     },
     {
-     "title": "Drug menace no longer confined to traditional substances, says Deputy Home Minister",
+     "title": "Visa barriers push students from US and UK to Asia and Europe, global survey shows",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2JNSnh2S0JXcnJSZU1mdl8xbUR1LU5TV1RfZkY5OHZScXV6TFBpbTJUdFFkUkhpV3huRE9ZUVVselZwRm5nb21qUEQ2YW1ZcUxGUW1FUWdPMTN6QVpDTU1NdVBDeHRFQnpDLXRvd0FfUFFlbGFTdzFndE9ld2N5Y0tQRzhOaThMcFI3SWRzaVNoYVFXS05ZcG5ZaWpac1Z6QnAzMThPSURpczJQRGJUS0ZBMlpDR3U3b0kzc2dkRTdCR2gxcWNxYnBIeFk?oc=5",
-     "published": "2026-11-12T11:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdFlKbEZoUkI0UzhCWUV2RmVqS2pWck1Db0JVQVM5Q0VGbHdDY09CUDlyX3pxNVdMMmI1Q2NZaks4UXowZnBKWlREaVAzbGhpODJ2OS1fREZySzdubTlaU0ROLU5zN0oyRmg0S2piRVlZYzVqOGd3dU1XSnJPMTExTFZTOGZqT3BEU1lhTEdicWs2WXlTS0ZLTDMyaGVocmNUOXJVRXQ2b0hwRHNLMUV4S2Vlb3o5MXVjNV83UEpBc25nT1RaTEs3LUF3?oc=5",
+     "published": "2026-11-12T13:28:00.000Z"
     },
     {
-     "title": "Indonesian President Prabowo says he accepts VP's resignation",
+     "title": "Meta fined by UK regulator over repeated inaccuracies in WhatsApp Business data",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSU9va2s4R1pEQncxZkd6UFN2WmIxMGRnZXZ2cFJhNGxWQmVJbXZQeUpLVHNQMmlmYklYUVBwdmVJcXZyVXVoaUpoYWtYbnViaTdKTnVURmdvV0tqQzNDZnh3NE1RWE5WMkltSEtaN2ZUeHFvN0s0NXYtV2VDWWF3TkdQcC11Zy1IUkR3NlNzSzFKMDJwLWJGc1NLVy1OOGxFM1BaX0JTd240bHVhVE8wdTQ2M1ZVRlEtNkJaeTNpQVVIM3BH?oc=5",
-     "published": "2026-11-12T11:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3BrUVFaUmZrbFdhSFhuZ0xRRkhJVF84YzVHWUN6YmJjS0RtRVRnZUtQQ3BVTE12OUdBdTZ1NGhaVDhHa1VRUEtGNzhlX3J0YjJwZUs4VUhBalZKSlJpRkZwR3phb1ZSeUI2YnAxeDl4cE1jWTZQS0lnRFFaYzlpZVVWeE02ejBfaThRUGpRZV8yMmVUdFVpeHVsWF9nRXdidEE5al9CdU0wV0h3QVotZUVVU3VuWXNPUUVIMlZYX2drN1pBbHFhbk1CZTE?oc=5",
+     "published": "2026-11-12T13:20:00.000Z"
     },
     {
-     "title": "How Anthropic stacks up against some of the biggest US IPOs",
+     "title": "AMD to invest in PsiQuantum to advance quantum computing infrastructure",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzJYU1hsM0lXR05vMXUzTndNQXVmSWlmd0Z0RGRJbERweXExSHFOYVlqTnpwWi1iZkhvbjkxdEZMdHluTExGaVpCRGdDXzBydUkzS3hDR0UtdDY4X2o5cjFmemh6ZUNKWmFaVW16VW1iX0tsZmlyU3N1RmNwQjBsdXBKVkpwanVzSjByYW5WUlVaeUNuOHNfOTZzMTFKV1FEYlUxQUtzS3BXLWJDVjdkV2tR?oc=5",
-     "published": "2026-11-12T11:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT01PbFBfSG9pcWFPbi1JX29ZQ2stTHlEeC1JZHUzMnVQSUYyeUhUSzd1ak95NkxNWS1CZFJ6QXlDbEFOdjZxdFh6bnVuUGNzYTdPVzI2RDQ1NHZ6cFcyS3FUOWFMSVk5WjlpemZLWHJMZnZHRmRpTzA3a19xUGZQNFlvNWcxeUc2MDJZd2s2ZTdrcDZ5Q1NfZFRIbmdXX1M1bHZkX3dMR0NhTXRZdTFnSkRqeUtCSDJST1lnd3Nzc3NGQQ?oc=5",
+     "published": "2026-11-12T13:10:00.000Z"
     },
     {
-     "title": "Several Italian schools evacuated after more bomb warnings-report",
+     "title": "EU to present new Russia sanctions package, Ukraine funding measures by year-end",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWnRvQmRENnRLWV9Pa3RhOGg1dzg5WEMwenNQV0lkblRob2lmNU5NakxPQVlrOU0wSnJIclBxdE5KTG1HdzV2Y1h0bXNmSUYyV3g2WEJSb0tVa0RFV2NIa1ZfMFlMTlVJZjhHVUNxRE96SVdHSTZXMUNEVW1hNGVIbXNmUkVDMGYzc2xOUVpCbWJWdlY3aTl4cFVkUzNULTBmQlozY3ZKdDdQX1hSeVl0Z1NlMFE?oc=5",
-     "published": "2026-11-12T11:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcW1RS1hJWHZZOGNDQ1dRT21KNWZMc1VDMW1jbVdKbG1KMV82RDZYYTV5dWwtN1EyaWh6TTNiVHZYNkRFTXczNVhMcm53azRnZlhUQWlmMUJfM3R2LUZkVmlicS1GRUtJSzJnSDdNYzlXRkRXMlYwSTE2QXBoTi1mTlBoZzZ6WHVPSThZMHhaWXlYUWJYNHFjU1JKQVp2a3BzLWtTVnNlYmRqTDNzamhZRFM5bkR5NmczU3NxWmIxV0tSanFDRmdJ?oc=5",
+     "published": "2026-11-12T13:08:00.000Z"
     },
     {
-     "title": "Anwar chairs special meeting to tackle recurring floods in S'gor",
+     "title": "Football: Soccer-Palace manager Sage sacked with club bottom of Premier League",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPT3ZiOUhtVFZMbkFtRElWdmw1UFk0emZlcGJDaWtmOWxGQXZObElwckhCRnYyTHcydGJ4QVJDM2FnOTJUMTNsU3pEQUhsTjl3UXl2TnhfRTJaakVFZE5hbWVCYzBQMHFPLTFzVi1FVExyT2tpLTNVYThBY1BNMHRrcEZmeDJLaGVkS3pLeW81M2RjdWkzdjVEeExSWlZZcmRaQmE0a3B5SWRvV3NzbE9pTFhzX0pTWVE?oc=5",
-     "published": "2026-11-12T11:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcm9rSGpTRzdKZE1sSExwdjZpTjRwLVg2ZU8zQTl5X3R1ZHVROWI4LW16ejd3RXUyTElyQVhtZFdjNDBPOUhnQWJDUUhJLS11RHVrNlhBREFwdDI2NlczVmYyQ1lpZUVVVWlwVVFtOVZlb1Q1a2hrbjZUcEdxZEZNZndKNG1PaWxMSmx2VVNZUlN6M0tlS09qSmJXVkhPVmxIal9vTW9VWG90eVQ3QmN1cG04RUkzTkxNNlNkdzFB?oc=5",
+     "published": "2026-11-12T12:57:00.000Z"
     }
    ]
   }
