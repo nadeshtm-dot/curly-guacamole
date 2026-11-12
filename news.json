@@ -1,51 +1,57 @@
 {
- "updated": "2026-11-12T19:51:32.336Z",
+ "updated": "2026-11-12T20:46:27.330Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
-     "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
-     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T19:51:32.610Z"
+     "title": "Yemen’s Houthis hold mass funeral as they call for action to protect civilians",
+     "brief": "A mass funeral procession was held in the Yemeni capital Sanaa on Wednesday for at least 43 people allegedly killed in an airstrike by the Saudi-led coalition, according to Saba news agency, which is run by the…",
+     "link": "https://www.cnn.com/2026/11/12/middleeast/yemen-houthis-hold-mass-funeral-civil-war-intl",
+     "published": "2026-11-12T20:46:27.540Z"
     },
     {
-     "title": "Turns out the AI king wasn’t untouchable",
-     "brief": "Big Tech CEOs have an aura of invincibility.",
-     "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-not-untouchable",
-     "published": "2026-11-12T19:50:32.592Z"
+     "title": "Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge",
+     "brief": "Richard Glossip, the Oklahoma man who spent nearly 30 years on death row before his murder conviction was overturned by the US Supreme Court last year, pleaded guilty Thursday to accessory to murder after the fact,…",
+     "link": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma",
+     "published": "2026-11-12T20:45:27.557Z"
     },
     {
-     "title": "Here’s how big Democrats won in the Senate in 2026",
-     "brief": "Democrat Scott Colom’s win in the Mississippi Senate race means the 2026 battle for the Senate is nearing a conclusion — and similarly to the House wins , it’s looking like a historic finish for Democrats.",
-     "link": "https://www.cnn.com/2026/11/12/politics/democrats-senate-wins-midterms",
-     "published": "2026-11-12T19:49:32.682Z"
+     "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
+     "brief": "President Donald Trump today shifted gears once again in his approach to the war with Iran, writing on social media that the US doesn’t “need a deal” with Tehran and ordering his vice president to turn his focus…",
+     "link": "https://www.cnn.com/2026/11/12/politics/trump-vance-iran-deal",
+     "published": "2026-11-12T20:44:27.554Z"
     },
     {
      "title": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say",
      "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
      "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
-     "published": "2026-11-12T19:48:32.686Z"
+     "published": "2026-11-12T20:43:27.726Z"
+    },
+    {
+     "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
+     "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
+     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T20:42:27.560Z"
+    },
+    {
+     "title": "Turns out the AI king wasn’t untouchable",
+     "brief": "Big Tech CEOs have an aura of invincibility.",
+     "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-not-untouchable",
+     "published": "2026-11-12T20:41:27.536Z"
+    },
+    {
+     "title": "Here’s how big Democrats won in the Senate in 2026",
+     "brief": "Democrat Scott Colom’s win in the Mississippi Senate race means the 2026 battle for the Senate is nearing a conclusion — and similarly to the House wins , it’s looking like a historic finish for Democrats.",
+     "link": "https://www.cnn.com/2026/11/12/politics/democrats-senate-wins-midterms",
+     "published": "2026-11-12T20:40:27.548Z"
     },
     {
      "title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
      "brief": "Secretary of Defense Pete Hegseth awarded the soldier who reprimanded him and members of his staff at the Tomb of the Unknown Soldier a Joint Service Commendation Medal on Thursday.",
      "link": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
-     "published": "2026-11-12T19:47:32.671Z"
-    },
-    {
-     "title": "Top Democrat will investigate whether RFK Jr. lied to Congress",
-     "brief": "The top Democrat on the powerful Senate Finance Committee is launching an investigation into Health and Human Services Secretary Robert F.",
-     "link": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
-     "published": "2026-11-12T19:46:32.678Z"
-    },
-    {
-     "title": "Why are there so many security incidents linked to US military in Britain?",
-     "brief": "A string of recent security incidents at UK military bases used by the United States have forced Washington to hastily relocate several of its aircraft and upgrade the threat level facing some of its troops.",
-     "link": "https://www.cnn.com/2026/11/12/uk/us-military-bases-uk-security-incidents-intl",
-     "published": "2026-11-12T19:45:32.667Z"
+     "published": "2026-11-12T20:39:27.552Z"
     }
    ]
   },
@@ -53,6 +59,18 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Ringgit ends higher against major currencies",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2xBbHl0WVpzel9vUmJMRlRMNEsyWG9fSUVLNUlBNDlNLXVDVE9fSndhN1JpSnc3TmRxOG4zTU1IblVZSkMyenN4MWpWNFZVcERzUmZuMkkyRUhRNkxTdklBMWdqQ3QwLVVIWGhCMVdGcUhONW14Tjd3akpnc3J0SGJxRFVWVTZXd1BETWxhWnRqRnNZY1FnRllBVkdvMG9JdTFucTlWalM?oc=5",
+     "published": "2026-11-12T20:44:51.000Z"
+    },
+    {
+     "title": "Putin says Russia to pursue interests in international sports",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ3dMd3IzWDZTR1RfWXo4N3JBel80RHl4X2lDZFVvQnJyOF92Z0k0NnlRUC1ncm5jTVRtVEY5YTM3UE5SWGQ5Sm1POTFsTndzZTZhSV9maUlsMVJCMXNMU09LMjRoQ1J1WlpnLWp6enRuMlVGZU45dDMwdGlMckJETWJ2dzg4TmpxVUx5endQMk5CVzU5OFdsbVRaMmpEVERqdE1pdDF5N0VGYUx1bnNr?oc=5",
+     "published": "2026-11-12T20:03:00.000Z"
+    },
     {
      "title": "Football: Soccer-Germany's Nmecha won't repeat controversial goal celebration, says Klopp",
      "brief": "",
@@ -72,12 +90,6 @@
      "published": "2026-11-12T18:30:00.000Z"
     },
     {
-     "title": "Egypt's Arabian horse championship highlights breeding excellence, int'l reach",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUkl2ZzJHMmRKSUxjY2Q5WjZDUy1RbEE2OFF3NXczOGRfeml2eGo2bllPMVVmTjlRYy1WR2x1VUlBamJNSjJWY0xiV1EwdUVub2Zkak5CV19tQ2xsVlV4NWpsRDFuVTdKUGE1Tm9fbE9KT2IySy1xeW1aOW1GdDNHcEdpdjFBNUxMMUU5b1NadHoxa2QySk9rT2lwN1BFcHR6NnVIUnlwemp0NTFMUEJPNDRXOGNYQldDS2dtaDRncFFUTFhXbmpOVF9n?oc=5",
-     "published": "2026-11-12T18:21:00.000Z"
-    },
-    {
      "title": "V4 parliament leaders call for fairer EU policies of Central European interests",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjZfbjRSUmZlLWVVTk94VHJOWmU4TnFNblJHNmdINUdCY2lhRTRZZ2lONW9VVlp6WVRFaTdPN3pmOUNZZ3RaSmkxcHRaY0trektDSWllT1RsUWR4VHNqWU0taFNUcldJNUZ0RHR6R0hGeEFma2hNNnAyaG1fQlc3QmRrV0JxQkViWHg4QlFxX3NUajdodDhPSjFEeGUzVXAwQ2NqMzVmVmt3aENPLXZHd3h2a1FvenRYRm9WcHo5UXhMeUJhbkpJ?oc=5",
@@ -94,18 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnpwT0NwQWlRRndqUDN5Y2F4UGxjUmhOcHlIXzd2aUdZRG82ZGJ0UUdiVkE1dkVuZkhOSElPVFBfQmdNTmFyWEtpY0YwN3B3SUFTZG9hRHNJTnRIeFpPTGpET3RaZjQ0V0oxZzZydkJCRUxid3VCTlZURnFJN2ZPTGk4aWVFZlctdzQ5ZGhTamtoS20xWTQ1WG92Y3o2eEhWQnBjLW1OSmhTWTZLTDV3c25WTTdQN00?oc=5",
      "published": "2026-11-12T17:49:00.000Z"
-    },
-    {
-     "title": "Zimbabwe's medium-term economic prospects remain favorable: minister",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQ0pQVTBxS1ZhUnoxaElFVnF4UndGTV9JLXJMQ2xvRlZXWkgwRVRGU3dwOHk0WngtNFp6NDhUUnZLVjRwMEVhbHBpQ2RMaUVaSjd6VDZDcmQ3ZEt5REJKVmJzSlhuS09oai1ycWpIR2NRWlVhU1FkOE9lTWh1dDdCemp0MlRjR0d0SVQwTVNoSzUxWWV2R1lGRDY3ZkktUHB1SFdsVGZpallSOEF0WGpHdklNTkxIZThMSnc?oc=5",
-     "published": "2026-11-12T16:37:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
