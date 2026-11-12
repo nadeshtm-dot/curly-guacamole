@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-12T17:49:45.722Z",
+ "updated": "2026-11-12T18:50:56.113Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Turns out the AI king wasn’t untouchable",
+     "brief": "Big Tech CEOs have an aura of invincibility.",
+     "link": "https://www.cnn.com/2026/11/12/tech/jensen-huang-not-untouchable",
+     "published": "2026-11-12T18:50:56.361Z"
+    },
+    {
+     "title": "Here’s how big Democrats won in the Senate in 2026",
+     "brief": "Democrat Scott Colom’s win in the Mississippi Senate race means the 2026 battle for the Senate is nearing a conclusion — and similarly to the House wins , it’s looking like a historic finish for Democrats.",
+     "link": "https://www.cnn.com/2026/11/12/politics/democrats-senate-wins-midterms",
+     "published": "2026-11-12T18:49:56.351Z"
+    },
+    {
+     "title": "Israeli strike on Gaza hospital kills at least 6, including doctor and child, Palestinian officials say",
+     "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
+     "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
+     "published": "2026-11-12T18:48:56.339Z"
+    },
+    {
      "title": "Witkoff and Kushner to meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
      "brief": "Talks between Russian President Vladimir Putin and US envoys Jared Kushner and Steve Witkoff have ended in Moscow, after the trio discussed the latest round of Ukraine negotiations in Abu Dhabi which ended without a…",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T17:49:45.941Z"
-    },
-    {
-     "title": "Israeli strike on Gaza hospital kills at least six, including doctor and child, Palestinian officials say",
-     "brief": "An Israeli strike on a hospital in southern Gaza overnight Wednesday killed at least six people, including a doctor and a child, Palestinian officials say.",
-     "link": "https://www.cnn.com/2026/11/12/middleeast/israeli-strike-gaza-hospital-kills-six-intl",
-     "published": "2026-11-12T17:48:45.963Z"
+     "published": "2026-11-12T18:47:56.381Z"
     },
     {
      "title": "Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery",
      "brief": "Secretary of Defense Pete Hegseth awarded the soldier who reprimanded him and members of his staff at the Tomb of the Unknown Soldier a Joint Service Commendation Medal on Thursday.",
      "link": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
-     "published": "2026-11-12T17:47:45.952Z"
+     "published": "2026-11-12T18:46:56.386Z"
     },
     {
      "title": "Top Democrat will investigate whether RFK Jr. lied to Congress",
      "brief": "The top Democrat on the powerful Senate Finance Committee is launching an investigation into Health and Human Services Secretary Robert F.",
      "link": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
-     "published": "2026-11-12T17:46:45.958Z"
+     "published": "2026-11-12T18:45:56.394Z"
     },
     {
      "title": "Why are there so many security incidents linked to US military in Britain?",
      "brief": "A string of recent security incidents at UK military bases used by the United States have forced Washington to hastily relocate several of its aircraft and upgrade the threat level facing some of its troops.",
      "link": "https://www.cnn.com/2026/11/12/uk/us-military-bases-uk-security-incidents-intl",
-     "published": "2026-11-12T17:45:45.955Z"
-    },
-    {
-     "title": "This winter, it’s polar vortex versus El Niño. Round one starts now",
-     "brief": "High in the atmosphere above the Arctic, something strange is happening: the polar vortex has broken down earlier than ever recorded, a phenomenon that can trigger a blast of cold weather in parts of the Northern…",
-     "link": "https://www.cnn.com/2026/11/12/weather/polar-vortex-stratospheric-warming-cold-el-nino",
-     "published": "2026-11-12T17:43:45.950Z"
-    },
-    {
-     "title": "Baghdad’s first Jewish museum draws crowds to rediscover Iraq’s Jewish past",
-     "brief": "Dozens of Iraqis visit Baghdad’s first Jewish museum each day to view faded school certificates, handwritten documents and family photographs.",
-     "link": "https://www.cnn.com/2026/11/12/middleeast/baghdads-first-jewish-museum-intl",
-     "published": "2026-11-12T17:42:45.959Z"
+     "published": "2026-11-12T18:44:56.357Z"
     }
    ]
   },
@@ -53,6 +53,36 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Lens dismiss coach Cahuzac after 9-1 Champions League humiliation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMl9LUkFBb3Z4a1lUelBpSDlVSUd6OVF0YV9ySVJfcjhIR1R2Nk40N1A1bVh4ZzlzT0wyajBZTHpTbklWVlh4anptX3FPV0pEa0R3NHlsTTJ2bVRvajkzS2dRQmYtMkRZSHMwTk1mdktWaUhzN2dXaVdKZnB1SkFvVDZrSGdjUzl1RkNnRjQ5cVF0ZVhicHhpQ0tXTXdZSmh3WUpZc0tHMTU3TWl5ODBCUFF0TWhpUkhnWEs0WXV3bnE4Y28?oc=5",
+     "published": "2026-11-12T18:41:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-US judge rejects FIFA bid to intervene in UEFA probe",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUG1LTXVCWlZEWm52Q1JINmRGTjJuU2sxU2hXc1RBa0RaZURaRU02UDRmbFJKdTRkVUdDOU9KSHg1cC1GZnk0aFlsYWFTdWpyLWxNeWJpZWpHOUR3MnIzUU0xNVRlQzkzeTEzelhnOWNIRlhPSUJPRVJmUWFpbmlaenJ0MWxQaHFETmJIN1VpR2hnRmdveGQ5N3pDYVVYVUJBWTh2QndZSmxHZWhUSmhvN1Vn?oc=5",
+     "published": "2026-11-12T18:30:00.000Z"
+    },
+    {
+     "title": "V4 parliament leaders call for fairer EU policies of Central European interests",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcjZfbjRSUmZlLWVVTk94VHJOWmU4TnFNblJHNmdINUdCY2lhRTRZZ2lONW9VVlp6WVRFaTdPN3pmOUNZZ3RaSmkxcHRaY0trektDSWllT1RsUWR4VHNqWU0taFNUcldJNUZ0RHR6R0hGeEFma2hNNnAyaG1fQlc3QmRrV0JxQkViWHg4QlFxX3NUajdodDhPSjFEeGUzVXAwQ2NqMzVmVmt3aENPLXZHd3h2a1FvenRYRm9WcHo5UXhMeUJhbkpJ?oc=5",
+     "published": "2026-11-12T18:01:00.000Z"
+    },
+    {
+     "title": "Remittances to Kyrgyzstan reach 274.1 mln USD in September",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWYyLVBmcGc3aDRaMzlyRjdadl9raDBwc2VDZVhWMkNjenlBVndldGdONzRqSmlnWG4wT2RRVWhRYWtqX2ZCazc0SWVhNGZrM3BYSU9aRnJrX2lhM2h0S19EczNFSnVVM29lMjJGMVY4b1hPaFZqZUZHd3dWRklWLXJ0eFFWc2RkYzkza2tVd0p0dW41VThOTXFuOUZhUThWMXRPTWx2SkNVQQ?oc=5",
+     "published": "2026-11-12T17:54:00.000Z"
+    },
+    {
+     "title": "NATO will not hold summit in Tirana next year, Albania's Rama says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONnpwT0NwQWlRRndqUDN5Y2F4UGxjUmhOcHlIXzd2aUdZRG82ZGJ0UUdiVkE1dkVuZkhOSElPVFBfQmdNTmFyWEtpY0YwN3B3SUFTZG9hRHNJTnRIeFpPTGpET3RaZjQ0V0oxZzZydkJCRUxid3VCTlZURnFJN2ZPTGk4aWVFZlctdzQ5ZGhTamtoS20xWTQ1WG92Y3o2eEhWQnBjLW1OSmhTWTZLTDV3c25WTTdQN00?oc=5",
+     "published": "2026-11-12T17:49:00.000Z"
+    },
     {
      "title": "SpaceX plans over $74 billion investment in Texas, Arizona AI campuses",
      "brief": "",
@@ -70,36 +100,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQVZjYlB4cERabUc4dzA2VV84ckF4LVFtbnNDcVRpQk9iX2xYVXhFdjdHTVB0ZjBHMmJST2dKZ09yaUN2Zk5OSDk4QlhuYlcxWkdTOVE1WGFCSjB6WXRMMnVLRHNjVHBRSGpqam9YRkJyVWwtdUs3XzBIczFYX2psTUlPWEs3UGZIUzBCLWgwTmExOS1CdzRjSnpFSEFvaXZ5elMzMWtOT2I4MXJxNG9v?oc=5",
      "published": "2026-11-12T16:27:00.000Z"
-    },
-    {
-     "title": "Athletics-World half marathon champion Ngetich set for marathon debut in Valencia",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOW5nbmRNQzRFcXlEeWtwdW1ZS055U01GTHBrNkJKTzlzMEZNMWNDTzA1azBMbEdWeVJLaGtoZXBKdnE4TjBlTWxydzgyWmctelhwX2ZzT3UyX1NMcW1tSTBVemRTNVRaWHVreEtXcWlEMEU0WmxMX24zLV9ScGRPZ2ZvNVRmNllTVExlN2FhSkNOSkZ3aktjbndlU29uMG5PaDVXVXk2b3VYVWRhZlRQajlwZFJtRG5JVVpROElSaG1pNTFFT1N6RnUwTjNpNm4w?oc=5",
-     "published": "2026-11-12T15:50:00.000Z"
-    },
-    {
-     "title": "Mixed Martial Arts-Abu Dhabi police arrest 10 after Nurmagomedov and Dvalishvili hotel brawl",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNMnB0bDZfNFltVlFHVW9YUEcxaXBBWnZ0TEpDZDdfSXFyWWkyalR4MkRMVGhobUdLaExod2pjZ2JDNFRJdTdEcmgzbXFrQk9YTk95REdDUGNiOFBnSzhfSFk2VC1tZUlVV1d5S2phdWZpdXZpQ1hvYmRlZG9JQ01Oai1PN2w3UDIxZGR6ZFh0WnRtWVJGY3Q4S2I1bncwTjJUM0p6UEIyT2Nqa0xVa1RRTng5NllxNFltNzQ2VksxSDJVYjFOVE5qeEhBRUgyRWt1OEJwUG4xQUJ3bGs?oc=5",
-     "published": "2026-11-12T15:03:00.000Z"
-    },
-    {
-     "title": "Romanian prosecutors indict former presidential frontrunner on fraud charges",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmNJWHhoSUdjY0xNdmFod1RkQVZPQm5pOWVNTXNhY1d5TGhNcmRRcVZqXzcwYW9TRVB1TDNSSklfdlFNQ19PWUFuVl85OHUzb2ZDdmZXeERwZDl0STdmTmlZUkdaTDU3d1ZmNkZBeWV2MlRadnE3NW84LWQ3ZF9kUEVKdHJ4VU5TYWJyMUdwWmxGYmFxYWVTc2RnSU1IUlFkak4tY1dQazZTSElVdTRRSi1GLUVEQ1l2bDZ6UlplZlptVWs?oc=5",
-     "published": "2026-11-12T14:59:00.000Z"
-    },
-    {
-     "title": "One person reported dead, multiple wounded in active shooting in Washington, DC",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUFU0MzJjVTFHLXJmZTh3X01UekdBWEhkdWNCcktMbzlzZGJTdjFlRkxMc3h5Q1JtTFJQLXQ1a3Nrajg0Tjc4TEpaUEtlM1NCekd2X2x5STNhSXItaGZqTFVhRUdJZExfanJjSEwwNVFOQTZ6N0NCZ29wenA4UmEzb1Q1YTVYanhNd0ltVnF4Y1dqOXpZV2RzNU95bXZ4MkJtMmdBTEpOWVFUOC1IT1FJdzRIOHV1aURUNXc?oc=5",
-     "published": "2026-11-12T14:47:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-FC Andorra keeper uncertain of return after De Miguel tragedy, says manager",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUUN4M2V2QmVnU0Z5MmUwb0U5WjdBQ2RxM2o1TnZ2TElNYzdJcl9JRWdZdHZxSzJXUnkwdWlYMW9VTW5IdVlzdVVmVmFNdkhEb1drcEhqNGFjSXpXZk5Lazk3RTRaZ19yM1BuVFJZSkpQMkpmNnRTbHNEbHpyZEZvSW85WFNmd3dGd1gwS0s5N1JIVVNfd0xIMTNsTXZTaGNOQ1VXdFFBaXRjYk1BeDNLeTVHWXN3amlUaTlNU3F1WmhreWpvS2JGZVdRMkR4V3M?oc=5",
-     "published": "2026-11-12T14:35:00.000Z"
     }
    ]
   }
