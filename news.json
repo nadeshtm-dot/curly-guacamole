@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-11T23:45:00.607Z",
+ "updated": "2026-11-12T01:01:50.797Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "How Scott Colom defied more than a century of history to win Democrats a Mississippi Senate seat",
+     "brief": "Raphael Warnock wasn’t trying to make the crowd laugh.",
+     "link": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats",
+     "published": "2026-11-11T12:00:00.000Z"
+    },
+    {
+     "title": "Massive rescue effort underway after NYC building collapse leaves at least 1 dead, 12 injured, officials say",
+     "brief": "At least one person is dead and 12 others injured, six critically, after a mixed-use three-story building in Brooklyn collapsed Wednesday afternoon, a fire department official said.",
+     "link": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse",
+     "published": "2026-11-11T12:00:00.000Z"
+    },
+    {
      "title": "Nvidia stock drops as board reportedly weighs Jensen Huang’s future",
      "brief": "Nvidia shares dropped sharply in after-hours trading on Wednesday after reports that CEO Jensen Huang had an extramarital relationship with a company executive and that the board is meeting to discuss his future.",
      "link": "https://www.cnn.com/2026/11/11/investing/nvidia-stock-jensen-huang",
-     "published": "2026-11-11T23:45:00.768Z"
-    },
-    {
-     "title": "At least 1 dead and 12 injured after 3-story Brooklyn building collapses, officials say",
-     "brief": "At least one person is dead and 12 others injured after a three-story building in Brooklyn collapsed Wednesday afternoon, a fire department official said.",
-     "link": "https://www.cnn.com/2026/11/11/us/brooklyn-new-york-building-collapse",
-     "published": "2026-11-11T23:44:00.936Z"
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
      "title": "Clinging to life and crying, a baby was found buried alive a day after his father took him, investigators say",
      "brief": "Trapped in a dog crate and entombed beneath a foot of dirt, a South Carolina infant miraculously survived 24 hours buried underground, authorities say.",
      "link": "https://www.cnn.com/2026/11/11/us/south-carolina-boy-buried-alive-hnk",
-     "published": "2026-11-11T23:43:00.781Z"
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
      "title": "Look out for fireballs as the Northern Taurid meteor shower reaches its peak",
      "brief": "Those who missed last week’s Southern Taurids meteor shower have another chance to watch a fireball blaze across the sky, as the Northern Taurids reach their peak.",
      "link": "https://www.cnn.com/2026/11/11/science/northern-taurid-meteor-shower",
-     "published": "2026-11-11T23:42:00.739Z"
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
      "title": "Russian ambassador to US dies suddenly, foreign ministry says",
      "brief": "Russia’s ambassador to the United States, Alexander Darchiev, died in Moscow aged 66, the Russian Foreign Ministry said on Wednesday.",
      "link": "https://www.cnn.com/2026/11/11/europe/russian-ambassador-to-us-dies-intl",
-     "published": "2026-11-11T23:41:00.797Z"
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
      "title": "Peruvian homecoming: Pope Leo returns to the country that shaped his path to the papacy",
      "brief": "Riding on horseback to visit the most isolated Andean areas of his community, distributing food amid the Covid-19 pandemic, or wearing rubber boots in the water and mud of floods: this is how many Peruvians remember…",
      "link": "https://www.cnn.com/2026/11/11/americas/pope-leo-peru-visit-latam-intl",
-     "published": "2026-11-11T23:40:00.848Z"
+     "published": "2026-11-11T12:00:00.000Z"
     },
     {
-     "title": "Jensen Huang dreamed up Nvidia at a Denny’s. The spy scandal threatens decades of his life’s work",
-     "brief": "Nvidia CEO Jensen Huang has spent more than three decades building a company that has made him one of the most powerful figures in tech.",
-     "link": "https://www.cnn.com/2026/11/11/tech/jensen-huang-nvidia-affair-profile",
-     "published": "2026-11-11T23:39:00.790Z"
-    },
-    {
-     "title": "The Trump team’s hypocrisy reaches new levels with warning letter to Democrats",
-     "brief": "After years of Republicans going to extraordinary lengths to politicize congressional oversight and target President Donald Trump’s enemies, his administration is now issuing stark warnings to Democrats to not…",
-     "link": "https://www.cnn.com/2026/11/11/politics/trump-democrats-investigations-robert-garcia",
-     "published": "2026-11-11T23:38:00.841Z"
+     "title": "First snow, coldest air in months headed for eastern US in wake of storm",
+     "brief": "Winter will make its first cameo in the eastern United States later this week as a storm ushers in the coldest temperatures in six months for tens of millions of people and the first snow for some.",
+     "link": "https://www.cnn.com/2026/11/10/weather/winter-storm-eastern-us-cold-snap-climate",
+     "published": "2026-11-10T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Global push to speed up DC grid access",
+     "title": "Headmistress caught selling textbooks to recyclers",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVW95TWFfZExYNDhxTXMtR0pLbV9KMFAzN29IdU9GU1Z1N2FiZlJHNGdZN3dGdm5pTXc3emplQjJIaERQZ1lOaWQ3WWtBRFo5TXBZMXNmSmlGcElkUWlHcW9kclRXeFpRMHBqamhLVkVnVXVPMVQ3TXJOS19lOU5kVktYYmlCOTNaVTJ2Mkt4T3hkT1VaY1l1MjdrYkRYRlhn?oc=5",
-     "published": "2026-11-11T23:29:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVnQ3cmlRaGFncWRxdUlvWGN0eDcyM1JIZlNWM0NZdXVrZy1QY25vU3hma3lPMmkyQ3BmcWlfbmFDdi1tMzR3TzlDT2JzNlplOEowTl9PWFk3RERLVjZxcFdWblZuM3lObUY2TlRVdHlEYmxVam5sNzI5LU4wNVFpYk5MRDVfdlk4VXNoU2ZGUWJTVXFvUlBvNnpzZXZWeXdDM1E?oc=5",
+     "published": "2026-11-12T00:53:34.000Z"
     },
     {
-     "title": "United Airlines moves to block AI agents from its platform over security concerns",
+     "title": "Fires have burned through nearly 2.9 million hectares",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSkNWbzVtSEdmVDZFakJiMXRTX2g3U0djdG1tczZhNnlRWHRJS244bTUyM2pKU0ZjQlZzLW1uSVdnMmRQUVdQQXZJOUxKejBhYWk2NXgtZkdkYjVqRHAzTDEtTmtMZlVKSndYUW10MVREeG16ZFh6bk96TFNzSGZINDhhNWdrdEJaakJ4aWlvYnNabWx1WHN2ZmNHLXdoSmUyWWRVVkVlUThoNWFpLU1zcGRsS1c1bnAtT0xJSjFrVkVCQmtxTm4wV3ZLS2dpUGs?oc=5",
-     "published": "2026-11-11T23:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0lfX0doZ3FOYURjV2xSWm41RnpXWDBkbFZYaW9mZDNkQXhMb09oc3ctQmg0dGh5T19PX3hSWmE2NXlCaHdfOTY2dXdVeVRVUzZ1bVhiOEJ1eVNVdnNmenhYNkhZMkpZMF9pRmMzbDEtUExFZjBsTlBvT0NNOVRXT2VzejRPR3czU0Fib2o3UnZyRkg3SXZUODJjRzJFTEpzaVQ0Q0RkTlktTzJVVFFrcW9OY2M4UQ?oc=5",
+     "published": "2026-11-12T00:51:23.000Z"
     },
     {
-     "title": "Meta's longtime infrastructure head Janardhan to depart in early 2027",
+     "title": "Anwar condemns attack on policeman in Kepong",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3hybUZTeWZ0bTZrOGM0T1FHeTdHb0hiZWlEVGV2M1M0YzByMEV4ZHdwNnBpQTMtVWFyTFhYV2FyZTlKc21KbElkZk9hTGp3V1Zic3VQYUgteWZjOW1wWU5tU0hOQzhoTVpnWUZFNWRqQV9xMmNnUnVyaV91MW5TUHNIdWVfYUhjaUh4QXBvcm9PM1loTHRRZUFacW1JVzBQa3RFRkhlYzNtd0FtclA0Tm5oV2hGSDFUZmVEYnVFWmNmZw?oc=5",
-     "published": "2026-11-11T23:16:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT0RJb3VPSzFzZy1DTkpuTmZlazdIRnhJVjNFRTdJMnhaS29nYkMzc1lDLUtUWVFCRUxnVGk0Q08tSEpmYWFxc0tvZkJsbzAxOFF1OU9odkE4aDlIVnY1a3lEalR3c2VELWJDSXRCaXJsaTlzam5kaUtscEloeDdUbEMtUDQwOHBsSTE0bTVJM290VjRLZWRFZEJB?oc=5",
+     "published": "2026-11-12T00:44:00.000Z"
     },
     {
-     "title": "Anthropic IPO could draw record retail buying, Vanda Research says",
+     "title": "Tennis-Andreeva reaches WTA Finals semis, Svitolina fights back to beat Muchova",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTl9vRGM0cU9OeGFqUGJMazNlWm93dFMwM1pNaWJwaWZBZE5GWW9CUEVaVDhhdS16dEpkMTlfWlR4WFVhMU1NNUM4clBaR2hqcF9nQjRYZlBTQkxyeExXYS1ONWdDVUlLRlpGQlNoWUdoNE1NdGhnWHJiS1hHTmQ0bFFZY2RSVkx0T1IwcWZXVWtKZkY4RUFlUUNVZjM1WkZpLTNCaThjaVM0OGlPUHRkX0owZVMydy1jZFE?oc=5",
-     "published": "2026-11-11T23:07:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTHJrUTdteF9xMVVHQmZWaUZjWGh4dzBIeU5vMWdQdVV0Qm5tNDhuVGNuZklIYnJVNEh5cWZlMnpMRE5VVEtLYUdXYS04cWhWdkxCa1pfT1R0ZjlVZXp2aTdBVWRKS3lNei1SUUxHMlphcUNER3V6dmppMWl2YkZkUXR6eE84cTJWSnZURm1acVhRcXJnZHVuVkw4X3ZOWDMwZ29Ua09FS29BWmJTNS1yaUlEdWNMUGJKYU0xa1ZaRHlCRC0tbEJCaw?oc=5",
+     "published": "2026-11-12T00:38:00.000Z"
     },
     {
-     "title": "L&P Global wins RM11.76mil building jobs",
+     "title": "Saudi Arabia says debris from intercepted missiles falls in Mecca region",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcnlhcVBqM1hXVmZfWmVZY1ZQWldNaTF3MWNfQjVWYnFiRldXcDJmM2o1TXY5SjlTa3Yyb1ZrZWJpS2owbDlFTGxZX1IxWlVIRG9VbXY4U0ZkM2FEUWF4bm1NOWxWTVh6blB6TWdFMHJQb3R0S2pPQ0F1WC1zMEs0eVdYS25Lc1Nob1JHUlViTXRpcDVwVGxuSmJfdWNQMC1M?oc=5",
-     "published": "2026-11-11T23:03:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdnNLY3VyV3otR3RWNnZELVBMdEZnVVprb1Q5UWdpc3JVLTRJY3BZZ1pfSUlNUzNNMnRad2JpQWFhaEpROVc3V29ReWx0WkhFa0Via2RCMzdPazF0NGlOVGJvWkptREJ3Yjc0Y2ZjczIzVll6UU1mcWE1RjZtTnVwa0o5U25Pc0VxbGVDSkszNDlseU9Dc1IzdWEzb1pkM1VnNVZMZGFmMm1HX1o5Q1h3cF9tN0p2emVuc0dNWXZ3?oc=5",
+     "published": "2026-11-12T00:35:00.000Z"
     },
     {
-     "title": "MMAG says freeze on bank accounts lifted",
+     "title": "Prioritise locally sourced bamboo, says Nanta",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWVjWGtaV3JwSGJIa1hESm44REZiV3hCZDYycEdoVWwybzB5N2oxei1FeWtVV0xiT0xsU1FvMjlta0VOdXlWZlhqM2ZCZFZYLVlOWktQMG5EU3FzdmExUHFNVi10bGJtMmpRNndxWklDV2pHZTNRenRPUVJ4WWgxNGQwTXVLUUhWdlJpTGxWZV9ick55WHdNd2N0alljS1YxRUN3?oc=5",
-     "published": "2026-11-11T23:03:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMC0zakVDX2JjaVlYRmt0Ym1XVTdYNGlQbThjVldmb0tpOHhKU1c3VmhVc24wdzJFYTBSckhMcVlnd25DcGRyWFJzV2ZrQmlYTDNPTDc5TzdBZGVPYkNXcjRwcUNwcXZEU29PTjZKUDNMaHBfVGVqMnY5Qi1RWEdyZ2lSanZ1VUJzenpLWmhmTlBLd0hLbHl5b3p3?oc=5",
+     "published": "2026-11-12T00:29:13.000Z"
     },
     {
-     "title": "SSBB secures RM146.8mil DC projects",
+     "title": "Democrat Colom wins tight Senate race in Mississippi",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXROdnpkQkxLY2RLVV9vdEp2QXUzNWE0QnJaQjB0WWgxTFllZDVLd2hsYmJackNzdnBNYXBiTmNrcXdtU3RTRm5SVXp2X05OM3lwTGUyUVVpSXV1NzBIVjJzZU1zbHRKcFJDSUptM3hPUWZkbWZMZlNjWG5hQVdzUFVkS2R4cnBsRV96dEMzaXRScXJ1aGJNcTBjdw?oc=5",
-     "published": "2026-11-11T23:03:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaFpkRFYzUExfbGhCSU9ral85YkVKSU5WZTRQRVlaSFZ1MHdpSkhWQ2hNdUk0Tmd5TzdtajFma3ZocGJBdzVmdEtmd1ViNE02cHFQeDlWZmNOUTJFeGNCdE8wYXlEc2xrR0dINThNTFFYbkotS20zX1hCVU1QZnRHOVA5VWRicnFIM1paZFNTYXQxNDR2blVFRkNtalQ4blBSTDlJ?oc=5",
+     "published": "2026-11-12T00:11:00.000Z"
     },
     {
-     "title": "Panda Eyes inks underwriting deal for ACE Market IPO",
+     "title": "Navy veterans advocate harnessing maritime heritage to draw tourists",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUpWQjdVU25hTWw2bEozODBPZlItRlA1UjA3b1V5VnRCT1Q0VEZJWlNTR3JfZU1fQ3U1eDZlcTdlQUNwcnNuNDZNSEl4XzRUcU9xYldXODQ5Q0s3dThPN0FIVkVZUEp2MFI4UkVEdWFqN0hPRnlnMjcza3B1a09YMVpRa2lrSDR6NUNnX2N6MGNvTy1zdktLN0J0SHo3bW9Qb1hyQkUxQ3cxOXpsNS1BMmNXSQ?oc=5",
-     "published": "2026-11-11T23:03:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONkE1VVFOOTQ2dksxUzVCbVN4dGRVbW9PUDZlZ3dobWx0TTNiejRZVWVkUEZERFhhT25hVmJKODljb01UeUNyNTFQWG5kbFduNEZ0RmNqZk1nZmNPY3hVZXZvcTBPaXBhMTZqQVlJTEVobzRMX012SWd3ZFNRNEQtS3JVd0RTekV4ZFFMa0xIb2pOcDhwVVB2WUtYcjJVM0RPRlBlOEMtZDJpZE9GOF9xZHRTYkh2VmJZTFpoejMzNEM?oc=5",
+     "published": "2026-11-12T00:09:54.000Z"
     }
    ]
   }
