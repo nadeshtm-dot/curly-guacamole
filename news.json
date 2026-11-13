@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-13T21:43:57.978Z",
+ "updated": "2026-11-13T22:40:31.942Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Nvidia’s week of chaos, explained",
+     "brief": "In a matter of days, a corporate scandal has toppled the leader of the world’s second-most valuable company, Nvidia CEO Jensen Huang; thrust his family into the spotlight; raised huge questions about the future of…",
+     "link": "https://www.cnn.com/2026/11/13/business/nvidia-jensen-huang-affair-fallout-vis",
+     "published": "2026-11-13T22:40:32.160Z"
+    },
+    {
+     "title": "US Air Force responds to suspected drone activity over UK airbase",
+     "brief": "US air force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorized drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US air force…",
+     "link": "https://www.cnn.com/2026/11/13/uk/us-air-force-uk-airbase-suspected-drone-intl-latam",
+     "published": "2026-11-13T22:39:32.228Z"
+    },
+    {
      "title": "FAA issues nationwide ground stop for all flights due to ‘extraordinary circumstances’ and safety",
      "brief": "All flights in the United States are grounded until further notice “due to extraordinary circumstances and for reasons of safety,” the Federal Aviation Administration said in a statement.",
      "link": "https://www.cnn.com/2026/11/13/us/faa-nationwide-ground-stop",
-     "published": "2026-11-13T21:43:58.244Z"
+     "published": "2026-11-13T22:38:32.218Z"
     },
     {
      "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
      "brief": "At the airport in a freezing Moscow, the billionaire property developer and one of President Donald Trump’s top envoys, Steve Witkoff, fielded a brief question from a CNN team that had been ushered onto the tarmac.",
      "link": "https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-talks-putin-intl",
-     "published": "2026-11-13T21:41:58.352Z"
+     "published": "2026-11-13T22:36:32.235Z"
     },
     {
      "title": "Tanker collides with river cruiser near Port of New Orleans",
-     "brief": "Emergency responders rushed to the Port of New Orleans after a tanker collided with a river cruise with more than 130 people onboard, according to port officials.",
+     "brief": "A tanker collided with a river cruise that was docked at the Port of New Orleans on the Mississippi River, with more than 130 people onboard, according to Port of New Orleans officials.",
      "link": "https://www.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision",
-     "published": "2026-11-13T21:40:58.338Z"
+     "published": "2026-11-13T22:35:32.223Z"
     },
     {
      "title": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
      "brief": "The US intelligence community intercepted communications in the spring indicating that an executive of Megaspeed, a company under investigation for possibly diverting sensitive technology to China, was having an…",
      "link": "https://www.cnn.com/2026/11/13/politics/jensen-huang-us-intelligence",
-     "published": "2026-11-13T21:39:58.313Z"
+     "published": "2026-11-13T22:34:32.214Z"
     },
     {
      "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
      "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
      "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T21:38:58.548Z"
-    },
-    {
-     "title": "Mike Tyson convinced a filmmaker to take psychedelic drugs with him. What happened next was extraordinary",
-     "brief": "Why did Mike Tyson fight Jake Paul ?",
-     "link": "https://www.cnn.com/2026/11/13/sport/mike-tyson-dmt-documentary",
-     "published": "2026-11-13T21:37:58.309Z"
-    },
-    {
-     "title": "Democrats investigating sexual harassment allegation against incoming Ohio Congressman",
-     "brief": "House Democrats are investigating an aide’s complaint that newly elected congressman Brian Poindexter made sexually harassing comments toward her during his campaign.",
-     "link": "https://www.cnn.com/2026/11/13/politics/brian-poindexter-ohio-sexual-harassment-claim-invs",
-     "published": "2026-11-13T21:36:58.345Z"
+     "published": "2026-11-13T22:33:32.232Z"
     },
     {
      "title": "Russia evasive after the US says Europe will join next Ukraine talks",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Soccer-Reijnder's hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkdfdThzWU8tZGl0MGtRaFA2YklBb1VQV1kzNUtoWlZWMVpQTXJaTWhLM3ZCSXJYUldGTTNRajcwcHJfOFplV0N3Q3Z4ekJKVEdicDdscDJZOGlVdnFjTVZZd2tyNDZQNGJmZGlkRkNPVDQ5cXpLZ3dDYWgzTlVWeWlDckRzOFNUU2FyVnRwd2pkREV3NjNyY3RoWnJvTG5HaFk4eUEtRFRjaFFYTUdpMWk5XzNtTnZ3RHpsUmhRSHdrakMtX3NlYmJJdkwyRVhobXc?oc=5",
+     "published": "2026-11-13T22:24:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Owono handed 12-match ban after De Miguel death",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHNzZDNMX1JEUkdzNGJXZUZObF9NMkNQbVNhT0JicG1kMkNoMDlYaS1BUWgyVFZfUmZTUnVncmExQWdDSlZmRVpTZEZnRUJJRTNhVE1vVFc5blpLQzZYOGIzR2MzVmlpM0NOX0NqdFdYZERJSEJiVkRLc3kycFk5WXFXZVBORERLSXF1LXUxMWRrNjRfMmx6cVlmdjNtdkNfSDNrd3FueDNVMkU?oc=5",
+     "published": "2026-11-13T22:23:00.000Z"
+    },
+    {
      "title": "Freighter collides with cruise ship in New Orleans, passengers in the water",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUpoUjFneEV5THM2MWhVT1ZwOUNlaXhmYnhROWFvckM3c3F1czhxMlh5S1FvdF82SXRLdEVaOGN4M1hqNGpmZ3JKd1YwakkyMElLZWhMU1N1SkgwR2NnMVlBOTZCal9zbkxTUk1zMHQ0Nlc3dER2QWZKNXB3bDNxV3duTlp6WHZPM3JHdl9xb2ZXUzZaeDNsbFZWaTNJdVZlOEpBZGd2VjZoemNwSHYxS2UtRnBURXFVZXpOOXI4dkc?oc=5",
@@ -72,40 +84,28 @@
      "published": "2026-11-13T21:33:00.000Z"
     },
     {
+     "title": "Flash: U.S. FAA issues nationwide ground stop citing \"extraordinary circumstances\" and safety concerns",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUzI0di1QdGNYM1p2V3J3WnBlYW05Y1hmd19hckJtRW4yU1hZclJROU9NcTA0R29BRGF1Z1RfbTZrSGkwY2pEUFpfemFKTnUxYWVPTHVlUzU4UkNRbTVtcThBckdtQmhKeEZaVFRpakVFOTFBRmZ4QmtvbElYSEFEM05QaExjeFFfX1c0UHlFRGstX1Zic0lxeHUzemxLN203V3ZIMVc1S3cxYndvNFRkV1h1SnBHV09hajljQUtxNm1WTHAycF9xWGwyY1EwMmpLTTVLbXJFVTNTUTFMSVgw?oc=5",
+     "published": "2026-11-13T21:19:00.000Z"
+    },
+    {
      "title": "Iran's IRGC says two tankers hit sea mines in Hormuz",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcF95ZnlWcEp4N0diaUVYTDlxVXU0MktWMHVVUFUxVkdIUEhJcFZRTDdQVlI5Vjh4T2JIUFpMTmh4cmY4TUdWeWNsSFZvLXBIc1NlUm05VlBZUlk0RHpWRnZUUzVXU0xaT21tWmMwaGxjMnA0c2VmWENZX3FoNGp2MkFEMmxDV3Bkbm1mWkVmOF9sMXpuZ05jVDFXeUN2SnhoTVdRNlN3?oc=5",
      "published": "2026-11-13T21:19:00.000Z"
     },
     {
+     "title": "U.S. stocks close mixed",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEX01TMUk5Y0JoSnVEWWM4TlZoem8weE8yczc4UGFkaVZYT3duaXhKb1FsS2xGZjJtNGZTdlFYcVBhbkt1dzh6OWZJTTJFaElYOVQ5R195VHM2QXFjTWFEeVBHY0dvS2Jkd2kxSFVIZU4zdWFVbHdkdmNn?oc=5",
+     "published": "2026-11-13T21:18:00.000Z"
+    },
+    {
      "title": "Son of ex-CIA chief Brennan charged over sexual images of minor girls",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHpWRTdqWllyQjg0R0MyME12R0N5Q0NBaDR5dVZjT0hyU0hSV19fZlNKdFdLd2d1QUt5djRZZGpfWEFncklrMGpVcnFVX0xwVGUzSEVhNzhOVXpHXy1QS1pHMjhJaEFHcjlhTjF0LTg4b1ZYSnhUT3V1VGJvWmZOS0ExOWtGOHg2dUk2N3hPRmFzX1g3LWpxOExOMUY3NDNDMkwyMTJHM2x2R0tHa0dzZ1lSekxtWHptSVE?oc=5",
      "published": "2026-11-13T20:42:00.000Z"
-    },
-    {
-     "title": "U.S. dollar ticks up",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BY1pHaHdWa1pleTk4VlQ2R3R0Nm5Vdll3RDdlNDk0X2I2c3p4QmJPTDRYWFdYdTUxV0xBeEVFdW1OcmRQeFRWb0lPQ2tqeWhCQWN4SWUyNGNRbHlNT09ZLVU1cnFpazBkNkFnUmkyT2JOY2ZSeEE?oc=5",
-     "published": "2026-11-13T20:10:00.000Z"
-    },
-    {
-     "title": "Zelenskiy says restrictions still in place on Starshield, hampering operations inside Ukraine",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMEFtdDBPcWFBQmxrb1F6b1dZZ0dSVnYzQWpNeGtOSjFkbUkzblhqUVM0V1kyY1VZblE3cGd3T21Ed0Ziei0wSTQ5dy1rclhUX3RJWnJWUWNpZ0lBR2xXYWo4Y01BT3VjZGVmcmRJME1peVpYWENQS0loT3hfcjJqSjE0d2U4R0l2dnJqY0ZRcld6aUxicUJiMFVVaVUwbDJvbG44QTcwajNETlhMTUFmYUx0OFduU1dYM1FIMGo3Mk52RlU4cE5uMXJZRzZBb3VRT0MwMmFmRDE?oc=5",
-     "published": "2026-11-13T19:53:00.000Z"
-    },
-    {
-     "title": "UN chief urges developed countries to step up climate finance for developing nations",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcnZxV1ZISTdUMk5sQnJsem14OV9QSXJBRXFZMVJKWmN0RFpPNXpzaDRpLVBsb3pHU3pBY09KUThZUVE5TXhJenFhTEtRZnNzVG85ekk1Ty1nd3V6Rm5sb1NMNGxsWURSamRmSFpjX2NlS1UxQzFZMVVTM3BLX0hBbEF5UkpweG1RNGdlazBQSGNLRkMxTHhXbFJ0RUE2MUVqS2lQNGVaS1VGZ2pLbFFDSGpYNUNyb3czdmUyenI4bnBHZzZjR0tkVXNhS253QQ?oc=5",
-     "published": "2026-11-13T19:35:00.000Z"
-    },
-    {
-     "title": "Dutch government coalition averts collapse, Dutch media report",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHJqZFVEdlYtd3dzRzZraktSWjVLRmpGZlItMHNkY25qejFzX2pDTk91V3dpdjdjdk1JNTFycThoajlKcnh3RWtzeXN1Rkt5N0NMTWxpSGFOM1MtcXhjN3liRzdYX1VNc3daQ2VRMUJSaUtpb1NZcFpjeWY2czJEQWc5aWxLVGpiU1NRcVpUaEdGOURLWWw0SHR3ZUxIYkVNWTUzQWtKSXVuTGxuRWZj?oc=5",
-     "published": "2026-11-13T18:52:00.000Z"
     }
    ]
   }
