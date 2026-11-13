@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-13T14:10:31.750Z",
+ "updated": "2026-11-13T15:45:30.936Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
-     "brief": "Treasury Secretary Scott Bessent on Friday accused the Commerce Department of a delay in labeling Nvidia customer Megaspeed a possible national security threat, publicly airing an ongoing administration blame game…",
-     "link": "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame",
-     "published": "2026-11-13T14:10:31.919Z"
+     "title": "How doing psychedelic drugs with Mike Tyson helped documentarian understand the baddest man on the planet",
+     "brief": "Why did Mike Tyson fight Jake Paul ?",
+     "link": "https://www.cnn.com/2026/11/13/sport/mike-tyson-dmt-documentary",
+     "published": "2026-11-13T15:44:31.177Z"
     },
     {
-     "title": "Paris court annuls Sotheby’s sale of Pissarro painting",
-     "brief": "A French court has annulled a Sotheby’s sale of a Camille Pissarro painting and ordered the auction house to help the descendants of the artwork’s original Jewish owner.",
-     "link": "https://www.cnn.com/2026/11/13/style/sothebys-nazi-looted-pissarro-scli-intl",
-     "published": "2026-11-13T14:09:31.922Z"
+     "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
+     "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
+     "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
+     "published": "2026-11-13T15:43:31.171Z"
     },
     {
-     "title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
-     "brief": "The cost of doing business in the US is getting increasingly pricier: Wholesale-level inflation accelerated last month to its highest rate in nearly four years, Bureau of Labor Statistics data showed Friday.",
-     "link": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
-     "published": "2026-11-13T14:08:31.949Z"
+     "title": "Joe Biden and Nancy Pelosi are mending fences after his 2024 dropout, his new book says",
+     "brief": "Joe Biden and Nancy Pelosi have broken bread.",
+     "link": "https://www.cnn.com/2026/11/13/politics/joe-biden-nancy-pelosi-chuck-schumer-2024-book-promise-me-america",
+     "published": "2026-11-13T15:42:31.175Z"
+    },
+    {
+     "title": "‘Standing up here alone feels wrong’: Steven Spielberg honored at Museum of Modern Art Film Benefit",
+     "brief": "Hollywood legend Steven Spielberg, who at 79 remains the highest grossing director of all time, was honored on Thursday night at the Museum of Modern Art’s glitzy annual Film Benefit, an event to raise money for the…",
+     "link": "https://www.cnn.com/2026/11/13/style/steven-spielberg-moma-film-benefit",
+     "published": "2026-11-13T15:41:31.164Z"
     },
     {
      "title": "Manchester United hires Mauricio Pochettino as its new head coach, US set to begin search for replacement",
      "brief": "Mauricio Pochettino has been confirmed as the next head coach of Manchester United, the team announced on social media on Friday.",
      "link": "https://www.cnn.com/2026/11/13/sport/mauricio-pochettino-manchester-united-head-coach",
-     "published": "2026-11-13T14:07:31.952Z"
+     "published": "2026-11-13T15:40:31.155Z"
     },
     {
-     "title": "Grief reverberates through this church near the deadly Brooklyn collapse",
-     "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year-old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
-     "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T14:04:31.984Z"
+     "title": "Iran targets US military site in Gulf for first time in two months as hopes for a deal fade",
+     "brief": "Iran said it targeted a US military installation in Bahrain early Friday in retaliation for what it described as an American attack on Iranian territory, marking its first attempt to strike a military facility in a…",
+     "link": "https://www.cnn.com/2026/11/13/middleeast/iran-targets-us-military-site-in-gulf-first-time-in-two-months-intl",
+     "published": "2026-11-13T15:39:31.148Z"
     },
     {
-     "title": "The Italian waiter held our baby. Then the unexpected happened",
-     "brief": "Welcome to our first roundup of CNN Postcards: short first-person travel tales capturing the highs, and sometimes lows, of travel.",
-     "link": "https://www.cnn.com/2026/11/13/travel/cnn-postcards-brief-vivid-travel-stories",
-     "published": "2026-11-13T14:03:31.929Z"
+     "title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
+     "brief": "High energy prices continue to ripple through US supply chains, raising the costs for businesses and setting the stage for further increases in the coming months for American consumers.",
+     "link": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+     "published": "2026-11-13T15:38:31.150Z"
     },
     {
-     "title": "Kushner says Europe to join next Ukraine talks, but Putin stands firm on territorial demands",
-     "brief": "European delegates will join the next round of peace talks with Ukraine and Russia, US envoy Jared Kushner says, after a brisk day of diplomacy saw him and Steve Witkoff meet both Ukrainian President Volodymyr…",
+     "title": "Russia evasive after the US says Europe will join next Ukraine talks",
+     "brief": "Russia remained evasive on Friday after US negotiators said that European delegates would join the next round of peace talks with Ukraine.",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
-     "brief": "Friday update: Outlook is still down for some, but Microsoft says it is seeing “some improvements.” Check CNN’s live story for the latest details.",
-     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
      "published": "2026-11-12T12:00:00.000Z"
     }
    ]
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Thailand lets tourists turn crypto into baht for spending",
+     "title": "Langkawi boat capsize: MMEA calls off search for three missing fishermen",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDdGVWxCRy1mcllDTENvZWtDUTRRVUhNS3RCektMc2ZLSU5DVEtlVzlyaGpSbzhGbjMtbVh6N01sNFB4T1E2c0o2R0pjbmFITzVUNWJRZ3RWVEtKOVRoU3l3bjB4a09RNVFzQk9RR0JoRE15aXA4RzFhejQxUUV0TEYxNVh6TURpakhiTUd0ZExMOUZCUm9NM3dIUkFpcGd1dXpaUVRJYVFEdlp2bVR0WXVxc0IyRWJVZ1ZQMg?oc=5",
-     "published": "2026-11-13T13:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQW9HN2Jzd0hvUVA4ejdlZmFDcENCcVZSbDUtNUFEQTZjT19xNERleXdsNF90WGNieUNRak16WDhMTTRYV0Jaek91ci1YUU85M3N0YTFSY3BsckZqWV9DSVZCWkZvOWRIc3EzcmpyV1JxVHh0NEZ6R2dmM3pFTWItUFZmTDhQd3RKSm42anh5Wm93UDNOeTZkaDkwcllPTWI1SV9IZ1VrcXNGcW9oaXk1bDV6WjlfeEpiaEF3aG1R?oc=5",
+     "published": "2026-11-13T14:58:00.000Z"
+    },
+    {
+     "title": "Cricket-Gambhir concerned by India's batting collapses ahead of ODI World Cup",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd2t0cVZPZ0VjZmdraEpoVndOOTBNTkFUTXZybXRKTjZyWTdudnYyeWZJX2FsZVNiUE1vb2ZVeXFfcG9WbmFKR0xpTGdSRG9EVmRMZFBBTmJYRXFYd3Zxc1V5cXlPdk9NcTJVN0tXb1hoZDlNQmxQVzZiYU4xMXJaUzdLZjNIQ2NMMDBGdXNLUG9JNW94VGxpenVnc2JLazVpWkp0UWt2cldqU0JNX2ZYcTNDT3NVUFFTanM0Vkl2cWFkYkh5QnotS1RBQQ?oc=5",
+     "published": "2026-11-13T14:57:00.000Z"
+    },
+    {
+     "title": "Former Padang Besar MP Zahidi passes away",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakNVcmx2Y2EtNVZ3QzdnclpkeWZPNEFVd2psS0tSeW5md1FoV1dmOWRxZFEzbFFma25WYkNSSFZvbWZ5eDFiWkx5TDFGUnpZeFo5T1pIaENEdG40SVFXZEFNaFFQODY4RjFOcExrZ0Z4T2VhcXpGTUVxbk1XT25KcC1LaVptRUllUkNYeEg0XzBNR3dOLWZjcmdR?oc=5",
+     "published": "2026-11-13T14:29:00.000Z"
+    },
+    {
+     "title": "Cricket-South Africa will not ease off against Bangladesh, Rabada warns",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSU5uZ2FoZDVaMDFvUXRVcDJESi1oZ1VCNWZkTDE0RVV5RHdPcEQyNDhOMS1kekw4SjZaWjY5R2ItS0Z4Q3NKUGVzdEpNZU0ydGdrZE1nYlRGVnFXY0RtcFVDaTBCX3ZJQm8yWldGRThCWGpNSFFmU055QS1TTDBtN05STzFRQUpuYjNRWnFCNTV2OHZhSkRGeldIZ2h2QVJwdlhvMlA1ZzRuSGNub0FWTTVfTldvQml4QnZaMjFnSQ?oc=5",
+     "published": "2026-11-13T14:23:00.000Z"
     },
     {
      "title": "Cricket-Saqib takes seven on debut but Pakistan and Sri Lanka draw first test",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlJpS29Fd05XanRrakFqc3BoenYtRXVaRW8zaTQtelJfZ1VXUGE2YUNObFR2RlVLLUxmNS1MUFFCcUJyQ29iSFNrbHlaX1Fkdm9wMVZ5VzYwZ3FvZTNMRnVEWmZyVko4TWZvMnMwM002ODFPTGlMOG1lYWRYanhobjk4UlBqUnBUR0hkcU52OURjQkV0bnExOEFrZzFUOFo0UFlrOWxpUzNVdzgtTllnSWJMNlFselotNXhNVE1GaE9aSDNTTFlaSzBQcXdLc2VMLTB6a2RR?oc=5",
      "published": "2026-11-13T12:19:00.000Z"
-    },
-    {
-     "title": "Belgian ministers at odds over Iran's alleged role in refrigerator cyberattacks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWEtWcGJ1QW5HOEpzY2RwTGs5MktIMjhubFJzVV80bUdoNlZxWDVxRmpXWXpwZzNPNUJJY1hMTUxpUlZCY0ZiVzlybndJOXB2VWItZnJ6Znk3ZkpZZ0pUSmk0QVhtVU1aZDV4MEVqT2hlXzlmT1Bib2NkaDdJVkpBM1hjT2l3czJVbGQ1Sjl6SG1jbzdDQUVENnJrczN2U0FJb3piVGtqQVFKLV93MVhQRUxyc3d6Z2U4aElaQWRLOFhDNkt0Slp0YlNB?oc=5",
-     "published": "2026-11-13T12:14:00.000Z"
-    },
-    {
-     "title": "Second phase of refugee registration to cover UNHCR cardholders outside depots",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQLTM0dm1zUVpGV2JRazRza0VDXzlrR0hvTlBrdWdlS2taOVBzcXFZa1hkX3lyUE95ekZaT0xHQnZLd01aSkZGM0JZWlB0OGtIVlNZMFVGTjdPeHJsYnE3SmpvU0MwTDkyUDBnOFFuYVJLRU1QWkROeTVYSFQ0ZlV2UnhZcEF0alN2eGREZXM0YkVDNWVnWDdXTzBWNlBndTZpN3Z3OGJkMmlXaGRPeUxkMkZTT0o4eUVUZkRGUF84M3dKRUdIcmIw?oc=5",
-     "published": "2026-11-13T12:12:00.000Z"
-    },
-    {
-     "title": "Eurovision set to be one of Bulgaria's biggest travel attractions next year",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEFERFdpS0hkRHNzYmpON2dYcUxseEl6bE5vT0djXy1vcTNLX01kSVJzTEFabEhIeUdYYklmZEVPSHFUcVU0YXNpaXkwMFhBNzJveXdvNkxramZsdF9OYl8xdEpMX0dIR1hPaWRzVDZzU0VKYzJXc2pEck9qc0RqYUhJVU9YdnliTVE2SVpzSjFpaURDSElqb3dBbUNiWjlibU9qa0RGeEZ3dHVNUllLa0Frc19SNUxad1R5WERKdjJCY2Z2Y2VnSjBhVWQ?oc=5",
-     "published": "2026-11-13T12:00:00.000Z"
     }
    ]
   }
