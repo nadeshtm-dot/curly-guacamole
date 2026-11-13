@@ -1,54 +1,54 @@
 {
- "updated": "2026-11-13T10:55:13.627Z",
+ "updated": "2026-11-13T11:51:27.229Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Hear Dolly Parton’s final recording, a heartbreaking duet with Bono",
+     "brief": "The legendary voice of Dolly Parton is back for one last rodeo, months after her death.",
+     "link": "https://www.cnn.com/2026/11/13/entertainment/dolly-parton-u2-torn-released-intl-scli",
+     "published": "2026-11-13T11:50:27.509Z"
+    },
+    {
+     "title": "How measles came raging back in the span of a single generation",
+     "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
+     "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
+     "published": "2026-11-13T11:49:27.513Z"
+    },
+    {
      "title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
      "brief": "Duran Duran’s Roger Taylor has stepped down from the band due a deterioration in his tinnitus .",
      "link": "https://www.cnn.com/2026/11/13/entertainment/roger-taylor-quits-duran-tinnitus-scli-intl",
-     "published": "2026-11-13T10:55:13.774Z"
+     "published": "2026-11-13T11:48:27.549Z"
     },
     {
      "title": "A million mood boards later, there’s still only one Sade",
      "brief": "Despite being one of the world’s most elusive artists, Sade Adu remains instantly recognizable.",
      "link": "https://www.cnn.com/2026/11/13/style/sade-style-fashion-influence",
-     "published": "2026-11-13T10:54:13.857Z"
+     "published": "2026-11-13T11:47:27.545Z"
     },
     {
      "title": "Trump’s tariffs face a new threat: Republicans",
      "brief": "In the two years since President Donald Trump unveiled a slew of aggressive tariffs on America’s global trading partners, the prospect of stock market backlash has been the biggest restraint on his agenda.",
      "link": "https://www.cnn.com/2026/11/13/economy/trumps-tariffs-new-threat",
-     "published": "2026-11-13T10:53:13.809Z"
+     "published": "2026-11-13T11:46:27.531Z"
     },
     {
      "title": "The AI boom was built around Jensen Huang. Now what?",
      "brief": "Jensen Huang’s resignation from Nvidia in scandal leaves the company without its visionary leader.",
      "link": "https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia",
-     "published": "2026-11-13T10:51:13.843Z"
+     "published": "2026-11-13T11:45:27.542Z"
     },
     {
      "title": "Darth Vader’s ‘I am your father’ lightsaber sells for record $4.87 million",
      "brief": "From a galaxy far, far away to a Dallas auction house — a lightsaber wielded by Darth Vader before he delivered the famous line “I am your father” sold for over $4.87 million on Thursday.",
      "link": "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record",
-     "published": "2026-11-13T10:50:13.836Z"
+     "published": "2026-11-13T11:44:27.524Z"
     },
     {
-     "title": "Senate leadership showdown could fracture Democratic post-election unity",
-     "brief": "A Democratic leadership tilt between a 70-something Chuck and a 60-something Chris hardly screams of the torch-passing moment many activists crave.",
-     "link": "https://www.cnn.com/2026/11/13/politics/schumer-van-hollen-democrats-leadership",
-     "published": "2026-11-13T10:49:13.851Z"
-    },
-    {
-     "title": "Immigrant neighborhood in Brooklyn leans on faith and community while demanding accountability after deadly building collapse",
-     "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
-     "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T10:48:13.859Z"
-    },
-    {
-     "title": "Kushner says Europe to join next Ukraine talks after meeting Putin and Zelensky",
+     "title": "Kushner says Europe to join next Ukraine talks, but Putin stands firm on territorial demands",
      "brief": "European delegates will join the next round of peace talks with Ukraine and Russia, US envoy Jared Kushner says, after a brisk day of diplomacy saw him and Steve Witkoff meet both Ukrainian President Volodymyr…",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
      "published": "2026-11-12T12:00:00.000Z"
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Grealish apologises to Everton fans after missing games for discipline breach",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUk5MFlmMXlHQUJ0QVZHUjVIZFVZVmZpYnZMZUV0enR3UnpYZmktOU5NZnhXS2h1NElERUE5TWV5TVI1VVh4ZC1iVWJrdVJDQ3NkRDFGWC1nRnRRT3pBclVuaVdmekZVTDQyUEQ0eWlSc2ZMY0pSSHVmalc0V052Q0Y3M0FGYmRRenlfNkhWZWUtZUNTcC1mQ2JlZ0lXeXFZVHhVU3I4TVlqUjhRcUYtN3NBWEtqSXd6bUZvTjlKVHZnUXhBOF9CWHhqOXpmN05Ka2FF?oc=5",
+     "published": "2026-11-13T11:11:00.000Z"
+    },
     {
      "title": "Emergency lane at Bidor-Tapah stretch of NSE closed temporarily for barrier upgrades",
      "brief": "",
@@ -90,22 +96,16 @@
      "published": "2026-11-13T10:15:00.000Z"
     },
     {
+     "title": "Peruvians flock to see Pope Leo in city he served as bishop",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVZfajgyLUF3b1FCVVlmRUpoa1NJSmNoOGQxTGRNRUdqQmRBaENadVFSQ1paOVZwd21KS1E2ZXVDRmtfY0phUUVoTXU1OGVhc3pUenJYREFxNmg0N3I1OERIcWRXTWJxQk53cmRsVGc4S01pM3pycXZrQlpWMTBtdVdESjN2QW1BYkcxb1dUeDRqODRlbk5FY0NOcEZYR2EwaVJGZWxQb1ZaTzJK?oc=5",
+     "published": "2026-11-13T10:13:00.000Z"
+    },
+    {
      "title": "Heart And Soul: Falling in love again",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlN6azBKSmNreTU5OFhQU2RzUlEwamtJVTNIc1FGNE8weEczV2ZoZUFPTWNFLXprV2k3VVcyNThadW5Xb0djQkJ1cGltS0hmdzYwcHdMSnphQUVOTFVEWXFIN19GREVoVVV3RHg1VlpBOUMzcG9ieldNMDB1RjNzR2lpNUhZMTdHNklsWWNFVzVkZ0xXT3c?oc=5",
      "published": "2026-11-13T10:00:00.000Z"
-    },
-    {
-     "title": "Singapore says it found insufficient evidence to prosecute Alice Huang, the alleged spy in Nvidia scandal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONVB3YUI0MUp1UHhhbTlPY1lKWUNHblEwdnR1Ump5NHpNaV92NjR1YUpMNjlDMmhjTkNzQTUyVm9NUUpZT1lXTFViMkx0Y0lwSmxHU3ZPV2JjRjEzQUY1MUpPczQ4dmJja2hhV1YzOEMyUUJlYjZxd2tRSWlfMzMzRDdDMTBMem5RNUhCN1N0NmNOMVp1UHJncFVFTm9QQlQxSUJOa2VwUExoNWdOME1Yb2loaXE5aHFxU2l4S25kZGZQSlIyVTFLUlQyMWh1ck1FVk9haU1YQXIzeVlGZWx4d0liVnpkdDNyWDhmX2NvSW1rU3MweGxSU0hzcw?oc=5",
-     "published": "2026-11-13T09:49:00.000Z"
-    },
-    {
-     "title": "Quantum Systems says grounded German military drones flying again after cyberattack",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlhtTk5waVFmektfTVRYeTlDTEY2Ui1zUlFwZURxWTN0dmszM1o5UkN4NGtzMWVoN2ViUkJIRHNpMWhWd0MzeEZYMmZaWHBONlp2Q3BudS1ZeFptdDVzS0ZfYVB5aUhpQzl0aTlVRUhFaE5NNTVsRkZ2Uktic2lBelJkVjhpUmpqSlZkVEVhLXRCRjVXS3J5VU1DMTdENWdCVnZmeDQzWVJZTzc4Q1VWQ194Tkl4dVJJa2FOVC1XNUtPSEJQWmNuZmZTQ21Rczhhb0E?oc=5",
-     "published": "2026-11-13T09:48:00.000Z"
     }
    ]
   }
