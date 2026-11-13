@@ -1,51 +1,57 @@
 {
- "updated": "2026-11-13T20:50:06.626Z",
+ "updated": "2026-11-13T21:43:57.978Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "FAA issues nationwide ground stop for all flights due to ‘extraordinary circumstances’ and safety",
+     "brief": "All flights in the United States are grounded until further notice “due to extraordinary circumstances and for reasons of safety,” the Federal Aviation Administration said in a statement.",
+     "link": "https://www.cnn.com/2026/11/13/us/faa-nationwide-ground-stop",
+     "published": "2026-11-13T21:43:58.244Z"
+    },
+    {
+     "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
+     "brief": "At the airport in a freezing Moscow, the billionaire property developer and one of President Donald Trump’s top envoys, Steve Witkoff, fielded a brief question from a CNN team that had been ushered onto the tarmac.",
+     "link": "https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-talks-putin-intl",
+     "published": "2026-11-13T21:41:58.352Z"
+    },
+    {
      "title": "Tanker collides with river cruiser near Port of New Orleans",
-     "brief": "Emergency responders rushed to the Port of New Orleans after a tanker collided with a river cruise with more than 130 people onboard Friday afternoon, according to Port of New Orleans officials.",
+     "brief": "Emergency responders rushed to the Port of New Orleans after a tanker collided with a river cruise with more than 130 people onboard, according to port officials.",
      "link": "https://www.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision",
-     "published": "2026-11-13T20:50:06.878Z"
+     "published": "2026-11-13T21:40:58.338Z"
     },
     {
      "title": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
      "brief": "The US intelligence community intercepted communications in the spring indicating that an executive of Megaspeed, a company under investigation for possibly diverting sensitive technology to China, was having an…",
      "link": "https://www.cnn.com/2026/11/13/politics/jensen-huang-us-intelligence",
-     "published": "2026-11-13T20:49:06.875Z"
+     "published": "2026-11-13T21:39:58.313Z"
     },
     {
      "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
      "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
      "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T20:48:06.881Z"
+     "published": "2026-11-13T21:38:58.548Z"
     },
     {
      "title": "Mike Tyson convinced a filmmaker to take psychedelic drugs with him. What happened next was extraordinary",
      "brief": "Why did Mike Tyson fight Jake Paul ?",
      "link": "https://www.cnn.com/2026/11/13/sport/mike-tyson-dmt-documentary",
-     "published": "2026-11-13T20:47:06.835Z"
+     "published": "2026-11-13T21:37:58.309Z"
     },
     {
      "title": "Democrats investigating sexual harassment allegation against incoming Ohio Congressman",
      "brief": "House Democrats are investigating an aide’s complaint that newly elected congressman Brian Poindexter made sexually harassing comments toward her during his campaign.",
      "link": "https://www.cnn.com/2026/11/13/politics/brian-poindexter-ohio-sexual-harassment-claim-invs",
-     "published": "2026-11-13T20:46:06.840Z"
+     "published": "2026-11-13T21:36:58.345Z"
     },
     {
-     "title": "Joe Biden and Nancy Pelosi are mending fences after his 2024 dropout, his new book says",
-     "brief": "Joe Biden and Nancy Pelosi have broken bread.",
-     "link": "https://www.cnn.com/2026/11/13/politics/joe-biden-nancy-pelosi-chuck-schumer-2024-book-promise-me-america",
-     "published": "2026-11-13T20:45:06.862Z"
-    },
-    {
-     "title": "ICE detains Peanut the squirrel’s owner",
-     "brief": "When New York wildlife officers euthanized a couple’s pet squirrel, Peanut, two years ago, Republicans including JD Vance seized on the critter’s killing as just another example of government overreach from meddling…",
-     "link": "https://www.cnn.com/2026/11/13/us/ice-detains-peanut-squirrel-owner-cec",
-     "published": "2026-11-13T20:43:06.846Z"
+     "title": "Russia evasive after the US says Europe will join next Ukraine talks",
+     "brief": "Russia remained evasive on Friday after US negotiators said that European delegates would join the next round of peace talks with Ukraine.",
+     "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T12:00:00.000Z"
     }
    ]
   },
@@ -53,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Freighter collides with cruise ship in New Orleans, passengers in the water",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUpoUjFneEV5THM2MWhVT1ZwOUNlaXhmYnhROWFvckM3c3F1czhxMlh5S1FvdF82SXRLdEVaOGN4M1hqNGpmZ3JKd1YwakkyMElLZWhMU1N1SkgwR2NnMVlBOTZCal9zbkxTUk1zMHQ0Nlc3dER2QWZKNXB3bDNxV3duTlp6WHZPM3JHdl9xb2ZXUzZaeDNsbFZWaTNJdVZlOEpBZGd2VjZoemNwSHYxS2UtRnBURXFVZXpOOXI4dkc?oc=5",
+     "published": "2026-11-13T21:34:00.000Z"
+    },
+    {
+     "title": "US FAA grounds all departing flights due to extraordinary circumstance, safety reasons",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUmVuWG9uWUpiX0JJV1RpeGhnTUF0NkRGT005RlhielVLTk1NTmdlWnZiU3EyeFQyRHBaTl9QalJRZ0tLbThCUEJHdl94ZlRqVWpWdmQ5UzVyTXBBbGstbG1uTFE5eXRmMWZvNm10T2U3QXVhdTloUzBRRVJ3emNDanRWQnRuRDVBTW1ZVGQzMmxWbXBBd0tCa3hwcUhodmJZb3lHb0pNcHNvRFZIOTlrdHRfaWluOGpfc2NncndhdXg3THJ6anVRSzlERVBQOGM?oc=5",
+     "published": "2026-11-13T21:33:00.000Z"
+    },
+    {
+     "title": "Iran's IRGC says two tankers hit sea mines in Hormuz",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcF95ZnlWcEp4N0diaUVYTDlxVXU0MktWMHVVUFUxVkdIUEhJcFZRTDdQVlI5Vjh4T2JIUFpMTmh4cmY4TUdWeWNsSFZvLXBIc1NlUm05VlBZUlk0RHpWRnZUUzVXU0xaT21tWmMwaGxjMnA0c2VmWENZX3FoNGp2MkFEMmxDV3Bkbm1mWkVmOF9sMXpuZ05jVDFXeUN2SnhoTVdRNlN3?oc=5",
+     "published": "2026-11-13T21:19:00.000Z"
+    },
     {
      "title": "Son of ex-CIA chief Brennan charged over sexual images of minor girls",
      "brief": "",
@@ -82,30 +106,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORHJqZFVEdlYtd3dzRzZraktSWjVLRmpGZlItMHNkY25qejFzX2pDTk91V3dpdjdjdk1JNTFycThoajlKcnh3RWtzeXN1Rkt5N0NMTWxpSGFOM1MtcXhjN3liRzdYX1VNc3daQ2VRMUJSaUtpb1NZcFpjeWY2czJEQWc5aWxLVGpiU1NRcVpUaEdGOURLWWw0SHR3ZUxIYkVNWTUzQWtKSXVuTGxuRWZj?oc=5",
      "published": "2026-11-13T18:52:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Ronaldinho poised for Ravenna start and, perhaps, one last goal",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVjBDYjJwOGNidkFyUFZpM3BLbW9xckd3SlhacmV3bXNqNHV2OXJPbmk5LWU2cHAwRWdoVDhfZTdiRVdxV3l4UG1vMEc1N0dmc042SDZDWDlrTkpnLUJVclkteEx5c3FuUkp6LUVCY0hqb21Fc01yZTFQajRrTnNFWEprMTZ3MU5TM0dXbnd5ZVdJN3BENVc4czlvTE5DWkttcU9DUlVfTHlpcXdoMlY4ZXVnczRXc0ZJcmlETXFB?oc=5",
-     "published": "2026-11-13T18:20:00.000Z"
-    },
-    {
-     "title": "Paraguay adds criminal association charge against ex-president Peña",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZjNhZ0ZGQkZ5QmdlNnFGM3RLQzZxbmcxMnMwa0NzbDdsMlNaYmlLYk0yNkctejdhWGM3MG1aUkl3VjV6T2wtV2pJYnJ2X0Y3bGg0Qk9RbDd6MHAwcnM5VWxRYWVnU2lra1FCZ1NNQjY4bUlRc2ZlTWRpUFJsb1lfeXpjSUdrbk5aUGwwalpkUjFoMEJWc1pTZHRsTUI5X0QzSjZuRXlDVTROVlBDME1JNkJWZ2kyZw?oc=5",
-     "published": "2026-11-13T17:52:00.000Z"
-    },
-    {
-     "title": "Other Sports: Mixed Martial Arts-Several jailed over Abu Dhabi hotel brawl ahead of RAF event",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbGMzSFMxRlNaaURtcTBTV2EyWjY1ZnVCSVUyMEtHQlA2NFlNRFlMSkkzMFlMMGJaUzVFbnpIdWc0aUxGRWpLWHdSRVE1OWFlX0dBM1VTR1hUd0wySUswSW9ubTR2ZFZKS1YxVGVTZFBOS2tZSlpWaGJBZzNFTmtrNHlNaGg0SnFyZjZNX2pPZjRqSnZub0RDTjAxS2FNN3Z5ZjVJbF9YdmZXekpReUhaUGJfR0l3UTlPMFVTa3doZVVDc3pMUmhNODF3?oc=5",
-     "published": "2026-11-13T17:46:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
