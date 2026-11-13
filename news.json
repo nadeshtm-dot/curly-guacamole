@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-13T12:59:25.783Z",
+ "updated": "2026-11-13T14:10:31.750Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Bessent points finger at Commerce Department in Nvidia scandal as Trump advisers discuss possible Lutnick ouster",
+     "brief": "Treasury Secretary Scott Bessent on Friday accused the Commerce Department of a delay in labeling Nvidia customer Megaspeed a possible national security threat, publicly airing an ongoing administration blame game…",
+     "link": "https://www.cnn.com/2026/11/13/politics/bessent-lutnick-nvidia-megaspeed-blame",
+     "published": "2026-11-13T14:10:31.919Z"
+    },
+    {
+     "title": "Paris court annuls Sotheby’s sale of Pissarro painting",
+     "brief": "A French court has annulled a Sotheby’s sale of a Camille Pissarro painting and ordered the auction house to help the descendants of the artwork’s original Jewish owner.",
+     "link": "https://www.cnn.com/2026/11/13/style/sothebys-nazi-looted-pissarro-scli-intl",
+     "published": "2026-11-13T14:09:31.922Z"
+    },
+    {
+     "title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
+     "brief": "The cost of doing business in the US is getting increasingly pricier: Wholesale-level inflation accelerated last month to its highest rate in nearly four years, Bureau of Labor Statistics data showed Friday.",
+     "link": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+     "published": "2026-11-13T14:08:31.949Z"
+    },
+    {
      "title": "Manchester United hires Mauricio Pochettino as its new head coach, US set to begin search for replacement",
      "brief": "Mauricio Pochettino has been confirmed as the next head coach of Manchester United, the team announced on social media on Friday.",
      "link": "https://www.cnn.com/2026/11/13/sport/mauricio-pochettino-manchester-united-head-coach",
-     "published": "2026-11-13T12:59:25.905Z"
+     "published": "2026-11-13T14:07:31.952Z"
     },
     {
      "title": "Grief reverberates through this church near the deadly Brooklyn collapse",
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year-old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
      "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T12:57:25.962Z"
+     "published": "2026-11-13T14:04:31.984Z"
     },
     {
      "title": "The Italian waiter held our baby. Then the unexpected happened",
      "brief": "Welcome to our first roundup of CNN Postcards: short first-person travel tales capturing the highs, and sometimes lows, of travel.",
      "link": "https://www.cnn.com/2026/11/13/travel/cnn-postcards-brief-vivid-travel-stories",
-     "published": "2026-11-13T12:56:25.969Z"
-    },
-    {
-     "title": "Hear Dolly Parton’s final recording, a heartbreaking duet with Bono",
-     "brief": "The legendary voice of Dolly Parton is back for one last rodeo, months after her death.",
-     "link": "https://www.cnn.com/2026/11/13/entertainment/dolly-parton-u2-torn-released-intl-scli",
-     "published": "2026-11-13T12:54:25.994Z"
-    },
-    {
-     "title": "How measles came raging back in the span of a single generation",
-     "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
-     "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T12:53:25.976Z"
-    },
-    {
-     "title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
-     "brief": "Duran Duran’s Roger Taylor has stepped down from the band due a deterioration in his tinnitus .",
-     "link": "https://www.cnn.com/2026/11/13/entertainment/roger-taylor-quits-duran-tinnitus-scli-intl",
-     "published": "2026-11-13T12:52:25.983Z"
-    },
-    {
-     "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
-     "brief": "Friday update: Outlook is still down for some, but Microsoft says it is seeing “some improvements.” Check CNN’s live story for the latest details.",
-     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
-     "published": "2026-11-12T12:00:00.000Z"
+     "published": "2026-11-13T14:03:31.929Z"
     },
     {
      "title": "Kushner says Europe to join next Ukraine talks, but Putin stands firm on territorial demands",
      "brief": "European delegates will join the next round of peace talks with Ukraine and Russia, US envoy Jared Kushner says, after a brisk day of diplomacy saw him and Steve Witkoff meet both Ukrainian President Volodymyr…",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
+     "published": "2026-11-12T12:00:00.000Z"
+    },
+    {
+     "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
+     "brief": "Friday update: Outlook is still down for some, but Microsoft says it is seeing “some improvements.” Check CNN’s live story for the latest details.",
+     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
      "published": "2026-11-12T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,30 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Thailand lets tourists turn crypto into baht for spending",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWDdGVWxCRy1mcllDTENvZWtDUTRRVUhNS3RCektMc2ZLSU5DVEtlVzlyaGpSbzhGbjMtbVh6N01sNFB4T1E2c0o2R0pjbmFITzVUNWJRZ3RWVEtKOVRoU3l3bjB4a09RNVFzQk9RR0JoRE15aXA4RzFhejQxUUV0TEYxNVh6TURpakhiTUd0ZExMOUZCUm9NM3dIUkFpcGd1dXpaUVRJYVFEdlp2bVR0WXVxc0IyRWJVZ1ZQMg?oc=5",
+     "published": "2026-11-13T13:51:00.000Z"
+    },
+    {
+     "title": "Cricket-Saqib takes seven on debut but Pakistan and Sri Lanka draw first test",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU9EdExja1ROc1h5el9rUFZLU3N3RkpnN3YxRlVfR3pXVXMyQm5xcUdGMzAzWTJOeU03ellpVzlfU1JnLUpnUWExWXQwZXliMlJvNXlPVzF3eDdyVC1ZN053NlBHdnVHbVNlajdvUEVZX0x5VXRqb3dxdjBYb05lRFBDVXo2S3JhUHhMdm1EZ1FwcW9sQkc2SGFfNEt2cDRROW5kMnRwWWJwOFdFdVpyN2FCN2FFRUk2amoxTC0xQWxES3ZreVRyNg?oc=5",
+     "published": "2026-11-13T13:12:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Barcelona finalise €300 million bond issue to complete Camp Nou renovations",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3N5MUI1azdBZHZkLXhBN2xINWpUQ3lJT0lLYVZ0U2xmeHM0NmpmSG5RTHY1bS1rWUJsM3otWTJzeTZsY3E2bHpzd3JCSTJHUkVEMXktV1NpNlgtR1ppRzM4bXVmOUx5TVpyZTRoWXQyeWhINjdONVpEakl5RExGYTlRd1ZpbkVwNU1Fc2pTUTJOMkFsTi1Vdll4eVFJMGR6T2M1el83d05HejJPOEItS0gzcjk2andhODVtbGdQVVk3blFMT2FNeFk1NzZVQTA?oc=5",
+     "published": "2026-11-13T12:54:00.000Z"
+    },
+    {
+     "title": "Immigration detains 22 foreigners in raids on suspected illegal online activity hubs",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnl1VzZ3NEtMbHppLUdmVm9mS3RRek9jSm9jWF94bWZTajkzNjNDVXU5c1k5TXVJS0xoN256SE13ZjhBbjhieVhxMlptcTlVZlhzR0Q4WUxad2ltMDhwWDE0Ty1FOXBDNjBGZ0tMcW1DZTl1TWJLQkpOZ1p4aWliTDY0TDVPUzhtNW00TUVVYk1LNmFhN2dCWXgyQkl2Y3p2UXV1M19BbEdrS091LXVzQ1pHUVVyYnBRTHBfUXRsakIzZkFNeUM4VWVSbjdjVkE?oc=5",
+     "published": "2026-11-13T12:52:00.000Z"
+    },
     {
      "title": "Sum Technology secures RM30mil Islamic banking facilities from Maybank Islamic",
      "brief": "",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcEFERFdpS0hkRHNzYmpON2dYcUxseEl6bE5vT0djXy1vcTNLX01kSVJzTEFabEhIeUdYYklmZEVPSHFUcVU0YXNpaXkwMFhBNzJveXdvNkxramZsdF9OYl8xdEpMX0dIR1hPaWRzVDZzU0VKYzJXc2pEck9qc0RqYUhJVU9YdnliTVE2SVpzSjFpaURDSElqb3dBbUNiWjlibU9qa0RGeEZ3dHVNUllLa0Frc19SNUxad1R5WERKdjJCY2Z2Y2VnSjBhVWQ?oc=5",
      "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Zen Tech's external auditor resigns over unpaid audit fees",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSHVuNTZSdFhTVklaMHNkd0l2cEhKOUgxRzh2bnNmcHJGanM2MGxsSHZXUmZRU2xxWG9LSmE3V25DRzhhaFl5QktwampLQUxTOWtmcjRDeU5xUGdmX3RRZ0F1WmlJQVFMaVJCcTNydHJhM1dCMXlzTGt4V29RanB1NVhUVHdiZWk1T2JYRHVDbHMteEFiWEpEMDR0TVl5WnREMThGdy01UFNYOEJ4cDF4SXl3VXJKM2NjSUxxeldR?oc=5",
-     "published": "2026-11-13T11:48:00.000Z"
-    },
-    {
-     "title": "Govt finalising Digital Infrastructure Bill to boost data centre resilience",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenlpYjlsXzV4eGxqMTROcWY1Rzl3aWVJdFJlMS1xTk1rZUJjSkZyTXIyMmFOU2pWVU5lZnhXM3ktNEZVUG8xTE1idE5OR1FpSWx0M1g4WFRPMDdoWHFpOU94cTd1d3BhZV9VT3pKOG42dElqRGM1Y0ZTdk54cmVPQ1JMbTZReUFDcmZTN1dySXNLSkh5ajVkR2tRWGZXUXc5T1hJNTFXYjdBbWJTbmRmdXJzeTZ3b1RpdHV3RE12bnlSVGc?oc=5",
-     "published": "2026-11-13T11:43:00.000Z"
-    },
-    {
-     "title": "Northeast Monsoon: Nadma activates disaster operations centres as heavy rain expected until March",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRUx6MkhGdG9hWUpzMXU5bWgtMTZVZk9TdFJXeWNNeW5YVmlVZW92eGNsV29lVzRaTElHNmlDTDZzamN6bURLTkM0ejRwMlRvbm5PY1VTY2JaT0VHaUM0SVVtWGIyX0MtNnMybGpDeDNiWmdIbktqTE0zbVlVNVZLQ2c5eEM5UWtpcGJ2Y194S2t3bjZtcXZPVDc3eFhhWkRscEdPcFNyNEh4TVNLd3J5TWt1RGc3SEdYejNGckVQcXNOdjJtakxIcEtDU29id3MzaHFJWHNxT1JNVWZaVkVV?oc=5",
-     "published": "2026-11-13T11:14:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Grealish apologises to Everton fans after missing games for discipline breach",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORUk5MFlmMXlHQUJ0QVZHUjVIZFVZVmZpYnZMZUV0enR3UnpYZmktOU5NZnhXS2h1NElERUE5TWV5TVI1VVh4ZC1iVWJrdVJDQ3NkRDFGWC1nRnRRT3pBclVuaVdmekZVTDQyUEQ0eWlSc2ZMY0pSSHVmalc0V052Q0Y3M0FGYmRRenlfNkhWZWUtZUNTcC1mQ2JlZ0lXeXFZVHhVU3I4TVlqUjhRcUYtN3NBWEtqSXd6bUZvTjlKVHZnUXhBOF9CWHhqOXpmN05Ka2FF?oc=5",
-     "published": "2026-11-13T11:11:00.000Z"
     }
    ]
   }
