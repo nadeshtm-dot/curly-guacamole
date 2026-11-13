@@ -1,39 +1,45 @@
 {
- "updated": "2026-11-12T23:40:00.578Z",
+ "updated": "2026-11-13T00:58:40.613Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
+     "brief": "The US intelligence community is still working to understand the relationship between a Chinese businesswoman who had an affair with Nvidia CEO Jensen Huang and the Chinese government, with multiple sources telling…",
+     "link": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
+     "published": "2026-11-12T12:00:00.000Z"
+    },
+    {
+     "title": "Microsoft outage strands office workers nationwide",
+     "brief": "Microsoft’s widespread outage left users across the United States unable to access their Outlook email, leaving office workers stranded (or celebrating).",
+     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
+     "published": "2026-11-12T12:00:00.000Z"
+    },
+    {
      "title": "Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge",
      "brief": "Richard Glossip, the Oklahoma man who spent nearly 30 years on death row before his murder conviction was overturned by the US Supreme Court last year, pleaded guilty Thursday to accessory to murder after the fact,…",
      "link": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma",
-     "published": "2026-11-12T23:39:00.784Z"
+     "published": "2026-11-12T12:00:00.000Z"
     },
     {
      "title": "Yemen’s Houthis hold mass funeral as they call for action to protect civilians",
      "brief": "A mass funeral procession was held in the Yemeni capital Sanaa on Wednesday for at least 43 people allegedly killed in an airstrike by the Saudi-led coalition, according to Saba news agency, which is run by the…",
      "link": "https://www.cnn.com/2026/11/12/middleeast/yemen-houthis-hold-mass-funeral-civil-war-intl",
-     "published": "2026-11-12T23:38:00.864Z"
+     "published": "2026-11-12T12:00:00.000Z"
     },
     {
      "title": "Witkoff and Kushner meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
      "brief": "US envoys Jared Kushner and Steve Witkoff arrived in Ireland late on Thursday to brief Ukrainian President Volodymyr Zelensky on their earlier Moscow talks with Russian President Vladimir Putin.",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T23:37:00.853Z"
-    },
-    {
-     "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
-     "brief": "The US intelligence community is still working to understand the relationship between a Chinese businesswoman who had an affair with Nvidia CEO Jensen Huang and the Chinese government, with multiple sources telling…",
-     "link": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
-     "published": "2026-11-12T23:36:00.847Z"
+     "published": "2026-11-12T12:00:00.000Z"
     },
     {
      "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
      "brief": "President Donald Trump on Thursday offered mixed messages on his approach to the war with Iran, first writing on social media that the US doesn’t “need a deal” with Tehran and pulling Vice President JD Vance away…",
      "link": "https://www.cnn.com/2026/11/12/politics/trump-vance-iran-deal",
-     "published": "2026-11-12T23:35:00.843Z"
+     "published": "2026-11-12T12:00:00.000Z"
     },
     {
      "title": "Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy",
@@ -48,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Industry leader earns prestigious award",
+     "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPREx3RGNkMk1LbVJKTThwTnVOZWpBV1lWdEZxOVI4RGVHWXh1N3c1MlFnalNENjhINXE1Y1FEaDdNeERlVTJ1TWhfVEdFNUV1eHJKQkcwV3VVWGxwV2ZSZzloaXhqdEpsMFFWazBZWjRQcm5ZWXdQYjU3YVhNblVUeHZnN1FFdW1DY3NScl9paVlLMDltTklnU0Jn?oc=5",
-     "published": "2026-11-12T23:34:54.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDBMekFSb3kwWTBtclc2dmUyQVlRTkZuaEVfODFPLVNYUkcyQUNZTmhwNEY0aF9Ccm5sUGVTRE1fRjBnQjg3WGZQNTM3Nm4zN25JNzBHTUE4UTljcG10T1c0eEtkNGxOd01PRlhmZVhQUUZRZjF5VXA5cS0td3RORFVRSERtMDhQZ0FSOE55Z0VCSERXS05VRXRTZjdQd2U3MmtnUTlPZEpkcUx6cm1oRnkwYTV3RXVEUjhjQmpxa2VENVRmb3c?oc=5",
+     "published": "2026-11-13T00:36:00.000Z"
     },
     {
-     "title": "Microsoft 365, Outlook down for thousands of US users, Downdetector shows",
+     "title": "Kim carries out inspection of new naval base",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcEJWY1pHZGlMSGJBX1pfUnJaSzlLVDdkUmNQS3Z0YVZfUXZOYWtYb2pCUHVTbGJSSVVlVTQ3WG5VQmVnRF9BTlhEeXBVckNUNTVfTi10c0hKQjlpU2FVTXZWTkpvTV9mR2p4WEJBV0xjQ1d4M096X1RnTmN4c2hlNU1wam9qejZiQllMendWNmsyc2FWSXI3dWw2Qm8zZkpGanlaUm13LXR1NkZOTTBvN25pUHRLTWlsR09MOGhXMVdfdw?oc=5",
-     "published": "2026-11-12T23:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTF1VzIta3NEeWhQU1cyV3ZEWVFEdXRtVlp1b25lbXZlTlBQcmxueUdoNm5oQmwzbGIwanloUVROcDlZUDhQLVZvUERZOXM1S3IzNzdwVV82TlloQWdlSmVRaG14dFBpTGRwWG9xVFpXNVdNbVotbmJQQ1JZMkdXR0V4dkh6TXJIdG96dEdmTEM5VjZ4Z2xyTXBHRzROQTJOVnFUVEctdFRkbU0?oc=5",
+     "published": "2026-11-13T00:29:48.000Z"
     },
     {
-     "title": "500 fighters to gather for martial arts expo in Setiawangsa",
+     "title": "International student screenings tightened",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeEdJN0F3c21KM2J2a1FvLVRtZi00eDdDNmVGVHZzaVVXdGlWcDFoeFlKc1g5QW5yQ08yWXFSOGFnZXJaaEZ1bFlaYnFzN29mN2k4Y2hYV21MRGRxclc4ay1nTHB2VnJ1WVNfdGtpaWVfNVJxbEMyV2xSTmRzX0ZHWlFxd0dJZENDLXRPQ3FxaGdvUEJFUUNKRXJkVXdOLVIxa0RwUHFUN0RsLXVEM0RodVdWdkQ?oc=5",
-     "published": "2026-11-12T23:28:54.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQakNWWW5WMmFiNmxfcHFNSHlPWi1JWnI2d3dUS1h2WTJiaFAzM3lkRFpGSkxPclFvTjFEcU1pZXUwNEEyelVOX2t4V0xMUGIxbDhjWXlTa1hWX1pxVnNZaWVmenF3a1hzRFRKUVhRMUc3TW42dkljdEtVVUNhQ1VZOElObDNDbGhRUWhacVNWY1Axc1JSUjhZ?oc=5",
+     "published": "2026-11-13T00:26:45.000Z"
     },
     {
-     "title": "Paraguay suspends power cutoffs over unpaid bills amid Ueno Bank crisis",
+     "title": "Improvements to electricity tariff mechanism under review",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMlZiLU5FUkJxUlU5SWRtZEp5SXNFV0FqTG1sNERIZUttc3FKUTR5c3lia0xNbUphX2I0MHRucXRaMEpwOVQwTmxyVVU5VnpBUl9oUVB3ZlpOb2ctLVowei11SmRXWDROLXkxX1NzVUZGY0RWdlNpNTk4dlQ1ZTNVLUR4SFpfVzR6bFh2VTlqTGpWRnZwVllTdUVGMmdOUHh0WG9rdm1iQjgwMF9IN0hSVzlZSW1GemNYRWd6bQ?oc=5",
-     "published": "2026-11-12T23:06:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb1lXQjhGd0NNUF9ETXB6TUU5dmVoWHhuZlVzODZyMDFvMy1mZDVLUUJXdjc4a05CSGZpR2tpNG5HTnNFYkhLRGVOQ19CbHdwXzNqanRpZmt0ekN4elVqZEhzLXJzekM0bG5tTXV5OE9RYVI3LXlUQnNtUVoxdWpBQW1qNHVsSjg1QVVvUi1rSFRLMHZBV1ZXcnNPbS1mRUpUOVpQaFZyVnZ6dTA?oc=5",
+     "published": "2026-11-13T00:26:44.000Z"
     },
     {
-     "title": "UK surveyors face weak housing market",
+     "title": "Football: Soccer-Spain's Lamine and Oyarzabal to return for England showdown, says manager",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQUNteUNEbDhsa0EzSmZ0WWE1NXVTekRHeWY5SHZSZXUxMWp2aGZRNTFKVXNFVlpmR3Y4WF9RUzhjRVZfVGE5OWwwSFNxdHF4d3RkWVpnRlZ6SGtfa082Z0k4SGVxU09qSVhJU2FVM0JxNEFXMndXeDBjeUNJZHEyZFR0QXcwZUtYU19yZzhZVkRnZGp5UE80REtCRVprZw?oc=5",
-     "published": "2026-11-12T23:05:11.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQlFubExMeFVmRmY4a1A2cVVOQUc1RVNqQVdyYWNCVzFoLUJsWXJORFJUbFRjUUY4YzN2M1FMdk5vdERTZU96RTM3SDdhYldmdHZfczBCT0x1OWR5WGw4VUc1SlAybzBMOFJ1Uk9CdVY4SlJpNjFibUtNYld4OHZwelZUU3IyWU45Sk5MMkN6b1ROVTU5VE1BMjd3QWJ6LWwtbEJYREFxV0x3Z3NuQVlhbFZsWlA4ZUdHcEhuV2Z5czZZc2Ixd2VaYWx0dlpZSFU?oc=5",
+     "published": "2026-11-13T00:26:00.000Z"
     },
     {
-     "title": "Tennis-Gauff beats Kostyuk, awaits Pegula result at WTA Finals",
+     "title": "Surge in visitors from China",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaXlEdlAzTU1fZ3Vla0R3V0ZZVXpONDhLQ3RHNlg3N3Fnd0FNNlFSY0lvbEhPd280TzNpUXluOFZaSmo4amoxdDdqeFNtTkt4ejdvSnh6eW5CUzlCaExCRHdvc1JPM3NqT2ZNSEhCZmhwUXpVMkpCaEt4b0tKOW5UMUlWdXBqb0lNMnp5Yk5DSE5IT04yYlRmTEJST1l3aDNtMU82OTM1cmNPelREdTA1blNn?oc=5",
-     "published": "2026-11-12T22:35:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzBMSGM2Wko0elJETG5tNUNTMFFvOXktbmdObi16RWpqT3BDZnZNTE45R3AwY24xT2Zrcms4WncwdW1EcmxZQmZ4cXR5bmdfNGFSY2Zid0dXR3Jrb1JzTXltSV9zdmtFNFhxNkFUbmZOak9FT29pOTRQVHRLWTRacUc3dHI?oc=5",
+     "published": "2026-11-13T00:25:32.000Z"
     },
     {
-     "title": "Ringgit ends higher against major currencies",
+     "title": "Sixth body found after water surge tragedy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY2xBbHl0WVpzel9vUmJMRlRMNEsyWG9fSUVLNUlBNDlNLXVDVE9fSndhN1JpSnc3TmRxOG4zTU1IblVZSkMyenN4MWpWNFZVcERzUmZuMkkyRUhRNkxTdklBMWdqQ3QwLVVIWGhCMVdGcUhONW14Tjd3akpnc3J0SGJxRFVWVTZXd1BETWxhWnRqRnNZY1FnRllBVkdvMG9JdTFucTlWalM?oc=5",
-     "published": "2026-11-12T22:04:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDU0YmMxdi04WlV3WVozRlRMazRuNVJJN29DWGI2Y3RSNGtDX3gtV2kybjNvNVB6bnhHdldkTWVPdTRPdDhNRmZ2elozTDFON2lGWUxmakNZQVVVVl9GRUpxZkJLVHBUQVFnVzdBX2EtRUR5Z0VwNEFsdENvRFhnV0ZyVEN4VGZjeE82RzNMSjNrem53d1Bj?oc=5",
+     "published": "2026-11-13T00:24:17.000Z"
     },
     {
-     "title": "Hektar-REIT upbeat on prospects",
+     "title": "Sarawak and Kelantan top diesel, petrol leakage cases",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUmhKdk9yR3ZDVjdRYzBiQnNYYzRocGtRWFZwdHhLTHdfSmVoMGdWalJ0V2FDaGdvbG9HeHAyXzFlNHBTN3Z2YU1XVmpxSHlSaXVSU0dneU9VcjJHS2czVWp6M2xxajBjVU5aVVI3VEI5N0tTNUZZcXd0OUpGTDVKT1BZYjdLZHptM3hjcHVVWkZXQWNzclFR?oc=5",
-     "published": "2026-11-12T22:01:18.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVFQ4OUt0RGtyTHRvVWpGMXpvVjJKNThNazItckUtdmt3WHFocGZVQ0ZPMUtVR0FFNG43Z09iVXdaTEJEQUtxdzBuc3o2V196LV9sX1k1QzVpeER1c01iQlU5WldDdWczR1h3MWtlTDZhcnFQbzgzUjFBZHp2eGhXX1ZCUWY0RXR0Zzl5NlF5LXdqU2cyaWd5dEI2WkRDMzNrSGo1dw?oc=5",
+     "published": "2026-11-13T00:24:17.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 6 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
