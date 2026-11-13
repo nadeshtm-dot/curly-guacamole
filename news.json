@@ -1,54 +1,54 @@
 {
- "updated": "2026-11-13T09:55:13.324Z",
+ "updated": "2026-11-13T10:55:13.627Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Roger Taylor quits as Duran Duran drummer due to tinnitus",
+     "brief": "Duran Duran’s Roger Taylor has stepped down from the band due a deterioration in his tinnitus .",
+     "link": "https://www.cnn.com/2026/11/13/entertainment/roger-taylor-quits-duran-tinnitus-scli-intl",
+     "published": "2026-11-13T10:55:13.774Z"
+    },
+    {
+     "title": "A million mood boards later, there’s still only one Sade",
+     "brief": "Despite being one of the world’s most elusive artists, Sade Adu remains instantly recognizable.",
+     "link": "https://www.cnn.com/2026/11/13/style/sade-style-fashion-influence",
+     "published": "2026-11-13T10:54:13.857Z"
+    },
+    {
+     "title": "Trump’s tariffs face a new threat: Republicans",
+     "brief": "In the two years since President Donald Trump unveiled a slew of aggressive tariffs on America’s global trading partners, the prospect of stock market backlash has been the biggest restraint on his agenda.",
+     "link": "https://www.cnn.com/2026/11/13/economy/trumps-tariffs-new-threat",
+     "published": "2026-11-13T10:53:13.809Z"
+    },
+    {
      "title": "The AI boom was built around Jensen Huang. Now what?",
      "brief": "Jensen Huang’s resignation from Nvidia in scandal leaves the company without its visionary leader.",
      "link": "https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia",
-     "published": "2026-11-13T09:55:13.469Z"
+     "published": "2026-11-13T10:51:13.843Z"
     },
     {
      "title": "Darth Vader’s ‘I am your father’ lightsaber sells for record $4.87 million",
      "brief": "From a galaxy far, far away to a Dallas auction house — a lightsaber wielded by Darth Vader before he delivered the famous line “I am your father” sold for over $4.87 million on Thursday.",
      "link": "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record",
-     "published": "2026-11-13T09:54:13.529Z"
+     "published": "2026-11-13T10:50:13.836Z"
     },
     {
      "title": "Senate leadership showdown could fracture Democratic post-election unity",
      "brief": "A Democratic leadership tilt between a 70-something Chuck and a 60-something Chris hardly screams of the torch-passing moment many activists crave.",
      "link": "https://www.cnn.com/2026/11/13/politics/schumer-van-hollen-democrats-leadership",
-     "published": "2026-11-13T09:53:13.532Z"
+     "published": "2026-11-13T10:49:13.851Z"
     },
     {
      "title": "Immigrant neighborhood in Brooklyn leans on faith and community while demanding accountability after deadly building collapse",
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
      "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T09:52:13.534Z"
+     "published": "2026-11-13T10:48:13.859Z"
     },
     {
-     "title": "Lovers and spies: How foreign agents have long used ‘honey traps’ to steal secrets",
-     "brief": "Think “honey trap” and you might imagine something out of a James Bond movie: a beautiful, mysterious woman who uses her allure to get close to an unsuspecting target, feigning affection while extracting valuable…",
-     "link": "https://www.cnn.com/2026/11/13/world/honey-trap-spies-jensen-huang-nvidia-intl-hnk",
-     "published": "2026-11-13T09:51:13.518Z"
-    },
-    {
-     "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
-     "brief": "A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.",
-     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
-     "brief": "Maryland Sen. Chris Van Hollen announced Thursday he would challenge New York Sen.",
-     "link": "https://www.cnn.com/2026/11/12/politics/chris-van-hollen-chuck-schumer-senate-democratic-leader",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "Witkoff and Kushner meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
+     "title": "Kushner says Europe to join next Ukraine talks after meeting Putin and Zelensky",
      "brief": "European delegates will join the next round of peace talks with Ukraine and Russia, US envoy Jared Kushner says, after a brisk day of diplomacy saw him and Steve Witkoff meet both Ukrainian President Volodymyr…",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
      "published": "2026-11-12T12:00:00.000Z"
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Hosts sought for three future Africa Cup of Nations finals",
+     "title": "Emergency lane at Bidor-Tapah stretch of NSE closed temporarily for barrier upgrades",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0hBeUc3TEotVGpKcGR3aEUxTlhkbEIzMWlVTFpvWWMwemw2R3JROEVVbEhtaUw4TnV4WF9TMENkdlFxNmZkek8wZU5JWFRORE9YbTVZeEhTc1p5MEF4ZE1yTG81eW10S1ZJd2d1cTZ5M09YNzBXelI4VzNSZXphYWFOT05aaVFZR0MxOFZ4SUlQeWFOeEN6VWNWWEt6NXEtdk1abEZ2dEMzV0hKeHFWeEF0MW0zWXdjdGc?oc=5",
-     "published": "2026-11-13T09:38:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTEItUXVvNWp3SlNuakhlcVRNaEs2WHZndW8wdzV0Q1JxZURKTi1PTEhyeU1ibEJrREtyNUpqajVxblNueDZXSWE1X19ESGxGZ3pGTXVCVDlLTDVpb25UZFVpbElnSV8xWHZLcV9TdVVBcFc5WXl4d2trMVNaQUEweDA3b01wMDhlMEpraWpLS0FTQko2SHZ3d2ptMlppckxwU0xjZWdSbWRPZFJ5U1hXZDgwWHp5d2xzNzJFV2s5MTM2bVkwdGV5eUlkUUV0U2M?oc=5",
+     "published": "2026-11-13T10:43:00.000Z"
     },
     {
-     "title": "Cricket-Australia's Beardman sparks England capitulation with six wickets on debut",
+     "title": "Former Malaysia Aviation Group CEO Izham Ismail joins Maybank board",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX19PZUp2QWdWa3N6c1h2WUJzemo5Wk9POFY5dENMRnZXM1hSVVJsblkwZklrQVZLUm1lTHd3bDF1RG15Ym1xS19vTE5QMVVIZGN5NW94ZkZaYlNYNEduY2MwNnlaSXdQdGllOEdLampfU21sQkVObENyUnpBQlVpbl9yUElndlgwa1U0ajgtVmk1WmRCc1RfOEtUeU5ycThuWDFTTjBmUUtIWUdwdmRLWm1XZDJ2UHVYTjROTG5JM25SMGpVTUktaTVKdXllZDhxZGc?oc=5",
-     "published": "2026-11-13T09:24:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVl96QnVLQkU3eFZLZ2J1UzhONDdKNlUxY3VrNWVJdkwtNXYxQ3JrVXIwQlhHRzB5bnVMc3JTN3E4a2hJZHdsc29MREMzd0xBUnUwSFRxbzdkbmd2M3JlbERZOUtFUWxzOHMtMnh2QkJ5YUlKUmRWeEFDVkstbWtqa3FNcDk1Nm1zSW8wUUpUWnRJTWtiLU9MSUVMSzlWT3k5YjhFdlJkclRjdTBicDlSck5yVVlfd1VlUkllMnk2QTVpVXJBcGZJ?oc=5",
+     "published": "2026-11-13T10:34:00.000Z"
     },
     {
-     "title": "Cricket-Young smashes ton, Henry takes six as New Zealand crush India in fourth ODI",
+     "title": "Sweden's Kristersson to offer centre-right government plan to Centre Party amid post-election deadlock",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjdHX1l1aGtBOEo2Z3VoeEVlckQ1dDFCVUhJLVZJQ2VWWnZFelpFQWVXZlRjVFF1YUNWcU5zTDJNRmZZdVpxM2ZlSi13clVod1JzaFhWZ0xFY0JwNmJodnJ4cEtSSFl5Q0VucVYxY292RU5HMndiUDJkVjVTcnNTT3NoQmoyenM5ak5qOHpYWTdab3hHenppNzFqTGpYR1dYUDdZWjRDczhkQU11QUItVWQ1aHc0ZV9kd3M0NDBwWndCQnZOLWhQVHJXUjFreDQ?oc=5",
-     "published": "2026-11-13T08:59:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVG9sTl9jQVFzbWhuZjA0QmZWVmI1X0JCcVB0NmlDbE1fMGdCZTR3bnBRSDlydjNMNzR1Z3BWSmpxUnVkLUZNOGZ2Zkw0LXViSUIzWUlUN1hHMW9XTFRSUHR2WWxIU2k1TDE2dWpKOEZkT29KbFhHUmEtWXppS05FZklvTFNRTWhKUXdjblZ6TTZmWkgzSGZFS0d5dG5qU2RlVFlwNmZlMG9MMzFWSE9kcE1YYU5ndU9Lc1BmM0NOemk2NmJUbGozaTFGa2ZEVEdJRmw2OWpHdHd1RUlobFNFTEZld2M0alpI?oc=5",
+     "published": "2026-11-13T10:23:00.000Z"
     },
     {
-     "title": "Francophonie Village opens in Cambodia to showcase cultural diversity",
+     "title": "Four Asean central banks sign MOU on local currency transaction framework",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmVDQ2hjcVhWclFiSzVBSjJGYmFFZmRRSng4VHp4ZEFlT29oMzFhX2xJbjZGdE00R29qc3ZtNWoxbjJMWEpKV1gweDdhLWtTbGVmN2tEbVdzWnphYXNxRHBuS1hFcjNUMGZFaF9wYnhIb2c5NmY4blJYMmhlOVpFM3ZwU1RndEVvYkcxTDdHYml3ZHBIMFZoV2hXdHhJUXpnQ2dGdS1XQVh6U3NDSEhVbmROSUFldG5BZzFVRkVneUg0aW9YVklQSWl4MzI?oc=5",
-     "published": "2026-11-13T07:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQLVZnUF85aVdOb3Y2Q3JxY0duR2IxZjBSenFxQ1lWOGF4N2N3RDI5MzZicDZRWmZORGV4MmdjRTE5VDFGU2l2aTNOOEtUUHlMMnROQ0dNOEN6cEhueVUwSVFpNEJjR29hYVZHdVUtQTJhN19xZEJMVjEwOHdlYkM2emt5eXI2UE9XeEJDTWZQRm1VR1dNaXhlUHBTdXJLNDZBWVJ4SHlTRWhCYWpXX3hJN0xJc0wzenhLZllhSDZZVHM3anJVQWlMMGtGc05zTkE?oc=5",
+     "published": "2026-11-13T10:20:00.000Z"
     },
     {
-     "title": "Alliance Bank offers flood relief assistance to affected customers",
+     "title": "South Korea says Nvidia will keep GPU pledges after Huang's resignation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1NBQjZsUmlUYnd4YWtpeU9IcXlfMXhWenFERk9oQjByN2JSNzNFTUpGRTE5NmpicjNsbWRxRzBoc1cyeWlyaTRMVHlZX2YwTF9pNjFaczVlb0QxdVptOU1CSHp1Ym93Smd5T0VBQ1lZbEQ5QTd6U2pTUEZvY0dTMGM1QzdHclJsNUhuWHE1cnM5OE9ZNXkzNWFYX1lGS2Zodi1QdUVkV01uaTFpbDBkUFkwZEt0eWdIVWxXa2FkYnljejUtQ1E?oc=5",
-     "published": "2026-11-13T07:33:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMjhCQnZLVGswczZFcUEtQkN6SG9fNGg4NHRsczlQYXdHNnZLTWNtbXJJNjFOemJsTGZRRFRmcHJmQzg0WWpUQTlSU3FCRGszWmpyZ0pMQ3Jfd2tmMGhtckRyUmVDN3VpNERXWUlzVXZUWWxuZFJIUUFOZkhNdzIta3lLQkViVHYwVXlJb0RGckhVX1Rpb1hPcmVWdVZIeGR5LVlzSVc2c3FqR0JIOXc3eHpxeXJWQVAyV2lMaFp3VXEyT0t0?oc=5",
+     "published": "2026-11-13T10:15:00.000Z"
     },
     {
-     "title": "CelcomDigi introduces streaming passes from RM1 for prepaid customers",
+     "title": "Heart And Soul: Falling in love again",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalNmMC1SRFlNZGc2dHI0TW1jaW94Njg2LUtJVGRSdTllZ20yWmhjVEtNY25BRHdpOFR6NDhCaHlTdFFla3dlcWVmdWlOSFh1MGYza0dYSE9tV2xRMDZydWYwRTBoWUEwd1JHWm94eHRIdWNtUmVoT3NGaTNmSm5YT213dURoaWxlNW92OHdUUi1rbGpaUjN2Qk03QUpOMy1ZZzdQcy1vaUxkR2FKZnJIYlZXTi1kNWV1TUUzNUhqSmJKc0VDbXB6QUhn?oc=5",
-     "published": "2026-11-13T07:20:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUlN6azBKSmNreTU5OFhQU2RzUlEwamtJVTNIc1FGNE8weEczV2ZoZUFPTWNFLXprV2k3VVcyNThadW5Xb0djQkJ1cGltS0hmdzYwcHdMSnphQUVOTFVEWXFIN19GREVoVVV3RHg1VlpBOUMzcG9ieldNMDB1RjNzR2lpNUhZMTdHNklsWWNFVzVkZ0xXT3c?oc=5",
+     "published": "2026-11-13T10:00:00.000Z"
     },
     {
-     "title": "Married couple found drowned in Papar farm pond",
+     "title": "Singapore says it found insufficient evidence to prosecute Alice Huang, the alleged spy in Nvidia scandal",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenNoWm92bHl3RVczTFplVXdnMXdkR1RVYkZMWGo5aXFiTHMzejZ3SVZKQVhNajZSY01WYi1vYjNNbnpoUmlFd0JHU0tCZEJKLXNRejVZVmdLb09pVWZFVUtzVUMxMzBaOUxxQ1Blemwzenp0MEZDeWlheVVlbEFGSHBDRzdlLS1Gc29YS1ZxdUFJX3dmX0xFV0Frakh1QQ?oc=5",
-     "published": "2026-11-13T07:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONVB3YUI0MUp1UHhhbTlPY1lKWUNHblEwdnR1Ump5NHpNaV92NjR1YUpMNjlDMmhjTkNzQTUyVm9NUUpZT1lXTFViMkx0Y0lwSmxHU3ZPV2JjRjEzQUY1MUpPczQ4dmJja2hhV1YzOEMyUUJlYjZxd2tRSWlfMzMzRDdDMTBMem5RNUhCN1N0NmNOMVp1UHJncFVFTm9QQlQxSUJOa2VwUExoNWdOME1Yb2loaXE5aHFxU2l4S25kZGZQSlIyVTFLUlQyMWh1ck1FVk9haU1YQXIzeVlGZWx4d0liVnpkdDNyWDhmX2NvSW1rU3MweGxSU0hzcw?oc=5",
+     "published": "2026-11-13T09:49:00.000Z"
     },
     {
-     "title": "Nation",
+     "title": "Quantum Systems says grounded German military drones flying again after cyberattack",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE1hZy1heF81YUhIWWVuWXRSVDFKbDMxcXJHcXBpd2NzZUJzNGxRci1hZzFISE9EUm5iUU04VGJkWmdNN1FsMi11M3V3RENkam5hTDJmTmdRZTI0b3ktUGtUM3JaZU5Fd0NkdnVvUkktWEw1UmlYcF9jM2U4cXVhR0hmZDEwN2I0NjJtLW5xcHk1dw?oc=5",
-     "published": "2026-11-13T06:00:24.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSlhtTk5waVFmektfTVRYeTlDTEY2Ui1zUlFwZURxWTN0dmszM1o5UkN4NGtzMWVoN2ViUkJIRHNpMWhWd0MzeEZYMmZaWHBONlp2Q3BudS1ZeFptdDVzS0ZfYVB5aUhpQzl0aTlVRUhFaE5NNTVsRkZ2Uktic2lBelJkVjhpUmpqSlZkVEVhLXRCRjVXS3J5VU1DMTdENWdCVnZmeDQzWVJZTzc4Q1VWQ194Tkl4dVJJa2FOVC1XNUtPSEJQWmNuZmZTQ21Rczhhb0E?oc=5",
+     "published": "2026-11-13T09:48:00.000Z"
     }
    ]
   }
