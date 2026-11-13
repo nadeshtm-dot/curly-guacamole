@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-13T15:45:30.936Z",
+ "updated": "2026-11-13T16:49:59.404Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘Hell, I was living it’: Joe Biden airs his frustration with Democratic critics in new memoir",
+     "brief": "Responding almost point by point to his many critics over the last two-and-a-half years, Joe Biden devotes a full chapter of his new memoir to rebutting questions about his mental acuity , his decision to seek…",
+     "link": "https://www.cnn.com/2026/11/13/politics/what-biden-says-in-his-new-book-about-2024-and-his-dealings-with-netanyahu-harris-and-pelosi",
+     "published": "2026-11-13T16:48:59.583Z"
+    },
+    {
+     "title": "Moscow car explosion injures former aide to pro-Russian Ukrainian politician",
+     "brief": "A car explosion in southern Moscow injured a former aide to a pro-Russian Ukrainian politician on Friday, according to Russian authorities, the second apparent attack in two days.",
+     "link": "https://www.cnn.com/2026/11/13/europe/moscow-car-explosion-ukrainian-politician-injured-intl",
+     "published": "2026-11-13T16:47:59.590Z"
+    },
+    {
      "title": "How doing psychedelic drugs with Mike Tyson helped documentarian understand the baddest man on the planet",
      "brief": "Why did Mike Tyson fight Jake Paul ?",
      "link": "https://www.cnn.com/2026/11/13/sport/mike-tyson-dmt-documentary",
-     "published": "2026-11-13T15:44:31.177Z"
+     "published": "2026-11-13T16:46:59.593Z"
     },
     {
      "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
      "brief": "Deadly measles outbreaks have driven case counts higher than they’ve been in the United States since the early 1990s, and the country is on the brink of losing its measles elimination status.",
      "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T15:43:31.171Z"
+     "published": "2026-11-13T16:45:59.586Z"
     },
     {
      "title": "Joe Biden and Nancy Pelosi are mending fences after his 2024 dropout, his new book says",
      "brief": "Joe Biden and Nancy Pelosi have broken bread.",
      "link": "https://www.cnn.com/2026/11/13/politics/joe-biden-nancy-pelosi-chuck-schumer-2024-book-promise-me-america",
-     "published": "2026-11-13T15:42:31.175Z"
+     "published": "2026-11-13T16:44:59.601Z"
     },
     {
      "title": "‘Standing up here alone feels wrong’: Steven Spielberg honored at Museum of Modern Art Film Benefit",
      "brief": "Hollywood legend Steven Spielberg, who at 79 remains the highest grossing director of all time, was honored on Thursday night at the Museum of Modern Art’s glitzy annual Film Benefit, an event to raise money for the…",
      "link": "https://www.cnn.com/2026/11/13/style/steven-spielberg-moma-film-benefit",
-     "published": "2026-11-13T15:41:31.164Z"
+     "published": "2026-11-13T16:43:59.576Z"
     },
     {
      "title": "Manchester United hires Mauricio Pochettino as its new head coach, US set to begin search for replacement",
      "brief": "Mauricio Pochettino has been confirmed as the next head coach of Manchester United, the team announced on social media on Friday.",
      "link": "https://www.cnn.com/2026/11/13/sport/mauricio-pochettino-manchester-united-head-coach",
-     "published": "2026-11-13T15:40:31.155Z"
-    },
-    {
-     "title": "Iran targets US military site in Gulf for first time in two months as hopes for a deal fade",
-     "brief": "Iran said it targeted a US military installation in Bahrain early Friday in retaliation for what it described as an American attack on Iranian territory, marking its first attempt to strike a military facility in a…",
-     "link": "https://www.cnn.com/2026/11/13/middleeast/iran-targets-us-military-site-in-gulf-first-time-in-two-months-intl",
-     "published": "2026-11-13T15:39:31.148Z"
-    },
-    {
-     "title": "Wholesale inflation rose in October to highest annual rate in nearly four years",
-     "brief": "High energy prices continue to ripple through US supply chains, raising the costs for businesses and setting the stage for further increases in the coming months for American consumers.",
-     "link": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
-     "published": "2026-11-13T15:38:31.150Z"
+     "published": "2026-11-13T16:42:59.598Z"
     },
     {
      "title": "Russia evasive after the US says Europe will join next Ukraine talks",
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Langkawi boat capsize: MMEA calls off search for three missing fishermen",
+     "title": "No migrant caravans headed to US, says Mexico President",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQW9HN2Jzd0hvUVA4ejdlZmFDcENCcVZSbDUtNUFEQTZjT19xNERleXdsNF90WGNieUNRak16WDhMTTRYV0Jaek91ci1YUU85M3N0YTFSY3BsckZqWV9DSVZCWkZvOWRIc3EzcmpyV1JxVHh0NEZ6R2dmM3pFTWItUFZmTDhQd3RKSm42anh5Wm93UDNOeTZkaDkwcllPTWI1SV9IZ1VrcXNGcW9oaXk1bDV6WjlfeEpiaEF3aG1R?oc=5",
-     "published": "2026-11-13T14:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNU5QYzlBWUdmNUdPbWNvekpGQjFIMks4ME1pU3RLTmEwUFFDSU1NbjdVd3JrN3Ezbl8tV0FYZkw5ZHY5MXoyc2l0R1lXb1JHUHlpYjJZSzN1ek96S3JqcE8yMm4wekp3N0VUWjAwMnp1aEo2cEkwV1NhQXBWYVBnRGc3OG1zb1VLZXdSeEhVOWZkMjRLVnB1SGNIRkhPM3VTWTlqanN3?oc=5",
+     "published": "2026-11-13T16:25:00.000Z"
+    },
+    {
+     "title": "Football: Soccer-Women's 2027 World Cup tickets go on sale from December",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOW0yMXprbk9fOVhXVkszYWdzQ1kwc0FhakVkZmltX09yMWhwWER2OUJFcjFubXFDMHZ6ZGx3emFqTDJ0Umd2RkpNU0p2OGRmU0d3ME4xWmhyWDZ5cFVrX3BRMVpFYUhNSTVnbTNWU05qakQ3QXFHWVdWRFFMc1VlU09OeHVOUksxQmhNTVNUX2JKdU9DblBTVnV1MEtPdldFajFEMnVuN05TSDJRV1NBZzBJdGRUSmNx?oc=5",
+     "published": "2026-11-13T16:12:00.000Z"
+    },
+    {
+     "title": "OpenAI launches ChatGPT Wallet, letting AI agents pay for purchases",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdmZSdDUzMGdGd3FRUGYzeGhnVGNTMVMtbU5kZC1XTTZlT0UxQkRsbmg4d0ltcHdDSTNaVGdLUU40UjJBYWRyVTlsSEFiamlQaHNucmdvLTlBTXpuR29wcHhReWlNR3cwTHozVXhzemJLV1lJOGJyZnF3Q3ptbXZzaFU4bk9menFjWlNPeTd6V3lVd1ZGNndNTlhVbWJKMTJPWXRFbVFTU2lvTGc4X0RVb0Fkb1ZYM2V3X3Bn?oc=5",
+     "published": "2026-11-13T15:55:00.000Z"
+    },
+    {
+     "title": "US officials say violence against Christians in Nigeria remains a key concern",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQVR6ZUZlMS1DVFVBQjhpa256ci01MnFSUEpndDY5SWN0WExJcUFVQklMVnQwSEI0SW5xX0pOMjYtUTNla3Rmc0gtS3NoYjNzbHVBN2U4YTg2TlJUWGVvWUNpLTVoTV9aR3JUR3hBYmVXaWVVaV9HVEdhVFRFSGVFdm93VnVCcjVqczZKMW1aa01DRDdyNGJmUEFLZ2lzS2RIaTVlclFUOWNEbGp3TUl5LVJ1QXZ2U2M1MFJaVTI4QXVOYjZq?oc=5",
+     "published": "2026-11-13T15:53:00.000Z"
     },
     {
      "title": "Cricket-Gambhir concerned by India's batting collapses ahead of ODI World Cup",
@@ -72,10 +90,10 @@
      "published": "2026-11-13T14:57:00.000Z"
     },
     {
-     "title": "Former Padang Besar MP Zahidi passes away",
+     "title": "Asean+ News",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQakNVcmx2Y2EtNVZ3QzdnclpkeWZPNEFVd2psS0tSeW5md1FoV1dmOWRxZFEzbFFma25WYkNSSFZvbWZ5eDFiWkx5TDFGUnpZeFo5T1pIaENEdG40SVFXZEFNaFFQODY4RjFOcExrZ0Z4T2VhcXpGTUVxbk1XT25KcC1LaVptRUllUkNYeEg0XzBNR3dOLWZjcmdR?oc=5",
-     "published": "2026-11-13T14:29:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Qi1UcXI3akxJZEp3bWowWVhRR0x0RTFGNVY1bVBiUWgzNV9BZjVyS21MaWM2emdpdjZNWTNxMzJpX2RtblB5ZmY5ZFlPU2tQYUFuZ3V4SnQ2WERpS2pvaGhfUnhFd3B0WkhxS2hpRVNwdDd6bUxRNHZjT2p1dw?oc=5",
+     "published": "2026-11-13T14:29:04.000Z"
     },
     {
      "title": "Cricket-South Africa will not ease off against Bangladesh, Rabada warns",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOU9EdExja1ROc1h5el9rUFZLU3N3RkpnN3YxRlVfR3pXVXMyQm5xcUdGMzAzWTJOeU03ellpVzlfU1JnLUpnUWExWXQwZXliMlJvNXlPVzF3eDdyVC1ZN053NlBHdnVHbVNlajdvUEVZX0x5VXRqb3dxdjBYb05lRFBDVXo2S3JhUHhMdm1EZ1FwcW9sQkc2SGFfNEt2cDRROW5kMnRwWWJwOFdFdVpyN2FCN2FFRUk2amoxTC0xQWxES3ZreVRyNg?oc=5",
      "published": "2026-11-13T13:12:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-Barcelona finalise €300 million bond issue to complete Camp Nou renovations",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3N5MUI1azdBZHZkLXhBN2xINWpUQ3lJT0lLYVZ0U2xmeHM0NmpmSG5RTHY1bS1rWUJsM3otWTJzeTZsY3E2bHpzd3JCSTJHUkVEMXktV1NpNlgtR1ppRzM4bXVmOUx5TVpyZTRoWXQyeWhINjdONVpEakl5RExGYTlRd1ZpbkVwNU1Fc2pTUTJOMkFsTi1Vdll4eVFJMGR6T2M1el83d05HejJPOEItS0gzcjk2andhODVtbGdQVVk3blFMT2FNeFk1NzZVQTA?oc=5",
-     "published": "2026-11-13T12:54:00.000Z"
-    },
-    {
-     "title": "Immigration detains 22 foreigners in raids on suspected illegal online activity hubs",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMnl1VzZ3NEtMbHppLUdmVm9mS3RRek9jSm9jWF94bWZTajkzNjNDVXU5c1k5TXVJS0xoN256SE13ZjhBbjhieVhxMlptcTlVZlhzR0Q4WUxad2ltMDhwWDE0Ty1FOXBDNjBGZ0tMcW1DZTl1TWJLQkpOZ1p4aWliTDY0TDVPUzhtNW00TUVVYk1LNmFhN2dCWXgyQkl2Y3p2UXV1M19BbEdrS091LXVzQ1pHUVVyYnBRTHBfUXRsakIzZkFNeUM4VWVSbjdjVkE?oc=5",
-     "published": "2026-11-13T12:52:00.000Z"
-    },
-    {
-     "title": "Sum Technology secures RM30mil Islamic banking facilities from Maybank Islamic",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYlJpS29Fd05XanRrakFqc3BoenYtRXVaRW8zaTQtelJfZ1VXUGE2YUNObFR2RlVLLUxmNS1MUFFCcUJyQ29iSFNrbHlaX1Fkdm9wMVZ5VzYwZ3FvZTNMRnVEWmZyVko4TWZvMnMwM002ODFPTGlMOG1lYWRYanhobjk4UlBqUnBUR0hkcU52OURjQkV0bnExOEFrZzFUOFo0UFlrOWxpUzNVdzgtTllnSWJMNlFselotNXhNVE1GaE9aSDNTTFlaSzBQcXdLc2VMLTB6a2RR?oc=5",
-     "published": "2026-11-13T12:19:00.000Z"
     }
    ]
   }
