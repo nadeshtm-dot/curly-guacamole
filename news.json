@@ -1,20 +1,20 @@
 {
- "updated": "2026-11-13T02:44:10.499Z",
+ "updated": "2026-11-13T03:49:48.207Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
-     "brief": "Maryland Sen. Chris Van Hollen announced Thursday he would challenge New York Sen.",
-     "link": "https://www.cnn.com/2026/11/12/politics/chris-van-hollen-chuck-schumer-senate-democratic-leader",
+     "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
+     "brief": "A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.",
+     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
      "published": "2026-11-12T12:00:00.000Z"
     },
     {
-     "title": "Microsoft outage strands office workers nationwide",
-     "brief": "Microsoft’s widespread outage left users across the United States unable to access their Outlook email, leaving office workers stranded (or celebrating).",
-     "link": "https://www.cnn.com/2026/11/12/tech/microsoft-outage-cripples-office-workers-nationwide",
+     "title": "Chris Van Hollen launches challenge against Chuck Schumer to lead Senate Democrats",
+     "brief": "Maryland Sen. Chris Van Hollen announced Thursday he would challenge New York Sen.",
+     "link": "https://www.cnn.com/2026/11/12/politics/chris-van-hollen-chuck-schumer-senate-democratic-leader",
      "published": "2026-11-12T12:00:00.000Z"
     },
     {
@@ -60,16 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Thai authorities seal off Songkhla rockfall site as large boulder destroys grocery store",
+     "title": "Australia's spy agency, federal police hit by Microsoft outage",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLUFyeE5rUWlQMXZsYjFXMkNyMkxiR2lqZFp1dWhTLXlERXA1eTRnODE5eXctY2xMYS1ZYUhXNkRucnl4Uk9BQlFUOTNudnViLVdVXy0zRURlYXFHSU53am9qdGpBcV9mRTd6RkNhVUhPZlNZZ1FHNGdzbnhHS1ZUNThqNkVqeUNJLVJpME5vR25SdFlwUzg2N0h2N3JIN2tEQ2E0RzJCWUpRa3hmS1E1TmZyS0lJd21LM1AzU1ZQY09vVlZ5TjVnQkdWek1GNmFqeGhwQzlhVGpjNGJkNWNmTlNJcEZvdw?oc=5",
-     "published": "2026-11-13T02:21:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhEUDR4eEtOclZsVHdCelBuYVZxZkxudjZ3QnVic3dsNU90SDNDbDVfT3RMeXNpSHJONHo5MUJGVU9DVmVZNnR4d21MTVg5dndGQUtpcGNHN0FQcW1Bc3NmZWZWMl92T1owUktianZrVXVQcDBqRC04WExhMks5LUNMN2prWmpoeXFkV0tJUFRCTzkyaENRa3pra1QyUVVLdU9KQ0dEZEhlYWNHcU54NkVJTkVyLTg?oc=5",
+     "published": "2026-11-13T03:20:00.000Z"
+    },
+    {
+     "title": "Trump's AI task force met Thursday, discussed AI-powered cyberattacks",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbVRZZ3d0bnBlT09yMy1IaVNqQ1c2bktvZVVoSEpmcE1hSEZlMmVpaGVCZEZ4c3BJTVQzVGU1MzRMYl9FbTFfOG9IN2pMSmVPMFpKY0xZdzRVZ19tWjRVeTZhLWM0Vk5ZU3FSZjNObUZBakcxb2RETmhXTEVDcFV1WENCcmh4UWo3MVZZNXZCUmVVSTNSVUN1a1BjU091RGh4TmdnanJHS0k4dFpXS1FldWZ6SEduVkpTZVNfeWhTNzM?oc=5",
+     "published": "2026-11-13T03:04:00.000Z"
     },
     {
      "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUwyblN5NDJlQlE4c0xvWHV5aTY2cjNZVVV3TjExNkN1bnhaREJWTk4wdjFMNV93N2hxUVdnQnZHTzJwV0ptaHM0YnhHNFF1bnQtOGd0TkJhejdNUkdmX2NxdXQwTXpVaXlxdEVFZWVPZEQtWS1ZbFdKd2E0T2lCdXNrTm05N0V1RFlmS0FaUTVSaTVXc2hVbDdTWkNoX2pYbWV4T1hFaEdKSlQwTmJ6ZEZWWmhFUjMxQjdqYzNsdTFLMmJ5Mzc5NWtqTk9yR2tzMmRDU3QzTQ?oc=5",
      "published": "2026-11-13T02:02:00.000Z"
+    },
+    {
+     "title": "Malaysia open to formal request to probe Speedmatrix, says Johari",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTHE3MDhVQkdaSGdtTmZYRGNXaFlZa2stTFgzQThWR1RLQ3EwTDhoX1ZROXkyTGVkb2o2cTltWGtFNGJocW9FWWxvY2xrWTFKT3llYVdCMGVaNTY3bWozUk01TzJUWWNWZGVsc3Zya19manVqXy0tYUl5TGNwQmd6VlVvdnd2dmNJV2xQc0RCRWttUTFLLXFCZ0RaN1EydGlBRDBVY1JOOV9RSmtQekFLRlRnUUNSckhxNEphSEd1cXZBWWs?oc=5",
+     "published": "2026-11-13T01:40:00.000Z"
     },
     {
      "title": "TikTok-owner ByteDance plans buyback at $400 billion valuation, The Information reports",
@@ -84,28 +96,16 @@
      "published": "2026-11-13T01:20:02.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Ringgit rises against major currencies, slips vs US dollar",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUgwSHZUeVNIVUpFMl9BVFI2SUI3WG1fTFRFWElGNFFfVXJWeGNnZzFtQTZYMHFLanlXaUw5N0tSMDJ5NUhqelhkeHhiczhqUGR1RHVQZUFSS0Z3MW1ZbU5IS0JCTWJFNFlHOWcwUk9FY3diWkRFSWV3N0xTOG41bktwenJWZlo5LV85NW0wcmo?oc=5",
-     "published": "2026-11-13T01:15:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU53bGtQWkJBVWtISG1meG4tellVWGpDUE9CZTVGMl9HRG5XdVVVSEhJUmtsVTJnUHhidTJGOUZhWGttd2JkNXVTUUhwQUlqV2k1cTNiaXNTTUJKX2ZVSW0tYkVONDk4LU1fekltN3hqcWswRTlxLVppZWFDZzR0SHRRYWY0aTJXZl9VbV80MjIzclM2ekpoa1d5ZnJBWlBmZmI4VHpzeUJ2cDlNZmtOWFZCZHRqRlJaeUE?oc=5",
+     "published": "2026-11-13T01:06:00.000Z"
     },
     {
      "title": "TVB star Mat Yeung seen taking orders, managing his own restaurant in Sunway",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOc0JuT1dEMlpNWmtkVEllblE1YTBPdmZfWWRWbWtwMnBpTHJTUlFFNHZ6UlZjZGluaHpXTE95cnU4QXVDOUx5V1lucUdGWTBCR09Ud19TV0xMYm9tdDNma3lEaGkxWGk5c3VLczZFQkdJMjZGVndRZlRMTDE2d0dlai1zdXIzbmxfWnFxMGdSeUxWOWpleE5iYThabDUwQl9nOTVxdnNSOEhzX3BfUnlaMGFEd0N3LTVYOUstTk90MDJRMlNld2JJTFJlQi1uZ0JNeldr?oc=5",
      "published": "2026-11-13T01:00:00.000Z"
-    },
-    {
-     "title": "Seoul sees little chance of Trump-Kim meeting at Apec summit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYUx6TS03ZlVka1pYZ1RDcG4zZTN1TGI2bXh5OTRXRGFKWk9lY2hORDEwNmpwSEtDQnRYSHhBUUYydXBpVWFKSFpYVDc0QkdNUWhadGlkRV8xcHZEN2tOSmkxSDBidFpBa1ZLNTFKdE9YX3JzUE5ZUlNlaC1UTXVvRlZZbk1mTW5HVU15U2ozTkU5N1FSS21PNUhrUEJ1RU5EZlVPa1REazJaM29LSnFmTzZGaGZlRmhrcVpWTnptZlY?oc=5",
-     "published": "2026-11-13T00:40:09.000Z"
-    },
-    {
-     "title": "Anthropic's IPO is about six times oversubscribed, Bloomberg News reports",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeDBMekFSb3kwWTBtclc2dmUyQVlRTkZuaEVfODFPLVNYUkcyQUNZTmhwNEY0aF9Ccm5sUGVTRE1fRjBnQjg3WGZQNTM3Nm4zN25JNzBHTUE4UTljcG10T1c0eEtkNGxOd01PRlhmZVhQUUZRZjF5VXA5cS0td3RORFVRSERtMDhQZ0FSOE55Z0VCSERXS05VRXRTZjdQd2U3MmtnUTlPZEpkcUx6cm1oRnkwYTV3RXVEUjhjQmpxa2VENVRmb3c?oc=5",
-     "published": "2026-11-13T00:36:00.000Z"
     }
    ]
   }
