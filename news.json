@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-13T04:55:24.147Z",
+ "updated": "2026-11-13T05:55:54.746Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Senate leadership showdown could fracture Democratic post-election unity",
+     "brief": "A Democratic leadership tilt between a 70-something Chuck and a 60-something Chris hardly screams of the torch-passing moment many activists crave.",
+     "link": "https://www.cnn.com/2026/11/13/politics/schumer-van-hollen-democrats-leadership",
+     "published": "2026-11-13T05:55:54.924Z"
+    },
+    {
+     "title": "Immigrant neighborhood in Brooklyn leans on faith and community while demanding accountability after deadly building collapse",
+     "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
+     "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
+     "published": "2026-11-13T05:54:54.961Z"
+    },
+    {
+     "title": "Lovers and spies: How foreign agents have long used ‘honey traps’ to steal secrets",
+     "brief": "Think “honey trap” and you might imagine something out of a James Bond movie: a beautiful, mysterious woman who uses her allure to get close to an unsuspecting target, feigning affection while extracting valuable…",
+     "link": "https://www.cnn.com/2026/11/13/world/honey-trap-spies-jensen-huang-nvidia-intl-hnk",
+     "published": "2026-11-13T05:53:54.964Z"
+    },
     {
      "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
      "brief": "A massive Microsoft outage has left people around the world without access to Outlook email, Teams meeting tools and other staples of modern office life.",
@@ -30,24 +48,6 @@
      "published": "2026-11-12T12:00:00.000Z"
     },
     {
-     "title": "Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge",
-     "brief": "Richard Glossip, the Oklahoma man who spent nearly 30 years on death row before his murder conviction was overturned by the US Supreme Court last year, pleaded guilty Thursday to accessory to murder after the fact,…",
-     "link": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "Yemen’s Houthis hold mass funeral as they call for action to protect civilians",
-     "brief": "A mass funeral procession was held in the Yemeni capital Sanaa on Wednesday for at least 43 people allegedly killed in an airstrike by the Saudi-led coalition, according to Saba news agency, which is run by the…",
-     "link": "https://www.cnn.com/2026/11/12/middleeast/yemen-houthis-hold-mass-funeral-civil-war-intl",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "Trump tells Vance to turn his focus away from Iran: ‘We don’t need a deal’",
-     "brief": "President Donald Trump on Thursday offered mixed messages on his approach to the war with Iran, first writing on social media that the US doesn’t “need a deal” with Tehran and pulling Vice President JD Vance away…",
-     "link": "https://www.cnn.com/2026/11/12/politics/trump-vance-iran-deal",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
      "title": "Peruvian homecoming: Pope Leo welcomed by record crowd on return to the country that shaped his path to the papacy",
      "brief": "Riding on horseback to visit the most isolated Andean areas of his community, distributing food amid the Covid-19 pandemic, or wearing rubber boots in the water and mud of floods: this is how many Peruvians remember…",
      "link": "https://www.cnn.com/2026/11/11/americas/pope-leo-peru-visit-latam-intl",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Bursa Malaysia suspends intraday short selling of CBH Engineering shares",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUJpTi1seEJDVGt2Z05hdU5PWG9RT014V1dPVkY4YXJ2RTRHTWpCcWY4WG9waTZaX1Z2OUhSNEdreVVZeU9lc3lGSmU3b253Vko5Y3Z1UGpUcGFBZ1hMTGUteFRYbnJjdDUxNmtnMVBiS1VPWTdwbmszNHJtUHJNd1hQd1VybGhWMzF0c3BjN2g2b3dpNWtGZGpOQUZ5WjJhZ0RSR0lzYnloZ0hTWmJXT3ZnaDFleS1XUWJCLXdDcXVEOGsyWnp3ZklTbU9Gdw?oc=5",
+     "published": "2026-11-13T05:33:00.000Z"
+    },
+    {
+     "title": "Badminton: Aaron-Roy King down Taiwan's world No. 15 to storm into semis in Japan",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHdkNjZXNUFPbnpaaDNybjZGeHZGbDFVbEZHYXZsVFd2bmpaeDJ4VzgybGwyWlJaeHJZMXpQZVh6SDZ3cjRkdDdHSGhmSzRDMzlBTl9kckhBQkk1a0thY211bjhmNXFvd2FtWTBiTW9MUzl4TktsN3pYS294VVhJU05hc0lSNDVNSzZBazZydGRqdWZycURHcXNBNlFLNGlaV3Q4ZHBXV2ZMaUc0S1p1T2Y4X3VxZFdSNTAzc3dfQ19iQmc?oc=5",
+     "published": "2026-11-13T05:29:00.000Z"
+    },
+    {
      "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXdsdkRYVmR5dkZBLUJkeGtUOXN5N3NXMy1QZTdJc1ExaXpkMVliX3VoRlpkWUJHVnBJY21pUUVtSTRZVEVUUkJsZUEtSzNGSFppWUZoYXUwTm9VS3E1RG1lREh3MWlGYmhSeFp2MWdjSzFUV1U2NGlEUFBqUEVYbnd3NFJVR2JRT080bU5adE5LeTBUUjZucTFTLURocGZ5Z2NQbU5YVkRwN3kxVzBXSm0ydEQ5Z29BMXc5NV9UUXhLQQ?oc=5",
@@ -70,12 +82,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkFRZ0xTOTdNVnlwalBvS3RRRngxYk8tLWR4WTc1VkFIWGo5ZjhPYXBWU21WZGZpT1h4Tk1OUk8wbXFXdEdtZG93bVdCWG1Ja1h6T3I2Sk5QVmFsekdBN1NneC1tNVEtd2hNQkVmbkZMc2p6SkoxSUwtSFpxR3ZPNC1CM0hSOTRPbUpOVGlQZDVvTUZSSXcyanByWi15dw?oc=5",
      "published": "2026-11-13T04:28:00.000Z"
-    },
-    {
-     "title": "South Korea says Google has removed Korean coordinates from maps under export permit",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbzQzb2g2WDVFV3FHNDBjWFBWaUFxbUdlZ0EwVlU5YzNEN1dyZ01qb2pMN0lqMUI3SDRfVnR5VkxkaXpGaXl2X3Y0X2hUWGdyMVFVV0lCYTktdzRPNV9pMlpTb1ZXVG9XTndHdHRiUVdESXM0U2NiSWNZRkt3eEtTcUpRcVE0a1E0emwwcDBVeWNkQnZCLWxCalo1RUhQMFZLZi1RX2E1X19KRDYtVVBrNmtDcUhrdThONnB1N0pyZDlEcm5WVzN5aXFMLXI0RWdyNlVj?oc=5",
-     "published": "2026-11-13T03:29:00.000Z"
     },
     {
      "title": "Australia's spy agency, federal police hit by Microsoft outage",
@@ -90,22 +96,16 @@
      "published": "2026-11-13T03:00:46.000Z"
     },
     {
-     "title": "TikTok-owner ByteDance plans buyback at $400 billion valuation, The Information reports",
+     "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd0hmZElPeU1TUndJLWFRQ2lCVUpQWmdnM2hMRE0zMWhJMnk1Y0t5YjBwQmNaRllQWVJ1Mld2ZlBNa3JEcUU5OVZQaVQ2aU9ua1B6ZHZKTHFSQ0ppSHhMdkIwazZoUXhDdG16VHU0SnBjeEQ2cUNsbzlxT1otMkdfRHlPblVrMFFROEJnUk1naXRVV3FndzhDSmpnTWt5QVRFalc3Y1NkZmFoOFZxcElIanFjWkJab2QtcE1CWXp4ZE8wRHZvdDJVOEx5d05wTDhkQUZtTQ?oc=5",
-     "published": "2026-11-13T01:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbUwyblN5NDJlQlE4c0xvWHV5aTY2cjNZVVV3TjExNkN1bnhaREJWTk4wdjFMNV93N2hxUVdnQnZHTzJwV0ptaHM0YnhHNFF1bnQtOGd0TkJhejdNUkdmX2NxdXQwTXpVaXlxdEVFZWVPZEQtWS1ZbFdKd2E0T2lCdXNrTm05N0V1RFlmS0FaUTVSaTVXc2hVbDdTWkNoX2pYbWV4T1hFaEdKSlQwTmJ6ZEZWWmhFUjMxQjdqYzNsdTFLMmJ5Mzc5NWtqTk9yR2tzMmRDU3QzTQ?oc=5",
+     "published": "2026-11-13T02:02:00.000Z"
     },
     {
-     "title": "Surge in visitors from China",
+     "title": "Thai officials meet Apple over spyware alerts to politicians",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZzBMSGM2Wko0elJETG5tNUNTMFFvOXktbmdObi16RWpqT3BDZnZNTE45R3AwY24xT2Zrcms4WncwdW1EcmxZQmZ4cXR5bmdfNGFSY2Zid0dXR3Jrb1JzTXltSV9zdmtFNFhxNkFUbmZOak9FT29pOTRQVHRLWTRacUc3dHI?oc=5",
-     "published": "2026-11-13T01:20:02.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUgwSHZUeVNIVUpFMl9BVFI2SUI3WG1fTFRFWElGNFFfVXJWeGNnZzFtQTZYMHFLanlXaUw5N0tSMDJ5NUhqelhkeHhiczhqUGR1RHVQZUFSS0Z3MW1ZbU5IS0JCTWJFNFlHOWcwUk9FY3diWkRFSWV3N0xTOG41bktwenJWZlo5LV85NW0wcmo?oc=5",
-     "published": "2026-11-13T01:15:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeXZYWVN4OXk3MFlfbENzZm5vS3otMk4zVm8xZnNfc1AzeUNld0wyd1RiS2toVlFRWDV3b0dMUHo0cnZDNTYyM18zQ0YyT09rcmFHYm9yMzZEYzZoSk5ua180RzkxM1c4b0l0NnUyemhmemZGZUlSZ3d5dWI3M3dPUnNjZ2xKRTYzVjBtcGZYQnVUT0xJUm80aGdWTERKM3RrTnc1M29kZ3Nnc3YxWHRHX1JrQQ?oc=5",
+     "published": "2026-11-13T02:00:00.000Z"
     }
    ]
   }
