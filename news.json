@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T07:05:50.462Z",
+ "updated": "2026-11-13T08:20:41.445Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,25 +9,25 @@
      "title": "Darth Vader’s ‘I am your father’ lightsaber sells for record $4.87 million",
      "brief": "From a galaxy far, far away to a Dallas auction house — a lightsaber wielded by Darth Vader before he delivered the famous line “I am your father” sold for over $4.87 million on Thursday.",
      "link": "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record",
-     "published": "2026-11-13T07:05:50.692Z"
+     "published": "2026-11-13T08:20:41.669Z"
     },
     {
      "title": "Senate leadership showdown could fracture Democratic post-election unity",
      "brief": "A Democratic leadership tilt between a 70-something Chuck and a 60-something Chris hardly screams of the torch-passing moment many activists crave.",
      "link": "https://www.cnn.com/2026/11/13/politics/schumer-van-hollen-democrats-leadership",
-     "published": "2026-11-13T07:04:50.755Z"
+     "published": "2026-11-13T08:19:41.753Z"
     },
     {
      "title": "Immigrant neighborhood in Brooklyn leans on faith and community while demanding accountability after deadly building collapse",
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
      "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T07:03:50.752Z"
+     "published": "2026-11-13T08:18:41.761Z"
     },
     {
      "title": "Lovers and spies: How foreign agents have long used ‘honey traps’ to steal secrets",
      "brief": "Think “honey trap” and you might imagine something out of a James Bond movie: a beautiful, mysterious woman who uses her allure to get close to an unsuspecting target, feigning affection while extracting valuable…",
      "link": "https://www.cnn.com/2026/11/13/world/honey-trap-spies-jensen-huang-nvidia-intl-hnk",
-     "published": "2026-11-13T07:02:50.747Z"
+     "published": "2026-11-13T08:17:41.758Z"
     },
     {
      "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
@@ -60,10 +60,28 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Myanmar Railways to operate additional special trains during Tazaungdaing holiday period",
+     "title": "Francophonie Village opens in Cambodia to showcase cultural diversity",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNjdaWEpIMHljdjd6RXp2LTBpV2pkSnhpbS1qT3NlYUlraDRERnE4MjRsRFRPTHUtNE9wZ3NRM2NIWWw2c2hNdFNoWVQ0OEtLX1BaYlJjSllhTGJIMlBFbTlRdFNRN2o1OWN4aWxjVlV2N2E0NFRMMkt4bGZjMW9neTNMdjQyS0V3WmEwTlVpZVJKY1FvcXJGczcyNzdlMXFvMG1WYko2YU5mRDRtdU5lRDJTbllwT2diQ1BJTWhna0dmenJrM2RibUNfaG54RkQ2SDU3Wk9JVWxJdThObW1QQkY0dXVsQQ?oc=5",
-     "published": "2026-11-13T06:52:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmVDQ2hjcVhWclFiSzVBSjJGYmFFZmRRSng4VHp4ZEFlT29oMzFhX2xJbjZGdE00R29qc3ZtNWoxbjJMWEpKV1gweDdhLWtTbGVmN2tEbVdzWnphYXNxRHBuS1hFcjNUMGZFaF9wYnhIb2c5NmY4blJYMmhlOVpFM3ZwU1RndEVvYkcxTDdHYml3ZHBIMFZoV2hXdHhJUXpnQ2dGdS1XQVh6U3NDSEhVbmROSUFldG5BZzFVRkVneUg0aW9YVklQSWl4MzI?oc=5",
+     "published": "2026-11-13T07:53:00.000Z"
+    },
+    {
+     "title": "Alliance Bank offers flood relief assistance to affected customers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV1NBQjZsUmlUYnd4YWtpeU9IcXlfMXhWenFERk9oQjByN2JSNzNFTUpGRTE5NmpicjNsbWRxRzBoc1cyeWlyaTRMVHlZX2YwTF9pNjFaczVlb0QxdVptOU1CSHp1Ym93Smd5T0VBQ1lZbEQ5QTd6U2pTUEZvY0dTMGM1QzdHclJsNUhuWHE1cnM5OE9ZNXkzNWFYX1lGS2Zodi1QdUVkV01uaTFpbDBkUFkwZEt0eWdIVWxXa2FkYnljejUtQ1E?oc=5",
+     "published": "2026-11-13T07:33:00.000Z"
+    },
+    {
+     "title": "Married couple found drowned in Papar farm pond",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenNoWm92bHl3RVczTFplVXdnMXdkR1RVYkZMWGo5aXFiTHMzejZ3SVZKQVhNajZSY01WYi1vYjNNbnpoUmlFd0JHU0tCZEJKLXNRejVZVmdLb09pVWZFVUtzVUMxMzBaOUxxQ1Blemwzenp0MEZDeWlheVVlbEFGSHBDRzdlLS1Gc29YS1ZxdUFJX3dmX0xFV0Frakh1QQ?oc=5",
+     "published": "2026-11-13T07:11:00.000Z"
+    },
+    {
+     "title": "Nation",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE1hZy1heF81YUhIWWVuWXRSVDFKbDMxcXJHcXBpd2NzZUJzNGxRci1hZzFISE9EUm5iUU04VGJkWmdNN1FsMi11M3V3RENkam5hTDJmTmdRZTI0b3ktUGtUM3JaZU5Fd0NkdnVvUkktWEw1UmlYcF9jM2U4cXVhR0hmZDEwN2I0NjJtLW5xcHk1dw?oc=5",
+     "published": "2026-11-13T06:00:24.000Z"
     },
     {
      "title": "Miti never cleared Megaspeed, Speedmatrix, says data centre visits part of routine monitoring",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXdsdkRYVmR5dkZBLUJkeGtUOXN5N3NXMy1QZTdJc1ExaXpkMVliX3VoRlpkWUJHVnBJY21pUUVtSTRZVEVUUkJsZUEtSzNGSFppWUZoYXUwTm9VS3E1RG1lREh3MWlGYmhSeFp2MWdjSzFUV1U2NGlEUFBqUEVYbnd3NFJVR2JRT080bU5adE5LeTBUUjZucTFTLURocGZ5Z2NQbU5YVkRwN3kxVzBXSm0ydEQ5Z29BMXc5NV9UUXhLQQ?oc=5",
      "published": "2026-11-13T04:32:00.000Z"
-    },
-    {
-     "title": "MAG has no discussion with govt to absorb AirAsia’s domestic market share - Capt. Nasaruddin",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSmhKVDFHV09SQlEzUXgxa21VdVFxTmNfZjFmeksxYlFMa0tZWDZ0N2M1QkUyTVVqR3U0dUhLUWFiZHlhbHJNT0pfWm55VUFHSkNkU3V0T3B0Tk9IM1BOMm9CYk93OEk4eWxUTTFuX1d4QUdzWjVZWVhsVXRBMTRLVFJfRkNjS2lCMzM4UHFxSHZrdUlUSFk4QTdRUnFoYXRkeG9sZ1ZRLTdqb1N2bjBVREVhc2pidzFQbTl0ZVVQeWdmZjZKN0lGbXdZaXhsZkpKSzlQbzBXRmJWLVQtaEZvVV9RcGp0dw?oc=5",
-     "published": "2026-11-13T04:30:00.000Z"
-    },
-    {
-     "title": "Biker killed after crashing into cow in Taiping",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkFRZ0xTOTdNVnlwalBvS3RRRngxYk8tLWR4WTc1VkFIWGo5ZjhPYXBWU21WZGZpT1h4Tk1OUk8wbXFXdEdtZG93bVdCWG1Ja1h6T3I2Sk5QVmFsekdBN1NneC1tNVEtd2hNQkVmbkZMc2p6SkoxSUwtSFpxR3ZPNC1CM0hSOTRPbUpOVGlQZDVvTUZSSXcyanByWi15dw?oc=5",
-     "published": "2026-11-13T04:28:00.000Z"
-    },
-    {
-     "title": "Australia's spy agency, federal police hit by Microsoft outage",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVkhEUDR4eEtOclZsVHdCelBuYVZxZkxudjZ3QnVic3dsNU90SDNDbDVfT3RMeXNpSHJONHo5MUJGVU9DVmVZNnR4d21MTVg5dndGQUtpcGNHN0FQcW1Bc3NmZWZWMl92T1owUktianZrVXVQcDBqRC04WExhMks5LUNMN2prWmpoeXFkV0tJUFRCTzkyaENRa3pra1QyUVVLdU9KQ0dEZEhlYWNHcU54NkVJTkVyLTg?oc=5",
-     "published": "2026-11-13T03:20:00.000Z"
     }
    ]
   }
