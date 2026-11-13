@@ -1,33 +1,39 @@
 {
- "updated": "2026-11-13T08:20:41.445Z",
+ "updated": "2026-11-13T09:55:13.324Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "The AI boom was built around Jensen Huang. Now what?",
+     "brief": "Jensen Huang’s resignation from Nvidia in scandal leaves the company without its visionary leader.",
+     "link": "https://www.cnn.com/2026/11/13/investing/ai-boom-jensen-huang-nvidia",
+     "published": "2026-11-13T09:55:13.469Z"
+    },
+    {
      "title": "Darth Vader’s ‘I am your father’ lightsaber sells for record $4.87 million",
      "brief": "From a galaxy far, far away to a Dallas auction house — a lightsaber wielded by Darth Vader before he delivered the famous line “I am your father” sold for over $4.87 million on Thursday.",
      "link": "https://www.cnn.com/2026/11/13/style/darth-vader-lightsaber-star-wars-auction-record",
-     "published": "2026-11-13T08:20:41.669Z"
+     "published": "2026-11-13T09:54:13.529Z"
     },
     {
      "title": "Senate leadership showdown could fracture Democratic post-election unity",
      "brief": "A Democratic leadership tilt between a 70-something Chuck and a 60-something Chris hardly screams of the torch-passing moment many activists crave.",
      "link": "https://www.cnn.com/2026/11/13/politics/schumer-van-hollen-democrats-leadership",
-     "published": "2026-11-13T08:19:41.753Z"
+     "published": "2026-11-13T09:53:13.532Z"
     },
     {
      "title": "Immigrant neighborhood in Brooklyn leans on faith and community while demanding accountability after deadly building collapse",
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
      "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
-     "published": "2026-11-13T08:18:41.761Z"
+     "published": "2026-11-13T09:52:13.534Z"
     },
     {
      "title": "Lovers and spies: How foreign agents have long used ‘honey traps’ to steal secrets",
      "brief": "Think “honey trap” and you might imagine something out of a James Bond movie: a beautiful, mysterious woman who uses her allure to get close to an unsuspecting target, feigning affection while extracting valuable…",
      "link": "https://www.cnn.com/2026/11/13/world/honey-trap-spies-jensen-huang-nvidia-intl-hnk",
-     "published": "2026-11-13T08:17:41.758Z"
+     "published": "2026-11-13T09:51:13.518Z"
     },
     {
      "title": "Massive Microsoft outage disrupts businesses, schools and governments around the world",
@@ -43,14 +49,8 @@
     },
     {
      "title": "Witkoff and Kushner meet Zelensky after talks with Putin, as Ukraine says Starshield restricted again",
-     "brief": "US envoys Jared Kushner and Steve Witkoff arrived in Ireland late on Thursday to brief Ukrainian President Volodymyr Zelensky on their earlier Moscow talks with Russian President Vladimir Putin.",
+     "brief": "European delegates will join the next round of peace talks with Ukraine and Russia, US envoy Jared Kushner says, after a brisk day of diplomacy saw him and Steve Witkoff meet both Ukrainian President Volodymyr…",
      "link": "https://www.cnn.com/2026/11/12/politics/ukraine-witkoff-kushner-putin-peace-talks-intl",
-     "published": "2026-11-12T12:00:00.000Z"
-    },
-    {
-     "title": "US intel isn’t sure if businesswoman spied on Nvidia for China, doesn’t mean she wasn’t a risk, sources say",
-     "brief": "The US intelligence community is still working to understand the relationship between a Chinese businesswoman who had an affair with Nvidia CEO Jensen Huang and the Chinese government, with multiple sources telling…",
-     "link": "https://www.cnn.com/2026/11/12/politics/alice-huang-us-intel-jensen-huang-nvidia",
      "published": "2026-11-12T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Football: Soccer-Hosts sought for three future Africa Cup of Nations finals",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0hBeUc3TEotVGpKcGR3aEUxTlhkbEIzMWlVTFpvWWMwemw2R3JROEVVbEhtaUw4TnV4WF9TMENkdlFxNmZkek8wZU5JWFRORE9YbTVZeEhTc1p5MEF4ZE1yTG81eW10S1ZJd2d1cTZ5M09YNzBXelI4VzNSZXphYWFOT05aaVFZR0MxOFZ4SUlQeWFOeEN6VWNWWEt6NXEtdk1abEZ2dEMzV0hKeHFWeEF0MW0zWXdjdGc?oc=5",
+     "published": "2026-11-13T09:38:00.000Z"
+    },
+    {
+     "title": "Cricket-Australia's Beardman sparks England capitulation with six wickets on debut",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX19PZUp2QWdWa3N6c1h2WUJzemo5Wk9POFY5dENMRnZXM1hSVVJsblkwZklrQVZLUm1lTHd3bDF1RG15Ym1xS19vTE5QMVVIZGN5NW94ZkZaYlNYNEduY2MwNnlaSXdQdGllOEdLampfU21sQkVObENyUnpBQlVpbl9yUElndlgwa1U0ajgtVmk1WmRCc1RfOEtUeU5ycThuWDFTTjBmUUtIWUdwdmRLWm1XZDJ2UHVYTjROTG5JM25SMGpVTUktaTVKdXllZDhxZGc?oc=5",
+     "published": "2026-11-13T09:24:00.000Z"
+    },
+    {
+     "title": "Cricket-Young smashes ton, Henry takes six as New Zealand crush India in fourth ODI",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUjdHX1l1aGtBOEo2Z3VoeEVlckQ1dDFCVUhJLVZJQ2VWWnZFelpFQWVXZlRjVFF1YUNWcU5zTDJNRmZZdVpxM2ZlSi13clVod1JzaFhWZ0xFY0JwNmJodnJ4cEtSSFl5Q0VucVYxY292RU5HMndiUDJkVjVTcnNTT3NoQmoyenM5ak5qOHpYWTdab3hHenppNzFqTGpYR1dYUDdZWjRDczhkQU11QUItVWQ1aHc0ZV9kd3M0NDBwWndCQnZOLWhQVHJXUjFreDQ?oc=5",
+     "published": "2026-11-13T08:59:00.000Z"
+    },
     {
      "title": "Francophonie Village opens in Cambodia to showcase cultural diversity",
      "brief": "",
@@ -72,6 +90,12 @@
      "published": "2026-11-13T07:33:00.000Z"
     },
     {
+     "title": "CelcomDigi introduces streaming passes from RM1 for prepaid customers",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQalNmMC1SRFlNZGc2dHI0TW1jaW94Njg2LUtJVGRSdTllZ20yWmhjVEtNY25BRHdpOFR6NDhCaHlTdFFla3dlcWVmdWlOSFh1MGYza0dYSE9tV2xRMDZydWYwRTBoWUEwd1JHWm94eHRIdWNtUmVoT3NGaTNmSm5YT213dURoaWxlNW92OHdUUi1rbGpaUjN2Qk03QUpOMy1ZZzdQcy1vaUxkR2FKZnJIYlZXTi1kNWV1TUUzNUhqSmJKc0VDbXB6QUhn?oc=5",
+     "published": "2026-11-13T07:20:00.000Z"
+    },
+    {
      "title": "Married couple found drowned in Papar farm pond",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPenNoWm92bHl3RVczTFplVXdnMXdkR1RVYkZMWGo5aXFiTHMzejZ3SVZKQVhNajZSY01WYi1vYjNNbnpoUmlFd0JHU0tCZEJKLXNRejVZVmdLb09pVWZFVUtzVUMxMzBaOUxxQ1Blemwzenp0MEZDeWlheVVlbEFGSHBDRzdlLS1Gc29YS1ZxdUFJX3dmX0xFV0Frakh1QQ?oc=5",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE1hZy1heF81YUhIWWVuWXRSVDFKbDMxcXJHcXBpd2NzZUJzNGxRci1hZzFISE9EUm5iUU04VGJkWmdNN1FsMi11M3V3RENkam5hTDJmTmdRZTI0b3ktUGtUM3JaZU5Fd0NkdnVvUkktWEw1UmlYcF9jM2U4cXVhR0hmZDEwN2I0NjJtLW5xcHk1dw?oc=5",
      "published": "2026-11-13T06:00:24.000Z"
-    },
-    {
-     "title": "Miti never cleared Megaspeed, Speedmatrix, says data centre visits part of routine monitoring",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQTNLUGZob1AwMnp3TXFsYTFUU1R1T2FBZzN6RU54YWs3WVNnSVlqN2ltSWlWeHpSR1pYVU9xT2g3czBwenR6STQ0QktpdUg3bHVtX0VYQTFXTEtnUXU0TkswNjB5c2hCR0NYd1pyeElUMWdxS0tnanBOdGJHM2JWLWJ5V1NxT3BTVDV0MkoyNDdzZ19YM0xHcnZMNVYxUGU5RDdGY2drUF95MWtDV3BkQlBfRTBCSndJemJRcnc4VWc3ZXQwdjNMcVZ1V2szT2MtSFV5U1lyRjRxcUMtVlBiRUZPdUxWUGM?oc=5",
-     "published": "2026-11-13T05:47:00.000Z"
-    },
-    {
-     "title": "Bursa Malaysia suspends intraday short selling of CBH Engineering shares",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaUJpTi1seEJDVGt2Z05hdU5PWG9RT014V1dPVkY4YXJ2RTRHTWpCcWY4WG9waTZaX1Z2OUhSNEdreVVZeU9lc3lGSmU3b253Vko5Y3Z1UGpUcGFBZ1hMTGUteFRYbnJjdDUxNmtnMVBiS1VPWTdwbmszNHJtUHJNd1hQd1VybGhWMzF0c3BjN2g2b3dpNWtGZGpOQUZ5WjJhZ0RSR0lzYnloZ0hTWmJXT3ZnaDFleS1XUWJCLXdDcXVEOGsyWnp3ZklTbU9Gdw?oc=5",
-     "published": "2026-11-13T05:33:00.000Z"
-    },
-    {
-     "title": "Badminton: Aaron-Roy King down Taiwan's world No. 15 to storm into semis in Japan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHdkNjZXNUFPbnpaaDNybjZGeHZGbDFVbEZHYXZsVFd2bmpaeDJ4VzgybGwyWlJaeHJZMXpQZVh6SDZ3cjRkdDdHSGhmSzRDMzlBTl9kckhBQkk1a0thY211bjhmNXFvd2FtWTBiTW9MUzl4TktsN3pYS294VVhJU05hc0lSNDVNSzZBazZydGRqdWZycURHcXNBNlFLNGlaV3Q4ZHBXV2ZMaUc0S1p1T2Y4X3VxZFdSNTAzc3dfQ19iQmc?oc=5",
-     "published": "2026-11-13T05:29:00.000Z"
-    },
-    {
-     "title": "Delhi overtakes Lahore as world's most polluted city as air quality drops",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWXdsdkRYVmR5dkZBLUJkeGtUOXN5N3NXMy1QZTdJc1ExaXpkMVliX3VoRlpkWUJHVnBJY21pUUVtSTRZVEVUUkJsZUEtSzNGSFppWUZoYXUwTm9VS3E1RG1lREh3MWlGYmhSeFp2MWdjSzFUV1U2NGlEUFBqUEVYbnd3NFJVR2JRT080bU5adE5LeTBUUjZucTFTLURocGZ5Z2NQbU5YVkRwN3kxVzBXSm0ydEQ5Z29BMXc5NV9UUXhLQQ?oc=5",
-     "published": "2026-11-13T04:32:00.000Z"
     }
    ]
   }
