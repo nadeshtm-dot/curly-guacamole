@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-14T21:32:47.012Z",
+ "updated": "2026-11-14T22:34:36.803Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+     "brief": "Columbia, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
+     "link": "https://www.cnn.com/2026/11/14/us/security-south-carolina-gun-show",
+     "published": "2026-11-14T22:34:36.914Z"
+    },
+    {
      "title": "Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say",
      "brief": "A bomb found at a central Illinois ethanol plant on Friday forced thousands of people to evacuate a city’s downtown area for a day as investigators searched a sprawling industrial facility to rule out any further…",
      "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T21:31:47.197Z"
+     "published": "2026-11-14T22:32:36.942Z"
     },
     {
      "title": "What we know about the cause of the nationwide FAA ground stop",
      "brief": "All flights nationwide were grounded for hours on Friday after a systems failure, leading to thousands of flights being delayed or canceled, disrupting the travel plans of passengers heading into the weekend.",
      "link": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
-     "published": "2026-11-14T21:30:47.201Z"
+     "published": "2026-11-14T22:31:36.931Z"
     },
     {
      "title": "‘No answer’: Messaging failures worsened the air traffic freeze and sowed distrust in government",
      "brief": "Communications failures in the air on Friday were followed by communications failures on the ground.",
      "link": "https://www.cnn.com/2026/11/14/media/air-traffic-grounded-flights-duffy-mullin",
-     "published": "2026-11-14T21:29:47.221Z"
+     "published": "2026-11-14T22:30:36.925Z"
     },
     {
      "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around",
      "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
      "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
-     "published": "2026-11-14T21:27:47.226Z"
+     "published": "2026-11-14T22:28:36.944Z"
     },
     {
      "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
      "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
      "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T21:26:47.203Z"
-    },
-    {
-     "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips",
-     "brief": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has…",
-     "link": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl",
-     "published": "2026-11-14T21:25:47.224Z"
+     "published": "2026-11-14T22:27:36.927Z"
     },
     {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
