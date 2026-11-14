@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T01:57:10.935Z",
+ "updated": "2026-11-14T02:46:13.085Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Voting underway for Melaka polls (photo gallery)",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZ3JRZ0JmYllkc29RREVCSEktcGFxdjAzTnloYnVpaXpjSXBvdURMVGt4Um5mRmJiUmJWMnhJV1ZnZTlzZmFvZk5yUGFpbmVGdkwxUXcwQmJOZDRIRUlSZ21fOXo3a1lBUThrX002NnN3MjhOSkFFVmdFRFZqZUswb2NHWDRDYmFIQUljdU9wbk0wbWlJQUw4MVVLXzg?oc=5",
+     "published": "2026-11-14T02:24:00.000Z"
+    },
+    {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kdU1CVGtnLW1EZjhuZjJFUUFwZVU5N2lHR0FKTE5nTmEzUFR0dEc5RzNXdmpaWjVtRUVESGdyQVIwT3QzRVFDd2ZZaU9DNkZscGNtOGpnN2NaeGctUElBQi1VNEdBUm5TRGNyMDgxMlpzYTZZQkQ2bm5pVQ?oc=5",
+     "published": "2026-11-14T01:59:41.000Z"
+    },
+    {
      "title": "Tennis-Andreeva says she is learning to move on faster from defeats after WTA Finals sweep",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazRYa000NURTOGU2NENPWUFUSVNUa3A5Z2ZLZll4dThxR1lNalVUTXk1MXctN0IwV1F4NHc2WURRVGFXamVhelNJYnRndGt3SzR0WEFWalFJd0lYRFBLb2RBMW84b3l4ZWQwNnBMZ3pyLVBjOUFDdXdZcndXYjNBUmdmTkdwd3VKckU5bUZCNHFCQTVMZGM4dHdoYVZVUDZZcUZnOTBicVExblA5WTNlVGNfaF9uSWNzYU1GLUdBODFaaWtMeTJoTGJ2LURUb0FQWEEwQ3liX3o?oc=5",
@@ -84,12 +96,6 @@
      "published": "2026-11-14T00:54:00.000Z"
     },
     {
-     "title": "New York sued over law requiring social media 'warning label'",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQkF2Wi1VMmlubmhfLTM0bEJnZ3B6b3ZlWkNEWC1oUkVIOVQxYjhvMHF2ZWVIMXlFVVBZQ3VweUUzQUVsejhZTGhNUzZKSVpkdWFOd0RTVVduSGprUzM4ZzNpV3ZnXzE0VE44Sk00QUlLZUlCYmJ1cnNkSHVpajNkRjVWaFd5akVkN2llZG83LUVJcUVPM1ZpVHZnNkFpbGh6NjZQTUxsY0NZOWoxZkhCODZLdXNWWDk3NWc?oc=5",
-     "published": "2026-11-14T00:46:00.000Z"
-    },
-    {
      "title": "Wiretapping suspects face treason charges",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnViRDE3Umd5TXp3T015X0d1eWV5V2tWQ3BMZGFVVGp6Y3NZSjE5a1V3VEFmdGd3RjJTcTB2N0RjOTNiSUZxN2VvaDdjUFcxTmx2ZGpMWnEtRWtHZklUUEFHOE1NVE5tYzBMWU1PNjVqTEt3al9FTXY3SnRDc0RtRmQzblZ4c3ItdkNWQmx2ZlRDeFZMZ05wRFlLR2ljOVVWSkxmSEVDTQ?oc=5",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGpWODF3eV8wUVZOeFB6SlhaR1FJN1A5dVliTmRGSXJHdnQ5UEQzOFBiWTF1U3h0ZUtDNWQwZG1naExUam5kTXVveGlIZUpnNjZQaUFBMTFETTJCcUE4X2h3VU14UU8tY0FxM1JxNUVrWHZCSmNGamFqaVJKaG9PbTBmZENuaXh3VDVvQ0NVRThsZjVnaTBKalVlTWowTXJhNVJTRG5Vc0ZTSUNFQnc?oc=5",
      "published": "2026-11-14T00:42:00.000Z"
-    },
-    {
-     "title": "‘Diverse staff can better serve the rakyat’",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnFESjhaOWtwclg2Sk1sOWMyVWJNNEN1bTBsOVBhNTQxb2tBbVd5eFVPY0tGRm9xX2JTRXJ0ZVowUW9RN0VIZ2YwQ1FXVXlHRUR3SVNjclMzQVdTdUlhV3dlVmdHMzZ6M05uXzVONm5YTmRFNVBNVFNyS3lZUkx2Z29DMHRiNGQ5UXBxVXBybVpWMmhVdlRmY0w4bUU?oc=5",
-     "published": "2026-11-14T00:39:24.000Z"
     }
    ]
   }
