@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-14T17:31:52.510Z",
+ "updated": "2026-11-14T18:38:27.535Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "‘No answer’: Messaging failures worsened the air traffic freeze and sowed distrust in government",
+     "brief": "Communications failures in the air on Friday were followed by communications failures on the ground.",
+     "link": "https://www.cnn.com/2026/11/14/media/air-traffic-grounded-flights-duffy-mullin",
+     "published": "2026-11-14T18:38:27.782Z"
+    },
+    {
      "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around",
      "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
      "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
-     "published": "2026-11-14T17:31:52.767Z"
+     "published": "2026-11-14T18:35:27.856Z"
     },
     {
      "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
      "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
      "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T17:29:52.833Z"
+     "published": "2026-11-14T18:34:27.815Z"
     },
     {
      "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips",
      "brief": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has…",
      "link": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl",
-     "published": "2026-11-14T17:27:52.870Z"
+     "published": "2026-11-14T18:33:27.854Z"
     },
     {
      "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff",
      "brief": "Stephen Miller spent his first week as President Donald Trump’s chief of staff sending a clear message across the West Wing: He’s no Susie Wiles.",
      "link": "https://www.cnn.com/2026/11/14/politics/stephen-miller-trump-chief-of-staff",
-     "published": "2026-11-14T17:26:52.843Z"
-    },
-    {
-     "title": "The Trump administration is diverting billions in health funding away from low-income countries, defying Congress’ plans",
-     "brief": "The Trump administration plans to redirect or withhold nearly all funding that Congress had slated for international family planning aid this year – about $605 million – according to an internal US State Department…",
-     "link": "https://www.cnn.com/2026/11/14/world/trump-administration-foreign-aid-global-health-diverted-intl",
-     "published": "2026-11-14T17:24:52.849Z"
-    },
-    {
-     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
-     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
-     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
-     "published": "2026-11-13T12:00:00.000Z"
+     "published": "2026-11-14T18:32:27.835Z"
     },
     {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
      "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday, after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
      "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
+     "published": "2026-11-13T12:00:00.000Z"
+    },
+    {
+     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
+     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
      "published": "2026-11-13T12:00:00.000Z"
     },
     {
@@ -59,6 +59,24 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Rugby-Wales celebrate landmark win as All Blacks hoodoo ends",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFhjejJMN3cwWlJSM3VCTUoxREpxUjVlcUx1WnlsZEJrZi12Z1hYbTFGX01wclBzVENRM1ZZeUVaQWVJMDU0NmR6WE8xdkJfVVE1cmFqZUFfNmhkbzhsbEljXzc3cVp2T0F5ZVpDTi1fZmJhczNYM1hPU1BGSktENjlkNTNnLXhxT3pzT2NBdzBNYkdMZlZEeHNUdFVpamFFejdxSC0tR0g4akx5U2Fv?oc=5",
+     "published": "2026-11-14T18:27:00.000Z"
+    },
+    {
+     "title": "2 firefighters killed in blaze at abandoned building in Greece",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkt2M2dSV1VzTGZ2VWN3MXFlZmNjVC1MY2NCTXFUTktORjRPWlhIbm1RWVBmdDUyc0hDczdBMWVueTRFc2U4Tld4cXRna1RqMzZvYXh3Q1pncGlRd1dZelBjVzY1UzZGaUluRW5aU2E5Q2lFV1N6akI4X2ROR3BxZXExRFdzZ1F3UGQxSUt1dVprX2diaGI4N3BBMG42aEh0bU1VVzZDZVFVZkJ0VFRDZw?oc=5",
+     "published": "2026-11-14T17:33:00.000Z"
+    },
+    {
+     "title": "8 killed, 20 injured in bus crash in southwestern Colombia",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTBQSFBzN2tpX01EU2lUYzdnZ2hIUnM2MzBCS3dMTVJHb1VjTVNUWmhVRHVXR1hJVVNMdUsxNzQxMjRTX3FTV3hDUmw1MTNLSVFWVG9GSHBDX2w4VnpuQTdwMmNlaHIyODdLb1lzeENuemt1ZUxoamFONkJXSnNvSzEzczNLbmx2bEI4c3M2LUVpT2IxQXNnQ3padzBkbFVVRHB5OHNiY0xidw?oc=5",
+     "published": "2026-11-14T17:31:00.000Z"
+    },
     {
      "title": "Thousands join Lord Mayor's Show procession in London",
      "brief": "",
@@ -88,24 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaVpxSHVOZkhkdWF0eEc4X3RraWZYTnFJTzZEUWlITVNYWmVlczBSY081MXhJX0l0NTZ2UDRSMWtqTzk1eWRWTmtVMnBXRmVOVFVEV0N6c3NQTDJnVWJzd0VDQkdOV042ZHR1bTU4RG9jMW9NMHlqQk1CdzE4VjY0VjlZc2lWN0hCUGM3THVPNDBfc0lSbDUtbWRJY1hxT1JrVktKbWxpN01BWEFZTjVodzVKdU5WR2pQYVd6OEVaQQ?oc=5",
      "published": "2026-11-14T16:15:00.000Z"
-    },
-    {
-     "title": "Football: Soccer-De Jong to miss yet another match for the Netherlands",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbkdvekl4bm5FQ0J2MEhnWVhxVGI3NmZ2UnItMHgxVndFYWd1ZFJCdnkxT3RZSm1KNVNPekt2ci10SEtKNHBSX2V3UkxzV2U0cEZSNVVlNkwxeEJqRnIzVFZjY0pvNVNnbnoxcXJoQUZDMzlCUW1LTWVfaklmTm9uTVNKdjZiTjAzcXE5Q0ctRDNWZzlCYzZGMEdrc3h6c2JaVHQwWV9NeDRzVXlOU0dMWHVtaw?oc=5",
-     "published": "2026-11-14T16:02:00.000Z"
-    },
-    {
-     "title": "Football: Harimau Malaya's 46-year wait to beat China continues",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdFSFpGN2JMSENfSm1WQldHVEdsbzNvZGFGNC1FVWJIRGU0UU81dUo4RFROLUhpQWxmSjBIaGUtbmlUXzlnVjZxeG50UzJXWGF5di1LTE1PS3B4QVJKLUZhUXJ2SHktU01wVGtwdXhDVG52OThsNUlGNDZscUR1SGYyY0lEbnl4N3lKZFBTLXR1SU0tdVBHb0NvbnBvN0pyLW5TOUowXzg4cTZF?oc=5",
-     "published": "2026-11-14T15:10:00.000Z"
-    },
-    {
-     "title": "Cricket-Sammons to step down as Zimbabwe's head coach after UAE tour",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVVicm4xOS0wVW10Y21YNnRRZTd4TVJCSExMN0FLazJxSDBna3d3YmNYZ2ZHVjBjNVB0MjJmcGx2ZUZjTzJMVWJOSFg2Y2kzZjkyUTFKTHItaEc2RjB1bVkycHAzdVdndW1ESVFzR2tlb0dSbTRFRkRPZmxYVnA5U2JVdzVhbXlWc0cwZUVuaEZCeUd2TUxVYUx2M0VOaUFlNWJBWlRfSVlZRE9QZHdNbmh6dFZVVzlnQW5manJxTQ?oc=5",
-     "published": "2026-11-14T15:02:00.000Z"
     }
    ]
   }
