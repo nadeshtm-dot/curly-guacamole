@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-13T23:37:33.848Z",
+ "updated": "2026-11-14T00:52:47.409Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Rubio says more work to do and downplays election losses amid speculation about political future",
+     "brief": "Amid speculation about his political future , Secretary of State Marco Rubio declared that there is more work to be done as he downplayed Republicans’ losses in the midterm elections.",
+     "link": "https://www.cnn.com/2026/11/13/politics/marco-rubio-political-speech",
+     "published": "2026-11-13T12:00:00.000Z"
+    },
+    {
+     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
+     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
+     "published": "2026-11-13T12:00:00.000Z"
+    },
+    {
      "title": "US Air Force responds to suspected drone activity over UK airbase",
      "brief": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorized drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force…",
      "link": "https://www.cnn.com/2026/11/13/uk/uk-airbase-usaf-suspected-drone-latam-intl",
-     "published": "2026-11-13T23:37:33.995Z"
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
      "brief": "The United States is experiencing its worst and deadliest year for measles since 1991, with 10 measles-associated deaths so far in 2026 – half of which were reported in the past two weeks.",
      "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T23:36:34.038Z"
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "Nvidia’s week of chaos, explained",
      "brief": "In a matter of days, a corporate scandal has toppled the leader of the world’s second-most valuable company, Nvidia CEO Jensen Huang; thrust his family into the spotlight; raised huge questions about the future of…",
      "link": "https://www.cnn.com/2026/11/13/business/nvidia-jensen-huang-affair-fallout-vis",
-     "published": "2026-11-13T23:35:34.046Z"
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "FAA issues nationwide ground stop for all flights due to ‘extraordinary circumstances’ and safety",
      "brief": "All flights in the United States are grounded until further notice, “due to extraordinary circumstances and for reasons of safety,” the Federal Aviation Administration said.",
      "link": "https://www.cnn.com/2026/11/13/us/faa-nationwide-ground-stop",
-     "published": "2026-11-13T23:34:34.018Z"
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "Europe and Ukraine get a boost in peace talks, but Putin is playing for time",
      "brief": "At the airport in a freezing Moscow, the billionaire property developer and one of President Donald Trump’s top envoys, Steve Witkoff, fielded a brief question from a CNN team that had been ushered onto the tarmac.",
      "link": "https://www.cnn.com/2026/11/13/europe/russia-ukraine-us-europe-peace-talks-putin-intl",
-     "published": "2026-11-13T23:32:34.033Z"
-    },
-    {
-     "title": "Tanker collides with river cruiser near Port of New Orleans",
-     "brief": "A tanker collided with a river cruise that was docked at the Port of New Orleans on the Mississippi River, with more than 130 people onboard, according to Port of New Orleans officials.",
-     "link": "https://www.cnn.com/2026/11/13/us/new-orleans-river-cruise-collision",
-     "published": "2026-11-13T23:31:34.034Z"
-    },
-    {
-     "title": "Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo",
-     "brief": "The US intelligence community intercepted communications in the spring indicating that an executive of Megaspeed, a company under investigation for possibly diverting sensitive technology to China, was having an…",
-     "link": "https://www.cnn.com/2026/11/13/politics/jensen-huang-us-intelligence",
-     "published": "2026-11-13T23:30:34.043Z"
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "Russia evasive after the US says Europe will join next Ukraine talks",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Indian fintech firm Razorpay gets regulatory nod for IPO",
+     "title": "Wiretapping suspects face treason charges",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWV8xMEoxM0I5LWNHZlRwaDVyUmJxaXZINE9qaUV0d0FIQXVyLUh6dFJtMnd2ZVFJV21qVkp4cTBia3dRckNtajFmYTJRR083S1RvRjUySmJVNzcyakpFSUZXVVdfaGdJZWdVQXBMcHlBUmg5NWhOd0pYTlNaa0RJS0ZpZWpubzZJNVhhSFR3WS10eVp6X213Y0dFX3Q1U3JOOXRCZEdZOEdPLWl0UFE?oc=5",
-     "published": "2026-11-13T23:29:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYnViRDE3Umd5TXp3T015X0d1eWV5V2tWQ3BMZGFVVGp6Y3NZSjE5a1V3VEFmdGd3RjJTcTB2N0RjOTNiSUZxN2VvaDdjUFcxTmx2ZGpMWnEtRWtHZklUUEFHOE1NVE5tYzBMWU1PNjVqTEt3al9FTXY3SnRDc0RtRmQzblZ4c3ItdkNWQmx2ZlRDeFZMZ05wRFlLR2ljOVVWSkxmSEVDTQ?oc=5",
+     "published": "2026-11-14T00:45:26.000Z"
     },
     {
-     "title": "Rugby-France stun South Africa 21-19 in Nations Championship",
+     "title": "Tennis-Svitolina stuns Sabalenka to reach WTA Finals semis",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUDdCZkdmNzgyNVM0Q3c3NWl4U2ZhN054QWpfQTJxSzkxVXZUcWlOckNRMkpSNWxWRGQ4VmxvZlNzM2hHNFAtWXVlcmRRdGhzVUpRWjZQS3YzQ2t2RTNXMWhId2NlOGg0YVZJa0NYbW4ySUFKcW0yV1hvNzZtc0loSF9FakNQU1hxOG5BQm5yUG5pdDVKMmhXR3NjWXFjNVdEdG0tUEFvQ1Y0V0dSQzhV?oc=5",
-     "published": "2026-11-13T22:53:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGpWODF3eV8wUVZOeFB6SlhaR1FJN1A5dVliTmRGSXJHdnQ5UEQzOFBiWTF1U3h0ZUtDNWQwZG1naExUam5kTXVveGlIZUpnNjZQaUFBMTFETTJCcUE4X2h3VU14UU8tY0FxM1JxNUVrWHZCSmNGamFqaVJKaG9PbTBmZENuaXh3VDVvQ0NVRThsZjVnaTBKalVlTWowTXJhNVJTRG5Vc0ZTSUNFQnc?oc=5",
+     "published": "2026-11-14T00:42:00.000Z"
     },
     {
-     "title": "Russia sets cull limits to help control bear population after attacks kill 36 people",
+     "title": "‘Diverse staff can better serve the rakyat’",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSzI3MGhkUkFhUVE1OUFJQWlWUEFEeFV1WkhSYWZsODlqQWtIU0lBWm94ek1jM1lIYUV0RHp1MzBKVklxZGwwOVBDV0hnTkpCYk11cW5VUUVQWnlhV3JDTXZUbDlJaW5JQkJoazcycldrNzNTTWt1RElOY3k4eTMzWl9XQkVSNG5oSllBb0d0SUZteWswUnExek5zYjJ1MFZ5THBNMDUzMUh5cWc4blUzQ1BONlZaNEJnUFIzX0JzZ3hpc0xrVTZUdXpfaFNfUQ?oc=5",
-     "published": "2026-11-13T22:51:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnFESjhaOWtwclg2Sk1sOWMyVWJNNEN1bTBsOVBhNTQxb2tBbVd5eFVPY0tGRm9xX2JTRXJ0ZVowUW9RN0VIZ2YwQ1FXVXlHRUR3SVNjclMzQVdTdUlhV3dlVmdHMzZ6M05uXzVONm5YTmRFNVBNVFNyS3lZUkx2Z29DMHRiNGQ5UXBxVXBybVpWMmhVdlRmY0w4bUU?oc=5",
+     "published": "2026-11-14T00:39:24.000Z"
     },
     {
-     "title": "Football: Soccer-Lens appoint Digard as coach until 2028",
+     "title": "Over 96,000 foreigners arrested for various crimes since 2024, says IGP",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdDBEVEJGWW5lZzF6VEFLb1A5aHpIR2FFWlA1ZWxmeGo4OUJLS1NERG8yYTFmN0JLc2hUUWt4M1JFYldEelhBdFI0OV9RUnFBTzI0cFU5Nkdha0V0SWZ6MndrbG5qVGNhV2puSjhGSmVmaHZ3NDFaS29CekxfTXNMM3lRWWhlVmsxVWFsLXJTVGlGTmVBajJKX2tVcERDUzF6?oc=5",
-     "published": "2026-11-13T22:38:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQczNVRjU0emlvLXkwbDY3S0dZNjBxYmstd0FwY1ZnZV9MSXphdllHNElrX2xNZkdrSlZBcHdFTno1VW9Hb082ZVNMU0RoY2RXQTdDVGFyQUpadTh3clhQQkRERVJXZ3BzbUxpNkNBc2JHbGtvTWZ6cXB0aldneXFfdGNYWjRFZl8zVTA4UXFKMzBfR3N1b1NjSXFXRVdSVTRRcmtIRURpME5iRmJISnF6WnI5Y25TWDdlSXBZ?oc=5",
+     "published": "2026-11-14T00:34:00.000Z"
     },
     {
-     "title": "Football: Soccer-Reijnder's hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+     "title": "Call to promote Sabah tourism via untold stories",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUkdfdThzWU8tZGl0MGtRaFA2YklBb1VQV1kzNUtoWlZWMVpQTXJaTWhLM3ZCSXJYUldGTTNRajcwcHJfOFplV0N3Q3Z4ekJKVEdicDdscDJZOGlVdnFjTVZZd2tyNDZQNGJmZGlkRkNPVDQ5cXpLZ3dDYWgzTlVWeWlDckRzOFNUU2FyVnRwd2pkREV3NjNyY3RoWnJvTG5HaFk4eUEtRFRjaFFYTUdpMWk5XzNtTnZ3RHpsUmhRSHdrakMtX3NlYmJJdkwyRVhobXc?oc=5",
-     "published": "2026-11-13T22:24:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNzRvaExBRHNjeDRhUkxTSm9OZm9ZMUJxX01ySjI5NzF5TkpnMXA5SUJEUk1GY3FTQ3VILTZ2YnlmM1FZekJwUUM2R3hQTjhkNzJySWpURjhPM1MySEZ3UV9rQ192Q0M5eFJDa1pEMm5uQ0huOUZSdUNwcjBnY0Q3bkV4ZmRacnJNYkJ0a01LQ2NJTmxrbnA0V0tSZVRiNVE?oc=5",
+     "published": "2026-11-14T00:30:03.000Z"
     },
     {
-     "title": "Football: Soccer-Owono handed 12-match ban after De Miguel death",
+     "title": "Turning one-off orders into lasting partnerships",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORHNzZDNMX1JEUkdzNGJXZUZObF9NMkNQbVNhT0JicG1kMkNoMDlYaS1BUWgyVFZfUmZTUnVncmExQWdDSlZmRVpTZEZnRUJJRTNhVE1vVFc5blpLQzZYOGIzR2MzVmlpM0NOX0NqdFdYZERJSEJiVkRLc3kycFk5WXFXZVBORERLSXF1LXUxMWRrNjRfMmx6cVlmdjNtdkNfSDNrd3FueDNVMkU?oc=5",
-     "published": "2026-11-13T22:23:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMmJLWFB0T3lIdmlaMm1DWVRsdFFJYlhFSG00cXhzNXpNeldWaDdCSlNmZHplaGlvSDNVS05mRV9aMG1XejZLWXUtemZsZ3haOHZraHlBOU1JYXliTmhQa1NSaUNuQ0dCVmZVek5KSWNEaVZBNm5WbkRiUnh6N01ZWTVMbldpQnhvUG1nUjItYzNzLUt2Wnpod1hLeUNKVE0?oc=5",
+     "published": "2026-11-14T00:24:25.000Z"
     },
     {
-     "title": "Irish police discover explosive device near where world leaders dined day earlier",
+     "title": "Anwar extends condolences to Zahidi's family",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNenBzM1A1c0RLVEsxQkxsaGtJZzdNcWpuWkNPbDRBVm45WFhRTy1meVl4WmhNaHdwUnVtOV8yeS1tQzFRY0JPb0hlWGVjdUR3WGNXR2Nkd3NoNDBhZXlpZjFLOExmSHZuam1Rd0Ffci1tcGVhdWJOeWNkYzVlcWNJdXpzRnRwQzBXTW5VUmJ4VUFBLVBueHN3Vm9VZXFnV1RrZUtaMl9IcENzbDN6bzBsdGh0dkdPbkVwOWhGUDhiUFZYcHYwSTJyaW9B?oc=5",
-     "published": "2026-11-13T22:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX1lnSWVnN0NNQkI0SW5FREprSndYMkVBRF96cEF5bTljcllsMXVNSzFqOEtJLUNwek5obk9sbDJWRUZNOVVCT01ETUJwbnByNk1OUTQtM2xPOTZlRGNubmhrSWdnUTJUMkdYdloteHlUdl8tdVpUQmpFYVlPcmpwQ1lrTVBKZ3dDTkhTN2ZBcUZxUWhYYTFqT2hjZ1U?oc=5",
+     "published": "2026-11-14T00:17:00.000Z"
     },
     {
-     "title": "Freighter collides with cruise ship in New Orleans, passengers in the water",
+     "title": "National Security Council holds drill at KLIA for crisis preparedness",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUpoUjFneEV5THM2MWhVT1ZwOUNlaXhmYnhROWFvckM3c3F1czhxMlh5S1FvdF82SXRLdEVaOGN4M1hqNGpmZ3JKd1YwakkyMElLZWhMU1N1SkgwR2NnMVlBOTZCal9zbkxTUk1zMHQ0Nlc3dER2QWZKNXB3bDNxV3duTlp6WHZPM3JHdl9xb2ZXUzZaeDNsbFZWaTNJdVZlOEpBZGd2VjZoemNwSHYxS2UtRnBURXFVZXpOOXI4dkc?oc=5",
-     "published": "2026-11-13T21:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXFIME5QY1ZpclBPT1ZFaXFORHBGd09tRWJQTGZIZ1hHRUtkTFhOb1h4R2dLZGRwdTFYUVRjdTh2d3dOMFFxcjF1c3QzajJ1WXYwQWwwQ3dTaG5YdnpuOHlBUUs2akN1QUhJZS0xUmF1TEZ2ZHJWaTJhalAySS1CMm1KWS13R1k1RnJ2OTVmSlVWM1lING5KYkhKU3RhRDlqMUdnaEpyamRnanFsV25HSC1VZUZQNjQ5d2Uw?oc=5",
+     "published": "2026-11-14T00:00:24.000Z"
     }
    ]
   }
