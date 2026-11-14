@@ -1,21 +1,45 @@
 {
- "updated": "2026-11-14T10:38:24.114Z",
+ "updated": "2026-11-14T11:34:19.244Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
+     "brief": "In November 2015, world leaders descended on Paris to negotiate a historic agreement to limit global warming.",
+     "link": "https://www.cnn.com/2026/11/14/climate/bill-gates-landfills-propublica",
+     "published": "2026-11-14T11:34:19.522Z"
+    },
+    {
      "title": "Bomb found at ethanol plant in Illinois, forcing evacuations, officials say",
      "brief": "A bomb was found at an ethanol plant in central Illinois on Friday, officials said, sparking an investigation involving the FBI and forcing the evacuation of thousands of people living nearby.",
      "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T10:38:24.330Z"
+     "published": "2026-11-14T11:33:19.568Z"
+    },
+    {
+     "title": "After blue wave, Federalist Society is ready to move on from Trump",
+     "brief": "President Donald Trump’s days of naming conservatives to the federal bench may be ending, but members of the Federalist Society, the powerhouse that helped Republican administrations transform the judiciary, are…",
+     "link": "https://www.cnn.com/2026/11/14/politics/federalist-society-trump-2028",
+     "published": "2026-11-14T11:32:19.576Z"
+    },
+    {
+     "title": "The world’s highest bridge is so much more than just an engineering marvel",
+     "brief": "In our roundup of travel stories this week: The world’s best cheese for 2026, the world’s highest bridge, plus a new feature: CNN Postcards.",
+     "link": "https://www.cnn.com/2026/11/14/travel/travel-news-worlds-highest-bridge",
+     "published": "2026-11-14T11:31:19.572Z"
+    },
+    {
+     "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff",
+     "brief": "Stephen Miller spent his first week as President Donald Trump’s chief of staff sending a clear message across the West Wing: He’s no Susie Wiles.",
+     "link": "https://www.cnn.com/2026/11/14/politics/stephen-miller-trump-chief-of-staff",
+     "published": "2026-11-14T11:30:19.574Z"
     },
     {
      "title": "This Minnesota mayoral race was a dead-even tie. So, they drew the winner’s name from a bag",
      "brief": "A four-vote lead is hardly a commanding margin, but the incumbent mayoral candidate in Spring Lake Park, Minnesota, appeared to have edged ahead as election night drew to a close.",
      "link": "https://www.cnn.com/2026/11/14/us/minnesota-mayoral-race-tie",
-     "published": "2026-11-14T10:37:24.382Z"
+     "published": "2026-11-14T11:29:19.540Z"
     },
     {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
@@ -28,30 +52,6 @@
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year-old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
      "link": "https://www.cnn.com/2026/11/13/us/immigrant-community-brooklyn-building-collapse",
      "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
-     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
-     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
-     "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "The US has had the tools to control measles for almost 65 years. Here’s how it’s come raging back",
-     "brief": "The United States is experiencing its worst and deadliest year for measles since 1991, with 10 measles-associated deaths so far in 2026 – half of which were reported in the past two weeks.",
-     "link": "https://www.cnn.com/2026/11/13/health/measles-elimination-status-vis",
-     "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "After 26 years, the US has lost its measles elimination status",
-     "brief": "Thanks to widespread vaccination, measles had been considered “eliminated” as a continually transmitting illness in the United States since 2000 – but not anymore.",
-     "link": "https://www.cnn.com/2026/11/13/health/us-measles-elimination-status",
-     "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Rubio says more work to do and downplays election losses amid speculation about political future",
-     "brief": "Amid speculation about his political future , Secretary of State Marco Rubio declared that there is more work to be done as he downplayed Republicans’ losses in the midterm elections.",
-     "link": "https://www.cnn.com/2026/11/13/politics/marco-rubio-political-speech",
-     "published": "2026-11-13T12:00:00.000Z"
     }
    ]
   },
@@ -60,10 +60,34 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Cricket-Afghanistan debutant Maroofkhil misses equalling record but rattles Zimbabwe",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUROblNybGViMW9xcHhaQVI4YkE4VllNd3RqdWdFUlFjXzN1REhiTG5Pb2pfalhnVXpyMlVqMmROQTJPVmh1Z2NJcmZ1ZkpIeTc5dDlnbDZ0aEM0TzJFRGs1enZxYmtVRlJfNk5mOW9VYV9yRjdnM25lZTVsQzMtQTNPRDJpZl9EZVV2Ql8zOTJCQ2J2dFlscjVzMzJmbnV5MW9nMmo4QWdfRlF6UGc3cWJXR2o1d2ttZGZ2eHlabFEyZUZlUlZkR19iMEVoVFV1QVE?oc=5",
+     "published": "2026-11-14T11:24:00.000Z"
+    },
+    {
+     "title": "ASEAN not easing Myanmar approach, bloc's special envoy says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEd5Y01Sd0pTSnJXME1OTVdtNzNudTh2dmJkOTNTdDFobHFrQmx0cTV4S3F4U0hlNER5aWFQVWw5dWhGcVFwVG9GS3JYaG53QVdQWk16M2o4dUdnRE9pRzczQU41ZGYyVUo2eVk1MWJrUFRzdGpxN3NQX3FtZnQ2S3FMSnowRlkwa19JYjNPWTlPcEFMMml2aWI2bFJkMkVTMDNEWm4zUUpFeWxMU2lZ?oc=5",
+     "published": "2026-11-14T11:11:00.000Z"
+    },
+    {
+     "title": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMVZvQXhiZEpZTVJYUUlpUS1LcXZfTWo1V0MxdjJfVWJtLUtJNFRrTEEwbzJCTFowZ2pjeUFOMU4td2t1RXFFNE5vZmFEZ1JJSVJPQmNRdjR2aENwcGcycDVxVWhhWEhsd09pWmRZOUdWZjJRbkZ1QUtEMmlKNWRQczl4MVJ4eHBoQ0U3M0tqSjZkbU4tUkFjQ1RIZlA0WFV1NmZxeHRFeERjZHJZNnYzVW5pZ213dw?oc=5",
+     "published": "2026-11-14T10:31:00.000Z"
+    },
+    {
      "title": "Latest",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPLWlIWWp2OUJvTXZCWUdGM2FwU0xCaXRFUUh3WF9OUHppS0syUmh2b3k2ejJwWVpmSHJfVW4zVWlJOHBYdUdZSVB3U01tNENINW12ZTcwOUEtSGR2anNRZGJlWDZGYk1WMTM3R2llWEdkcllSdUE?oc=5",
      "published": "2026-11-14T09:50:42.000Z"
+    },
+    {
+     "title": "Badminton: Malaysia eye double delight at Taiwan Masters",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1M2OHc4Z2t5STlXWEtGdmptQkRnQmsxd25rblpNNjAxX0dPb1N6UGZCWkFWbDI1WVJOTy00cmduTXByQVdwNzNWeW5PYWZfYl9mOW9reUFiX2Vtem1wRm1hWGpLRnFoalplLWUtLUdTTkxPUXhfYmY3TnFJam10TDlGSkRtY1RSOFNjakJULVROVzIzdXFGOUp3Wlh3Yklm?oc=5",
+     "published": "2026-11-14T09:06:00.000Z"
     },
     {
      "title": "Badminton: Two pairs put Malaysia on course for double",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUpnRzhWbVZvUmU4UENHVE8yb0tXZFI0UXRLSkhIbWIzNWRxSTVyUDBaQkdra2dPdlk4NTJ4dzRwR2NJUGFSeXppa1hVZHRBbDk1aDZXWXlndXI4Um5ldmdNRkszbFR4QW55Rmthc1lIWGY4OFpRNkFXWHJfU0lkX3NTNEYtY09VUjZxcDBybVpmTkNBcmN0UHRMWUpMcURQbEdfcDFsa0ZzRDlZdWE1b2VOZ2hLVWJD?oc=5",
      "published": "2026-11-14T08:34:00.000Z"
-    },
-    {
-     "title": "(Video) Has the AI bubble burst?",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGxHNFJuSnFMLXltVUlsOXFaemRKUmZEMF9XRkJtdXVuamx2NzRCMFBnVTN6NFZfVjFBenFnRi1iN3JYVjd0cUtJZkNyOERJWVV0MjZYeENtZ2lnMlhxeXZOUkF6cFBUMjROeDBRaXptOTRuYWJfeXMwREd0Q1J6Y3pKa3NpbFJQTEpacHZJUXdoUQ?oc=5",
-     "published": "2026-11-14T07:51:00.000Z"
-    },
-    {
-     "title": "Aaron-Roy King beat Denmark's world No. 14 pair in straight games to reach Japan Masters final",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEhacGExN0sybTJlZDBFZDkyOU9lUWxxV3pwWjJmeUV3MGVEc1RCOGNkVjhKSGVDc3NIdE13T1ZXaFJTOHRnaHE3eTYtQ3VjSjVCQ0NVTUt2MHdlbEdtbmxFY2ZOSGNsY0s1WEt1WTA3Wms4TWFQX25xaEdZcUdST2JmaURFenhmaXlJcTlWa1NvNTU1QU13bGdYSzF6bTJWSzF4dExQc1ZOYUttOVl3Q0dMMTEyZVhBci1UeVE4dWNkUjZBdFhLNzZJU25fVEJSNUl1OElxanhnTHFSVm1HSmVVUQ?oc=5",
-     "published": "2026-11-14T07:43:00.000Z"
-    },
-    {
-     "title": "Hungary recovers $20 million cash in probe of Orban minister",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZlblhDdHY4QklRU1NFSFk3T1BXRVYyMjh2dnhPWE5qcndCWTJiSW1qQ1hEZ1RLVFdkUUNJeDIybkZrb1BDOXllZzZocTRyMHdSZVItWEw5ZlQya29CNWVIbzZtemc1ZHpoT1ZtbDd6eHN3YnVmVU44bHZmLUdueGExY2hxQmZ4Wl9LZy1DMDl0c3IyRlhSVEh3UmxJOVplTFJIejJiV2JNeE1I?oc=5",
-     "published": "2026-11-14T07:29:00.000Z"
-    },
-    {
-     "title": "Cricket-India's Sooryavanshi becomes youngest captain in men's T20 history",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC15MDlKUVVDWjZEMXU3dnVXUXFqUzVZSlpFd0x1U25PQzE4LTBqbGtzWWFLNUhYanFIdU44RTVtX05fUXYtYVYzLThpbUI2SEJTeDBXTWNXcGViQ01ISjVLTWhCRmpOQXZTT0V3eS0wRVFzN19wZUt1VHBmUGh6M1VtV2xpVlY2RUVQWTlkVVdXMW8weVp2SHFoRnk5ZGZRWmlHMHZsckRPVG9XZW4yN1lzNWtnYWhHNFhwYWRXeDhETHhBQk5EZzhR?oc=5",
-     "published": "2026-11-14T07:23:00.000Z"
     }
    ]
   }
