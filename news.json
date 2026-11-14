@@ -1,51 +1,51 @@
 {
- "updated": "2026-11-14T14:38:51.600Z",
+ "updated": "2026-11-14T15:34:12.901Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
+     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
+     "published": "2026-11-14T15:33:13.070Z"
+    },
+    {
+     "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips",
+     "brief": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has…",
+     "link": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl",
+     "published": "2026-11-14T15:31:13.064Z"
+    },
+    {
      "title": "Inside Stephen Miller’s aggressive first week as Trump’s chief of staff",
      "brief": "Stephen Miller spent his first week as President Donald Trump’s chief of staff sending a clear message across the West Wing: He’s no Susie Wiles.",
      "link": "https://www.cnn.com/2026/11/14/politics/stephen-miller-trump-chief-of-staff",
-     "published": "2026-11-14T14:38:51.780Z"
+     "published": "2026-11-14T15:30:13.067Z"
     },
     {
      "title": "The Trump administration is diverting billions in health funding away from low-income countries, defying Congress’ plans",
      "brief": "The Trump administration plans to redirect or withhold nearly all funding that Congress had slated for international family planning aid this year – about $605 million – according to an internal US State Department…",
      "link": "https://www.cnn.com/2026/11/14/world/trump-administration-foreign-aid-global-health-diverted-intl",
-     "published": "2026-11-14T14:36:51.835Z"
-    },
-    {
-     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
-     "brief": "The US floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks, Ukraine’s President Volodymyr Zelensky says.",
-     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T14:35:51.836Z"
+     "published": "2026-11-14T15:28:13.057Z"
     },
     {
      "title": "The Garbage Man: Bill Gates has earned billions investing in climate-polluting landfills",
      "brief": "In November 2015, world leaders descended on Paris to negotiate a historic agreement to limit global warming.",
      "link": "https://www.cnn.com/2026/11/14/climate/bill-gates-landfills-propublica",
-     "published": "2026-11-14T14:34:51.825Z"
+     "published": "2026-11-14T15:27:13.072Z"
     },
     {
-     "title": "Bomb found at ethanol plant in Illinois, forcing evacuations, officials say",
-     "brief": "A bomb was found at an ethanol plant in central Illinois on Friday, officials said, sparking an investigation involving the FBI and forcing the evacuation of thousands of people living nearby.",
-     "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T14:33:51.819Z"
+     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
+     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
+     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
-     "title": "After blue wave, Federalist Society is ready to move on from Trump",
-     "brief": "President Donald Trump’s days of naming conservatives to the federal bench may be ending, but members of the Federalist Society, the powerhouse that helped Republican administrations transform the judiciary, are…",
-     "link": "https://www.cnn.com/2026/11/14/politics/federalist-society-trump-2028",
-     "published": "2026-11-14T14:32:51.843Z"
-    },
-    {
-     "title": "The world’s highest bridge is so much more than just an engineering marvel",
-     "brief": "In our roundup of travel stories this week: The world’s best cheese for 2026, the world’s highest bridge, plus a new feature: CNN Postcards.",
-     "link": "https://www.cnn.com/2026/11/14/travel/travel-news-worlds-highest-bridge",
-     "published": "2026-11-14T14:31:51.853Z"
+     "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+     "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday, after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
+     "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
+     "published": "2026-11-13T12:00:00.000Z"
     },
     {
      "title": "After 26 years, the US has lost its measles elimination status",
@@ -60,6 +60,24 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Football: Harimau Malaya's 46-year wait to beat China continues",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdHdFSFpGN2JMSENfSm1WQldHVEdsbzNvZGFGNC1FVWJIRGU0UU81dUo4RFROLUhpQWxmSjBIaGUtbmlUXzlnVjZxeG50UzJXWGF5di1LTE1PS3B4QVJKLUZhUXJ2SHktU01wVGtwdXhDVG52OThsNUlGNDZscUR1SGYyY0lEbnl4N3lKZFBTLXR1SU0tdVBHb0NvbnBvN0pyLW5TOUowXzg4cTZF?oc=5",
+     "published": "2026-11-14T15:10:00.000Z"
+    },
+    {
+     "title": "Cricket-Sammons to step down as Zimbabwe's head coach after UAE tour",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZVVicm4xOS0wVW10Y21YNnRRZTd4TVJCSExMN0FLazJxSDBna3d3YmNYZ2ZHVjBjNVB0MjJmcGx2ZUZjTzJMVWJOSFg2Y2kzZjkyUTFKTHItaEc2RjB1bVkycHAzdVdndW1ESVFzR2tlb0dSbTRFRkRPZmxYVnA5U2JVdzVhbXlWc0cwZUVuaEZCeUd2TUxVYUx2M0VOaUFlNWJBWlRfSVlZRE9QZHdNbmh6dFZVVzlnQW5manJxTQ?oc=5",
+     "published": "2026-11-14T15:02:00.000Z"
+    },
+    {
+     "title": "Italy fines Meta $887 million over Android users' data access",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdVpVc1h0Vndrbmg0cFh1N3pXbUtpQnhJa01sM213N0J4X3lKRVd6eWZnbW9Wek13ZkZYNDRXUWRadWI4VVdRdS0tWkNYZ1FmUHMtbzV2ZVQ1SXd0cENfMlZMcDZVV3hJbTNxT0s3NzZKX2I0Yy1PSkt4WTU5cE1kMEY4WkJwTXVXTzU0Nkh2RG41VlFva3lNaXdUdWdiR3VsMkJFcFhTRmwzM0szVmV4TDJHYzAxUQ?oc=5",
+     "published": "2026-11-14T14:54:00.000Z"
+    },
+    {
      "title": "Bowling: Gillian strikes gold in Asian Championships opener",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeVNJRHVCZ2pwdnpzUnhsUWJiMWthNXlnQmt1c0xXc0lpeWVTRi1TM0gzdHFEVnlkSFkzUVc1NGJZb1hDc2dGT29odml1bklaeW1nbTZ4YmItTWxlQ2xxVWVDQ3ZJaElqUzdVU0VQajdDclVGQ1BsaDBuUVpMdGNUd3F6NXBXQ3pYMVQwQ1N3WkFXdUxHTTBKUnJpNE1ZYWtmaDRBZw?oc=5",
@@ -72,6 +90,12 @@
      "published": "2026-11-14T13:19:00.000Z"
     },
     {
+     "title": "INTERACTIVE: Melaka polls - Who is leading? Live official results here",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFdiTEJvS3BxWUdSYy1Va0J3YUR6LUNoWHFBcmVLY2pGa1BoWlZ6bVBDbll2VmZuTzdkU3lObjhscE9ZbS04QkV6VWRHdmEwX2VSdnltakRSTmJ2ZV9MbDk1dW9jQng5YThSSmhwb0VuOUdKV2lLSEdJMUItbDFxUGxDaXMyMVF3REFRNVJKTHB3V2xjdVAxTWk4YWlDbGN4aDdqcnlBT3RiTEhXbng3UllUMXNwT1YydkE?oc=5",
+     "published": "2026-11-14T13:05:00.000Z"
+    },
+    {
      "title": "Latest",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XZkxxMkZuTzQ2ZkQ3UXlrZDlta3c0UnhVTWs5dW05LUFYT0R2cHplYzFfU0N3SWVQNXUxRHlPMEp5ZHd2S3hld1VtcHhGZnFDbFVGMHU1VmNkamFvZ1c1c1JLOFJtVUZXclRMamJXNWRac0xZZ0E?oc=5",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDlra2UwRFZObXlvNGRDbmQxY05md3RadU93cVE1QWFHbEdwaVNEZTROTmhrMG5EZklPbzhwQ3VQVktjaVNuNXV1WXlSeVBreWJRZm1mM1pyYlBvT3VKRkpwRE93T2xXMzdqREpJRWhxOWRmcEdVYlJzWXB3NEdydktmb1R0cEFPU1ZvOUFoeU5UOTl6SkpwZnZqLTJNdjZKb2Yw?oc=5",
      "published": "2026-11-14T12:27:00.000Z"
-    },
-    {
-     "title": "Pakatan sweeps all four DAP-contested seats in unofficial Melaka results",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNLWdsYTZvcmdMVkl5b2l4UTlibk9wUmFVd2ZCb0swWmlmTlBXbWhEQWF5ZTh5T0d1d1V3Q0d1aU1mXzgxZk5fQjRDRW9uSFZsZlJOZHhTQWN0Uk9Rd1l0dHpJaVFiQlhuUlBJdlM0V3Z4S1JBRzRSb0diVUdyLWEyZTBhRjVwcEx2UVRKS0VRNzhmNHFDV3hvOGRVWjZ6RGZCYWhrenQxaXlCMEE1NEhSdzhmREVIOURORzlTQVZsMkxQbUc2ajFIdmdxQzBHV1ZfTHZj?oc=5",
-     "published": "2026-11-14T12:11:00.000Z"
-    },
-    {
-     "title": "Cricket-Afghanistan debutant Maroofkhil misses equalling record but rattles Zimbabwe",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNUROblNybGViMW9xcHhaQVI4YkE4VllNd3RqdWdFUlFjXzN1REhiTG5Pb2pfalhnVXpyMlVqMmROQTJPVmh1Z2NJcmZ1ZkpIeTc5dDlnbDZ0aEM0TzJFRGs1enZxYmtVRlJfNk5mOW9VYV9yRjdnM25lZTVsQzMtQTNPRDJpZl9EZVV2Ql8zOTJCQ2J2dFlscjVzMzJmbnV5MW9nMmo4QWdfRlF6UGc3cWJXR2o1d2ttZGZ2eHlabFEyZUZlUlZkR19iMEVoVFV1QVE?oc=5",
-     "published": "2026-11-14T11:24:00.000Z"
-    },
-    {
-     "title": "ASEAN not easing Myanmar approach, bloc's special envoy says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEd5Y01Sd0pTSnJXME1OTVdtNzNudTh2dmJkOTNTdDFobHFrQmx0cTV4S3F4U0hlNER5aWFQVWw5dWhGcVFwVG9GS3JYaG53QVdQWk16M2o4dUdnRE9pRzczQU41ZGYyVUo2eVk1MWJrUFRzdGpxN3NQX3FtZnQ2S3FMSnowRlkwa19JYjNPWTlPcEFMMml2aWI2bFJkMkVTMDNEWm4zUUpFeWxMU2lZ?oc=5",
-     "published": "2026-11-14T11:11:00.000Z"
-    },
-    {
-     "title": "Cricket-'Stinks of a cover-up': Warner blasts Cricket Australia probe",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3d5bmMyYVRnVjMzbFd2QW5ENHZDM1UxUzc1clQtaGZRR3FvdUFOQ00xTm13SDRRMHdkM3ZVUlVvYlgwelZFTVlfMjRNMzI4QWJQU3dZQTRXVzJvc2JvRFM3RTF2d05fZWhTeHdTUHJiRWRuSG44V2hmdFYwcjU1aUJ2UVhRM1ZDa0VmVDMyY0hwTTNDX08wZzkwMi1JYnp2Q2d5cHVmdzJHSEk4cVlXRGpjZmR5cGNUUFh4Zi1fWl9mdw?oc=5",
-     "published": "2026-11-14T09:28:00.000Z"
     }
    ]
   }
