@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-14T08:46:42.298Z",
+ "updated": "2026-11-14T09:42:04.813Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "This Minnesota mayoral race was a dead-even tie. So, they drew the winner’s name from a bag",
+     "brief": "A four-vote lead is hardly a commanding margin, but the incumbent mayoral candidate in Spring Lake Park, Minnesota, appeared to have edged ahead as election night drew to a close.",
+     "link": "https://www.cnn.com/2026/11/14/us/minnesota-mayoral-race-tie",
+     "published": "2026-11-14T09:42:04.967Z"
+    },
     {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
      "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday, after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
@@ -46,12 +52,6 @@
      "brief": "US Air Force personnel at the RAF Lakenheath base in Britain responded to “suspected unauthorized drone activity” on Friday evening, although no personnel, aircraft or infrastructure were affected, a US Air Force…",
      "link": "https://www.cnn.com/2026/11/13/uk/uk-airbase-usaf-suspected-drone-latam-intl",
      "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Nvidia’s week of chaos, explained",
-     "brief": "In a matter of days, a corporate scandal has toppled the leader of the world’s second-most valuable company, Nvidia CEO Jensen Huang; thrust his family into the spotlight; raised huge questions about the future of…",
-     "link": "https://www.cnn.com/2026/11/13/business/nvidia-jensen-huang-affair-fallout-vis",
-     "published": "2026-11-13T12:00:00.000Z"
     }
    ]
   },
@@ -60,13 +60,37 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Latest",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdjB2U09GdEZOc2FiX3JfRDZoUXpMbHVaa04yUEZUSm1pSVdFZ01CY3JXZ1V3MlVQaE1PTzhPeXB2QWhaWkJWR055SzZmMkdPZW9BMWRuaWdaYjFadFdTN1BBRlJNWDJyQ3A2SEJ5blhZazRnT0U3NXEwblR3bHZIN2RkeGhqbEQ1RUhoNlJkSlE1LWppQXhv?oc=5",
+     "published": "2026-11-14T09:40:39.000Z"
+    },
+    {
+     "title": "Cricket-'Stinks of a cover-up': Warner blasts Cricket Australia probe",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3d5bmMyYVRnVjMzbFd2QW5ENHZDM1UxUzc1clQtaGZRR3FvdUFOQ00xTm13SDRRMHdkM3ZVUlVvYlgwelZFTVlfMjRNMzI4QWJQU3dZQTRXVzJvc2JvRFM3RTF2d05fZWhTeHdTUHJiRWRuSG44V2hmdFYwcjU1aUJ2UVhRM1ZDa0VmVDMyY0hwTTNDX08wZzkwMi1JYnp2Q2d5cHVmdzJHSEk4cVlXRGpjZmR5cGNUUFh4Zi1fWl9mdw?oc=5",
+     "published": "2026-11-14T09:28:00.000Z"
+    },
+    {
+     "title": "Badminton: Two pairs put Malaysia on course for double",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1dXU2dGOFBiUTVmVW1vYS1Sclc3RjBfeGt0bC01NUNzbHZzaHV1eS0xNzVmQ1k0c3JTUzdQRGxQYWIzUDNJZlhLOUVhelhwOVpuNV9IV2VYQ2lmRVowQnBfUFNUMEhKTFJGN3M5MjZhQTRvcVdENWU3VkZuVDd0MnBhQ1BGM0xfZk1uV3kzVmpOZkFxdXVxLVJOZE9xZw?oc=5",
+     "published": "2026-11-14T09:03:00.000Z"
+    },
+    {
+     "title": "Binance targets full reopening of withdrawals by next week",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSUZXdEs0ZkFtcDFzakJCaUNzVHhKYlNqN3RSd05lN2hpT0w3bU1TS0pQemhvdzdhUFpMQlY2WjF0SVh2OW1BYTlMQnNYWFFpR0JmYmphTERXVFp6R0lPVTN2T2xpaUhQLXFVNWxYSG9ZRTN5U2R4RmgtTFBUUzdYczlDOU9MYzVUb3g0aXNtWXBmWTU2elBoRzUzQjJyN2d0eHM3Ykw5eFpJTTNNRW53WA?oc=5",
+     "published": "2026-11-14T08:49:00.000Z"
+    },
+    {
      "title": "Thunderstorms and heavy rain in seven states, KL, Putrajaya until 6pm",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUpnRzhWbVZvUmU4UENHVE8yb0tXZFI0UXRLSkhIbWIzNWRxSTVyUDBaQkdra2dPdlk4NTJ4dzRwR2NJUGFSeXppa1hVZHRBbDk1aDZXWXlndXI4Um5ldmdNRkszbFR4QW55Rmthc1lIWGY4OFpRNkFXWHJfU0lkX3NTNEYtY09VUjZxcDBybVpmTkNBcmN0UHRMWUpMcURQbEdfcDFsa0ZzRDlZdWE1b2VOZ2hLVWJD?oc=5",
      "published": "2026-11-14T08:34:00.000Z"
     },
     {
-     "title": "Headline: (Video) Has the AI bubble burst?",
+     "title": "(Video) Has the AI bubble burst?",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGxHNFJuSnFMLXltVUlsOXFaemRKUmZEMF9XRkJtdXVuamx2NzRCMFBnVTN6NFZfVjFBenFnRi1iN3JYVjd0cUtJZkNyOERJWVV0MjZYeENtZ2lnMlhxeXZOUkF6cFBUMjROeDBRaXptOTRuYWJfeXMwREd0Q1J6Y3pKa3NpbFJQTEpacHZJUXdoUQ?oc=5",
      "published": "2026-11-14T07:51:00.000Z"
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZlblhDdHY4QklRU1NFSFk3T1BXRVYyMjh2dnhPWE5qcndCWTJiSW1qQ1hEZ1RLVFdkUUNJeDIybkZrb1BDOXllZzZocTRyMHdSZVItWEw5ZlQya29CNWVIbzZtemc1ZHpoT1ZtbDd6eHN3YnVmVU44bHZmLUdueGExY2hxQmZ4Wl9LZy1DMDl0c3IyRlhSVEh3UmxJOVplTFJIejJiV2JNeE1I?oc=5",
      "published": "2026-11-14T07:29:00.000Z"
-    },
-    {
-     "title": "Cricket-India's Sooryavanshi becomes youngest captain in men's T20 history",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdC15MDlKUVVDWjZEMXU3dnVXUXFqUzVZSlpFd0x1U25PQzE4LTBqbGtzWWFLNUhYanFIdU44RTVtX05fUXYtYVYzLThpbUI2SEJTeDBXTWNXcGViQ01ISjVLTWhCRmpOQXZTT0V3eS0wRVFzN19wZUt1VHBmUGh6M1VtV2xpVlY2RUVQWTlkVVdXMW8weVp2SHFoRnk5ZGZRWmlHMHZsckRPVG9XZW4yN1lzNWtnYWhHNFhwYWRXeDhETHhBQk5EZzhR?oc=5",
-     "published": "2026-11-14T07:23:00.000Z"
-    },
-    {
-     "title": "Canada, US make progress on trade deal, Carney says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzFHM3pvNkV4c3FPLWtHSlBqLXl1ZUZPM0NfbUcySzB5STNKRkp0ZWpZeHBCbG5Hb3RuaC1jLWFSWnJFUm1xV2ZOamt2amhZV3pRMjB0UWQzSDZuVnRHTHc3Rm4xdWhLSmhfaVEwLUE4S0M3cnRJVEhzb0FvejZCWHRFLVplNG03QkFrQUJrRERJMDRLZ3hkMDhSLVdpcXc?oc=5",
-     "published": "2026-11-14T06:18:00.000Z"
-    },
-    {
-     "title": "Man remanded to assist probe into mother's death",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUnJ5SUVjR3ZnQWZ6eW40MWYxMFBvUTRUOURGTVd6NkdWLXJkWFBxZ2lzWThtS1otcHNOb3lDd1BvQlgyX2NNVVp1TFZycl91eXR1MWdqLUV2SEpnZ2I4ckpINnVxN2xXRFJicmpKYmFrVVV6Mld5QllTb21WdmxMbVdVUkhvV0ptNHRGSFpURzVRNVdqWWpXekdVZDdYZzJBSHc?oc=5",
-     "published": "2026-11-14T06:17:00.000Z"
-    },
-    {
-     "title": "Premier says China ready to import more quality products from Thailand",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVIxY2o1UmdYRWNCSjdXd3AwdjFlWGE4QlBKQV8yVGJtejlIbk5seFJGWWRlbVB6anNvUDN2amlaV2FsMGdMWkdScXVBSTV5VkNQS25BNXdIN1FZc1lYOHgwTmduMU5NUlFDS1g4bnIyMHR4RFIzeVJkVG4tam03ZVRmbDR4WEM2OVpxSTZMdng3ZUV2QUYyTU4tZkk2d0NuaEU4S0haWVlPUl9laTFZYkVhd19TcV9ONTl3Q3NHRlNnM01FMXptY0ZuTDUtdw?oc=5",
-     "published": "2026-11-14T06:02:00.000Z"
     }
    ]
   }
