@@ -1,10 +1,16 @@
 {
- "updated": "2026-11-14T05:46:23.847Z",
+ "updated": "2026-11-14T06:53:14.867Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
+     "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday, after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
+     "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
+     "published": "2026-11-13T12:00:00.000Z"
+    },
     {
      "title": "Immigrant community becomes epicenter of grief after deadly Brooklyn building collapse",
      "brief": "Leonor Yupa dropped to her knees Thursday when a Spanish-language media reporter said her 22-year-old son was among eight people whose lives were claimed by the Brooklyn building collapse the day before.",
@@ -15,12 +21,6 @@
      "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
      "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
      "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
-     "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
-     "brief": "As cruise passengers prepared to make their way off the boat and out into New Orleans, a metallic screech suddenly filled the air.",
-     "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
      "published": "2026-11-13T12:00:00.000Z"
     },
     {
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Canada, US make progress on trade deal, Carney says",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzFHM3pvNkV4c3FPLWtHSlBqLXl1ZUZPM0NfbUcySzB5STNKRkp0ZWpZeHBCbG5Hb3RuaC1jLWFSWnJFUm1xV2ZOamt2amhZV3pRMjB0UWQzSDZuVnRHTHc3Rm4xdWhLSmhfaVEwLUE4S0M3cnRJVEhzb0FvejZCWHRFLVplNG03QkFrQUJrRERJMDRLZ3hkMDhSLVdpcXc?oc=5",
+     "published": "2026-11-14T06:18:00.000Z"
+    },
+    {
+     "title": "Premier says China ready to import more quality products from Thailand",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVIxY2o1UmdYRWNCSjdXd3AwdjFlWGE4QlBKQV8yVGJtejlIbk5seFJGWWRlbVB6anNvUDN2amlaV2FsMGdMWkdScXVBSTV5VkNQS25BNXdIN1FZc1lYOHgwTmduMU5NUlFDS1g4bnIyMHR4RFIzeVJkVG4tam03ZVRmbDR4WEM2OVpxSTZMdng3ZUV2QUYyTU4tZkk2d0NuaEU4S0haWVlPUl9laTFZYkVhd19TcV9ONTl3Q3NHRlNnM01FMXptY0ZuTDUtdw?oc=5",
+     "published": "2026-11-14T06:02:00.000Z"
+    },
+    {
      "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLWpJbmoxOTR1UFlVS3UxamVZNGlqdXFsNVNnaHJNYTVhVmVCemxHWEgxYTNRWWkzb3VVQzFKOHBsckhCd2NOS0V1SkdfRDVOME1jVVNEWFJ1bXE3WWlndGJKVFZ6YW5MYUZqYk5JMDhSNmYwelN4S1BzTVdsSjdTUzZzUmdBSzMzQ1JfTDU0WTRjeDdGaFJWQm54QWJBb3ZaWTVNXzd2WDdWVFctdVdkVG5hNkpzSWd0d2d1ZnkwOU1FcWh2MC0wOGtsc0tKemI3RzFGOG1fWmw1dw?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUd4TVE1V052U3FDdzFfXzhlWDYwekRYSWlsbFN1YWRkUFVkTUJ4ZTR2UjNRZS05akthUVQ5ajhlSFFlWkgxejJwYzdicS1jQUdXZFFQNWRUbGdnQlJlelQ4RUlfcUh3TldsM0lWbV91djlWWGhkcjh2TWZJSEdseGpzRXpXZnRCQlRLNDJBcEZyWFJZbUdnVmlOZW1tamdHYXc?oc=5",
      "published": "2026-11-14T03:11:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9kdU1CVGtnLW1EZjhuZjJFUUFwZVU5N2lHR0FKTE5nTmEzUFR0dEc5RzNXdmpaWjVtRUVESGdyQVIwT3QzRVFDd2ZZaU9DNkZscGNtOGpnN2NaeGctUElBQi1VNEdBUm5TRGNyMDgxMlpzYTZZQkQ2bm5pVQ?oc=5",
-     "published": "2026-11-14T01:59:41.000Z"
-    },
-    {
-     "title": "Squash: Absence of Egypt’s top two brightens Sangari’s chances for another title",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGd6UTdIemw1V3J5UXRJX0I1R0h0cURGZ1dUTzZKbHh6d2tON1paUnYxcGRKNHk1aHFGQVhndkp2VjBjUTRhS0FQNy00U0NoOFhZY095SEtaY0IwZ2tqWVZpUlpDQy1uNE1aRWs4N2piWk11Qnc2NG80N2FUR3I5bWJ2R1Mzc0VwOExrVGEtUDc4eVQ4UV9VTTFzWXJ4RnpzUjhoN3lqN3VXa0FXQ3JKUTllcXZNZENCQUw4WGJR?oc=5",
-     "published": "2026-11-14T01:44:02.000Z"
     }
    ]
   }
