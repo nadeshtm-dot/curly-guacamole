@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T07:56:58.542Z",
+ "updated": "2026-11-14T08:46:42.298Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,6 +60,18 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Thunderstorms and heavy rain in seven states, KL, Putrajaya until 6pm",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUUpnRzhWbVZvUmU4UENHVE8yb0tXZFI0UXRLSkhIbWIzNWRxSTVyUDBaQkdra2dPdlk4NTJ4dzRwR2NJUGFSeXppa1hVZHRBbDk1aDZXWXlndXI4Um5ldmdNRkszbFR4QW55Rmthc1lIWGY4OFpRNkFXWHJfU0lkX3NTNEYtY09VUjZxcDBybVpmTkNBcmN0UHRMWUpMcURQbEdfcDFsa0ZzRDlZdWE1b2VOZ2hLVWJD?oc=5",
+     "published": "2026-11-14T08:34:00.000Z"
+    },
+    {
+     "title": "Headline: (Video) Has the AI bubble burst?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZGxHNFJuSnFMLXltVUlsOXFaemRKUmZEMF9XRkJtdXVuamx2NzRCMFBnVTN6NFZfVjFBenFnRi1iN3JYVjd0cUtJZkNyOERJWVV0MjZYeENtZ2lnMlhxeXZOUkF6cFBUMjROeDBRaXptOTRuYWJfeXMwREd0Q1J6Y3pKa3NpbFJQTEpacHZJUXdoUQ?oc=5",
+     "published": "2026-11-14T07:51:00.000Z"
+    },
+    {
      "title": "Aaron-Roy King beat Denmark's world No. 14 pair in straight games to reach Japan Masters final",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTEhacGExN0sybTJlZDBFZDkyOU9lUWxxV3pwWjJmeUV3MGVEc1RCOGNkVjhKSGVDc3NIdE13T1ZXaFJTOHRnaHE3eTYtQ3VjSjVCQ0NVTUt2MHdlbEdtbmxFY2ZOSGNsY0s1WEt1WTA3Wms4TWFQX25xaEdZcUdST2JmaURFenhmaXlJcTlWa1NvNTU1QU13bGdYSzF6bTJWSzF4dExQc1ZOYUttOVl3Q0dMMTEyZVhBci1UeVE4dWNkUjZBdFhLNzZJU25fVEJSNUl1OElxanhnTHFSVm1HSmVVUQ?oc=5",
@@ -94,18 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNVIxY2o1UmdYRWNCSjdXd3AwdjFlWGE4QlBKQV8yVGJtejlIbk5seFJGWWRlbVB6anNvUDN2amlaV2FsMGdMWkdScXVBSTV5VkNQS25BNXdIN1FZc1lYOHgwTmduMU5NUlFDS1g4bnIyMHR4RFIzeVJkVG4tam03ZVRmbDR4WEM2OVpxSTZMdng3ZUV2QUYyTU4tZkk2d0NuaEU4S0haWVlPUl9laTFZYkVhd19TcV9ONTl3Q3NHRlNnM01FMXptY0ZuTDUtdw?oc=5",
      "published": "2026-11-14T06:02:00.000Z"
-    },
-    {
-     "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLWpJbmoxOTR1UFlVS3UxamVZNGlqdXFsNVNnaHJNYTVhVmVCemxHWEgxYTNRWWkzb3VVQzFKOHBsckhCd2NOS0V1SkdfRDVOME1jVVNEWFJ1bXE3WWlndGJKVFZ6YW5MYUZqYk5JMDhSNmYwelN4S1BzTVdsSjdTUzZzUmdBSzMzQ1JfTDU0WTRjeDdGaFJWQm54QWJBb3ZaWTVNXzd2WDdWVFctdVdkVG5hNkpzSWd0d2d1ZnkwOU1FcWh2MC0wOGtsc0tKemI3RzFGOG1fWmw1dw?oc=5",
-     "published": "2026-11-14T05:43:00.000Z"
-    },
-    {
-     "title": "Be careful of fake voter registration check sites, warns EC",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEpmbS12ZWZVYWVraUNKaVhHSlBIWEpuSEtELUJIZjZGdXViNjNwMy0zVzl0cXFpdGZiOXlmcHNoTGxJT1o2d0dFWUx6SkM3eHpJazdrWDM4RnBPSWhLYlZxUFU0MnNhVEU4VlRBODdpbGNaSHNXaU12QkVzdEhnSXFyVnllSjlmQXBaWUVmLWh6aUd2Qmsya2VFbFAySW5XWTl2NDQ3OTRYN3pv?oc=5",
-     "published": "2026-11-14T05:26:00.000Z"
     }
    ]
   }
