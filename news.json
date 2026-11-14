@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T04:48:52.089Z",
+ "updated": "2026-11-14T05:46:23.847Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -60,16 +60,40 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQLWpJbmoxOTR1UFlVS3UxamVZNGlqdXFsNVNnaHJNYTVhVmVCemxHWEgxYTNRWWkzb3VVQzFKOHBsckhCd2NOS0V1SkdfRDVOME1jVVNEWFJ1bXE3WWlndGJKVFZ6YW5MYUZqYk5JMDhSNmYwelN4S1BzTVdsSjdTUzZzUmdBSzMzQ1JfTDU0WTRjeDdGaFJWQm54QWJBb3ZaWTVNXzd2WDdWVFctdVdkVG5hNkpzSWd0d2d1ZnkwOU1FcWh2MC0wOGtsc0tKemI3RzFGOG1fWmw1dw?oc=5",
+     "published": "2026-11-14T05:43:00.000Z"
+    },
+    {
+     "title": "Be careful of fake voter registration check sites, warns EC",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeEpmbS12ZWZVYWVraUNKaVhHSlBIWEpuSEtELUJIZjZGdXViNjNwMy0zVzl0cXFpdGZiOXlmcHNoTGxJT1o2d0dFWUx6SkM3eHpJazdrWDM4RnBPSWhLYlZxUFU0MnNhVEU4VlRBODdpbGNaSHNXaU12QkVzdEhnSXFyVnllSjlmQXBaWUVmLWh6aUd2Qmsya2VFbFAySW5XWTl2NDQ3OTRYN3pv?oc=5",
+     "published": "2026-11-14T05:26:00.000Z"
+    },
+    {
+     "title": "Cricket-India add Brar to test squad for New Zealand series, release Kuldeep",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWFlckNDbU9rUm02ZzgwcElKNXF4WFRkQnBvbWtfMWtLVEZiNGQtQ1h4cVYtN1JTYUZSdWZ5bUYtbFNRNFlaT2MwUFNKa1FnaU1WMU9TMkkzTENhTkczdFR6Vi01Q0EzVGNWNkVBVzQ4bnhJZWtzWkpWWHhwYmdyTGFLVVRPMjBSZVYwdTB6Z3ZncHhaXzVMVFhrbk56cWNlZjlaelE3ZVFJTmFDZDRiWTFjTENaemxiQkVuSWN0ZEdrR2lqREE?oc=5",
+     "published": "2026-11-14T05:23:00.000Z"
+    },
+    {
+     "title": "Melaka polls: Twin sisters with dwarfism glad to fulfil civic duty",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHg1U0VjdW1FNVNqZ0tJN1RsMi11MldWOVZlTWMxTnhNUTcwazZGQmQ5bl9hVEVYZGtsc19YbFVQTGV6Q1lGOUY5a21LdF9YTFB3NTZFTThzWjE4OVpjSE51cXNTdVVzZEFOWG13ZlFBN0VZWXJOcTQ5Z3Vfa2N1VEpiWHZ4ZUg0QXlPak5jT1h1VUFORE9IeFhhNXc5YXhsZ0pseEsxRTNJRmotNlJvMllJV2ZfZw?oc=5",
+     "published": "2026-11-14T04:01:00.000Z"
+    },
+    {
+     "title": "Gas shop explosion kills two, injures 12 in Vietnam",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZjc5eVRBNEluZEtGV0U1VU5XcGR4THVnaHB4UEI1cXhWd1ZHT1ItNGZiTGgxUUVvUF8zWlNCdEVHdTh1bnhOdWd3WndSRm4wRVVTRl9Ka25iemw2Y0FBdGtzMVJXY1RVbG5IUTZndlE4aDFQU0lHM2FqR19NS3dBaEU1SGxubWNLVXpVYXZKWjNCQlM1eUY0TlgzUTNuS0pEay1BeXd4QVFqekZXWU1VX1hfTQ?oc=5",
+     "published": "2026-11-14T03:20:00.000Z"
+    },
+    {
      "title": "Bomba rescues hiker who injured leg in Bukit Larut",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZUd4TVE1V052U3FDdzFfXzhlWDYwekRYSWlsbFN1YWRkUFVkTUJ4ZTR2UjNRZS05akthUVQ5ajhlSFFlWkgxejJwYzdicS1jQUdXZFFQNWRUbGdnQlJlelQ4RUlfcUh3TldsM0lWbV91djlWWGhkcjh2TWZJSEdseGpzRXpXZnRCQlRLNDJBcEZyWFJZbUdnVmlOZW1tamdHYXc?oc=5",
      "published": "2026-11-14T03:11:00.000Z"
-    },
-    {
-     "title": "Over 22,000 trees planted in KL since 2023",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS1lWTGU1bU1mbjM1U1FZdXF6V0hYclRNV0FfRzQ5RkkxYWgtT1NDQ2I5UGhCb3JIc1BJZ3Fma0tLWFJzdTlpUnp3Y01ubnBGTm5oc3FsaElTV0o5UlkxY0w3ckpLUV9FX0NUanZEbzk4b0lzd1FCczZlNDA1Uk1hMDlqQi1aYzI2LUdSMFBOeHEtNnJmT2NyMmYtX2k?oc=5",
-     "published": "2026-11-14T02:30:00.000Z"
     },
     {
      "title": "Latest",
@@ -82,30 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGd6UTdIemw1V3J5UXRJX0I1R0h0cURGZ1dUTzZKbHh6d2tON1paUnYxcGRKNHk1aHFGQVhndkp2VjBjUTRhS0FQNy00U0NoOFhZY095SEtaY0IwZ2tqWVZpUlpDQy1uNE1aRWs4N2piWk11Qnc2NG80N2FUR3I5bWJ2R1Mzc0VwOExrVGEtUDc4eVQ4UV9VTTFzWXJ4RnpzUjhoN3lqN3VXa0FXQ3JKUTllcXZNZENCQUw4WGJR?oc=5",
      "published": "2026-11-14T01:44:02.000Z"
-    },
-    {
-     "title": "Tennis-Andreeva says she is learning to move on faster from defeats after WTA Finals sweep",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPazRYa000NURTOGU2NENPWUFUSVNUa3A5Z2ZLZll4dThxR1lNalVUTXk1MXctN0IwV1F4NHc2WURRVGFXamVhelNJYnRndGt3SzR0WEFWalFJd0lYRFBLb2RBMW84b3l4ZWQwNnBMZ3pyLVBjOUFDdXdZcndXYjNBUmdmTkdwd3VKckU5bUZCNHFCQTVMZGM4dHdoYVZVUDZZcUZnOTBicVExblA5WTNlVGNfaF9uSWNzYU1GLUdBODFaaWtMeTJoTGJ2LURUb0FQWEEwQ3liX3o?oc=5",
-     "published": "2026-11-14T01:30:00.000Z"
-    },
-    {
-     "title": "Rugby-South Africa's Nations Championship hopes over after France loss, Erasmus says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSEdQYWoydXZlMDdseGpYeUlrMEJlVTZmcUVtcXFleDVSdTJ5S1MtZVl0UW1qeWE5TkNBbHNCNUNnS19MN2FvR2ZsUDhuRVI0c0N6V3VqT2JURFZENGtQMUw1dlJlRUlERXlhWVI3MUo3cDRCLU1uUmFYY2JpN2tyQU1rUFVCS25MWTUxbldEdG9qWTNRLXFpcURnMUwtdnQwaks1S2Ywc2pNNnU3OUJoc09sUmk3U0lPRTZGVE9YSHdBa21zZ2gxQVpFTEt6ZFNU?oc=5",
-     "published": "2026-11-14T01:17:00.000Z"
-    },
-    {
-     "title": "Spotlight on men’s health at outlet mall in Batu Kawan",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPN2FfS3FZXzhHWWcyREtGWUgxcWNFUEpxLXUzRDNKT1Jpa3VDXzB3SlVuRTlCRWRlcWpzTWtuNG5TckRQZTNRSWQ4Y3hxMkkxVFNfd01GY2w0Vno2VHAtM0I3dllsbS1OeWV5bEhmNkVBZTlhY1NfQjk2Rlk5blpsMEVYQjAwRW5DYTJ3cGVpdi1NNGFsNHBfMVhWbjFzQmc4eFVES3FlTFJZeHNG?oc=5",
-     "published": "2026-11-14T00:54:00.000Z"
-    },
-    {
-     "title": "International students boost Seoul real estate investment",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV0czaklVQk1OUHc4eDRrOEFlWG5wUkcwUnBSUEdfWkxUU3VLY0lUenBtTVo3Z0dfNWUtbjV5Tk1tVWp1WHRxMFRFclpLdmg5QmdHQXZYUlpzRXg3bUlWYkc2aEtoQnlMYmZTWDgyNUItOGdVZjk4WGIzX1U4VDZBYzRqdGRpZmFzSDdxaWFxc0lLLXZQbXdILXJrSjAwR3hITXRIOUlKRjVObEpWXzRRUzFNZVh3cXhWNFZ2NQ?oc=5",
-     "published": "2026-11-14T00:52:40.000Z"
     }
    ]
   }
