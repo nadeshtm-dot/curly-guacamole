@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-15T01:59:28.128Z",
+ "updated": "2026-11-15T02:47:44.203Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
+     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf court in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
+     "link": "https://www.cnn.com/2026/11/14/politics/judge-east-potomac-park-golf-course-block",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "Democratic socialists in New York formally urge Alexandria Ocasio-Cortez to run for president",
+     "brief": "The Democratic Socialists of America’s New York City chapter officially urged Rep.",
+     "link": "https://www.cnn.com/2026/11/14/politics/ocasio-cortez-aoc-dsa-new-york-president",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
     {
      "title": "Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say",
      "brief": "An explosive device found at a central Illinois ethanol plant on Friday forced thousands of people to evacuate a city’s downtown area for a day as investigators searched a sprawling industrial facility to rule out…",
@@ -36,21 +48,9 @@
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
-     "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around",
-     "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
-     "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
      "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
      "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
-     "published": "2026-11-13T12:00:00.000Z"
-    },
-    {
-     "title": "Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation",
-     "brief": "President Donald Trump will meet jointly next week with China’s leader Xi Jinping and Russian President Vladimir Putin, the White House said Friday, a first-ever trilateral sit-down between the leaders of the three…",
-     "link": "https://www.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
      "published": "2026-11-13T12:00:00.000Z"
     }
    ]
@@ -59,6 +59,12 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Anwar applauds Aina Abdul's success on asian stage",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlM4ZDhLVlZtaFNwVGpWRk5Eak1oZzQtdW54M2JVS1FSQXhQYjNYM18xNWUwVnY2YWVOU0VUMHBTZDkzek5XalB3SFBCcmVWbG02cnhrNUFIUXRKOGplWEhfUGMySGhhSmRxdE1ZSGN2TUwzZHZTYlB6Y05vNThnVGtnTHlzdFRJYndwVEYtckNnbVFWZm1mdm9XNXRBY0VKYTYyUQ?oc=5",
+     "published": "2026-11-15T02:08:00.000Z"
+    },
     {
      "title": "Latest",
      "brief": "",
@@ -100,12 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVpLYzktUVhsUnNIOHR0VUk3RVdVaDdYTzFGR2Y5WDc3M0RXcDZhQkMxa1l0WTZPX216RGVSX0FoRE55U3gyV2NDQXdwWElQWndYT093eDN3a0o1T0tjblVaSlpyMmNoSHVWVXYycmxXcHBUbUFwb3V3dVJkbDFlVmhtYTR3Ml9FMWs4WUpSOVFYTThxOERBanRUZTIwelRj?oc=5",
      "published": "2026-11-15T00:05:38.000Z"
-    },
-    {
-     "title": "Asean senior officials weigh proposals on Myanmar",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkYzWFhOZXN4TkluZjgyOUZtMDJZVWZoM2p6YnUwWkFWWFJZTzI0Wno0ZXNqcWV2anZ4MXVPSzA0LWxxZHRLVTJhZjlBamM3Q3FWT1F2OVB5c0pKV1NybUxNZVd3YVlCN08wNDZtQUltSndLbjhEVlA5TjVJVlZReU9KemZRRHFZdlpxMnYwd2h6TW1zcnBHRjFBN2k4M3gx?oc=5",
-     "published": "2026-11-15T00:04:13.000Z"
     }
    ]
   }
