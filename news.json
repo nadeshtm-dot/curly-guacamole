@@ -1,14 +1,26 @@
 {
- "updated": "2026-11-15T04:52:33.443Z",
+ "updated": "2026-11-15T05:50:10.552Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
+     "brief": "Most shopkeepers will do just about anything to make a sale.",
+     "link": "https://www.cnn.com/2026/11/15/travel/namdaemun-scarf-man-seoul-south-korea-intl-hnk",
+     "published": "2026-11-15T05:49:10.783Z"
+    },
+    {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
      "brief": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
      "link": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
+     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf course in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
+     "link": "https://www.cnn.com/2026/11/14/politics/judge-east-potomac-park-golf-course-block",
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -24,12 +36,6 @@
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
-     "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
-     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf course in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
-     "link": "https://www.cnn.com/2026/11/14/politics/judge-east-potomac-park-golf-course-block",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
      "title": "Democratic socialists in New York formally urge Alexandria Ocasio-Cortez to run for president",
      "brief": "The Democratic Socialists of America’s New York City chapter officially urged Rep.",
      "link": "https://www.cnn.com/2026/11/14/politics/ocasio-cortez-aoc-dsa-new-york-president",
@@ -39,12 +45,6 @@
      "title": "Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say",
      "brief": "An explosive device found at a central Illinois ethanol plant on Friday forced thousands of people to evacuate a city’s downtown area for a day as investigators searched a sprawling industrial facility to rule out…",
      "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-     "brief": "Columbia, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
-     "link": "https://www.cnn.com/2026/11/14/us/security-south-carolina-gun-show",
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Bahrain's interior ministry issues alerts of potential threats",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUWhhRzRTWU9OVk0wR0tuMVVxZk9WbHNRYlZJQjg4RmxMRUR1T1E0Z3hpRkhhaXVlSnRCUlczT1Nsd081dTlsY1BscWt4VWo0bU5JSXIzejFTbmlXbFR5RkJycFoyY1VHRjdndlRCc2JkYVMxOWRQNEVfVmFSYWFxTmJGQWRjeVZSRHZ4bS1VTzViY0NyQ3Z3dHIxb3FUX283UXpMbXNDYzJYX2FPQ3RaS0dnRQ?oc=5",
+     "published": "2026-11-15T05:11:00.000Z"
+    },
+    {
+     "title": "Guatemala decrees state of emergency in two departments after lawmaker killed in attack",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQODZZN2tzcnJyVm1Za3lwUExZMy1pNjBUYS1ZN21zRVozNEZzMEYwT2lhdFp3R2l5WnJYMWpiR3lnajNsOFZJVGgtZFRQMFNqemxYU0p6WnI3UnhFaWhBdEs4azBVNW8yeDluLXpTR090N3FyYUxHTlBkRnBQUmpNdEhVNlJpZWJrMGtkWFpjXzBBcGZUaERObmJsNjBYYWtEZTdoUzRGdG5rcUZfZW90ajJfN2hsM0ZxVl9kbmU2M3U3VjZrRUptTnZoSllGU2p2RVE?oc=5",
+     "published": "2026-11-15T05:10:00.000Z"
+    },
+    {
+     "title": "Saudi-led coalition intercepts missiles towards Riyadh, drones in Eastern Province",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVGM1LWVVNy1oSWdRb1JaUVV1ZVBTRll6QndDaVZCWWozX3kzcUMzaFNPNGM5MlZyTzFpak54cnRBR1lrM29QNEZDU1B2TUo5UGR5REpQR2tfbjMwU1V3NjJhWTluem9hNEItMHlMeFNRVW1hRWRhbEtkcW5wVi1VTWd4aXNEc01xR0l0YlhFb3pNZWdHM3lma2cwUEpGS0RtdldicURzVDFkMXpFTFB5YVBzajdrbXFmNUFhMXNhTmF3Vk4yTWlSRXhR?oc=5",
+     "published": "2026-11-15T05:09:00.000Z"
+    },
+    {
+     "title": "Top scorer on South Korean tax exam confesses to cheating with AI",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQk0wSTB5QXk4X2xiUVhfemtLNURJc3hJTmwySXlIMGluTHFGOUlyblZsVWpLa1QwNnVoMlc3cEJnUFJnUnA5YnoxSHRaQTYwVFN4anRJTjd6RV9fLWhwMXlyVlpzdDRTeGFsSGlYYWNYRWswWjZCMUd4U01MakpjelFWRFZaVmdYRk1walIyb2h5VERpaHVWN3U4bWIzeTJzM0tFUUxDN05tRHgwb3UzYjJsbGxvOVpnRUE?oc=5",
+     "published": "2026-11-15T04:50:00.000Z"
+    },
+    {
      "title": "Don't bow to pressure to dissolve Parliament, PM urged",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWlUMXBWLXJTMWNZN0dNZW5IeUI1b19GWF93Qjd3ZWJlSzM4T2VyU1podHlaOUNSOEtBempGQ0VSTFZtTE5icW10bHNrdzJMakNIblBzVEhiOHZZdWRLTXBjWmVjelRJVjRvcWpVT1B0Zy03aU8xLWpfYlRoMmt3NDVRV2N3VGxVdjhOU3h2RmpBRkpRbHVMUXF1WFBaXzdRWXBBU2JyY3U?oc=5",
      "published": "2026-11-15T04:43:00.000Z"
     },
     {
+     "title": "Can silat parry the puppeteer’s strings?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZnVC1nMnhyRmJTd18xaW4xcmpUdktid1dJT2R6TEZadHNWWjM2U3dMTzV6Y1dzZGEwY2hreUlQZlI0dXptbHQ4bUlXa211VzBtekJkdFFiOEtPTjFONDVhNVRDTUN3cThvZklRWm5BTGY3dDd3UV9CVXNGVUZGN3R3MmxGTmF6V05hRTdCaG5ha1NMTlRZamFUZkhBOGtTVVdjMEw3UlpxZTZDeTItcDN6NA?oc=5",
+     "published": "2026-11-15T04:13:35.000Z"
+    },
+    {
+     "title": "Study: When to use AI for research, and when not to",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR1BDeEVPaml5NE40bm5RWEFNMXZlaFMwQnZQNTh4OXRNWFRDVks4NEtOTy1KOUlWUGVBVktYbzRHWVpUUnRodEo3TmREZUNBdmswc3B5OFh0c3pYTk9Pa0Z4RE80TDJLQ2RuY081Y2hVNFNCQndpb0JOaC00WERrOEEwU283eUJCTjBFaXduUFluX0ZsX2lYUHhDMkVvNndhWlZ6Mg?oc=5",
+     "published": "2026-11-15T03:00:00.000Z"
+    },
+    {
      "title": "Traveller takes solo trip to Sabah, conquers Gunung Minodtuhan peak",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmh2TmVob21MUjNacTNvdzBGZ0VYRDZLV0FER3dUa0MxQUlOa01TbEppWmlCXzlleXlfcDluZ19xUkJ0aXpEWjhwaXNTN1piS1gyc1p0TFA1eHJHV0tUUkVlcFBtZFZZMWtzUkJpOGFVby02NzVyVVRtUmptSDZRUmUtTEdaWmczQU9XSE8xdlhUMWRlSmNlWHZIS1RXSHFPYy1tUHJQVmpyWUNGWWRyRmpvVDZ5SGxMQ05odFJn?oc=5",
      "published": "2026-11-15T03:00:00.000Z"
-    },
-    {
-     "title": "Anwar applauds Aina Abdul's success on Asian stage",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMlM4ZDhLVlZtaFNwVGpWRk5Eak1oZzQtdW54M2JVS1FSQXhQYjNYM18xNWUwVnY2YWVOU0VUMHBTZDkzek5XalB3SFBCcmVWbG02cnhrNUFIUXRKOGplWEhfUGMySGhhSmRxdE1ZSGN2TUwzZHZTYlB6Y05vNThnVGtnTHlzdFRJYndwVEYtckNnbVFWZm1mdm9XNXRBY0VKYTYyUQ?oc=5",
-     "published": "2026-11-15T02:08:00.000Z"
-    },
-    {
-     "title": "Latest",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRm1xR1hPVmVkMWFEellyNDFkcFlNVDRJY3JlTVduY19zM3ZkazBnMkJZaGZlR1lBRVFqVUQwSDFSRzJRZkVaUFVqcUh5N1VqN2FWYUg1V20yY3VPMm41d0ZqYzJwWkVsbjRUcENxMlk3Z245MlIwQXdSc3I4NXZiQjE1Rnp0cjJTU09rQmptNHFWWUlBenc?oc=5",
-     "published": "2026-11-15T00:42:18.000Z"
-    },
-    {
-     "title": "A cut above? Circumcision and cancer risk",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3UyWFBfN0J3Ri1xa3daNXhwMUpWcGZiUnc0bXRuV0ZnVEZBYVNZRmUtSkYwMEhwOWVScnFNX0VobDZaVFhCRWY0bFVIWHJMdmdGLXJpOUJrS3ZySzF3MW4tbFhsRU80YXdhSEtfR3VOQUlHSlJ0b2xHdFRhRVFZT0FPNW5TbVg2cnZhczZmbUpPTjB4cjFSeWJNcG1yVXBCV1pwcnQzU2JOYm9kZl9uMWlFdnBNTEdfWTlyRHZFVQ?oc=5",
-     "published": "2026-11-15T00:29:00.000Z"
-    },
-    {
-     "title": "Delhi named world’s most polluted city",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1R4eTlOaWM2YXhLcmVxREg0WEJJT29icEp6ZnAyRWwwdGhvZ1I5b2M5Z0ZIWTdWVEJncW5Kem52dlVHNDNUeWtmUDJVLVhuV3Uza3VncWJzN2xPX29nWWVoWXlLQ3o2YlJlZ0Y5MERxcklIMDV6ZnBrZE9Xck84VF9NYTJzWE9rbUFNN2JuOFIwTDNXS0ZsQndlQjNHLXVRNVE?oc=5",
-     "published": "2026-11-15T00:22:40.000Z"
-    },
-    {
-     "title": "Taking to the skies",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSnJpNG5RZTlfV2pDbzg2TnR2TWw4dzROdmdsTmVxSUNma1A0NWFkVlZaMVhMeDJSYi1wLXZjbTF4dVlORUNNdXhSQTc0SS1iNVJIa0QyMzd2SWc3bmhOOVF5WEQxQmRCM3I5QmlBcFBUeTlibjhwa3hfRlY?oc=5",
-     "published": "2026-11-15T00:16:28.000Z"
-    },
-    {
-     "title": "DON'T MISS IT: How to apply for school maintenance funds",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMThjTEViVUlwcjFGdWlKbUxNbnFYX2cxY2hiRzRhUW9hUDFZRFlIeWxqZ2lKdjNia241eWh3WEJFa1lqdnF1OVJacnZuZm5zMlFOcXlwYU5RTFE2UmJpOWcweXM2M1Q3dHNiY3FQVUx4Z0djNXNCWm5PTVVHWWpIVEhnb18yRFJOdFFmYkZwc24wYnk3MmtJX09fVU9nNlU1UkxFS2tOVUZaWFVKdG84?oc=5",
-     "published": "2026-11-15T00:16:28.000Z"
     }
    ]
   }
