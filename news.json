@@ -1,71 +1,119 @@
 {
- "updated": "2026-11-15T12:44:21.867Z",
+ "updated": "2026-11-15T19:19:06.947Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "As students rely on AI in college applications, admissions offices scramble to keep up",
-     "brief": "The college admissions essay is in a very weird place.",
-     "link": "https://www.cnn.com/2026/11/15/tech/ai-students-college-admissions",
-     "published": "2026-11-15T12:43:21.998Z"
+     "title": "Lions dominate Patriots as injuries loom large over Munich NFL game",
+     "brief": "Detroit Lions receiver Amon-Ra St.",
+     "link": "https://www.cnn.com/2026/11/15/sport/lions-patriots-munich-game",
+     "published": "2026-11-15T19:19:07.189Z"
     },
     {
-     "title": "A sub-genre of reality TV is being reborn as America pushes back on Trump-era conservatism",
-     "brief": "The beachy shores of Orange County are the affluent backdrop for the new “Secret Lives of Mormon Wives” spinoff that premiered this week at a time when curiosity about religious people who buck tradition is seemingly…",
-     "link": "https://www.cnn.com/2026/11/15/entertainment/secret-lives-mormon-wives-orange-county-reality-tv",
-     "published": "2026-11-15T12:42:22.001Z"
+     "title": "Estonia to shut its border with Russia, blaming Moscow for foiled arson plot",
+     "brief": "Estonia is to close its border with Russia after blaming Moscow for a suspected attack on a defense technology company, Estonia’s prime minister said Sunday.",
+     "link": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl",
+     "published": "2026-11-15T19:17:07.199Z"
     },
     {
-     "title": "A gunman took four lives at an Oregon elementary school. The families came back to reclaim it",
-     "brief": "The doors had been shuttered for 27 days.",
-     "link": "https://www.cnn.com/2026/11/15/us/bend-oregon-silver-rail-elementary-return",
-     "published": "2026-11-15T12:41:21.996Z"
+     "title": "In newly blue Texas, far-right Christian nationalists gather to plan a future after Trump",
+     "brief": "Disillusioned by President Donald Trump, hundreds of people gathered in newly blue Texas this weekend for a far-right Christian nationalist conference to discuss a path forward to advance their agenda after major…",
+     "link": "https://www.cnn.com/2026/11/15/politics/christian-nationalists-nick-fuentes-trump",
+     "published": "2026-11-15T19:16:07.192Z"
     },
     {
-     "title": "A newborn died in a faith-healing sect. The state — and one ex-believer — stepped in to save her twin.",
-     "brief": "This story was originally published by ProPublica , a nonprofit newsroom that investigates abuses of power, and The Oregonian .",
-     "link": "https://www.cnn.com/2026/11/15/health/faith-healing-sect-propublica",
-     "published": "2026-11-15T12:39:22.004Z"
+     "title": "Russian diesel under Trump deal struggles to reach US market amid legal fears and criticism",
+     "brief": "More than a month after President Donald Trump announced a surprise deal to import Russian diesel , the oil has struggled to reach the US market amid outrage and legal concerns.",
+     "link": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers",
+     "published": "2026-11-15T19:15:07.181Z"
     },
     {
-     "title": "Lindsay Clancy due in court for a hearing that should determine what her retrial may look like",
-     "brief": "Lindsay Clancy will attend a pivotal court appearance Monday that should reveal if and when the Massachusetts mother will again stand trial for killing her three children.",
-     "link": "https://www.cnn.com/2026/11/15/us/lindsay-clancy-retrial-court-hearing",
-     "published": "2026-11-15T12:38:21.986Z"
+     "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
+     "brief": "The first call, as Jensen Huang remembers it, came from Howard Lutnick.",
+     "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
+     "published": "2026-11-15T19:14:07.197Z"
     },
     {
-     "title": "Democrats look to what’s next after Trump. But first, an actual party",
-     "brief": "The Democrats here were told: The big midterm win wasn’t about you.",
-     "link": "https://www.cnn.com/2026/11/15/politics/democrats-whats-next-denver-midterms",
-     "published": "2026-11-15T12:37:21.992Z"
+     "title": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it",
+     "brief": "Following a historic airspace meltdown on Friday that grounded all flights nationwide, Transportation Secretary Sean Duffy has implored Congress to authorize tens of billions of dollars in additional funding for the…",
+     "link": "https://www.cnn.com/2026/11/15/politics/congress-additional-funding-request-faa-duffy",
+     "published": "2026-11-15T19:13:07.194Z"
+    },
+    {
+     "title": "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
+     "brief": "Russ Hudson of Columbus, Mississippi, became one of the unexpected stars of the 2026 midterms, with a feature role in an ad that’s since been viewed more than 20 million times on X alone – tipping his head back and…",
+     "link": "https://www.cnn.com/2026/11/15/politics/scott-colom-viral-protein-ad-mississippi-senate",
+     "published": "2026-11-15T19:12:07.175Z"
     },
     {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
      "brief": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
      "link": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
      "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
-     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
-     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "",
-   "items": []
+   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
+   "items": [
+    {
+     "title": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMXNwbFd6amxPdldFZ09hcVRlV0VtbkFVWmNrVWtKOWRCMTM0ZUM5UlFjQlVDdWg1TmZSZ01feEFXX2FyQkhfMDNGV2hZSjVXNUlHZjlfWnFPcXc4UlgzUDFzTGpScmtqQXAwaVZ6WXpIYURUUURrVUR5TlV1WHpUUTQxQS1xTUtJNjlha1A1WTA2Zk40emxZMXJvUDEzLTV2WHFIVUxnLUdvWklXOWdjM0IwODN6SVRjenBFbjJkWHVicFVhSG9NY0xFYzNsYTVfVGFWY2tHRkNWb1E?oc=5",
+     "published": "2026-11-15T18:07:00.000Z"
+    },
+    {
+     "title": "Private hospital oversupply in the making?",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWt4UGR1QmlIQ3k5VnBlaF9oaDQwZnAteVJlSmlBV1BGYlhFMW93VkFvenA4dzBaeFpmZVBhM0tFTG1jcUpQa2w1MThKaW0tRFNYVlM1TUp2dXRIaUgtNHN0WE0xajhZYmVOSjZGbnlTLXcwdDllX2MxM09tNmJIVTJGYkxXdDJKOU5vTXlRRGtxcmRHNWR0NXZ2UzlELW1PRGpGRw?oc=5",
+     "published": "2026-11-15T17:02:56.000Z"
+    },
+    {
+     "title": "Milking new growth opportunities",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGF1N21QeW9scWFsZjlwNGNjclZJMjlFbUN0d09vdzI0OTQxN3pYVmZaS3JhVnA3eC1ndFJSbEFjZXgwTzlDZkFuTkJKT0t3a1pqaEFGRG5WaFp5N2tvRFB4YnI3ZFRCVlJGdFlUYUVtYldLZU91OWJWbWk5RGFPWmtDdmp6dEpUNXdNc3J1TnlLRjBPWFlzUQ?oc=5",
+     "published": "2026-11-15T17:02:56.000Z"
+    },
+    {
+     "title": "Riding the silicon photonics wave",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUpyLU9WdXU1OUttY09ya2dQWUs2RUVTUE5KYzZLMTNhb05VN0F5dTBTdVJKOXJ4VDZpNkNqbDU1alV4R0VNVUpoc002MkJsNTJpTldkcmZZNHVXX0tDeGZrV3JrWjRCN3VQRUlsbXB2VnpXY1ZZQlM0R3pJUGR1aHluTTZkXzA3QldMTW9JQlFMZWVlR3djdEtn?oc=5",
+     "published": "2026-11-15T17:02:56.000Z"
+    },
+    {
+     "title": "Private barriers, public road",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHdVU1pRc2pPSlZFUE1PQlVMdC1kNDVQc0xuTG16aXRJRlRWX3puTnhmeVVkUGlBRnV5Q3pLZk45eXFyM1BHN3ZhRmhfa1c3OXZuRlFyejZ4ZS1SX3F4THBiSXl2Q19BSUtoSHFRZW16azl6QjR0QXNhbUVvTjRGM2ZXQkdSdHl6VE8wU2VJelFPa00?oc=5",
+     "published": "2026-11-15T16:16:12.000Z"
+    },
+    {
+     "title": "Estonia to close Russian border crossings after attempted arson attack",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbi1XY3ltaHR3Uk9rUDlld093MGZWZWJjSEhMXzRNYkFXajV0dXROblZLT1hpTm1OMXZDUXpJdmlfaC1nZUJHYXM3OWdkTDBRaGJnZUo2SW4xQ25oVjF4MGhialJVVTZLWlNZOHhoWlllN2YyaFNhZ2JsSlctM3ZGbFVaZHo2YXVULTQ2VXgxbm9lNEQ2XzdmR3NSdHpyVS1fSmNIVWNUWWtxZjZWRmE1ZE16cFZ6X3M2LXI0?oc=5",
+     "published": "2026-11-15T16:16:00.000Z"
+    },
+    {
+     "title": "Psychiatric hospitals: land as therapy",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzlsQlRqUGpodUZoYjZRc0ZvTnd6a1VZc2VwUVdaTFNadmhqVU5sU0ZGRzA2aFMtSHZRMFNoWndtZXJaZUpfQ3c2NFpRaTRBV1JfWksxeGVHcnRoTDdwZHAzMTN0RWMtcU5CeWRwX2xtYWpTVEl4T3RoNm5fR2V6dVg4NXh3TWNyQ0VRdUV4azZsOHhQMlJwU2ZfRURidG8?oc=5",
+     "published": "2026-11-15T16:04:06.000Z"
+    },
+    {
+     "title": "Heritage, hazards and hard hats",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDVTQ3k5Ym9RWDJFQXZOa2ZYZEVqVDd6bzhteTZqaTF6WTFaV3hHWkRDWkNEa3Ayb084bEtBQ21SMXRQN0tmNTA2NS1SS0J0ay1DNEo2YjN5QzNLV2NQUnNyUHJmbnk4Ml96eHJ0aGdfWTJ5ZWtwVzdOZXNyMmZkNEd4dE9Ed3QxTFdmMF95UTUxV19NREE?oc=5",
+     "published": "2026-11-15T15:56:15.000Z"
+    }
+   ]
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
-  "The Star: 0 items from nowhere"
+  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
  ]
 }
