@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T11:36:27.610Z",
+ "updated": "2026-11-15T12:44:21.867Z",
  "sources": {
   "cnn": {
    "name": "CNN",
@@ -9,111 +9,63 @@
      "title": "As students rely on AI in college applications, admissions offices scramble to keep up",
      "brief": "The college admissions essay is in a very weird place.",
      "link": "https://www.cnn.com/2026/11/15/tech/ai-students-college-admissions",
-     "published": "2026-11-15T11:36:27.810Z"
+     "published": "2026-11-15T12:43:21.998Z"
     },
     {
      "title": "A sub-genre of reality TV is being reborn as America pushes back on Trump-era conservatism",
      "brief": "The beachy shores of Orange County are the affluent backdrop for the new “Secret Lives of Mormon Wives” spinoff that premiered this week at a time when curiosity about religious people who buck tradition is seemingly…",
      "link": "https://www.cnn.com/2026/11/15/entertainment/secret-lives-mormon-wives-orange-county-reality-tv",
-     "published": "2026-11-15T11:35:27.787Z"
+     "published": "2026-11-15T12:42:22.001Z"
     },
     {
      "title": "A gunman took four lives at an Oregon elementary school. The families came back to reclaim it",
      "brief": "The doors had been shuttered for 27 days.",
      "link": "https://www.cnn.com/2026/11/15/us/bend-oregon-silver-rail-elementary-return",
-     "published": "2026-11-15T11:34:27.820Z"
+     "published": "2026-11-15T12:41:21.996Z"
     },
     {
      "title": "A newborn died in a faith-healing sect. The state — and one ex-believer — stepped in to save her twin.",
      "brief": "This story was originally published by ProPublica , a nonprofit newsroom that investigates abuses of power, and The Oregonian .",
      "link": "https://www.cnn.com/2026/11/15/health/faith-healing-sect-propublica",
-     "published": "2026-11-15T11:31:27.807Z"
+     "published": "2026-11-15T12:39:22.004Z"
     },
     {
      "title": "Lindsay Clancy due in court for a hearing that should determine what her retrial may look like",
      "brief": "Lindsay Clancy will attend a pivotal court appearance Monday that should reveal if and when the Massachusetts mother will again stand trial for killing her three children.",
      "link": "https://www.cnn.com/2026/11/15/us/lindsay-clancy-retrial-court-hearing",
-     "published": "2026-11-15T11:30:27.803Z"
+     "published": "2026-11-15T12:38:21.986Z"
     },
     {
      "title": "Democrats look to what’s next after Trump. But first, an actual party",
      "brief": "The Democrats here were told: The big midterm win wasn’t about you.",
      "link": "https://www.cnn.com/2026/11/15/politics/democrats-whats-next-denver-midterms",
-     "published": "2026-11-15T11:29:27.800Z"
-    },
-    {
-     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
-     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
-     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T12:00:00.000Z"
+     "published": "2026-11-15T12:37:21.992Z"
     },
     {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
      "brief": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
      "link": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
      "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
+     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
+     "published": "2026-11-14T12:00:00.000Z"
     }
    ]
   },
   "thestar": {
    "name": "The Star",
-   "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
-   "items": [
-    {
-     "title": "Woman killed in road crash in Kota Tinggi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb2R3R1M2SWc4NXJXMWJzb1A4Vm9PS0hXeEc5d2RsYktJQW9OSGJiOUJnc2Fja0FiRHF5NmV5a2YtNG1zclQtcWJyb0N1dWRkWXczNVp6THMwZnNXQzZUZ1kzUHNYYWNxTmk2UWVMaWlfekIxWWpaZW1McHJHNnpody0ydjZUQ3NJbkFha0VxNkFRdVVNV3c?oc=5",
-     "published": "2026-11-15T10:48:00.000Z"
-    },
-    {
-     "title": "Cricket-India clinch ODI series after dramatic collapse derails New Zealand chase",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTkwaGdtR2xERGc0VlRsYlFSd3pFWHhhRnh0eDdlX3ZSWDYwUFNhaGExd0JoeWtVWmxYd1FFSWJKRnJueTNsYVBuWHJkRDRqQjdHU3h0WnBUSTVvVkpiU3ctMkExeWQtaE1TUW0zZ1BrT0RlNDFoejJyRlBRRzM5UFY2QVJfcVk4UXZaeG5PZm9LazRLZFVFRlh5THRHbzJ3RTh4d2NzNkNRdVJ1SlEyR0ZrbUs5TVBDT1JiV0VKSWx1RlZFZDhIS1h3UUpyUQ?oc=5",
-     "published": "2026-11-15T10:17:00.000Z"
-    },
-    {
-     "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzRjczhFbDFfVk5TRkJDVFRsSTFLaWIwUTBjU2FkTlRNXzJpeHF3SllmQzlRX2hXWkZFSFE0aVhObjE4NFRjdG41SGtBNmcyTGprbF9UTjAyS0hPQTdrQk05Tk10Q3dnVzVMUXBPMXgteHN3Z0NuZUdzRldSTVJDVERxbmFfZ1RzYnZyRFZkWElVRUwyR1M1ZlNmcXNXVFF4TkZwc2l1YlQ?oc=5",
-     "published": "2026-11-15T09:55:00.000Z"
-    },
-    {
-     "title": "Rugby-Jalibert returns to France squad for Argentina test",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2wyQVFGbnhQa1labW9uczFtbml6UGdwb1U5a0xwTjZMZ0c2c3V3LUNkWXZnMVdnYXkwYk52TjBiUUtpT1IxZU9JczhPZG94RjRnQ242QlcxNmhnS2t1LXZUcHB3MGpFQS1RekhlX1dURmlQRVBGQl9RQnFQTGZuMEplUVdVc1ZtLWdKQVJHX3duMFFNSm1Fakp5eEdwdS1ZOExxSTMxUkI2WEU?oc=5",
-     "published": "2026-11-15T09:40:00.000Z"
-    },
-    {
-     "title": "India, China, Russia, and Malaysia share the lead at the Asian Nations Chess Cup in Abu Dhabi",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeW9XaGtRS2RiTzR0Q3NZUUh0MmY1ZW94ZjJ4NXl5OC1Kb0c4YUp2R3N4MDRyLXVhYXJhZDQzQjVGVHU3b3VkVHZwdDBHeGxVVWRYVC1yTmJVVzBQMkRoalpPQXJqWWxnSXR2dzNwOUhPVWhHa3hfWTFkbjZjWEQ5YVBfU0RYT0F0dERFSmxYVE53X1lxYTZLT2Z6VjlZRlh1c1Q3XzVkeS1NdEZqdHJIekxvUWppVXY0YWtvYUYwSWFNZlJSVmVyVUFidVRDUkx1RDlFd29pa2phYzJ1alRiTEhTNTRDTXM3?oc=5",
-     "published": "2026-11-15T09:38:00.000Z"
-    },
-    {
-     "title": "Badminton: Aaron-Roy King strengthen growing reputation with second title in five tournaments",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOGNRRC1hZWdqZW9iRHEzd0lKYXM2aG1GUElCSHpyVUJQSzV5SFpmNlk3MXVXYmZWSDcwQTBSLXlfQ0lxcmE3R1BhSUtVclZrZmNXdUVRTDRmeHFCbnp4emR3bElEWDFxUy11ckc0YmJPNGxiNVhkdG5jNDJyR0UtLWRlcnJnUmEwSVhvMjZ4Wk5CR19QcnR3b0Etclh5V1dtN2t6SkFxMFl2eVd4Z0FoUXlrQzRrM25mMGxvQVR0UFFFSHU2Vm15SjBQd1p4RE9GdGc?oc=5",
-     "published": "2026-11-15T09:05:00.000Z"
-    },
-    {
-     "title": "Flash floods affect roads near i-City, Section 7 in Shah Alam",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGo4ei1ndTVhN0tZaGVYYUtaZERwN3ljVGpiTEIzY0hoRHZ3cktDd1Q3LWpHTzN2Y3UzbzE2eHAzU3BZQ1VESF8yNjhzbjFUZm1qaFA2VkZzZDEzUWgya0FqclR3XzRiaWxYWFNZcVhORkwtcUYwQ3JlbkxBVnU2bjJKcFJXRjA5ck9BVHBzSkl0d2UyTW0tbFZGdjliUnJFamRDRjl1MFhfVFZkTGEw?oc=5",
-     "published": "2026-11-15T09:03:00.000Z"
-    },
-    {
-     "title": "Cricket-Bangladesh elect to bat in first test against South Africa",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdi1Qb2VFMzVGb1RaLVd2MDZPUzVrSU5SSzNZRjJLa2tUcFBFdVNrdFE0X04zME9yYkNtbUpNQnAtNDdrZFlleXlDR21IVE9rWDRkcjBzVFRjV1hzRVI2RVFpS2xtRmo1MzRybXBXOGY2SllqUjFDZVhibEpwRjJ0RmYwOVVCYW5rSU1aOHJtNjV4ZFlZMGVfTU9jSUo1NDFodkJoWnk0Vkp4N0xFTUhSM1dSNEQ1ZjdyeFE?oc=5",
-     "published": "2026-11-15T08:03:00.000Z"
-    }
-   ]
+   "feed": "",
+   "items": []
   }
  },
  "log": [
   "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
-  "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
+  "The Star: https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en -> 503",
+  "The Star: 0 items from nowhere"
  ]
 }
