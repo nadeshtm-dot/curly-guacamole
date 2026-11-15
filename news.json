@@ -1,51 +1,39 @@
 {
- "updated": "2026-11-15T19:19:06.947Z",
+ "updated": "2026-11-15T23:53:58.054Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Lions dominate Patriots as injuries loom large over Munich NFL game",
-     "brief": "Detroit Lions receiver Amon-Ra St.",
-     "link": "https://www.cnn.com/2026/11/15/sport/lions-patriots-munich-game",
-     "published": "2026-11-15T19:19:07.189Z"
+     "title": "Notorious Mexican drug lord, who was convicted of killing US DEA agent, dies at 80",
+     "brief": "Miguel Angel Felix Gallardo, founder of one of Mexico’s first major drug cartels whose conviction for the 1985 killing of a US drug-enforcement agent made him one of the country’s most notorious traffickers, died in…",
+     "link": "https://www.cnn.com/2026/11/15/americas/mexico-gallardo-dead-dea-intl-latam",
+     "published": "2026-11-15T23:53:58.178Z"
+    },
+    {
+     "title": "Iran raises stakes with new drone attacks as Trump signals a waiting game",
+     "brief": "Gulf states have been worried for weeks that Iran may again begin to target them in an effort to force a resolution to the nine-month regional conflict on its terms.",
+     "link": "https://www.cnn.com/2026/11/15/middleeast/iran-bahrain-attacks-trump-intl",
+     "published": "2026-11-15T23:50:58.188Z"
+    },
+    {
+     "title": "Trump, McDonald’s and Burger King among targets of past X posts that contain redirected website links",
+     "brief": "Some website links included in the X posts of politicians, government agencies and companies were redirected this weekend to unrelated videos, images and websites.",
+     "link": "https://www.cnn.com/2026/11/15/business/political-and-corporate-x-posts-have-links-redirecting-to-vulgar-racist-or-random-websites",
+     "published": "2026-11-15T23:48:58.197Z"
     },
     {
      "title": "Estonia to shut its border with Russia, blaming Moscow for foiled arson plot",
      "brief": "Estonia is to close its border with Russia after blaming Moscow for a suspected attack on a defense technology company, Estonia’s prime minister said Sunday.",
      "link": "https://www.cnn.com/2026/11/15/europe/estonia-close-russian-border-attack-intl",
-     "published": "2026-11-15T19:17:07.199Z"
+     "published": "2026-11-15T23:47:58.247Z"
     },
     {
-     "title": "In newly blue Texas, far-right Christian nationalists gather to plan a future after Trump",
-     "brief": "Disillusioned by President Donald Trump, hundreds of people gathered in newly blue Texas this weekend for a far-right Christian nationalist conference to discuss a path forward to advance their agenda after major…",
-     "link": "https://www.cnn.com/2026/11/15/politics/christian-nationalists-nick-fuentes-trump",
-     "published": "2026-11-15T19:16:07.192Z"
-    },
-    {
-     "title": "Russian diesel under Trump deal struggles to reach US market amid legal fears and criticism",
-     "brief": "More than a month after President Donald Trump announced a surprise deal to import Russian diesel , the oil has struggled to reach the US market amid outrage and legal concerns.",
-     "link": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers",
-     "published": "2026-11-15T19:15:07.181Z"
-    },
-    {
-     "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
-     "brief": "The first call, as Jensen Huang remembers it, came from Howard Lutnick.",
-     "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
-     "published": "2026-11-15T19:14:07.197Z"
-    },
-    {
-     "title": "As Trump administration implores Congress for additional FAA funding, Democrats say the agency already has it",
-     "brief": "Following a historic airspace meltdown on Friday that grounded all flights nationwide, Transportation Secretary Sean Duffy has implored Congress to authorize tens of billions of dollars in additional funding for the…",
-     "link": "https://www.cnn.com/2026/11/15/politics/congress-additional-funding-request-faa-duffy",
-     "published": "2026-11-15T19:13:07.194Z"
-    },
-    {
-     "title": "Behind the scenes of Scott Colom’s viral ‘pick another protein’ ad",
-     "brief": "Russ Hudson of Columbus, Mississippi, became one of the unexpected stars of the 2026 midterms, with a feature role in an ad that’s since been viewed more than 20 million times on X alone – tipping his head back and…",
-     "link": "https://www.cnn.com/2026/11/15/politics/scott-colom-viral-protein-ad-mississippi-senate",
-     "published": "2026-11-15T19:12:07.175Z"
+     "title": "Israel kills senior Hamas commander in Gaza two months after killing his predecessor as ceasefire stagnates",
+     "brief": "Israel killed a senior Hamas commander involved in planning the October 7 attacks only two months after killing his predecessor, a fresh sign of how the Gaza conflict remains active despite a US-brokered ceasefire…",
+     "link": "https://www.cnn.com/2026/11/15/middleeast/israel-kills-hamas-commander-gaza-intl",
+     "published": "2026-11-15T23:46:58.234Z"
     },
     {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
@@ -60,58 +48,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Yemen's Houthis say they launched ballistic missiles towards Riyadh airport, financial centre",
+     "title": "Ringgit expected to remain soft against the greenback this week",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMXNwbFd6amxPdldFZ09hcVRlV0VtbkFVWmNrVWtKOWRCMTM0ZUM5UlFjQlVDdWg1TmZSZ01feEFXX2FyQkhfMDNGV2hZSjVXNUlHZjlfWnFPcXc4UlgzUDFzTGpScmtqQXAwaVZ6WXpIYURUUURrVUR5TlV1WHpUUTQxQS1xTUtJNjlha1A1WTA2Zk40emxZMXJvUDEzLTV2WHFIVUxnLUdvWklXOWdjM0IwODN6SVRjenBFbjJkWHVicFVhSG9NY0xFYzNsYTVfVGFWY2tHRkNWb1E?oc=5",
-     "published": "2026-11-15T18:07:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSTFzNm5WcXFTcEJQV3BqMGNrQS1nbHlGRTExS2p2RGttbkRfM0hjTEVhTlUyblJ0aS14ZW0ybG1QazJqX09ETDdyUEdGN0toOEJSRVBHMXNsYmtiYWI1akdRejhneUpCTGVCdWRNVWcxUEFpMGtCdlo3cEVUc1Zfc3NJblNPX3RaZC05VEthNlhqcUh0UmlZQzJHd3pkOFpNdW01bnl0QnpCOFNxeHpzM2d0SGUweFZySUoyU2ZMTmJnZw?oc=5",
+     "published": "2026-11-15T23:39:19.000Z"
     },
     {
-     "title": "Private hospital oversupply in the making?",
+     "title": "Student lands in trouble after wheelie stunt",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWt4UGR1QmlIQ3k5VnBlaF9oaDQwZnAteVJlSmlBV1BGYlhFMW93VkFvenA4dzBaeFpmZVBhM0tFTG1jcUpQa2w1MThKaW0tRFNYVlM1TUp2dXRIaUgtNHN0WE0xajhZYmVOSjZGbnlTLXcwdDllX2MxM09tNmJIVTJGYkxXdDJKOU5vTXlRRGtxcmRHNWR0NXZ2UzlELW1PRGpGRw?oc=5",
-     "published": "2026-11-15T17:02:56.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORm9wb1UwazFHb1JtSmdIWF9rempCbTF4eEdxZkQzV0QzZVI0Y01vazhhR2FyVTBFZGFBTFBnMTJ5eDZPNXcyX0NZZmNWdDlPdVZVQWdkYjN5SG5MNjIybGV3SlM4TWpVdVE1cmxOSnVFdWYtQnRmQlJ0XzEyTFA3d180MVQtYi05dWtlZnJ2R2NYZi0teUtmdEpn?oc=5",
+     "published": "2026-11-15T23:33:49.000Z"
     },
     {
-     "title": "Milking new growth opportunities",
+     "title": "A wife’s fiery plea to free her husband",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNGF1N21QeW9scWFsZjlwNGNjclZJMjlFbUN0d09vdzI0OTQxN3pYVmZaS3JhVnA3eC1ndFJSbEFjZXgwTzlDZkFuTkJKT0t3a1pqaEFGRG5WaFp5N2tvRFB4YnI3ZFRCVlJGdFlUYUVtYldLZU91OWJWbWk5RGFPWmtDdmp6dEpUNXdNc3J1TnlLRjBPWFlzUQ?oc=5",
-     "published": "2026-11-15T17:02:56.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMllIdURtdUx1Y0tyV2xZalY2TWlJZnpZd0I3a0hoa01hcjlFTWNVa01QMEZVUk5rM2pqMWJIMHhPcVBaYzVrWjFLNFlqNmwyNjZXdHRaNThPaFNyc19aTUd5UjI2NHBxMndERGEzN3dSYkk3azJuNHBURFFmN2JyMENZUmFTcTVqU2VFVEFZLWFKUQ?oc=5",
+     "published": "2026-11-15T23:28:48.000Z"
     },
     {
-     "title": "Riding the silicon photonics wave",
+     "title": "Student challenges teacher and loses painfully",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUpyLU9WdXU1OUttY09ya2dQWUs2RUVTUE5KYzZLMTNhb05VN0F5dTBTdVJKOXJ4VDZpNkNqbDU1alV4R0VNVUpoc002MkJsNTJpTldkcmZZNHVXX0tDeGZrV3JrWjRCN3VQRUlsbXB2VnpXY1ZZQlM0R3pJUGR1aHluTTZkXzA3QldMTW9JQlFMZWVlR3djdEtn?oc=5",
-     "published": "2026-11-15T17:02:56.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQlN2blM1ZHBpazhwaWkxbHk4SkFWazl1WkhfSmphRHZKSVoyVmhybWZ4VUR5NzM3VjZkd2hQYTVxUHZwVHpiUHZHeUpucm5NZFU5Z2NTMmNrbk15Y0RDRmw1Ty1kX2dIT1FFaU9fa3dmcGZRMUV2QUhqa1J0RGFZN3hzaGYyS3lYanRZUlZIQU5tdTVNVTh0QzdmWQ?oc=5",
+     "published": "2026-11-15T23:28:48.000Z"
     },
     {
-     "title": "Private barriers, public road",
+     "title": "Teach them about living within their means",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSHdVU1pRc2pPSlZFUE1PQlVMdC1kNDVQc0xuTG16aXRJRlRWX3puTnhmeVVkUGlBRnV5Q3pLZk45eXFyM1BHN3ZhRmhfa1c3OXZuRlFyejZ4ZS1SX3F4THBiSXl2Q19BSUtoSHFRZW16azl6QjR0QXNhbUVvTjRGM2ZXQkdSdHl6VE8wU2VJelFPa00?oc=5",
-     "published": "2026-11-15T16:16:12.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaUo1eVVUWWNSbGdtWGpTQ0ZBQURMVERZa2FOYk1Sc0I4Wm9nXzRabkROdzdYZWRkSHNwLXFfUlRNNV9tUlV1aU1iR2M0T2puT2drTzJNaTBSVmxLUVBOblZPM0tvS0dxSFFPaXBpdUozQnFsa2JkNEJGbjJ5Z1plTWxFSmY5cXpkVmpxdnV0RlhlR09wcHEzYkg2LXo?oc=5",
+     "published": "2026-11-15T23:24:02.000Z"
     },
     {
-     "title": "Estonia to close Russian border crossings after attempted arson attack",
+     "title": "Who really controls Malaysia’s AI future?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbi1XY3ltaHR3Uk9rUDlld093MGZWZWJjSEhMXzRNYkFXajV0dXROblZLT1hpTm1OMXZDUXpJdmlfaC1nZUJHYXM3OWdkTDBRaGJnZUo2SW4xQ25oVjF4MGhialJVVTZLWlNZOHhoWlllN2YyaFNhZ2JsSlctM3ZGbFVaZHo2YXVULTQ2VXgxbm9lNEQ2XzdmR3NSdHpyVS1fSmNIVWNUWWtxZjZWRmE1ZE16cFZ6X3M2LXI0?oc=5",
-     "published": "2026-11-15T16:16:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaG01clJjeFhyaWJsUjRQcDloSk9WZGdjOWpMZldTNkhnenNZUzJhM1pvMXYwYXhnNUwxaVZfZW5hTC16WEVUQTZTZmowZzFndDY5ckJNUFd1UnpOYmR0ZWlINWh1VjdsVFlvcURvVl9RZm14RHA2Si1EWW1YVVBiNHZKbDRBTnJpenBpajJCczYtakhQeEN0cQ?oc=5",
+     "published": "2026-11-15T23:24:02.000Z"
     },
     {
-     "title": "Psychiatric hospitals: land as therapy",
+     "title": "Keeping data centres green",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTzlsQlRqUGpodUZoYjZRc0ZvTnd6a1VZc2VwUVdaTFNadmhqVU5sU0ZGRzA2aFMtSHZRMFNoWndtZXJaZUpfQ3c2NFpRaTRBV1JfWksxeGVHcnRoTDdwZHAzMTN0RWMtcU5CeWRwX2xtYWpTVEl4T3RoNm5fR2V6dVg4NXh3TWNyQ0VRdUV4azZsOHhQMlJwU2ZfRURidG8?oc=5",
-     "published": "2026-11-15T16:04:06.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS05IMEJWNXExY1hXSVdOdnZjWUtqRmpWcUFMckVfakl6RGYyT0Q5SWxtVDNiWERSbXZOSXNpUkhqTVRFd2N3c0MzdmxXT0ZEX3FWdGJNRjJWR1NTTjVTNGpCMzFwdjVDUVNNQXRxaGNPRWV1R3JTZm1kU1RUeXgzQWhJQm1YR2s?oc=5",
+     "published": "2026-11-15T23:22:14.000Z"
     },
     {
-     "title": "Heritage, hazards and hard hats",
+     "title": "Coles probes cyber security incident, says no evidence customer data compromised",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORDVTQ3k5Ym9RWDJFQXZOa2ZYZEVqVDd6bzhteTZqaTF6WTFaV3hHWkRDWkNEa3Ayb084bEtBQ21SMXRQN0tmNTA2NS1SS0J0ay1DNEo2YjN5QzNLV2NQUnNyUHJmbnk4Ml96eHJ0aGdfWTJ5ZWtwVzdOZXNyMmZkNEd4dE9Ed3QxTFdmMF95UTUxV19NREE?oc=5",
-     "published": "2026-11-15T15:56:15.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeUVtQ1RkalYxSU9NOUNfWVFzN2l3akFjRXZ5ZG9nS0prcVV3Z19xNEpxcTB1TG5aVU5mVkYwSVZQTHNpOEo3aG9LMWlRdzlVZFBXWjlZTWYtN0NLc2R6TjhmVWlBQjc4SHZORDZSMzlMRG9LNXZ0N1FNOUtoUVRGcnQ3Z3FnRHpDNWlYYWk0Mnd5b05YYjU0S1ZxbFB6cVMzSWlhNDBYd1dPQTFvV0xVbnd3djZoNE5TWWVzMWI3a1U4RzhvVUZscWd6VTg?oc=5",
+     "published": "2026-11-15T23:17:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 6 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
