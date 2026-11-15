@@ -1,10 +1,22 @@
 {
- "updated": "2026-11-15T03:49:52.413Z",
+ "updated": "2026-11-15T04:52:33.443Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Planes collide at Miami runway crossing a day after national grounding",
+     "brief": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
+     "link": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang’s around",
+     "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
+     "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
     {
      "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
      "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
@@ -13,7 +25,7 @@
     },
     {
      "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
-     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf court in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
+     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf course in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
      "link": "https://www.cnn.com/2026/11/14/politics/judge-east-potomac-park-golf-course-block",
      "published": "2026-11-14T12:00:00.000Z"
     },
@@ -36,18 +48,6 @@
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
-     "title": "What we know about the cause of the nationwide FAA ground stop",
-     "brief": "All flights nationwide were grounded for hours on Friday after a systems failure, leading to thousands of flights being delayed or canceled, disrupting the travel plans of passengers heading into the weekend.",
-     "link": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "‘No answer’: Messaging failures worsened the air traffic freeze and sowed distrust in government",
-     "brief": "Communications failures in the air on Friday were followed by communications failures on the ground.",
-     "link": "https://www.cnn.com/2026/11/14/media/air-traffic-grounded-flights-duffy-mullin",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
      "brief": "Passengers of a river cruise boat in New Orleans had to be pulled from the Mississippi river on Friday after a tanker collided with the paddlewheeler as it sat in dock, causing it to capsize.",
      "link": "https://www.cnn.com/2026/11/13/us/new-orleans-tanker-crash",
@@ -60,16 +60,16 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Don't bow to pressure to dissolve Parliament, PM urged",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYWlUMXBWLXJTMWNZN0dNZW5IeUI1b19GWF93Qjd3ZWJlSzM4T2VyU1podHlaOUNSOEtBempGQ0VSTFZtTE5icW10bHNrdzJMakNIblBzVEhiOHZZdWRLTXBjWmVjelRJVjRvcWpVT1B0Zy03aU8xLWpfYlRoMmt3NDVRV2N3VGxVdjhOU3h2RmpBRkpRbHVMUXF1WFBaXzdRWXBBU2JyY3U?oc=5",
+     "published": "2026-11-15T04:43:00.000Z"
+    },
+    {
      "title": "Traveller takes solo trip to Sabah, conquers Gunung Minodtuhan peak",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNmh2TmVob21MUjNacTNvdzBGZ0VYRDZLV0FER3dUa0MxQUlOa01TbEppWmlCXzlleXlfcDluZ19xUkJ0aXpEWjhwaXNTN1piS1gyc1p0TFA1eHJHV0tUUkVlcFBtZFZZMWtzUkJpOGFVby02NzVyVVRtUmptSDZRUmUtTEdaWmczQU9XSE8xdlhUMWRlSmNlWHZIS1RXSHFPYy1tUHJQVmpyWUNGWWRyRmpvVDZ5SGxMQ05odFJn?oc=5",
      "published": "2026-11-15T03:00:00.000Z"
-    },
-    {
-     "title": "Retiree duped into fake investment scheme, loses RM80,000",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaXhlUldqcWEyemtfcWQ5S25HdVlEVWxxS29rbGdHalVuRk9RNmlXV0RzRWt3anBSQjREY1J1VXhYQVI0WTlDc0EzeV9iWjhDSDhzUGQ2NTktZTJyRS1fS2dOT0lJZmFhdFhINlZpcXlhdmtWOVlqZXE1OEFaSlFHT29hQ015blJBR2FBUldDNU9lcWR0ajVlTi1aZmdxZ1Q5S0xVeGJCVXk?oc=5",
-     "published": "2026-11-15T02:28:00.000Z"
     },
     {
      "title": "Anwar applauds Aina Abdul's success on Asian stage",
@@ -82,12 +82,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRm1xR1hPVmVkMWFEellyNDFkcFlNVDRJY3JlTVduY19zM3ZkazBnMkJZaGZlR1lBRVFqVUQwSDFSRzJRZkVaUFVqcUh5N1VqN2FWYUg1V20yY3VPMm41d0ZqYzJwWkVsbjRUcENxMlk3Z245MlIwQXdSc3I4NXZiQjE1Rnp0cjJTU09rQmptNHFWWUlBenc?oc=5",
      "published": "2026-11-15T00:42:18.000Z"
-    },
-    {
-     "title": "Making their mark in the historic state",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUtvbENHajVLTjExRWU1alQxNWtmZjRoTTlvdHgwWHV2NEZSd2NrZnFTRm56eDBtZURONnVwbE9NNmlzQm5kZTFOM3RZU2hDRUFwTmV4dlZjd1NvcXQ3blRjRkpBSzV1NlRFWEJ3SHBRVjlnSlRESWV1bGNGWmpzczVRR2ZWbHpZQXVPLUhWVnpFbGs?oc=5",
-     "published": "2026-11-15T00:35:12.000Z"
     },
     {
      "title": "A cut above? Circumcision and cancer risk",
@@ -105,6 +99,12 @@
      "title": "Taking to the skies",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSnJpNG5RZTlfV2pDbzg2TnR2TWw4dzROdmdsTmVxSUNma1A0NWFkVlZaMVhMeDJSYi1wLXZjbTF4dVlORUNNdXhSQTc0SS1iNVJIa0QyMzd2SWc3bmhOOVF5WEQxQmRCM3I5QmlBcFBUeTlibjhwa3hfRlY?oc=5",
+     "published": "2026-11-15T00:16:28.000Z"
+    },
+    {
+     "title": "DON'T MISS IT: How to apply for school maintenance funds",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMThjTEViVUlwcjFGdWlKbUxNbnFYX2cxY2hiRzRhUW9hUDFZRFlIeWxqZ2lKdjNia241eWh3WEJFa1lqdnF1OVJacnZuZm5zMlFOcXlwYU5RTFE2UmJpOWcweXM2M1Q3dHNiY3FQVUx4Z0djNXNCWm5PTVVHWWpIVEhnb18yRFJOdFFmYkZwc24wYnk3MmtJX09fVU9nNlU1UkxFS2tOVUZaWFVKdG84?oc=5",
      "published": "2026-11-15T00:16:28.000Z"
     }
    ]
