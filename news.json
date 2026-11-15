@@ -1,45 +1,45 @@
 {
- "updated": "2026-11-14T23:31:40.384Z",
+ "updated": "2026-11-15T00:55:58.422Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
-     "brief": "Columbia, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
-     "link": "https://www.cnn.com/2026/11/14/us/security-south-carolina-gun-show",
-     "published": "2026-11-14T23:30:40.643Z"
-    },
-    {
      "title": "Police lift evacuation order issued after bomb found at Illinois ethanol plant, officials say",
      "brief": "A bomb found at a central Illinois ethanol plant on Friday forced thousands of people to evacuate a city’s downtown area for a day as investigators searched a sprawling industrial facility to rule out any further…",
      "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T23:29:40.729Z"
-    },
-    {
-     "title": "What we know about the cause of the nationwide FAA ground stop",
-     "brief": "All flights nationwide were grounded for hours on Friday after a systems failure, leading to thousands of flights being delayed or canceled, disrupting the travel plans of passengers heading into the weekend.",
-     "link": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
-     "published": "2026-11-14T23:28:40.732Z"
-    },
-    {
-     "title": "‘No answer’: Messaging failures worsened the air traffic freeze and sowed distrust in government",
-     "brief": "Communications failures in the air on Friday were followed by communications failures on the ground.",
-     "link": "https://www.cnn.com/2026/11/14/media/air-traffic-grounded-flights-duffy-mullin",
-     "published": "2026-11-14T23:27:40.715Z"
-    },
-    {
-     "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around",
-     "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
-     "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
-     "published": "2026-11-14T23:25:40.726Z"
+     "published": "2026-11-14T12:00:00.000Z"
     },
     {
      "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
      "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
      "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T23:24:40.702Z"
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "Deputy working security at South Carolina gun show fatally shoots customer who shot him",
+     "brief": "Columbia, South Carolina (AP) — A deputy working security at a gun show in South Carolina fatally shot someone who fired on him Saturday, authorities said.",
+     "link": "https://www.cnn.com/2026/11/14/us/security-south-carolina-gun-show",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "What we know about the cause of the nationwide FAA ground stop",
+     "brief": "All flights nationwide were grounded for hours on Friday after a systems failure, leading to thousands of flights being delayed or canceled, disrupting the travel plans of passengers heading into the weekend.",
+     "link": "https://www.cnn.com/2026/11/14/politics/faa-ground-stop-what-we-know",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "‘No answer’: Messaging failures worsened the air traffic freeze and sowed distrust in government",
+     "brief": "Communications failures in the air on Friday were followed by communications failures on the ground.",
+     "link": "https://www.cnn.com/2026/11/14/media/air-traffic-grounded-flights-duffy-mullin",
+     "published": "2026-11-14T12:00:00.000Z"
+    },
+    {
+     "title": "How a $49 sushi boat and sizzling dumplings help turn P.F. Chang’s around",
+     "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
+     "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
+     "published": "2026-11-14T12:00:00.000Z"
     },
     {
      "title": "Tanker ‘lost control’ and hit cruise ship in New Orleans, spurring massive evacuation, officials say",
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Keep the lamp lit for Malaysian football despite dark episodes",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQUhnYl9XZDUtYVBoYVlNbVNRRGRPejh5WUV1a1MxT0h6RXVabldDUGgtZWlqTkNTeTFXZjFydkhEMGhLNUlBeU83d1dJVmNYLTNFdjc2T3BfSF8yd3A4eGRqemlhR2JINmpzSDZhM3Y1cjZHNlhjN25OdFNteWFZdExZR1RQVEtmMUZ4SzRMR3YzY19wMDlDa1N4ZVVoVGpoQ1dyUnRZUnc5VWhXRVlPMi1SbzJici1obmZBUTVKVkNjcExyWUVGZWJB?oc=5",
-     "published": "2026-11-14T23:20:00.000Z"
-    },
-    {
-     "title": "Tennis-Sabalenka apologies for outburst during loss to Svitolina",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNczVyY2pWUFFnSnlQX3d4TEpzUmtxbjNWN3ZLUjF2dHltYXc2dzNaaHJ2YVg3N2pBOTltbzJId05lNVdBbDBGOXBrbkxiWi15bGtjeW1xbUVHVm05VUR5TlFmOXlsRmJ6TFNqbzR0VXQ5RUhuNlBMVVg3RWlma3o4cEFDSjI5T2U3dExkWWpKV04wYUt5UlQyeThpQVhORUtPYTRaY1k1X1VTNTlnWDE0WnNPX2pWUQ?oc=5",
-     "published": "2026-11-14T23:20:00.000Z"
-    },
-    {
-     "title": "Govt urged to extend sugar tax to include powdered drinks",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUlVyQjhHMEdMbVJJYThIUldxaUdBN05EUjNrelRsSkRGVW0zWldMZy1hMzdodDljYkljQzVhR18td2lGQ1J5ZXRZMVgzQWxzUnRKMTBhek5abGM0TzQ4ZVRmb3VOUkNOdGVjYWNjajdHbWp4MW5idTJNU3Axa0JZSDhDQm1hX3BON1dDRTdKNk9UWXR2YXc1WWZkNUNfYW5kWHBhNU9aRy02VHc?oc=5",
-     "published": "2026-11-14T23:04:11.000Z"
-    },
-    {
      "title": "Latest",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNR3QxazhHM1lMYXBkamw3TS15VXhmZEQtRnN3LWpZRl9nUFFvOFIxMkJRUGk3S3BfVnVobzhONFFscjZKSE5Ud2RMRDNhRFllMkpmdzVoNkVOUW1SVDJzWmluMEY1cmJHaHpwbnlvOF9SdW5rNWt3NFNLd1lfSkIwWlVPdGVtTjlBb1I0RW5tRWt2azFDUWc0SHFjNElBcUUzeXFRTw?oc=5",
-     "published": "2026-11-14T23:04:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRm1xR1hPVmVkMWFEellyNDFkcFlNVDRJY3JlTVduY19zM3ZkazBnMkJZaGZlR1lBRVFqVUQwSDFSRzJRZkVaUFVqcUh5N1VqN2FWYUg1V20yY3VPMm41d0ZqYzJwWkVsbjRUcENxMlk3Z245MlIwQXdSc3I4NXZiQjE1Rnp0cjJTU09rQmptNHFWWUlBenc?oc=5",
+     "published": "2026-11-15T00:42:18.000Z"
     },
     {
-     "title": "Art imitates life in Penang’s car ‘gallery’",
+     "title": "A cut above? Circumcision and cancer risk",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaEZsX2NnNkxUYTFLektwSlRETjRNVEszZ1JCM1MwWjNHQUM4Q3NhQ2s1V0QxYldVd1g5bUVZZWV2LTd6by04ei1scTVSemZScXlnNUdIOWFRbGZrU1BVMWY4cVBGNmRLbzlHZHRzVk9weHpLWTZCMWZGUkdSNFE2R2xJTWI5N2pqeGJvekIyampaWGtz?oc=5",
-     "published": "2026-11-14T23:04:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX3UyWFBfN0J3Ri1xa3daNXhwMUpWcGZiUnc0bXRuV0ZnVEZBYVNZRmUtSkYwMEhwOWVScnFNX0VobDZaVFhCRWY0bFVIWHJMdmdGLXJpOUJrS3ZySzF3MW4tbFhsRU80YXdhSEtfR3VOQUlHSlJ0b2xHdFRhRVFZT0FPNW5TbVg2cnZhczZmbUpPTjB4cjFSeWJNcG1yVXBCV1pwcnQzU2JOYm9kZl9uMWlFdnBNTEdfWTlyRHZFVQ?oc=5",
+     "published": "2026-11-15T00:29:00.000Z"
     },
     {
-     "title": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+     "title": "Delhi named world’s most polluted city",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQzA3SXUxTzhvN3dSZHg0cmczQnJ3TDJPTjdmSnNHOTZvWWZiZ3hyb1hkMWtfMDRzZEMwTUozZndxcmNNV0h4MzhxQ09JT29VZXhkQ1h5ZDlPeXowRXVtLV90TTJkSEpmR0NnWFdBazM3a3hzb0xqMFJrLVBPeHFWeVdybWx6UVBvcEZqTVByZ2J1b210eWhXVFN0V0pzQVlMbm44RmFodmd6NFJoOGxsbEUxelBEOU10N3Q4?oc=5",
-     "published": "2026-11-14T23:01:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1R4eTlOaWM2YXhLcmVxREg0WEJJT29icEp6ZnAyRWwwdGhvZ1I5b2M5Z0ZIWTdWVEJncW5Kem52dlVHNDNUeWtmUDJVLVhuV3Uza3VncWJzN2xPX29nWWVoWXlLQ3o2YlJlZ0Y5MERxcklIMDV6ZnBrZE9Xck84VF9NYTJzWE9rbUFNN2JuOFIwTDNXS0ZsQndlQjNHLXVRNVE?oc=5",
+     "published": "2026-11-15T00:22:30.000Z"
     },
     {
-     "title": "Can silat parry the puppeteer’s strings?",
+     "title": "Taking to the skies",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT2ZnVC1nMnhyRmJTd18xaW4xcmpUdktid1dJT2R6TEZadHNWWjM2U3dMTzV6Y1dzZGEwY2hreUlQZlI0dXptbHQ4bUlXa211VzBtekJkdFFiOEtPTjFONDVhNVRDTUN3cThvZklRWm5BTGY3dDd3UV9CVXNGVUZGN3R3MmxGTmF6V05hRTdCaG5ha1NMTlRZamFUZkhBOGtTVVdjMEw3UlpxZTZDeTItcDN6NA?oc=5",
-     "published": "2026-11-14T23:00:28.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DSnJpNG5RZTlfV2pDbzg2TnR2TWw4dzROdmdsTmVxSUNma1A0NWFkVlZaMVhMeDJSYi1wLXZjbTF4dVlORUNNdXhSQTc0SS1iNVJIa0QyMzd2SWc3bmhOOVF5WEQxQmRCM3I5QmlBcFBUeTlibjhwa3hfRlY?oc=5",
+     "published": "2026-11-15T00:16:28.000Z"
     },
     {
-     "title": "Soccer-England's Tuchel not expecting racism issues, Spain's De la Fuente says none exists",
+     "title": "DON'T MISS IT: How to apply for school maintenance funds",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcDZucDl0TmdPanIzREtuWmMtRG9EaUhnS2xyZEwxNWllUGdQTk9kTWZ6aVBCcHZ0WFpqSU0xeGt2OVFtUnVfS1NnSy1MQmFPMl9oMkw1UjY2ZnhJbXFCSzRYc1lMTkQ2SUVmbXZ6UHdiUlUyM3o5NzBnaVJlX0Vhd2EybURBRTFFNGdWRU9QX0hiLTlkTkV2RXBOMllmZFQydXBNRDJZay1RbVl1RUhPbjdKdmhsQm9aS3paY1FJUmFabEwyOTU5MnkzUUZWMGlENFZLUmNVbUhYXzFTYzQw?oc=5",
-     "published": "2026-11-14T22:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMThjTEViVUlwcjFGdWlKbUxNbnFYX2cxY2hiRzRhUW9hUDFZRFlIeWxqZ2lKdjNia241eWh3WEJFa1lqdnF1OVJacnZuZm5zMlFOcXlwYU5RTFE2UmJpOWcweXM2M1Q3dHNiY3FQVUx4Z0djNXNCWm5PTVVHWWpIVEhnb18yRFJOdFFmYkZwc24wYnk3MmtJX09fVU9nNlU1UkxFS2tOVUZaWFVKdG84?oc=5",
+     "published": "2026-11-15T00:16:28.000Z"
+    },
+    {
+     "title": "Making their mark in the historic state",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMUtvbENHajVLTjExRWU1alQxNWtmZjRoTTlvdHgwWHV2NEZSd2NrZnFTRm56eDBtZURONnVwbE9NNmlzQm5kZTFOM3RZU2hDRUFwTmV4dlZjd1NvcXQ3blRjRkpBSzV1NlRFWEJ3SHBRVjlnSlRESWV1bGNGWmpzczVRR2ZWbHpZQXVPLUhWVnpFbGs?oc=5",
+     "published": "2026-11-15T00:16:03.000Z"
+    },
+    {
+     "title": "Set on streamlining school construction approvals",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOVpLYzktUVhsUnNIOHR0VUk3RVdVaDdYTzFGR2Y5WDc3M0RXcDZhQkMxa1l0WTZPX216RGVSX0FoRE55U3gyV2NDQXdwWElQWndYT093eDN3a0o1T0tjblVaSlpyMmNoSHVWVXYycmxXcHBUbUFwb3V3dVJkbDFlVmhtYTR3Ml9FMWs4WUpSOVFYTThxOERBanRUZTIwelRj?oc=5",
+     "published": "2026-11-15T00:05:38.000Z"
+    },
+    {
+     "title": "Asean senior officials weigh proposals on Myanmar",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMkYzWFhOZXN4TkluZjgyOUZtMDJZVWZoM2p6YnUwWkFWWFJZTzI0Wno0ZXNqcWV2anZ4MXVPSzA0LWxxZHRLVTJhZjlBamM3Q3FWT1F2OVB5c0pKV1NybUxNZVd3YVlCN08wNDZtQUltSndLbjhEVlA5TjVJVlZReU9KemZRRHFZdlpxMnYwd2h6TW1zcnBHRjFBN2k4M3gx?oc=5",
+     "published": "2026-11-15T00:04:13.000Z"
     }
    ]
   }
