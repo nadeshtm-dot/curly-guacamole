@@ -1,21 +1,39 @@
 {
- "updated": "2026-11-15T09:43:38.018Z",
+ "updated": "2026-11-15T10:40:29.200Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
+     "brief": "The first call, as Jensen Huang remembers it, came from Howard Lutnick.",
+     "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
+     "published": "2026-11-15T10:40:29.409Z"
+    },
+    {
+     "title": "The systems used to keep America flying are ancient. That makes fixing the problem that much more difficult",
+     "brief": "In some ways, America’s air traffic control system performs far better than one might think — even if it would be tough to convince the more than one million passengers who had their travel plans upended in recent days.",
+     "link": "https://www.cnn.com/2026/11/15/business/faa-tech-systems-us-government",
+     "published": "2026-11-15T10:38:29.414Z"
+    },
+    {
      "title": "Bomb threats pose a major question of Europe. But what’s the answer?",
      "brief": "An unprecedented wave of bomb threats across Europe has left the bloc struggling to respond, as it remains unclear who is behind the incidents.",
      "link": "https://www.cnn.com/2026/11/15/europe/europe-bomb-threats-response-intl",
-     "published": "2026-11-15T09:43:38.255Z"
+     "published": "2026-11-15T10:37:29.454Z"
     },
     {
      "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
      "brief": "Most shopkeepers will do just about anything to make a sale.",
      "link": "https://www.cnn.com/2026/11/15/travel/namdaemun-scarf-man-seoul-south-korea-intl-hnk",
-     "published": "2026-11-15T09:42:38.336Z"
+     "published": "2026-11-15T10:36:29.443Z"
+    },
+    {
+     "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips",
+     "brief": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has…",
+     "link": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl",
+     "published": "2026-11-14T12:00:00.000Z"
     },
     {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
@@ -34,24 +52,6 @@
      "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
      "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
      "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
-     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
-     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "Democratic socialists in New York formally urge Alexandria Ocasio-Cortez to run for president",
-     "brief": "The Democratic Socialists of America’s New York City chapter officially urged Rep.",
-     "link": "https://www.cnn.com/2026/11/14/politics/ocasio-cortez-aoc-dsa-new-york-president",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "Police lift evacuation order issued after explosive device found at Illinois ethanol plant, officials say",
-     "brief": "An explosive device found at a central Illinois ethanol plant on Friday forced thousands of people to evacuate a city’s downtown area for a day as investigators searched a sprawling industrial facility to rule out…",
-     "link": "https://www.cnn.com/2026/11/14/us/peoria-bomb-threat-fbi-ethanol-plant-evacuations-hnk",
-     "published": "2026-11-14T12:00:00.000Z"
     }
    ]
   },
@@ -59,6 +59,42 @@
    "name": "The Star",
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
+    {
+     "title": "Cricket-India clinch ODI series after dramatic collapse derails New Zealand chase",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTkwaGdtR2xERGc0VlRsYlFSd3pFWHhhRnh0eDdlX3ZSWDYwUFNhaGExd0JoeWtVWmxYd1FFSWJKRnJueTNsYVBuWHJkRDRqQjdHU3h0WnBUSTVvVkpiU3ctMkExeWQtaE1TUW0zZ1BrT0RlNDFoejJyRlBRRzM5UFY2QVJfcVk4UXZaeG5PZm9LazRLZFVFRlh5THRHbzJ3RTh4d2NzNkNRdVJ1SlEyR0ZrbUs5TVBDT1JiV0VKSWx1RlZFZDhIS1h3UUpyUQ?oc=5",
+     "published": "2026-11-15T10:17:00.000Z"
+    },
+    {
+     "title": "Pope Leo to cross Peru for visits to Inca city, Amazon gateway",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmRUdzI2dGdvMC0wdjl5VkJScTZGS3BvR05peS1UNF9jNW54LVJLb3ZWYzYzRjRSb293SHdvZTU1eFgtbFFPbnBvVGd3eE4wSURoMFdmMmJXU1hPTURzQTA4RmQteU9aVjJ4Ulc5R2htTVFzYTduUFE5VmhObWRETlVFb1VfbW5TUHp6MmlCMEJacTdBSnNlV2pGcFNhQnk5TE52eThLOEdQVXZ5b2dZ?oc=5",
+     "published": "2026-11-15T10:10:00.000Z"
+    },
+    {
+     "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzRjczhFbDFfVk5TRkJDVFRsSTFLaWIwUTBjU2FkTlRNXzJpeHF3SllmQzlRX2hXWkZFSFE0aVhObjE4NFRjdG41SGtBNmcyTGprbF9UTjAyS0hPQTdrQk05Tk10Q3dnVzVMUXBPMXgteHN3Z0NuZUdzRldSTVJDVERxbmFfZ1RzYnZyRFZkWElVRUwyR1M1ZlNmcXNXVFF4TkZwc2l1YlQ?oc=5",
+     "published": "2026-11-15T09:55:00.000Z"
+    },
+    {
+     "title": "Cricket-Sayers says he believes entire Australia team knew about Sandpapergate",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRheU85R3dNbXN1TWs5SlFIMFFRRTd2bGJ3NWppek9lUmlXdmtQUWZvdERWdzFvUzJqU1lsN19HXy04X1ZBNUNXelV5c3RoNzR4MEh3RWlKNl91YU1kenNxdGJtbFpiTG52SkhwT25rcWtmckgxYy05dHpYVVlEa2pqRXBDQzMyMDYzdjY2WC1wTHRwdllPNmxydmdoZHpMM1prbkppYW92WHBIVndaRTFzck9jUjBZRnNNYWxtOHp1Mm9LWU5rN1hR?oc=5",
+     "published": "2026-11-15T09:46:00.000Z"
+    },
+    {
+     "title": "Rugby-Jalibert returns to France squad for Argentina test",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2wyQVFGbnhQa1labW9uczFtbml6UGdwb1U5a0xwTjZMZ0c2c3V3LUNkWXZnMVdnYXkwYk52TjBiUUtpT1IxZU9JczhPZG94RjRnQ242QlcxNmhnS2t1LXZUcHB3MGpFQS1RekhlX1dURmlQRVBGQl9RQnFQTGZuMEplUVdVc1ZtLWdKQVJHX3duMFFNSm1Fakp5eEdwdS1ZOExxSTMxUkI2WEU?oc=5",
+     "published": "2026-11-15T09:40:00.000Z"
+    },
+    {
+     "title": "India, China, Russia, and Malaysia share the lead at the Asian Nations Chess Cup in Abu Dhabi",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeW9XaGtRS2RiTzR0Q3NZUUh0MmY1ZW94ZjJ4NXl5OC1Kb0c4YUp2R3N4MDRyLXVhYXJhZDQzQjVGVHU3b3VkVHZwdDBHeGxVVWRYVC1yTmJVVzBQMkRoalpPQXJqWWxnSXR2dzNwOUhPVWhHa3hfWTFkbjZjWEQ5YVBfU0RYT0F0dERFSmxYVE53X1lxYTZLT2Z6VjlZRlh1c1Q3XzVkeS1NdEZqdHJIekxvUWppVXY0YWtvYUYwSWFNZlJSVmVyVUFidVRDUkx1RDlFd29pa2phYzJ1alRiTEhTNTRDTXM3?oc=5",
+     "published": "2026-11-15T09:38:00.000Z"
+    },
     {
      "title": "Badminton: Aaron-Roy King strengthen growing reputation with second title in five tournaments",
      "brief": "",
@@ -70,42 +106,6 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGo4ei1ndTVhN0tZaGVYYUtaZERwN3ljVGpiTEIzY0hoRHZ3cktDd1Q3LWpHTzN2Y3UzbzE2eHAzU3BZQ1VESF8yNjhzbjFUZm1qaFA2VkZzZDEzUWgya0FqclR3XzRiaWxYWFNZcVhORkwtcUYwQ3JlbkxBVnU2bjJKcFJXRjA5ck9BVHBzSkl0d2UyTW0tbFZGdjliUnJFamRDRjl1MFhfVFZkTGEw?oc=5",
      "published": "2026-11-15T09:03:00.000Z"
-    },
-    {
-     "title": "Cricket-Bangladesh elect to bat in first test against South Africa",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdi1Qb2VFMzVGb1RaLVd2MDZPUzVrSU5SSzNZRjJLa2tUcFBFdVNrdFE0X04zME9yYkNtbUpNQnAtNDdrZFlleXlDR21IVE9rWDRkcjBzVFRjV1hzRVI2RVFpS2xtRmo1MzRybXBXOGY2SllqUjFDZVhibEpwRjJ0RmYwOVVCYW5rSU1aOHJtNjV4ZFlZMGVfTU9jSUo1NDFodkJoWnk0Vkp4N0xFTUhSM1dSNEQ1ZjdyeFE?oc=5",
-     "published": "2026-11-15T08:03:00.000Z"
-    },
-    {
-     "title": "Planes collide while taxiing at Miami Airport",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQTUxR3lZeks1VDFGU0daak9FRmtXeUZmd3g3VlVGY0cyNldtYXprVWxEMk1PT3JVUGRQYUxKN2V0V0M2T1BfWHR0bU5hSmNNZnZqSWdkTVFMMVdWQnQ3OEJkanpkNlNaNllYZVZjZ1dlWTk1R3g0X091QXd1YnoySndpSTFPVGIwOEJRR3EwN3p5OTJZRlg4OHhxSQ?oc=5",
-     "published": "2026-11-15T07:17:00.000Z"
-    },
-    {
-     "title": "Cape Verde votes for president with emigration in focus",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLVN4MTV2NjlyY01ycHB3a0JKeXB5eExmQ0RhczJEVHlxb0k3OWlQSXhpVmtUaXl2bDNyeUVVMGpvSEV0ci1RZk04aUZiOWNWTDRvNWg3M05qeGZpZUh2ckltVzBQVVJ6ZW0wbzJfMHc5R2lFRjd0WFBlTENIRTIyeGRncWZrWm5hSTJydDRkb2FFY0lFUGpzNnBISnVHUm1yRlhfcXdBYw?oc=5",
-     "published": "2026-11-15T07:09:00.000Z"
-    },
-    {
-     "title": "Domestic fuel prices fall in Myanmar",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdFRJU1NJNWY2T0l3TlozZHJmc3laMzQ0cExtTUFGZ1lTQlZJRlZsREtDdWpsRWdYOEktdkU5bUp5OGZQMjRFVVJieS01MnRjelFjWjZ2aXVWQVRkNVJoZmJwVEltekxKSzR6SEcyVW5VUU9MTHpFS2lnQzdldXJDOGFKeGlyUXNLWHZFc21iRndiRFVMeUtjUzhObWNMMWtH?oc=5",
-     "published": "2026-11-15T06:58:00.000Z"
-    },
-    {
-     "title": "Sg Pertak water surge: Search for final victim continues",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVkRGc05yeFozMy13NFNNZU9McWpnT1N3VHRRMEVJQVhfOWFpMlZmNjFrRDJFSUlKeFBtZmlNaW5XM3g0MnRJeUVmdThmMUtqV3pkc0tDY3NqN0p4WFhwTkRSbzNlenA4eE1sZkxwYnBxLVN3ZWQwWmJ0WkhjZHR1ekRuU1RHM2lnUlAzM2g2c0VTSnJ1bkFCWjFHdzBzOGdLZHU3RlpKU1M?oc=5",
-     "published": "2026-11-15T06:55:00.000Z"
-    },
-    {
-     "title": "ASEAN to continue 'constructive and principled engagement' with Myanmar, bloc's chair Philippines says",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOcm5qdTdzaTJhNXRKd1VEYmM1RHFWRXI0S1BoN3JmR1hwY2ZfRVA0UXdoNThiYWdCbnVST3ZiVjJNWWpWTnNMQTQ0UDlqUFlGMXdkRFZ6NDBaNUVBSjFuVkhDR0N2WTRUTjNiTk5RQ01sSl9ySkxBdVI0eUZKdE54Nk9ham55TWVpamhUN1VqWC1VWDJqRG9nRjBmYlFYQ0c5b0dPRndYYUVwRE9QdzJDeDhZZFRBVHhjcGFrNU9CSVpmOE43NEI2bDVQY1E4VkZKZUNRNlRYcTNIR0JNdmRHYm1vQjNUdTlrRTdMVQ?oc=5",
-     "published": "2026-11-15T06:25:00.000Z"
     }
    ]
   }
