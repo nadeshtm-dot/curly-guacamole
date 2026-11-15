@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-15T10:40:29.200Z",
+ "updated": "2026-11-15T11:36:27.610Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Lutnick under fire: How Trump’s commerce secretary cultivated Nvidia’s CEO while chip controls slipped",
-     "brief": "The first call, as Jensen Huang remembers it, came from Howard Lutnick.",
-     "link": "https://www.cnn.com/2026/11/15/politics/lutnick-jensen-alice-huang-trump-nvidia",
-     "published": "2026-11-15T10:40:29.409Z"
+     "title": "As students rely on AI in college applications, admissions offices scramble to keep up",
+     "brief": "The college admissions essay is in a very weird place.",
+     "link": "https://www.cnn.com/2026/11/15/tech/ai-students-college-admissions",
+     "published": "2026-11-15T11:36:27.810Z"
     },
     {
-     "title": "The systems used to keep America flying are ancient. That makes fixing the problem that much more difficult",
-     "brief": "In some ways, America’s air traffic control system performs far better than one might think — even if it would be tough to convince the more than one million passengers who had their travel plans upended in recent days.",
-     "link": "https://www.cnn.com/2026/11/15/business/faa-tech-systems-us-government",
-     "published": "2026-11-15T10:38:29.414Z"
+     "title": "A sub-genre of reality TV is being reborn as America pushes back on Trump-era conservatism",
+     "brief": "The beachy shores of Orange County are the affluent backdrop for the new “Secret Lives of Mormon Wives” spinoff that premiered this week at a time when curiosity about religious people who buck tradition is seemingly…",
+     "link": "https://www.cnn.com/2026/11/15/entertainment/secret-lives-mormon-wives-orange-county-reality-tv",
+     "published": "2026-11-15T11:35:27.787Z"
     },
     {
-     "title": "Bomb threats pose a major question of Europe. But what’s the answer?",
-     "brief": "An unprecedented wave of bomb threats across Europe has left the bloc struggling to respond, as it remains unclear who is behind the incidents.",
-     "link": "https://www.cnn.com/2026/11/15/europe/europe-bomb-threats-response-intl",
-     "published": "2026-11-15T10:37:29.454Z"
+     "title": "A gunman took four lives at an Oregon elementary school. The families came back to reclaim it",
+     "brief": "The doors had been shuttered for 27 days.",
+     "link": "https://www.cnn.com/2026/11/15/us/bend-oregon-silver-rail-elementary-return",
+     "published": "2026-11-15T11:34:27.820Z"
     },
     {
-     "title": "South Korea’s viral ‘Scarf Man’ tells customers not to buy his products. They’re lining up anyway",
-     "brief": "Most shopkeepers will do just about anything to make a sale.",
-     "link": "https://www.cnn.com/2026/11/15/travel/namdaemun-scarf-man-seoul-south-korea-intl-hnk",
-     "published": "2026-11-15T10:36:29.443Z"
+     "title": "A newborn died in a faith-healing sect. The state — and one ex-believer — stepped in to save her twin.",
+     "brief": "This story was originally published by ProPublica , a nonprofit newsroom that investigates abuses of power, and The Oregonian .",
+     "link": "https://www.cnn.com/2026/11/15/health/faith-healing-sect-propublica",
+     "published": "2026-11-15T11:31:27.807Z"
     },
     {
-     "title": "How the Nvidia scandal lifted the curtain on a loophole that’s giving China access to US chips",
-     "brief": "Headquartered in a curved glass skyscraper that boasts commanding views over Singapore’s Marina Bay district, Megaspeed International is just the type of fast-growing tech start-up that Asia’s wealthy city-state has…",
-     "link": "https://www.cnn.com/2026/11/14/tech/china-megaspeed-nvidia-scandal-hnk-intl",
+     "title": "Lindsay Clancy due in court for a hearing that should determine what her retrial may look like",
+     "brief": "Lindsay Clancy will attend a pivotal court appearance Monday that should reveal if and when the Massachusetts mother will again stand trial for killing her three children.",
+     "link": "https://www.cnn.com/2026/11/15/us/lindsay-clancy-retrial-court-hearing",
+     "published": "2026-11-15T11:30:27.803Z"
+    },
+    {
+     "title": "Democrats look to what’s next after Trump. But first, an actual party",
+     "brief": "The Democrats here were told: The big midterm win wasn’t about you.",
+     "link": "https://www.cnn.com/2026/11/15/politics/democrats-whats-next-denver-midterms",
+     "published": "2026-11-15T11:29:27.800Z"
+    },
+    {
+     "title": "US floated idea of Ukraine swapping land for NATO membership, Zelensky says",
+     "brief": "The United States floated the idea of Ukraine ceding the eastern Donbas region to Russia in exchange for NATO membership during recent talks , Ukraine’s President Volodymyr Zelensky has said.",
+     "link": "https://www.cnn.com/2026/11/14/europe/us-ukraine-zelensky-nato-intl",
      "published": "2026-11-14T12:00:00.000Z"
     },
     {
      "title": "Planes collide at Miami runway crossing a day after national grounding",
      "brief": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
      "link": "https://www.cnn.com/2026/11/14/us/miami-airport-planes-collide-ups-copa-hnk",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "Judge halts Trump plan to redevelop Washington, DC, golf course",
-     "brief": "A federal judge halted President Donald Trump’s plan to renovate a municipal golf course in Washington, DC , on Saturday night, issuing a temporary order that requires the administration keep the course open after…",
-     "link": "https://www.cnn.com/2026/11/14/politics/judge-east-potomac-park-golf-course-block",
-     "published": "2026-11-14T12:00:00.000Z"
-    },
-    {
-     "title": "How a $49 sushi boat and sizzling dumplings helped turn P.F. Chang’s around",
-     "brief": "When P.F. Chang’s CEO Jim Mazany took the job last year, he was confronted with a big problem: People were mostly ordering the chain’s Chinese food for takeout instead of dining in.",
-     "link": "https://www.cnn.com/2026/11/14/food/pf-changs-turnaround-plan",
      "published": "2026-11-14T12:00:00.000Z"
     }
    ]
@@ -60,28 +60,22 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
+     "title": "Woman killed in road crash in Kota Tinggi",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb2R3R1M2SWc4NXJXMWJzb1A4Vm9PS0hXeEc5d2RsYktJQW9OSGJiOUJnc2Fja0FiRHF5NmV5a2YtNG1zclQtcWJyb0N1dWRkWXczNVp6THMwZnNXQzZUZ1kzUHNYYWNxTmk2UWVMaWlfekIxWWpaZW1McHJHNnpody0ydjZUQ3NJbkFha0VxNkFRdVVNV3c?oc=5",
+     "published": "2026-11-15T10:48:00.000Z"
+    },
+    {
      "title": "Cricket-India clinch ODI series after dramatic collapse derails New Zealand chase",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNTkwaGdtR2xERGc0VlRsYlFSd3pFWHhhRnh0eDdlX3ZSWDYwUFNhaGExd0JoeWtVWmxYd1FFSWJKRnJueTNsYVBuWHJkRDRqQjdHU3h0WnBUSTVvVkpiU3ctMkExeWQtaE1TUW0zZ1BrT0RlNDFoejJyRlBRRzM5UFY2QVJfcVk4UXZaeG5PZm9LazRLZFVFRlh5THRHbzJ3RTh4d2NzNkNRdVJ1SlEyR0ZrbUs5TVBDT1JiV0VKSWx1RlZFZDhIS1h3UUpyUQ?oc=5",
      "published": "2026-11-15T10:17:00.000Z"
     },
     {
-     "title": "Pope Leo to cross Peru for visits to Inca city, Amazon gateway",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSmRUdzI2dGdvMC0wdjl5VkJScTZGS3BvR05peS1UNF9jNW54LVJLb3ZWYzYzRjRSb293SHdvZTU1eFgtbFFPbnBvVGd3eE4wSURoMFdmMmJXU1hPTURzQTA4RmQteU9aVjJ4Ulc5R2htTVFzYTduUFE5VmhObWRETlVFb1VfbW5TUHp6MmlCMEJacTdBSnNlV2pGcFNhQnk5TE52eThLOEdQVXZ5b2dZ?oc=5",
-     "published": "2026-11-15T10:10:00.000Z"
-    },
-    {
      "title": "Nearly 1,500 migrants arrive in Canary Islands in one day",
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQzRjczhFbDFfVk5TRkJDVFRsSTFLaWIwUTBjU2FkTlRNXzJpeHF3SllmQzlRX2hXWkZFSFE0aVhObjE4NFRjdG41SGtBNmcyTGprbF9UTjAyS0hPQTdrQk05Tk10Q3dnVzVMUXBPMXgteHN3Z0NuZUdzRldSTVJDVERxbmFfZ1RzYnZyRFZkWElVRUwyR1M1ZlNmcXNXVFF4TkZwc2l1YlQ?oc=5",
      "published": "2026-11-15T09:55:00.000Z"
-    },
-    {
-     "title": "Cricket-Sayers says he believes entire Australia team knew about Sandpapergate",
-     "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTGRheU85R3dNbXN1TWs5SlFIMFFRRTd2bGJ3NWppek9lUmlXdmtQUWZvdERWdzFvUzJqU1lsN19HXy04X1ZBNUNXelV5c3RoNzR4MEh3RWlKNl91YU1kenNxdGJtbFpiTG52SkhwT25rcWtmckgxYy05dHpYVVlEa2pqRXBDQzMyMDYzdjY2WC1wTHRwdllPNmxydmdoZHpMM1prbkppYW92WHBIVndaRTFzck9jUjBZRnNNYWxtOHp1Mm9LWU5rN1hR?oc=5",
-     "published": "2026-11-15T09:46:00.000Z"
     },
     {
      "title": "Rugby-Jalibert returns to France squad for Argentina test",
@@ -106,6 +100,12 @@
      "brief": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdGo4ei1ndTVhN0tZaGVYYUtaZERwN3ljVGpiTEIzY0hoRHZ3cktDd1Q3LWpHTzN2Y3UzbzE2eHAzU3BZQ1VESF8yNjhzbjFUZm1qaFA2VkZzZDEzUWgya0FqclR3XzRiaWxYWFNZcVhORkwtcUYwQ3JlbkxBVnU2bjJKcFJXRjA5ck9BVHBzSkl0d2UyTW0tbFZGdjliUnJFamRDRjl1MFhfVFZkTGEw?oc=5",
      "published": "2026-11-15T09:03:00.000Z"
+    },
+    {
+     "title": "Cricket-Bangladesh elect to bat in first test against South Africa",
+     "brief": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdi1Qb2VFMzVGb1RaLVd2MDZPUzVrSU5SSzNZRjJLa2tUcFBFdVNrdFE0X04zME9yYkNtbUpNQnAtNDdrZFlleXlDR21IVE9rWDRkcjBzVFRjV1hzRVI2RVFpS2xtRmo1MzRybXBXOGY2SllqUjFDZVhibEpwRjJ0RmYwOVVCYW5rSU1aOHJtNjV4ZFlZMGVfTU9jSUo1NDFodkJoWnk0Vkp4N0xFTUhSM1dSNEQ1ZjdyeFE?oc=5",
+     "published": "2026-11-15T08:03:00.000Z"
     }
    ]
   }
