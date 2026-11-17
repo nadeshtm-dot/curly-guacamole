@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-16T15:28:12.467Z",
+ "updated": "2026-11-17T00:06:50.259Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Robert Pattinson chosen as the next James Bond",
-     "brief": "Robert Pattinson will be the new James Bond, Amazon MGM Studios announced on the official 007 website Monday.",
-     "link": "https://www.cnn.com/2026/11/16/entertainment/robert-pattinson-james-bond",
-     "published": "2026-11-16T15:28:12.658Z"
+     "title": "Howard Lutnick is one big problem for the Trump administration",
+     "brief": "President Donald Trump stood by Commerce Secretary Howard Lutnick on Monday, but others in the administration must be wondering what will come next.",
+     "link": "https://www.cnn.com/2026/11/16/politics/howard-lutnick-trump-administration-nvidia",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Lindsay Clancy’s retrial scheduled for March 2027",
-     "brief": "Lindsay Clancy, the Massachusetts mother who argues she should not be held criminally responsible for killing her three children, is slated to face a second trial beginning on March 29, 2027, less than a year after…",
-     "link": "https://www.cnn.com/2026/11/16/us/lindsay-clancy-case-update-retrial",
-     "published": "2026-11-16T15:27:12.714Z"
+     "title": "United Airlines says it resolved system outage that delayed flights",
+     "brief": "A widespread, yet short-lived, system outage at United Airlines on Monday delayed some outbound flights at US airports, the airline told CNN in a statement, coming on the heels of a rare FAA ground stop that caused…",
+     "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Suspect arrested in investigation into explosive device found at Illinois ethanol plant, official says",
-     "brief": "A suspect has been arrested in connection with an investigation into an explosive device found Friday at a central Illinois ethanol plant, according to a law enforcement official.",
-     "link": "https://www.cnn.com/2026/11/16/us/illinois-ethanol-plant-explosive-arrest",
-     "published": "2026-11-16T15:26:12.698Z"
+     "title": "Trump administration points fingers on FAA ground stop — and ends up implicating the GOP",
+     "brief": "The Trump administration has responded to a rare and chaotic full ground stop at the nation’s airports by complaining about how Congress hasn’t fully funded the administration’s Federal Aviation Administration…",
+     "link": "https://www.cnn.com/2026/11/16/politics/faa-ground-stop-trump-duffy",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Supreme Court declines Trump push to cut research grants related to DEI",
-     "brief": "The Supreme Court declined on Monday to take up an appeal from the Trump administration defending its decision to cancel tens of millions of dollars in grants to University of California researchers because their…",
-     "link": "https://www.cnn.com/2026/11/16/politics/supreme-court-trump-grants",
-     "published": "2026-11-16T15:25:12.695Z"
+     "title": "‘Working on floppy disks’: FAA has fielded years of warnings about old systems",
+     "brief": "Airports were thrown into chaos, with hundreds of flights canceled and thousands of travelers stranded.",
+     "link": "https://www.cnn.com/2026/11/16/us/faa-ground-stop-warnings-invs",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Georgia O’Keeffe painting found in NY closet set to sell for more than $3 million",
-     "brief": "The painting was buried behind coats and boxes in the closet of a Manhattan apartment for decades.",
-     "link": "https://www.cnn.com/2026/11/16/style/georgia-okeeffe-painting-auction-scli-intl",
-     "published": "2026-11-16T15:24:12.713Z"
+     "title": "Thousands of Chase Bank customers report trouble with online banking services",
+     "brief": "",
+     "link": "https://www.cnn.com/2026/11/16/business/bank-outage-chase-us-bank-bank-of-america",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Grammy Awards 2027: See the list of nominees",
-     "brief": "Nominations for the 69th Grammy Awards were unveiled on Monday, with a new generation of female musicians leading the honorees, but big-name icons like Paul McCartney, Madonna, The Rolling Stones and the late Dolly…",
-     "link": "https://www.cnn.com/2026/11/16/entertainment/grammy-award-nominations-2027",
-     "published": "2026-11-16T15:23:12.691Z"
+     "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
+     "brief": "New US intelligence indicates that Iran is developing plans to target senior Trump administration officials by detonating a so-called dirty bomb or a chemical weapon in Washington, DC, even as officials continue to…",
+     "link": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "A purr-fect reunion: How a soft meow led rescuers to a beloved cat missing since the deadly Brooklyn collapse",
-     "brief": "A cat missing since last week’s deadly Brooklyn building collapse has been found alive and reunited with his young owner, New York City officials said Sunday.",
-     "link": "https://www.cnn.com/2026/11/16/us/brooklyn-building-collapse-missing-cat-reunited",
-     "published": "2026-11-16T15:22:12.683Z"
+     "title": "What we know about the Mississippi River collision that caused a cruise ship to capsize",
+     "brief": "With the wreckage of a riverboat lying on its side in the Mississippi River and a lawsuit already filed by the Port Authority of New Orleans against the owners of the tanker that hit it on Friday, federal…",
+     "link": "https://www.cnn.com/2026/11/16/us/new-orleans-ship-collision-monday",
+     "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Gérard Depardieu drops appeal and accepts sexual assault conviction",
-     "brief": "French actor Gérard Depardieu said Monday he was dropping his appeal against a conviction for sexually assaulting two women on a film set and will accept the 18-month suspended sentence.",
-     "link": "https://www.cnn.com/2026/11/16/europe/gerard-depardieu-drops-appeal-intl",
-     "published": "2026-11-16T15:21:12.700Z"
+     "title": "Army soldier files whistleblower complaint against the Pentagon over Iranian strike that killed 6 US service members",
+     "brief": "One of the US Army soldiers that survived an Iranian strike that hit a makeshift operations center in Kuwait and killed six has submitted a whistleblower complaint alleging that the Pentagon did not listen to…",
+     "link": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
+     "published": "2026-11-15T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Tennis-Alcaraz outclasses Tiafoe at ATP Finals to stretch winning run",
+     "title": "Deepavali hampers for poor families, single mums",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPb3VGLXl3NEpUTXdrMnJTcVY4eGlnd01LMjQ0dk9jX1BYR2QzX2lCSkZDUDEtV3ZNMDJ0Vm43ZGIyTGIzLTFvb3dGd0g1T2s5Z0dVbmIyUFZZbkY5UTMyNmhUS094M3VhMGVuZE1aYUVWd2NPQl9fUnl3b0RzYVczNW91LVRBMWM3ekh6a0xYNWI3dndJOW1ZbXJBaFlhTHZ2VzZ4b1hFV1cwM0htRjZ4d21pTFlqMngtdF9Kaw?oc=5",
-     "published": "2026-11-16T14:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWFzUEl5VkttZjJKTTlMNXU4amJUNWxCeVluSGJhcXNISFhZNnlXRFNveVZNRS04b2lrQWlWVFZRMjU0M3RPXzVGOXdIYTJWaF9VZ1hYM1BGQWphclhRS1hJbERMSm1heG9DNmJPLWdpQmxHeTdrdmJVSE5tYXZwdTlRb0pjSkhEbmowRFE2cFlnUDJRLUxHTnVzTG5SZw?oc=5",
+     "published": "2026-11-16T23:54:05.000Z"
     },
     {
-     "title": "Spain's right retains firm poll lead despite Socialist gains",
+     "title": "Russian strikes hit two bridges in Kyiv, cause water, power cuts, mayor says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYk5TeVd2NTlaMmRwSE15WHVyTWwyQjQxeHdhQkRJTHdMSUtjdTNhRGRsZUxueFRlazRyR3N0Zkhid2doUWIyNWFTcnFZRjRhZEg0WUxsdDVoSzZCMFdzQjVaaUdXMFlFWnlWQ2U4c2NmS1Q0enllVEJYOTJXR1ZnQ0NaSWJESjdJRlZ6dG1OM0JLcDIxcU5OVjJ2QnltbEo3ZW1Ta0djUDdlM2d1Y2MxeA?oc=5",
-     "published": "2026-11-16T13:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSktBT2pkQ0dhUk4xaDEzTExnQ3lINGpyNlZKQ2VrckV6SWJTZi1tME1vOVdMTEpnUVMzb0ZGTGhjcFNzOEVpS0VDTVlzS3BrUjRMenROdnhUUGNhSXhlRGtCS3pBVVFObVIwaGRJZExDNTYxdkNXb0lxcG1KWmlWb2x2NWFyaDFfY25XaEEzMFp2SUdZZ1ZDdll1TGM2TWNoMzRxRlhwTWVyVkFQbzlST1pwa1gxUWFsZFFxaVlPcw?oc=5",
+     "published": "2026-11-16T23:44:00.000Z"
     },
     {
-     "title": "Other Sports: US basketball player arrested after cannabis seizure at Nigeria airport, authorities say",
+     "title": "When knowledge has no heirs",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUHU3UVRrVFBVS2JReWIwZFNkUHBibGNPYmdIUXdFZU54dlpITkhWajZJaGpHemIyRFpISXdseU43YWZLR214Y1VFdXhGRG5NbDZSbkJ2cmhuQW1DTjhRNVprZkZ5b29VZmtsaHhJVXJmZWg5ckxWOEZETXluc043WU54UXZwRld0VGw0dGRCeEFWbnV1Y0wyT3hvTXVfNnI3bjZJME1vMWlXWi00eERqVlh1YVF3WWIzc2otejhrNjNmWDl3SERLQU13ZWdROTFrZ1A1Tw?oc=5",
-     "published": "2026-11-16T13:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnBfeU1SX1o1akVhWkRvNzRmUUgwTDN4N0NiQ1doNXFvblR3Q3RTZ3RONlVwajkzY1ExU3Z3MXV1TkhqMElJUGc0ZkxLWEhHQTR3cnEybjhQVW5iMTVCM2ljR1llN3ZoZUtNRkNXMU01UzdIcUJUYmdYc0tZWHFEV3JhNjRoOEc2S2gzMDFiY0xOeUVqU0ZmNFlvSFBaZw?oc=5",
+     "published": "2026-11-16T23:37:40.000Z"
     },
     {
-     "title": "Haze ‘protocol’ the way forward to tackle regional problem",
+     "title": "Bowling: Rock behind the roll",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLVZkUmVaMC03QVlQVXM1aVpUQlJMNEdUTmt3SmhjVjRTTUZDWHhzN09FdHRNbFZnRDJtNUxEN2xoNHJNV3FxNWsyUWtaNHc1N3NIaVhVS2x1dUNFNmgwSEFFM1g1YXZjeXgtcHR4TXFqZDZZYV9RSkZreHBRTm0zcmpRckVncmxhVzVqd1JTVEhObG1BMW1xaHJoSTFYWTcwejFZQU5FRS1mRzlseHl3?oc=5",
-     "published": "2026-11-16T12:46:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XQUV5YVNCM3pQaVA4WGR2X0ZkRDJYZXdBcnJCaVdMWFc1ZmNONDJrdk1zZy1nTkYxRGZCcno0X1UweTVHRzZhaThGajBHTngwY0JBTnFMRnBhM0R3ODBZR29rNkE4RndTelBHT1ZRYmlmT01qREhlcG9ORVI?oc=5",
+     "published": "2026-11-16T23:20:56.000Z"
     },
     {
-     "title": "Indonesia president Prabowo conveys apology to Singapore and Malaysia over wildfire haze",
+     "title": "Squash: Cross keeps top seed Sangari on guard in China Open",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNlRPNlBxQ2FPS0NuRjd6ZDNWRTJzek12NjdvTWh6MGhjVHZ4MGxqR3BHTk83VU1rMkVBMmZtdFpQbGNsUGxVUjljM1hFYUdUbHZucUhYV2V3Ui1TejBiRlAyMDhVOE43T3A1d2k4ZTdrcmFsWnYyRTNia2czWnhlQlJxMVpuSGd1d2ZVZ0c0bEpJTGZJYVdyc1Ezcm93T3pNbERyTTdUZl9EZGJVUktUeUVNeVluMUUxd1dXWEtqeTV5RHZnbXZ6Q3NCTkRoUGVZQ194WTh6czhONXpnYUhtSG5vSGVEZw?oc=5",
-     "published": "2026-11-16T12:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEQ3V0ZkTW41VFl2OVZ4Um4yMmtLaFlJMkk4d0psMVpxZ3RLU3Z2bUtJRHpSdjQ3VU1WaGt4amFHWmJDenQ0N2RlOThHZEFwRXRsSjU0dTFHcTRaaWxXWVUtQ0dkbnJ0Zko5X09xQ1dTVWpWSy1rOFRRMXRDYm1GUVNVbzBhQm1qQ3E1Zkg3NXhWV25Sbl9oM2hOakpxYmtOZzlz?oc=5",
+     "published": "2026-11-16T23:15:54.000Z"
     },
     {
-     "title": "Lithuanian president says US troop rotations will continue beyond latest deployment",
+     "title": "Teen on the way to fulfilling her late father’s wish",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdThGbnYwMWU4ZVNJQXQtRlNvei1qTGFRRTI0U2cxVDNsR0l1bjlWX3ZkSDB5cENEcC1jVENoZGs2NDBpOVFuQzFzejJGOWh5SG9URDlFcTdsZURJMDVMSG9yMXk2Y0lUeFJlYnFTX3ZJTGRLNURNLTBEMnlSd09CeVl1U2FtNEdTUThHR25oRFhtTkd2MjVDU2VYZllNSzBneW5fc1hXMDlnQnBIVnJVTG1qeTdoQjg5bm5LQnZyb3hYeW1yNkt4bDljVEk?oc=5",
-     "published": "2026-11-16T12:13:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdV9hSGtfYUtKWkFJYjdIbkduTGdKZFFwWnN6U1ROejZZOUhZN0N1dlJERDVvc3dQZU9JY1llWWw2RlB1YVVCTUtKeFZnV2UyWlFiUndHMXEzTXVqM2EtR0ZOMkVOLWUyVXRrOGVhQTVLSXN0bF9UcF9zcXhnTWxtbDhQOHYwTGdhWjFseTVCWi02ZjNUaTdPNnNQTjU3cXFGYzlz?oc=5",
+     "published": "2026-11-16T23:08:51.000Z"
     },
     {
-     "title": "Badminton: Aaron-Wooi Yik withdraw from Hong Kong Open, ending World Tour Finals hopes",
+     "title": "Gaza: A ceasefire is not peace",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFMxU0pCT2d5ckRjd2UtdTc4M1BERm4tNDFoVkVpR3Zxb0I3aXdRMzMxc1BRWXJQQ3NOSWNHQW5EUURJdW9GeHY0R1hETHRPSGVGYXhyZ0FIdm5WalFRbnJ2S0FHVUlPOTlRSkFibkV0SURBYS13Tmh5ZFgtNXJ5RnBOUFo0ZE8tam1jOWE4NngwRjVZWGFBOVZENHREOWRGenE1c1U5dW1zZWMtcWFmZ1d6MDBfczhhTVR0UVRDVjlVZ3VtQXNr?oc=5",
-     "published": "2026-11-16T12:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWZpSHZFNTZqdk9yQ1A1czBUeGJQSjBhLUNGdDVudG1vNncydVRTcEhfQzRyblYxVHJCWUNaWHkxdGZVbnVCWGg0ZGhTUUZaaFZwTUJLZW5jaktFV01wdkUxNERSbWIxNXZqaWI0RmRHNVlOa2dEZC01V3ZvdXp1ODhxMnFLbkhCU3RN?oc=5",
+     "published": "2026-11-16T23:00:00.000Z"
     },
     {
-     "title": "NCT Alliance plans RM152mil share placement",
+     "title": "Cote d'Ivoire, Botswana to boost economic cooperation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWURQc1BVNm1NbEhPaTdrS1puamhzMmxFdHpESzVkT0Z1VUFYaXpSeG9EMDlTMHphZWtIVFFuejZOWUJpLXlIOVg5TUw3c2s0alRRRWE5MHhpNFJGNzdHS3ZGMWxmLW1hZmo0ZXRBUUpQUkgwOVo1UVJ4RE1TZG5LcW1PbzlWZTFkUWZvcVIxX3hxTTNEN1lsVjRwMm1oenlCd3lYcEtVcw?oc=5",
-     "published": "2026-11-16T11:41:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHd4TlJwUTBYNHBIZzVTUWtrTUdzTGVNUEJwaGtTMmpwcGVEQnVsMC0yMnZSYmdoT2gxLVladUZqYXk3MkN3YTBkMVJIS1ViUWdiN3hiVmd0NEdtVnJfNWxUd3dWSnNuSWRMSjZpTlJvZUlqa0dpVDFSMlNmNXRFNGh1ZlNDOWp4X1VUY3NoUmpxTTVQZDl2ZGdibmM2eXpLbTJJSWtR?oc=5",
+     "published": "2026-11-16T21:58:00.000Z"
     }
    ]
   }
