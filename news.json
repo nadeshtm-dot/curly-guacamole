@@ -1,32 +1,32 @@
 {
- "updated": "2026-11-17T00:06:50.259Z",
+ "updated": "2026-11-17T07:46:44.708Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Howard Lutnick is one big problem for the Trump administration",
-     "brief": "President Donald Trump stood by Commerce Secretary Howard Lutnick on Monday, but others in the administration must be wondering what will come next.",
-     "link": "https://www.cnn.com/2026/11/16/politics/howard-lutnick-trump-administration-nvidia",
+     "title": "Critical bridges in Crimea and Kyiv damaged as Russia and Ukraine exchange large-scale attacks",
+     "brief": "A section of the bridge connecting Russia and the occupied Crimean Peninsula has collapsed, images geolocated by CNN show, after Russia and Ukraine exchanged large-scale attacks for a second straight night.",
+     "link": "https://www.cnn.com/2026/11/17/europe/ukraine-russia-kerch-bridge-intl-hnk",
+     "published": "2026-11-17T07:45:44.890Z"
+    },
+    {
+     "title": "Trump administration dismisses crisis fears after string of disruptive tech outages",
+     "brief": "Top officials from the Trump administration sought to reassure Americans and dismiss fears of a possible crisis after a string of major tech and infrastructure failures disrupted travel, business, and banking for…",
+     "link": "https://www.cnn.com/2026/11/17/politics/vance-mullin-infrastructure-crisis-fears-intl-hnk",
+     "published": "2026-11-17T07:43:44.858Z"
+    },
+    {
+     "title": "Trump administration tightens restrictions on flow of AI chips ahead of China trip",
+     "brief": "The Commerce Department on Monday tightened export restrictions designed to prevent China from accessing sensitive, AI-powering computer chips amid a dispute in the Trump administration over how to handle the issue.",
+     "link": "https://www.cnn.com/2026/11/16/politics/ai-chips-restrictions-china",
      "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "United Airlines says it resolved system outage that delayed flights",
-     "brief": "A widespread, yet short-lived, system outage at United Airlines on Monday delayed some outbound flights at US airports, the airline told CNN in a statement, coming on the heels of a rare FAA ground stop that caused…",
-     "link": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-     "published": "2026-11-16T12:00:00.000Z"
-    },
-    {
-     "title": "Trump administration points fingers on FAA ground stop — and ends up implicating the GOP",
-     "brief": "The Trump administration has responded to a rare and chaotic full ground stop at the nation’s airports by complaining about how Congress hasn’t fully funded the administration’s Federal Aviation Administration…",
-     "link": "https://www.cnn.com/2026/11/16/politics/faa-ground-stop-trump-duffy",
-     "published": "2026-11-16T12:00:00.000Z"
-    },
-    {
-     "title": "‘Working on floppy disks’: FAA has fielded years of warnings about old systems",
-     "brief": "Airports were thrown into chaos, with hundreds of flights canceled and thousands of travelers stranded.",
-     "link": "https://www.cnn.com/2026/11/16/us/faa-ground-stop-warnings-invs",
+     "title": "Pizza Hut co-founder Dan Carney has died",
+     "brief": "Dan Carney, who co-founded Pizza Hut with his brother nearly 70 years ago, has died, according to his alma mater Wichita State University and the Cerebral Palsy Research Foundation, which he chaired for 50 years.",
+     "link": "https://www.cnn.com/2026/11/16/us/dan-carney-pizza-hut-co-founder-death-hnk",
      "published": "2026-11-16T12:00:00.000Z"
     },
     {
@@ -36,22 +36,22 @@
      "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Exclusive: US intel indicates Iran developing plans to potentially detonate a dirty bomb in Washington, sources say",
-     "brief": "New US intelligence indicates that Iran is developing plans to target senior Trump administration officials by detonating a so-called dirty bomb or a chemical weapon in Washington, DC, even as officials continue to…",
-     "link": "https://www.cnn.com/2026/11/16/politics/us-intelligence-iran-dirty-bomb",
+     "title": "‘This is only a test’: Tuesday’s emergency alert test comes at anxious moment in the US",
+     "brief": "Government agencies and TV broadcasters are telling Americans not to be alarmed by a nationwide Emergency Alert System test taking place on Tuesday.",
+     "link": "https://www.cnn.com/2026/11/16/media/eas-test-federal-emergency-alert-system-fema-media",
      "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "What we know about the Mississippi River collision that caused a cruise ship to capsize",
-     "brief": "With the wreckage of a riverboat lying on its side in the Mississippi River and a lawsuit already filed by the Port Authority of New Orleans against the owners of the tanker that hit it on Friday, federal…",
-     "link": "https://www.cnn.com/2026/11/16/us/new-orleans-ship-collision-monday",
+     "title": "Forensic expert says Epstein was likely killed, but NYC medical examiner stands by suicide ruling",
+     "brief": "A forensics expert on Monday announced findings that he says points to Jeffrey Epstein having been killed while in custody, contradicting the New York City Office of Chief Medical Examiner’s ruling that the disgraced…",
+     "link": "https://www.cnn.com/2026/11/16/us/forensic-expert-epstein-killed-suicide",
      "published": "2026-11-16T12:00:00.000Z"
     },
     {
-     "title": "Army soldier files whistleblower complaint against the Pentagon over Iranian strike that killed 6 US service members",
-     "brief": "One of the US Army soldiers that survived an Iranian strike that hit a makeshift operations center in Kuwait and killed six has submitted a whistleblower complaint alleging that the Pentagon did not listen to…",
-     "link": "https://www.cnn.com/2026/11/15/politics/army-soldier-whistleblower-complaint",
-     "published": "2026-11-15T12:00:00.000Z"
+     "title": "Trump’s library foundation raised more than $57 million in 2025, tax return shows",
+     "brief": "The foundation overseeing President Donald Trump’s future presidential library amassed $57.6 million by the end of last year, new tax filings show, as the president turned legal battles with major media and tech…",
+     "link": "https://www.cnn.com/2026/11/16/politics/trump-library-foundation-tax-return-2025",
+     "published": "2026-11-16T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Deepavali hampers for poor families, single mums",
+     "title": "Xi says China-Vietnam top-level exchanges inject positive energy into regional peace, development",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWFzUEl5VkttZjJKTTlMNXU4amJUNWxCeVluSGJhcXNISFhZNnlXRFNveVZNRS04b2lrQWlWVFZRMjU0M3RPXzVGOXdIYTJWaF9VZ1hYM1BGQWphclhRS1hJbERMSm1heG9DNmJPLWdpQmxHeTdrdmJVSE5tYXZwdTlRb0pjSkhEbmowRFE2cFlnUDJRLUxHTnVzTG5SZw?oc=5",
-     "published": "2026-11-16T23:54:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOLWpZcGdicWo5N1BpWWVlUFVyRWlMZmJRejhCNlFGbUpTYmZmVVRTd196WGMxUEt1UFlkSjlmRGtwbkp2OWtfenZEUGpudTZmWjJTTmJCZ1B0VjZZVTBzcXhVRXBVX2VmQkpBZDN0WS1jb0Z0VDdTcUd4M1l3aWFOYjFUSVk5WDBhbHl5MEpfSkJMSmNDUm9reVNva2ZqdFdyUkNrWXVRUjdqT2o4WmtWZFNUcHFYbHhIS3dEV0hySTFqclZBdWwwaXdFMzQyWmsxUW1EdTUtSWgycUlFdkxlbWNoRDJkejlpVjVSWE9GY3A?oc=5",
+     "published": "2026-11-17T07:22:00.000Z"
     },
     {
-     "title": "Russian strikes hit two bridges in Kyiv, cause water, power cuts, mayor says",
+     "title": "India's ONGC initiates well-control ops after gas leak at Andhra Pradesh well",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSktBT2pkQ0dhUk4xaDEzTExnQ3lINGpyNlZKQ2VrckV6SWJTZi1tME1vOVdMTEpnUVMzb0ZGTGhjcFNzOEVpS0VDTVlzS3BrUjRMenROdnhUUGNhSXhlRGtCS3pBVVFObVIwaGRJZExDNTYxdkNXb0lxcG1KWmlWb2x2NWFyaDFfY25XaEEzMFp2SUdZZ1ZDdll1TGM2TWNoMzRxRlhwTWVyVkFQbzlST1pwa1gxUWFsZFFxaVlPcw?oc=5",
-     "published": "2026-11-16T23:44:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOW5tdl9XamlLNGUwa3FxNkhtLUZBZ1ZBclZPc0VudDNuMmx5WklTN21NcllxMlo2al9FNFhhRXBkSE53ZmhNWGZfMnpkblY5WGxkYnRLZ2NsT0w2VzlDRlZWVjhpMnViNHZrN2loOWN5RkkyT1hMblpZbUxsMlpzQU1HU0xjOU14aE00Rko5eGJJS0ZNZWRFbVVSWTNKNjE0TW5nMFEzUExVSjhvT29fTjhkNENhWVQ4MUFzbTVabTNPcHI4WXJJ?oc=5",
+     "published": "2026-11-17T07:21:00.000Z"
     },
     {
-     "title": "When knowledge has no heirs",
+     "title": "AirAsia, Malaysia Airports in RM500mil debt repayment talks",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdnBfeU1SX1o1akVhWkRvNzRmUUgwTDN4N0NiQ1doNXFvblR3Q3RTZ3RONlVwajkzY1ExU3Z3MXV1TkhqMElJUGc0ZkxLWEhHQTR3cnEybjhQVW5iMTVCM2ljR1llN3ZoZUtNRkNXMU01UzdIcUJUYmdYc0tZWHFEV3JhNjRoOEc2S2gzMDFiY0xOeUVqU0ZmNFlvSFBaZw?oc=5",
-     "published": "2026-11-16T23:37:40.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2J2RXE5T1lRWHJqdXEybURheUkxQUVkYlotWmVUdUE5azd3N21RRExfdThBbVhwRHR1WGN4RVdBQXBBSWkwSmRuV2RMQmJzclRiS3k3djFxbktSZ0hxZE9mVmJIV1BLNlIzQWJvTjBrRHY1WV9VMDdvZkk3ME5pdmN5MUhZX0RfVFhXXzFKZTZwRlYwX2JoWUdUa0ZwU2xGSjgwc2JqZnNkb1NrSVZydUdJOFR2dS1lckpN?oc=5",
+     "published": "2026-11-17T07:18:00.000Z"
     },
     {
-     "title": "Bowling: Rock behind the roll",
+     "title": "Russia says Ukraine struck its bridge to Crimea for second day in biggest drone attack of war",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XQUV5YVNCM3pQaVA4WGR2X0ZkRDJYZXdBcnJCaVdMWFc1ZmNONDJrdk1zZy1nTkYxRGZCcno0X1UweTVHRzZhaThGajBHTngwY0JBTnFMRnBhM0R3ODBZR29rNkE4RndTelBHT1ZRYmlmT01qREhlcG9ORVI?oc=5",
-     "published": "2026-11-16T23:20:56.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVXRrVjlyY0c4Tk5hUXlyem52YktaZnhfb0tHRFhwMnBETGJRbXptaDY5X1ljT1Z1WGhxRzlSazVQNWZTRnRUS2Z5djZqck1DMmxWb3d5MU5DQl9nZjBMU1JIRFlzS1F2LXNtMnlqakhKbVNQa0Z5TU9rVjRnQ1ljd01ydHk5eEZPRGxTOHRsWG1SOXlkLTRuSnluYy1NSGZrcTQzZEI1SFEwZURWbzhYUXRFMXJzOE5ITzhuUXJKNW51WlVuMFpaV0F0ckYwS1VSZEFXZVMzbGJLQQ?oc=5",
+     "published": "2026-11-17T07:01:00.000Z"
     },
     {
-     "title": "Squash: Cross keeps top seed Sangari on guard in China Open",
+     "title": "Boxing: Boxing-Irish boxer Reeves dies aged 31",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEQ3V0ZkTW41VFl2OVZ4Um4yMmtLaFlJMkk4d0psMVpxZ3RLU3Z2bUtJRHpSdjQ3VU1WaGt4amFHWmJDenQ0N2RlOThHZEFwRXRsSjU0dTFHcTRaaWxXWVUtQ0dkbnJ0Zko5X09xQ1dTVWpWSy1rOFRRMXRDYm1GUVNVbzBhQm1qQ3E1Zkg3NXhWV25Sbl9oM2hOakpxYmtOZzlz?oc=5",
-     "published": "2026-11-16T23:15:54.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUUFFa2NhQkRCUkxkSldZNHg4a0RSLVlFTll3Z1N4Z1JURklkeHE5Z0l1NHFXMUVwUXZFaEc0ZXJBN2EzQWFhWVF5TVBlNVN0QUFpRHJ6RU10TXR6REt0UjVxSjdtd0ZHZm9vT0xqSWRoaXpPSWhDS05fMnV1YmNBR2ZwLWJJNXhmRWtGZG5XUy1KMms?oc=5",
+     "published": "2026-11-17T06:48:00.000Z"
     },
     {
-     "title": "Teen on the way to fulfilling her late father’s wish",
+     "title": "One killed, at least four injured after police van crashes on NSE near Tapah",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdV9hSGtfYUtKWkFJYjdIbkduTGdKZFFwWnN6U1ROejZZOUhZN0N1dlJERDVvc3dQZU9JY1llWWw2RlB1YVVCTUtKeFZnV2UyWlFiUndHMXEzTXVqM2EtR0ZOMkVOLWUyVXRrOGVhQTVLSXN0bF9UcF9zcXhnTWxtbDhQOHYwTGdhWjFseTVCWi02ZjNUaTdPNnNQTjU3cXFGYzlz?oc=5",
-     "published": "2026-11-16T23:08:51.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmhDZEhSWTQwdE1NNmEtV24ta3FDV1VDRkFfckYtTWhtNGNfRnExTThfZ05QNTQ3cXJ3NzViSWRoOFd6Qmd5RlBoTWJoU2RSaFZGN21Xa1RSNFRIVmtLZHQ4SGt6aHE0d3RETnYtMnJhXzhvMVBEOXJBbWlLRjlpLXdvdVlyLU5UNWpoc3lZa01WaUdYMVpodjk4alk1aWdzMjhkb3lqWUpFRnlmU2FMcmJQYVZPbnV5SUZRNHNDN0cwek0?oc=5",
+     "published": "2026-11-17T06:44:00.000Z"
     },
     {
-     "title": "Gaza: A ceasefire is not peace",
+     "title": "Myanmar marks World Diabetes Day",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYWZpSHZFNTZqdk9yQ1A1czBUeGJQSjBhLUNGdDVudG1vNncydVRTcEhfQzRyblYxVHJCWUNaWHkxdGZVbnVCWGg0ZGhTUUZaaFZwTUJLZW5jaktFV01wdkUxNERSbWIxNXZqaWI0RmRHNVlOa2dEZC01V3ZvdXp1ODhxMnFLbkhCU3RN?oc=5",
-     "published": "2026-11-16T23:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNanBCZDBZelZ0cklFdUt1LXdCa2g5cVlqZEhzclZDVzNGYUoySFVIaXJ5T2dCWE9ST0ZjT3M5Rzc5RllyWEZtUGhmNVNHRWVZcHVhRTI2TUlYbWZPOVctWThuMkpNQUhuMGtyRDdBSkE4U0VhX09pNmFwTkp6dDJCTkhSX1ZTaE1MMi13eVNmZE0xQmFUMURnbm5Oaw?oc=5",
+     "published": "2026-11-17T06:36:00.000Z"
     },
     {
-     "title": "Cote d'Ivoire, Botswana to boost economic cooperation",
+     "title": "Football: Soccer-Goalkeeper Martinez set for Argentina return after jaw injury",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHd4TlJwUTBYNHBIZzVTUWtrTUdzTGVNUEJwaGtTMmpwcGVEQnVsMC0yMnZSYmdoT2gxLVladUZqYXk3MkN3YTBkMVJIS1ViUWdiN3hiVmd0NEdtVnJfNWxUd3dWSnNuSWRMSjZpTlJvZUlqa0dpVDFSMlNmNXRFNGh1ZlNDOWp4X1VUY3NoUmpxTTVQZDl2ZGdibmM2eXpLbTJJSWtR?oc=5",
-     "published": "2026-11-16T21:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbGp2QnN4amxaSXpJSExodjEzejBhcDZCbWRjaHBJTXBibTR2TndCeHllS0tId3JrQjNTajYzbU1XWWRYcVc1OGFDSHp3WmJtMDF0cXBESnpDN3l6blJlcmhSWmoxUThDbzBONHBndXBQN1lWTXJtSVhTdUh6NzdLSlBRME44OXpackdRNXdTenp2QjVQczd0MG52SGpfa0drT2JLNTlDTTJ3Vkxnc19ZRkowM0Uxckxob2dSYUpB?oc=5",
+     "published": "2026-11-17T06:18:00.000Z"
     }
    ]
   }
