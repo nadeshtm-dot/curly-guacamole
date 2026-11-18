@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-18T08:23:21.203Z",
+ "updated": "2026-11-18T17:55:00.231Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "GTA VI has made more than $1.5 billion before anyone has played it",
-     "brief": "Grand Theft Auto VI is set to be one of the biggest entertainment launches ever when it is released on November 19.",
-     "link": "https://www.cnn.com/2026/11/18/business/grand-theft-auto-vi-presale-data-vis",
-     "published": "2026-11-18T08:23:21.552Z"
+     "title": "Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives",
+     "brief": "Hakeem Jeffries is now all but certain to lead the House next January, a role that will make him the first Black speaker in US history as he oversees Democrats’ largest majority in years.",
+     "link": "https://www.cnn.com/2026/11/18/politics/hakeem-jeffries-house-democrats-leadership-elections",
+     "published": "2026-11-18T17:55:00.369Z"
     },
     {
-     "title": "What should really scare Americans amid blitz of tech outages",
-     "brief": "Everyone is asking the same question: What’s going on!?",
-     "link": "https://www.cnn.com/2026/11/18/politics/tech-outages-trump-response",
-     "published": "2026-11-18T08:21:21.654Z"
+     "title": "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast",
+     "brief": "Torrential rainfall and severe flooding shut down roads, gushed into homes and forced high-water rescues in southeast Florida overnight as a multiday flood threat unfolds along the state’s Atlantic coast.",
+     "link": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
+     "published": "2026-11-18T17:54:00.421Z"
     },
     {
-     "title": "US carries out ‘self-defense’ strikes on Iranian missile launch site",
-     "brief": "US fighter jets conducted new “self-defense” strikes Tuesday, using “precision munitions” to target an Iranian missile launch site on Qeshm Island, according to an American military official.",
+     "title": "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
+     "brief": "On “Saturday Night Live,” a pre-recorded segment called “ Sister ” hit too close to home for some, and others say the segment helped them finally feel seen.",
+     "link": "https://www.cnn.com/2026/11/18/health/snl-sister-caregiver-wellness",
+     "published": "2026-11-18T17:53:00.412Z"
+    },
+    {
+     "title": "Anthropic’s Wall Street debut marks a new chapter for AI",
+     "brief": "Anthropic, the company behind the Claude AI chatbot, is expected to go public Thursday in what could be the largest stock market debut of all time.",
+     "link": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai",
+     "published": "2026-11-18T17:52:00.425Z"
+    },
+    {
+     "title": "For this Taylor Swift superfan, the blind love era is over",
+     "brief": "When Zachary Hourihane met Taylor Swift at the age of 17, he cried so hard he stained her dress.",
+     "link": "https://www.cnn.com/2026/11/18/entertainment/taylor-swift-swiftologist-zachary-hourihane",
+     "published": "2026-11-18T17:49:00.418Z"
+    },
+    {
+     "title": "Democrats send letters to dozens of Trump officials and allies putting them on notice",
+     "brief": "Democrats are putting top officials in the Trump administration on notice as their aggressive investigative agenda takes shape ahead of the new year.",
+     "link": "https://www.cnn.com/2026/11/18/politics/democrats-letters-trump-officials",
+     "published": "2026-11-18T17:48:00.408Z"
+    },
+    {
+     "title": "Trump’s response to tech outages shows how out of touch he is",
+     "brief": "One of the biggest takeaways from Democrats’ historic rout in the 2026 midterm elections was that voters saw President Donald Trump as out of touch and uninterested in their plights.",
+     "link": "https://www.cnn.com/2026/11/17/politics/trump-2026-election-response",
+     "published": "2026-11-17T12:00:00.000Z"
+    },
+    {
+     "title": "Iran widens Gulf attacks after US strikes missile launch site",
+     "brief": "Iran targeted a Kuwaiti air base that hosts US forces on Wednesday, widening the scope of its attacks after the US military hit what it said was a missile launch site in Iran.",
      "link": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes",
-     "published": "2026-11-17T12:00:00.000Z"
-    },
-    {
-     "title": "Trump says Iran could pay major price if it carries out dirty-bomb plan",
-     "brief": "President Donald Trump on Tuesday said Iran would pay a major price if it were to detonate a so-called dirty bomb in Washington, DC, after CNN reported that US intelligence indicates Iran is planning such an attack…",
-     "link": "https://www.cnn.com/2026/11/17/politics/trump-mullin-iran-threat-reaction",
-     "published": "2026-11-17T12:00:00.000Z"
-    },
-    {
-     "title": "Democrat Mary Peltola will oust GOP Sen. Dan Sullivan in Alaska Senate race, CNN projects",
-     "brief": "Democratic former Rep.",
-     "link": "https://www.cnn.com/2026/11/17/politics/mary-peltola-wins-alaska-senate",
-     "published": "2026-11-17T12:00:00.000Z"
-    },
-    {
-     "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
-     "brief": "The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter.",
-     "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
-     "published": "2026-11-17T12:00:00.000Z"
-    },
-    {
-     "title": "Trump is about to see up close why US efforts won’t stop China’s rise as tech powerhouse",
-     "brief": "For Xi Jinping, a summit in the high-tech hub of Shenzhen this week is an opportune moment to showcase a vision of China’s unrelenting rise.",
-     "link": "https://www.cnn.com/2026/11/17/china/trump-us-china-tech-asia-summit-intl-hnk",
-     "published": "2026-11-17T12:00:00.000Z"
-    },
-    {
-     "title": "White House drops Trump’s FDA pick amid senators’ opposition and ‘icy’ relationship with RFK Jr.",
-     "brief": "The White House abruptly pulled its nominee to lead the Food and Drug Administration late Tuesday amid what Trump officials saw as skepticism from multiple Senate Republicans, a White House official and two other…",
-     "link": "https://www.cnn.com/2026/11/17/politics/heidi-overton-white-house-drops-nomination-fda",
      "published": "2026-11-17T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Time to consider adopting a ‘Living with floods’ mindset",
+     "title": "Britain, EU drop 'trusted partnership' term from summit draft",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNmZGYmpPMUl1TW1pZGRYb3pVSG5iOElPUEhMUzE4VmJCOWxvdVlmNWlRQkVQU0JYMHlUQXRad0tBb3hZTTBXNXgycHQ3c0ZoVTltMEhudzhGUXotSHdOdnJCN1FZRjNCeHIxQ05SQkVleWFDWEJkeXJvX2FTMEEtclhuU1V2eFEyVXE3NGVya3lFcWQ2OUFyTlViM0ZYOUh1RDFIa2NZX3VYTDJw?oc=5",
-     "published": "2026-11-18T07:52:30.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTR4YjBQUExNYmZnMjk3RS0wdHlfQVdPbjBRejlITGNEQ0MyOTZER0phRHFodGo3UHlYNnVKWWswQ21zNVRCUDJiNTdlakM3MFRZS1JuRDh0dFpIOXIyZ2xzRDRRTTdWb1owYUU4ZlhKb2JVbFpla1BCTTM1eVluSE1XUkQwZFFwMThjMDZpZW1ueXQ1empRa3JjcTNZU2ItVmNzaWwzUkpDeGs1UzY2bXB4Zw?oc=5",
+     "published": "2026-11-18T17:38:00.000Z"
     },
     {
-     "title": "Nearly 70% of Koreans believe couples can live together without tying knot",
+     "title": "Bulgaria uncovers five-year cyberespionage operation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOEhKWDhwVkgtcFhOSWJuMDloUWRMU3VhbzdDUnAxTkEtNVZqSFhIYWtrN3FrSm53YmtJTDdaamY2Qm8zNFU3ZEZ6N1ViSElSV2RyU2JzblBjOTlzZjlMT2gxRGdydmQzdG5PcDNScFY5VHRoaTdwaDh5NmhSd1JxOUdncEFEYk5BLWZXQk15QmhhRVFnNEF6UHBrc09GVFFVN1NyNHNEYmpJQ2VTMWEtVmZnTXhLU2lVendWUFA2bUg0WkN5a094cVUtX0J3Ul9NYkE?oc=5",
-     "published": "2026-11-18T07:44:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenBXVVNHSy1PTFR1QXdqdjExaDhVZU9oTzlWbXp2UVFqUTFVYi13VWZSNXlIaXFiN3pPU3pXZUJTM0E0S3NEUEJEN1hfUDlDa21JRTNseUo5dkx3M2d3M3AzZGRmZzVvS3phSnJJcjRISDZpM0haQXdFdUFWcThXNjk0b2hSaWIzSEs3NzRtRWNicGoyVHdsbVhWOUd6b1d0ZUhJ?oc=5",
+     "published": "2026-11-18T17:11:00.000Z"
     },
     {
-     "title": "Asia-Pacific default rate could rise to 2.25% by September 2027, says S&P",
+     "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmhKY1NCcXZqanRiOWJNLWhBUzdYZDBiUlhGdlJsd1BCc21vRUFCZ1gtTmtYRUdpTGlRd255dU80Y3lRWVpyS0UxcUQ1OWxGQ051OGR0dGVQOTllaVFhcVdTcTlUUVBBSlhiSGJmd2NJV2ZWenp0NkJxbWtFejBRR2gtaWRCbDhCZk5ldkZPUGM2bmc3QmFmb0J2X3d5QWYzRW5TcE1NWkxxTTFqU2l0TFNILTVPYzAtN04xaGFhYzlGdFdaRkVhRnFR?oc=5",
-     "published": "2026-11-18T07:22:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTE03S0NURnNRc2N4QjVMT3I5TzJoNjAza3pjWEdGOHZpQ0MxcS1Zc1RhM003TWZyY1Q2cHp0aTVMbWlFbXNYZE82UlBxM01oZjVnbVVUaTVfUUttX0FYTGJrYXJOZl9SclZFRy16aTN4WVdUSE5WcDUtY3VKZXpOQjJJTXlwY3FPRHRhd2VGSHJPbmtjUko0ZmpEVnFicFdjamloMHVSbHdhWEVvNGpTTjZFa25odHhNbVlSR1pBUEJLcTdO?oc=5",
+     "published": "2026-11-18T16:58:00.000Z"
     },
     {
-     "title": "Sri Lanka to establish national nuclear security coordination committee",
+     "title": "China, ROK substantially conclude 2nd phase of negotiations on bilateral free trade agreement: commerce ministry",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUE9hSGFsZWRreHJWdzJuT2FnaVdRV3d2b1pFM18yN3dkMERXYWZ4REhHMFRtNjRMaEZUXy1SNDNyUjkyZ093eFdIemdWVVBZZ0VZS0tZcU8xdkdReFZLNlNnVDVVenB6a0RiWC04OGJvZ05WT1o1eFhHMWNVbmZDQkM2czU2NHpLUl9vWG1uWGxVWEp0cUUzVEpQemdFQkF5bHNLVnJXc2M5SUQ0Uk5TQ2Y2eVA4QUl6a2EyZ3lrcmxiSUZXS29HUk9WQmViOTQ?oc=5",
-     "published": "2026-11-18T07:16:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDNhcWlYVDlTRHFSbUhfV250X2NiTVM2WXpKODdOVm1QRUt3TGdVaGszUkNuZERTR3hKcGJ4Rk5xVFBGZHJQRG9jOGlKQzVjUEoxRm9MeFRzQ21hWWV2ekxnR19tZE9ZbjZNVGR4WkpqQ3NXUlBDS1V0ZE51VVVTSmJkS0xzVjJrWDJ3SzJlZDB4NVI3cjU4M05vSXdvamROMndGX3Y5WWhZMi1wX1dVOTRwRzFpTUxfbFpXQmtneDFGVHNQRW9yb2VJSWZrbTNoRjZtcXJhQlhzVHF1WDlpZ2xHemNlYU1qejFSY2tCeGk?oc=5",
+     "published": "2026-11-18T16:36:00.000Z"
     },
     {
-     "title": "Myanmar's army-backed leader says he is reconsidering ASEAN relationship",
+     "title": "Rugby-South Africa's Wiese ruled out of Nations Championship due to suspension",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWhfMWt2Nk5ZMEE3RDJWaHdxRFlsdUtFOEdUbVJXV084QUlmajNORHN5aDNMa294SWp3TmtKSlRGaVRzUTVIb3FaMFZlXzRyMDRfeHRPQ25wdi1CU1BxNjlZZ0hwVnY3bldkYWZJdEtQcUtHUjFEaVhLSmg3VkNkMEhaTnh6andEMWtKeDdsX2dFeXBVdlZpdTRlcVJsUmdjeDFfU3dnbHJha1lrdGxITTlPcWxreVNENjRTTUxkZEo?oc=5",
-     "published": "2026-11-18T07:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFpsN3hMYjRCOHBEOEZVcEx1MV9xcFRLQzJQakhxcFJEU1lWLWJxTHpJUkJ1LWZzZ0xMSzNSOTZYSnNJM1lXQ01MNlZIbTFuN2EzSkZNVmdCWkQxaXRTcWQ0b3luNnktY1RmRFYzbEhucEk3Y3VIM1JwaTNXem1Xa2ZOdy1WcVR0a2ZzT19IQUhSeHF5T0NYWms2RkM5MlI5SDQzSkIxSVdEZGdtc2xkYnAzcUhPV2k1RWtlVkZweGJnc3kzTGl3ckJR?oc=5",
+     "published": "2026-11-18T16:30:00.000Z"
     },
     {
-     "title": "Boxing: Boxing-Former world champion Linares says he has been detained by ICE",
+     "title": "Putin, Trump to meet at APEC summit but no full-scale talks planned, Kremlin says",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbE1veE5QamREaFRSeC1TcGJqTkRaeEliWVEteW5QTF9Uc3MzdS1KWDZaMlRxZlZiVE1sWUdwdk1qQnEteUJqZko0MXdnRFZxSWVrM3NHNXU5c09TakR5S0NYYXhrUzJHNmd1VjhGWFI0TW50VlE5Mll1XzJEaXBrbG5TTFBBQkZETE5McG5FdVlrbVJXOHZYeVIyejZJN18teURETEYxaVlxMFNISVJ2R2N2UXVUWDduS3hkOQ?oc=5",
-     "published": "2026-11-18T07:06:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW1TS0xCQmdvVzBOZWIyeXczNzVBbGNkNHdFaXpKTndVbkRaZXI0cllkRVR4YjZPSTVQYzRWZTlXV0d0Nk1IN1hHdXZkVzNxdXFvWW81V0hHX0xydFQ0UFp4QXZrbVZWVjJpeXNGOThCaGpCTUdXSkdEQk9aZWVYX0NKRGxjNkdGaUpuUDJCSGJpdzZZXzVZQmhyeWVIU0RqRDYyb3g1NEdmQ2Z5MmlVVVhkTnh2aHNxRjg5TTVQSUY5RVF5QkFZ?oc=5",
+     "published": "2026-11-18T16:19:00.000Z"
     },
     {
-     "title": "Squash: Ainaa upsets Egyptian Kenzy in first round",
+     "title": "Lorry transporting endoscopic equipment catches fire outside hospital",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVlWX0xmQkt0bk8tSTdzdDRYdnJNc2I4ekFvWl8xT0IxUExRZFdxYXA0RjNXSmhwckhLSXF0OGVQNVZhRDZlVmh6dWJ1T1R4M1ByUDlaci1TVVFGNW1tVk5uSzExRWdEbW16aXlSWTBpRzI0QVhqTlN2TmRfc05PMUxERWFITVpZdTZjVUN1WDd2UkJ1NERzSw?oc=5",
-     "published": "2026-11-18T06:57:14.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3lPMUdWY1FTV3NKU19EcE5RQkY4V01OLVpNRTJnb29JZmJ1ZFF5S2ZhV0Rielk4aE5iYk1iYmpGcnd0WnA2Wl8wU0YzaW00T0UwWU9TN0JManYtSGJ0RzQ4YXg3VGJlWk5qY2Vnakp1NzdEbC1XMTNMRVlPbERySTd5SEg1ZnVFdlVQWWZzZFFfdjVXb0g2dzRLeWxPQmF1aV9sOXRyOUtsQ1E3dTJUbTVZdWFrME45U2Fj?oc=5",
+     "published": "2026-11-18T15:50:00.000Z"
     },
     {
-     "title": "Two killed in two-car crash in Rengit",
+     "title": "IAEA chief says planned US-Saudi nuclear deal 'very satisfactory' on inspections",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ1dKR1B5cUxWWFdGNVJRSm91SFlxMG1POVdnOTZtRFAzakpNS0pUR2o2ek51MFRYdDM2bGtWeGMtLVl3SzJRbzZFV3pxeGF4ajlJMmVwY215X09kem1sNl9FNDJMaC1JaE1XMHFSMlpYeUQ5NEpoNkd1V25zbElzRGJTbTY0YW9qU0ZxR190djQ?oc=5",
-     "published": "2026-11-18T06:54:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDBPbm55ajdGYUhIZGFMVTV0SEplQkdON3RaY2ZlZjRqcjR0MEFSVDNUazdKVWtCTl9sU1BOMEFHNXM3SjJrV2NMd05KWldNVldCbGFoT1FnZ25kbVJfREJPQkh5VWF5WjRlOGZ4ejAxdE41UXUwek5XNUhIeWRmSTJ5dHNJVmc3NFlwMi1idXY1WVY3WHpkUGdLblE0d0NLWmRFNi1WR1JfWEV3MmVhUGJ2UDNIa19WcTdiczFlNG9sczZuYVJQRG1XNi1NZw?oc=5",
+     "published": "2026-11-18T15:20:00.000Z"
     }
    ]
   }
