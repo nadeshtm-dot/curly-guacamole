@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-17T17:31:24.476Z",
+ "updated": "2026-11-18T00:50:57.091Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Ecuadorian fishermen sue US over mysterious boat strike",
-     "brief": "Ecuadorian fishermen have filed a lawsuit against the US government over a mysterious attack against their boat involving small, explosive-laden rotor drones, their lawyer Jorge Chiriboga Dávalos announced Tuesday.",
-     "link": "https://www.cnn.com/2026/11/17/americas/ecuador-boat-strike-lawsuit-latam-intl",
-     "published": "2026-11-17T17:31:24.698Z"
+     "title": "ICE detains former Venezuelan boxing champion Jorge Linares in Texas",
+     "brief": "Former Venezuelan boxing champion Jorge Linares is in the custody of US Immigration and Customs Enforcement after immigration authorities detained him Sunday in El Paso, Texas, according to Linares and his legal counsel.",
+     "link": "https://www.cnn.com/2026/11/17/us/jorge-linares-venezuelan-boxer-detained",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "Jensen Huang says he would be ‘honored’ to be reinstated as Nvidia CEO in new statement",
-     "brief": "Former Nvidia CEO Jensen Huang, who abruptly stepped down last week after a scandal involving extramarital affairs, said Tuesday he would be “honored” to return to the role if the board were to allow it.",
-     "link": "https://www.cnn.com/2026/11/17/business/jensen-huang-nvidia-ceo-statement",
-     "published": "2026-11-17T17:30:24.684Z"
+     "title": "White House drops Trump’s FDA pick ahead of confirmation vote",
+     "brief": "The White House is dropping Dr.",
+     "link": "https://www.cnn.com/2026/11/17/politics/heidi-overton-white-house-drops-nomination-fda",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "Families reach last-minute agreement over disputed $180M Van Gogh sale",
-     "brief": "An agreement between the current owners and Jewish heirs of a previous owner of a Vincent van Gogh painting has been reached just a day ahead of a blockbuster auction where the painting is estimated to fetch $180…",
-     "link": "https://www.cnn.com/2026/11/17/style/van-gogh-nazi-auction-sothebys",
-     "published": "2026-11-17T17:29:24.669Z"
+     "title": "Exclusive: Highly classified US national security communications network goes down, sources say",
+     "brief": "The highly classified network that the National Security Agency uses for its internal communications is down, according to six people familiar with the matter.",
+     "link": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "Several people injured after turbulence on flight headed to Florida, officials say",
-     "brief": "Several JetBlue passengers and crew members suffered injuries Tuesday morning after their flight encountered turbulence en route to Fort Lauderdale-Hollywood International Airport in Florida, officials said.",
-     "link": "https://www.cnn.com/2026/11/17/us/jetblue-turbulence-flight-fort-lauderdale",
-     "published": "2026-11-17T17:28:24.690Z"
+     "title": "‘Human’ revealed as Cambridge Dictionary Word of the Year for 2026",
+     "brief": "Amid the global debate surrounding artificial intelligence, Cambridge Dictionary has named “human” as its Word of the Year for 2026.",
+     "link": "https://www.cnn.com/2026/11/17/world/human-cambridge-word-of-year-scli-intl",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "‘I tell it like it is’: Pope Leo talks cancer diagnosis, married priests and being hit in the face with a rosary",
-     "brief": "Pope Leo said his faith in democracy is what makes him an American, as he gave wide-ranging remarks that touched on his cancer diagnosis, church doctrine and the question of married priests on board the papal plane…",
-     "link": "https://www.cnn.com/2026/11/17/world/pope-leo-democracy-american-intl",
-     "published": "2026-11-17T17:27:24.694Z"
+     "title": "Waymo pauses all US freeway operations of its self-driving cars after California ban",
+     "brief": "Waymo is temporarily pausing driverless rides on freeways in all its markets after California’s Department of Motor Vehicles said Tuesday that its self-driving vehicles can’t use state freeways for now, citing safety…",
+     "link": "https://www.cnn.com/2026/11/17/us/california-waymo-ban-freeways",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "Social media algorithms are encouraging Americans to freak out about the tech outages",
-     "brief": "How do seemingly ordinary tech snafus become ominous signs of impending societal collapse?",
-     "link": "https://www.cnn.com/2026/11/17/media/tech-outages-microsoft-faa-united-blackout-social-media",
-     "published": "2026-11-17T17:26:24.680Z"
+     "title": "Markwayne Mullin faces scrutiny as administration grapples with unsettling tech outages",
+     "brief": "Homeland Security Secretary Markwayne Mullin is facing renewed scrutiny as one of the faces of the government’s uneven response to Friday’s ground stop , multiple tech outages and potential threats that have…",
+     "link": "https://www.cnn.com/2026/11/17/politics/markwayne-mullin-faa-tech-outages",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "The wild world of modern penis enlargement",
-     "brief": "When Daniel Lombroso set about making “Manhood,” a documentary film tracing the meteoric rise of a new penile girth enhancement product in the US, he wasn’t sure if men would want to talk.",
-     "link": "https://www.cnn.com/2026/11/17/style/manhood-documentary-penis-filler",
-     "published": "2026-11-17T17:25:24.664Z"
+     "title": "Nvidia rules out Jensen Huang’s return as CEO, tells investors ‘we’ve got this’",
+     "brief": "Nvidia’s board unanimously accepted former CEO Jensen Huang’s resignation and does not intend to reinstate him as chief executive, board chair Harvey Jones said at the start of the company’s earnings call Tuesday night.",
+     "link": "https://www.cnn.com/2026/11/17/tech/nvidia-earnings-jensen-huang-exit",
+     "published": "2026-11-17T12:00:00.000Z"
     },
     {
-     "title": "Trump administration dismisses crisis fears after string of disruptive tech outages",
-     "brief": "Top officials from the Trump administration sought to reassure Americans and dismiss fears of a possible crisis after a string of major tech and infrastructure failures disrupted travel, business, and banking for…",
-     "link": "https://www.cnn.com/2026/11/17/politics/vance-mullin-infrastructure-crisis-fears-intl-hnk",
-     "published": "2026-11-17T17:24:24.700Z"
+     "title": "Suspect faces federal charges after explosive device found at Illinois ethanol plant",
+     "brief": "A suspect faces federal charges in connection with an explosive device found Friday at a central Illinois ethanol plant, according to a law enforcement official and an indictment in the case.",
+     "link": "https://www.cnn.com/2026/11/16/us/illinois-ethanol-plant-explosive-arrest",
+     "published": "2026-11-16T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Russian military transport An-12 aircraft crashes, all 17 on board killed: media",
+     "title": "US bankruptcy judge approves Spirit Airlines data sale to Google",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDBkSWxZWlE4VE9wRDNuaEpVTWFZRG5zQnI0dkxLQi1VU3FSOC13TThkdjhYZHRCSnZFNDJBMzJtVU9scWRseURKdU1NM3FpcUtHdlpMUHp0TXl0M1pFR2JadTNYMDJxWjNxeFFFSnFKalZKejlTWWRXRkVlMWFQQzQyTnhhTEJVbDdKSTBGbHpHNDJGbWlxcjRFY1I1MHNwNEdOT1o0TzBlbHEtZnI1UU5XVC1pZjFNdFdqZGxWc05LS2NwQXc?oc=5",
-     "published": "2026-11-17T16:55:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMjFyTFFMQjljMG1sVnlCQnhqblRqbVNscmRQTmNrUXVvYjBRNEtCOUR2dl9HMWZfcmxQVDg5UHdyeEpQcXFsd2lfblBJXzl4WVh5RDBRb3VfdldCRFJjMTltN2ZTam4zTlZqU0ZTeUg4bmhWd2NqbDRjcnVZOUZVTDYzcG5NTENYMEZTdTFzejk5TzVDRDAzOWdBS0NodjJvUU9FdmlFTm1vVXJBNDl4S3dKbkQ4ZDlq?oc=5",
+     "published": "2026-11-18T00:39:00.000Z"
     },
     {
-     "title": "Cricket-Head, Starc among players released before IPL 2027 auction",
+     "title": "Econpile bags building project worth RM21mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0ItalA2TDNvakR1aUYxRUFzYjMxLTBhZV9ZMTNhMzlLLWxJdzBCWUVlREthNmZBaE5yRGJodE9tVEd0NElDYlVRaWVpTE5WalVCdmlWbFdhLXdlUEpaMVdrQl84ODZfYmhCSG5HeDd2WThjZXRadGloRVlGRGUteEN4VXhtSXJBQmxPNnl3ZWpzUy1VRjJZd2pWS1hKcFl4T3hFR2hBaEppV0Qyc2E0UkltSUFZRTFs?oc=5",
-     "published": "2026-11-17T16:37:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVmppZkt2emQ2RWJ5N2RTTldLVWVmU1BQMHBHUXBnLUh2M2U1cUlXRjBlS0FVYVRFSkdQbnZndzNuWE9wM0lHZUstSENTZ3VSY2lTbkJWRHRIUW9CUGJRVWlTempjalBPYnVKMmRfc2hRc2NHcHVXQ1Joa3JnR0ZBU1VLSGY0S1RRZTZGRzU1QlJVSlYzaS0wQmVsRnNtSEllUTRWaGtWVEk?oc=5",
+     "published": "2026-11-18T00:24:57.000Z"
     },
     {
-     "title": "Ghanaian president commissions new cashew processing factory for enhanced value retention",
+     "title": "Where the Bronx rocks the class",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc0lCTVR5dlFJTWw1aVZaSFM3dHp6UVcwekN2R2NaOGJiSHZqS3NRaTlFcGtpMm1UX0FJWHJhM3h4YU9hSm4xTzB5R3ZEcmtMMXZpMVhhTzhtYXZmQzdSa0U4T25saU9Fam9aTGp1U3ZCQ0ROZ3UtNFlkRzNYdk1NUlJyMElIbGVsR2ctU28yLUktSUFTekpvRGstM2F5ZVFoaU1VS1RsQVJZc1NjV19oLVlkcTRjUGU3Y0NCRlJ5VkMtVWNXQnNCakNXUVpuYTVxMHg2NA?oc=5",
-     "published": "2026-11-17T16:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQ1FYLUZmUC1vN2xSNFd1Z0lpWlpzRWFnd05XelVqOWVTUGZaOXVtS3UzbU1XMzJ6cEtUWGQ4MDNvUUUxS2FtdkV1Z0g1bUJGYWkxN1QtY25fMjgwdHB3SFlFdnc4ZkRiVllpOWN4NzJ2bWNCVlNraDd1dmtqZ2x5S21VZzNYVGs?oc=5",
+     "published": "2026-11-18T00:22:28.000Z"
     },
     {
-     "title": "Kyrgyzstan's banking sector assets grow 17.7 pct in first 9 months",
+     "title": "TWL Holdings in RM26mil Wisma TWL buy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkE0X1lYX3hlRW5oaXdaTVJYVlBIUFUtcUtyYWEwOHJsamJmM3FVcEZma0NpSGZaSjgzd3N2TndFSHJXMmtjcFY5WmdiNlFtQmVSTDFyZnZDUG1QRkg5NkQ4Sm0zd1NiREdSUXV3QUNRMlFUZGZZSV9rVTVodmxUUFBYb2lRRnN2eEVhcU01UWRKOFZHTk5idzAxc01hMTZ2ZUNQTW9UUElfVkdjMXZiTThlUEhCOXc?oc=5",
-     "published": "2026-11-17T16:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNm55eUdBY2JQNktrWVlqVUZFQzNCR05XM0tGX3R2RW00MUpXWDlkWHdOYnZXV05jV183Q29oSkYzNWd1SkxuV2RTbFBCeGx4dHM4UTczdkppZUFSUVB6YTU2dllnRktHWHJLX3NtaElwNVRFd1ROaG1ZTmVEbEx4TUR3eFVzb1ZWeUVmQ2d3NHozZXN4c2JKVkhETVdUcjQ?oc=5",
+     "published": "2026-11-18T00:19:05.000Z"
     },
     {
-     "title": "US loses measles elimination status after nearly three decades",
+     "title": "Steel Hawk bags RM59.2mil EPCC contract",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPenotZnZmRDBnNUc2ZWJwVDUzeW1FcjNLandXYzBlRWNMTkNWd09yQldtdjc4ckZQMnJZRlJTMklyTmI1cm4tcjZwOThuMXJmUjZSVjl4aFd2bC1rRlpuUmx6alkyM05FQ1h6LW5ReE5DTFVpM2t6VGhNQTQ4U1VFYVhPWllBM0tCU1lSN2tsb1NCUFE4d0Z3VTFsYThQcnNLQU5jZHpibHN3LTd5bWc4dg?oc=5",
-     "published": "2026-11-17T16:24:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWFkyTy00ZzFvSFpfb003SHZYQXRSOGQ2RDBXbXVMaks0eUZsSG9nMzc1UDNYRkZDSXpXMUU1ckgzWVJrTDFYRkxkcElxYTdsSVdvbi1LSThmSHhxaTVKVGVuTFA0WW1oVzR3N21VekpnM3k0YzVQY1lBczl4VXk2U2ROYzFkWmxsRkZPU0FxLUdzdXd3dk1VMTF4UWxuU2lV?oc=5",
+     "published": "2026-11-18T00:19:05.000Z"
     },
     {
-     "title": "Brunei's Sultan arrives in Shenzhen for APEC meeting",
+     "title": "AirAsia, MAHB in debt repayment talks",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMTJVUXhvR0h5bWZGZ1dDbU9wWmZsaUYtSTcybTdEYVZLZWdvd3ctejJRN2pad0psLUZfMnN4Tnh6N3RMUHUtQmduMTN6bi14WFZpQjIwLW9sUU1IWmJRWmNveEJiVEtwTGNIb0FXTmhPcFdGdUxQMzZCS3RLeDViT3F2UUg5MV9NVkhpbC1IejJKdWpVN2hXck05aHR5a1Vwck04aTVR?oc=5",
-     "published": "2026-11-17T16:21:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmd4UGsyZnRSY2VIZW5MazNPbFNYaUpBY1JaaXVlOExHTE9IRFZEckN5MXdBTVhtUXZRUUxoUlFqVnRtbjYxZmlaT3p1TW5lUTNNUU02SElIOWVqeWpNTzZLZWlZNmpzMm16MWVfVTJNNmpfRnNhaWVzOUNjanJLakkyVnpEYl9rRXB0bEZ4OFhIUHlNY1YyemlPX3o5UQ?oc=5",
+     "published": "2026-11-18T00:13:59.000Z"
     },
     {
-     "title": "Football: Soccer-Senegal seal qualification for 2027 Africa Cup of Nations",
+     "title": "A dose of transparency",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbDc4SkFuOTg3UVBHYklUeElWbFc3QUJ4bnNWRlF2b19xYmlydVZOR0RyTTN4NmRBNmZ6MUd1dzc5cG9MSzRkTHBGY0NSWUVLLWRqalpBQ2NiODR4TW5xejJwRnlOcTMyc2VsY1ZIUW1zWG9KX3dtcDJselRGR2tyY0U3S2VKNjFFN1puTjM2NEZLeVZfU3BrQU9ENjUzY2xFWEpQREwyQzZBbWVpQllNQUtOaENUaXQy?oc=5",
-     "published": "2026-11-17T15:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9LbF9OaUdoWE0wczdxQnMzbkJ1RkNMUzR0NUdDZEhhSzJXaDU4SWFXbEh4R2Jna2U5T291MHVjd00wZTlBSzJ3Y2N0Sm90YmNoUXhzbmpKcXpGWVFZSmV4RXRiNzVpR0VmcFVFMkVueU5TSGMta3RzYmRJZnI?oc=5",
+     "published": "2026-11-18T00:11:15.000Z"
     },
     {
-     "title": "Highly classified US national security communications network is down, CNN reports",
+     "title": "Van crash leaves one police officer dead, 10 others injured",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc0o0bjRXNGUxWUZxbE9ZUVlobjlZYlZxbWhnc2ZtNlp6S2FHS3hISFRFQllJNVYxeURDdU5tUFJ5a0laYzQzZFYtWFJXclZ4WTBfekJiT3VNb2h1QWhMYVBhS3BOYmxTd011RHVxZEUySWV2X0hQZGJqaFJHN0dWWXg4MjJQVXY0R1pqbkp6RVRxWjhtZTVLdFB1d1ZFNFJrN0RKSzltR2xEdklvUEVHTkt1RjlGNEM4MmFyWThURUZoeHNCSk5PXzc2Sl9rV0k?oc=5",
-     "published": "2026-11-17T15:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUJmZFNCUVJMLUtYVmxJZm9PZjNybHJpOFpQNzVVMlVRUHJqMzczeE9NczlYcmp6SHp3RnhVaEJJNGpUTmJxajFyM0JLdl94VDBOZUg5S0VabkctVi1Ndk04aUIxeW1wYTY2amxwd2FWY3poUzVNM21zQkw0aUZHTFIxTFpNbTROWjZTVGFteUg2Z0tjOVhEay10WkQ2dTdMWVIxNjVTS2xVRnVt?oc=5",
+     "published": "2026-11-18T00:10:28.000Z"
     }
    ]
   }
