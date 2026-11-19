@@ -1,14 +1,26 @@
 {
- "updated": "2026-11-19T00:09:09.849Z",
+ "updated": "2026-11-19T08:34:55.392Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
-     "brief": "Anthropic said Wednesday it plans to sell shares in its initial public offering at an even higher price than expected, aiming for the largest stock market debut of all time.",
-     "link": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock",
+     "title": "Why Big Tech could be a big boogeyman in 2028",
+     "brief": "President Donald Trump came into office 22 months ago previewing an alliance with Big Tech that seemed primed to recast the future of American politics .",
+     "link": "https://www.cnn.com/2026/11/19/politics/big-tech-political-boogeyman-2028",
+     "published": "2026-11-19T08:34:55.591Z"
+    },
+    {
+     "title": "Intense flooding slams Florida in developing storm that could snarl early Thanksgiving travel on the East Coast",
+     "brief": "Torrential rainfall shut down roads, flooded homes and forced high-water rescues in southeast Florida overnight Tuesday and into Wednesday as a multiday flood threat unfolds along the state’s Atlantic coast.",
+     "link": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
+     "published": "2026-11-18T12:00:00.000Z"
+    },
+    {
+     "title": "NSA outage hits key facility for Middle East intel operations as agency resorts to workarounds, sources say",
+     "brief": "The sweeping IT disruptions that have kept large swaths of the National Security Agency’s workforce at home for the past two days also impacted operations at a critical Georgia facility that supports signals…",
+     "link": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence",
      "published": "2026-11-18T12:00:00.000Z"
     },
     {
@@ -18,40 +30,28 @@
      "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Vincent van Gogh painting sells for $190 million, smashing auction record",
-     "brief": "Just days ago, the sale of a vibrant Vincent van Gogh masterwork painted at the end of the artist’s life was thrown into chaos after heirs of a previous owner claimed it was sold “under duress” amid Nazi persecution.",
-     "link": "https://www.cnn.com/2026/11/18/style/vincent-van-gogh-painting-auction-record",
+     "title": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
+     "brief": "Anthropic said Wednesday it is selling shares in its initial public offering at an even higher price than previously marketed, setting it up for the largest Wall Street debut of all time.",
+     "link": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock",
      "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say",
-     "brief": "The sweeping IT disruptions that have kept large swaths of the National Security Agency’s workforce at home for the past two days also impacted operations at a critical Georgia facility that supports signals…",
-     "link": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence",
+     "title": "Bridge connecting Russia to occupied Crimea has been hit again",
+     "brief": "The strategic Kerch Bridge , which connects Russia to the occupied Crimean Peninsula, has come under attack again, according to the Moscow-backed Crimea governor Sergei Aksyonov, soon after a part of it collapsed in…",
+     "link": "https://www.cnn.com/2026/11/18/europe/crimea-russia-bridge-ukraine-kerch-latam-intl",
      "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Prince Harry says he’d return to the military to face Russia if needed",
-     "brief": "Britain’s Prince Harry offered a veiled criticism of the US government’s policy toward Ukraine , saying in an interview released late Wednesday that he believes there is a “big separation” between the Trump…",
-     "link": "https://www.cnn.com/2026/11/18/uk/prince-harry-russia-ukraine-latam-intl",
+     "title": "The Trump team’s messaging problems on tech outages, broken down",
+     "brief": "Two weeks after the GOP’s shellacking in the 2026 midterm elections, the Trump administration is embroiled in a crisis that it has often made worse with its messaging.",
+     "link": "https://www.cnn.com/2026/11/18/politics/trump-tech-outages-response-messaging",
      "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "72-year-old Palestinian woman shot and killed by Israeli settlers near newly established outpost",
-     "brief": "A 72-year-old Palestinian woman was shot and killed by Israeli settlers in front of her home in the occupied West Bank on Tuesday, according to Palestinian officials and eyewitnesses.",
-     "link": "https://www.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl",
+     "title": "Russian arrested on charges he spied on and harassed employees of defense tech company Palantir",
+     "brief": "A Russian man was arrested in the US and charged in October with stalking and harassing employees of the defense tech giant Palantir because of its assistance to Ukraine in the war with Russia, two sources familiar…",
+     "link": "https://www.cnn.com/2026/11/18/politics/russian-arrested-charges-spied-palantir",
      "published": "2026-11-18T12:00:00.000Z"
-    },
-    {
-     "title": "Mullin defends flight as he bears brunt of lawmakers’ ire during threats hearing",
-     "brief": "After an intense week of widespread tech outages and the news of Iran’s plotting to detonate a dirty bomb in Washington, DC, lawmakers pressed top security officials to reassure concerned Americans that there is no…",
-     "link": "https://www.cnn.com/2026/11/18/politics/markwayne-mullin-tech-outage-threats-hearing",
-     "published": "2026-11-18T12:00:00.000Z"
-    },
-    {
-     "title": "Fiona, the famous hippo of Cincinnati Zoo, seen walking in new video while under medical care for eating knit cap",
-     "brief": "New video Wednesday showed Fiona the hippo walking around her Cincinnati Zoo pen, grunting and flapping her ears days after the zoo says she ate a knit cap that accidentally landed in her habitat, necessitating…",
-     "link": "https://www.cnn.com/2026/11/17/us/fiona-hippo-eats-hat-cincinnati-zoo",
-     "published": "2026-11-17T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Dutch Lady quarterly net profit rises 26.2%, declares 40 sen dividend",
+     "title": "South Korea Supreme Court overturns 15-year jail term for former PM Han",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3Y2VVE3V19FTmNuaVRNd3Yzb05yaGxOeWRoUHFpeENnNF84TFdEbE5iaThpRWxqRVpnbzhadkZOQ0ZnVTFDT2xlUFI0VWxXYlcxQjhlY29rRnpFLThXTi1nTkpoZHFNQU1tLUdJSy1kbEh1VUdwUWFWZWVTcjFjdW44SlBRQVplZGFPLVUyMkU2MVJTZnhlcENLQU9RUGNic2lkU1dPYkpjLUd6ZG5yZnlaRlRrTHZCRFJPU2J6QVJXVGpOc2c?oc=5",
-     "published": "2026-11-19T00:04:58.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOakxOMUpkM1pzd0FkRV80VTY2czZJT3htaXhTSFVlbEJUYmNnck9LRnk4SzBrVFpxZC1FamlkdHpVV3NVRzJoNnRkN1hzR3BfVl95dHpmSEtLajh0X2VUTUdGOWZDWkdPNVp1MUIxMklPRWRMRkdsRmYwTlcwdHh6YTRZMzUxWnVZaVpjSzktZkJrVUJzazJCT0pyOEtOVHlkczJEamVsaXNSV2lWTkVuQjJTLU1WbjZkbWJfOA?oc=5",
+     "published": "2026-11-19T08:28:00.000Z"
     },
     {
-     "title": "Kossan Rubber’s third-quarter net profit jumps to RM87.41mil",
+     "title": "South Korea's Supreme Court upholds 4-year jail term for ex-first lady Kim",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYi1pSVNhNXU4MzVIU04wcVZ1Zk5UMmZuM29BSzlWSV9YZnNrYW9Jam1QVU1LWngwRTRLdVB1enVpVnRNc2NVbGpOa1JTeGsyVGladHhhVl90QmFLYmcxQkZvV2cxN0REektkTE0xRVJwaXIybUNPeXhlWUZ5VVlIZExsWnAza25zSDRTTHlVSkZIX19LLVg2WGd2SktJRmx0X3c5STBIRGs2OFZkZWxOSUptNzNWOWp6WVdB?oc=5",
-     "published": "2026-11-18T23:57:12.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRFhBc0s1R0o5UXVaT3ZISmxueTR4VGVrZkJ2dWczMUswWVdMV0FlbEdBR1lqVnlxREVBd3dzbmVsc0RtUjBDN3F0UG9aWm4zWlBNVThQVUN1NUo4d2ZXNXZyYWp3LXljUHBtdmJnTE9Pd3R1VngxdU5zVEdtYnhic09JUWlYSXVjOFRKdDg5X1JjazNYUnFkdksxV3dianJvNWwxVHdZWnU5NEpUVmhmUzRZSENyWG9ySFQ0U01rYkd4UTA?oc=5",
+     "published": "2026-11-19T07:38:00.000Z"
     },
     {
-     "title": "Palo Alto to buy AI startup Applied Compute for $4.5 billion",
+     "title": "Early warning system to be tested on Nov 23 & 29, says Fahmi",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHd4ZlRYRS1ybjFWcGRJSE1mLTIyelJ0SU5JcnI4am5aZlBNbWpnMVg5UkNXcWM0RU5KNmpBS2kweUduRFZMbDIyVkZkYXJ6ZEh6dVVUdnY0OVhtdVdsNFFpYy1VdUhyVUxNRjZjd0xTWEs5ZWlMR3dkakh1RmNPR2JJVlpyOGVJcUdmOV9pMzAydk5xUzd1OUNITkRQaGZ3MGJyVWlFeXJZRnBHT2Jxdw?oc=5",
-     "published": "2026-11-18T23:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdTdFYS1MajFDS19TWnJLblBmVEQ3SzNjUUVIMGdTWF9QTDdFYjJCQnU1WXFrZkZadVVtSk5TSmpITFNPUHVIamtyRFdFeWo4VEI3ZXBBMkVCbllxYjN1YXdJMDlUQUlDZ1pfbHVfODE3MHFBd1NzVFozUnBBbGxwek00MTU2TWR2WVc1U0NKaFctcEk3RUdsbzFaa2cwNVlRdjYxV2JUa0gtTjF5?oc=5",
+     "published": "2026-11-19T07:34:00.000Z"
     },
     {
-     "title": "Infratil optimistic about long-term demand for DCs",
+     "title": "Motorsport: Motor racing-Norris casts Russell as F1's Bond candidate",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGEweXg3LXJxNVFxTkNVV2hIRm5BVjdUX2wyUmVONERvT0NyZDhjeEp2Zjc3aDB2ZWg0NkFpd25zdG95ZFpFX3hBVGNKeGhZdTJacC02SWNzTkV6UE5PUFVqaGlmZU5yYnlQekVSZ0s4LTlpM0lFNUYyZDI4NXdjMzd1QXl3VGUzenVhYlA3RTNiZXBnNFJFem1UVS1QTnJ0YlNTNzRoUWhQdlliWGVoag?oc=5",
-     "published": "2026-11-18T23:41:29.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbDdKUU9uSl84bHBYZVRKUS1jQXZXdnBXa2V3N0RsMjZpWVJiY1Qxd3RDUFdNUjItQ2J6clBWM2dNQ241a2x2ZkVpRlR2U25jZFhIcDRGX0oteDNuUDFnVGd3eWZYN1BkeFpnQlFNb2dydEVaeDNmdjZ0MHBja3dlQVRKVXJMOXJGQjk2X1NTYlpLZ0hYMXExMUo4Ujd0MXZvVTU5NThGS2pjMEZzaWxDWGlSUQ?oc=5",
+     "published": "2026-11-19T07:32:00.000Z"
     },
     {
-     "title": "Asean-S. Korea chip ties vital for growth: Prabowo",
+     "title": "Japan's position on Taiwan has not changed, says Takaichi",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW1CWlg5SHFHd2RpVDVYNmt5MjJLXzJRQXgzRGdBTEFJeVRibXlBNDJiQTkyVnR6RGhvSDBmX0s0M1NlVFczTnJvUjcwbjFsR1ZaX2lwOW5kclBBYVNUeWJsWi1qbldZRjlyU0FmQmU0MzVfaXZleU9ITTMwSHBUaXhYZ2RzYTU2SkdGYUhSXzk0OG5LYldITmdZX1ZYNkFiN2k3UXZsNEpsWEhDa2c?oc=5",
-     "published": "2026-11-18T23:29:50.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWDhCSXNZRmdPYWhMR0FLdnVwYzB3Z3g0cTdkYXRqM2M0N0NxRXR3UmFtOWItLUJOYlUxcnJ3WFg4eEwybVhSS3lWTjNQeWstQmxRbzFMOHJLdGJ4MUY5WjVubmx5SUJrakZqOU5SMy1sUzZLeUFhUFd3OFNlNFp1TS0xYnhBMHNvV2F2NHdYU0lhX1VkRWJhS2tpOEFCd1lkYVd2bXl2Zl8wbk9fd0JUczNER2RXVERPb0dpemh3?oc=5",
+     "published": "2026-11-19T07:18:00.000Z"
     },
     {
-     "title": "Golf: Jing Xuen faces uphill battle to keep European dream alive",
+     "title": "62-year-old Indonesian farm caretaker drowns after boat capsizes in Mersing",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJ2WjdUaldwQ242azhBUVlScFd5QzNUWHMtR1VtYTVLME9ZWEhJUzNPX08ydHpkT25oN0tEVFpGX3NONmRBWUhtcU5HMEh2dGptdC1pLVBocUNWbmFWS3JFTjZPY0VQUFE2ZWx3ZWs5cTVaYW5DakU5SWZKR25BZDBkalFWTWpaUUdUTU5tbTNXSlVWeXZfcGs2NEZtSVR4b20wWlV4ZXlQaHc?oc=5",
-     "published": "2026-11-18T23:18:52.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFMwR3JxZGdGYVNseV96RUhKYmdrOTltM0toX3JXazJNNTdDMmVOWnN0eVkzWjZ6Nzd5ZE5VRGpVZGtPY05DaTI0VHhDdXp0SGNyaDJjWVphdVNHZkFlVGI4b1JJbTRXQzZkRy1wSmUzNDlmaDJvN1NvQjVueUZCdnpISlNXR0FxSHJUMG5XTVNnd05IUHpsUlh1SUFlVndrNTBGWWh2dTNpWjNBZDdoYVpuY3ZCaFNQQUJfbDBlaVNmQTg?oc=5",
+     "published": "2026-11-19T07:13:00.000Z"
     },
     {
-     "title": "Other Sports: Team events axed, leaving 2027 SEA Games shorn of tradition",
+     "title": "Suspect killed in Chow Kit shootout used stolen taxi to rob elderly men, foreign women",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHo3ZEl6WE1CTlRoOEhoUUxZU1JvX01yUzhDQkZDYnllQ0hjVngwa1AzZ1pGOGVCeUY0YXVqOHE1YW81bk54RmJMa2lDVGZ6YWpyeGZURldhSXpoYVQ2NUNFYS0tUjhrOUJLWllRRm9ReW92Umdial9Hd3lxNUhyWUhydmNEVlZDQlZEcDNmUjZIUnctYW9zTktWb2J2N2tTZHg4Mk1tQUVUT0tPWFE?oc=5",
-     "published": "2026-11-18T23:14:38.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM05SaTRYdFk5ZWEyWEhtTnJlb1l1bjN1cDJIX1hUZmRMYzJ3allTWDllTEw0Zk5weENnTlo4OGJsZENUc3dWRkxJRXZvMmNYYWUydXg5dlVBY193WldxRzI1Y3EtXzE1WVNsOFRGNTZOUUV0N3BlSDRncVFTSHRacnRTM3N5M2JRMDUyOWVWdEJLc1diX2hlb3MtaVROZ1BGeXRvcXNtNXNTYTJWbUt3MTZkYXRNSjdFSlVKX0tLZEVjNENNUjBlZjZvRlV4T1pk?oc=5",
+     "published": "2026-11-19T06:54:00.000Z"
     },
     {
-     "title": "Other Sports: Fourteen-year-old wins three titles in Ballarat, including U-17 singles crown",
+     "title": "Other Sports: Hafizuddin loses right arm in crash, but MWF support possible coaching future",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDV3aFVZaXlpVWdmSUMxQnlFS1h4LS1aaURKQ0Flbll5T0J2b3lqanJUX1kzNkpIeWFOck5ndERydGtLa3VQN3l3VGJIaEw0YkhXV1gzNUtRWFJHWktIamRkN3BDTGhOVDRrZGZWbG1kc3ZNSmx3dG1nZXB3WndKWnBYNFlHM01TMHNtZ3JUem9GZUZUNWNXWGtJSFV4cHZKRFNIR1BNa2dQVFk4VTFtenBzZjN2M0ZfMjRKZk9qU1pBRXRVN1E?oc=5",
-     "published": "2026-11-18T23:14:08.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUHJ4WC12aVNtRWtHTDJiclM1dG0zQS10cTN1Z0RrYVNFeGp0ZDhWbGMyWElVR0M0RzJuS2Z4Y1VndGNRbjNKSE40S3dxVWFkVEhjcnAtQ2cxRGRMQURNTXFvZlFsOHBLcFR2alp1QkpyYzdxbXlkSndjaUg4ajV6ZTcyM1ZNc05McXBlbmpScGFVNkhOeVpYRS1uZGpXcmUtY3ZnbG12aFNXeXMxQTNTVUJQNkV2dkktRmEzRDhBaFFaVDE2Z2c?oc=5",
+     "published": "2026-11-19T06:42:35.000Z"
     }
    ]
   }
