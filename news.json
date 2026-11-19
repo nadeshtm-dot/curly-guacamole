@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-18T17:55:00.231Z",
+ "updated": "2026-11-19T00:09:09.849Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Hakeem Jeffries overwhelmingly wins House speaker nomination despite threats from ultra-progressives",
-     "brief": "Hakeem Jeffries is now all but certain to lead the House next January, a role that will make him the first Black speaker in US history as he oversees Democrats’ largest majority in years.",
-     "link": "https://www.cnn.com/2026/11/18/politics/hakeem-jeffries-house-democrats-leadership-elections",
-     "published": "2026-11-18T17:55:00.369Z"
+     "title": "Anthropic’s $83 IPO price puts it on track for a record-breaking debut on Wall Street. Here’s what it means",
+     "brief": "Anthropic said Wednesday it plans to sell shares in its initial public offering at an even higher price than expected, aiming for the largest stock market debut of all time.",
+     "link": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-price-stock",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Intense flooding slams Florida from a developing storm that could snarl early Thanksgiving travel on the East Coast",
-     "brief": "Torrential rainfall and severe flooding shut down roads, gushed into homes and forced high-water rescues in southeast Florida overnight as a multiday flood threat unfolds along the state’s Atlantic coast.",
-     "link": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
-     "published": "2026-11-18T17:54:00.421Z"
+     "title": "Exclusive: ‘There was no monitoring.’ Sources say FAA had little oversight of work that led to nationwide ground stop",
+     "brief": "On the morning of last week’s historic nationwide ground stop , an FAA technician escorted a private contractor from L3Harris into a remote radio communications site for air traffic control centers in south Arkansas,…",
+     "link": "https://www.cnn.com/2026/11/18/politics/faa-contractor-oversight-ground-stop",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Why SNL’s ‘Sister’ sketch hit a nerve about the reality of caregiving",
-     "brief": "On “Saturday Night Live,” a pre-recorded segment called “ Sister ” hit too close to home for some, and others say the segment helped them finally feel seen.",
-     "link": "https://www.cnn.com/2026/11/18/health/snl-sister-caregiver-wellness",
-     "published": "2026-11-18T17:53:00.412Z"
+     "title": "Vincent van Gogh painting sells for $190 million, smashing auction record",
+     "brief": "Just days ago, the sale of a vibrant Vincent van Gogh masterwork painted at the end of the artist’s life was thrown into chaos after heirs of a previous owner claimed it was sold “under duress” amid Nazi persecution.",
+     "link": "https://www.cnn.com/2026/11/18/style/vincent-van-gogh-painting-auction-record",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Anthropic’s Wall Street debut marks a new chapter for AI",
-     "brief": "Anthropic, the company behind the Claude AI chatbot, is expected to go public Thursday in what could be the largest stock market debut of all time.",
-     "link": "https://www.cnn.com/2026/11/18/investing/anthropic-ipo-wall-street-ai",
-     "published": "2026-11-18T17:52:00.425Z"
+     "title": "NSA outage disrupts key intel hub that supports Middle East intelligence and operations, sources say",
+     "brief": "The sweeping IT disruptions that have kept large swaths of the National Security Agency’s workforce at home for the past two days also impacted operations at a critical Georgia facility that supports signals…",
+     "link": "https://www.cnn.com/2026/11/18/politics/nsa-outage-disrupts-georgia-intel-hub-middle-east-intelligence",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "For this Taylor Swift superfan, the blind love era is over",
-     "brief": "When Zachary Hourihane met Taylor Swift at the age of 17, he cried so hard he stained her dress.",
-     "link": "https://www.cnn.com/2026/11/18/entertainment/taylor-swift-swiftologist-zachary-hourihane",
-     "published": "2026-11-18T17:49:00.418Z"
+     "title": "Prince Harry says he’d return to the military to face Russia if needed",
+     "brief": "Britain’s Prince Harry offered a veiled criticism of the US government’s policy toward Ukraine , saying in an interview released late Wednesday that he believes there is a “big separation” between the Trump…",
+     "link": "https://www.cnn.com/2026/11/18/uk/prince-harry-russia-ukraine-latam-intl",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Democrats send letters to dozens of Trump officials and allies putting them on notice",
-     "brief": "Democrats are putting top officials in the Trump administration on notice as their aggressive investigative agenda takes shape ahead of the new year.",
-     "link": "https://www.cnn.com/2026/11/18/politics/democrats-letters-trump-officials",
-     "published": "2026-11-18T17:48:00.408Z"
+     "title": "72-year-old Palestinian woman shot and killed by Israeli settlers near newly established outpost",
+     "brief": "A 72-year-old Palestinian woman was shot and killed by Israeli settlers in front of her home in the occupied West Bank on Tuesday, according to Palestinian officials and eyewitnesses.",
+     "link": "https://www.cnn.com/2026/11/18/world/palestinian-woman-killed-by-israeli-settlers-latam-intl",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Trump’s response to tech outages shows how out of touch he is",
-     "brief": "One of the biggest takeaways from Democrats’ historic rout in the 2026 midterm elections was that voters saw President Donald Trump as out of touch and uninterested in their plights.",
-     "link": "https://www.cnn.com/2026/11/17/politics/trump-2026-election-response",
-     "published": "2026-11-17T12:00:00.000Z"
+     "title": "Mullin defends flight as he bears brunt of lawmakers’ ire during threats hearing",
+     "brief": "After an intense week of widespread tech outages and the news of Iran’s plotting to detonate a dirty bomb in Washington, DC, lawmakers pressed top security officials to reassure concerned Americans that there is no…",
+     "link": "https://www.cnn.com/2026/11/18/politics/markwayne-mullin-tech-outage-threats-hearing",
+     "published": "2026-11-18T12:00:00.000Z"
     },
     {
-     "title": "Iran widens Gulf attacks after US strikes missile launch site",
-     "brief": "Iran targeted a Kuwaiti air base that hosts US forces on Wednesday, widening the scope of its attacks after the US military hit what it said was a missile launch site in Iran.",
-     "link": "https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes",
+     "title": "Fiona, the famous hippo of Cincinnati Zoo, seen walking in new video while under medical care for eating knit cap",
+     "brief": "New video Wednesday showed Fiona the hippo walking around her Cincinnati Zoo pen, grunting and flapping her ears days after the zoo says she ate a knit cap that accidentally landed in her habitat, necessitating…",
+     "link": "https://www.cnn.com/2026/11/17/us/fiona-hippo-eats-hat-cincinnati-zoo",
      "published": "2026-11-17T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Britain, EU drop 'trusted partnership' term from summit draft",
+     "title": "Dutch Lady quarterly net profit rises 26.2%, declares 40 sen dividend",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOTR4YjBQUExNYmZnMjk3RS0wdHlfQVdPbjBRejlITGNEQ0MyOTZER0phRHFodGo3UHlYNnVKWWswQ21zNVRCUDJiNTdlakM3MFRZS1JuRDh0dFpIOXIyZ2xzRDRRTTdWb1owYUU4ZlhKb2JVbFpla1BCTTM1eVluSE1XUkQwZFFwMThjMDZpZW1ueXQ1empRa3JjcTNZU2ItVmNzaWwzUkpDeGs1UzY2bXB4Zw?oc=5",
-     "published": "2026-11-18T17:38:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3Y2VVE3V19FTmNuaVRNd3Yzb05yaGxOeWRoUHFpeENnNF84TFdEbE5iaThpRWxqRVpnbzhadkZOQ0ZnVTFDT2xlUFI0VWxXYlcxQjhlY29rRnpFLThXTi1nTkpoZHFNQU1tLUdJSy1kbEh1VUdwUWFWZWVTcjFjdW44SlBRQVplZGFPLVUyMkU2MVJTZnhlcENLQU9RUGNic2lkU1dPYkpjLUd6ZG5yZnlaRlRrTHZCRFJPU2J6QVJXVGpOc2c?oc=5",
+     "published": "2026-11-19T00:04:58.000Z"
     },
     {
-     "title": "Bulgaria uncovers five-year cyberespionage operation",
+     "title": "Kossan Rubber’s third-quarter net profit jumps to RM87.41mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQenBXVVNHSy1PTFR1QXdqdjExaDhVZU9oTzlWbXp2UVFqUTFVYi13VWZSNXlIaXFiN3pPU3pXZUJTM0E0S3NEUEJEN1hfUDlDa21JRTNseUo5dkx3M2d3M3AzZGRmZzVvS3phSnJJcjRISDZpM0haQXdFdUFWcThXNjk0b2hSaWIzSEs3NzRtRWNicGoyVHdsbVhWOUd6b1d0ZUhJ?oc=5",
-     "published": "2026-11-18T17:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYi1pSVNhNXU4MzVIU04wcVZ1Zk5UMmZuM29BSzlWSV9YZnNrYW9Jam1QVU1LWngwRTRLdVB1enVpVnRNc2NVbGpOa1JTeGsyVGladHhhVl90QmFLYmcxQkZvV2cxN0REektkTE0xRVJwaXIybUNPeXhlWUZ5VVlIZExsWnAza25zSDRTTHlVSkZIX19LLVg2WGd2SktJRmx0X3c5STBIRGs2OFZkZWxOSUptNzNWOWp6WVdB?oc=5",
+     "published": "2026-11-18T23:57:12.000Z"
     },
     {
-     "title": "At least 12 dead in organized crime attacks in Honduras, police spokesman says",
+     "title": "Palo Alto to buy AI startup Applied Compute for $4.5 billion",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTE03S0NURnNRc2N4QjVMT3I5TzJoNjAza3pjWEdGOHZpQ0MxcS1Zc1RhM003TWZyY1Q2cHp0aTVMbWlFbXNYZE82UlBxM01oZjVnbVVUaTVfUUttX0FYTGJrYXJOZl9SclZFRy16aTN4WVdUSE5WcDUtY3VKZXpOQjJJTXlwY3FPRHRhd2VGSHJPbmtjUko0ZmpEVnFicFdjamloMHVSbHdhWEVvNGpTTjZFa25odHhNbVlSR1pBUEJLcTdO?oc=5",
-     "published": "2026-11-18T16:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbHd4ZlRYRS1ybjFWcGRJSE1mLTIyelJ0SU5JcnI4am5aZlBNbWpnMVg5UkNXcWM0RU5KNmpBS2kweUduRFZMbDIyVkZkYXJ6ZEh6dVVUdnY0OVhtdVdsNFFpYy1VdUhyVUxNRjZjd0xTWEs5ZWlMR3dkakh1RmNPR2JJVlpyOGVJcUdmOV9pMzAydk5xUzd1OUNITkRQaGZ3MGJyVWlFeXJZRnBHT2Jxdw?oc=5",
+     "published": "2026-11-18T23:45:00.000Z"
     },
     {
-     "title": "China, ROK substantially conclude 2nd phase of negotiations on bilateral free trade agreement: commerce ministry",
+     "title": "Infratil optimistic about long-term demand for DCs",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaDNhcWlYVDlTRHFSbUhfV250X2NiTVM2WXpKODdOVm1QRUt3TGdVaGszUkNuZERTR3hKcGJ4Rk5xVFBGZHJQRG9jOGlKQzVjUEoxRm9MeFRzQ21hWWV2ekxnR19tZE9ZbjZNVGR4WkpqQ3NXUlBDS1V0ZE51VVVTSmJkS0xzVjJrWDJ3SzJlZDB4NVI3cjU4M05vSXdvamROMndGX3Y5WWhZMi1wX1dVOTRwRzFpTUxfbFpXQmtneDFGVHNQRW9yb2VJSWZrbTNoRjZtcXJhQlhzVHF1WDlpZ2xHemNlYU1qejFSY2tCeGk?oc=5",
-     "published": "2026-11-18T16:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbGEweXg3LXJxNVFxTkNVV2hIRm5BVjdUX2wyUmVONERvT0NyZDhjeEp2Zjc3aDB2ZWg0NkFpd25zdG95ZFpFX3hBVGNKeGhZdTJacC02SWNzTkV6UE5PUFVqaGlmZU5yYnlQekVSZ0s4LTlpM0lFNUYyZDI4NXdjMzd1QXl3VGUzenVhYlA3RTNiZXBnNFJFem1UVS1QTnJ0YlNTNzRoUWhQdlliWGVoag?oc=5",
+     "published": "2026-11-18T23:41:29.000Z"
     },
     {
-     "title": "Rugby-South Africa's Wiese ruled out of Nations Championship due to suspension",
+     "title": "Asean-S. Korea chip ties vital for growth: Prabowo",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOFpsN3hMYjRCOHBEOEZVcEx1MV9xcFRLQzJQakhxcFJEU1lWLWJxTHpJUkJ1LWZzZ0xMSzNSOTZYSnNJM1lXQ01MNlZIbTFuN2EzSkZNVmdCWkQxaXRTcWQ0b3luNnktY1RmRFYzbEhucEk3Y3VIM1JwaTNXem1Xa2ZOdy1WcVR0a2ZzT19IQUhSeHF5T0NYWms2RkM5MlI5SDQzSkIxSVdEZGdtc2xkYnAzcUhPV2k1RWtlVkZweGJnc3kzTGl3ckJR?oc=5",
-     "published": "2026-11-18T16:30:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaW1CWlg5SHFHd2RpVDVYNmt5MjJLXzJRQXgzRGdBTEFJeVRibXlBNDJiQTkyVnR6RGhvSDBmX0s0M1NlVFczTnJvUjcwbjFsR1ZaX2lwOW5kclBBYVNUeWJsWi1qbldZRjlyU0FmQmU0MzVfaXZleU9ITTMwSHBUaXhYZ2RzYTU2SkdGYUhSXzk0OG5LYldITmdZX1ZYNkFiN2k3UXZsNEpsWEhDa2c?oc=5",
+     "published": "2026-11-18T23:29:50.000Z"
     },
     {
-     "title": "Putin, Trump to meet at APEC summit but no full-scale talks planned, Kremlin says",
+     "title": "Golf: Jing Xuen faces uphill battle to keep European dream alive",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSW1TS0xCQmdvVzBOZWIyeXczNzVBbGNkNHdFaXpKTndVbkRaZXI0cllkRVR4YjZPSTVQYzRWZTlXV0d0Nk1IN1hHdXZkVzNxdXFvWW81V0hHX0xydFQ0UFp4QXZrbVZWVjJpeXNGOThCaGpCTUdXSkdEQk9aZWVYX0NKRGxjNkdGaUpuUDJCSGJpdzZZXzVZQmhyeWVIU0RqRDYyb3g1NEdmQ2Z5MmlVVVhkTnh2aHNxRjg5TTVQSUY5RVF5QkFZ?oc=5",
-     "published": "2026-11-18T16:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYjJ2WjdUaldwQ242azhBUVlScFd5QzNUWHMtR1VtYTVLME9ZWEhJUzNPX08ydHpkT25oN0tEVFpGX3NONmRBWUhtcU5HMEh2dGptdC1pLVBocUNWbmFWS3JFTjZPY0VQUFE2ZWx3ZWs5cTVaYW5DakU5SWZKR25BZDBkalFWTWpaUUdUTU5tbTNXSlVWeXZfcGs2NEZtSVR4b20wWlV4ZXlQaHc?oc=5",
+     "published": "2026-11-18T23:18:52.000Z"
     },
     {
-     "title": "Lorry transporting endoscopic equipment catches fire outside hospital",
+     "title": "Other Sports: Team events axed, leaving 2027 SEA Games shorn of tradition",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNT3lPMUdWY1FTV3NKU19EcE5RQkY4V01OLVpNRTJnb29JZmJ1ZFF5S2ZhV0Rielk4aE5iYk1iYmpGcnd0WnA2Wl8wU0YzaW00T0UwWU9TN0JManYtSGJ0RzQ4YXg3VGJlWk5qY2Vnakp1NzdEbC1XMTNMRVlPbERySTd5SEg1ZnVFdlVQWWZzZFFfdjVXb0g2dzRLeWxPQmF1aV9sOXRyOUtsQ1E3dTJUbTVZdWFrME45U2Fj?oc=5",
-     "published": "2026-11-18T15:50:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRHo3ZEl6WE1CTlRoOEhoUUxZU1JvX01yUzhDQkZDYnllQ0hjVngwa1AzZ1pGOGVCeUY0YXVqOHE1YW81bk54RmJMa2lDVGZ6YWpyeGZURldhSXpoYVQ2NUNFYS0tUjhrOUJLWllRRm9ReW92Umdial9Hd3lxNUhyWUhydmNEVlZDQlZEcDNmUjZIUnctYW9zTktWb2J2N2tTZHg4Mk1tQUVUT0tPWFE?oc=5",
+     "published": "2026-11-18T23:14:38.000Z"
     },
     {
-     "title": "IAEA chief says planned US-Saudi nuclear deal 'very satisfactory' on inspections",
+     "title": "Other Sports: Fourteen-year-old wins three titles in Ballarat, including U-17 singles crown",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDBPbm55ajdGYUhIZGFMVTV0SEplQkdON3RaY2ZlZjRqcjR0MEFSVDNUazdKVWtCTl9sU1BOMEFHNXM3SjJrV2NMd05KWldNVldCbGFoT1FnZ25kbVJfREJPQkh5VWF5WjRlOGZ4ejAxdE41UXUwek5XNUhIeWRmSTJ5dHNJVmc3NFlwMi1idXY1WVY3WHpkUGdLblE0d0NLWmRFNi1WR1JfWEV3MmVhUGJ2UDNIa19WcTdiczFlNG9sczZuYVJQRG1XNi1NZw?oc=5",
-     "published": "2026-11-18T15:20:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVDV3aFVZaXlpVWdmSUMxQnlFS1h4LS1aaURKQ0Flbll5T0J2b3lqanJUX1kzNkpIeWFOck5ndERydGtLa3VQN3l3VGJIaEw0YkhXV1gzNUtRWFJHWktIamRkN3BDTGhOVDRrZGZWbG1kc3ZNSmx3dG1nZXB3WndKWnBYNFlHM01TMHNtZ3JUem9GZUZUNWNXWGtJSFV4cHZKRFNIR1BNa2dQVFk4VTFtenBzZjN2M0ZfMjRKZk9qU1pBRXRVN1E?oc=5",
+     "published": "2026-11-18T23:14:08.000Z"
     }
    ]
   }
