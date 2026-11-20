@@ -1,26 +1,44 @@
 {
- "updated": "2026-11-20T01:08:33.227Z",
+ "updated": "2026-11-20T09:53:53.278Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Prosecutor declines to charge a police officer who fatally shot a Black man in Wisconsin",
-     "brief": "The Wisconsin police officer who shot and killed a 38-year-old Black man in Madison in July acted reasonably and will not face criminal charges, a prosecutor announced Thursday, drawing immediate condemnation from…",
-     "link": "https://www.cnn.com/2026/11/19/us/madison-police-shooting",
-     "published": "2026-11-19T12:00:00.000Z"
+     "title": "A showdown between Democrats and the White House over alleged document destruction has begun",
+     "brief": "Democrats and the White House are already in a showdown over alleged document destruction — and the party hasn’t even taken control of Congress yet.",
+     "link": "https://www.cnn.com/2026/11/20/politics/democrats-trump-administration-documents-destruction",
+     "published": "2026-11-20T09:53:53.572Z"
     },
     {
-     "title": "Trump, Putin, Xi nukes statement echoes Reagan and Gorbachev — but will their actions?",
-     "brief": "The historic three-way summit between US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin this week may have yielded little immediate diplomatic progress .",
-     "link": "https://www.cnn.com/2026/11/19/politics/nuclear-statement-out-of-trilateral-talks-mirrors-reagan-gorbachev",
-     "published": "2026-11-19T12:00:00.000Z"
+     "title": "Hours after Trump reportedly says ‘tired’ Putin is ready for a deal, Ukraine hit with massive strikes",
+     "brief": "Moscow launched a deadly missile and drone attack on Ukraine overnight into Friday, just hours after Russian President Vladimir Putin met his US and Chinese counterparts for historic trilateral talks in which the…",
+     "link": "https://www.cnn.com/2026/11/20/europe/russia-ukraine-putin-trump-intl-hnk",
+     "published": "2026-11-20T09:52:53.625Z"
     },
     {
-     "title": "Almost all of Anthropic’s employees are now millionaires",
-     "brief": "Anthropic’s stock market debut turned the vast majority of the young startup’s staff into overnight millionaires — some many times over.",
-     "link": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
+     "title": "The young star painter seducing the art world with glittering curtains. (Just don’t ask what’s behind them)",
+     "brief": "“Curtains make people behave very differently,” said Louise Giovanelli.",
+     "link": "https://www.cnn.com/2026/11/20/style/louise-giovanelli-interview-white-cube-exhibition",
+     "published": "2026-11-20T09:51:53.619Z"
+    },
+    {
+     "title": "For Xi and Putin, the Trump trilateral was a win for a new world order",
+     "brief": "From an airy government villa in the hills of southern China on Thursday emerged an image, perhaps, for our times: the leaders of China, Russia and the US standing shoulder-to-shoulder, proclaiming themselves the…",
+     "link": "https://www.cnn.com/2026/11/20/china/trump-meeting-china-russia-power-rebalance-intl-hnk",
+     "published": "2026-11-20T09:50:53.623Z"
+    },
+    {
+     "title": "Ten years on, is the UK preparing to undo Brexit?",
+     "brief": "Leaders from the United Kingdom and European Union will meet for a landmark summit on Friday as British Prime Minister Andy Burnham pushes for a closer relationship with the bloc a decade after the Brexit vote.",
+     "link": "https://www.cnn.com/2026/11/20/uk/united-kingdom-uk-brexit-vote-intl",
+     "published": "2026-11-20T09:49:53.628Z"
+    },
+    {
+     "title": "Texas execution took over an hour as staff struggled to find vein; Reinaldo Dennes moaned about pain",
+     "brief": "Texas executed Reinaldo Dennes on Thursday in a procedure that took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying the lethal dose of the sedative…",
+     "link": "https://www.cnn.com/2026/11/19/us/texas-execution-reinaldo-dennes",
      "published": "2026-11-19T12:00:00.000Z"
     },
     {
@@ -30,28 +48,10 @@
      "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Iranian operative accused of directing failed terror plot at base US operates declares innocence and wants new lawyers",
-     "brief": "The man accused of plotting to blow up a UK airbase where the US military operates was led out of a courtroom Thursday while shouting in Arabic after a nearly two-hour hearing devolved.",
-     "link": "https://www.cnn.com/2026/11/19/politics/iranian-operative-uk-terror-plot-declares-innocence",
+     "title": "Four men guilty of sex crimes against UK woman drugged by husband",
+     "brief": "Four British men were convicted on Thursday of raping or sexually abusing a woman who was drugged by her then-husband in a case with echoes of that of Gisele Pelicot , the French woman who became a global symbol in…",
+     "link": "https://www.cnn.com/2026/11/19/uk/uk-drug-rape-case-young-intl-hnk",
      "published": "2026-11-19T12:00:00.000Z"
-    },
-    {
-     "title": "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo",
-     "brief": "Fiona, the universally loved and internationally famous hippopotamus at Cincinnati Zoo, has died at age 9 after ingesting a knit hat that accidentally landed in her habitat, the zoo announced.",
-     "link": "https://www.cnn.com/2026/11/19/us/fiona-hippo-dies-cincinnati-zoo",
-     "published": "2026-11-19T12:00:00.000Z"
-    },
-    {
-     "title": "Anthropic passed the IPO test. Now comes the hard part.",
-     "brief": "If Anthropic’s first day of trading was a test, it would have passed with flying colors.",
-     "link": "https://www.cnn.com/2026/11/19/business/anthropic-ipo-stock-test-ai",
-     "published": "2026-11-19T12:00:00.000Z"
-    },
-    {
-     "title": "Florida being pummeled by developing storm that could snarl early Thanksgiving travel on the East Coast",
-     "brief": "A rare high risk of flooding is in effect for parts of Florida’s Space Coast through Friday as a dayslong torrential rain event inundates the state’s Atlantic coast, flooding homes and prompting dozens of water rescues.",
-     "link": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
-     "published": "2026-11-18T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Haiti police operation kills 34 suspected gang members in capital",
+     "title": "Jaya Tiasa registers net profit of RM72.78mil in 1Q on higher CPO, PK prices",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUxPek1kUTU2WjZrY1dTSlkxNDI4WTJRUDNybGFQWWxPRlpFUkZmSUFtS0ZvcG9ZV29zTzVJTW5VUHVWbklLc0JFTU0yU3B4bjYtZVN5dHBNZlpOTFZQUE14eFFRWDhrT244Tm1wZGxxbzhpc0lQY2d5NDdMcWVKZmp3YW5rOTdGNzdZVnN4UlN3bjhWQ1U5bnVyM21SNnY3cHNVc2pYSVYzeWxVMGhVaW5GWHA?oc=5",
-     "published": "2026-11-20T00:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSUpmaGhGaXdhLV8wbFpNVmRjYzJDdUxqSXI4NFlPWW9EVmdGN3pBa2cyUGpIdnZScWwweWp2QjJOTF83S1VKVFF3NU04dzI4NzNXQW1adWJ1b0kyQWtmOFk5dUFQNzlzQXBVanNjNDJJYWhmdDZBVF9mVWEtb1pnRjQyd1VKN3VGNEtZVU5Wa1c5N0Z0dG4yeV9ZdjVwWUt4VWhyXzRZc3c3LXNpc1E1UEpzUmh0b1dWSGlDQkJsY0hpNEtGV1hpQ1daUWVJbzk4?oc=5",
+     "published": "2026-11-20T09:38:00.000Z"
     },
     {
-     "title": "Cricket-Phillips hits century as NZ reach 317-6 in India test",
+     "title": "Singapore, China begin FTA upgrade talks with focus on digital economy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmVEQ0tiNEI5dDlWX3A2ck5BR3gyYVJNMmxzMnJ4SEFTODdZcHVsbVlUWUc3b3N4Y2dsWGhmR1VacXdDT3FaNUM4LU8wTkdLVFhkX3JTV2NQTFdiT2EzeUU1VWViLW5DTEJPeXBiM0tJRHViZnBZTDlIX1dDVnZHam5ISVdKQ2JyS285SGVUbGMtVmhoQjlZa3pSRnpycFJxbUNIM2VOUVRuTUdSczhIQThnVQ?oc=5",
-     "published": "2026-11-20T00:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSlBldnFrZ0o2aHhOdS0wQnV6eTAxXzRkNUVfcTNjcXUwZV9EcGNjczgtakNNengwcUNaQmhvRkZzVUlsMVdrUi1uYnp6TXFSX3ZkU1RESnh0WHZ3SDJ3enBQNU04RVF5ZkNtTUZfWE1sS3B2TTVGSGtHeVVELUZfTlB5QWhsUHhUalFHMmFxcUJQenpSbENiTl9FNHJMSXlUcmxyelJiTWd6eWdNVlRVbW5Kc25nZzBNaUdCbWFwczZrbE1KUF9KYTE5Wm8?oc=5",
+     "published": "2026-11-20T08:52:00.000Z"
     },
     {
-     "title": "Motorsport: Hakim targets strong showing at familiar Portimao",
+     "title": "Myanmar calls ICJ ruling on genocide 'unfair'",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUxtc2w0c3FoZHdpQzhJNTVGQVZUR001bHdicEx2Nk9VTjVLSl9MT0dDTktuV3h2ekpzVnNfeV9EUHdObll5c202TWdDWE9qRHVLVFQ1eGFnOG02dFpqMEI4SWZzRnNBekZNMGZ5WTd3dU43N25fYnhKQzE3WWN1a0thX1FGYU5raXVXZUpyMFh6R21QRlUtb1N4VEVEUVcxSlRvUm5kWQ?oc=5",
-     "published": "2026-11-20T00:33:45.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS0pYeVI4bGctUkZRWXRvTE1ORmxWZGQycHRFTTNkMXJuNFlXRjBRZVJfMHhyZmRYRk5xclV0eUhCeXdOWWdOSkJwb2dXdFBGMk9XRjNqRE44My1rVGJhYWl5STlFcERtRXMyMTMzS25WOVRESUNhYmowamVXMU5ZejZlbFMxTXR1ZGYxVGM1b3FXXzRKamhLZTk3Z1I1aWs?oc=5",
+     "published": "2026-11-20T08:48:00.000Z"
     },
     {
-     "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
+     "title": "An ageing society needs age-friendly cities",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXNFcHBNaXJwZjg5bmdaTEM0RXJOd2Z0bk9pbzVvN0c2LTV1WHhULXJWcU9tT3p2c3M2TC03b1ZsZzR3N0ozbUdCd3BNSnVrVkx6R3NGeVg2dEV1MDFhT0dFSlJEdkJVbXJjemhsV0tuNGEzUUJHenFEOWF0U3BhR0owWk16T2szelNfNUVRVVctYTFDYzlKT29SdFRXUVZxNmE0XzNDUEpIZUtma1dlMGNRRk9PT2E2VFVZ?oc=5",
-     "published": "2026-11-20T00:31:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORjVLSE5vd3VUUndNeklvbGNKMVBfNGpIc2Y5SUQxWkZWSjF2S1ZNWHo3a2dMUGNQcEdEaVg2cXhVaFNhVW1zcHFHbTdsMzRZbkpFWmFuMkVCYkVHaDNQck9PbGxmdjVvNm9XZldvZGVsUm9NS2V5QWJRM3plYnljSnpXQVQ4ZVF3ZVBhU044ZVMyb3JjUXdVRTEyczhrdw?oc=5",
+     "published": "2026-11-20T08:46:00.000Z"
     },
     {
-     "title": "Trump’s ‘waiting game’ on Iran",
+     "title": "Equinor says cyberattack against company has been stopped",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3dsYXQzVWJoYk50em82ZkwzektBMTlwaTYzNmZ5Ym9tMmlncjJ5ZHJVZndzNmVKQkhVYmtMbl8xU2xHSkluY0wxVXdqS3ZPRkltbklFNDBLeG5Wa1NRVktqQmVWWTJLWFViVGhWNkc2WTZIMHJfdi1EVVM1ZWNiQXVB?oc=5",
-     "published": "2026-11-20T00:30:54.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUll2c1dXX28zaEIwcEpTNTg0OUZ6N2xvb3VIUkN1dTNIX2FnZXNPdmhzV0h5MFlBcWZTdThLU0FKalRQcGM0OFRJeEZ1M3FWSWJSeGMyY1ozSVFVYVdSRnZhR1c3TGlYWTBjZWpEQ3U4aVZ6akY0Y3BOaDRuNHkzWldpS01MeGhOOW5GUElXWWl0T29NVG1ROVIxcmRuWUhRWlFVd2Q5T0NQc0hxV00w?oc=5",
+     "published": "2026-11-20T08:41:00.000Z"
     },
     {
-     "title": "Malaysia to boost ties with France over REE",
+     "title": "Russia pushes back against US idea of NATO-style security guarantees for Ukraine",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0FzUXFiVHB6SEtKWDJTb1hyRWNQMFFUWFB5ckxjY1dMWUgtS21QbGU5T0p5V3BoV3h6THZoWktiWVE1SXJTQ0sxN2pYdmF6M1AySURjT1VnQ2RPTWVyWC1rU1BQcURzV3ZkUW84dUhsaWFLa1dRT2wtVDNsenM0WVM1TmdYMDg2NmdtbkV2bElnUG9SOF8yUA?oc=5",
-     "published": "2026-11-20T00:30:05.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdzJvSjBNZmszT1hrWmQzek11V3JBaGo0dXd0YTlMOG05Vi13QWhWOEZYRDEwTEFBUlBoY2Z0SXNFX2dtdnRBejlrSE9LNTdwTWlacklDRjZuY1pyYVpkR0pRY2xTM0gtN0ZVeEFBSk9MWVdfaUhGX0VHRG9HTGFXSmpUVDBzcms4SXM1M3cydmloM0JOeXUyYWZscWsydzdzVGFKLXRwQ19ZUHgzdUdVTGFjMEUwLW9zbzVhMXh2d2RJT1dWdjZ6eA?oc=5",
+     "published": "2026-11-20T08:36:00.000Z"
     },
     {
-     "title": "PAC probes Sabah highway",
+     "title": "Laotian nationals in court after major Phnom Penh drug bust",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSGh0UWJEd0k3UDBiU1lYMjVFWGM3N1NHZTM5cXZMdnJacVY2cnl4QmRPMXpKbWx1SnJIVUNVV0tmWmFPZTRvdlpBTnpYXzJULXdEb3kyZnUxQlBTWl9fazdjN1dVbTFJc1BNOTg4RDVlaV92eGZRMjZMeUQ4WXM?oc=5",
-     "published": "2026-11-20T00:30:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ2NJWERkRHNzZWljUm1za0lZcm1fd2FzbVBqdl94VVUtcHlOUk1ERkJQaG5LbjBkUXduQnB1RklJS1VLZzhHV050a3lhSE96Uk1VM3JjdldWd1RhNTFiR1JVV2FLZDM5eW95QkJzZmhYYW5SSi1GZ1FMd2JjbHJNcGtweXItczJrWWtKRjlBWk1sem1GN1lxRFIwVmVNNHFhS1BZTXRBNXdFNHo1X0Y1ZUJxUkFNNFczUlFTSGRjOA?oc=5",
+     "published": "2026-11-20T08:20:00.000Z"
     },
     {
-     "title": "Over 100,500 foreigners nabbed since 2024",
+     "title": "Polish army investigates report of unknown objects near Ukraine border",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXhQbHl2U2lldWNYemZlTW1JOUdtTXpWeXc0QUdBb19ic3RLSS1faHVkb1Y3dEhSNVZMbTU5bkdIRDhQMk02TTFhN3RJTlZPcUllYnM1aFNKOFdmdWczZXBibHNiYm40ZEpiYjNOX1pwRkY4cVhHU2FYRGJ6b2cyakZRZ2hBaklXM2U5Vi1rVEp0U1p4?oc=5",
-     "published": "2026-11-20T00:30:04.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV2htUzNwNVQtdkZhYUtFUkRBZUtmdFZEdFU1VTJrMW4wQ3RTMjF5ajhRZ3hGV2l4RjduWS1UZVE3dklEeWdpWVg0a1k5NWtYWHNOdjY0WWh3b2VwaTZQT3ZRUU1TNmpIWnJiNUJjNld2eUJ1T1JxWjJORF9waTdUc1pGTnVnUFJDcGEyemR2WG1MQ3BoSG5HMFplaVlMeThGeUZadVNXd1IzVzFGWUFFQVRoVjRqTl9IOS1B?oc=5",
+     "published": "2026-11-20T08:09:00.000Z"
     }
    ]
   }
