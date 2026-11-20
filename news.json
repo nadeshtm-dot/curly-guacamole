@@ -1,49 +1,55 @@
 {
- "updated": "2026-11-19T18:07:59.644Z",
+ "updated": "2026-11-20T01:08:33.227Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "FEMA is dealing with its own emergency: bed bugs",
-     "brief": "A turbulent week for the Department of Homeland Security now includes an infestation at the headquarters of the nation’s disaster response agency.",
-     "link": "https://www.cnn.com/2026/11/19/politics/fema-is-dealing-with-its-own-emergency-bed-bugs",
-     "published": "2026-11-19T18:06:59.878Z"
+     "title": "Prosecutor declines to charge a police officer who fatally shot a Black man in Wisconsin",
+     "brief": "The Wisconsin police officer who shot and killed a 38-year-old Black man in Madison in July acted reasonably and will not face criminal charges, a prosecutor announced Thursday, drawing immediate condemnation from…",
+     "link": "https://www.cnn.com/2026/11/19/us/madison-police-shooting",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Trump admin tried to get free work from major law firm for arch and Kennedy Center legal battles",
-     "brief": "The Trump administration unsuccessfully tried to get a major law firm to do pro bono work supporting projects President Donald Trump has championed, like his triumphal arch and renaming the Kennedy Center, according…",
-     "link": "https://www.cnn.com/2026/11/19/politics/law-firms-arch-kennedy-center-pro-bono",
-     "published": "2026-11-19T18:04:59.882Z"
+     "title": "Trump, Putin, Xi nukes statement echoes Reagan and Gorbachev — but will their actions?",
+     "brief": "The historic three-way summit between US President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin this week may have yielded little immediate diplomatic progress .",
+     "link": "https://www.cnn.com/2026/11/19/politics/nuclear-statement-out-of-trilateral-talks-mirrors-reagan-gorbachev",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Sudden withdrawal of Trump’s FDA pick blindsided officials and left key senator fuming, sources say",
-     "brief": "Senior health officials were blindsided by the White House decision to abandon Dr.",
-     "link": "https://www.cnn.com/2026/11/19/politics/heidi-overton-withdrawal-stephen-miller-rfk",
-     "published": "2026-11-19T18:03:59.877Z"
+     "title": "Almost all of Anthropic’s employees are now millionaires",
+     "brief": "Anthropic’s stock market debut turned the vast majority of the young startup’s staff into overnight millionaires — some many times over.",
+     "link": "https://www.cnn.com/2026/11/19/tech/anthropic-employees-now-millionaires",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Putin’s prized bridge to occupied Crimea has been hit for the third time this week",
-     "brief": "Russian President Vladimir Putin’s prized Kerch Bridge was struck for the third time this week early on Thursday, halting rail traffic between Russia and occupied Crimea just days after a section of the road bridge…",
-     "link": "https://www.cnn.com/2026/11/18/europe/crimea-russia-bridge-ukraine-kerch-latam-intl",
-     "published": "2026-11-18T12:00:00.000Z"
+     "title": "The world is experiencing ‘GTA VI’ together — players and spectators alike",
+     "brief": "Millions of people around the world are playing “Grand Theft Auto VI.” Millions more are watching other people play it.",
+     "link": "https://www.cnn.com/2026/11/19/media/grand-theft-auto-gta-vi-twitch-youtube-livestream",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Was ‘Grand Theft Auto VI’ worth the 13-year wait? The reviews are in",
-     "brief": "“Grand Theft Auto VI” is as grand as every gamer expected it to be.",
-     "link": "https://www.cnn.com/2026/11/18/media/gta-vi-grand-theft-auto-reviews-critics",
-     "published": "2026-11-18T12:00:00.000Z"
+     "title": "Iranian operative accused of directing failed terror plot at base US operates declares innocence and wants new lawyers",
+     "brief": "The man accused of plotting to blow up a UK airbase where the US military operates was led out of a courtroom Thursday while shouting in Arabic after a nearly two-hour hearing devolved.",
+     "link": "https://www.cnn.com/2026/11/19/politics/iranian-operative-uk-terror-plot-declares-innocence",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
-     "title": "Venezuela a ‘compliant security partner,’ Hegseth says as he announces military deal with Caracas",
-     "brief": "The United States has signed a new agreement to reestablish military ties with Venezuela more than 10 months after toppling its leader in a military raid, US Secretary of Defense Pete Hegseth announced during his…",
-     "link": "https://www.cnn.com/2026/11/18/americas/us-venezuela-military-deal-hegseth-latam-intl",
-     "published": "2026-11-18T12:00:00.000Z"
+     "title": "Globally adored hippo Fiona dies after eating a visitor’s hat at Cincinnati Zoo",
+     "brief": "Fiona, the universally loved and internationally famous hippopotamus at Cincinnati Zoo, has died at age 9 after ingesting a knit hat that accidentally landed in her habitat, the zoo announced.",
+     "link": "https://www.cnn.com/2026/11/19/us/fiona-hippo-dies-cincinnati-zoo",
+     "published": "2026-11-19T12:00:00.000Z"
+    },
+    {
+     "title": "Anthropic passed the IPO test. Now comes the hard part.",
+     "brief": "If Anthropic’s first day of trading was a test, it would have passed with flying colors.",
+     "link": "https://www.cnn.com/2026/11/19/business/anthropic-ipo-stock-test-ai",
+     "published": "2026-11-19T12:00:00.000Z"
     },
     {
      "title": "Florida being pummeled by developing storm that could snarl early Thanksgiving travel on the East Coast",
-     "brief": "A rare high risk of flooding is in effect for parts of Florida’s Space Coast Thursday as a dayslong torrential rain event inundates the state’s Atlantic coast, flooding homes and prompting water rescues.",
+     "brief": "A rare high risk of flooding is in effect for parts of Florida’s Space Coast through Friday as a dayslong torrential rain event inundates the state’s Atlantic coast, flooding homes and prompting dozens of water rescues.",
      "link": "https://www.cnn.com/2026/11/18/weather/florida-flooding-rain-storm-thanksgiving-travel-climate",
      "published": "2026-11-18T12:00:00.000Z"
     }
@@ -54,58 +60,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Tennis-Shelton battles past Jodar to close in on semi-final berth",
+     "title": "Haiti police operation kills 34 suspected gang members in capital",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejE0YUJaSm90TEhydGJscTJPekc1VW5obzNRV2VCX0NsNlJVV3NKUm5LcnJaOGprQlVVZjJXOWktUm5wMTNjYnRpanlyQktuOTFtUUNRN3M3YVc5OEdiWDYzTW9vX28ySHR2SU9aREZaQVF1ajhjeVp4Ukx3RGtfa0twTlVJNDQ2Vmpzb2ktdkU3cW1wNmNpa2lzRXJZWHEtUzBJQmtvQjZ4VldVRkdvQmF1N0VaWkk?oc=5",
-     "published": "2026-11-19T15:40:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQUxPek1kUTU2WjZrY1dTSlkxNDI4WTJRUDNybGFQWWxPRlpFUkZmSUFtS0ZvcG9ZV29zTzVJTW5VUHVWbklLc0JFTU0yU3B4bjYtZVN5dHBNZlpOTFZQUE14eFFRWDhrT244Tm1wZGxxbzhpc0lQY2d5NDdMcWVKZmp3YW5rOTdGNzdZVnN4UlN3bjhWQ1U5bnVyM21SNnY3cHNVc2pYSVYzeWxVMGhVaW5GWHA?oc=5",
+     "published": "2026-11-20T00:58:00.000Z"
     },
     {
-     "title": "US plans to announce cause of outage that led to nationwide ground stop, FAA says",
+     "title": "Cricket-Phillips hits century as NZ reach 317-6 in India test",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNGJEaEFnNk9xdTlJZ1JWcXJYYVozMEE1azJsOU1vN2p4cGFrQ2d0ZzVHRUt1Y21RcXlOelJLbnAxOEZlbV9TNFJSWTNIZjdFZlJYRVo5WUZhSzlpMlhWbUZpV0NDdWFIU2xCTlFBSDh0WnRKdzVBZU1uWlhaOVZHdVo2RGhfdUVYS0l2V3ctTnZScDVhSW9rMEZHQk0yYnpiUmhBMk13QzhFQ1Y1dS1Dc1RlNDNrMmliRm5XeUIzazcxSDcxdHZ4ag?oc=5",
-     "published": "2026-11-19T15:39:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWmVEQ0tiNEI5dDlWX3A2ck5BR3gyYVJNMmxzMnJ4SEFTODdZcHVsbVlUWUc3b3N4Y2dsWGhmR1VacXdDT3FaNUM4LU8wTkdLVFhkX3JTV2NQTFdiT2EzeUU1VWViLW5DTEJPeXBiM0tJRHViZnBZTDlIX1dDVnZHam5ISVdKQ2JyS285SGVUbGMtVmhoQjlZa3pSRnpycFJxbUNIM2VOUVRuTUdSczhIQThnVQ?oc=5",
+     "published": "2026-11-20T00:36:00.000Z"
     },
     {
-     "title": "India's Paytm partners with Singapore's Funding Societies, plans up to $21 million investment",
+     "title": "Motorsport: Hakim targets strong showing at familiar Portimao",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeFJBblRDUUYxcjh1dnJBSDFZc2hOeFd2aVJOeTlQZnA3SVRUQnFMX2xOVTZRQ05yclV6N2dTSkZjZmFsMGlBWkZDVURtUDh0MXdONm5uMzM2YVlRZ2ZaaWVkbTM2VVhzaUxBLXFQWGNhMHczS2c2VVVWb2N5Z1FMQmlmZjZuRVl0X2tEQ21vQ3d5ZUtaQnpFMWFGdFlVOVFfVW9EcnZmeHhhNzJLbFE2OUd4WmVWQnBxeGU5MTVhVVotNThKYWFlRG9rNHZObkxObV9icXRDUy1fWGtvZzU0VHFn?oc=5",
-     "published": "2026-11-19T15:04:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUxtc2w0c3FoZHdpQzhJNTVGQVZUR001bHdicEx2Nk9VTjVLSl9MT0dDTktuV3h2ekpzVnNfeV9EUHdObll5c202TWdDWE9qRHVLVFQ1eGFnOG02dFpqMEI4SWZzRnNBekZNMGZ5WTd3dU43N25fYnhKQzE3WWN1a0thX1FGYU5raXVXZUpyMFh6R21QRlUtb1N4VEVEUVcxSlRvUm5kWQ?oc=5",
+     "published": "2026-11-20T00:33:45.000Z"
     },
     {
-     "title": "Fed's Jefferson says AI boosting inflation, productivity impact possible 'in the future'",
+     "title": "Accused child sex predator Thomas Markle ruled competent to face trial",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNnZxNWRNakdIalVsZWl1N0g3TnN0all3WW9aYXpKT2tycV91ZnB4cDVrXzlFYUpHZU5vWXlaNnRHQk5WNnd5ODVEZjhnUjF3djJHUHBuc2JkQzRQUDB5Qi1ZUXVmZVpsRnc5SzdCUHgtTm5ZMk04dFkwbG5sQXNxdU1md2FwMmIxbV9OUS05dk9ycHJ1VjVRdXVndF9GcjA5ZFk2cHZxUFEwS2N0MnRpdzBIUHhfTEJlRFBOTE93djhJUXNoWGcwYzRkbFZyay1zZ2lEWmFGZ0ZrUHlBZ05n?oc=5",
-     "published": "2026-11-19T15:03:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWXNFcHBNaXJwZjg5bmdaTEM0RXJOd2Z0bk9pbzVvN0c2LTV1WHhULXJWcU9tT3p2c3M2TC03b1ZsZzR3N0ozbUdCd3BNSnVrVkx6R3NGeVg2dEV1MDFhT0dFSlJEdkJVbXJjemhsV0tuNGEzUUJHenFEOWF0U3BhR0owWk16T2szelNfNUVRVVctYTFDYzlKT29SdFRXUVZxNmE0XzNDUEpIZUtma1dlMGNRRk9PT2E2VFVZ?oc=5",
+     "published": "2026-11-20T00:31:00.000Z"
     },
     {
-     "title": "Brazil's Lula in no hurry to announce next cabinet",
+     "title": "Trump’s ‘waiting game’ on Iran",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVE5lR25kcVlUY0NrLW5GbkJPYmwwRGhqSHlyU25ONHAyaEJMQzI2SE1aclE5eXJqVlp5RlpRQnc0YXlOSVpjQmFkOTZUM0VFejlJSTl3RE9ocTNpSTgtNld4YnRkbGhpX3VKZ1A2cmZMa2tmRE5pUThkWWVna2hfSzNsMHhXajYxNHRlbGxOank2ZFAyOGNSQnctcGY2akhiWjM4?oc=5",
-     "published": "2026-11-19T14:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd3dsYXQzVWJoYk50em82ZkwzektBMTlwaTYzNmZ5Ym9tMmlncjJ5ZHJVZndzNmVKQkhVYmtMbl8xU2xHSkluY0wxVXdqS3ZPRkltbklFNDBLeG5Wa1NRVktqQmVWWTJLWFViVGhWNkc2WTZIMHJfdi1EVVM1ZWNiQXVB?oc=5",
+     "published": "2026-11-20T00:30:54.000Z"
     },
     {
-     "title": "Other Sports: Soccer - Baller League to launch new global tournament in 2027",
+     "title": "Malaysia to boost ties with France over REE",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSHVuUXJkZlB3cjk4SXRqalUyT0R0UUdEdHJMbkJQUzg2Rjd1VUVSM2NUU2R1WmFvOF9jbHUxek5jOUFMNXF6LTYxZnBxNmVuZjMzQlAtbXMyYno5UFFqemZfQlp2MFhYWWdjTTB4WTAweHFCM2RQNHVfMkNrb2psRmRKODU4WUN0OHFrOG95S042N01nM1J6S1c0Y1JBOEdka3I0a3VjdmJSNXFzS05LNHhNdw?oc=5",
-     "published": "2026-11-19T14:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd0FzUXFiVHB6SEtKWDJTb1hyRWNQMFFUWFB5ckxjY1dMWUgtS21QbGU5T0p5V3BoV3h6THZoWktiWVE1SXJTQ0sxN2pYdmF6M1AySURjT1VnQ2RPTWVyWC1rU1BQcURzV3ZkUW84dUhsaWFLa1dRT2wtVDNsenM0WVM1TmdYMDg2NmdtbkV2bElnUG9SOF8yUA?oc=5",
+     "published": "2026-11-20T00:30:05.000Z"
     },
     {
-     "title": "Putin rules out Black Sea, energy truce after Crimea bridge strike",
+     "title": "PAC probes Sabah highway",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT1U3b2tTUGdlb3dYT213SVlWVVNUb0RJYU1SOVBObHoycVFfQ3dyTWxCVFM1d3ExR2lUWDkxLV90Y0o0cGhpUGFUdGk0akNxOW9jTkh3WmNTSG1iOUplaU90aWpwNDhlTHU1WTFBaUpYalN0bmg2dXBHc3VaLUJjSS1tVmI0cmZzd0V4WU1CMW1OdUZRRFlFT2U1TWJ2UW5IbDhaN09taFdQVl9USk56R00tM1Y?oc=5",
-     "published": "2026-11-19T14:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZSGh0UWJEd0k3UDBiU1lYMjVFWGM3N1NHZTM5cXZMdnJacVY2cnl4QmRPMXpKbWx1SnJIVUNVV0tmWmFPZTRvdlpBTnpYXzJULXdEb3kyZnUxQlBTWl9fazdjN1dVbTFJc1BNOTg4RDVlaV92eGZRMjZMeUQ4WXM?oc=5",
+     "published": "2026-11-20T00:30:04.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Over 100,500 foreigners nabbed since 2024",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTk52aXNKVjhZekFVVm5QNkVXMGkzdnpBUXN4X2lYNjc4UGQtWHcteXJXOXBQRnpOdDRiZFBmWU1CaEdTMDNNLVpFVk1uVTN4SVdUaE5fcVBJSkVZN2JldEhTNGVFRnktQ3dTTjNONV9XRlNyT3BKTGQtYTQwcUNVcTlB?oc=5",
-     "published": "2026-11-19T14:21:36.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXhQbHl2U2lldWNYemZlTW1JOUdtTXpWeXc0QUdBb19ic3RLSS1faHVkb1Y3dEhSNVZMbTU5bkdIRDhQMk02TTFhN3RJTlZPcUllYnM1aFNKOFdmdWczZXBibHNiYm40ZEpiYjNOX1pwRkY4cVhHU2FYRGJ6b2cyakZRZ2hBaklXM2U5Vi1rVEp0U1p4?oc=5",
+     "published": "2026-11-20T00:30:04.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
