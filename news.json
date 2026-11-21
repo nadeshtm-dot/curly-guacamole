@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-20T18:27:20.369Z",
+ "updated": "2026-11-21T00:43:17.081Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Top Democrat to Trump intel chief: No funding for Musk’s SpaceX without answers on Ukraine Starshield slowdown",
-     "brief": "The incoming chairman of a key congressional committee is warning that lawmakers will withhold government funding for systems developed by Elon Musk’s SpaceX if the administration and tech billionaire refuse to…",
-     "link": "https://www.cnn.com/2026/11/20/politics/himes-ukraine-starlink-slowdown",
-     "published": "2026-11-20T18:27:20.459Z"
-    },
-    {
-     "title": "Security officials warn the US aviation industry of recent calls for attack by Al Qaeda",
-     "brief": "US security agencies are warning commercial airlines, air cargo carriers and airports around the nation of recent public messaging by terrorists calling for attacks similar to September’s attempted hijacking by the…",
-     "link": "https://www.cnn.com/2026/11/20/politics/security-officials-warn-us-aviation-al-qaeda",
-     "published": "2026-11-20T18:26:20.485Z"
-    },
-    {
-     "title": "Army plans to detonate 5 tons of bomb-making material as Iowa residents worry about lead exposure",
-     "brief": "Despite outcries from Iowans worried about their health, the US Army is scheduled to blow up five tons of explosive material on Monday at a plant in the small community of Middletown.",
+     "title": "Judge halts Army’s plan to detonate 5 tons of bomb-making material as Iowa residents worry about lead exposure",
+     "brief": "A federal judge has ordered the US Army to pause its plans to detonate five tons of lead azide on Monday after environmental activists filed a lawsuit expressing concerns about the potential impacts of the explosion.",
      "link": "https://www.cnn.com/2026/11/20/us/iowa-lead-azide-army-detonation",
-     "published": "2026-11-20T18:25:20.488Z"
+     "published": "2026-11-20T12:00:00.000Z"
     },
     {
-     "title": "Orphaned baby marmoset named after UK detective who saved him",
-     "brief": "Detective Constable Gino Ferrara normally spends his days investigating rape and serious sexual offences on London’s streets.",
-     "link": "https://www.cnn.com/2026/11/20/europe/orphaned-baby-marmoset-name-gino-monkey-london-detective-latam-intl",
-     "published": "2026-11-20T18:24:20.475Z"
+     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+     "brief": "The man accused of sparking last year’s deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial .",
+     "link": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict",
+     "published": "2026-11-20T12:00:00.000Z"
     },
     {
-     "title": "Storm severely flooding Florida to disrupt holiday travel from Southeast to New England",
-     "brief": "A storm flooding Florida’s Atlantic coast could hamper early Thanksgiving travel for millions as it charges up the East Coast with soaking rain and gusty winds.",
-     "link": "https://www.cnn.com/2026/11/20/weather/florida-floods-storm-kyle-thanksgiving-travel-climate",
-     "published": "2026-11-20T18:23:20.603Z"
+     "title": "Melania Trump seeks ‘solitude’ in new docuseries",
+     "brief": "Melania Trump’s streaming docuseries, released by Amazon on Friday, reveals an introverted first lady who shares new insight into her marriage and priorities.",
+     "link": "https://www.cnn.com/2026/11/20/politics/melania-trump-amazon-series",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "Why surgery wasn’t an option to save Fiona the hippo",
+     "brief": "Her keepers and adoring fans across the globe are mourning the sudden and tragic death of Fiona, the famous hippopotamus at Cincinnati Zoo, who died Thursday at age 9 after ingesting a knit hat that accidentally…",
+     "link": "https://www.cnn.com/2026/11/20/us/fiona-hippo-death-zoo",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "Brazil’s former president Jair Bolsonaro has been hospitalized again, son says",
+     "brief": "",
+     "link": "https://www.cnn.com/2026/11/20/americas/bolsonaro-brazil-hospital-intl-latam",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "Trump defends Putin, floats a Stephen Miller presidential run and says he’d work with Dems: News briefing takeaways",
+     "brief": "President Donald Trump made a high-profile White House briefing room appearance Friday amid a pileup of domestic challenges — including a string of sudden tech outages, rising artificial intelligence worries and a…",
+     "link": "https://www.cnn.com/2026/11/20/politics/trump-news-conference-takeaways",
+     "published": "2026-11-20T12:00:00.000Z"
     },
     {
      "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-     "brief": "A sell-off in technology stocks intensified Friday, wiping out the Nasdaq Composite’s gains for the year, as investors continued to pull money out of the once high-flying AI trade.",
+     "brief": "A punishing sell-off in technology stocks intensified Friday, wiping out the Nasdaq Composite’s gains for the year, as investors continued to pull money out of the once high-flying AI trade.",
      "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai",
-     "published": "2026-11-20T18:22:20.478Z"
+     "published": "2026-11-20T12:00:00.000Z"
     },
     {
-     "title": "Fans mourn the death of beloved hippo Fiona at Cincinnati Zoo, express frustration over the tragedy",
-     "brief": "Her keepers and adoring fans across the globe are mourning the sudden and tragic death of Fiona, the famous hippopotamus at Cincinnati Zoo, who died Thursday at age 9 after ingesting a knit hat that accidentally…",
-     "link": "https://www.cnn.com/2026/11/20/us/fiona-hippo-death-zoo",
-     "published": "2026-11-20T18:21:20.493Z"
-    },
-    {
-     "title": "‘Money for schools, not war:’ Youth-led protests sweep Europe",
-     "brief": "Tens of thousands of young people filled Europe’s streets on Friday – in an organized international youth-led day of action across more than 25 nations.",
-     "link": "https://www.cnn.com/2026/11/20/europe/gen-z-youth-protests-europe-intl",
-     "published": "2026-11-20T18:20:20.490Z"
+     "title": "Department of Homeland Security’s holiday advice to employees: Don’t talk about your work",
+     "brief": "It’s often good advice to avoid talking too much about work at holiday gatherings.",
+     "link": "https://www.cnn.com/2026/11/20/politics/homeland-security-holiday-advice-secret-work",
+     "published": "2026-11-20T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Football: Soccer-Manchester United chief defends club's strategy despite managerial turnover",
+     "title": "Cricket-Rahul closes on century as India eat into New Zealand's lead in Wellington",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMXlIUHBDLTU2YkpxeFJETl9laGdKU2dsSkVKNnluai1HQUJpR3Q5ZFZROUZnd0FwemdmR1pHeHFTUDgwUkFha2JlbUVneDdKVHdPS3pWUHpmd1NuNGFOQ0hwUnYzMEZkUXpIZ3Y5MnpaMWFaaElHOWNRTGJQbXFSMlRzRHc5WHRtWGZCR09kTEpNWHd1RWV3SmR3dG9BNVpCR2RtUzFNU3FrSzFuaXBLdzFiSVd0R2Z1ZGp3eWVXWFphaHFUUURLd01JdExSQ21LaXlN?oc=5",
-     "published": "2026-11-20T18:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUthYXdjMUJuZnVQTnUwUGR6TmZaTmx3S3Q2clBPV3dSUVZFVHFUTkEzaURyVXhmbjhuY2tiR3pnS0stRVh4aUtYbjltaS1SVVhzSDNtMTE0TldBeGw4NDMzNWxOTHJIcE5aTmI1bExXVEFfdFhPc091aEZUbTQtYXJtV284X0VZaTlBbGFxU0FtLUx0U2hlWVZ6Nm1nZVJwVG1rMk1pa3hiLWIzbTZzYzkxalhwWTR1ZDJGWWhHRkZkd3pFVk9rekd3aTA5b0JCQ0E?oc=5",
+     "published": "2026-11-21T00:36:00.000Z"
     },
     {
-     "title": "Spanish PM Sanchez's conservative rival wins TV face-off, polls show",
+     "title": "Mud-brown tide, golden hope",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRHU2X2tTeUg4eW5ZTGxldXRPRFA5RGpNcjdoZ1BYRHpHSGt4VVNJTDFPNUYwcVJnQldBazJxVnFOSFg4anJYZDBnd3VDMWh4NXFNWHpVbGJLR0Z2cGhnc3J6RlZIc0ZBN0hZUnBYRUl2UTFvaHU2azFuSGxhZ3NDNnU0bkRvSmRqLUhNa2ZqLWN6NVNpcUtzZldNTE9XeTRYZ1VxYzFvTXUycnNYWklxZDlsenJ3dUxlUFE?oc=5",
-     "published": "2026-11-20T17:45:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWluRkI4VUg2eVFuWHM4QWZBY1hLSzdPWUFrMHZjRU4xT2RoNkdrZ2M5d0pvRGQ4YzkwS2VjcHNadWtKLTZHOW9CVXRaZHhHLWJ6SFM5Y0FQMzJ1UjJlN3pRWUJzYU1vcDRtVVNNejViaklCeGlmWWhLSkFtLWZqTQ?oc=5",
+     "published": "2026-11-21T00:11:15.000Z"
     },
     {
-     "title": "American detained in Cuba for nearly a decade released, CNN reports",
+     "title": "Malaysia’s message at Apec",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTG0yNE42SXNRdGpaYm5fYzViWWl0eUdZZzdmSWNUYUZDVnhaTmtmSXpYbGJvVFExNWp1UnFzUWVjMTd5YnZmaVhzUWJ0d1ZvVlJwMVRLQjIwbFBfNm15UWg3d2Q1TVJIVTFqaGNFUXNPVWZ0ZDlFNTdjaE9VNkZSeVJhblF0RXhsSlIyOGp4SXJCdUpBVG5PalBYclJTTTcyWEo3Q1J1cWxfeU1xVFVJNmR1MEE0UQ?oc=5",
-     "published": "2026-11-20T17:33:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREI5MW1Dd1VMazJZU3JkcmdQM3hlNE9zWldTNFZhVmhOZnpod0c3Qm1pQWRmNUt2YmlVTFpveVVLZnduWVo4dWhzdzBpZmdQU2pxVGsxckRSWENCYWt1ZG1QOXFKZXdINnFoVEJKOHhKYVE3SFFpa2RaNktPMThET1dRLW16UHo0ZE03UkpRejFtcFRr?oc=5",
+     "published": "2026-11-21T00:11:15.000Z"
     },
     {
-     "title": "ECB chief considers late action as central problem of European policymaking",
+     "title": "Hockey: It’s Sufyan show as Pakistan sink Canada in rain-hit match",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMHh4QVZqeTc4aFpxYkQtRWtPbzY3M0x0TDV3eV9kRmRlZmRvbWU1bTRwSWpYX1dUTm9GVGNrTmctOFQ4TUFza3V2Nlk3dGFrY01aQ1ZDaFJjVWVyNjJsX3FzSTNseTBuNlZ4elVtUGctalgySkx4aWFnLUlpaDZCS0Y4ZUZtR05pd3V1Q1g0OW9tUHg2TFI4VGxBTk8yVkxpSC0wRWJScENjeWtrYmsyWEttcURSWlRZSmdEck5nSGNLUQ?oc=5",
-     "published": "2026-11-20T17:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHhjbjZ6YkRKOVRGVk5BeURuWG1XMldwaGxqa2xnekU0Z1FGaGNxalU3Qlh0Q2FLanJQdFdibFY4TDhaOHJRWVpaYWxGTzVOeEtwckhkcFliN0RJSnJmOFZHekhHb0YwZ1lKVlNEV0Qwd1RFTW9EN2VTQ0RyaUlwSDBVNWNnaXk1WWhnVVR3M3JXaTlWSXdYOWFfU0M2VTNPY3BBZTdubU93MFl4?oc=5",
+     "published": "2026-11-21T00:11:15.000Z"
     },
     {
-     "title": "Eastern Africa seed conference ends with calls for food security",
+     "title": "Mexican cell carriers facing widespread outages, users report",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRkQ4c0RPdHZPSm5hc2JXRmRIbjR0bTd2YXRMTmhmMlVkNmxuRXJlZTNmaDJqWV94RkdQTVFUNG5uOHNBOVpucGpHeWhfR2VYTVhQdlBTWmpvLVduY0xqN0tBQ2dNeHMwU0dzTTJ3UjdVZWxUV3dSbXJXaGRTcTNBN2hiUW9VWWFlS3dMRlVQdGtYcmRyWHNDSU16dlVxZHN5aXgwVk80YkFaMlJ3dDFJNWN1OA?oc=5",
-     "published": "2026-11-20T17:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVZvOUhMOGJkd0thc0lJSVRPMTVSNXZ2Y250WFlFM1NVNWJVNkhIMUZVYzJhaWZhdGVRT1E5SWxUNFg0N29qU3lCM2hibGJubmhHTWNDXzhPN3dOS0tNbGlQN29qSXBOQ3g3LTFyU0JKMEZfT2ZiNWdkRTBmY2NLSXZyWDBiQnpNLVpEalh2U21CYzhhTHhrQUhnMjRUajhTSmZkbTk4VFU4VDJJYXZHWnNfUQ?oc=5",
+     "published": "2026-11-21T00:06:00.000Z"
     },
     {
-     "title": "Slovak landmarks light up blue to mark World Children's Day",
+     "title": "Pain after pain for many Lebanese",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOa2FoZEZtamxsejNIQkJFdDNDVllRMGtOLWZadTNKVHlXRExoaXhVTGYzOVlKMjhrUFBRdUVPWGUwSFFWUkxJMmt4Q1QwcXVKbzlXbEg1XzZsQm5aOEVSRE01ckNlQVBWT3BqdHllVjhBTkF6TW9OT2d2cjBNTnZFZWtieWNpbC1HNlRkRWdkR0V3TENfOTgzS3ZNbnUwR1ZVcmVPei1TanlmZl91Z3pv?oc=5",
-     "published": "2026-11-20T16:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmZqU1JCREdoRVhTWlhYVk4wZlhOS0tqOWp1WC1Fem9NQXp5dVV0NU9rRTZWUm5HLXA5MERST0ktUk8yQ2poZlQxS09YXzFSSmlZbzAyTi1GOHAteklnT0NodlkwbEgxeF9ocHNjUURYNnlTbmVKYWpXaHJPS3BGOHd2WFJ4SzBPV3c?oc=5",
+     "published": "2026-11-21T00:04:08.000Z"
     },
     {
-     "title": "Football: Soccer-Chelsea fined £150,000 for discriminatory chants at Charlton",
+     "title": "Goodbye, Mr Chips",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNDBjVHllbk54a2xqNzJOcktfN21Sa2NxTmxMdDJ3QnZZRHRReE45V0pvNEZyTEJjbnpTZTNnQ1J4U3VCcWFZX3Z3TmZPR0Y0TDY3QUVIanNEYjdYaHdyMW95MWtwNFFSbUxUNEhacGdxY05VUG9uN25Wd01DS2xOU2E3Y25GbGVOXzk2ZzBWek9vQm81SmNlYnJDNkwwOEQzUmhuYXRGV1RCbTAySnRySGlyTURJVWljb0E?oc=5",
-     "published": "2026-11-20T15:54:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EOEtRR1ZQRmh0aDZPdVk4M25UREZ2WGZUNl81MHQ4blhjWVJpUmFaWmRuQlVSR0djZzNrQVlZTnV0WXVXQWhFSUlULTFPRHI2d1gwRUhabkJxT211NHNnLWVCTG9GYzMtQWV2VFBub0tham8?oc=5",
+     "published": "2026-11-21T00:04:08.000Z"
     },
     {
-     "title": "Nvidia's share slide knocks it below Alphabet in valuation",
+     "title": "Significance of tax relief on sports shoes",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3dxWnByV3F5c3ZfRExTN0Frdmx5dmUzS0ZWMUVURUlCOVdmR1VsZ1Z2empXWGtzdUJpY2RLUUNrdWlzdm9SOHg4WTczZFY4S0Z3cllXWUUtVDFGOWFOLTUtNDM1cGxDaVBhdU41b1gwVkF5MDBBYVVNVGt1Z1ZqajE1MWpmZXU5RHFvZG5BRF9GM20tWXdxLXNqRkJfWDhZTWtBeHBFTTQ4SmQ2WENIN2FfYw?oc=5",
-     "published": "2026-11-20T15:44:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2x4YWNmYVRuMm9TSU5JeHcxaE5LcjZpdDRmVmlTTGFway1GOVBSU1ZwTFFvUS1hdzRRVmE2QUI1M2ZBN0E3eEhUcTBBSzZVMkRUdTNFdWZzejhKTlNkWE56aUJsaFhVc1JENjl2UFRWemxDQjdKbDZmUzVnbV9INFlWczFjM2l5b1k2eUZ2cEtOa0VoYXFOM3ZrSjk?oc=5",
+     "published": "2026-11-20T23:59:33.000Z"
     }
    ]
   }
