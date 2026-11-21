@@ -1,10 +1,46 @@
 {
- "updated": "2026-11-21T00:43:17.081Z",
+ "updated": "2026-11-21T08:09:44.769Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
+    {
+     "title": "Cartel kingpin on FBI’s most wanted list reportedly captured in dramatic Mexican military operation",
+     "brief": "An alleged drug lord listed among the FBI’s 10 most wanted fugitives has reportedly been captured by the Mexican military, sparking violent exchanges of gunfire in Sinaloa state on Friday that sent fans fleeing from…",
+     "link": "https://www.cnn.com/2026/11/21/americas/el-chapo-isidro-mexico-fbi-wanted-hnk-intl",
+     "published": "2026-11-21T08:09:44.946Z"
+    },
+    {
+     "title": "England captain Harry Kane is expected to miss ‘a few months’ with ankle injury",
+     "brief": "England soccer captain Harry Kane will miss the “next few months” after tearing a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne on Friday.",
+     "link": "https://www.cnn.com/2026/11/20/sport/harry-kane-ankle-injury",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "DOJ Alaska Senate race investigation shifts focus toward Peltola campaign and Democratic operatives",
+     "brief": "With Alaska’s Senate race now called, the Justice Department is shifting focus toward Sen.-elect Mary Peltola’s campaign as part of its ongoing criminal investigation into an alleged scheme to run a spoiler candidate…",
+     "link": "https://www.cnn.com/2026/11/20/politics/doj-alaska-investigation-dems-peltola",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "The FBI was hacked again, this time the breach targeted its crime database",
+     "brief": "The FBI is investigating an apparent breach of its nationwide criminal information database that serves as a lifeline between federal, state and local law enforcement, two people briefed on the investigation said.",
+     "link": "https://www.cnn.com/2026/11/20/politics/fbi-hacked-again-target-crime-database",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "Navy won’t rename carrier slated to honor Black war hero after considering switching it to Trump",
+     "brief": "The US Navy is no longer considering renaming an aircraft carrier under construction that was set to honor a Black sailor hailed for his heroic actions during the attack on Pearl Harbor.",
+     "link": "https://www.cnn.com/2026/11/20/politics/navy-wont-rename-carrier-for-trump",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
+    {
+     "title": "Zohran Mamdani makes surprise appearance on CNN’s ‘Have I Got News for You’",
+     "brief": "“We’re gonna have someone fun come out,” Roy Wood Jr.",
+     "link": "https://www.cnn.com/2026/11/20/media/zohran-mamdani-cnn-have-i-got-news-for-you",
+     "published": "2026-11-20T12:00:00.000Z"
+    },
     {
      "title": "Judge halts Army’s plan to detonate 5 tons of bomb-making material as Iowa residents worry about lead exposure",
      "brief": "A federal judge has ordered the US Army to pause its plans to detonate five tons of lead azide on Monday after environmental activists filed a lawsuit expressing concerns about the potential impacts of the explosion.",
@@ -12,45 +48,9 @@
      "published": "2026-11-20T12:00:00.000Z"
     },
     {
-     "title": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
-     "brief": "The man accused of sparking last year’s deadly Palisades Fire was found guilty of arson charges Friday after his first federal case earlier this year ended in a mistrial .",
-     "link": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "Melania Trump seeks ‘solitude’ in new docuseries",
-     "brief": "Melania Trump’s streaming docuseries, released by Amazon on Friday, reveals an introverted first lady who shares new insight into her marriage and priorities.",
-     "link": "https://www.cnn.com/2026/11/20/politics/melania-trump-amazon-series",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
      "title": "Why surgery wasn’t an option to save Fiona the hippo",
-     "brief": "Her keepers and adoring fans across the globe are mourning the sudden and tragic death of Fiona, the famous hippopotamus at Cincinnati Zoo, who died Thursday at age 9 after ingesting a knit hat that accidentally…",
+     "brief": "Fiona the hippo captured hearts around the world as a premature calf fighting for survival.",
      "link": "https://www.cnn.com/2026/11/20/us/fiona-hippo-death-zoo",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "Brazil’s former president Jair Bolsonaro has been hospitalized again, son says",
-     "brief": "",
-     "link": "https://www.cnn.com/2026/11/20/americas/bolsonaro-brazil-hospital-intl-latam",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "Trump defends Putin, floats a Stephen Miller presidential run and says he’d work with Dems: News briefing takeaways",
-     "brief": "President Donald Trump made a high-profile White House briefing room appearance Friday amid a pileup of domestic challenges — including a string of sudden tech outages, rising artificial intelligence worries and a…",
-     "link": "https://www.cnn.com/2026/11/20/politics/trump-news-conference-takeaways",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
-     "brief": "A punishing sell-off in technology stocks intensified Friday, wiping out the Nasdaq Composite’s gains for the year, as investors continued to pull money out of the once high-flying AI trade.",
-     "link": "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai",
-     "published": "2026-11-20T12:00:00.000Z"
-    },
-    {
-     "title": "Department of Homeland Security’s holiday advice to employees: Don’t talk about your work",
-     "brief": "It’s often good advice to avoid talking too much about work at holiday gatherings.",
-     "link": "https://www.cnn.com/2026/11/20/politics/homeland-security-holiday-advice-secret-work",
      "published": "2026-11-20T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Cricket-Rahul closes on century as India eat into New Zealand's lead in Wellington",
+     "title": "Cricket-Padikkal strengthens case for India's number three with Wellington fifty",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUthYXdjMUJuZnVQTnUwUGR6TmZaTmx3S3Q2clBPV3dSUVZFVHFUTkEzaURyVXhmbjhuY2tiR3pnS0stRVh4aUtYbjltaS1SVVhzSDNtMTE0TldBeGw4NDMzNWxOTHJIcE5aTmI1bExXVEFfdFhPc091aEZUbTQtYXJtV284X0VZaTlBbGFxU0FtLUx0U2hlWVZ6Nm1nZVJwVG1rMk1pa3hiLWIzbTZzYzkxalhwWTR1ZDJGWWhHRkZkd3pFVk9rekd3aTA5b0JCQ0E?oc=5",
-     "published": "2026-11-21T00:36:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQS0zZWtiSFpjUFBzYUFZQkF0ZjZEcDNXOHdFemtYQ01zZXNqaTFkZDVYYXB1UEJTRjVKRURsbVlpTUtaYk5VcG9wSDA0X3BwZGM5dF9xdDRIb0o1NkJXaDc2UU5nTTViQW4zTzV3VWRqd2ZvdXk2XzVnNWtpNUdlMktBMEY5UVhYdl9SWndiNWwzMFlUTS11RHJiTks1NFdBOFVia0pmYTFWb0J1NWpoY2ozMk1jVlVWT243ZnBfNGI3Wi1UdDQtZ21pa25JQkE?oc=5",
+     "published": "2026-11-21T07:33:00.000Z"
     },
     {
-     "title": "Mud-brown tide, golden hope",
+     "title": "No party holds permanent ownership of Penang, says Parti Wawasan Negara",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUWluRkI4VUg2eVFuWHM4QWZBY1hLSzdPWUFrMHZjRU4xT2RoNkdrZ2M5d0pvRGQ4YzkwS2VjcHNadWtKLTZHOW9CVXRaZHhHLWJ6SFM5Y0FQMzJ1UjJlN3pRWUJzYU1vcDRtVVNNejViaklCeGlmWWhLSkFtLWZqTQ?oc=5",
-     "published": "2026-11-21T00:11:15.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX2gzZ1VaS09pUU9RajlDY2VtV1o4TkM0X1FDQk5aeXRTLTdIdXkwaTRxV3U1d1VXbFpXbTE2Nm1jSWh4RGxWenlpYW5vbHZYM05xZHdoQUhYdWNQMVhtRkFsaXlnLTA4anF5SWNhVDZaUWV6MmZaNDZ2OTBFT1ZzY0NPQ1ZVQ3M4LTEwUklGOVNiWUZ2SGVCeXVOenpIUnBGaVdJNjBVS0hnU3BmTVBOSmU4cndFQm1DZGlCXw?oc=5",
+     "published": "2026-11-21T07:23:00.000Z"
     },
     {
-     "title": "Malaysia’s message at Apec",
+     "title": "Badminton: No ticket to Finals as Soon Huat-Shevon fall to China's top pair again",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOREI5MW1Dd1VMazJZU3JkcmdQM3hlNE9zWldTNFZhVmhOZnpod0c3Qm1pQWRmNUt2YmlVTFpveVVLZnduWVo4dWhzdzBpZmdQU2pxVGsxckRSWENCYWt1ZG1QOXFKZXdINnFoVEJKOHhKYVE3SFFpa2RaNktPMThET1dRLW16UHo0ZE03UkpRejFtcFRr?oc=5",
-     "published": "2026-11-21T00:11:15.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnZBb3BlVDFmU0hYcktPQVFnS0RmcFI1UWl3LW90RUJiOHU4dE9FRmlFc01CSjg5MmtNQ0U1UjlCbDZhcklEOUhMVHg1blJhMEtVWkt0ejFWX1Y4NXVhUkliVGN0d1M5cHBwakZhaHhxWThNZnlLcmwtZHpSVE9aUEROUjBYdEJPa1h4OWdzMksxdnJ2T2x5ekVXdGNYZktqVFVwTlJuSXhmaTZaN1pHS0RZZzFReTRwbHRIVXQwemNPMjhs?oc=5",
+     "published": "2026-11-21T06:51:00.000Z"
     },
     {
-     "title": "Hockey: It’s Sufyan show as Pakistan sink Canada in rain-hit match",
+     "title": "Govt agencies, amateur radio operators team up to bolster Sabah disaster readiness",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObHhjbjZ6YkRKOVRGVk5BeURuWG1XMldwaGxqa2xnekU0Z1FGaGNxalU3Qlh0Q2FLanJQdFdibFY4TDhaOHJRWVpaYWxGTzVOeEtwckhkcFliN0RJSnJmOFZHekhHb0YwZ1lKVlNEV0Qwd1RFTW9EN2VTQ0RyaUlwSDBVNWNnaXk1WWhnVVR3M3JXaTlWSXdYOWFfU0M2VTNPY3BBZTdubU93MFl4?oc=5",
-     "published": "2026-11-21T00:11:15.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVHpqS1c1UFI3anlfLVlfXzZtaDdNSmpKMENMZEptazJJOW5xOTJacTlvWkRrZVVQVl9NWDFKUUNGSTJKYXU5ZGkyVDZSRE9RbjFBT0hpbGVrUmtmbjRYOXJuYjhwY0NGWUN6dnFyUXJKSEcybG1sUU00NU9JZ1EzR052aU4xRFZUVGloT1ZMSzBVLUZBZU1SdzBMZVJJcFN2bjk4MUZLdEY4aS1nblAyS0ZKcUpQV2djY2tlZHBnOFNneVVjaEhtWXNUaw?oc=5",
+     "published": "2026-11-21T06:48:00.000Z"
     },
     {
-     "title": "Mexican cell carriers facing widespread outages, users report",
+     "title": "Iraq fire at Basra power station kills at least four, injures 30",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVZvOUhMOGJkd0thc0lJSVRPMTVSNXZ2Y250WFlFM1NVNWJVNkhIMUZVYzJhaWZhdGVRT1E5SWxUNFg0N29qU3lCM2hibGJubmhHTWNDXzhPN3dOS0tNbGlQN29qSXBOQ3g3LTFyU0JKMEZfT2ZiNWdkRTBmY2NLSXZyWDBiQnpNLVpEalh2U21CYzhhTHhrQUhnMjRUajhTSmZkbTk4VFU4VDJJYXZHWnNfUQ?oc=5",
-     "published": "2026-11-21T00:06:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNkhpeFdGWVFKOGdiYUloRFl1YmM3alVqMk5qMTVSQ0FTeExtOVZYWG5tU2ViVU5WcUl6djFRZGxIYjdKS25wNmdWazFnY1UybXhUeWhTSFNZa0tTWnBwNkJVaEhXNEtrQTJYV3IxNjBFcVFJeHNfQnRHLWRVV2EwSEJuQk5zNjNrLWZuR2FJcnBrUGxiTGhXQTIyYVdma25nb0MxYU8tclNDUk5Rd1EtNGlR?oc=5",
+     "published": "2026-11-21T06:35:00.000Z"
     },
     {
-     "title": "Pain after pain for many Lebanese",
+     "title": "MetMalaysia warns of thunderstorms in several states until 4pm (Nov 21)",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmZqU1JCREdoRVhTWlhYVk4wZlhOS0tqOWp1WC1Fem9NQXp5dVV0NU9rRTZWUm5HLXA5MERST0ktUk8yQ2poZlQxS09YXzFSSmlZbzAyTi1GOHAteklnT0NodlkwbEgxeF9ocHNjUURYNnlTbmVKYWpXaHJPS3BGOHd2WFJ4SzBPV3c?oc=5",
-     "published": "2026-11-21T00:04:08.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSjVXY3BRa1FULWpVNDVndS1GNUpGdHJ6XzBFVzlsaFktdC1Kb2UtZW54aWVFOUZTdWNzTzMzMTM0Rk92eEtrOGsxVFFoZUc0YlZWM0lOMjhSVmp1bHZiVEVjSUY0bHNMd2UtTjJvdEdYdWNoQkpNV3RRTzI5cFhIVFRxbExWamVxT0poRW95bTU2MlV5ZV82X3BNbnludlBGYThvdjV1ZXFQU3Q0R0x6TVNXM3k5M2Jla2dZ?oc=5",
+     "published": "2026-11-21T06:21:00.000Z"
     },
     {
-     "title": "Goodbye, Mr Chips",
+     "title": "Bitcoin falls to its lowest in two years",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EOEtRR1ZQRmh0aDZPdVk4M25UREZ2WGZUNl81MHQ4blhjWVJpUmFaWmRuQlVSR0djZzNrQVlZTnV0WXVXQWhFSUlULTFPRHI2d1gwRUhabkJxT211NHNnLWVCTG9GYzMtQWV2VFBub0tham8?oc=5",
-     "published": "2026-11-21T00:04:08.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWHdBTjdWUTNKeUtZeFBUUjAyV19KUHRZVWVCa0U0NDl6bDZTTkFVQmNGNThpUVhPRXNaMFA1RElkWlV2QktfRXdjTlBKTTl0VlJTdFRHakVMd01aTWpiYnRvYzZ1TXlYSDhjSG9nNDJnR3NQcTVIaGlqS3JYVjkwcFduVVh6QjdIM09UaTZLSUdwQklWR3FwLQ?oc=5",
+     "published": "2026-11-21T06:12:00.000Z"
     },
     {
-     "title": "Significance of tax relief on sports shoes",
+     "title": "SoftBank’s Son explored $1 trillion buyout of SK Hynix, the Information reports",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ2x4YWNmYVRuMm9TSU5JeHcxaE5LcjZpdDRmVmlTTGFway1GOVBSU1ZwTFFvUS1hdzRRVmE2QUI1M2ZBN0E3eEhUcTBBSzZVMkRUdTNFdWZzejhKTlNkWE56aUJsaFhVc1JENjl2UFRWemxDQjdKbDZmUzVnbV9INFlWczFjM2l5b1k2eUZ2cEtOa0VoYXFOM3ZrSjk?oc=5",
-     "published": "2026-11-20T23:59:33.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUkZYYkdYcWtadFlqekY4MjdPckNfbHJWSDBTMlNLWDF6S1U5REZfZ1lxWWxFa2Q0enpjaW1kTXZQTUJ4YXA2bHlUdWZobDNZSGtkVC1lTlZ6WDc2RDR2TmRNdFp3Wjd4RlVnMW0xTmMxN1Zzd2YzWGdpNkxIa0lXQUk1blh3TEd2Zm1WanRKaEZFeHBaRXlQNldyU1g0TGtpb0Q3bEpuOFRLMnhQVjJDeHVqU2REamxUNnJxOF9VWXk4X3lmMFIyaA?oc=5",
+     "published": "2026-11-21T06:04:00.000Z"
     }
    ]
   }
