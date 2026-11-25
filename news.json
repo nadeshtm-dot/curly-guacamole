@@ -1,57 +1,51 @@
 {
- "updated": "2026-11-24T15:40:19.516Z",
+ "updated": "2026-11-25T00:31:52.450Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Senegal reinstated as 2025 AFCON champion after winning appeal",
-     "brief": "Senegal has been reinstated as the 2025 Africa Cup of Nations (AFCON) men’s champion after winning an appeal at the Court of Arbitration for Sport (CAS).",
-     "link": "https://www.cnn.com/2026/11/24/sport/afcon-cas-decision-morocco-senegal",
-     "published": "2026-11-24T15:40:19.749Z"
+     "title": "Authorities searching for 4 adults and 2 kids on plane that crashed near Mississippi’s Horn Island",
+     "brief": "Authorities are searching for six people after a plane crashed into the water northeast of Horn Island, Mississippi , on Tuesday afternoon, the US Coast Guard said.",
+     "link": "https://www.cnn.com/2026/11/24/us/plane-crash-mississippi-horn-island",
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests",
-     "brief": "Almost three-quarters of a million Russian soldiers have been killed since Moscow launched its full-scale invasion of Ukraine in 2022, equating to roughly one death every four minutes, analysis based on leaked…",
-     "link": "https://www.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl",
-     "published": "2026-11-24T15:39:19.756Z"
+     "title": "A federal grand jury indicts Thomas Markle on child sex abuse material charges",
+     "brief": "A federal grand jury in Los Angeles on Tuesday indicted the estranged father of Meghan, the Duchess of Sussex , on charges that he kept child sexual abuse material — including photos where Markle himself was pictured…",
+     "link": "https://www.cnn.com/2026/11/24/us/thomas-markle-indicted",
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "Iran’s leaders want a baby boom. A struggling economy stands in the way",
-     "brief": "Iran must address its declining population by encouraging young people to marry and have children, according to Supreme Leader Mojtaba Khamenei.",
-     "link": "https://www.cnn.com/2026/11/24/middleeast/iran-population-supreme-leader-baby-boom-intl",
-     "published": "2026-11-24T15:38:19.738Z"
-    },
-    {
-     "title": "Army returns to plan to detonate stored explosives in Iowa Wednesday after appeals court OKs permit",
-     "brief": "The plan to detonate explosive material at an ammunition plant in Middletown, Iowa – a community in the rural southeastern corner of the state – that was delayed for days and seemingly stopped for a few hours is now…",
+     "title": "Army details plan to contain lead dust ahead of Wednesday detonation in Iowa",
+     "brief": "The plan to detonate explosive material at an ammunition plant in Middletown, Iowa – a community in the rural southeastern corner of the state – that was delayed by days of legal and political wrangling is now…",
      "link": "https://www.cnn.com/2026/11/24/us/iowa-lead-detonation-army",
-     "published": "2026-11-24T15:37:19.760Z"
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "Two arrested after break-in at country home of Prince William and wife Kate, UK police say",
-     "brief": "Two men have been arrested on suspicion of burglary and trespass after a break-in at the country residence of Britain’s Prince William and his wife Kate, British police said on Tuesday.",
-     "link": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl",
-     "published": "2026-11-24T15:36:19.768Z"
+     "title": "Trump says pardon for Jensen Huang is ‘always an option’ but likely won’t be needed",
+     "brief": "President Donald Trump said Tuesday he would be open to pardoning newly reinstated Nvidia CEO Jensen Huang for any potential crimes — but he added that it likely won’t be needed.",
+     "link": "https://www.cnn.com/2026/11/24/politics/jensen-huang-trump-pardon-option-nvidia",
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "Key Chinese Communist Party figure placed under corruption probe as Xi’s purge escalates",
-     "brief": "The Communist Party chief of Shanghai, considered one of the potential heirs to Chinese leader Xi Jinping, has suddenly been placed under investigation –– marking an escalation of an anti-corruption purge that’s…",
-     "link": "https://www.cnn.com/2026/11/24/china/china-chen-jining-investigated-purge-intl-hnk",
-     "published": "2026-11-24T15:35:19.766Z"
+     "title": "Exclusive: FAA probe zeros in on culprit of nationwide ground stop, but agency still faces tough questions",
+     "brief": "Investigators looking into what led to a nationwide ground stop earlier this month have been able to recreate the mysterious technical failure in a lab and believe they found the culprit, according to a source…",
+     "link": "https://www.cnn.com/2026/11/24/politics/as-faa-zeros-in-on-cause-of-nationwide-ground-stop-it-faces-questions-about-network-upgrades",
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "El Niño and climate change could make flying hazards more frequent — and dangerous",
-     "brief": "At 12:47 pm on November 1, the co-pilot of a Learjet 60 private jet reported some light ice buildup on the plane and moderate turbulence en route from Austin, Texas, to the Bahamas.",
-     "link": "https://www.cnn.com/2026/11/24/climate/flying-turbulence-ice-aviation-hazards-el-nino",
-     "published": "2026-11-24T15:34:19.763Z"
+     "title": "Like ‘family businesses’: Inside the Nvidia board that ousted and rehired Jensen Huang",
+     "brief": "Nvidia CEO Jensen Huang gushed last year that support from longtime board members Tench Coxe, Mark Stevens and Harvey Jones was crucial to helping him navigate three decades of running the company.",
+     "link": "https://www.cnn.com/2026/11/24/tech/nvidia-board-jensen-huang",
+     "published": "2026-11-24T12:00:00.000Z"
     },
     {
-     "title": "Trump’s stunning show of raw power and what it means",
-     "brief": "President Donald Trump’s summit last week with the tyrant rulers of Russia and China implied that powerful men can do exactly as they please.",
-     "link": "https://www.cnn.com/2026/11/24/politics/trump-nvidia-jensen-huang-doj-newsom",
-     "published": "2026-11-24T15:33:19.743Z"
+     "title": "CIA hit by hack impacting unclassified information",
+     "brief": "The CIA and Office of the Director of National Intelligence suffered an apparent hack affecting unclassified information, four sources familiar with the matter told CNN.",
+     "link": "https://www.cnn.com/2026/11/24/politics/cia-odni-hack-unclassified-information",
+     "published": "2026-11-24T12:00:00.000Z"
     }
    ]
   },
@@ -60,58 +54,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Ukraine needs $125 billion in external support in 2027, Zelenskiy says",
+     "title": "Ministry turns to tech to curb corruption",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlhYcXBadkRDd0xjNmZxbjVNOFlFRWJZRF95TGhDR1ByTTlIcFJEX0M0ZFNVTEVubXJSTGdjdjlnbjlaS0dobnRCQTVLRlVUcHRNaGJncnJvb0gxd2ZaNFNJd0NjUE9idWVITFVBTkxBaUVvNzlfY2V6MDBxV29KYXF3SVlZNlNYaUR0bjU2S1BiY0R2aTlNX1p3TFBpM0NIWGVVOW1WVldyejVscFpXOU1OWVVIdWFS?oc=5",
-     "published": "2026-11-24T15:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlVRbjRJVEhZU05vRm5Jb1h5RkpuVjN1R3o5Zm1SdVdrUkFTekQxQ1RkNnJFdGhWdWRHZWVkdkJ0UF92ZkpjYmt1cTdHR1dncjlBdS1EUkI4SzdIQ21oTnd2bTYzQktyRWhNUi1WWldISnVOSlVMZjZ6MGEwYUthalhkdGozdHplc0hLM0pMbU9CSmdSSHc?oc=5",
+     "published": "2026-11-25T00:24:40.000Z"
     },
     {
-     "title": "Around 175 migrants unaccounted for after contact lost with boat from Senegal",
+     "title": "Deleum’s third-quarter net profit declines",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVTZRU2lDNHNmSUotY3NnRjZiVkozVDBxSE1OM003SlFLZnByakctM204RkdvUXU2bXZHcEVWcTdWMTV1eTJiX25HTk5NOHhtZkJxUWpuMkQ0NUFrZk53Sm55YzJ1M05UcjZyWE5lSlBQZThiX1JuZVJOWGJXYmlnMzJTRnpJb2QtNzdTVGFRX3g3a01ZcGNlZ21WOTNzeXVOWGNjZ1hTTXhDQzczTzViWXc3R2JHWkNJc2ZnMzJYY1F3R0RJ?oc=5",
-     "published": "2026-11-24T14:38:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS0hLeDV5VHJKd2RMc2ppdk1KWXEtOGFRaXAzdFU2bzFTOUN3TkUwZk1aM3EwOEJWbG9naUxKYlFCbnR2VEp0eldFTlZkT3NucjIxYzNZdlRMWFRSZUR4T0lkbVB5Y1RLVzJpYV9WZGpDYnpnTHJ6M1J3ZXVsa01rbnZPd2E2WDhGZ3V6R2drbW8xdXB6MWZfX0ZEalV2TFI5SVN4ag?oc=5",
+     "published": "2026-11-25T00:23:56.000Z"
     },
     {
-     "title": "Football: Soccer-Senegal reinstated as 2025 Africa Cup of Nations winners",
+     "title": "Alam Maritim scraps RM81mil vessel purchase",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0I5S2RZLUpDUXU0R2V4YTBZQkNLNDNGRlpyazh0RUtLYWZ6Z3B0NVNQdG5BNlBUQUx0endoMVhJTHFFcUhBQlhnb3dYdlA3TnJBMkszM29RenhCUW1JTzBIYVdsNXl3Nm5mX2xtTjhBNGRUN0R3NE9VU1lrUDF0andSMU53LU43bEphcW0wSHNJV2FlWWxNUTJfSzRFX1NiUzdya3diR1dyVnN6VXBXMU5ES1ZIQUE?oc=5",
-     "published": "2026-11-24T14:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZUFfdUJOc3I0MTItNlRRa29iZXhseDd4WVVvNXRkNnRNSnJSQmF0MDVaTkZiNUFfdC1RWEw3XzV2VklBeHh0YngxeEhSVFZLNW45TEFjM0pLODlKb2p1a2tYU2hWUkxQcFZNbm9lUmVMb2tLVkpRQXBDVWNJVk1IRDFoM0owbWY1QmlRSm5SLWZxZzRLVG52MzYzNVIzYzJvSExUWUhkVQ?oc=5",
+     "published": "2026-11-25T00:23:56.000Z"
     },
     {
-     "title": "BBC to trial CBeebies shows on Netflix in new streaming partnership",
+     "title": "EXSIM bags RM33.16mil KL Eco City deal",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSGl1Z3lvRzh4aXRWRGpNZWtGeEZ6em1wWGNqS0xYQ0xNbXB1RFJSa01Xclk4R1JLQ2s4VHN1U21IQWNOcDFoNXBqamFRYmdwYkJhNjhCU1R5N1pUTExaQ1FDbDlwc0RfMnZtMkNnMDNYazI1ODU4WXk4R1E0WDRZbEFidkhBdjIzeEw2NFZ2cWp3Z3NydUZlMnhvSlQ0cUhUbFpDeGVrZ0xIR0hoN2ZreHZjVkp4cXRhc1N3Mw?oc=5",
-     "published": "2026-11-24T14:07:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczdlWTlleWtYSWd4b2h5SnVVRlRUU2d6aW1fSHRscHVucGltMFNXNmV5NjhNdzhjNFJTVVBrLWJuaEM3bkFNbm5vN3A3ZHJHYUFLVDB6Q0Z3eTFrRU81Yk4xM0QzUnlhallLOEJLek1IZTJ3S25qX0V6ZlloYzI0dGt5Vk5ienY5NEdaSXNOc0RUM0R0QjZ1MEV2MUJPRTA?oc=5",
+     "published": "2026-11-25T00:23:56.000Z"
     },
     {
-     "title": "Slovakia scraps mail-in voting, opposition protests",
+     "title": "Mega First posts lower 3Q26 earnings",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNXNTOGd5WUF4OTR3ZmJLZlFwaUw0N3VuOE94UjJGck1zZGtMc0dObVFXcmFoaktDcEt6UUtvSTh3d2V4MndjWDRoUHNGQXc4YWkydWsxYWlOSmxIajhXcGFHVkU2dXdQdEV3RUlsMVRETEhhSGFtR0ZLaVEtVGpBWWVGSzVmYkFMWEo4OEZLVkR0QVdUck5HeG5BN2J1d2pE?oc=5",
-     "published": "2026-11-24T13:57:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcVlLTFdQRF9xUnRRN3NZZnNBY2NJMUdya1Nid0tnTUdXOEpEMDFlek9fclRJSEViTFFySTRFdktQNTI2ZWZGcF9OdWM2TXJfREZLNV9qclNXeFNRZ2F0OW1iOTNiRDVIaUl3QzYxb1BYYlB1UGNEdTVRQWZmU2U0ZXppMGdNdXIwTTBoWUM0MnFFdU45V21LUFdTVEJjUQ?oc=5",
+     "published": "2026-11-25T00:23:56.000Z"
     },
     {
-     "title": "China and Cambodia to conduct joint military exercise in mid-December",
+     "title": "Greatech to buy RM153mil Penang industrial complexes",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTkU1QS1lYWdzc3VFcUhpNGdqdXJUNUJxcHVHY2ViTUZjSFJXY3FDeXR1SHltam9JcmxPTkVGQ1FuVUdhU1JMOGZiQWloUW00TWRSd05KRjA5NGJ3OFY0OGRNT0U0eGU3akMzUUsyQzdNTXNGOGdxV3ZGM3F6Nm9sTlZ3bVhDRnl1UnJ6LW5ocVFtZE56MXg4eFVHOVo4c0NVa05uM1M1ME4tSW9PbUV3Sy1ReFRNY3FFcVNHY1NWSlREM0tLTU9sUVg1ZkQ?oc=5",
-     "published": "2026-11-24T13:10:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2xqV1lRT0JScnlwdkVEQnAzNDUwWmd1Q1NnMlB1WjRCV1ZXdjRMazBraTJzX0xsNnB2Qm9Xd3dYemx4Z3FSWk1mM1VRazJpajZHLUZmcGppS3dQM29pWGh2eVFGcHpyUlJRZ0VPR19WUmFMMVpFcUYzYXltaXJQc1JKNndDdTFpLUl2QkVfR0NNQlNMcllCYmx5d2FmZTU5WmNHbjZOZ0FlcWdkZG5BY0JWMA?oc=5",
+     "published": "2026-11-25T00:20:44.000Z"
     },
     {
-     "title": "Boxing: Boxing-Khelif's comeback bout to go ahead with new opponent after Sarabia withdrawal",
+     "title": "AI scanners blind to drug-laced vape liquids",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYVgzdThKWldBNTZDWnp3MGl6dkM3aVJmS0tURmt6NWNyMVlQQnl6V2dQSnVQeEwybEFGajkwLW5mQVBTRFV4R2xLTTRVb3I4OHNuSUZTZU5mWEpPbXNmLXhQMnpwZ05nN19zSE9UaEN1cU1jYnNnOG5VYlJNUE1VT0lEbnZxcEVJaEd1OVFKaXBHUm1jVXQzMXpfRW9Wc3hzbks1WmVTUUtrSzFIdkI3bXJzal9zVHRYc3ZHLWkzZG9mVlQtYjViRkhFQlBVSWFQcWNV?oc=5",
-     "published": "2026-11-24T12:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV0dYb1daUTZXVXZOWjVWem81VTdYZzYyOWRKR2kyRGd0TnhXdkt3cmZwam01RzZpYU9EWHRwczJZc3ZqdXpHNkFyUkJpSnM3SEFVMGNrSFhtc01DSUxtc3k0ZUVfZlpYMkoxS1ZjRkV6VjAyRTlLb1JHM2tPREhfNi1OOFUtNm9aSnNhRDJJX1dqbHM5XzlwOXNR?oc=5",
+     "published": "2026-11-25T00:18:58.000Z"
     },
     {
-     "title": "Football: Soccer-Palace women docked three points for WSL substitution rule breach",
+     "title": "Public Packages buys Penang land for RM55mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZXU4RG53T2JObUZEeXFFTFNucnlwOHlSaThuREQ0MUtJZzJkVEdXU1RxODk2YUNzR0xFdkg2VkRQaldpM2RHenFlMHc5Y3pldTVkZXBaVVdRT2ZmSjhMamhzY3d4TE51TXVHckxqUklTUmx1blFPaklOeGlPNWtRallNNVAwVmdVcTNJeWljU1BZd3F5UnZ1NHdHYkV3TWtpN01qNDNHZWowYVJTc0c2cE5ESTItLXVhRzFDNzNuTmJBc2M?oc=5",
-     "published": "2026-11-24T12:26:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWFhjV1Jsa2xTM215cXNGa1hiQmU3X0kyTEd3YjlOT1FsMnpEOEpwempsdWZwUmlLTjhoeXExWjFPU0d2dWVfZTBIeVlId2hrODlXSkQzS01KZmo1dnMyZ3dBQS1aUU9xMGNjdjMyc1NsRGh0amdFQ1kzS2UzdHJOQUV3UXBSQlJDUk9SWGhaaE01eTZScC1oNERRbkpFYUk2eFJTWHNrVlU?oc=5",
+     "published": "2026-11-25T00:17:15.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 8 items from https://lite.cnn.com/",
+  "CNN: 7 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
