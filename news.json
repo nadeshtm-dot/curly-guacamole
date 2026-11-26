@@ -1,56 +1,56 @@
 {
- "updated": "2026-11-25T19:51:13.225Z",
+ "updated": "2026-11-26T02:43:30.768Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Vance says he was told Huang was not under investigation",
-     "brief": "Vice President JD Vance said Wednesday that federal officials told him reinstated Nvidia CEO Jensen Huang was not under investigation, downplaying concerns that Huang’s reported affair with a woman suspected of…",
-     "link": "https://www.cnn.com/2026/11/25/politics/vance-jensen-huang-investigation",
-     "published": "2026-11-25T19:51:13.646Z"
+     "title": "100th Macy’s Thanksgiving Day Parade moved to Saturday due to projected storm",
+     "brief": "For the first time in its history, the iconic Macy’s Thanksgiving Day Parade has been postponed because of forecasted heavy rain and strong winds.",
+     "link": "https://www.cnn.com/2026/11/25/us/macys-thanksgiving-day-parade-postponed",
+     "published": "2026-11-25T12:00:00.000Z"
     },
     {
-     "title": "At least 30 killed in fuel tanker fire near Cairo, Egypt’s Health Ministry says",
-     "brief": "At least 30 people were killed and 15 others injured in a fire involving a tanker truck carrying petroleum products in Egypt’s Giza governorate on Wednesday, according to the Egyptian Ministry of Health and Population.",
+     "title": "The government says Iowa detonation results exceeded expectations. Now what?",
+     "brief": "Two hazy plumes rose over the Iowa Army Ammunition Plant Wednesday morning, punctuating days of legal battles and public outcry over the Army’s plan to detonate nearly five tons of deteriorating lead azide.",
+     "link": "https://www.cnn.com/2026/11/25/us/iowa-lead-detonation-what-next",
+     "published": "2026-11-25T12:00:00.000Z"
+    },
+    {
+     "title": "Judge blocks Trump’s FCC from targeting ABC stations: ‘This is not a close case’",
+     "brief": "Siding with Disney in a dramatic First Amendment case, a federal judge has barred the Trump administration from taking further action against ABC’s local TV stations.",
+     "link": "https://www.cnn.com/2026/11/25/media/trump-fcc-carr-disney-abc-stations-judge-blocked",
+     "published": "2026-11-25T12:00:00.000Z"
+    },
+    {
+     "title": "At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say",
+     "brief": "A tanker truck carrying petroleum products crashed in Egypt’s Giza governorate Wednesday, igniting a massive fire that killed at least 31 people and injured 21 others, according to according to Egyptian authorities.",
      "link": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl",
-     "published": "2026-11-25T19:50:13.911Z"
+     "published": "2026-11-25T12:00:00.000Z"
     },
     {
-     "title": "Aaron Rodgers goes scorched earth on Steelers and coach Mike McCarthy after being benched",
-     "brief": "Aaron Rodgers on Wednesday launched a series of incendiary accusations toward his Pittsburgh Steelers head coach Mike McCarthy after being benched only a few hours earlier.",
-     "link": "https://www.cnn.com/2026/11/25/sport/aaron-rodgers-mike-mccarthy-steelers",
-     "published": "2026-11-25T19:49:13.442Z"
+     "title": "A man in Boston won $1 million in the lottery. Then ICE arrested him",
+     "brief": "Over the weekend, the Massachusetts Lottery shared a picture of Ariel Velasquez-Morales smiling gently as he gripped an oversized check for $1 million in winnings.",
+     "link": "https://www.cnn.com/2026/11/25/us/boston-lottery-ice-arrest",
+     "published": "2026-11-25T12:00:00.000Z"
     },
     {
-     "title": "Russian oil firm Lukoil’s overseas assets sold to investors led by US billionaire Todd Boehly",
-     "brief": "US billionaire Todd Boehly is leading a consortium to acquire the vast portfolio of international energy assets belonging to Russia’s second-largest oil producer, his investment firm Eldridge announced Wednesday.",
-     "link": "https://www.cnn.com/2026/11/25/business/lukoil-sale-todd-boehly-intl",
-     "published": "2026-11-25T19:45:13.474Z"
+     "title": "North Korea’s Kim Jong Un urges wider tactical nuclear deployment during inspection of weapons facilities",
+     "brief": "North Korean leader Kim Jong Un said his country should focus on deploying tactical nuclear weapons across multiple domains and that its nuclear material production capacity was being systematically expanded, state…",
+     "link": "https://www.cnn.com/2026/11/25/asia/north-korea-nuclear-weapons-latam-intl",
+     "published": "2026-11-25T12:00:00.000Z"
     },
     {
-     "title": "New images reveal stadium-size crater left by humanity’s first planetary defense test",
-     "brief": "NASA’s DART spacecraft moved an asteroid called Dimorphos four years ago in humanity’s first planetary defense test — a movie-worthy mission to explore whether it’s possible to stop an asteroid from hitting Earth.",
-     "link": "https://www.cnn.com/2026/11/25/science/hera-mission-dimorphos-asteroid-arrival-images",
-     "published": "2026-11-25T19:44:13.505Z"
+     "title": "Andy Taylor, original guitarist for Duran Duran, dies at 65",
+     "brief": "Andy Taylor, an original member of Duran Duran whose distinctive guitar riffs shaped many of the iconic ‘80s new wave band’s biggest hits — including “Rio” and “The Reflex” — has died.",
+     "link": "https://www.cnn.com/2026/11/25/entertainment/andy-taylor-duran-duran-death",
+     "published": "2026-11-25T12:00:00.000Z"
     },
     {
-     "title": "6 relatives on a fishing trip were killed after their plane crashed near Mississippi’s Horn Island",
-     "brief": "Six relatives from two families who were on a fishing trip together died when a small plane carrying them crashed Tuesday near Mississippi’s Horn Island , according to their families.",
-     "link": "https://www.cnn.com/2026/11/24/us/plane-crash-mississippi-horn-island",
-     "published": "2026-11-24T12:00:00.000Z"
-    },
-    {
-     "title": "Cufflinks and clock stolen during break-in at country home of Prince William and wife Kate, court hears",
-     "brief": "Two men allegedly climbed a drainpipe to break into the country residence of Britain’s Prince William and his wife Catherine, a UK court has heard.",
-     "link": "https://www.cnn.com/2026/11/24/uk/uk-royals-william-kate-country-home-intl",
-     "published": "2026-11-24T12:00:00.000Z"
-    },
-    {
-     "title": "Kilmar Abrego Garcia, illegally deported by the Trump administration, arrives in Spain after voluntarily leaving the US",
-     "brief": "Kilmar Abrego Garcia , whom the Trump administration illegally deported to El Salvador last year as part of its immigration crackdown, arrived in Spain Wednesday after voluntarily leaving the US.",
-     "link": "https://www.cnn.com/2026/11/24/politics/kilmar-abrego-garcia-self-deporting-to-spain",
+     "title": "Full extent of Christa Pike injuries ‘still unknown’ 2 months after her botched execution, her attorney says in legal filing",
+     "brief": "The full extent of Christa Pike’s injuries is “still unknown” two months after her botched execution, her attorney says in a new legal filing in a Nashville, Tennessee court.",
+     "link": "https://www.cnn.com/2026/11/24/us/christa-pike-condition-update",
      "published": "2026-11-24T12:00:00.000Z"
     }
    ]
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Latest",
+     "title": "Keeping children’s gaming habit in check begins with a conversation",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXRnSlZ1akQ4TDhKdzg2TGVfd0JLZGpabERQOGVmbXE1M1hZcWlmTExBdzZpeXZTemxKRWNqS3RKSGhuV2dvcFhiTTZCNDNKQjlNaFh2QzlfbmZvNV8wd25aMVNpb1pkWk1UZl91UzJwZXFKRXIzei1FUWZucWRwOUY5SWQxQmJLNXhJcDZySGd1LUJEYUpKag?oc=5",
-     "published": "2026-11-25T17:38:42.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOczB1R2taajZiY2VUVUdDd0d6VWRxN20zekdhX0hfS20xUFZ2ZnAzaVVZRm9ZRmpUTHY4LW9ELVE4T2JVdmpOeGVycmFvZnFaUzFHcUdydEZfdEZtOGZTclFhbDlESE1nN2pBclRQSjRoNFd5UmE5Y3Z0b0RyY0NNVVVxV0JFMGlLLWpFcnFZVGVvSmNUdFd2S1Jwd3VadjktS29kcHVaYmh2eTZGd0NaaGpXdUJXcmJHRElVVA?oc=5",
+     "published": "2026-11-26T02:15:00.000Z"
     },
     {
-     "title": "Zambia invites Chinese investment in forestry plantations",
+     "title": "A senior citizen’s progress",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmc0UjNtbDlRRXl0U1c1WDVIdExBb3hEZHVtemt4S21SYkJ1RzdBeFFlVGRlNlBndU1yajVua0x5WkJNXzZETUxDU1JGVEVlRTJ0aVhBRDFvWGZHWmJpd1FGVFliRmROdzk0aFZxUlBKc1lrM3BfeFdRS0NILTktcVFQNUtieElkUGFhTDZVWjJLUGV4WmxhT2hmWm5iVGNOYnAwclNZRjF0UQ?oc=5",
-     "published": "2026-11-25T16:34:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmlGSldYT3FkWERROFVlVU8wTm5lZ0FDWnljNXh5Yl9WTEx5aFQ3emswUVFMZl9vME8xSmlCdWhobkxLTzFtckVna3VvXzVTaVpqRFdjdWUzUHBkcGxWUWpaSk92N3hlc1ViTDQ1eG5aRTFUMDNWWlFEdDI3SktLNURsN1JQbHc?oc=5",
+     "published": "2026-11-26T01:41:15.000Z"
     },
     {
-     "title": "Nigeria seizes more than $200 million of meth, arrests five Mexicans",
+     "title": "Bowling: MTBC seek commitment from young guns",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT011bURXVzNJTThJUmM3anJmSi03VExLNVVXd3RWaFQ3b2RkZWNodlJXb0tYWUFIRlVkNVR0c0VPbVUtQUVUU254dEJIZWdlZVRXUlhicV91VE9Oa29NZmtDWEdCV2lka0VkWlhiUFVMYWhQMkg1ODdFS3R6QTVQa3NlNDVZcmhjSEFQaXpHTUU3emc2aXoyUVU1RzZFSEtDN3pSLVBndUtSVGJ4YmlkZUxDWnJsQQ?oc=5",
-     "published": "2026-11-25T16:27:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWEh1MUx4bGUxQ1pUT2VwT1ZNeTVjX3BFUEhaVmRMNFFsU3ZvTmt0SkRFSnFfWkVaalZaZWhxbUQtNW9RbjM2QkVPUHozTGtSUDM3bG1kV01mWkFxa3lmeGlKc09qX0RvcHlfaDdIQVhITVNhWXJxMThaVGlROHh3S2EzQ0VRMkdkeFJOeGY1TGtxdw?oc=5",
+     "published": "2026-11-26T01:28:02.000Z"
     },
     {
-     "title": "Tennis-We are missing Sinner, says Alcaraz",
+     "title": "Vietnam says it is working with US to complete trade deal as soon as possible",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXBDVkROUmVCOUp0VnJsdUhPenlSYXRwUUhZVnJSYzR0RFo4clBaN0dkem10NGNBRy1yUjNXRjZvVWNjRl9vQVpkUEdpbHRFZUtjd01kVzVmWkZFYWxlbWVzQmxYRWgyYnowME9TRDdJQ28tT1hXejRfQ0hXVjVacEFBT2xkVlkzcm9uMDVPWDhCTVkzcUJV?oc=5",
-     "published": "2026-11-25T16:15:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWp4UjJhOHpYRkZaWXhTbEppSHNPeW52RHpMUEE4R0xQRHhFU0NXUDBZRkNFQXcwUXRXVWVYUWgzaHJGTDVVNXl3VHFEU1FpdkdmMDRCOFZ0di1Nd0dxWDhPTWRKMm56OWYzSTVEWmZ3cnRUVWJ3UDY5cTZOQ1E1bDVHWmEzWXFUUnlmMlB2bVVYdFJIYl9EOUVuYWU2RjNCazlhMGNNNDBWTy1lVUFkRS03VW9fenJUd2NSb0lqMnE3ekJKWC1KdGRUYnZWeXJhMnVxUzkzWQ?oc=5",
+     "published": "2026-11-26T01:27:00.000Z"
     },
     {
-     "title": "Bowling: Team gold brings back the years for Wendy",
+     "title": "Tomei stays cautious amid pressure",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYjB1bTd4b0h5cHgtaWtrWEFHazl6aXlaR21IWFVBOXczT1B6SHNrT3NFZDM0SVp1Yjhmbmx3Y29wblNHSE0wRjQwSThtTTFHWnE2bk5hMEhGazljVDN2M0N2eU5heE1INWxQTmRDc0RXajhGM3hzY2p6UXgzSzhhald0MlUzNFIwXzJtLVg5VFhhbnVpYUZ3aQ?oc=5",
-     "published": "2026-11-25T15:36:25.000Z"
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQamRYQXVVdXBxQmxiak5SaF8xUEdubVc0WkN1T3pnd294SEUzSkY1eXQtc1lVblpSQXdpd2NpQnBkM2lTc0RSRlAzcTgtYXZFdUY4WDV2c3lNNWpRMGFwZHktaFN0OHJEc1IyUkp0T2F0LVRsVmVyTGYtTk9QbHdrcTJsSnRpbTRZeFNDMXNvaGlYcTlIRGRiTGtuUQ?oc=5",
+     "published": "2026-11-26T01:24:01.000Z"
     },
     {
-     "title": "Ecuador minister says talks with US focused on reviewing operations in the country",
+     "title": "Kerjaya Prospek 3Q net profit rises to RM70mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNnd3NmJUeEQ1OW9XYlh4eFdFSlpfMlJPMmxJX09iZzVnSmtrOEpyczk1M3NPUEtvUzVmSHY1T0U2ZEkwejNad0RSQ1pXc0xjMXJmTjB2dEFuMm5teDZFeWhVcnMxeGkta2tKcGxQSUcxc2U5YjM2OWZoRi1zQlJzMVpHc2hRTEEzX1RtNGI2RVJMb2ZsVnRZaGQzbzdXaXp1VzBvb3NrRmJQd1cxVEltV0oxNW5ZUE9LM2pTMEpLSWhxVVBlNG1JRGtvVQ?oc=5",
-     "published": "2026-11-25T15:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYi1vRTNKSURfT3RQYlFvX0lzbi03U21zS21mNWtPQTVHd05JbU5uVy1YU3ZocXRJSnhaUm9vUlVLLVI2Qlp5SjR3VVp0Vjc0bW5HOUN1SERzR2NickxmSldTME1nY1A3SU9VaTk3Z3B5ZDZvcmJRS3ZjWGpncF9nTm9SbjZFMTJZRW5yeFhIcG1HTUV1eVpQWl9EN3E4NUFVeDNFUmNJbWtzMnM?oc=5",
+     "published": "2026-11-26T00:30:34.000Z"
     },
     {
-     "title": "Cricket-New Zealander Williamson appointed Durban Super Giants coach for SA20",
+     "title": "Hengyuan 3Q net profit jumps to RM558mil",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUEg0Q2tyeExMMTg5ZHFVcnFabE95LVQ4NW9qUWtvMkttbmRJLTJCWE9rS2Z3NFJSLS1OOUNXM3R0cnNZWlJ1YXFISTg5NFVhbTc2S2RPVWhMZzlDcWFqRmlra2JsSWs0Nk83Wk9qNzlKMld5QUVXZE8yYk1SSjJWckNFcGJrMDNzREtnRTZfdEkwbnh3ckZ4b2MzNmdlWnd1Z1AwNEJXY2ZYSnlHc2toaE1faVA5RmJuN0xheF9PdUxvM3RaTzBqYQ?oc=5",
-     "published": "2026-11-25T14:42:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYUo0d3g3NFJ1amhHQkpkeVozclVHaXNDMml5ZmdDN25qX3V0dlZNUngtQXZQbjVuZHo1Tlo5d09INE5sR3VIRFBaQk5aMjlmMVd4STBkaU84akdpQ0VVSUVfMkxQbTQ5eXFzOGN4MnZjRmVDSUN5WnlZaDQ0eE9UNUtFS3ZVZkU2Q04tYllYcXl6R0d4ZFZFWlRoOWVXclA5bERj?oc=5",
+     "published": "2026-11-26T00:30:29.000Z"
     },
     {
-     "title": "India says Hasina's plan to return to Bangladesh is separate from extradition request",
+     "title": "Carimin to raise Sealink stake to 32.99%",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDJOUVZfV01lRTRnZUdJdVh1N0NOMk16WWctWFY5Y3pqUVMzY0c1TkhOaWl4aDlWSVFSODlpQ1JqMHBnV3dCb1RDbzFFVnAxWWxlSXJlUTIzQ3ZFNlpWSl9qeFg1Uk84NXJ0LUd0Mlp0cDNUM1lHSGFfaTZYTHR4WHZLcm9NQkdXbkc1UkJNSWVMU0cwTDdERlNKblVkOHpxYkhmRV9VdzJfUzlzYnBIN09SSHVhMjFvWDBNMEZiTnJRQlk1dExCaVdPLTRYZw?oc=5",
-     "published": "2026-11-25T12:52:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmhndjlTNnJOVXo3dDF1LVphVko0Q0xQTVRjUFZjODBGbTdJLXJvMl83czloQm5qRmQ3OEFzSHZCZ2xMdkxleW92SkpDUUR2cFhIU05FRngzNmFNQXVUZFgzTXUzY1ZPcnNqdzM2dE5mNTc3THZOZlZ5Wk9EUUtEd0NqOFhJYmJ3eUpCS0hreEM0NXdGU0pLNTc5RmFNUUZL?oc=5",
+     "published": "2026-11-26T00:30:29.000Z"
     }
    ]
   }
