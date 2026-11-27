@@ -1,45 +1,51 @@
 {
- "updated": "2026-11-27T14:51:26.295Z",
+ "updated": "2026-11-27T23:19:45.170Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "Middle East attacks send oil prices rising again",
-     "brief": "A fresh flare up in tensions in the Middle East is putting the brakes on oil’s recent slide.",
-     "link": "https://www.cnn.com/2026/11/27/business/oil-prices-rising-intl",
-     "published": "2026-11-27T14:51:26.468Z"
+     "title": "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
+     "brief": "They had rehearsed music, memorized formations and traveled hundreds of miles away from home over the holiday to perform at Macy’s Thanksgiving Day Parade in New York City.",
+     "link": "https://www.cnn.com/2026/11/27/us/macys-thanksgiving-parade-marching-bands",
+     "published": "2026-11-27T23:19:45.409Z"
     },
     {
-     "title": "Spain’s Sánchez stood up against Trump. His own voters may be about to bring him down",
-     "brief": "For much of the past few years, Spanish Prime Minister Pedro Sánchez has enjoyed the kind of international reputation that few politicians do.",
-     "link": "https://www.cnn.com/2026/11/27/world/spains-sanchez-stood-up-against-trump-his-own-voters-may-be-about-to-bring-him-down",
-     "published": "2026-11-27T14:50:26.525Z"
+     "title": "What we know about the Princess of Wales’ new documentary",
+     "brief": "Catherine, Princess of Wales will give an unusually personal and moving insight into life since her cancer diagnosis in a new documentary which follows her healing journey.",
+     "link": "https://www.cnn.com/2026/11/27/uk/kate-princess-of-wales-heal-cancer-documentary-gbr-intl",
+     "published": "2026-11-27T23:18:45.432Z"
     },
     {
-     "title": "Tyson Fury’s wife clarifies that he has not been diagnosed with schizophrenia",
-     "brief": "Tyson Fury ’s wife, Paris Fury, has said her husband has “never” been diagnosed with schizophrenia , days after the couple discussed an apparent diagnosis in quotes shared by Netflix ahead of the release of a…",
-     "link": "https://www.cnn.com/2026/11/27/sport/paris-tyson-fury-clarifies-schizophrenia-diagnosis-intl-scli",
-     "published": "2026-11-27T14:49:26.502Z"
+     "title": "New York City Mayor Zohran Mamdani undergoes surgery after a soccer injury",
+     "brief": "The mayor of America’s largest city got benched on Friday.",
+     "link": "https://www.cnn.com/2026/11/27/us/mamdani-surgery-achilles-tendon",
+     "published": "2026-11-27T23:17:45.477Z"
     },
     {
-     "title": "For Nike, a comeback is a marathon and not a sprint",
-     "brief": "Nike CEO Elliott Hill is clear-eyed about his company’s problems, bluntly telling a packed room at the company’s first investor event in a decade: “We’re not where we want to be.”",
-     "link": "https://www.cnn.com/2026/11/27/business/nike-comeback-turnaround-plan",
-     "published": "2026-11-27T14:48:26.520Z"
+     "title": "Costa Rica bars UN special rapporteur on Palestinian territories from entering country over ‘links to terrorist acts’",
+     "brief": "Costa Rica has denied entry to a United Nations special rapporteur focused on the human rights of Palestinians, citing national security concerns after she was subject to an “international alert over links to…",
+     "link": "https://www.cnn.com/2026/11/27/americas/costa-rica-francesca-albanese-un-palestinians-intl-latam",
+     "published": "2026-11-27T23:16:45.446Z"
     },
     {
-     "title": "This museum wants you to get sweaty while enjoying its art",
-     "brief": "Visitors to a German museum are discovering that art can not only expand their minds, but also challenge their bodies.",
-     "link": "https://www.cnn.com/2026/11/27/travel/museum-kunstpalast-exercise-scli-intl",
-     "published": "2026-11-27T14:45:26.498Z"
+     "title": "Pentagon committed $81 million to Guantanamo migrant mission that held just 849 people",
+     "brief": "The US Defense Department spent just over $81 million on its mission supporting the Department of Homeland Security by transferring and holding migrants at Naval Station Guantanamo Bay in Cuba — despite having held…",
+     "link": "https://www.cnn.com/2026/11/27/politics/us-military-spent-81-million-migrants-guantanamo-bay",
+     "published": "2026-11-27T23:15:45.438Z"
     },
     {
-     "title": "Supreme Court to tackle AR-15 bans in blockbuster Second Amendment case",
-     "brief": "Fourteen years after a lone gunman carried out the deadliest elementary school shooting in American history, the Supreme Court is turning to a bitter legal fight over whether communities may outlaw the type of weapon…",
-     "link": "https://www.cnn.com/2026/11/27/politics/supreme-court-ar-15-ban-second-amendment",
-     "published": "2026-11-27T14:44:26.508Z"
+     "title": "OpenAI countersues Apple in ongoing trade secrets fight",
+     "brief": "OpenAI countersued Apple on Friday, accusing it of “unlawful, tortious, and unfair business practices.” It’s the latest move in an ongoing fight over trade secrets related to the two companies’ competing efforts to…",
+     "link": "https://www.cnn.com/2026/11/27/tech/openai-apple-countersuit",
+     "published": "2026-11-27T23:14:45.464Z"
+    },
+    {
+     "title": "Two missed Olympics, two devastating injuries, one world title: Skye Blakely’s long road back",
+     "brief": "Skye Blakely is doing something incredibly daring these days.",
+     "link": "https://www.cnn.com/2026/11/27/sport/skye-blakely-gymnastics-olympics",
+     "published": "2026-11-27T23:12:45.458Z"
     },
     {
      "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
@@ -54,58 +60,58 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Latest",
+     "title": "Rugby-Efficient Ireland seal fifth place with 38-14 win over Australia",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS1ctbE1vX0hjUDU1Y3hVNVphZ01sYXlxOEpNamtUT0pjVVd6WnhUM2xEMk9DU3poNUpLZkpNYVBCN0JkbF9DY2lRZG1pNUMzQVdkWGRmM3BtQ2VYT1BUcVA5MTlsWXRWODVzTWpYZGtKdmNWSHlTb1RsZ2NKdDZIQm5nUWhzdmlHZmdvNHVhS3lJOGh3QXc2V2pHS25FUQ?oc=5",
-     "published": "2026-11-27T12:30:33.000Z"
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNE1YUExTV1prMExfLWdVd3pXVVVqUVFyQ2VVYlRqOW1pMkhORnRNaEhDTG1zVk5laTAzQzhkdGF0S3RZZ3pjOFk4RE53Q0dFQ3ltajFsTld1M0JIOFFsd2JXQ1lLN2xnYjY0WWhlVlZOM3dMOVM2V3E2ZmwyR1dnTHBZa3AzYUF6RnNOd0JlRXNBSmNqYVBiclJkNFVjanpWeERFUDEzcWRRZjRBVllSOFZ3UG5UQWdDRURZaA?oc=5",
+     "published": "2026-11-27T22:28:00.000Z"
     },
     {
-     "title": "Badminton: Zi Yu-Noraqilah bow out in quarter-finals",
+     "title": "Football: Soccer-Brest go third in Ligue 1 with 1-0 win over Paris FC",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOEk5enRSRVRTWF81YW5CNDAtTGhlQ0dhVE1LSkhEU2JueF83a0haOVN1ZkVQVjFXUENZa0N5S2RJNnpZSmlOTnBCZHBQSVNPeXdkQ0s5Vkl0V0F1bVJyNGtTY08xV2ZwYjFGRnU4d1JOV0h3eTlQNTBUeHVTN2xPTTZTUkIxd3Q3Uk5GUWhCZTFiN3VBaDlIcVZESQ?oc=5",
-     "published": "2026-11-27T12:23:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFdDbjZjeHIwRUJCNE5ET3lrR1Y4M05OZEhCVEFJSkJJcGEzLW5zS2Q2MjEtRnUzZjIyUTVxeTZVRXM4MEtidk9WMUNnenA5Tk1zamVNOWdtZU1DcWVsYUVteVdPUEpjX0tDUUlPN3hfS1AtRGI2aW1yVUdBQ0JrS2RhWC1tazdmb29oZzl1RVVOajloTEZweUoySktUcU1kTzRQeFJ4SFhLWUFaZk9NcXZ3?oc=5",
+     "published": "2026-11-27T22:14:00.000Z"
     },
     {
-     "title": "Political analyst Chandra Muzaffar passes away at 79",
+     "title": "Libyan coast guard rescues 240 migrants",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaEN2alVwendKNHh6RDE0QjhXN1d4LThyckJKeV9ZQWFIMUk5bXNQUWZQcThST0VjMGtSTWxiLXRYRjNzQlNUdllJUnBxOUFFYkRRczNjRXJtMmQ1M3V1X2oxcVJqd2IxTmlzQ081dUd6TVNyUWZYaHVGeGxBc2pMX2U0NEJkNmxyWVlaenJRM0hkRXgwcUNCbkNCTFlteDM4RU9saw?oc=5",
-     "published": "2026-11-27T12:12:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhKcEx3ZTRDaVV4ZDdBRVNCU1FKOGVGbUs4bTNqc0oyTHpXLUVOUGk4cTl0UHdiaHg0Z09yT0JJS0R1U01xVV9ZaF95cVJoVGNNXzcyX1ZTb0ZMU0N5RjFNdFlFc2xrTnU4NDlmVDJPaGVhaGxMNF8wR1p1TUdnY0RWcng4TklmcXhTWXdGU2tlQQ?oc=5",
+     "published": "2026-11-27T21:48:00.000Z"
     },
     {
-     "title": "Suspected militants kill 13 soldiers in southwest Niger, ministry says",
+     "title": "U.S. stocks close higher",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcTdFMEhIQW9jNV8wbUk1S2ZsbXRpYm9pU0R3Ul9iMHdoWmtDLWwyam5XSWpJRmZjb001V3J0MjJhVG1CX0w1VEhJOHpmOE1mdUtnMFpBME9ya242TFFpTWpKYzJoMmhteU8tamxySUN0bkE0azkwaVUyRzg4WlZzWjFEbFVxVmlxOF9YOE1XY0ZQTUtxNkhGeW5JTVI3NThveVg3YmZvR09aNHFBR3NDOWJ4T3ZLdE1YX3c?oc=5",
-     "published": "2026-11-27T11:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcW1DZDZQR3RPeVFDc3hXcVplWUFRa2pnVkxEV3BfM05NTjk4ZE9kZmNCRnZlR2YyUWhyNDktclgyOXN3SVpQRDhsekZlTm5aVjh5eEZ6cG0zdi1GTGxzSG5XenljZFFVeGhCU3h6UkoxMGhIbTl5SmxlNA?oc=5",
+     "published": "2026-11-27T21:17:00.000Z"
     },
     {
-     "title": "Reach Ten expects stronger recurring revenue from fibre, Starlink deployments",
+     "title": "Canada unveils first-ever federal forest strategy",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUmlXaUdFYlpMRERMZWFzLV92aXVsTE5aQVl3X2NIU0oxOFFlMFlvTmdkTkl0WXlXcTdkbGhKQ1FGRkQ4NU90ZGMtbFFpWEFfemZIb2tmV3l0eG5EMFkzSktXaUJ1QUplaVgyOFBOeWxPbWVGUkdZbjc5eGZ1RmFna3dFamlyRkxZMVRpZkpEb0RqaDU5dlZIOTc5dlZxSFFabExDZ2xYbUxIZl9ROHpvbThSSS13Yi1OWVkyR1h4S2xpYjRrRE4zQkR5TURjcmZIYUhv?oc=5",
-     "published": "2026-11-27T11:19:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm5VNzM5Z3p1Y0x6cXRMd2dxbmR2Sl95ekEya0RMTU9TV202YzhkLU9WUTlCTEZISTFXdnF3R1k1eDdUS0JTeEJHZXRjbFBDblVFOWlDbTFaaUhYVGR1MExXWkFlTjF0V2s0YTRkcjVvSmRydHhyenp1SDBycDgzZTNyeEMtcmVRTDZEUXRDTHAzUm81UFpUei0tazBId3c?oc=5",
+     "published": "2026-11-27T21:07:00.000Z"
     },
     {
-     "title": "Badminton: Zii Jia forced out of semi-final hunt",
+     "title": "Cyber incident takes some UK DWP online services offline",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbVdvNUo3WUhJNDlFRDA3bGJLMHpTamZjQW4tUkJkb0lmQXl4NVhXOE5iNWk5V1lBWWZLekRRa19wSXFINE9mdzQzcnZWSDlXenNnUFBfVXFqTTFlUmVoa1BlZF9zektMS01WLVhxVlpsbFJaSnlBYjRTQ1NQZm5PSnI0c1Bkbmt5c1pQZFBoV1JXeS11QkE?oc=5",
-     "published": "2026-11-27T10:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXNfby1nTWtVVVJkQ2RWdXh5UndVVkE1RHdjRFlWbWJxYkd1MHVBNTFqYnJKbTRnRGUyUWh4NDlxM21OSHNlQ0VUZVo5Qi1JU1JnenRyWUFqNTQ1X2JXVzNvWllDVW0zZzdtaXpFZ1MySWYtOFlmYkx0TmNUeldSSjRBdWdIQzlYNzNWUUZ0ZTFpRGx2MGRUbGE3b1g5WUtEZlQzcmx1RzU?oc=5",
+     "published": "2026-11-27T20:31:00.000Z"
     },
     {
-     "title": "Authors",
+     "title": "Tunisia, UN sign 444-mln-USD cooperation framework for 2027-2031",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5tTGJRdjhFYlFGeW9SZDV6cHJtd3RoMmk5TDhheVdQUU80aW82R2diT3E3cm5KOWZlV1VIcEhCeThTSGJueHpjRU9LY3VMa0tUNExSY0pBdDdqNXpHZzVqcWtkQQ?oc=5",
-     "published": "2026-11-27T10:02:12.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHVtS3BVdFlLeFZ3eDM5eGVCR2dSOFAxSTI2TXBEREZKS2Y4REZKWC1SWTZ2dFB0cm9SdmNnangzeDQyYnlEN05ZNFdLVmVBNm45ZWtVZHM1eV9kSzU2VnNtWHlaNzJPamhjWDZ6Q2dscURuSFI1TVJ0dHhCdjJ5Yi1qejF5X2tORzVFUDR5c0V0cUQ3UWI0c3lmX1Z2OFdhemlhYUF3MmE3LWE1MFI0VUhn?oc=5",
+     "published": "2026-11-27T20:21:00.000Z"
     },
     {
-     "title": "Malaysian kids show off their creative ideas for fusion vegetables",
+     "title": "Crude futures settle lower",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOE1POC15SkNkVk9wZFp2SnFzQzRXdTVEWm5tUXR6MUkwQ3Y5WjVJdWoweUVqMVItNk11Y294dnZSRXVWaFVmcVJsUnF3MkotbjljaVJmU0IxaEhIUVZJamJjVlBZalJhc055eDhTOGRoOWtOUUF6Qk5oc08xYVZSSUNMaENyME4tUmp1M3NINGFWUzRyS3ZWaUFweDVaSXJsZk1nb2lCcVQtLXZVU28zb1dhQy1pWEJldy1DTjBB?oc=5",
-     "published": "2026-11-27T10:00:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblJzSlJLVktjWGpQWVJ2SWRvMlZqOUpyMHd2OWQxOXUzeEF2MzE4WXpzV0JIR0d0RWg0Q3Rqa3FVa1oyaHVSaExSNUZ0QnZOQVFyak10U0g0dnFyQjIyanBvbm1fRHlNYlBhWUx0eHluQV9wTUJjN1pOOVRsMlc5Sw?oc=5",
+     "published": "2026-11-27T20:11:00.000Z"
     }
    ]
   }
  },
  "log": [
-  "CNN: 7 items from https://lite.cnn.com/",
+  "CNN: 8 items from https://lite.cnn.com/",
   "The Star: https://www.thestar.com.my/rss/News/Nation -> 404",
   "The Star: https://www.thestar.com.my/rss/News -> 404",
   "The Star: 8 items from https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en"
