@@ -1,50 +1,50 @@
 {
- "updated": "2026-11-26T22:13:00.689Z",
+ "updated": "2026-11-27T04:53:33.508Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
+     "title": "Alleged Russia-directed sabotage in Europe risks mass-casualty event, think tank warns",
+     "brief": "",
+     "link": "https://www.cnn.com/2026/11/26/europe/russias-europe-ukraine-iiss-report-intl-hnk-ml",
+     "published": "2026-11-26T12:00:00.000Z"
+    },
+    {
      "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
      "brief": "Saudi Arabia and Yemen’s Iran-backed Houthis are trading increasingly intense strikes on strategic sites, including oil infrastructure and ports, marking a sharp escalation in fighting between the two sides.",
      "link": "https://www.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl",
-     "published": "2026-11-26T22:11:00.846Z"
+     "published": "2026-11-26T12:00:00.000Z"
     },
     {
      "title": "European Central Bank set to appoint its first Spanish leader",
      "brief": "The European Central Bank is set to name Pablo Hernández de Cos as its next president, marking the first time that Spain will helm one of the world’s most influential central banks.",
      "link": "https://www.cnn.com/2026/11/26/business/ecb-president-pablo-hernandez-de-cos-intl",
-     "published": "2026-11-26T22:10:00.861Z"
+     "published": "2026-11-26T12:00:00.000Z"
     },
     {
      "title": "Two Italians killed in alleged Iranian drone attack on Kuwait; Tehran denies involvement",
      "brief": "Two Italian nationals were killed on Thursday in an Iranian drone attack on the Gulf nation of Kuwait, Italy’s Foreign Minister said.",
      "link": "https://www.cnn.com/2026/11/26/middleeast/italians-killed-iranian-attack-kuwait-intl",
-     "published": "2026-11-26T22:09:00.870Z"
+     "published": "2026-11-26T12:00:00.000Z"
     },
     {
      "title": "Putin showed ‘restraint’ by not using nuclear weapons, Kushner says",
      "brief": "Russian President Vladimir Putin has “shown restraint” by not using nuclear weapons in the conflict with Ukraine, White House envoy Jared Kushner has said, while describing the Russian leader as a “grand man of…",
      "link": "https://www.cnn.com/2026/11/26/world/putin-restraint-nuclear-ukraine-kushner-intl",
-     "published": "2026-11-26T22:08:00.856Z"
-    },
-    {
-     "title": "Israel intensifies assassinations in Gaza as US urges Netanyahu to proceed with ceasefire plan",
-     "brief": "Israel has intensified its campaign of targeted assassinations in Gaza, striking and killing Hamas commanders and political leaders, as the Trump administration urges Prime Minister Benjamin Netanyahu to proceed with…",
-     "link": "https://www.cnn.com/2026/11/26/middleeast/israel-gaza-assassinations-intl",
-     "published": "2026-11-26T22:06:00.852Z"
-    },
-    {
-     "title": "The government says Iowa detonation results exceeded expectations. Now what?",
-     "brief": "Two hazy plumes rose over the Iowa Army Ammunition Plant Wednesday morning, punctuating days of legal battles and public outcry over the Army’s plan to detonate nearly five tons of deteriorating lead azide.",
-     "link": "https://www.cnn.com/2026/11/25/us/iowa-lead-detonation-what-next",
-     "published": "2026-11-25T12:00:00.000Z"
+     "published": "2026-11-26T12:00:00.000Z"
     },
     {
      "title": "At least 31 killed in fuel tanker fire near Cairo, Egyptian authorities say",
      "brief": "A tanker truck carrying petroleum products crashed in Egypt’s Giza governorate Wednesday, igniting a massive fire that killed at least 31 people and injured 21 others, according to Egyptian authorities.",
      "link": "https://www.cnn.com/2026/11/25/middleeast/cairo-egypt-tanker-fire-latam-intl",
+     "published": "2026-11-25T12:00:00.000Z"
+    },
+    {
+     "title": "The government says Iowa detonation results exceeded expectations. Now what?",
+     "brief": "Two hazy plumes rose over the Iowa Army Ammunition Plant Wednesday morning, punctuating days of legal battles and public outcry over the Army’s plan to detonate nearly five tons of deteriorating lead azide.",
+     "link": "https://www.cnn.com/2026/11/25/us/iowa-lead-detonation-what-next",
      "published": "2026-11-25T12:00:00.000Z"
     },
     {
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Final New Zealand election vote count to confirm parliament make up",
+     "title": "Malaysia's PPI rises 14% in Oct 2026 - DOSM",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM256bjNTUFBDaHVZeW5vZnlKR1ZoUmxqb19yRkR6OGJOYk0weV9CMlZmVHFtaGtiamk4TmwxZFBvVExIMTFHR2dzTzFENDZmY181WlRFWGZaTUJuZ2RTNEN4SENBMFB2OC1WVUZCckxHUVR2ZTNqMVJnejBlZDFCZkItbm12UlZnNnJ6THdHZGlaRENLMHBuV1lTal9JMGV2Ync1Mkd0bG9RTUE1ZlpFdVptSVg5NjA?oc=5",
-     "published": "2026-11-26T21:09:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOUhIWGhYTmlEbVpMN2x6WDNwblBpY293U1RPbXY1THJDOE1zOUVYRHY3d000TktMTUZxSnhmYmVQc1ZYOVRPNXlWSTk3UlNiRWpFSTJfOXlxbEZISGJCem11OFd0bnBxTmxCMzQ1M2pRVDUxQW55ekZKRHczVENxeHdhVUZfeXlvWkJDM3VJQ1Rxa2s5U0txNVRyV0hOak0xVGR1VWlxN0w?oc=5",
+     "published": "2026-11-27T04:39:00.000Z"
     },
     {
-     "title": "Christmas Market lights up Tallinn's UNESCO-listed Old Town",
+     "title": "Keeping the power switched on",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazF2Y3NHYzNoWTU4OXVHUzNxaVVfczJ1akRqR0hvUTRjdTJRcXB4U1NSZi1mNm9PS2FBNUswbmczcDVENkFXRi1qdGNWTzl1NnRQQ0xlazVVWVN0aV83SVZyMVdIV1NvdGpLVmhWc19qUDNQTWhTRjVCekdxVG5LRkxMaGNhdWhweVpsWFIzN2RoZTd5MEp4dWQ3dWxEVzUxdXlyZVNCVkxRX3BSZElV?oc=5",
-     "published": "2026-11-26T20:49:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQzNmV2d3NmZSc3dpdUF1UG1WMDdVQUVVZnJPSFRXSkQ3QzFvSjVqaXg4dzJjWS0yZGt1NWpTMnBwbnA5YkxhMnRqYzJ5UHFQSUJsdEpqZjVDTTFrVFlBSi1QdG1nell0ZTI1TkpQQWdMemdLTzB4SlE3Q0xuTVM0MTdkTG5abXJMTFM1MjQzN3g?oc=5",
+     "published": "2026-11-27T04:07:30.000Z"
     },
     {
-     "title": "U.S. dollar ticks up",
+     "title": "Trying to cope with a bad COP",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyNDJ1NVJTUTVIbUVNSDhVWEQxcXdGWVRWYTIzQzMtbzN3Wkt2c0lXQUM3VGlaRHp3Z3lsM3JMRXlxcTNreE41cVhQMWVfbGFld2w0Ykc3LTJKMkRkeVBuTHZha3FYbWpzODJKNmNwOUo2dHFqSnc?oc=5",
-     "published": "2026-11-26T20:01:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNnpzQUdEVC1lOHEzT2JCN0xKajcxSFh2NmsxTXFaWlpvMVU4ZENSZGl6MkRpQnRUSk4wRG9kbHpfaXJ2dWg2Q0xJNElHdHpYM09vSkFpZk43MEtMQWlHWVZLSG1UOWlNYUdzbUt1VExZTXhzdXJXREFKV0xXU1h3SE14bkhSbUlSTjlqZEw1bEk0QS1va0RDdm9uZHpkV3M?oc=5",
+     "published": "2026-11-27T04:07:30.000Z"
     },
     {
-     "title": "Azerbaijan's petroleum product exports surge 52.5 pct in January-October",
+     "title": "Glomac's net profit soars to RM18.89mil in 2Q",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZVBxems1S2REZHdibHhYOEFEWHlNRk5QRmxzaFFoTkJPTTY0bzZTRVc3aGthWC1zTjY4dlY3TDdvTTBlMXRCNDNUN3JMV09UZkFLVl8xWkZRaVdHdFk4TnBqNTBzd2VmTzBHQXhNQTB2SURPdTJpNjExRnFhdWRVVEh6aFU1ZU9tTS1wb0xockl6bFZ5aVQ4NmlnYnNJTXl3MXpCeXJGUVRpU3FTZzJxQlQ3bzVBQk1LUXp1TnZQSQ?oc=5",
-     "published": "2026-11-26T19:47:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFgyZTZGdGRmS3pPQkczenVtYTgwWWJWaFFOSU9IZXJyVEpaMnR6VDduTE9LNXgzeXMtVGNONnFxbWhCX0RhbzkyRDhmZWVGbVU2MmtYNnpySm5oaVd2THZMMzU3QXlORlpNNU9peUVPbFFlM1dETDdaTmNnYUR1YmlKdlhmMFVBTWdGOHYxWnZTWXZsWGVnbmlBTllZaFBJcEpEOG92akxNckU?oc=5",
+     "published": "2026-11-27T04:03:00.000Z"
     },
     {
-     "title": "BiH authorities warn of possible river flooding amid heavy rain",
+     "title": "Sedania's fintech solutions drive earnings higher in 1Q",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWlhJLUZYcXBUcm91ZGwxcTNqUDJUem9TSUh4YTdSRFFVWml0RGd3c1lGRlkweC1VcXRmUGFpQmpvOENFSGgwaHNseW1ZRnplZnRaSTNxQnVPMWs2V29oNkNMYzQxb2w4TFJ3emlGWV92TWJ1empCWWpLUDVhWHFWclV3dThoVlAyUjNTcDM0WmdrTzRhOEU2Vnc5NWo2MERXU1MzVTBvdUY3b2puSUNLSjJn?oc=5",
-     "published": "2026-11-26T19:39:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWFNjZ1RVeUlLRlNiak5uZkgtQ0ZoTGhzYl9zVnVjdkl3WEtmNHlJWmpqYXFhLUFxZTk0LUlQWW5waWU5aTRyNEd6VGlJTVR5VlQ5Q2gzMkpNNkNOQm1oeF9PT1k4Y2s2WWVoMkRtSmhOWWNTY3JTTjJ4Sy1heDZYWTd6Ri1WeGw0cjd2cUxhR1V4QUhqQWNQSnFGRnE3cnBjQnQ5ZGxtQTI2RzhxSm5hdWx2VHo5OWI3SGc?oc=5",
+     "published": "2026-11-27T02:49:00.000Z"
     },
     {
-     "title": "V4, Austria agree to step up security cooperation",
+     "title": "What the participants say",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3FaeFM1UGpNcmtvM291Q3MySEZjM0laeEg5OFRsaG5SUnpwMC0ycG1ObUp0QlR5dGUtMHl0bGpUU1lNcXVMWDV2bUtsRU9WMXgxdTQ3ZGNmTFRoa09PY3RaYkpfRW43S0pwdzRUMnlqNDJ1ZkQ1T2x0SkxqMXMwel9NcnFSeXF0Ul81U0hfa0I0UW5XMVk1UldLelNCdw?oc=5",
-     "published": "2026-11-26T19:20:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51Q1cwTlNTaUtTTWJ6Y0txNk9xWmZsQllUa0V3ZXRScTBSbEhJbDB2eEMwX2JlR2VKZEZUUFRsUnpIOGh6NE12RVRodVUwSXJ2bVZ6ZWpmUkdXeWxnUTluM2stWWVMQWFOaTJqd09PNDUyM2U0bGc?oc=5",
+     "published": "2026-11-27T01:26:30.000Z"
     },
     {
-     "title": "Latest",
+     "title": "Bursa Malaysia expected to extend recovery after volatile week",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeXRnSlZ1akQ4TDhKdzg2TGVfd0JLZGpabERQOGVmbXE1M1hZcWlmTExBdzZpeXZTemxKRWNqS3RKSGhuV2dvcFhiTTZCNDNKQjlNaFh2QzlfbmZvNV8wd25aMVNpb1pkWk1UZl91UzJwZXFKRXIzei1FUWZucWRwOUY5SWQxQmJLNXhJcDZySGd1LUJEYUpKag?oc=5",
-     "published": "2026-11-26T19:03:56.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS0VwOEhNUDFTN3FTRHAyVmZqcHlUM0twb01pNjdlS2ZyaDFiTXhzajlvSlFESTdXbHNuclVLVmlCRWhlZktJekViX3VuWUptMXBQQUtRMzdYQUVBS0phS1pVekR5aVhvX3k3VjAzZ2JsOGJJN0FENlVmX01kQ3JvRU9JS1p4eTB1NUpqM0Nnai01alNHTjJ3QnFPMGd2Snh1Y3Voa3h6WkhHMmZIQUxTTldZTzRUcVltREltQk9PSzc?oc=5",
+     "published": "2026-11-27T01:26:00.000Z"
     },
     {
-     "title": "Fire prompts worker evacuation at Venezuela's Amuay refinery, sources say",
+     "title": "Chin Hin sells RM51mil stake",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamp5SnN5V0xhRzI3OGpYSGMtNXU3QzBQUUVSdU1fS2Z6UmxlQzNyMnE0RkFmMFdlMV9scWQ4T0tCWUhLRGlQV0h6Sk5GVHFCMmdLTjg5dFYzWUpRTEx1VU85a3I0cWxhcmZYdXNPaTJHRlo3UlJSMGFLTVR1Ym1HVXZ4Sm00SDFZb2RNd29CT09DVXZtcDNTX3pGMUl2VXdHRF91OU94ZFZzRlI0REEyLUx6RXJRc0FLRXBqcE1TMFk?oc=5",
-     "published": "2026-11-26T18:58:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbzVBOU1QalFiR0R4V0JCdFlsZ3E3NEZiNk9fUnI1T3FrMUFiblVLZ0ZDakFfZjFiUXEySy1Bbk5BU01LdWtXYzM1QXc3dTNkbnpOZTc1Mkw5WjZhQUJqa0xpdEU3VG1ITGM3YnlUb1p6UGN5Yy14eU5BWFJwamhCMnZsVFVRRDhwVm5uVTN4bl9iUjQ?oc=5",
+     "published": "2026-11-27T01:22:26.000Z"
     }
    ]
   }
