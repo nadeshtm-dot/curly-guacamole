@@ -1,57 +1,57 @@
 {
- "updated": "2026-11-27T23:19:45.170Z",
+ "updated": "2026-11-28T07:21:52.313Z",
  "sources": {
   "cnn": {
    "name": "CNN",
    "feed": "https://lite.cnn.com/",
    "items": [
     {
-     "title": "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
-     "brief": "They had rehearsed music, memorized formations and traveled hundreds of miles away from home over the holiday to perform at Macy’s Thanksgiving Day Parade in New York City.",
-     "link": "https://www.cnn.com/2026/11/27/us/macys-thanksgiving-parade-marching-bands",
-     "published": "2026-11-27T23:19:45.409Z"
-    },
-    {
-     "title": "What we know about the Princess of Wales’ new documentary",
-     "brief": "Catherine, Princess of Wales will give an unusually personal and moving insight into life since her cancer diagnosis in a new documentary which follows her healing journey.",
-     "link": "https://www.cnn.com/2026/11/27/uk/kate-princess-of-wales-heal-cancer-documentary-gbr-intl",
-     "published": "2026-11-27T23:18:45.432Z"
-    },
-    {
-     "title": "New York City Mayor Zohran Mamdani undergoes surgery after a soccer injury",
-     "brief": "The mayor of America’s largest city got benched on Friday.",
-     "link": "https://www.cnn.com/2026/11/27/us/mamdani-surgery-achilles-tendon",
-     "published": "2026-11-27T23:17:45.477Z"
+     "title": "Preliminary tests show no lead in water bodies near Iowa detonation, EPA says",
+     "brief": "Three days after volatile materials were detonated at an Iowa ammunition plant, a first set of preliminary tests from around the site show no elevated lead levels in public water supplies, the Environmental…",
+     "link": "https://www.cnn.com/2026/11/28/us/test-results-lead-iowa-detonation-hnk",
+     "published": "2026-11-28T07:20:52.523Z"
     },
     {
      "title": "Costa Rica bars UN special rapporteur on Palestinian territories from entering country over ‘links to terrorist acts’",
      "brief": "Costa Rica has denied entry to a United Nations special rapporteur focused on the human rights of Palestinians, citing national security concerns after she was subject to an “international alert over links to…",
      "link": "https://www.cnn.com/2026/11/27/americas/costa-rica-francesca-albanese-un-palestinians-intl-latam",
-     "published": "2026-11-27T23:16:45.446Z"
+     "published": "2026-11-27T12:00:00.000Z"
     },
     {
-     "title": "Pentagon committed $81 million to Guantanamo migrant mission that held just 849 people",
-     "brief": "The US Defense Department spent just over $81 million on its mission supporting the Department of Homeland Security by transferring and holding migrants at Naval Station Guantanamo Bay in Cuba — despite having held…",
-     "link": "https://www.cnn.com/2026/11/27/politics/us-military-spent-81-million-migrants-guantanamo-bay",
-     "published": "2026-11-27T23:15:45.438Z"
+     "title": "Federal regulators shut $6 billion Indiana lender in biggest bank failure in over two years",
+     "brief": "Federal regulators shut down Indiana-based United Fidelity on Friday night, marking the biggest US bank failure since April 2024.",
+     "link": "https://www.cnn.com/2026/11/27/business/united-fidelity-bank-fdic",
+     "published": "2026-11-27T12:00:00.000Z"
     },
     {
      "title": "OpenAI countersues Apple in ongoing trade secrets fight",
      "brief": "OpenAI countersued Apple on Friday, accusing it of “unlawful, tortious, and unfair business practices.” It’s the latest move in an ongoing fight over trade secrets related to the two companies’ competing efforts to…",
      "link": "https://www.cnn.com/2026/11/27/tech/openai-apple-countersuit",
-     "published": "2026-11-27T23:14:45.464Z"
+     "published": "2026-11-27T12:00:00.000Z"
     },
     {
-     "title": "Two missed Olympics, two devastating injuries, one world title: Skye Blakely’s long road back",
-     "brief": "Skye Blakely is doing something incredibly daring these days.",
-     "link": "https://www.cnn.com/2026/11/27/sport/skye-blakely-gymnastics-olympics",
-     "published": "2026-11-27T23:12:45.458Z"
+     "title": "WWE star Bronson Reed dies at 38 due to ‘medical complications’",
+     "brief": "Bronson Reed, World Wrestling Entertainment (WWE) star, has died at 38, the company announced on Friday.",
+     "link": "https://www.cnn.com/2026/11/27/sport/bronson-reed-wwe-dies",
+     "published": "2026-11-27T12:00:00.000Z"
     },
     {
-     "title": "Houthis strike Saudi oil infrastructure as Riyadh intensifies attacks on Yemen",
-     "brief": "Saudi Arabia and Yemen’s Iran-backed Houthis are trading increasingly intense strikes on strategic sites, including oil infrastructure and ports, marking a sharp escalation in fighting between the two sides.",
-     "link": "https://www.cnn.com/2026/11/26/middleeast/houthi-saudi-oil-refinery-strike-satellite-imagery-intl",
-     "published": "2026-11-26T12:00:00.000Z"
+     "title": "American Airlines jets clip wings at Washington DC area airport",
+     "brief": "Two American Airlines Boeing 737s clipped wings while taxiing for departure at Ronald Reagan Washington National Airport Friday evening, according to the Federal Aviation Administration.",
+     "link": "https://www.cnn.com/2026/11/27/us/american-airlines-jet-clips-wing-reagan-national",
+     "published": "2026-11-27T12:00:00.000Z"
+    },
+    {
+     "title": "They came to New York City to perform in the parade. Mother Nature gave them new marching orders instead",
+     "brief": "They had rehearsed music, memorized formations and traveled hundreds of miles away from home over the holiday to perform at Macy’s Thanksgiving Day Parade in New York City.",
+     "link": "https://www.cnn.com/2026/11/27/us/macys-thanksgiving-parade-marching-bands",
+     "published": "2026-11-27T12:00:00.000Z"
+    },
+    {
+     "title": "What we know about the Princess of Wales’ new documentary",
+     "brief": "Catherine, Princess of Wales will give an unusually personal and moving insight into life since her cancer diagnosis in a new documentary which follows her healing journey.",
+     "link": "https://www.cnn.com/2026/11/27/uk/kate-princess-of-wales-heal-cancer-documentary-gbr-intl",
+     "published": "2026-11-27T12:00:00.000Z"
     }
    ]
   },
@@ -60,52 +60,52 @@
    "feed": "https://news.google.com/rss/search?q=site:thestar.com.my+when:1d&hl=en-MY&gl=MY&ceid=MY:en",
    "items": [
     {
-     "title": "Rugby-Efficient Ireland seal fifth place with 38-14 win over Australia",
+     "title": "Use AI to fight AI-generated misinformation, says Fahmi",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNE1YUExTV1prMExfLWdVd3pXVVVqUVFyQ2VVYlRqOW1pMkhORnRNaEhDTG1zVk5laTAzQzhkdGF0S3RZZ3pjOFk4RE53Q0dFQ3ltajFsTld1M0JIOFFsd2JXQ1lLN2xnYjY0WWhlVlZOM3dMOVM2V3E2ZmwyR1dnTHBZa3AzYUF6RnNOd0JlRXNBSmNqYVBiclJkNFVjanpWeERFUDEzcWRRZjRBVllSOFZ3UG5UQWdDRURZaA?oc=5",
-     "published": "2026-11-27T22:28:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaUlCcFh5VzdUUHY1cTNwS1BzbXpiYVo4ZURLVTZrWUJDZkpkNzBDNDlObGxPSkhuWlN4MmJsUkZOcDhjVVo5RXBYUzE1OVV6ZFBYdTlTeUtJM0c1Z3d0b0l2ZFZkM0NHOVFzMS1mSFdielpBcTBCV211Skk3ekstb0pZakpZMUxPcHhFNHBrc1FZQjV4WkI3RGk3VmVRVmlRUnJsSHRLVQ?oc=5",
+     "published": "2026-11-28T07:08:00.000Z"
     },
     {
-     "title": "Football: Soccer-Brest go third in Ligue 1 with 1-0 win over Paris FC",
+     "title": "Wild boar injures four people in attack at Japanese massage parlour",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRFdDbjZjeHIwRUJCNE5ET3lrR1Y4M05OZEhCVEFJSkJJcGEzLW5zS2Q2MjEtRnUzZjIyUTVxeTZVRXM4MEtidk9WMUNnenA5Tk1zamVNOWdtZU1DcWVsYUVteVdPUEpjX0tDUUlPN3hfS1AtRGI2aW1yVUdBQ0JrS2RhWC1tazdmb29oZzl1RVVOajloTEZweUoySktUcU1kTzRQeFJ4SFhLWUFaZk9NcXZ3?oc=5",
-     "published": "2026-11-27T22:14:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV2JwRHRtRFpiYnRPM29WZ2pWOGJ5RUx1UHh3OTM2Znh0ZVJIVTY5S0JHZFhwLTlCaE9wVjNvQTI1alBjU2dTaThaY0pud0N6ckVRczJWUzR0SkVZaXFfYzB1QXhFYjZSVFAxZGNLMzJrN2lWSEw1YnRPOGhhQlhZcmM3S1VUTlczVkROcWJXczRJYzIyRWhYWm8zWnpGZWRIa1BQbFpyb1VsaUc0ajlGSkgxckR4OTBpMDhUUng0OWkxRkcxRWp1dDh3?oc=5",
+     "published": "2026-11-28T06:18:00.000Z"
     },
     {
-     "title": "Libyan coast guard rescues 240 migrants",
+     "title": "Seoul monitoring signs of possible Kim Jong-un visit to China",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPenhKcEx3ZTRDaVV4ZDdBRVNCU1FKOGVGbUs4bTNqc0oyTHpXLUVOUGk4cTl0UHdiaHg0Z09yT0JJS0R1U01xVV9ZaF95cVJoVGNNXzcyX1ZTb0ZMU0N5RjFNdFlFc2xrTnU4NDlmVDJPaGVhaGxMNF8wR1p1TUdnY0RWcng4TklmcXhTWXdGU2tlQQ?oc=5",
-     "published": "2026-11-27T21:48:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxObUhoeXBvODFJc0JYbG16dWRxRGcxWWkybGZmMWtPc3lEVExwbG11VFJHLVZiMTVJbW1NUHhHZ0IxT2d6MUZpeXFjSEdoWmRMMzI1bEhkUUN0b014VjZoT1Q5eG9vM3FUYnNBRXd6a3BxWFZQcFRWRUtQMzg4NzAyUjh5THZDaTlPN1h2YVM0MnA1MF9HWGZUMEFaNXg5VXRxekJaMGg0eWxIVzNhSENXUlBuSWF5V1dsNE0yRGM2Q3pGQQ?oc=5",
+     "published": "2026-11-28T04:36:00.000Z"
     },
     {
-     "title": "U.S. stocks close higher",
+     "title": "Football: Soccer-Columbus knock out Messi's Inter Miami with stoppage-time winner",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcW1DZDZQR3RPeVFDc3hXcVplWUFRa2pnVkxEV3BfM05NTjk4ZE9kZmNCRnZlR2YyUWhyNDktclgyOXN3SVpQRDhsekZlTm5aVjh5eEZ6cG0zdi1GTGxzSG5XenljZFFVeGhCU3h6UkoxMGhIbTl5SmxlNA?oc=5",
-     "published": "2026-11-27T21:17:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZ1laZWlWc3VxR0ROVDJTUEpWTEsxRTZuQ1NQRjVvT1ZUV3dlWUcwZDRtTFJzV3FjczcwN3hvVkJURTdNWmJVdlBzMjZWSnM4enNtUjVIQnZUZnl5X3VJbDNRM3REUE52UVpTRGNuMDY1cVZkTlFyQ29vdXBRVlRrRlVIN3lyTHVzWEduZ3VKQkJNalk5akNWVEdWN1RLdXN2VlBKVV9SazFvTVZGbFJIVng3SEM3TjFXNFFXcXVIOVNqZmxu?oc=5",
+     "published": "2026-11-28T03:49:00.000Z"
     },
     {
-     "title": "Canada unveils first-ever federal forest strategy",
+     "title": "Cricket-India 59 for three in reply to New Zealand's 356 at tea in second test",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbm5VNzM5Z3p1Y0x6cXRMd2dxbmR2Sl95ekEya0RMTU9TV202YzhkLU9WUTlCTEZISTFXdnF3R1k1eDdUS0JTeEJHZXRjbFBDblVFOWlDbTFaaUhYVGR1MExXWkFlTjF0V2s0YTRkcjVvSmRydHhyenp1SDBycDgzZTNyeEMtcmVRTDZEUXRDTHAzUm81UFpUei0tazBId3c?oc=5",
-     "published": "2026-11-27T21:07:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUDlUSWQwQUg3UXVRTDFyaldGOXFoR1VpNlg2c3hFeDRUcUkzVTZxMWJNZkJUcjhwVGlyaUxOdEZmSThVRmlONzl3Q0lIOWVSb0hacTFNeG9GeHRzT0ZEaW1BdVBDRmJoMV9ORzBfY3lwaVo2ekFQQ3ViQVlzYms3MV95TUtHTE9EYnBJSzM3SWwxejkxME52OXdXUU1XUjFNeF81MmRnVm9pYWpXdnRaZ182cXRaYkZTSVhkTk1ud1k4OEgyQng5MU82N0U?oc=5",
+     "published": "2026-11-28T03:18:00.000Z"
     },
     {
-     "title": "Cyber incident takes some UK DWP online services offline",
+     "title": "CIA was hacked, but what did the attackers actually get?",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSXNfby1nTWtVVVJkQ2RWdXh5UndVVkE1RHdjRFlWbWJxYkd1MHVBNTFqYnJKbTRnRGUyUWh4NDlxM21OSHNlQ0VUZVo5Qi1JU1JnenRyWUFqNTQ1X2JXVzNvWllDVW0zZzdtaXpFZ1MySWYtOFlmYkx0TmNUeldSSjRBdWdIQzlYNzNWUUZ0ZTFpRGx2MGRUbGE3b1g5WUtEZlQzcmx1RzU?oc=5",
-     "published": "2026-11-27T20:31:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRWJEdzNjTVpDWkRCNkxESlRRZFNLVFEwTUYxVWV5TlMwbHRmUHBkQzhMY0hDRHpFMDFiVlF4eXF2MzdfeHU4aUVsNGV6VF9waVpRcm5hWnc4ZzB5QlZfZE9VRDIyeEYwSURPRzRydHpldVVhV3RkTlFDRHNTNmpGZ054NkR3aTFiVWtIVXZVMzEwLXN1SE9qVlg1RjRaU05CYU9XNk4yaDM0OWM?oc=5",
+     "published": "2026-11-28T03:00:00.000Z"
     },
     {
-     "title": "Tunisia, UN sign 444-mln-USD cooperation framework for 2027-2031",
+     "title": "Cricket-O'Rourke returns to New Zealand squad for test tour of Australia",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHVtS3BVdFlLeFZ3eDM5eGVCR2dSOFAxSTI2TXBEREZKS2Y4REZKWC1SWTZ2dFB0cm9SdmNnangzeDQyYnlEN05ZNFdLVmVBNm45ZWtVZHM1eV9kSzU2VnNtWHlaNzJPamhjWDZ6Q2dscURuSFI1TVJ0dHhCdjJ5Yi1qejF5X2tORzVFUDR5c0V0cUQ3UWI0c3lmX1Z2OFdhemlhYUF3MmE3LWE1MFI0VUhn?oc=5",
-     "published": "2026-11-27T20:21:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmw1akJjaF9JMko2RUFFamVhdjZ2aEppNzI0TElrUWk4RTFJMTVfRkx2X091cFg2T2VBU0FPOWFOc3Y1T1VVSGJSbVdqaTlERmlQd0NyQU1mYkxITnNOX1JLYVpyVGNRWXJ1QWN6SWpuUlJMWlJOYzE5UnRWLVBicjlMVEVYWUp3eW13clpORURjM1RUZkdTNF9idVUtQmhYTC1hdHNPYll6OHlCVkszRm5HRnZEMkx2N0FPYXNKdTZ2bi1s?oc=5",
+     "published": "2026-11-28T02:58:00.000Z"
     },
     {
-     "title": "Crude futures settle lower",
+     "title": "Sarawak polls: GPS uncontested in about 30 seats, says Abang Jo",
      "brief": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQblJzSlJLVktjWGpQWVJ2SWRvMlZqOUpyMHd2OWQxOXUzeEF2MzE4WXpzV0JIR0d0RWg0Q3Rqa3FVa1oyaHVSaExSNUZ0QnZOQVFyak10U0g0dnFyQjIyanBvbm1fRHlNYlBhWUx0eHluQV9wTUJjN1pOOVRsMlc5Sw?oc=5",
-     "published": "2026-11-27T20:11:00.000Z"
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdVdPTFBORW9aU05VTU5nMnk5bTR0MmlKUUstLXpUMndnZ3ZMUF9HcjJCTjFmN0VDd3RpY2RvVFNYNE04RDQzdUR4dDVsS3lqU1hOZTdub0xvNllqNUFaSDI4a01nMEluTEpUVUxKUW05bjdlUXZjTmhSRU9EUWhrUkNRaExNdTduaHRURjg5T2RZanVqQ0tmVFNuQVNFMTZHamRKY05lcS1tN2dKRUtORA?oc=5",
+     "published": "2026-11-28T02:46:00.000Z"
     }
    ]
   }
